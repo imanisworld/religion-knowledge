@@ -1,17 +1,17 @@
 {
   "parser_version": "1.1.2",
   "canonical_files": 7,
-  "records": 1198,
+  "records": 1206,
   "warnings": 7,
   "review_required": 650,
   "provenance_counts": {
     "MY_WORDS": 24,
     "REVIEW_REQUIRED": 650,
     "SOURCE": 136,
-    "CLAUDE": 388
+    "CLAUDE": 396
   },
   "record_type_counts": {
-    "OBSERVATION": 944,
+    "OBSERVATION": 952,
     "POSITION": 1,
     "AUDIT_NOTE": 112,
     "CLAIM": 4,
@@ -44,8 +44,8 @@
     {
       "source_file": "Historical_Framework.md",
       "file": "records.history.js",
-      "records": 86,
-      "size_bytes": 140451
+      "records": 94,
+      "size_bytes": 156563
     },
     {
       "source_file": "Sources_and_Primary_Texts.md",

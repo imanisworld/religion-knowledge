@@ -26,7 +26,7 @@ Before any dates, the categories. Most bad arguments — on both sides — are c
 
 ### 1.1 The four evidence classes
 
-**Contemporary documentary.** Written at the time by someone with access. Assyrian royal annals, Egyptian stelae, Babylonian chronicles, Roman administrative records, papyri, inscriptions. Strongest class, but never neutral — royal annals are propaganda and never record defeats.
+**Contemporary documentary.** Written at the time by someone with access. Assyrian royal annals, Egyptian stelae, Babylonian chronicles, Roman administrative records, papyri, inscriptions. Strongest class, but never neutral — royal annals are propaganda and typically minimize or omit defeats.
 
 **Archaeological.** Material remains: settlement patterns, destruction layers, pottery sequence, epigraphy, burials. Excellent for *populations, economies, and settings*. Poor for *events and individuals* unless something is inscribed. Archaeology can tell you a city burned; it usually cannot tell you who burned it or why.
 
@@ -46,7 +46,7 @@ That third one does the most work. Five sources that all copy one source are one
 
 Archaeology routinely confirms that biblical texts know their **setting** — real cities, real officials, real customs, real titles. This is genuine and should be conceded without hesitation.
 
-It is a separate question whether the **events** happened. A novel set in 1920s Chicago that gets the streets, mayors, and streetcar fares right is still a novel. Confirming the backdrop is not confirming the plot.
+It is a separate question whether the **events** happened. A novel set in 1920s Chicago that gets the streets, mayors, and streetcar fares right is still a novel. Confirming the backdrop is not confirming the plot. ⟨INFERENCE — an analogy that clarifies the distinction, not evidence about any particular text.⟩
 
 **Use this line:** *"That confirms the author knew the world. It doesn't confirm the story."*
 
@@ -59,11 +59,11 @@ Memorize this and you can place anything. Dates before roughly 900 BCE are appro
 | Date | Event | Evidence status |
 |---|---|---|
 | c. 1550–1200 BCE | Egyptian New Kingdom controls Canaan | Firm — Egyptian records, Amarna letters |
-| c. 1200 BCE | Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean | Firm — destruction layers everywhere |
+| c. 1200 BCE | Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean | Firm — widespread disruption and destruction across many centers |
 | c. 1208 BCE | **Merneptah Stele** — earliest extrabiblical mention of "Israel," as a people, not a place | Firm — the object exists |
 | c. 1200–1000 BCE | Highland settlement in Canaan: hundreds of small unwalled villages | Firm — survey archaeology |
 
-**What this means.** The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like *gradual settlement of Canaanite highlands*, not conquest from outside. There is no destruction horizon matching the Joshua conquest, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.
+**What this means.** The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like *gradual settlement of Canaanite highlands*, not conquest from outside. No archaeological pattern supports a single rapid conquest of Canaan at the scale Joshua describes, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.
 
 ### 2.2 Monarchy, Assyria, Babylon
 
@@ -77,8 +77,21 @@ Memorize this and you can place anything. Dates before roughly 900 BCE are appro
 | c. 622 BCE | Josiah's reform; "book of the law" found in the Temple | Biblical only |
 | 597 BCE | First Babylonian deportation | Firm — Babylonian Chronicles |
 | 586 BCE | Jerusalem falls; First Temple destroyed | Firm |
-| 539 BCE | Cyrus takes Babylon; **Cyrus Cylinder** records his repatriation policy | Firm |
+| 539 BCE | Cyrus takes Babylon | Firm |
+| 539 BCE | **Cyrus Cylinder** — Babylonian propaganda text. **Does NOT mention Judah, Jerusalem, or Jews.** See §2.2a | Object firm; relevance to Judean return indirect and debated |
 | c. 516 BCE | Second Temple completed | Reasonably firm |
+
+### 2.2a ⚑ CORRECTION — the Cyrus Cylinder
+
+**Corrected 7 Aug 2026 after external audit. The original entry said the Cylinder "records his repatriation policy," which overstates it in the direction of the biblical account.**
+
+**What the Cylinder actually is.** A royal proclamation in standard Babylonian literary form, legitimising a new dynasty. It denounces Nabonidus for neglecting Marduk, presents Marduk as choosing Cyrus, and claims Cyrus restored Babylonian cult practice and let displaced peoples return and rebuild sanctuaries. **It names Mesopotamian cities. No mention of Judah or Jerusalem appears in the surviving text.** The Smithsonian states plainly that the Cylinder does not mention the Jews by name.
+
+**Stronger objection still.** Amélie Kuhrt argues the restoration language is a literary device contrasting Cyrus's piety with Nabonidus's blasphemy, not a description of policy actually carried out — on that reading the Cylinder sheds no light on the Jerusalem temple or a Judean return at all.
+
+**Where the error came from, and this is the useful part** ⟨INFERENCE⟩**:** the "Cyrus Cylinder confirms Ezra" framing is pushed hard by Associates for Biblical Research — the same evangelical apologetics organisation flagged in the *eleph* audit — who claim it "establishes beyond doubt" Cyrus's repatriation policy. **The same failure as the *eleph* argument, in the opposite direction:** an apologetic framing absorbed as neutral background because it was convenient shorthand.
+
+**CORRECTED:** *The Cyrus Cylinder is contextual evidence for Persian-period restoration rhetoric. It is not confirmation of Ezra, and it says nothing about Judeans.*
 
 **The 701 BCE case is worth knowing cold.** It is the best example of independent convergence in the Hebrew Bible. Sennacherib's own annals describe shutting Hezekiah up "like a bird in a cage" — and conspicuously do not claim to have taken Jerusalem. 2 Kings says the siege lifted. Two hostile sources, one event, compatible accounts, different explanations. This is what real historical corroboration looks like, and it is rare.
 
@@ -93,7 +106,7 @@ Not *whether David existed* — the Tel Dan Stele settled that a dynasty traced 
 - **William Dever** [CRITICAL, anti-minimalist]: attacks the minimalists hard while rejecting biblical literalism.
 - **Yosef Garfinkel** [CONSERVATIVE-LEANING]: Khirbet Qeiyafa, a fortified site radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.
 
-**Correct position** ⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩**:** a David existed and founded a dynasty. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.
+**Correct position** ⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩**:** the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.
 
 ### 2.4 The gap nobody teaches: Second Temple period
 
@@ -137,13 +150,13 @@ This is where the biggest advantage sits, because most believers have a blank be
 | 380 CE | Edict of Thessalonica — Christianity becomes the state religion under Theodosius | Firm |
 | 393 / 397 CE | Councils of Hippo and Carthage list canonical books | Firm |
 
-**70 CE is the hinge.** Every Gospel is written around or after the destruction of the Temple. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.
+**70 CE is the hinge.** Most critical scholars date Mark around 70 CE — some argue the late 60s — and Matthew, Luke, and John later. The dates remain debated, so do not say *every* Gospel is written after 70; say most critical dating places them around or after it. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.
 
 ## 3. Sources Outside the New Testament
 
 Handle this precisely. It is where overconfident skeptics get destroyed.
 
-**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index="28-1">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise.
+**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index="28-1">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. **Caveat added 7 Aug 2026:** Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.
 
 **Josephus,** two passages. The James reference (*Antiquities* 20.200) mentions James, "the brother of Jesus who was called Christ," and <cite index="28-1">is widely accepted as authentic.</cite> The longer *Testimonium Flavianum* (*Antiquities* 18.63–64) <cite index="28-1">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>
 
@@ -153,7 +166,7 @@ Handle this precisely. It is where overconfident skeptics get destroyed.
 
 **What this evidence establishes:** a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.
 
-**What it does not establish:** anything about miracles, resurrection, virgin birth, or divinity. Those are theological claims, and no external source corroborates them. Keep the two separate and you cannot be trapped.
+**What it does not establish:** anything about miracles, resurrection, virgin birth, or divinity. No independent, contemporary non-Christian source verifies those claims. Keep the two separate and you cannot be trapped.
 
 ## 4. Manuscripts and Transmission
 
@@ -163,7 +176,9 @@ The manuscript argument is the most common apologetic move and the most commonly
 
 **The factual part is true.** Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.
 
-**What the numbers actually establish:** that we can reconstruct the *second- to fourth-century* text with high confidence. That is a real achievement and worth conceding.
+**What the numbers actually establish:** the discipline's stated goal is the *initial text* (Ausgangstext) — the earliest recoverable form — using all surviving evidence, and for much of the New Testament that reconstruction is highly confident. That is a real achievement and worth conceding without hedging.
+
+**The precise limitation** ⟨INFERENCE⟩**:** how close the reconstructed initial text stands to what an author actually wrote is exactly what is contested, and the evidence thins sharply for the earliest decades and for books with sparse early attestation. Do not say textual criticism "only reaches the second century" — that misstates the discipline. Say that confidence degrades as you move back toward the autographs, and that no manuscript is a witness to the gap between event and first writing.
 
 **What they do not establish, and this is the whole answer:**
 
@@ -201,7 +216,7 @@ For comparative work, the same evidentiary standards apply.
 | 610 CE | Traditional date of the first revelation |
 | 622 CE | Hijra to Medina — year 1 of the Islamic calendar |
 | 632 CE | Death of Muhammad; succession crisis begins |
-| c. 650 CE | Uthmanic recension — a standardized Quranic text; variant codices reportedly destroyed |
+| c. 650 CE | Uthmanic recension — standardization is dated here **by later Islamic tradition**; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated |
 | 8th–9th c. | Hadith collections compiled; *sira* biographies written |
 
 **Structural comparison worth holding:** the Quran was standardized far closer to its origin than the New Testament was — a real point in its favor on transmission, and one Muslim apologists press hard. But the *sira* and hadith, which supply nearly all biographical detail about Muhammad, were written down one to two centuries later — a gap comparable to or worse than the Gospels'. Ibn Ishaq's biography survives only in Ibn Hisham's later edition.
@@ -220,7 +235,11 @@ This is the single most common place where a skeptic gets destroyed in live conv
 
 **It did not invent Jesus's divinity either.** High Christology is already present in Paul (Philippians 2, 1 Corinthians 8:6) in the 50s CE and in John's prologue around 90–100 CE. The vote at Nicaea was on *how* to formulate a divinity that was already the majority position — the dispute was whether the Son was of the same substance (*homoousios*) or a created being, not whether he was divine at all.
 
-**What is legitimately damning, and use this instead** ⟨INFERENCE — the facts are documented; the judgement that this is the stronger argument is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and then used imperial power to enforce the outcome and exile the losers. Doctrine settled by a majority of bishops under an emperor's political pressure is still doctrine settled by politics. **The true version is the stronger argument.** You do not need the myth.
+**What is legitimately damning, and use this instead** ⟨INFERENCE — the facts are documented; the judgement that this is the stronger argument is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile the losers.
+
+**Correction applied 7 Aug 2026 — and it makes the argument better.** The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — **fifty-six years and several imperial reversals later.** So the accurate claim is not "one vote settled it under political pressure." It is: **the outcome tracked which emperor was in power, over more than half a century.** That is a far harder point to answer, and it is documented.
+
+**The true version is the stronger argument.** You do not need the myth.
 
 ## 8. Christianity and the Roman Empire
 
@@ -231,7 +250,7 @@ This is the single most common place where a skeptic gets destroyed in live conv
 
 **The mechanism worth naming** ⟨INFERENCE — the dates are documented; the framing is Claude's⟩**:** in under eighty years Christianity moved from persecuted minority to persecuting majority, and the persecuted-to-persecutor transition took about one generation after acquiring state power. That is a claim about institutions and power, it is fully documented, and it does not require any conspiracy.
 
-**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.
+**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.
 
 ## 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These
 
@@ -247,7 +266,7 @@ This is the single most common place where a skeptic gets destroyed in live conv
 
 **"Christians burned the Library of Alexandria."** It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.
 
-**"Hypatia was murdered for defending science."** She was killed in 415 CE in a factional political conflict in Alexandria. Real, ugly, and not about science. The *Agora* version is fiction.
+**"Hypatia was murdered for defending science."** She was killed in 415 CE in a factional political and ecclesiastical conflict in Alexandria. Real, ugly, and not a martyrdom for science. The *Agora* version is fiction.
 
 **"Christmas is just Saturnalia / Sol Invictus."** Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be *later* than the Christian date, not earlier.
 

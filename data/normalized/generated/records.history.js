@@ -185,9 +185,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2e02ada7b8aa8f77398a",
-    "text": "Contemporary documentary. Written at the time by someone with access. Assyrian royal annals, Egyptian stelae, Babylonian chronicles, Roman administrative records, papyri, inscriptions. Strongest class, but never neutral — royal annals are propaganda and never record defeats.",
-    "raw_text": "**Contemporary documentary.** Written at the time by someone with access. Assyrian royal annals, Egyptian stelae, Babylonian chronicles, Roman administrative records, papyri, inscriptions. Strongest class, but never neutral — royal annals are propaganda and never record defeats.",
+    "id": "rk_2c98329e624dfd7ec6c5",
+    "text": "Contemporary documentary. Written at the time by someone with access. Assyrian royal annals, Egyptian stelae, Babylonian chronicles, Roman administrative records, papyri, inscriptions. Strongest class, but never neutral — royal annals are propaganda and typically minimize or omit defeats.",
+    "raw_text": "**Contemporary documentary.** Written at the time by someone with access. Assyrian royal annals, Egyptian stelae, Babylonian chronicles, Roman administrative records, papyri, inscriptions. Strongest class, but never neutral — royal annals are propaganda and typically minimize or omit defeats.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -409,11 +409,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_34c2b6141b0b48db96cb",
+    "id": "rk_a36ebf892167cdc9c43c",
     "text": "It is a separate question whether the events happened. A novel set in 1920s Chicago that gets the streets, mayors, and streetcar fares right is still a novel. Confirming the backdrop is not confirming the plot.",
-    "raw_text": "It is a separate question whether the **events** happened. A novel set in 1920s Chicago that gets the streets, mayors, and streetcar fares right is still a novel. Confirming the backdrop is not confirming the plot.",
+    "raw_text": "It is a separate question whether the **events** happened. A novel set in 1920s Chicago that gets the streets, mayors, and streetcar fares right is still a novel. Confirming the backdrop is not confirming the plot. ⟨INFERENCE — an analogy that clarifies the distinction, not evidence about any particular text.⟩",
     "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
+    "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
@@ -434,8 +434,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "citation": null,
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE — an analogy that clarifies the distinction, not evidence about any particular text.⟩"
     },
     "review_required": false,
     "parser_version": "1.1.2"
@@ -504,9 +504,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_68ba0cffa3d551303529",
-    "text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1550–1200 BCE | Egyptian New Kingdom controls Canaan | Firm — Egyptian records, Amarna letters |\n| c. 1200 BCE | Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean | Firm — destruction layers everywhere |\n| c. 1208 BCE | Merneptah Stele — earliest extrabiblical mention of \"Israel,\" as a people, not a place | Firm — the object exists |\n| c. 1200–1000 BCE | Highland settlement in Canaan: hundreds of small unwalled villages | Firm — survey archaeology |",
-    "raw_text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1550–1200 BCE | Egyptian New Kingdom controls Canaan | Firm — Egyptian records, Amarna letters |\n| c. 1200 BCE | Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean | Firm — destruction layers everywhere |\n| c. 1208 BCE | **Merneptah Stele** — earliest extrabiblical mention of \"Israel,\" as a people, not a place | Firm — the object exists |\n| c. 1200–1000 BCE | Highland settlement in Canaan: hundreds of small unwalled villages | Firm — survey archaeology |",
+    "id": "rk_61f8562a75e77f80f930",
+    "text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1550–1200 BCE | Egyptian New Kingdom controls Canaan | Firm — Egyptian records, Amarna letters |\n| c. 1200 BCE | Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean | Firm — widespread disruption and destruction across many centers |\n| c. 1208 BCE | Merneptah Stele — earliest extrabiblical mention of \"Israel,\" as a people, not a place | Firm — the object exists |\n| c. 1200–1000 BCE | Highland settlement in Canaan: hundreds of small unwalled villages | Firm — survey archaeology |",
+    "raw_text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1550–1200 BCE | Egyptian New Kingdom controls Canaan | Firm — Egyptian records, Amarna letters |\n| c. 1200 BCE | Late Bronze Age collapse; palace civilizations fall across the eastern Mediterranean | Firm — widespread disruption and destruction across many centers |\n| c. 1208 BCE | **Merneptah Stele** — earliest extrabiblical mention of \"Israel,\" as a people, not a place | Firm — the object exists |\n| c. 1200–1000 BCE | Highland settlement in Canaan: hundreds of small unwalled villages | Firm — survey archaeology |",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -536,9 +536,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_83b9b66de27d31bcdffe",
-    "text": "What this means. The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like gradual settlement of Canaanite highlands, not conquest from outside. There is no destruction horizon matching the Joshua conquest, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.",
-    "raw_text": "**What this means.** The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like *gradual settlement of Canaanite highlands*, not conquest from outside. There is no destruction horizon matching the Joshua conquest, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.",
+    "id": "rk_c71eb77709e5cedd7153",
+    "text": "What this means. The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like gradual settlement of Canaanite highlands, not conquest from outside. No archaeological pattern supports a single rapid conquest of Canaan at the scale Joshua describes, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.",
+    "raw_text": "**What this means.** The people called Israel are on the ground by 1208 BCE. The archaeological picture of their emergence looks like *gradual settlement of Canaanite highlands*, not conquest from outside. No archaeological pattern supports a single rapid conquest of Canaan at the scale Joshua describes, and the material culture is continuous with Canaanite culture — same pottery, same houses, same language family. The distinguishing marker is negative: an absence of pig bones.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -568,9 +568,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e5ad117b52dd5e66932d",
-    "text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1000 BCE | Traditional date for David | Contested. See §2.3 |\n| c. 840 BCE | Tel Dan Stele — Aramaic inscription referring to the \"House of David\" | Firm — the inscription exists |\n| c. 840 BCE | Mesha Stele — Moabite king records war with Israel; names YHWH | Firm |\n| 722 BCE | Assyria destroys the northern kingdom of Israel; deportations | Firm — Assyrian annals + biblical |\n| 701 BCE | Sennacherib besieges Jerusalem | Firm — Sennacherib's Prism, Lachish reliefs, 2 Kings 18–19 |\n| c. 622 BCE | Josiah's reform; \"book of the law\" found in the Temple | Biblical only |\n| 597 BCE | First Babylonian deportation | Firm — Babylonian Chronicles |\n| 586 BCE | Jerusalem falls; First Temple destroyed | Firm |\n| 539 BCE | Cyrus takes Babylon; Cyrus Cylinder records his repatriation policy | Firm |\n| c. 516 BCE | Second Temple completed | Reasonably firm |",
-    "raw_text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1000 BCE | Traditional date for David | **Contested.** See §2.3 |\n| c. 840 BCE | **Tel Dan Stele** — Aramaic inscription referring to the \"House of David\" | Firm — the inscription exists |\n| c. 840 BCE | **Mesha Stele** — Moabite king records war with Israel; names YHWH | Firm |\n| 722 BCE | Assyria destroys the northern kingdom of Israel; deportations | Firm — Assyrian annals + biblical |\n| 701 BCE | **Sennacherib besieges Jerusalem** | Firm — Sennacherib's Prism, Lachish reliefs, 2 Kings 18–19 |\n| c. 622 BCE | Josiah's reform; \"book of the law\" found in the Temple | Biblical only |\n| 597 BCE | First Babylonian deportation | Firm — Babylonian Chronicles |\n| 586 BCE | Jerusalem falls; First Temple destroyed | Firm |\n| 539 BCE | Cyrus takes Babylon; **Cyrus Cylinder** records his repatriation policy | Firm |\n| c. 516 BCE | Second Temple completed | Reasonably firm |",
+    "id": "rk_a113116991054d6c2579",
+    "text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1000 BCE | Traditional date for David | Contested. See §2.3 |\n| c. 840 BCE | Tel Dan Stele — Aramaic inscription referring to the \"House of David\" | Firm — the inscription exists |\n| c. 840 BCE | Mesha Stele — Moabite king records war with Israel; names YHWH | Firm |\n| 722 BCE | Assyria destroys the northern kingdom of Israel; deportations | Firm — Assyrian annals + biblical |\n| 701 BCE | Sennacherib besieges Jerusalem | Firm — Sennacherib's Prism, Lachish reliefs, 2 Kings 18–19 |\n| c. 622 BCE | Josiah's reform; \"book of the law\" found in the Temple | Biblical only |\n| 597 BCE | First Babylonian deportation | Firm — Babylonian Chronicles |\n| 586 BCE | Jerusalem falls; First Temple destroyed | Firm |\n| 539 BCE | Cyrus takes Babylon | Firm |\n| 539 BCE | Cyrus Cylinder — Babylonian propaganda text. Does NOT mention Judah, Jerusalem, or Jews. See §2.2a | Object firm; relevance to Judean return indirect and debated |\n| c. 516 BCE | Second Temple completed | Reasonably firm |",
+    "raw_text": "| Date | Event | Evidence status |\n|---|---|---|\n| c. 1000 BCE | Traditional date for David | **Contested.** See §2.3 |\n| c. 840 BCE | **Tel Dan Stele** — Aramaic inscription referring to the \"House of David\" | Firm — the inscription exists |\n| c. 840 BCE | **Mesha Stele** — Moabite king records war with Israel; names YHWH | Firm |\n| 722 BCE | Assyria destroys the northern kingdom of Israel; deportations | Firm — Assyrian annals + biblical |\n| 701 BCE | **Sennacherib besieges Jerusalem** | Firm — Sennacherib's Prism, Lachish reliefs, 2 Kings 18–19 |\n| c. 622 BCE | Josiah's reform; \"book of the law\" found in the Temple | Biblical only |\n| 597 BCE | First Babylonian deportation | Firm — Babylonian Chronicles |\n| 586 BCE | Jerusalem falls; First Temple destroyed | Firm |\n| 539 BCE | Cyrus takes Babylon | Firm |\n| 539 BCE | **Cyrus Cylinder** — Babylonian propaganda text. **Does NOT mention Judah, Jerusalem, or Jews.** See §2.2a | Object firm; relevance to Judean return indirect and debated |\n| c. 516 BCE | Second Temple completed | Reasonably firm |",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -600,16 +600,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b5a6d891ff6488e47293",
-    "text": "The 701 BCE case is worth knowing cold. It is the best example of independent convergence in the Hebrew Bible. Sennacherib's own annals describe shutting Hezekiah up \"like a bird in a cage\" — and conspicuously do not claim to have taken Jerusalem. 2 Kings says the siege lifted. Two hostile sources, one event, compatible accounts, different explanations. This is what real historical corroboration looks like, and it is rare.",
-    "raw_text": "**The 701 BCE case is worth knowing cold.** It is the best example of independent convergence in the Hebrew Bible. Sennacherib's own annals describe shutting Hezekiah up \"like a bird in a cage\" — and conspicuously do not claim to have taken Jerusalem. 2 Kings says the siege lifted. Two hostile sources, one event, compatible accounts, different explanations. This is what real historical corroboration looks like, and it is rare.",
+    "id": "rk_4d87d65cc5f5d7e95783",
+    "text": "Corrected 7 Aug 2026 after external audit. The original entry said the Cylinder \"records his repatriation policy,\" which overstates it in the direction of the biblical account.",
+    "raw_text": "**Corrected 7 Aug 2026 after external audit. The original entry said the Cylinder \"records his repatriation policy,\" which overstates it in the direction of the biblical account.**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
       "2. The Chronological Spine",
-      "2.2 Monarchy, Assyria, Babylon"
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -617,7 +617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2 Monarchy, Assyria, Babylon",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:20",
     "parent_id": null,
     "related_ids": [],
@@ -632,16 +632,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7b3cc41575035258ce20",
-    "text": "Concede this one freely. It costs nothing and it demonstrates you are arguing from evidence rather than from a conclusion.",
-    "raw_text": "**Concede this one freely.** It costs nothing and it demonstrates you are arguing from evidence rather than from a conclusion.",
+    "id": "rk_90bc067153d9735155a9",
+    "text": "What the Cylinder actually is. A royal proclamation in standard Babylonian literary form, legitimising a new dynasty. It denounces Nabonidus for neglecting Marduk, presents Marduk as choosing Cyrus, and claims Cyrus restored Babylonian cult practice and let displaced peoples return and rebuild sanctuaries. It names Mesopotamian cities. No mention of Judah or Jerusalem appears in the surviving text. The Smithsonian states plainly that the Cylinder does not mention the Jews by name.",
+    "raw_text": "**What the Cylinder actually is.** A royal proclamation in standard Babylonian literary form, legitimising a new dynasty. It denounces Nabonidus for neglecting Marduk, presents Marduk as choosing Cyrus, and claims Cyrus restored Babylonian cult practice and let displaced peoples return and rebuild sanctuaries. **It names Mesopotamian cities. No mention of Judah or Jerusalem appears in the surviving text.** The Smithsonian states plainly that the Cylinder does not mention the Jews by name.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
       "2. The Chronological Spine",
-      "2.2 Monarchy, Assyria, Babylon"
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -649,7 +649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2 Monarchy, Assyria, Babylon",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:21",
     "parent_id": null,
     "related_ids": [],
@@ -664,7 +664,167 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c2a7b1a4d4c4167a76c8",
+    "id": "rk_fcec9cb346d61712c40e",
+    "text": "Stronger objection still. Amélie Kuhrt argues the restoration language is a literary device contrasting Cyrus's piety with Nabonidus's blasphemy, not a description of policy actually carried out — on that reading the Cylinder sheds no light on the Jerusalem temple or a Judean return at all.",
+    "raw_text": "**Stronger objection still.** Amélie Kuhrt argues the restoration language is a literary device contrasting Cyrus's piety with Nabonidus's blasphemy, not a description of policy actually carried out — on that reading the Cylinder sheds no light on the Jerusalem temple or a Judean return at all.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2. The Chronological Spine",
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_reference": "paragraph:22",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_40defc592b6a7fe8eb28",
+    "text": "Where the error came from, and this is the useful part : the \"Cyrus Cylinder confirms Ezra\" framing is pushed hard by Associates for Biblical Research — the same evangelical apologetics organisation flagged in the eleph audit — who claim it \"establishes beyond doubt\" Cyrus's repatriation policy. *The same failure as the eleph argument, in the opposite direction:* an apologetic framing absorbed as neutral background because it was convenient shorthand.",
+    "raw_text": "**Where the error came from, and this is the useful part** ⟨INFERENCE⟩**:** the \"Cyrus Cylinder confirms Ezra\" framing is pushed hard by Associates for Biblical Research — the same evangelical apologetics organisation flagged in the *eleph* audit — who claim it \"establishes beyond doubt\" Cyrus's repatriation policy. **The same failure as the *eleph* argument, in the opposite direction:** an apologetic framing absorbed as neutral background because it was convenient shorthand.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2. The Chronological Spine",
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_reference": "paragraph:23",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_96ee3d5ce610ee8793fd",
+    "text": "CORRECTED: The Cyrus Cylinder is contextual evidence for Persian-period restoration rhetoric. It is not confirmation of Ezra, and it says nothing about Judeans.",
+    "raw_text": "**CORRECTED:** *The Cyrus Cylinder is contextual evidence for Persian-period restoration rhetoric. It is not confirmation of Ezra, and it says nothing about Judeans.*",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2. The Chronological Spine",
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_reference": "paragraph:24",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_487877df76d43c47f721",
+    "text": "The 701 BCE case is worth knowing cold. It is the best example of independent convergence in the Hebrew Bible. Sennacherib's own annals describe shutting Hezekiah up \"like a bird in a cage\" — and conspicuously do not claim to have taken Jerusalem. 2 Kings says the siege lifted. Two hostile sources, one event, compatible accounts, different explanations. This is what real historical corroboration looks like, and it is rare.",
+    "raw_text": "**The 701 BCE case is worth knowing cold.** It is the best example of independent convergence in the Hebrew Bible. Sennacherib's own annals describe shutting Hezekiah up \"like a bird in a cage\" — and conspicuously do not claim to have taken Jerusalem. 2 Kings says the siege lifted. Two hostile sources, one event, compatible accounts, different explanations. This is what real historical corroboration looks like, and it is rare.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2. The Chronological Spine",
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_reference": "paragraph:25",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_730f9b69902b9941c3b0",
+    "text": "Concede this one freely. It costs nothing and it demonstrates you are arguing from evidence rather than from a conclusion.",
+    "raw_text": "**Concede this one freely.** It costs nothing and it demonstrates you are arguing from evidence rather than from a conclusion.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2. The Chronological Spine",
+      "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_reference": "paragraph:26",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_50e724b74f063d760b84",
     "text": "Not whether David existed — the Tel Dan Stele settled that a dynasty traced itself to a David within about 150 years of his supposed reign. The fight is over scale.",
     "raw_text": "Not *whether David existed* — the Tel Dan Stele settled that a dynasty traced itself to a David within about 150 years of his supposed reign. The fight is over **scale**.",
     "provenance_type": "CLAUDE",
@@ -682,7 +842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.3 The one live fight: how big was David's kingdom?",
-    "source_reference": "paragraph:22",
+    "source_reference": "paragraph:27",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -696,7 +856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_ee200967503b0c26aad6",
+    "id": "rk_b260cbcc650d519ba6fa",
     "text": "Israel Finkelstein (Tel Aviv) [CRITICAL, \"low chronology\"]: 10th-century Jerusalem was a modest highland town; the united monarchy as described is a retrojection from the 7th century.\n- Amihai Mazar [CRITICAL, \"modified conventional chronology\"]: a middle position — a real but smaller polity.\n- William Dever [CRITICAL, anti-minimalist]: attacks the minimalists hard while rejecting biblical literalism.\n- Yosef Garfinkel [CONSERVATIVE-LEANING]: Khirbet Qeiyafa, a fortified site radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.",
     "raw_text": "- **Israel Finkelstein** (Tel Aviv) [CRITICAL, \"low chronology\"]: 10th-century Jerusalem was a modest highland town; the united monarchy as described is a retrojection from the 7th century.\n- **Amihai Mazar** [CRITICAL, \"modified conventional chronology\"]: a middle position — a real but smaller polity.\n- **William Dever** [CRITICAL, anti-minimalist]: attacks the minimalists hard while rejecting biblical literalism.\n- **Yosef Garfinkel** [CONSERVATIVE-LEANING]: Khirbet Qeiyafa, a fortified site radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.",
     "provenance_type": "CLAUDE",
@@ -714,7 +874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.3 The one live fight: how big was David's kingdom?",
-    "source_reference": "paragraph:23",
+    "source_reference": "paragraph:28",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -728,9 +888,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_f120b4668f6fede3146d",
-    "text": "Correct position : a David existed and founded a dynasty. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.",
-    "raw_text": "**Correct position** ⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩**:** a David existed and founded a dynasty. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.",
+    "id": "rk_fee88570649af9c5a9ce",
+    "text": "Correct position : the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.",
+    "raw_text": "**Correct position** ⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩**:** the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -746,7 +906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.3 The one live fight: how big was David's kingdom?",
-    "source_reference": "paragraph:24",
+    "source_reference": "paragraph:29",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -760,7 +920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a673c2d26a4051a9a701",
+    "id": "rk_907d9ac53ec56262f519",
     "text": "This is where the biggest advantage sits, because most believers have a blank between Malachi and Matthew, and almost everything distinctive about first-century Judaism was formed in it.",
     "raw_text": "This is where the biggest advantage sits, because most believers have a blank between Malachi and Matthew, and almost everything distinctive about first-century Judaism was formed in it.",
     "provenance_type": "CLAUDE",
@@ -778,7 +938,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
-    "source_reference": "paragraph:25",
+    "source_reference": "paragraph:30",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -792,7 +952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_dd2b54506abea7f4c513",
+    "id": "rk_e889af4cc18ce54806e0",
     "text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant. Greek becomes the administrative and elite language. |\n| c. 250 BCE | Septuagint — Hebrew scriptures translated into Greek in Alexandria |\n| 175–164 BCE | Antiochus IV Epiphanes; Temple desecrated; Hellenization crisis |\n| 167–160 BCE | Maccabean revolt |\n| 140–63 BCE | Hasmonean independent Jewish state |\n| 63 BCE | Pompey takes Jerusalem. Rome arrives. |\n| 37–4 BCE | Herod the Great; massive Temple expansion |\n| 6 CE | Judea becomes a Roman province under direct rule |",
     "raw_text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant. Greek becomes the administrative and elite language. |\n| c. 250 BCE | **Septuagint** — Hebrew scriptures translated into Greek in Alexandria |\n| 175–164 BCE | Antiochus IV Epiphanes; Temple desecrated; Hellenization crisis |\n| 167–160 BCE | **Maccabean revolt** |\n| 140–63 BCE | Hasmonean independent Jewish state |\n| 63 BCE | **Pompey takes Jerusalem.** Rome arrives. |\n| 37–4 BCE | Herod the Great; massive Temple expansion |\n| 6 CE | Judea becomes a Roman province under direct rule |",
     "provenance_type": "CLAUDE",
@@ -810,7 +970,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
-    "source_reference": "paragraph:26",
+    "source_reference": "paragraph:31",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -824,7 +984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1a4f8da1099a83378134",
+    "id": "rk_cebe709fcdf47f176fb6",
     "text": "What formed in this window, and why it matters:",
     "raw_text": "**What formed in this window, and why it matters:**",
     "provenance_type": "CLAUDE",
@@ -842,7 +1002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
-    "source_reference": "paragraph:27",
+    "source_reference": "paragraph:32",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -856,7 +1016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_94d6d5b3b62dc9288a67",
+    "id": "rk_11339f4a41d160998ab4",
     "text": "Apocalyptic literature and the resurrection of the dead. Largely absent from earlier Hebrew scripture, fully developed by the first century. Daniel — the latest book in the Hebrew Bible, written during the Antiochus crisis around 165 BCE — is the pivot.\n- Angelology and a developed Satan figure. The adversary of Job is a functionary in the divine court. The cosmic devil is Second Temple and later.\n- Messianic expectation in its first-century form.\n- The sects: Pharisees, Sadducees, Essenes, Zealots. None of them exist in the Old Testament.\n- Synagogue, scribal culture, and Torah study as the center of religious life.\n- The Septuagint, which is what the New Testament authors quote — including Isaiah 7:14's parthenos.",
     "raw_text": "- **Apocalyptic literature and the resurrection of the dead.** Largely absent from earlier Hebrew scripture, fully developed by the first century. Daniel — the latest book in the Hebrew Bible, written during the Antiochus crisis around 165 BCE — is the pivot.\n- **Angelology and a developed Satan figure.** The adversary of Job is a functionary in the divine court. The cosmic devil is Second Temple and later.\n- **Messianic expectation** in its first-century form.\n- **The sects:** Pharisees, Sadducees, Essenes, Zealots. None of them exist in the Old Testament.\n- **Synagogue, scribal culture, and Torah study** as the center of religious life.\n- **The Septuagint**, which is what the New Testament authors quote — including Isaiah 7:14's *parthenos*.",
     "provenance_type": "CLAUDE",
@@ -874,7 +1034,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
-    "source_reference": "paragraph:28",
+    "source_reference": "paragraph:33",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -888,7 +1048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7a3353b5879720319e2c",
+    "id": "rk_5043c8e4706178a43ea4",
     "text": "Debate application: if someone insists their theology comes straight from the Bible, ask where hell, Satan, angels, and resurrection came from — and then ask why those concepts are missing from the Torah and appear fully formed by the first century. The answer is four centuries of history they were never taught.",
     "raw_text": "**Debate application:** if someone insists their theology comes straight from the Bible, ask where hell, Satan, angels, and resurrection came from — and then ask why those concepts are missing from the Torah and appear fully formed by the first century. The answer is four centuries of history they were never taught.",
     "provenance_type": "CLAUDE",
@@ -906,7 +1066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
-    "source_reference": "paragraph:29",
+    "source_reference": "paragraph:34",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -920,7 +1080,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c0b93e7d406b47de740a",
+    "id": "rk_01c89cc8ce632743e230",
     "text": "| Date | Event | Evidence status |\n|---|---|---|\n| 26–36 CE | Pontius Pilate, prefect of Judea | Firm — Pilate Stone, Caesarea, found 1961; Josephus; Philo |\n| c. 30–33 CE | Crucifixion of Jesus | Best-attested single fact about him |\n| c. 50–60 CE | Paul's undisputed letters — earliest Christian writings | Firm |\n| 66–73 CE | First Jewish Revolt |\n| 70 CE | Jerusalem sacked, Second Temple destroyed | Firm — Josephus, Arch of Titus |\n| c. 70–100 CE | Gospels written | Standard critical dating |\n| 132–135 CE | Bar Kokhba revolt; Jews barred from Jerusalem | Firm |\n| 313 CE | Edict of Milan — Christianity legalized | Firm |\n| 325 CE | Council of Nicaea | Firm — see §7 |\n| 380 CE | Edict of Thessalonica — Christianity becomes the state religion under Theodosius | Firm |\n| 393 / 397 CE | Councils of Hippo and Carthage list canonical books | Firm |",
     "raw_text": "| Date | Event | Evidence status |\n|---|---|---|\n| 26–36 CE | **Pontius Pilate**, prefect of Judea | Firm — Pilate Stone, Caesarea, found 1961; Josephus; Philo |\n| c. 30–33 CE | Crucifixion of Jesus | Best-attested single fact about him |\n| c. 50–60 CE | **Paul's undisputed letters** — earliest Christian writings | Firm |\n| 66–73 CE | First Jewish Revolt |\n| **70 CE** | **Jerusalem sacked, Second Temple destroyed** | Firm — Josephus, Arch of Titus |\n| c. 70–100 CE | Gospels written | Standard critical dating |\n| 132–135 CE | Bar Kokhba revolt; Jews barred from Jerusalem | Firm |\n| 313 CE | Edict of Milan — Christianity legalized | Firm |\n| 325 CE | **Council of Nicaea** | Firm — see §7 |\n| 380 CE | Edict of Thessalonica — Christianity becomes the state religion under Theodosius | Firm |\n| 393 / 397 CE | Councils of Hippo and Carthage list canonical books | Firm |",
     "provenance_type": "CLAUDE",
@@ -938,7 +1098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.5 Roman Judea into the Christian era",
-    "source_reference": "paragraph:30",
+    "source_reference": "paragraph:35",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -952,9 +1112,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_89b6e14c9f123ff5194b",
-    "text": "70 CE is the hinge. Every Gospel is written around or after the destruction of the Temple. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.",
-    "raw_text": "**70 CE is the hinge.** Every Gospel is written around or after the destruction of the Temple. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.",
+    "id": "rk_517924cda15284609eb4",
+    "text": "70 CE is the hinge. Most critical scholars date Mark around 70 CE — some argue the late 60s — and Matthew, Luke, and John later. The dates remain debated, so do not say every Gospel is written after 70; say most critical dating places them around or after it. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.",
+    "raw_text": "**70 CE is the hinge.** Most critical scholars date Mark around 70 CE — some argue the late 60s — and Matthew, Luke, and John later. The dates remain debated, so do not say *every* Gospel is written after 70; say most critical dating places them around or after it. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -970,161 +1130,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 2. The Chronological Spine > 2.5 Roman Judea into the Christian era",
-    "source_reference": "paragraph:31",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_84ebc936e7957b06e3bf",
-    "text": "Handle this precisely. It is where overconfident skeptics get destroyed.",
-    "raw_text": "Handle this precisely. It is where overconfident skeptics get destroyed.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "3. Sources Outside the New Testament"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:32",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_537b3dbcdb8aba34b112",
-    "text": "Tacitus, Annals 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise.",
-    "raw_text": "**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "3. Sources Outside the New Testament"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:33",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_b57f793cf603ab153acd",
-    "text": "Josephus, two passages. The James reference (Antiquities 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer Testimonium Flavianum (Antiquities 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
-    "raw_text": "**Josephus,** two passages. The James reference (*Antiquities* 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer *Testimonium Flavianum* (*Antiquities* 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "3. Sources Outside the New Testament"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:34",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_33b29d9097eb74bd7f7a",
-    "text": "Do not say the Testimonium is a forgery as though it were established. Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
-    "raw_text": "**Do not say the Testimonium is a forgery as though it were established.** Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "3. Sources Outside the New Testament"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:35",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_c80c707328bcb48646cb",
-    "text": "Also: Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
-    "raw_text": "**Also:** Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "3. Sources Outside the New Testament"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
     "source_reference": "paragraph:36",
     "parent_id": null,
     "related_ids": [],
@@ -1139,9 +1144,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_beac7db2f19eb8676f0d",
-    "text": "What this evidence establishes: a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.",
-    "raw_text": "**What this evidence establishes:** a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.",
+    "id": "rk_5113013013199dd8deab",
+    "text": "Handle this precisely. It is where overconfident skeptics get destroyed.",
+    "raw_text": "Handle this precisely. It is where overconfident skeptics get destroyed.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1170,9 +1175,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d1b20bf3edb221772e26",
-    "text": "What it does not establish: anything about miracles, resurrection, virgin birth, or divinity. Those are theological claims, and no external source corroborates them. Keep the two separate and you cannot be trapped.",
-    "raw_text": "**What it does not establish:** anything about miracles, resurrection, virgin birth, or divinity. Those are theological claims, and no external source corroborates them. Keep the two separate and you cannot be trapped.",
+    "id": "rk_0dbacb08b5739a74e9f3",
+    "text": "Tacitus, Annals 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. Caveat added 7 Aug 2026: Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
+    "raw_text": "**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. **Caveat added 7 Aug 2026:** Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1201,15 +1206,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_475ee0179bec790c0657",
-    "text": "The manuscript argument is the most common apologetic move and the most commonly mishandled from both sides.",
-    "raw_text": "The manuscript argument is the most common apologetic move and the most commonly mishandled from both sides.",
+    "id": "rk_0c6b68424c43f1b5c65b",
+    "text": "Josephus, two passages. The James reference (Antiquities 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer Testimonium Flavianum (Antiquities 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
+    "raw_text": "**Josephus,** two passages. The James reference (*Antiquities* 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer *Testimonium Flavianum* (*Antiquities* 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "4. Manuscripts and Transmission"
+      "3. Sources Outside the New Testament"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1217,7 +1222,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
     "source_reference": "paragraph:39",
     "parent_id": null,
     "related_ids": [],
@@ -1232,15 +1237,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3060ac4d0ac932eecdeb",
-    "text": "The claim you will hear: roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
-    "raw_text": "**The claim you will hear:** roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
+    "id": "rk_493b39b1c7664019c51c",
+    "text": "Do not say the Testimonium is a forgery as though it were established. Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
+    "raw_text": "**Do not say the Testimonium is a forgery as though it were established.** Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "4. Manuscripts and Transmission"
+      "3. Sources Outside the New Testament"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1248,7 +1253,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
     "source_reference": "paragraph:40",
     "parent_id": null,
     "related_ids": [],
@@ -1263,15 +1268,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_f2fbef160cf1f074b08f",
-    "text": "The factual part is true. Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.",
-    "raw_text": "**The factual part is true.** Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.",
+    "id": "rk_b514cc96c3d8b5fda7e3",
+    "text": "Also: Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
+    "raw_text": "**Also:** Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "4. Manuscripts and Transmission"
+      "3. Sources Outside the New Testament"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1279,7 +1284,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
     "source_reference": "paragraph:41",
     "parent_id": null,
     "related_ids": [],
@@ -1294,15 +1299,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7ecce1a22e616087dfc7",
-    "text": "What the numbers actually establish: that we can reconstruct the second- to fourth-century text with high confidence. That is a real achievement and worth conceding.",
-    "raw_text": "**What the numbers actually establish:** that we can reconstruct the *second- to fourth-century* text with high confidence. That is a real achievement and worth conceding.",
+    "id": "rk_0cc8db9d14636bf7c4af",
+    "text": "What this evidence establishes: a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.",
+    "raw_text": "**What this evidence establishes:** a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "4. Manuscripts and Transmission"
+      "3. Sources Outside the New Testament"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1310,7 +1315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
     "source_reference": "paragraph:42",
     "parent_id": null,
     "related_ids": [],
@@ -1325,15 +1330,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_507978544a49927e5bf3",
-    "text": "What they do not establish, and this is the whole answer:",
-    "raw_text": "**What they do not establish, and this is the whole answer:**",
+    "id": "rk_8111c9b87c2151385e40",
+    "text": "What it does not establish: anything about miracles, resurrection, virgin birth, or divinity. No independent, contemporary non-Christian source verifies those claims. Keep the two separate and you cannot be trapped.",
+    "raw_text": "**What it does not establish:** anything about miracles, resurrection, virgin birth, or divinity. No independent, contemporary non-Christian source verifies those claims. Keep the two separate and you cannot be trapped.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "4. Manuscripts and Transmission"
+      "3. Sources Outside the New Testament"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1341,7 +1346,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_section": "Historical Framework > 3. Sources Outside the New Testament",
     "source_reference": "paragraph:43",
     "parent_id": null,
     "related_ids": [],
@@ -1356,9 +1361,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5a20028da3d1da327df0",
-    "text": "1. Quantity measures copying, not accuracy. Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. The gap is where the damage happens. The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. Most manuscripts are late and derivative. The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. We know substantial passages were added, because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence for the text — it is the evidence that the text changed.\n5. Reconstructing the words is not establishing the events. Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
-    "raw_text": "1. **Quantity measures copying, not accuracy.** Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. **The gap is where the damage happens.** The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. **Most manuscripts are late and derivative.** The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence *for* the text — it is the evidence *that the text changed*.\n5. **Reconstructing the words is not establishing the events.** Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
+    "id": "rk_adbca0b53e5beab6f11e",
+    "text": "The manuscript argument is the most common apologetic move and the most commonly mishandled from both sides.",
+    "raw_text": "The manuscript argument is the most common apologetic move and the most commonly mishandled from both sides.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1387,9 +1392,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0a125efa0ed0c1236232",
-    "text": "Use this line: \"I agree we can reconstruct what the second-century text said. That's the part I'm not disputing. What I'm asking about is the sixty years before that, which no manuscript can reach.\"",
-    "raw_text": "**Use this line:** *\"I agree we can reconstruct what the second-century text said. That's the part I'm not disputing. What I'm asking about is the sixty years before that, which no manuscript can reach.\"*",
+    "id": "rk_4d4cfe7f48938f0ae8b9",
+    "text": "The claim you will hear: roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
+    "raw_text": "**The claim you will hear:** roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1418,7 +1423,193 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bb7c9a53d7c7c17a72ed",
+    "id": "rk_4e3aabfe3a77e4ad3a41",
+    "text": "The factual part is true. Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.",
+    "raw_text": "**The factual part is true.** Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "4. Manuscripts and Transmission"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_reference": "paragraph:46",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_27258af0269cb9296e49",
+    "text": "What the numbers actually establish: the discipline's stated goal is the initial text (Ausgangstext) — the earliest recoverable form — using all surviving evidence, and for much of the New Testament that reconstruction is highly confident. That is a real achievement and worth conceding without hedging.",
+    "raw_text": "**What the numbers actually establish:** the discipline's stated goal is the *initial text* (Ausgangstext) — the earliest recoverable form — using all surviving evidence, and for much of the New Testament that reconstruction is highly confident. That is a real achievement and worth conceding without hedging.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "4. Manuscripts and Transmission"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_reference": "paragraph:47",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_67a18a8e2cedd00cb52f",
+    "text": "The precise limitation : how close the reconstructed initial text stands to what an author actually wrote is exactly what is contested, and the evidence thins sharply for the earliest decades and for books with sparse early attestation. Do not say textual criticism \"only reaches the second century\" — that misstates the discipline. Say that confidence degrades as you move back toward the autographs, and that no manuscript is a witness to the gap between event and first writing.",
+    "raw_text": "**The precise limitation** ⟨INFERENCE⟩**:** how close the reconstructed initial text stands to what an author actually wrote is exactly what is contested, and the evidence thins sharply for the earliest decades and for books with sparse early attestation. Do not say textual criticism \"only reaches the second century\" — that misstates the discipline. Say that confidence degrades as you move back toward the autographs, and that no manuscript is a witness to the gap between event and first writing.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "4. Manuscripts and Transmission"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_reference": "paragraph:48",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_f6b4b7acb5ee46c0a85f",
+    "text": "What they do not establish, and this is the whole answer:",
+    "raw_text": "**What they do not establish, and this is the whole answer:**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "4. Manuscripts and Transmission"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_reference": "paragraph:49",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_20756fe8de16a736b251",
+    "text": "1. Quantity measures copying, not accuracy. Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. The gap is where the damage happens. The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. Most manuscripts are late and derivative. The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. We know substantial passages were added, because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence for the text — it is the evidence that the text changed.\n5. Reconstructing the words is not establishing the events. Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
+    "raw_text": "1. **Quantity measures copying, not accuracy.** Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. **The gap is where the damage happens.** The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. **Most manuscripts are late and derivative.** The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence *for* the text — it is the evidence *that the text changed*.\n5. **Reconstructing the words is not establishing the events.** Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "4. Manuscripts and Transmission"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_reference": "paragraph:50",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_f6c9e0a946257004ef5b",
+    "text": "Use this line: \"I agree we can reconstruct what the second-century text said. That's the part I'm not disputing. What I'm asking about is the sixty years before that, which no manuscript can reach.\"",
+    "raw_text": "**Use this line:** *\"I agree we can reconstruct what the second-century text said. That's the part I'm not disputing. What I'm asking about is the sixty years before that, which no manuscript can reach.\"*",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "4. Manuscripts and Transmission"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 4. Manuscripts and Transmission",
+    "source_reference": "paragraph:51",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_33add543e8078d1345cc",
     "text": "Slow, contested, regional, and never decided by a single vote.",
     "raw_text": "Slow, contested, regional, and never decided by a single vote.",
     "provenance_type": "CLAUDE",
@@ -1435,7 +1626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:46",
+    "source_reference": "paragraph:52",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1449,7 +1640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e289695df695573164b3",
+    "id": "rk_3cd13f6f6884317ed806",
     "text": "c. 140 CE — Marcion produces the first known canon: an edited Luke plus ten Pauline letters, rejecting the Hebrew scriptures entirely. Declared heretical. His challenge probably accelerated everyone else's list-making.\n- c. 180 CE — Irenaeus argues for exactly four Gospels, on the reasoning that there are four winds and four corners of the earth. That is the actual argument in Against Heresies.\n- c. 170–200 CE — the Muratorian Fragment, the earliest surviving list, already close to the final shape but not identical.\n- Third century — Origen and Eusebius classify books as accepted, disputed, or spurious. Hebrews, James, 2 Peter, 2–3 John, Jude, and Revelation sit in the disputed column for a long time.\n- 367 CE — Athanasius's 39th Festal Letter is the first surviving list matching the 27-book New Testament exactly.\n- 393 / 397 CE — Hippo and Carthage ratify regional lists.\n- The Eastern churches never fully converged. The Ethiopian Orthodox canon is larger. The Syriac Peshitta long omitted several books. Catholic, Protestant, and Orthodox Old Testaments still differ.",
     "raw_text": "- **c. 140 CE — Marcion** produces the first known canon: an edited Luke plus ten Pauline letters, rejecting the Hebrew scriptures entirely. Declared heretical. His challenge probably accelerated everyone else's list-making.\n- **c. 180 CE — Irenaeus** argues for exactly four Gospels, on the reasoning that there are four winds and four corners of the earth. That is the actual argument in *Against Heresies*.\n- **c. 170–200 CE — the Muratorian Fragment**, the earliest surviving list, already close to the final shape but not identical.\n- **Third century** — Origen and Eusebius classify books as accepted, disputed, or spurious. Hebrews, James, 2 Peter, 2–3 John, Jude, and Revelation sit in the disputed column for a long time.\n- **367 CE — Athanasius's 39th Festal Letter** is the first surviving list matching the 27-book New Testament exactly.\n- **393 / 397 CE — Hippo and Carthage** ratify regional lists.\n- **The Eastern churches never fully converged.** The Ethiopian Orthodox canon is larger. The Syriac Peshitta long omitted several books. Catholic, Protestant, and Orthodox Old Testaments still differ.",
     "provenance_type": "CLAUDE",
@@ -1466,7 +1657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:47",
+    "source_reference": "paragraph:53",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1480,7 +1671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_54cce97cb57b89a39066",
+    "id": "rk_b3e01801ccc647ca8153",
     "text": "The honest critical point is not that a conspiracy picked the books. It is that the process was human, political, and contested for three centuries, that the criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and that there is still no single Christian canon today.",
     "raw_text": "**The honest critical point** is not that a conspiracy picked the books. It is that **the process was human, political, and contested for three centuries**, that the criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and that there is still no single Christian canon today.",
     "provenance_type": "CLAUDE",
@@ -1497,7 +1688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:48",
+    "source_reference": "paragraph:54",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1511,7 +1702,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d47b25cafad103f94c39",
+    "id": "rk_d2c38bcd1d4612ac5b77",
     "text": "That argument is stronger than the conspiracy version because it is true and cannot be refuted by a historian.",
     "raw_text": "That argument is stronger than the conspiracy version because it is true and cannot be refuted by a historian.",
     "provenance_type": "CLAUDE",
@@ -1528,7 +1719,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:49",
+    "source_reference": "paragraph:55",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1542,7 +1733,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_179098daf2156517b6d3",
+    "id": "rk_259947bc4c9dfac6bf06",
     "text": "For comparative work, the same evidentiary standards apply.",
     "raw_text": "For comparative work, the same evidentiary standards apply.",
     "provenance_type": "CLAUDE",
@@ -1559,7 +1750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:50",
+    "source_reference": "paragraph:56",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1573,9 +1764,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_65b6c291507eb9c3229d",
-    "text": "| Date | Event |\n|---|---|\n| c. 570–632 CE | Muhammad |\n| 610 CE | Traditional date of the first revelation |\n| 622 CE | Hijra to Medina — year 1 of the Islamic calendar |\n| 632 CE | Death of Muhammad; succession crisis begins |\n| c. 650 CE | Uthmanic recension — a standardized Quranic text; variant codices reportedly destroyed |\n| 8th–9th c. | Hadith collections compiled; sira biographies written |",
-    "raw_text": "| Date | Event |\n|---|---|\n| c. 570–632 CE | Muhammad |\n| 610 CE | Traditional date of the first revelation |\n| 622 CE | Hijra to Medina — year 1 of the Islamic calendar |\n| 632 CE | Death of Muhammad; succession crisis begins |\n| c. 650 CE | Uthmanic recension — a standardized Quranic text; variant codices reportedly destroyed |\n| 8th–9th c. | Hadith collections compiled; *sira* biographies written |",
+    "id": "rk_fe9370505dc7f51bcab7",
+    "text": "| Date | Event |\n|---|---|\n| c. 570–632 CE | Muhammad |\n| 610 CE | Traditional date of the first revelation |\n| 622 CE | Hijra to Medina — year 1 of the Islamic calendar |\n| 632 CE | Death of Muhammad; succession crisis begins |\n| c. 650 CE | Uthmanic recension — standardization is dated here by later Islamic tradition; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated |\n| 8th–9th c. | Hadith collections compiled; sira biographies written |",
+    "raw_text": "| Date | Event |\n|---|---|\n| c. 570–632 CE | Muhammad |\n| 610 CE | Traditional date of the first revelation |\n| 622 CE | Hijra to Medina — year 1 of the Islamic calendar |\n| 632 CE | Death of Muhammad; succession crisis begins |\n| c. 650 CE | Uthmanic recension — standardization is dated here **by later Islamic tradition**; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated |\n| 8th–9th c. | Hadith collections compiled; *sira* biographies written |",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1590,7 +1781,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:51",
+    "source_reference": "paragraph:57",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1604,7 +1795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0f78d0c41224757a8c3f",
+    "id": "rk_45bf76a03213a8ec44e7",
     "text": "Structural comparison worth holding: the Quran was standardized far closer to its origin than the New Testament was — a real point in its favor on transmission, and one Muslim apologists press hard. But the sira and hadith, which supply nearly all biographical detail about Muhammad, were written down one to two centuries later — a gap comparable to or worse than the Gospels'. Ibn Ishaq's biography survives only in Ibn Hisham's later edition.",
     "raw_text": "**Structural comparison worth holding:** the Quran was standardized far closer to its origin than the New Testament was — a real point in its favor on transmission, and one Muslim apologists press hard. But the *sira* and hadith, which supply nearly all biographical detail about Muhammad, were written down one to two centuries later — a gap comparable to or worse than the Gospels'. Ibn Ishaq's biography survives only in Ibn Hisham's later edition.",
     "provenance_type": "CLAUDE",
@@ -1621,7 +1812,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:52",
+    "source_reference": "paragraph:58",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1635,7 +1826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c85f065ad12c0652fceb",
+    "id": "rk_a2a618771bc4bf4a29c7",
     "text": "The symmetry to note: each tradition applies rigorous source criticism to the other's texts and not to its own. That observation is more useful than any individual fact.",
     "raw_text": "**The symmetry to note:** each tradition applies rigorous source criticism to the other's texts and not to its own. That observation is more useful than any individual fact.",
     "provenance_type": "CLAUDE",
@@ -1652,7 +1843,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:53",
+    "source_reference": "paragraph:59",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1666,7 +1857,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3cfa6b5fae69fe12de2f",
+    "id": "rk_73cbdd91c6d67da98abc",
     "text": "This is the single most common place where a skeptic gets destroyed in live conversation, because the popular version is false and the correction is easy to look up.",
     "raw_text": "This is the single most common place where a skeptic gets destroyed in live conversation, because the popular version is false and the correction is easy to look up.",
     "provenance_type": "CLAUDE",
@@ -1683,7 +1874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
-    "source_reference": "paragraph:54",
+    "source_reference": "paragraph:60",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1697,7 +1888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4beb9101bb46800d26ad",
+    "id": "rk_acfd9f704147d98d4353",
     "text": "What Nicaea (325 CE) actually did: <cite index=\"23-1\">its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations.</cite> It also set a common date for Easter and issued disciplinary canons.",
     "raw_text": "**What Nicaea (325 CE) actually did:** <cite index=\"23-1\">its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations.</cite> It also set a common date for Easter and issued disciplinary canons.",
     "provenance_type": "CLAUDE",
@@ -1714,7 +1905,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
-    "source_reference": "paragraph:55",
+    "source_reference": "paragraph:61",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1728,7 +1919,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_6bef3739622c976038e4",
+    "id": "rk_23281eb7bc8aa2ffd188",
     "text": "What it did not do: <cite index=\"23-1\">the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical.</cite> <cite index=\"20-1\">There is not a shred of evidence that the canon was raised at Nicaea at all.</cite>",
     "raw_text": "**What it did not do:** <cite index=\"23-1\">the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical.</cite> <cite index=\"20-1\">There is not a shred of evidence that the canon was raised at Nicaea at all.</cite>",
     "provenance_type": "CLAUDE",
@@ -1745,7 +1936,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
-    "source_reference": "paragraph:56",
+    "source_reference": "paragraph:62",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1759,7 +1950,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_dbd99bfd1f4d878e4061",
+    "id": "rk_678e88ee22ad34bf3564",
     "text": "Where the myth comes from, because knowing this is what turns a defeat into a win: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the Synodicon Vetus, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through The Da Vinci Code.",
     "raw_text": "**Where the myth comes from,** because knowing this is what turns a defeat into a win: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the *Synodicon Vetus*, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through *The Da Vinci Code*.",
     "provenance_type": "CLAUDE",
@@ -1776,7 +1967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
-    "source_reference": "paragraph:57",
+    "source_reference": "paragraph:63",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1790,7 +1981,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_18b39a445e4c738f7e96",
+    "id": "rk_ebd59af27bd5a82eb1fa",
     "text": "It did not invent Jesus's divinity either. High Christology is already present in Paul (Philippians 2, 1 Corinthians 8:6) in the 50s CE and in John's prologue around 90–100 CE. The vote at Nicaea was on how to formulate a divinity that was already the majority position — the dispute was whether the Son was of the same substance (homoousios) or a created being, not whether he was divine at all.",
     "raw_text": "**It did not invent Jesus's divinity either.** High Christology is already present in Paul (Philippians 2, 1 Corinthians 8:6) in the 50s CE and in John's prologue around 90–100 CE. The vote at Nicaea was on *how* to formulate a divinity that was already the majority position — the dispute was whether the Son was of the same substance (*homoousios*) or a created being, not whether he was divine at all.",
     "provenance_type": "CLAUDE",
@@ -1807,7 +1998,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
-    "source_reference": "paragraph:58",
+    "source_reference": "paragraph:64",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1821,9 +2012,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e471e4f522712bf56131",
-    "text": "What is legitimately damning, and use this instead : Constantine convened the council, presided over a theological dispute he was not qualified to judge, and then used imperial power to enforce the outcome and exile the losers. Doctrine settled by a majority of bishops under an emperor's political pressure is still doctrine settled by politics. The true version is the stronger argument. You do not need the myth.",
-    "raw_text": "**What is legitimately damning, and use this instead** ⟨INFERENCE — the facts are documented; the judgement that this is the stronger argument is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and then used imperial power to enforce the outcome and exile the losers. Doctrine settled by a majority of bishops under an emperor's political pressure is still doctrine settled by politics. **The true version is the stronger argument.** You do not need the myth.",
+    "id": "rk_f01e0dd1e41b77418552",
+    "text": "What is legitimately damning, and use this instead : Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile the losers.",
+    "raw_text": "**What is legitimately damning, and use this instead** ⟨INFERENCE — the facts are documented; the judgement that this is the stronger argument is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile the losers.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -1838,7 +2029,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
-    "source_reference": "paragraph:59",
+    "source_reference": "paragraph:65",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1852,7 +2043,69 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0afedf4ddddcb6406bad",
+    "id": "rk_3316e7e3d7f3e34b5f68",
+    "text": "Correction applied 7 Aug 2026 — and it makes the argument better. The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — fifty-six years and several imperial reversals later. So the accurate claim is not \"one vote settled it under political pressure.\" It is: the outcome tracked which emperor was in power, over more than half a century. That is a far harder point to answer, and it is documented.",
+    "raw_text": "**Correction applied 7 Aug 2026 — and it makes the argument better.** The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — **fifty-six years and several imperial reversals later.** So the accurate claim is not \"one vote settled it under political pressure.\" It is: **the outcome tracked which emperor was in power, over more than half a century.** That is a far harder point to answer, and it is documented.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "7. Constantine and Nicaea — Get This Right"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_reference": "paragraph:66",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_6fcce887c1e139a49036",
+    "text": "The true version is the stronger argument. You do not need the myth.",
+    "raw_text": "**The true version is the stronger argument.** You do not need the myth.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "7. Constantine and Nicaea — Get This Right"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_reference": "paragraph:67",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_b9697f9c577444a609e1",
     "text": "313 CE — Edict of Milan legalizes Christianity. It does not make it the state religion.\n- 325 CE — Nicaea.\n- 380 CE — Edict of Thessalonica under Theodosius makes Nicene Christianity the state religion.\n- 391–392 CE — Theodosius bans public pagan sacrifice; temples close.",
     "raw_text": "- **313 CE** — Edict of Milan legalizes Christianity. It does not make it the state religion.\n- **325 CE** — Nicaea.\n- **380 CE** — Edict of Thessalonica under Theodosius makes Nicene Christianity the state religion.\n- **391–392 CE** — Theodosius bans public pagan sacrifice; temples close.",
     "provenance_type": "CLAUDE",
@@ -1869,7 +2122,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 8. Christianity and the Roman Empire",
-    "source_reference": "paragraph:60",
+    "source_reference": "paragraph:68",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1883,7 +2136,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_624e8d878265ccf4e366",
+    "id": "rk_83c65764effc2a0ec618",
     "text": "The mechanism worth naming : in under eighty years Christianity moved from persecuted minority to persecuting majority, and the persecuted-to-persecutor transition took about one generation after acquiring state power. That is a claim about institutions and power, it is fully documented, and it does not require any conspiracy.",
     "raw_text": "**The mechanism worth naming** ⟨INFERENCE — the dates are documented; the framing is Claude's⟩**:** in under eighty years Christianity moved from persecuted minority to persecuting majority, and the persecuted-to-persecutor transition took about one generation after acquiring state power. That is a claim about institutions and power, it is fully documented, and it does not require any conspiracy.",
     "provenance_type": "CLAUDE",
@@ -1900,7 +2153,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 8. Christianity and the Roman Empire",
-    "source_reference": "paragraph:61",
+    "source_reference": "paragraph:69",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1914,9 +2167,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_39f264da2ee4d404408a",
-    "text": "Pre-Constantine persecution was real but sporadic — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.",
-    "raw_text": "**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.",
+    "id": "rk_86a07f4123f2f535eb1e",
+    "text": "Pre-Constantine persecution was real but sporadic — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.",
+    "raw_text": "**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1931,254 +2184,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 8. Christianity and the Roman Empire",
-    "source_reference": "paragraph:62",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_2045b71fa5cc32d9ad30",
-    "text": "Read this section first. These claims circulate widely, feel powerful, and are false or badly overstated. Deploying one hands your opponent an easy, verifiable win and discredits everything true you said before it. Every item below is rejected by secular historians, not by apologists.",
-    "raw_text": "**Read this section first.** These claims circulate widely, feel powerful, and are false or badly overstated. Deploying one hands your opponent an easy, verifiable win and discredits everything true you said before it. Every item below is rejected by secular historians, not by apologists.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:63",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_b37423c8b6551a38fd4d",
-    "text": "\"Constantine created the Bible / Nicaea voted on Jesus's divinity.\" False. See §7. Traces to a ninth-century manuscript via Voltaire and Dan Brown.",
-    "raw_text": "**\"Constantine created the Bible / Nicaea voted on Jesus's divinity.\"** False. See §7. Traces to a ninth-century manuscript via Voltaire and Dan Brown.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:64",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_e706ff69f079f6205afa",
-    "text": "\"Jesus never existed.\" Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. You do not need mythicism; a historical Jesus who was an apocalyptic Jewish preacher executed by Rome is more corrosive to orthodox theology than an invented one, because it puts the burden on explaining how that figure became God.",
-    "raw_text": "**\"Jesus never existed.\"** Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. You do not need mythicism; a historical Jesus who was an apocalyptic Jewish preacher executed by Rome is *more* corrosive to orthodox theology than an invented one, because it puts the burden on explaining how that figure became God.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:65",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_ad4f5cbadb9c3b69719e",
-    "text": "\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\" Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and Zeitgeist (2007). Egyptologists reject it flatly. This is the single fastest way to lose an argument to anyone who has read a real source.",
-    "raw_text": "**\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\"** Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and *Zeitgeist* (2007). Egyptologists reject it flatly. **This is the single fastest way to lose an argument to anyone who has read a real source.**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:66",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_f3cd5919d253ce49f97d",
-    "text": "\"The Church caused the Dark Ages and suppressed science.\" The conflict thesis, from Draper (1874) and White (1896), has been abandoned by historians of science. Medieval universities were church institutions; Copernicus was a canon; Aquinas built on Aristotle. Real critiques of religious interference exist and are specific — make those instead.",
-    "raw_text": "**\"The Church caused the Dark Ages and suppressed science.\"** The conflict thesis, from Draper (1874) and White (1896), has been abandoned by historians of science. Medieval universities were church institutions; Copernicus was a canon; Aquinas built on Aristotle. Real critiques of religious interference exist and are specific — make those instead.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:67",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_bb7936d29fbda21f4e3e",
-    "text": "\"Christians burned the Library of Alexandria.\" It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.",
-    "raw_text": "**\"Christians burned the Library of Alexandria.\"** It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:68",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_23860821c32c814c24cf",
-    "text": "\"Hypatia was murdered for defending science.\" She was killed in 415 CE in a factional political conflict in Alexandria. Real, ugly, and not about science. The Agora version is fiction.",
-    "raw_text": "**\"Hypatia was murdered for defending science.\"** She was killed in 415 CE in a factional political conflict in Alexandria. Real, ugly, and not about science. The *Agora* version is fiction.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
-    "source_reference": "paragraph:69",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_f8161f4faa8b37c4bcca",
-    "text": "\"Christmas is just Saturnalia / Sol Invictus.\" Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be later than the Christian date, not earlier.",
-    "raw_text": "**\"Christmas is just Saturnalia / Sol Invictus.\"** Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be *later* than the Christian date, not earlier.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
     "source_reference": "paragraph:70",
     "parent_id": null,
     "related_ids": [],
@@ -2193,9 +2198,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9c204c188c455cc7d73a",
-    "text": "\"The Bible is like a game of telephone — copied so many times it's meaningless.\" Wrong model. Textual criticism works by comparing surviving copies, and errors in independent lines can be detected and corrected precisely because there are many manuscripts. Use the argument in §4 instead: the reconstruction is real but only reaches the second century.",
-    "raw_text": "**\"The Bible is like a game of telephone — copied so many times it's meaningless.\"** Wrong model. Textual criticism works by comparing surviving copies, and errors in independent lines can be detected and corrected precisely because there are many manuscripts. Use the argument in §4 instead: the reconstruction is real but only reaches the second century.",
+    "id": "rk_2a2c193d06345c2dcbc8",
+    "text": "Read this section first. These claims circulate widely, feel powerful, and are false or badly overstated. Deploying one hands your opponent an easy, verifiable win and discredits everything true you said before it. Every item below is rejected by secular historians, not by apologists.",
+    "raw_text": "**Read this section first.** These claims circulate widely, feel powerful, and are false or badly overstated. Deploying one hands your opponent an easy, verifiable win and discredits everything true you said before it. Every item below is rejected by secular historians, not by apologists.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2224,9 +2229,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_97ae115492462b782413",
-    "text": "\"Nicaea removed reincarnation from the Bible.\" No evidence. Origen's speculations on pre-existence were condemned at Constantinople in 553, not Nicaea, and never appeared in canonical texts.",
-    "raw_text": "**\"Nicaea removed reincarnation from the Bible.\"** No evidence. Origen's speculations on pre-existence were condemned at Constantinople in 553, not Nicaea, and never appeared in canonical texts.",
+    "id": "rk_7ba91b9aa077eb7c8c84",
+    "text": "\"Constantine created the Bible / Nicaea voted on Jesus's divinity.\" False. See §7. Traces to a ninth-century manuscript via Voltaire and Dan Brown.",
+    "raw_text": "**\"Constantine created the Bible / Nicaea voted on Jesus's divinity.\"** False. See §7. Traces to a ninth-century manuscript via Voltaire and Dan Brown.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2255,9 +2260,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_cb59cee65512c49a300c",
-    "text": "The resource: Tim O'Neill's History for Atheists is an atheist site devoted entirely to debunking bad atheist history. If you are going to use a historical claim in an argument, check it there first. Using a source hostile to your own side's sloppiness is what makes the rest of your case credible.",
-    "raw_text": "**The resource:** Tim O'Neill's **History for Atheists** is an atheist site devoted entirely to debunking bad atheist history. If you are going to use a historical claim in an argument, check it there first. Using a source hostile to your own side's sloppiness is what makes the rest of your case credible.",
+    "id": "rk_12808b019b9abab2897a",
+    "text": "\"Jesus never existed.\" Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. You do not need mythicism; a historical Jesus who was an apocalyptic Jewish preacher executed by Rome is more corrosive to orthodox theology than an invented one, because it puts the burden on explaining how that figure became God.",
+    "raw_text": "**\"Jesus never existed.\"** Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. You do not need mythicism; a historical Jesus who was an apocalyptic Jewish preacher executed by Rome is *more* corrosive to orthodox theology than an invented one, because it puts the burden on explaining how that figure became God.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2286,7 +2291,255 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d78ab272d5f2a4376371",
+    "id": "rk_dede7bc6ef1623e747b0",
+    "text": "\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\" Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and Zeitgeist (2007). Egyptologists reject it flatly. This is the single fastest way to lose an argument to anyone who has read a real source.",
+    "raw_text": "**\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\"** Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and *Zeitgeist* (2007). Egyptologists reject it flatly. **This is the single fastest way to lose an argument to anyone who has read a real source.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:74",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_0fff10631bd966bfa6aa",
+    "text": "\"The Church caused the Dark Ages and suppressed science.\" The conflict thesis, from Draper (1874) and White (1896), has been abandoned by historians of science. Medieval universities were church institutions; Copernicus was a canon; Aquinas built on Aristotle. Real critiques of religious interference exist and are specific — make those instead.",
+    "raw_text": "**\"The Church caused the Dark Ages and suppressed science.\"** The conflict thesis, from Draper (1874) and White (1896), has been abandoned by historians of science. Medieval universities were church institutions; Copernicus was a canon; Aquinas built on Aristotle. Real critiques of religious interference exist and are specific — make those instead.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:75",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a2532d9ea8c534f6641c",
+    "text": "\"Christians burned the Library of Alexandria.\" It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.",
+    "raw_text": "**\"Christians burned the Library of Alexandria.\"** It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:76",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_516101bac5a3bb9a369b",
+    "text": "\"Hypatia was murdered for defending science.\" She was killed in 415 CE in a factional political and ecclesiastical conflict in Alexandria. Real, ugly, and not a martyrdom for science. The Agora version is fiction.",
+    "raw_text": "**\"Hypatia was murdered for defending science.\"** She was killed in 415 CE in a factional political and ecclesiastical conflict in Alexandria. Real, ugly, and not a martyrdom for science. The *Agora* version is fiction.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:77",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_63bd5534ab2bb1eb6f99",
+    "text": "\"Christmas is just Saturnalia / Sol Invictus.\" Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be later than the Christian date, not earlier.",
+    "raw_text": "**\"Christmas is just Saturnalia / Sol Invictus.\"** Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be *later* than the Christian date, not earlier.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:78",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_283ce62e721ba5b899dd",
+    "text": "\"The Bible is like a game of telephone — copied so many times it's meaningless.\" Wrong model. Textual criticism works by comparing surviving copies, and errors in independent lines can be detected and corrected precisely because there are many manuscripts. Use the argument in §4 instead: the reconstruction is real but only reaches the second century.",
+    "raw_text": "**\"The Bible is like a game of telephone — copied so many times it's meaningless.\"** Wrong model. Textual criticism works by comparing surviving copies, and errors in independent lines can be detected and corrected precisely because there are many manuscripts. Use the argument in §4 instead: the reconstruction is real but only reaches the second century.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:79",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2b5a2e55be2b2c14f3f4",
+    "text": "\"Nicaea removed reincarnation from the Bible.\" No evidence. Origen's speculations on pre-existence were condemned at Constantinople in 553, not Nicaea, and never appeared in canonical texts.",
+    "raw_text": "**\"Nicaea removed reincarnation from the Bible.\"** No evidence. Origen's speculations on pre-existence were condemned at Constantinople in 553, not Nicaea, and never appeared in canonical texts.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:80",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_faee408bebc708d48179",
+    "text": "The resource: Tim O'Neill's History for Atheists is an atheist site devoted entirely to debunking bad atheist history. If you are going to use a historical claim in an argument, check it there first. Using a source hostile to your own side's sloppiness is what makes the rest of your case credible.",
+    "raw_text": "**The resource:** Tim O'Neill's **History for Atheists** is an atheist site devoted entirely to debunking bad atheist history. If you are going to use a historical claim in an argument, check it there first. Using a source hostile to your own side's sloppiness is what makes the rest of your case credible.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_reference": "paragraph:81",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a659019b791a8280cb24",
     "text": "\"5,800 manuscripts.\" True. See §4. Concede the number, contest the inference.",
     "raw_text": "**\"5,800 manuscripts.\"** True. See §4. Concede the number, contest the inference.",
     "provenance_type": "CLAUDE",
@@ -2303,7 +2556,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:74",
+    "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2317,7 +2570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4913eff506e6e0211d0c",
+    "id": "rk_cd70d65e53420c622964",
     "text": "\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\" The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. Concede it. Then note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
     "raw_text": "**\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\"** The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. **Concede it.** Then note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
     "provenance_type": "CLAUDE",
@@ -2334,7 +2587,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:75",
+    "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2348,7 +2601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_44c385f9ff000d9df6ce",
+    "id": "rk_6c4b04dd25aea17b62c4",
     "text": "\"The apostles died for what they saw — nobody dies for a known lie.\" The martyrdom traditions are late, mostly from apocryphal Acts of the second century and later, and reliable evidence exists for almost none of the individual deaths. Even granting the premise: people die for sincerely held beliefs constantly, across every religion, which shows sincerity, not accuracy.",
     "raw_text": "**\"The apostles died for what they saw — nobody dies for a known lie.\"** The martyrdom traditions are late, mostly from apocryphal Acts of the second century and later, and reliable evidence exists for almost none of the individual deaths. Even granting the premise: people die for sincerely held beliefs constantly, across every religion, which shows sincerity, not accuracy.",
     "provenance_type": "CLAUDE",
@@ -2365,7 +2618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:76",
+    "source_reference": "paragraph:84",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2379,7 +2632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b2e9609f873f8a0f83a0",
+    "id": "rk_9d82cdbd3c4c5e9a457e",
     "text": "\"Archaeology has confirmed the Bible.\" It has confirmed the setting repeatedly. See §1.3. Ask which specific event, then ask what the evidence would look like if it were only the setting that was accurate.",
     "raw_text": "**\"Archaeology has confirmed the Bible.\"** It has confirmed the setting repeatedly. See §1.3. Ask which specific event, then ask what the evidence would look like if it were only the setting that was accurate.",
     "provenance_type": "CLAUDE",
@@ -2396,7 +2649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:77",
+    "source_reference": "paragraph:85",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2410,7 +2663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_80bd8144804516c74d8f",
+    "id": "rk_0f7958b1718e17cdf5e7",
     "text": "\"The Hittites were thought mythical until archaeology proved the Bible right.\" Overstated, and it is an argument from one past vindication to unlimited future credit. The same reasoning would have vindicated the conquest of Jericho, which the archaeology did not support.",
     "raw_text": "**\"The Hittites were thought mythical until archaeology proved the Bible right.\"** Overstated, and it is an argument from one past vindication to unlimited future credit. The same reasoning would have vindicated the conquest of Jericho, which the archaeology did not support.",
     "provenance_type": "CLAUDE",
@@ -2427,7 +2680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:78",
+    "source_reference": "paragraph:86",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2441,7 +2694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_8785417f2ba1d1e2f16b",
+    "id": "rk_7f412088fb1b32a3a5cb",
     "text": "\"Christianity ended slavery.\" Abolition was driven substantially by Christians — Wilberforce, the Quakers — and that is real. So was the biblical defense of slavery, using Colossians 3:22 and Ephesians 6:5, for eighteen centuries prior. The text supported both sides, which is the actual point. See Master Notes §6.5 for the disputed-letter dimension, which sharpens this considerably.",
     "raw_text": "**\"Christianity ended slavery.\"** Abolition was driven substantially by Christians — Wilberforce, the Quakers — and that is real. So was the biblical defense of slavery, using Colossians 3:22 and Ephesians 6:5, for eighteen centuries prior. The text supported both sides, which is the actual point. See Master Notes §6.5 for the disputed-letter dimension, which sharpens this considerably.",
     "provenance_type": "CLAUDE",
@@ -2458,7 +2711,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:79",
+    "source_reference": "paragraph:87",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2472,7 +2725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b6e4f2888a2c48ae1345",
+    "id": "rk_e1779ae3dde7a004bee8",
     "text": "\"The Crusades were defensive.\" Partly defensible for the First Crusade in context of Seljuk expansion; not defensible for the Fourth, which sacked Christian Constantinople. Do not accept the framing wholesale and do not reject it wholesale.",
     "raw_text": "**\"The Crusades were defensive.\"** Partly defensible for the First Crusade in context of Seljuk expansion; not defensible for the Fourth, which sacked Christian Constantinople. Do not accept the framing wholesale and do not reject it wholesale.",
     "provenance_type": "CLAUDE",
@@ -2489,7 +2742,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
-    "source_reference": "paragraph:80",
+    "source_reference": "paragraph:88",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2503,7 +2756,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9a983c59ffe959e47376",
+    "id": "rk_867acb32156a3cc9b185",
     "text": "You will meet someone who knows more history than you. This will keep happening; the field is enormous.",
     "raw_text": "You will meet someone who knows more history than you. This will keep happening; the field is enormous.",
     "provenance_type": "CLAUDE",
@@ -2520,7 +2773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
-    "source_reference": "paragraph:81",
+    "source_reference": "paragraph:89",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2534,7 +2787,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2fe6ef826c37193b8534",
+    "id": "rk_62a8b43bee4fc951e8fe",
     "text": "The move: \"I don't know that one. Where can I read it?\"",
     "raw_text": "**The move:** *\"I don't know that one. Where can I read it?\"*",
     "provenance_type": "CLAUDE",
@@ -2551,7 +2804,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
-    "source_reference": "paragraph:82",
+    "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2565,7 +2818,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bdecdd414012c90ceb78",
+    "id": "rk_6cc0df16fc4081cfa92c",
     "text": "This costs nothing and does three things at once. It is honest. It makes any later concession from them harder to refuse, because you have modeled it. And it prevents the failure mode that actually loses arguments — defending a claim you are not sure of, getting refuted on it, and having every earlier point retroactively discredited.",
     "raw_text": "This costs nothing and does three things at once. It is honest. It makes any later concession from them harder to refuse, because you have modeled it. And it prevents the failure mode that actually loses arguments — defending a claim you are not sure of, getting refuted on it, and having every earlier point retroactively discredited.",
     "provenance_type": "CLAUDE",
@@ -2582,7 +2835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
-    "source_reference": "paragraph:83",
+    "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2596,7 +2849,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_210f73df4a7d3dd36276",
+    "id": "rk_4911c0d31af959f34209",
     "text": "The principle underneath : one confidently stated wrong fact costs more than ten unstated right ones. This is the same lesson as the audit log in the Master Notes, applied in real time.",
     "raw_text": "**The principle underneath** ⟨INFERENCE⟩**:** one confidently stated wrong fact costs more than ten unstated right ones. This is the same lesson as the audit log in the Master Notes, applied in real time.",
     "provenance_type": "CLAUDE",
@@ -2613,7 +2866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
-    "source_reference": "paragraph:84",
+    "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2627,7 +2880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7be5c9fb35823c5091f6",
+    "id": "rk_18a5af39cdf3ac6d79f2",
     "text": "And the position that requires no history at all is still the strongest thing available: Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every scheme for sorting them comes from outside the text. That argument cannot be outflanked by someone with better dates.",
     "raw_text": "**And the position that requires no history at all** is still the strongest thing available: Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every scheme for sorting them comes from outside the text. That argument cannot be outflanked by someone with better dates.",
     "provenance_type": "CLAUDE",
@@ -2644,7 +2897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
-    "source_reference": "paragraph:85",
+    "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2658,7 +2911,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bfe2afeacedc98b9d7fd",
+    "id": "rk_b8a1773b7664441eca50",
     "text": "Living document — verify before deploying. Claims here are checked as of August 2026 but this is a summary, not a source.",
     "raw_text": "*Living document — verify before deploying. Claims here are checked as of August 2026 but this is a summary, not a source.*",
     "provenance_type": "CLAUDE",
@@ -2675,7 +2928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
-    "source_reference": "paragraph:86",
+    "source_reference": "paragraph:94",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
