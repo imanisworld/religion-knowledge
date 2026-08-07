@@ -833,6 +833,12 @@
     if (saved) document.documentElement.dataset.theme = saved;
   } catch {}
 
+  // The standalone single-file build has no sibling index.html to link back
+  // to — it is the whole app in one file — so hide the readers link there.
+  if (window.RELIGION_KNOWLEDGE_SOURCE_URIS) {
+    $('back-to-readers')?.remove();
+  }
+
   renderAll();
   route();
 })();

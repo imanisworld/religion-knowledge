@@ -605,6 +605,7 @@ button.stat-card:focus-visible { border-color: var(--accent); }
       <button class="nav-item side-item" type="button" data-view="review"><span>!</span><small>Review Queue</small></button>
     </nav>
     <header class="topbar">
+      <a id="back-to-readers" class="icon-button" href="../index.html" aria-label="Back to Bible Deep Dive readers" title="Back to readers">📖</a>
       <div>
         <p class="eyebrow">Religion Knowledge</p>
         <h1 id="page-title">Home</h1>
@@ -42217,6 +42218,12 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     const saved = localStorage.getItem('religion-knowledge-theme');
     if (saved) document.documentElement.dataset.theme = saved;
   } catch {}
+
+  // The standalone single-file build has no sibling index.html to link back
+  // to — it is the whole app in one file — so hide the readers link there.
+  if (window.RELIGION_KNOWLEDGE_SOURCE_URIS) {
+    $('back-to-readers')?.remove();
+  }
 
   renderAll();
   route();
