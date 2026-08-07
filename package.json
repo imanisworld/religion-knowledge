@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "test": "node --test",
-    "generate-records": "node scripts/import/generate-records.mjs --output-dir data/normalized/generated"
+    "generate-records": "node scripts/import/generate-records.mjs --output-dir data/normalized/generated",
+    "build:standalone": "node scripts/build-standalone.mjs --output dist/religion-knowledge-standalone.html"
   }
 }
