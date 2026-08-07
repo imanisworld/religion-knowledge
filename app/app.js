@@ -1,7 +1,76 @@
 (() => {
-  const records = Array.isArray(window.RELIGION_KNOWLEDGE_RECORDS)
+  const baseRecords = Array.isArray(window.RELIGION_KNOWLEDGE_RECORDS)
     ? window.RELIGION_KNOWLEDGE_RECORDS
     : [];
+  const committedOverrides = window.RELIGION_KNOWLEDGE_OVERRIDES && typeof window.RELIGION_KNOWLEDGE_OVERRIDES === 'object'
+    ? window.RELIGION_KNOWLEDGE_OVERRIDES
+    : {};
+
+  const OVERRIDE_STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const ALLOWED_OVERRIDE_TYPES = [
+    'MY_WORDS',
+    'MY_POSITION',
+    'MY_QUESTION',
+    'CLAUDE',
+    'CHATGPT',
+    'SOURCE',
+    'INFERENCE',
+    'REVIEW_REQUIRED',
+  ];
+
+  function loadLocalOverrides() {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(OVERRIDE_STORAGE_KEY) || '{}');
+      return parsed && typeof parsed === 'object' ? parsed : {};
+    } catch {
+      return {};
+    }
+  }
+
+  let localOverrides = loadLocalOverrides();
+
+  function getOverride(recordId) {
+    return localOverrides[recordId] || committedOverrides[recordId] || null;
+  }
+
+  function effectiveRecord(record) {
+    const override = getOverride(record.id);
+    if (!override || !ALLOWED_OVERRIDE_TYPES.includes(override.provenance_type)) return record;
+
+    const provenance = override.provenance_type;
+    const inference = provenance === 'INFERENCE';
+    return {
+      ...record,
+      provenance_type: provenance,
+      representation_type: inference ? 'INFERENCE' : record.representation_type,
+      speaker:
+        provenance === 'CLAUDE' ? 'Claude' :
+        provenance === 'CHATGPT' ? 'ChatGPT' :
+        ['MY_WORDS', 'MY_POSITION', 'MY_QUESTION'].includes(provenance) ? 'user' :
+        record.speaker,
+      review_required: provenance === 'REVIEW_REQUIRED',
+      attribution_confidence: provenance === 'REVIEW_REQUIRED' ? 'UNKNOWN' : 'MANUALLY_REVIEWED',
+      attribution_evidence: provenance === 'REVIEW_REQUIRED'
+        ? record.attribution_evidence
+        : {
+            method: 'manual_review_override',
+            value: override.note || 'Manually classified after reviewing the original source.',
+          },
+      original_attribution: {
+        provenance_type: record.provenance_type,
+        representation_type: record.representation_type,
+        review_required: record.review_required,
+        attribution_confidence: record.attribution_confidence,
+        attribution_evidence: record.attribution_evidence,
+      },
+      override_applied: true,
+      override_updated_at: override.updated_at || null,
+    };
+  }
+
+  function currentRecords() {
+    return baseRecords.map(effectiveRecord);
+  }
 
   const state = {
     view: 'home',
@@ -58,7 +127,7 @@
   }
 
   function filteredRecords(extra = () => true) {
-    return records.filter((r) => matchesFilters(r) && extra(r));
+    return currentRecords().filter((r) => matchesFilters(r) && extra(r));
   }
 
   function card(record) {
@@ -71,10 +140,11 @@
         return `<span class="badge ${cls}">${escapeHtml(label(item))}</span>`;
       })
       .join('');
+    const overrideBadge = record.override_applied ? '<span class="badge">MANUAL REVIEW</span>' : '';
 
     return `
       <button class="record-card" type="button" data-record-id="${escapeHtml(record.id)}">
-        <div class="record-meta">${badges}</div>
+        <div class="record-meta">${badges}${overrideBadge}</div>
         <h3>${escapeHtml(title.length > 110 ? `${title.slice(0, 107)}…` : title)}</h3>
         ${preview && preview !== title ? `<p>${escapeHtml(preview.length > 220 ? `${preview.slice(0, 217)}…` : preview)}</p>` : ''}
         ${record.source_file ? `<p class="record-source">${escapeHtml(record.source_file)}${record.source_section ? ` · ${escapeHtml(record.source_section)}` : ''}</p>` : ''}
@@ -94,6 +164,7 @@
   }
 
   function renderStats() {
+    const records = currentRecords();
     const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').length;
     const mine = records.filter((r) => ['MY_WORDS', 'MY_POSITION', 'MY_QUESTION'].includes(r.provenance_type)).length;
     const audits = records.filter((r) => ['AUDIT', 'CORRECTION'].includes(r.record_type)).length;
@@ -112,29 +183,30 @@
   }
 
   function renderHome() {
+    const records = currentRecords();
     const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').slice(0, 4);
     const recent = [...records]
       .sort((a, b) => String(b.original_date || '').localeCompare(String(a.original_date || '')))
       .slice(0, 6);
 
     renderStats();
-    renderList('home-review-list', review, 'Nothing normalized yet', 'The review queue will populate after the corpus importer has been executed and validated.');
-    renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git. This shell intentionally does not invent records before parsing is tested.');
+    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.');
+    renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.');
   }
 
   function renderThoughts() {
     const items = filteredRecords((r) => ['MY_WORDS', 'MY_POSITION', 'MY_QUESTION'].includes(r.provenance_type));
-    renderList('thoughts-list', items, 'No proven user records yet', 'Only explicitly attributable user material will appear here.');
+    renderList('thoughts-list', items, 'No proven user records yet', 'Only explicitly attributable or manually reviewed user material appears here.');
   }
 
   function renderQuestions() {
     const items = filteredRecords((r) => r.provenance_type === 'MY_QUESTION' || r.record_type === 'QUESTION');
-    renderList('questions-list', items, 'No questions normalized yet', 'Questions will appear here only after source-backed attribution.');
+    renderList('questions-list', items, 'No questions normalized yet', 'Questions appear here without implying that unresolved questions belong to you.');
   }
 
   function renderSources() {
     const items = filteredRecords((r) => r.provenance_type === 'SOURCE' || r.record_type === 'SOURCE_NOTE');
-    renderList('sources-list', items, 'No source records normalized yet', 'Named scholarly, scriptural, historical, and primary-source records will appear here.');
+    renderList('sources-list', items, 'No source records normalized yet', 'Named scholarly, scriptural, historical, and primary-source records appear here.');
   }
 
   function renderAI() {
@@ -146,13 +218,13 @@
   }
 
   function renderAudits() {
-    const items = filteredRecords((r) => ['AUDIT', 'CORRECTION'].includes(r.record_type));
-    renderList('audits-list', items, 'No audits normalized yet', 'Original claims and later corrections will remain separate linked records.');
+    const items = filteredRecords((r) => ['AUDIT', 'AUDIT_NOTE', 'AUDIT_STATUS', 'CORRECTION', 'AUDIT_SURVIVAL', 'AUDIT_REASONING'].includes(r.record_type));
+    renderList('audits-list', items, 'No audits normalized yet', 'Original claims and later corrections remain separate linked records.');
   }
 
   function renderReview() {
     const items = filteredRecords((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED');
-    renderList('review-list', items, 'No review records yet', 'Ambiguous or mixed material will be routed here instead of guessed.');
+    renderList('review-list', items, 'Review queue clear', 'Manually reviewed items leave this queue but retain their original attribution underneath.');
   }
 
   function renderTopics() {
@@ -163,10 +235,11 @@
     const topics = [...counts.entries()].sort((a, b) => b[1] - a[1]);
     $('topics-list').innerHTML = topics.length
       ? topics.map(([topic, count]) => `<button class="topic-card" type="button" data-topic="${escapeHtml(topic)}"><strong>${escapeHtml(topic)}</strong><span>${count} record${count === 1 ? '' : 's'}</span></button>`).join('')
-      : emptyState('No topics normalized yet', 'Topic metadata will be derived only after the source parser is tested.');
+      : emptyState('No topics normalized yet', 'Topic metadata appears after corpus normalization.');
   }
 
   function buildChains() {
+    const records = currentRecords();
     const byId = new Map(records.map((r) => [r.id, r]));
     const chains = [];
     records.forEach((record) => {
@@ -186,7 +259,7 @@
 
   function renderSearch() {
     const items = filteredRecords();
-    renderList('search-results', items, 'No matching records', records.length ? 'Change the search or filters.' : 'The normalized record store is intentionally empty until parsing is validated.');
+    renderList('search-results', items, 'No matching records', currentRecords().length ? 'Change the search or filters.' : 'No normalized records have been loaded.');
   }
 
   function renderAll() {
@@ -212,9 +285,33 @@
     window.scrollTo({ top: 0, behavior: 'smooth' });
   }
 
+  function reviewControls(record) {
+    const original = baseRecords.find((r) => r.id === record.id) || record;
+    const options = ALLOWED_OVERRIDE_TYPES.map((type) => `<option value="${type}"${record.provenance_type === type ? ' selected' : ''}>${escapeHtml(label(type))}</option>`).join('');
+    const originalEvidence = original.attribution_evidence
+      ? `${original.attribution_evidence.method || 'evidence'}: ${original.attribution_evidence.value || ''}`
+      : 'Not recorded';
+
+    return `
+      <section class="review-editor" aria-label="Manual attribution review">
+        <h3>Attribution review</h3>
+        <p>This changes only the app's review layer. The original source text and parser attribution remain unchanged.</p>
+        <label for="review-provenance">Reviewed attribution</label>
+        <select id="review-provenance">${options}</select>
+        <label for="review-note">Review note</label>
+        <textarea id="review-note" rows="3" placeholder="Why this attribution is now known"></textarea>
+        <div class="dialog-actions">
+          <button type="button" id="save-review-override" data-record-id="${escapeHtml(record.id)}">Save review</button>
+          ${getOverride(record.id) ? `<button type="button" id="clear-review-override" data-record-id="${escapeHtml(record.id)}">Restore parser attribution</button>` : ''}
+        </div>
+        <p class="record-source"><strong>Original parser attribution:</strong> ${escapeHtml(label(original.provenance_type))} · ${escapeHtml(originalEvidence)}</p>
+      </section>`;
+  }
+
   function openRecord(id) {
-    const record = records.find((r) => r.id === id);
-    if (!record) return;
+    const base = baseRecords.find((r) => r.id === id);
+    if (!base) return;
+    const record = effectiveRecord(base);
     $('dialog-kicker').textContent = [label(record.provenance_type), label(record.representation_type)].filter(Boolean).join(' · ');
     $('dialog-title').textContent = record.title || record.record_type || 'Record';
 
@@ -231,9 +328,38 @@
         <div class="detail-row"><strong>Source</strong>${escapeHtml(record.source_file || 'Unknown')}${record.source_section ? ` · ${escapeHtml(record.source_section)}` : ''}</div>
         <div class="detail-row"><strong>Topics</strong>${escapeHtml((record.topics || []).join(', ') || 'None')}</div>
         <div class="detail-row"><strong>Status</strong>${escapeHtml(label(record.status || record.position_status || ''))}</div>
-      </div>`;
+      </div>
+      ${reviewControls(record)}`;
 
+    const override = getOverride(record.id);
+    if (override?.note) $('review-note').value = override.note;
     $('record-dialog').showModal();
+  }
+
+  function saveReviewOverride(recordId) {
+    const provenance = $('review-provenance')?.value;
+    if (!ALLOWED_OVERRIDE_TYPES.includes(provenance)) return;
+    const note = $('review-note')?.value?.trim() || '';
+    localOverrides = {
+      ...localOverrides,
+      [recordId]: {
+        provenance_type: provenance,
+        note,
+        updated_at: new Date().toISOString(),
+      },
+    };
+    try { localStorage.setItem(OVERRIDE_STORAGE_KEY, JSON.stringify(localOverrides)); } catch {}
+    renderAll();
+    openRecord(recordId);
+  }
+
+  function clearReviewOverride(recordId) {
+    const next = { ...localOverrides };
+    delete next[recordId];
+    localOverrides = next;
+    try { localStorage.setItem(OVERRIDE_STORAGE_KEY, JSON.stringify(localOverrides)); } catch {}
+    renderAll();
+    openRecord(recordId);
   }
 
   document.addEventListener('click', (event) => {
@@ -244,7 +370,15 @@
     if (go) showView(go.dataset.go);
 
     const record = event.target.closest('[data-record-id]');
-    if (record) openRecord(record.dataset.recordId);
+    if (record && !event.target.closest('#save-review-override, #clear-review-override')) openRecord(record.dataset.recordId);
+
+    if (event.target.closest('#save-review-override')) {
+      saveReviewOverride(event.target.closest('#save-review-override').dataset.recordId);
+    }
+
+    if (event.target.closest('#clear-review-override')) {
+      clearReviewOverride(event.target.closest('#clear-review-override').dataset.recordId);
+    }
 
     const ai = event.target.closest('[data-ai]');
     if (ai) {
