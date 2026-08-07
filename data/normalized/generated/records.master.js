@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Bible_Deep_Dive_Master_Notes.md
-// Parser version: 1.1.1
+// Parser version: 1.1.2
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -31,7 +31,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2c3ddabec9d98966a943",
@@ -61,7 +61,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9df7867de4fc0e88c8f0",
@@ -91,15 +91,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7f945dfe4194aa1e0ae5",
     "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar said this in a named publication. Go check it. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it and it should never be cited as though someone did.\n> -  — your own observation, from reading or from live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* an unmarked claim in an audit body is documented. Anything marked  is Claude reasoning, and you should treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar said this in a named publication. Go check it. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it and it should never be cited as though someone did.\n> - **⟨YOURS⟩** — your own observation, from reading or from live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** an unmarked claim in an audit body is documented. Anything marked ⟨INFERENCE⟩ is Claude reasoning, and you should treat it exactly as sceptically as you treat everything else here.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Master Notes"
     ],
@@ -115,13 +115,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨YOURS⟩"
+      "method": "multiple_explicit_markers",
+      "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
-    "review_required": false,
-    "parser_version": "1.1.1"
+    "review_required": true,
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_305665b38ac3a186ffc7",
@@ -151,7 +151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f05631f3eb0a751d489a",
@@ -182,7 +182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c7838ddcca3e90e2f685",
@@ -213,7 +213,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f6c4a611c175f21e6a86",
@@ -244,7 +244,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_fe0c9d9188f7bf5cbaf8",
@@ -275,7 +275,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e9ed6553b0633b9f6e42",
@@ -307,7 +307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e9440149729e77ea34f3",
@@ -339,7 +339,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_123d19c75c01e4694b86",
@@ -371,7 +371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_b5f764e132e647134d2e",
@@ -403,7 +403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_aaf2000fbd02daee43db",
@@ -435,7 +435,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1f281db952704d2d8a07",
@@ -467,7 +467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_08ad55651390baa8cb24",
@@ -500,7 +500,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e31b95b2cc38e43acc0d",
@@ -535,7 +535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_ec5dff1e1f1704f1f024",
@@ -570,7 +570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a501462f3cabcccd281e",
@@ -603,7 +603,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0ba7c0daf0108e75a711",
@@ -636,7 +636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c002b4dd6ff9995c8e96",
@@ -669,7 +669,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d5831303f79bc3f349ad",
@@ -702,7 +702,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_66edf3003b6865e14ece",
@@ -735,7 +735,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f8309a9043518824b472",
@@ -768,7 +768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3436ed8b3878b4df6bc8",
@@ -801,7 +801,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_49c1051a8fe2d29adaf7",
@@ -837,7 +837,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_5f72f18fbb937d70d370",
@@ -870,7 +870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c2bd768ff32bc146c2df",
@@ -903,7 +903,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_4f5c99e3f8511b8cf60a",
@@ -935,7 +935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_5a88a63818b44d0eb733",
@@ -967,7 +967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_325d0728c35c84a7ba25",
@@ -1000,7 +1000,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_4c444ba600151581afc2",
@@ -1035,7 +1035,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f318ca9152e7a85bd2e7",
@@ -1070,7 +1070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_20156b3f7147b4c47ed0",
@@ -1103,7 +1103,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_819dc695f6f73c5983b9",
@@ -1136,7 +1136,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_96c8b80d6cb040b728af",
@@ -1169,7 +1169,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_00959c4b877c0e2a654c",
@@ -1202,7 +1202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3d5495974e255ae2cae5",
@@ -1235,7 +1235,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3a4902f3ad29adec56bb",
@@ -1268,7 +1268,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c06a4711328ed20cf4df",
@@ -1301,7 +1301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e9395f00f98d872584b9",
@@ -1334,7 +1334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2668353c772cf1b27a5d",
@@ -1370,7 +1370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d3b58a6024b9398b2fad",
@@ -1403,7 +1403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_95ddcd377d18fa2430a1",
@@ -1436,7 +1436,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d3715ac46559de4cb938",
@@ -1469,7 +1469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e4cd88ab06c2d341797e",
@@ -1504,7 +1504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e7c67b28cee627a5b895",
@@ -1539,7 +1539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_faedc174d815baecd1b9",
@@ -1572,7 +1572,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_07102b9bb2c86d4f5aea",
@@ -1605,7 +1605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7c12f640cc8125465e63",
@@ -1638,7 +1638,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1117449323acd2a9abf6",
@@ -1671,7 +1671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0fb14def9ead47357bea",
@@ -1704,7 +1704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_81da0c23d60031ae489f",
@@ -1737,7 +1737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_afa18611adf57e640b6b",
@@ -1773,7 +1773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_adf8f483477320705126",
@@ -1806,7 +1806,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_87c99d0702e901a2ce33",
@@ -1839,7 +1839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c2b6a28dc70a59a49a1f",
@@ -1870,7 +1870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0a33cd962cb9c7ff33ea",
@@ -1901,7 +1901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_326161ff15a8b42acf56",
@@ -1932,7 +1932,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e6732eff7a5c40a761a6",
@@ -1963,7 +1963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_15f99c2c48201d6a1e23",
@@ -1995,7 +1995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_14820f6d95f423014bcc",
@@ -2027,7 +2027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a38ed59bfabe99962cde",
@@ -2059,7 +2059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_34b4ce0d21bf74de9e97",
@@ -2091,7 +2091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0ba287262db290ac7156",
@@ -2123,7 +2123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_eab3bf1514228bb77ec1",
@@ -2155,7 +2155,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_78e6bc8ae5520ae21584",
@@ -2187,7 +2187,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_09926981289d8d8fef8c",
@@ -2219,7 +2219,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_5883c2861d2517e35f28",
@@ -2251,7 +2251,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_fce55040949c276ff33e",
@@ -2282,7 +2282,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_929d9c559ee32d3013aa",
@@ -2313,7 +2313,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c258c409ba9d2aec38b4",
@@ -2344,7 +2344,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3a526399ff37f1b21524",
@@ -2376,7 +2376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e7d790129db478d97700",
@@ -2408,7 +2408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e8dc5f1ffbf0383bb577",
@@ -2440,7 +2440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3b5501cc380c682da5f1",
@@ -2472,7 +2472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_53bcf9840b0b7c1f46c0",
@@ -2504,7 +2504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7ff0d2c617854ae3fbc9",
@@ -2536,7 +2536,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨YOURS⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9c8d58da1676991c31d1",
@@ -2568,7 +2568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_fa68779c918337ab7b3a",
@@ -2600,7 +2600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1029f85d169262307fe0",
@@ -2632,7 +2632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_dfc88e158bccc6caaddd",
@@ -2664,7 +2664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d414a7ace84af58a8e9d",
@@ -2696,7 +2696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a83da4a244d5767f6dd4",
@@ -2728,7 +2728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_cc1df7668212ef0e48d3",
@@ -2760,7 +2760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7297b0149b3e85b1e901",
@@ -2792,7 +2792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0be5f6e0acb9557d5897",
@@ -2824,7 +2824,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_317f045584dde9f047f5",
@@ -2856,7 +2856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1935c18a9c26bb0b8bc0",
@@ -2888,7 +2888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_99edb1a7ba0004ac55ff",
@@ -2920,7 +2920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_b7ea4d5f7ac27b5e7234",
@@ -2953,7 +2953,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_582b57dec9453a46496c",
@@ -2986,7 +2986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_19d37a26416aff31334b",
@@ -3021,7 +3021,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_4033748b13f6c81bf2eb",
@@ -3054,7 +3054,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e80083be31ee1b3046b0",
@@ -3087,7 +3087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_5624050192efca019d7d",
@@ -3120,7 +3120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e35e116fe83fa5824e1f",
@@ -3153,7 +3153,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_bda72fdd45bf21267633",
@@ -3186,7 +3186,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1f8efcf417dbd9799822",
@@ -3219,7 +3219,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e9ad89d5a12209941bac",
@@ -3252,7 +3252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_6386f667486cb80dc0b1",
@@ -3285,7 +3285,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e10b8e7a9af8ae106e77",
@@ -3320,7 +3320,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_6462a11e388fa3a1433e",
@@ -3353,7 +3353,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7bb0a7ae7e99f8f405dd",
@@ -3386,7 +3386,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_953086ab0e00dc6d12ac",
@@ -3417,7 +3417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_cfbde7a3f8c093695d8d",
@@ -3448,7 +3448,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c6f328a4eace1f2d7a10",
@@ -3479,7 +3479,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_10af65245d77226dd36f",
@@ -3510,7 +3510,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_11372d13b05571bd70d9",
@@ -3541,7 +3541,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2d0521ffb5b41da04a19",
@@ -3572,7 +3572,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d3f9ebbaac1e1eb75404",
@@ -3603,7 +3603,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_70665e276b7175b3b051",
@@ -3634,7 +3634,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_4c7412c67c93c1eb769f",
@@ -3666,7 +3666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_34e423800f5dda240ed6",
@@ -3698,7 +3698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_863a590bb1af1ab98a25",
@@ -3730,7 +3730,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_111fb2fd464d456ed2c8",
@@ -3762,7 +3762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_307c7a2e4509ea9391ba",
@@ -3794,7 +3794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_468578ebc765b9e7d3bb",
@@ -3826,7 +3826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_aa0c5f69f722ead080d1",
@@ -3858,7 +3858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_fc66fe9670914f733458",
@@ -3891,7 +3891,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_6ba480cf110136888a05",
@@ -3924,7 +3924,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e4e25e104ab29d98f242",
@@ -3959,7 +3959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_727e6104eb25a0e02b4b",
@@ -3992,7 +3992,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2d0b89d0dd2430664da6",
@@ -4025,7 +4025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8fd6a286de971668522c",
@@ -4058,7 +4058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_409618a1faebe8ee446a",
@@ -4091,7 +4091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3d8c899997d8cbe758ee",
@@ -4124,7 +4124,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_ca54ca14ddc17a60967a",
@@ -4157,7 +4157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_86e3ecb5577a2324ea47",
@@ -4190,7 +4190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2418a97a91d534a2cb07",
@@ -4223,7 +4223,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_274ea1f26dbaeda56420",
@@ -4258,7 +4258,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a2689d9986670e75a760",
@@ -4291,7 +4291,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_22ead135991f339d4546",
@@ -4324,7 +4324,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a5f9a094d848aebc1c52",
@@ -4356,7 +4356,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7eca42102b625de8cb02",
@@ -4388,7 +4388,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_ab46287c77d25f724caf",
@@ -4421,7 +4421,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c05f2b9911508536ced8",
@@ -4454,7 +4454,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d0dba22414c162009eb1",
@@ -4489,7 +4489,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_6eebd3d9011ab9ea78dc",
@@ -4522,7 +4522,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d8513879458dc9750d9f",
@@ -4555,7 +4555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9efc99dd9829c23dad25",
@@ -4588,7 +4588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9a923b797b60a6a62997",
@@ -4621,7 +4621,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_4a8bd2396f6d9350eec9",
@@ -4654,7 +4654,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_324f6da6b27309a4e972",
@@ -4687,7 +4687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f0bf0af2f3a761661b70",
@@ -4720,7 +4720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3056fae5855922ba925a",
@@ -4753,7 +4753,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1ad43446022192db27ea",
@@ -4786,7 +4786,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_439d67efc0a81764d4ae",
@@ -4821,7 +4821,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_5ab59d361b9945cde9b9",
@@ -4854,7 +4854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f9c69044e349ea53a7f0",
@@ -4887,7 +4887,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9737ca00cb902b7ea6f8",
@@ -4918,7 +4918,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_acda65a2c319d1968bb0",
@@ -4950,7 +4950,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0b7fe5f7b2324702f09b",
@@ -4982,7 +4982,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a4e9c646b8317396dea8",
@@ -5014,7 +5014,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c2f443d1d23ab758623d",
@@ -5046,7 +5046,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2d9684ea28f1fcf68e1b",
@@ -5079,7 +5079,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_bffed462ae3c5a0750a2",
@@ -5112,7 +5112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8b2fce7804711c153df7",
@@ -5147,7 +5147,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a6a39fbdd2d0a9523de2",
@@ -5180,7 +5180,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2cd2d8af5a350d8ec638",
@@ -5213,7 +5213,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_72d77b7450699213d365",
@@ -5246,7 +5246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a6a32ea19efec0ecd15f",
@@ -5279,7 +5279,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_621ff74bb2251fa3eb01",
@@ -5312,7 +5312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8d9a5d9b967448451740",
@@ -5345,7 +5345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d8b39084315f90e3e500",
@@ -5380,7 +5380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_bf8f021fdcecdcef5977",
@@ -5413,7 +5413,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_75964209505591ad1b5b",
@@ -5444,7 +5444,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_06811459214731415e90",
@@ -5475,7 +5475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0cd830df88468c295d88",
@@ -5506,7 +5506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_bbd848b32d9ea5ca1c79",
@@ -5537,7 +5537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_67cfb99d6ba10a270314",
@@ -5568,7 +5568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d3108256c3f0f151ac93",
@@ -5600,7 +5600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d6ddc0999fbe57740a6b",
@@ -5632,7 +5632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_1ff8fa1a8ef3e4264893",
@@ -5664,7 +5664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_26c8e058e1ee027e8e71",
@@ -5696,7 +5696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_75189343fea9b8d4cf26",
@@ -5728,7 +5728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_b7a9426b7075920fd790",
@@ -5760,7 +5760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_92494d01fc1392dd23d1",
@@ -5792,7 +5792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_026f42fc36ed790290c7",
@@ -5824,7 +5824,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_eb2caba94bf47efda22a",
@@ -5856,7 +5856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_efdfd0d8930647315a35",
@@ -5888,7 +5888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_13c43ec09a21601416c5",
@@ -5920,6 +5920,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   }
 ]);

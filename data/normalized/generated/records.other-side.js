@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: The_Other_Side.md
-// Parser version: 1.1.1
+// Parser version: 1.1.2
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -31,7 +31,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_e00ac46bdcd0f804447b",
@@ -61,7 +61,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8be84c04cf11019e6e9f",
@@ -91,15 +91,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_15670e4013ab7ea7092a",
     "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "The Other Side"
     ],
@@ -115,13 +115,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨YOURS⟩"
+      "method": "multiple_explicit_markers",
+      "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
-    "review_required": false,
-    "parser_version": "1.1.1"
+    "review_required": true,
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_6e94ea5286976e843051",
@@ -151,7 +151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_89ca506b34130a332738",
@@ -182,7 +182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — this ranking is Claude's judgement, not a survey of the field.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8ef786b60f253a0c4b6c",
@@ -214,7 +214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c74ac4105769341d464a",
@@ -246,7 +246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f0fc10eca9bab3371022",
@@ -278,7 +278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_329d0ba4beef9346bd84",
@@ -310,7 +310,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9abd128f57b0e56899ce",
@@ -342,7 +342,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_fa0bc71ebdea87c054d5",
@@ -374,7 +374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_61e4b2fe3fcb7673985f",
@@ -406,7 +406,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_700f83ccececbaf073b2",
@@ -438,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0b6dbeb3973220f21465",
@@ -470,7 +470,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_7b199101a7164a914c39",
@@ -502,7 +502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f663fae59699eb1d61fb",
@@ -534,7 +534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f6b354508eb41614d701",
@@ -566,7 +566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8080e90fc8076223e38e",
@@ -598,7 +598,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_64450111ab5980bbdb9f",
@@ -630,7 +630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c96fb4f4b0421805f9a7",
@@ -662,7 +662,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9bc1dbbce81b2aa4ef7e",
@@ -694,7 +694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0c66d70119ccb5fd2374",
@@ -726,7 +726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_8a0703c60a4a0bd6f903",
@@ -758,7 +758,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9e0c17abec99055adf35",
@@ -790,7 +790,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_76d3b3f7103820cfda54",
@@ -822,7 +822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_74a5bf15ee920483b109",
@@ -854,7 +854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_5d2dfe6228b88ca8653b",
@@ -886,7 +886,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a826916e1fbe1903a29d",
@@ -918,7 +918,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_ddf7cf67a31b3ed20901",
@@ -949,7 +949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_527aaba026aba7bef3f7",
@@ -981,7 +981,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9297ed3c7a6ca6db52d8",
@@ -1013,7 +1013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_d6c68ca81994e1fc611c",
@@ -1045,7 +1045,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_00d9cbdb5cc5f04e7aa9",
@@ -1077,7 +1077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_70d2094b0e27e9b1d227",
@@ -1109,7 +1109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_f9a8bc69461e6728a1ec",
@@ -1141,7 +1141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_b1bdbc6ef5f7352628c4",
@@ -1173,7 +1173,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_03bfb4527a228febcd9e",
@@ -1205,7 +1205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_71e70fcd2458b9b9192c",
@@ -1237,7 +1237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9b034677181e0bc78e7c",
@@ -1269,7 +1269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_a29a375850c743add7ae",
@@ -1301,7 +1301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_edad8f3c4b125132deaa",
@@ -1333,7 +1333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_6caff4386f853416889d",
@@ -1365,7 +1365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_0cb04a8aa46997833aa0",
@@ -1397,7 +1397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_28832a372e1ad9ba43a8",
@@ -1429,7 +1429,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_bc9d495d0061e25e7f95",
@@ -1461,7 +1461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_c87378207728734d054b",
@@ -1493,7 +1493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_bb5f7707fc1c3ac98fb1",
@@ -1525,7 +1525,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_91f9b8bc20a4448c2426",
@@ -1557,7 +1557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_2f85c0f2caa4059993bf",
@@ -1589,7 +1589,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_9a0abd1c6f1f3c1fa7d5",
@@ -1621,7 +1621,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_3064290396ecf43647a9",
@@ -1653,7 +1653,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_18d4d2d8a83601317d20",
@@ -1684,7 +1684,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_333a8cb64229add9ecba",
@@ -1715,7 +1715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_b038bf2c527c3d30b2e9",
@@ -1746,7 +1746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_934b66bb9ac11e6ad404",
@@ -1777,7 +1777,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   },
   {
     "id": "rk_4c525dd9e9a239320e02",
@@ -1808,6 +1808,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.1"
+    "parser_version": "1.1.2"
   }
 ]);
