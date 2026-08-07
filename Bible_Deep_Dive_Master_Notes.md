@@ -186,6 +186,30 @@ Genesis 1:27 — 'adam' = humanity/humankind (collective), not a personal name '
 
 Isaiah 7:14 — Hebrew 'almah' = young woman. Matthew translates this with the Greek 'parthenos' (virgin) to construct the virgin birth narrative. The original verse is about events in Isaiah's own time, not a future messiah.
 
+#### ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading
+
+`CHECKED 7 Aug 2026`
+
+**AS RECORDED:** Hebrew 'almah' = young woman. Matthew translates this with the Greek 'parthenos' (virgin) to construct the virgin birth narrative. The original verse is about events in Isaiah's own time, not a future messiah. (§2)
+
+**STATUS: Holds** — the near-term reading is correct; the claim that Matthew *translates* almah to construct the reading is imprecise.
+
+**AUDIT**
+
+Hebrew philology is close to settled. 'Almah occurs seven times in the Hebrew Bible and denotes a young woman of marriageable/childbearing age; the dedicated Hebrew word for a virgin specifically is *betulah*. Hans Wildberger [CRITICAL], *Isaiah 1–12: A Continental Commentary* (Fortress, 1991), defines 'almah simply as "a young woman until the birth of her first child" — the word carries no built-in virginity claim. Alec Motyer [CONSERVATIVE-EVANGELICAL], *The Prophecy of Isaiah* (IVP, 1993), pushes back on the inference some critics draw from that absence: "there is no ground for the common assertion that had Isaiah intended *virgo intacta* he would have used *betulah*" — the cultural default for an unmarried young woman was virginity, so the word doesn't rule the reading out even if it doesn't require it either.
+
+The Septuagint complicates the "Matthew invented this" framing directly. Jewish translators in Alexandria, working roughly three centuries before Matthew and with no Christian stake in the outcome, rendered 'almah as *parthenos* ("virgin") in Isaiah 7:14 — one of only two of the word's seven Hebrew occurrences given that specific Greek term, versus the more generic *neanis* elsewhere. Matthew 1:23 quotes that existing Greek text; he is not personally choosing a translation to serve his narrative. The dispute over the word was live enough that later Jewish revisers — Aquila (c. 135 CE), Symmachus, and Theodotion — switched to *neanis*, and Justin Martyr's *Dialogue with Trypho* (c. 160 CE) records Christians and Jews arguing over exactly this word within a generation of each other. Justin accused the revisers of anti-Christian tampering; later Christian scholars couldn't sustain that charge and dropped it.
+
+The historical-critical case for a near-term referent is strong on its own terms, independent of the word-choice question. Joseph Blenkinsopp [CRITICAL], *Isaiah 1–39* (Anchor Bible, Doubleday 2000), reads the sign as explicitly timed to the Syro-Ephraimite crisis (734–732 BCE): before the child is old enough to "refuse evil and choose good," the two kings threatening Ahaz (Rezin of Aram, Pekah of Israel) will be removed. That timeframe anchors the sign to Ahaz's own generation. Jewish tradition [JEWISH CRITICAL] — Rashi, Ibn Ezra — reads it the same way, as a contemporary reassurance rather than a messianic prediction; Ibn Ezra places the fulfillment in Hezekiah's reign, though the child's exact identity (Hezekiah himself, or Isaiah's own son Maher-Shalal-Hash-Baz from 8:3) is disputed even within this reading, since standard regnal chronology has Hezekiah's birth predating the oracle.
+
+The strongest traditional counter is not "Isaiah predicted Mary" outright but a double-fulfillment (*sensus plenior*) reading: Motyer argues Isaiah 7–11 deliberately interweaves the near and far horizons, so a real sign in Ahaz's day doesn't exclude a fuller pattern realized later — the same typological mechanism already documented for Hosea 11:1 / Matthew 2:15 in the fulfillment-formula audit at §6.2.
+
+**CORRECTED:** *'Almah does not mean virgin — that is betulah's job — and the sign in Isaiah 7 is explicitly timed to Ahaz's own crisis, not a messiah centuries off. But the "virgin" reading is not Matthew's invention: pre-Christian Jewish translators had already rendered 'almah as parthenos in the Greek Isaiah two centuries before Matthew wrote, and he is quoting that existing translation, not manufacturing one.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It's true and citable that 'almah isn't the Hebrew word for virgin, and that fact makes for a satisfying rebuttal to a common apologetic claim. But collapsing the story into "Matthew translates almah as parthenos to construct the narrative" skips a real step — the parthenos rendering already existed in the Bible Matthew's community read, made by Jewish translators with nothing to gain from a virgin birth. The move Matthew actually makes is typological, applying an existing translation to a new referent, not lexical.
+
+---
+
 Ha-satan — the Accuser, not 'Satan the devil.' A legal/adversarial role in early texts. The personified cosmic villain is a later theological development, not the original meaning.
 
 'Christ' — Greek translation of Hebrew 'Mashiach' (Messiah) = 'anointed one.' Originally meant a king or priest anointed with oil. Not inherently supernatural. The NT is an argument that Jesus qualifies for this title, which most Jews of the time rejected.
