@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "test": "node --test"
+    "test": "node --test",
+    "generate-records": "node scripts/import/generate-records.mjs --output data/normalized/records.generated.js"
   }
 }
