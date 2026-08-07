@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 
-export const PARSER_VERSION = '1.1.1';
+export const PARSER_VERSION = '1.1.2';
 
 const PROVENANCE = Object.freeze({
   MY_WORDS: 'MY_WORDS',
@@ -24,6 +24,26 @@ function cleanInlineMarkdown(text) {
 }
 
 function markerInfo(raw) {
+  const present = [
+    ['YOURS', /⟨YOURS(?:\s*—[^⟩]*)?⟩/i],
+    ['INFERENCE', /⟨INFERENCE(?:\s*—[^⟩]*)?⟩/i],
+    ['DOCUMENTED', /⟨DOCUMENTED(?:\s*—[^⟩]*)?⟩/i],
+  ].filter(([, pattern]) => pattern.test(raw));
+
+  if (present.length > 1) {
+    return {
+      provenance_type: PROVENANCE.REVIEW_REQUIRED,
+      representation_type: 'VERBATIM',
+      speaker: null,
+      attribution_confidence: 'UNKNOWN',
+      attribution_evidence: {
+        method: 'multiple_explicit_markers',
+        value: `Paragraph contains multiple provenance marker types (${present.map(([name]) => name).join(', ')}); marker mentions cannot prove authorship.`,
+      },
+      review_required: true,
+    };
+  }
+
   if (/⟨YOURS(?:\s*—[^⟩]*)?⟩/i.test(raw)) {
     return {
       provenance_type: PROVENANCE.MY_WORDS,
