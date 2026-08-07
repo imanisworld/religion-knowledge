@@ -280,7 +280,7 @@
     'Glossary.md': 'Glossary',
     'Historical_Framework.md': 'Historical Framework',
     'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',
-    'The_Other_Side.md': 'The Other Side',
+    'The_Other_Side.md': 'The Strongest Case',
     'Translations.md': 'Translations',
   };
 

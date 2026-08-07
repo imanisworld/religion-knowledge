@@ -183,7 +183,7 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
   }
 
   if (sourceFile === 'The_Other_Side.md') {
-    return claudeDocumentDefault('The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude\'s where marked.');
+    return claudeDocumentDefault('The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude\'s where marked.');
   }
 
   if (sourceFile === 'Translations.md') {

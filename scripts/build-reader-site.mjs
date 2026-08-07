@@ -6,7 +6,7 @@ const READERS = [
   ['field-guide.html', 'Field Guide', 'Conversation-ready reference: quick answers with sourcing.'],
   ['history.html', 'Historical Framework', 'Chronology, empires, textual history, and canon formation.'],
   ['sources.html', 'Sources & Primary Texts', 'Named scholars, publications, and primary-text citations.'],
-  ['other-side.html', 'The Other Side', 'The strongest traditional and apologetic cases, stated fairly.'],
+  ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
 ];

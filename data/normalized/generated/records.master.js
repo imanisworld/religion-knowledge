@@ -4065,9 +4065,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_ca984734641fed82d0f0",
-    "text": "The correct technical term, and why \"retrofitted\" undersells the sophistication: the exegetical method is *typology combined with sensus plenior (see The Other Side §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a pattern that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's pesher technique read prophetic texts as pointing to their own community's \"last days.\" Joseph Fitzmyer [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations added onto an already-existing narrative to comment on it — closer to what genre critics call midrash, though even that label is disputed (Cunningham and Bock argue true midrash exists for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
-    "raw_text": "**The correct technical term, and why \"retrofitted\" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Other Side §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's \"last days.\" **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
+    "id": "rk_5f6c3f957c58768cd990",
+    "text": "The correct technical term, and why \"retrofitted\" undersells the sophistication: the exegetical method is *typology combined with sensus plenior (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a pattern that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's pesher technique read prophetic texts as pointing to their own community's \"last days.\" Joseph Fitzmyer [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations added onto an already-existing narrative to comment on it — closer to what genre critics call midrash, though even that label is disputed (Cunningham and Bock argue true midrash exists for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
+    "raw_text": "**The correct technical term, and why \"retrofitted\" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's \"last days.\" **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -7980,9 +7980,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_19a091cd4794df1c00ac",
-    "text": "N.T. Wright [ANGLICAN, historian — see The Other Side §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
-    "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Other Side §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
+    "id": "rk_7368246cea4efc2e90bb",
+    "text": "N.T. Wright [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
+    "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -8359,16 +8359,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_747b67aefd56f18bf235",
-    "text": "Ranked by expected exposure. Not yet audited.",
-    "raw_text": "Ranked by expected exposure. Not yet audited.",
+    "id": "rk_7f5f16e0bbdc93d34629",
+    "text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
+    "raw_text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8376,7 +8376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:256",
     "parent_id": null,
     "related_ids": [],
@@ -8391,16 +8391,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d73fa07d46d3d9c1407f",
-    "text": "Highest exposure",
-    "raw_text": "**Highest exposure**",
+    "id": "rk_1559f37f75755189c5cd",
+    "text": "Formerly highest exposure",
+    "raw_text": "**Formerly highest exposure**",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8408,7 +8408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:257",
     "parent_id": null,
     "related_ids": [],
@@ -8423,16 +8423,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_37a6a370fc85f41ff4bb",
-    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- \"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
-    "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- **\"John is textually antisemitic\"** — recorded at §8.5. The *Ioudaioi* translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
+    "id": "rk_28a69fbe80a25f365ee4",
+    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n- \"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
+    "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — audited at §8.6. Overstated.\n- **\"John is textually antisemitic\"** — audited at §8.5. Holds w/ revisions.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8440,7 +8440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:258",
     "parent_id": null,
     "related_ids": [],
@@ -8455,16 +8455,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9a79ff613bebaa7584c5",
-    "text": "Medium exposure",
-    "raw_text": "**Medium exposure**",
+    "id": "rk_2646f6f2242e50e49bb9",
+    "text": "Formerly medium exposure",
+    "raw_text": "**Formerly medium exposure**",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8472,7 +8472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:259",
     "parent_id": null,
     "related_ids": [],
@@ -8487,16 +8487,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_30ed63c28f578cf3491b",
-    "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- Luke softening Roman culpability (§6.3) — defensible, with real pushback.\n- Deutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
-    "raw_text": "- **Acts speeches as fictional constructions** (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- **Luke softening Roman culpability** (§6.3) — defensible, with real pushback.\n- **Deutero-Pauline pseudonymity** (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
+    "id": "rk_70de34122517a2baf365",
+    "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\n- Luke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\n- Deutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
+    "raw_text": "- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.\n- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.\n- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8504,7 +8504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:260",
     "parent_id": null,
     "related_ids": [],
@@ -8519,16 +8519,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_326fda95b15b5fc6f6e8",
-    "text": "Low exposure — expected to survive",
-    "raw_text": "**Low exposure — expected to survive**",
+    "id": "rk_bd82a7e87001f5b12511",
+    "text": "Formerly low exposure — held as expected",
+    "raw_text": "**Formerly low exposure — held as expected**",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8536,7 +8536,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:261",
     "parent_id": null,
     "related_ids": [],
@@ -8551,16 +8551,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5b09c15b85595eafa49f",
-    "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
-    "raw_text": "- Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
+    "id": "rk_14b5d0b89cf66905a8f6",
+    "text": "Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
+    "raw_text": "- Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8568,7 +8568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:262",
     "parent_id": null,
     "related_ids": [],
@@ -8583,7 +8583,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b66efdaf14e2d0835bd0",
+    "id": "rk_5f17add13506b9017917",
     "text": "Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
     "raw_text": "*Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
     "provenance_type": "MY_WORDS",
@@ -8592,7 +8592,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Master Notes",
       "11. Method & Audit Status",
-      "11.2 Remaining Audit Queue"
+      "11.2 Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8600,7 +8600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
+    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:263",
     "parent_id": null,
     "related_ids": [],

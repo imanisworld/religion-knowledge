@@ -19,7 +19,7 @@ Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026
 
 > **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.
 >
-> **Companion documents:** Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Other Side (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).
+> **Companion documents:** Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).
 
 # 0. HOW TO USE THIS DOCUMENT
 
@@ -1593,8 +1593,8 @@ Applied to every contested passage from here forward, and retroactively to every
 | "Archaeology confirms the Bible" | Historical Framework §1.3 and §10 |
 | A specific verse, and the wording matters | Translations §5 |
 | "That's not what the Greek/Hebrew says" | Translations §2 and §5, Sources §2.1 |
-| Reading is literal here and metaphor there | The Other Side §2 — the frameworks have names |
-| A named theologian or philosopher | The Other Side §1 |
+| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |
+| A named theologian or philosopher | The Strongest Case §1 |
 | A word you don't know | Glossary |
 
 **Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is not evidence, it is a rumour with a footnote.

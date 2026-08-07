@@ -348,7 +348,7 @@ Matthew has ten distinct **formula-quotations** — R.T. France's [EVANGELICAL, 
 
 **The clearest case, and the one to actually cite: Matthew 2:15 / Hosea 11:1.** Hosea 11:1 reads "When Israel was a child, I loved him, and out of Egypt I called my son" — in context, an unambiguous **backward-looking reference to the Exodus**, God recalling the nation Israel out of Egypt centuries earlier. Matthew quotes it as a **forward-looking prediction** of the infant Jesus's return from Egypt after Herod's death. There is no plausible reading of Hosea's original sentence as predictive. This is Matthew re-purposing a historical statement about the nation as a messianic statement about an individual.
 
-**The correct technical term, and why "retrofitted" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Other Side §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's "last days." **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).
+**The correct technical term, and why "retrofitted" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's "last days." **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).
 
 **The strongest conservative case, stated at full strength — Seth Postell** [EVANGELICAL], *JETS* 68.3 (2025), argues directly against the "retrofitting" framing: rather than reading Isaiah 7:14 for what Ahaz could have understood in the 8th century BCE, Postell argues the **final canonical shape of the book of Isaiah** — as an author/editor's completed literary unit — already builds toward a messianic reading, so Matthew is not imposing a foreign meaning but recovering the sense the finished book's own structure was building toward. This is a real, recent, peer-reviewed position and should not be dismissed as apologetics without engagement — though note it depends on reading "the literal sense" as a property of the whole edited book rather than of Isaiah's original 8th-century utterance, which most historical-critical scholars reject as a redefinition of "literal."
 
@@ -650,7 +650,7 @@ The circumcision/law controversy in Galatians is not a minor ritual dispute. Pau
 
 **James D.G. Dunn** [CRITICAL] — coined the term "New Perspective" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing "works of the law" in Galatians refers not to earning salvation generally but specifically to **ethnic boundary markers**: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about **who counts as included**, not about whether good works can save you.
 
-**N.T. Wright** [ANGLICAN, historian — see The Other Side §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.
+**N.T. Wright** [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.
 
 **The strongest critical pushback on the NPP, stated fairly** — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target *ethnic exclusivism* (NPP) or *a wider human tendency to seek self-justification through one's own achievement* (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys "righteousness" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying **the ungodly** — a category that doesn't fit neatly into a "boundary marker" dispute.
 
@@ -690,27 +690,27 @@ Applied to every contested passage from here forward, and retroactively to every
 
 **Entry format:** AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.
 
-### 11.2 Remaining Audit Queue
+### 11.2 Audit Queue — Closed
 
-Ranked by expected exposure. Not yet audited.
+All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.
 
-**Highest exposure**
+**Formerly highest exposure**
 
-- **"Delay of the parousia is the crisis John's theology was built to solve"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.
-- **"John is textually antisemitic"** — recorded at §8.5. The *Ioudaioi* translation question ("Jews" / "Judeans" / "Jewish authorities") is among the most contested issues in Johannine studies. Only one side is currently represented.
+- **"Delay of the parousia is the crisis John's theology was built to solve"** — audited at §8.6. Overstated.
+- **"John is textually antisemitic"** — audited at §8.5. Holds w/ revisions.
 
-**Medium exposure**
+**Formerly medium exposure**
 
-- **Acts speeches as fictional constructions** (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.
-- **Luke softening Roman culpability** (§6.3) — defensible, with real pushback.
-- **Deutero-Pauline pseudonymity** (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.
+- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.
+- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.
+- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.
 
-**Low exposure — expected to survive**
+**Formerly low exposure — held as expected**
 
-- Markan priority (§6.1). Near-consensus. "Most human Jesus" is interpretive gloss, not finding.
-- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.
-- Matthew's use of prophecy (§6.2). Mechanism well documented; "retrofitted" is loaded framing worth testing.
-- Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.
-- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.
+- Markan priority (§6.1) — audited. Holds.
+- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.
+- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.
+- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.
+- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.
 
 *Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*

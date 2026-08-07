@@ -2,7 +2,7 @@
 
 *Which Bible You Read Is Already an Interpretation*
 
-**Companion to:** Master Notes · Field Guide · History · Sources · Other Side · Glossary
+**Companion to:** Master Notes · Field Guide · History · Sources · The Strongest Case · Glossary
 **Last updated:** 7 August 2026
 
 > **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements.
