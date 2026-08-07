@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 
-export const PARSER_VERSION = '1.0.0';
+export const PARSER_VERSION = '1.1.0';
 
 const PROVENANCE = Object.freeze({
   MY_WORDS: 'MY_WORDS',
@@ -75,12 +75,101 @@ function stableId(sourceFile, sectionPath, ordinal, rawText) {
   return `rk_${crypto.createHash('sha256').update(input).digest('hex').slice(0, 20)}`;
 }
 
-function isMixedLegacySection(sourceFile, headingPath) {
-  if (sourceFile !== 'Bible_Deep_Dive_Master_Notes.md') return false;
-  const numbered = headingPath.find((h) => /^\d+(?:\.\d+)?\b/.test(h));
-  if (!numbered) return false;
-  const major = Number(numbered.match(/^(\d+)/)?.[1]);
-  return Number.isFinite(major) && major >= 0 && major <= 9;
+function majorSection(headingPath) {
+  for (const heading of headingPath) {
+    const match = heading.match(/^(\d+)\b/);
+    if (match) return Number(match[1]);
+  }
+  return null;
+}
+
+function reviewRequired(value) {
+  return {
+    provenance_type: PROVENANCE.REVIEW_REQUIRED,
+    representation_type: 'VERBATIM',
+    speaker: null,
+    attribution_confidence: 'UNKNOWN',
+    attribution_evidence: { method: 'document_warning', value },
+    review_required: true,
+  };
+}
+
+function claudeDocumentDefault(value) {
+  return {
+    provenance_type: PROVENANCE.CLAUDE,
+    representation_type: 'SUMMARY',
+    speaker: 'Claude',
+    attribution_confidence: 'PROVEN',
+    attribution_evidence: { method: 'document_provenance', value },
+    review_required: false,
+  };
+}
+
+function userDocumentDefault(value) {
+  return {
+    provenance_type: PROVENANCE.MY_WORDS,
+    representation_type: 'VERBATIM',
+    speaker: 'user',
+    attribution_confidence: 'PROVEN',
+    attribution_evidence: { method: 'document_provenance', value },
+    review_required: false,
+  };
+}
+
+function documentDefaultInfo(sourceFile, headingPath, text) {
+  const major = majorSection(headingPath);
+
+  if (sourceFile === 'Bible_Deep_Dive_Master_Notes.md') {
+    if (Number.isFinite(major) && major >= 0 && major <= 9) {
+      return reviewRequired('Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable.');
+    }
+    return userDocumentDefault('Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed.');
+  }
+
+  if (sourceFile === 'Field_Guide_Conversation_Reference.md') {
+    if (major === 7) {
+      return userDocumentDefault('Field Guide provenance explicitly states the fieldwork observations at §7 are the user\'s.');
+    }
+    if (major === 8 || major === 19) {
+      return claudeDocumentDefault('Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources.');
+    }
+    if (Number.isFinite(major) && major >= 1 && major <= 17) {
+      return reviewRequired('Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions.');
+    }
+    return reviewRequired('Field Guide provenance does not deterministically assign this section to one speaker.');
+  }
+
+  if (sourceFile === 'Glossary.md') {
+    return claudeDocumentDefault('Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms.');
+  }
+
+  if (sourceFile === 'Historical_Framework.md') {
+    return claudeDocumentDefault('Historical Framework provenance explicitly states: Written by Claude; nothing here is the user\'s prior work.');
+  }
+
+  if (sourceFile === 'Sources_and_Primary_Texts.md') {
+    if (/^what it says\s*\./i.test(text)) {
+      return {
+        provenance_type: PROVENANCE.SOURCE,
+        representation_type: 'PARAPHRASE',
+        speaker: null,
+        attribution_confidence: 'PROVEN',
+        attribution_evidence: { method: 'document_provenance', value: 'Sources document explicitly states what each source says is documented.' },
+        review_required: false,
+      };
+    }
+    return claudeDocumentDefault('Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude\'s reading unless separately marked.');
+  }
+
+  if (sourceFile === 'The_Other_Side.md') {
+    return claudeDocumentDefault('The Other Side provenance explicitly states: Written by Claude; rankings/judgments are Claude\'s where marked.');
+  }
+
+  if (sourceFile === 'Translations.md') {
+    return claudeDocumentDefault('Translations provenance explicitly states: Written by Claude, verified by search.');
+  }
+
+  return null;
 }
 
 export function parseMarkdown({ sourceFile, content }) {
@@ -91,10 +180,10 @@ export function parseMarkdown({ sourceFile, content }) {
   const headingPath = [];
   const records = [];
   const warnings = [];
+  const auditTitles = new Map();
   let paragraph = [];
   let ordinal = 0;
   let currentAuditId = null;
-  let pendingAuditTitle = null;
 
   const flush = () => {
     if (!paragraph.length) return;
@@ -106,9 +195,9 @@ export function parseMarkdown({ sourceFile, content }) {
     const text = cleanInlineMarkdown(rawText.replace(/⟨(?:YOURS|INFERENCE|DOCUMENTED)(?:\s*—[^⟩]*)?⟩/gi, '').trim());
     if (!text) return;
 
-    const explicit = markerInfo(rawText);
     const inAudit = Boolean(currentAuditId);
-    let attribution = explicit;
+    const recordType = classifyRecordType(text, headingPath, inAudit);
+    let attribution = markerInfo(rawText);
 
     if (!attribution && inAudit) {
       attribution = {
@@ -121,16 +210,7 @@ export function parseMarkdown({ sourceFile, content }) {
       };
     }
 
-    if (!attribution && isMixedLegacySection(sourceFile, headingPath)) {
-      attribution = {
-        provenance_type: PROVENANCE.REVIEW_REQUIRED,
-        representation_type: 'VERBATIM',
-        speaker: null,
-        attribution_confidence: 'UNKNOWN',
-        attribution_evidence: { method: 'document_warning', value: 'Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable.' },
-        review_required: true,
-      };
-    }
+    if (!attribution) attribution = documentDefaultInfo(sourceFile, headingPath, text);
 
     if (!attribution) {
       attribution = {
@@ -143,7 +223,13 @@ export function parseMarkdown({ sourceFile, content }) {
       };
     }
 
-    const recordType = classifyRecordType(text, headingPath, inAudit);
+    if (attribution.provenance_type === PROVENANCE.MY_WORDS && recordType === 'QUESTION') {
+      attribution = { ...attribution, provenance_type: PROVENANCE.MY_QUESTION };
+    }
+    if (attribution.provenance_type === PROVENANCE.MY_WORDS && recordType === 'POSITION') {
+      attribution = { ...attribution, provenance_type: PROVENANCE.MY_POSITION };
+    }
+
     const id = stableId(sourceFile, headingPath, ordinal, rawText);
     const record = {
       id,
@@ -187,11 +273,10 @@ export function parseMarkdown({ sourceFile, content }) {
 
       const auditMatch = title.match(/^⚑\s*AUDIT\s*[—-]\s*(.+)$/i);
       if (auditMatch) {
-        pendingAuditTitle = auditMatch[1].trim();
         currentAuditId = `audit_${crypto.createHash('sha256').update(`${sourceFile}\u0000${headingPath.join(' > ')}`).digest('hex').slice(0, 20)}`;
+        auditTitles.set(currentAuditId, auditMatch[1].trim());
       } else if (level <= 3) {
         currentAuditId = null;
-        pendingAuditTitle = null;
       }
       continue;
     }
@@ -228,7 +313,7 @@ export function parseMarkdown({ sourceFile, content }) {
       warnings.push({
         code: 'INCOMPLETE_AUDIT_CHAIN',
         audit_id: auditId,
-        title: pendingAuditTitle,
+        title: auditTitles.get(auditId) ?? null,
         message: 'Audit block does not contain both AS RECORDED and CORRECTED records.',
       });
     }
