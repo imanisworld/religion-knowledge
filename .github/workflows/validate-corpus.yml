@@ -36,14 +36,20 @@ jobs:
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
 
-      - name: Generate normalized record chunks
+      - name: Regenerate normalized record chunks
         run: npm run generate-records
+
+      - name: Verify committed chunks match parser output
+        run: git diff --exit-code -- data/normalized/generated/
 
       - name: Check generated JavaScript syntax
         run: |
           for file in data/normalized/generated/*.js; do
             node --check "$file"
           done
+
+      - name: Validate app data loading
+        run: node scripts/import/validate-app-data.mjs
 
       - name: Preserve generated records for private review
         uses: actions/upload-artifact@v4
