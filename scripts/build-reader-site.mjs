@@ -2,8 +2,8 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 const READERS = [
-  ['master-notes.html', 'Master Notes', 'The full study — audits, corrections, and the reading in progress.'],
-  ['field-guide.html', 'Field Guide', 'Conversation-ready reference: quick answers with sourcing.'],
+  ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
+  ['field-guide.html', 'Observations', 'Reading and conversation reference: claims, context, questions, and sources.'],
   ['history.html', 'Historical Framework', 'Chronology, empires, textual history, and canon formation.'],
   ['sources.html', 'Sources & Primary Texts', 'Named scholars, publications, and primary-text citations.'],
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],

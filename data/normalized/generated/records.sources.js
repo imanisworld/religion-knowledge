@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Sources_and_Primary_Texts.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -31,12 +31,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7bb80290d8f3ca3f941e",
-    "text": "Companion to: Master Notes · Field Guide · Historical Framework\nLast updated: 7 August 2026",
-    "raw_text": "**Companion to:** Master Notes · Field Guide · Historical Framework\n**Last updated:** 7 August 2026",
+    "text": "Companion to: Study Notes · Observations · Historical Framework\nLast updated: 7 August 2026",
+    "raw_text": "**Companion to:** Study Notes · Observations · Historical Framework\n**Last updated:** 7 August 2026",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -61,7 +61,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a6ad93484a7285cc730",
@@ -91,11 +91,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eaf8d4c9da62ff42c194",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
@@ -121,11 +121,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_aec2e7a91478fb65a88b",
-    "text": "How to use this. Every entry gives you three things: what the source is, what it actually says, and what it does and does not establish. Links go to free, reputable full texts wherever they exist.\n>\n> The rule that matters: never cite a source you have not opened. If you name Josephus in a conversation and cannot say which passage, you will be asked, and the answer decides whether the rest of your case is taken seriously.",
+    "text": "How to use this. Every entry gives you three things: what the source is, what it actually says, and what it does and does not establish. Links go to free, reputable full texts wherever they exist.\n\nThe rule that matters: never cite a source you have not opened. If you name Josephus in a conversation and cannot say which passage, you will be asked, and the answer decides whether the rest of your case is taken seriously.",
     "raw_text": "> **How to use this.** Every entry gives you three things: what the source *is*, what it *actually says*, and what it *does and does not establish*. Links go to free, reputable full texts wherever they exist.\n>\n> **The rule that matters:** never cite a source you have not opened. If you name Josephus in a conversation and cannot say which passage, you will be asked, and the answer decides whether the rest of your case is taken seriously.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -151,7 +151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_98504e1cb5a0b54ce062",
@@ -182,7 +182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a0536b1e27342c5241f0",
@@ -214,7 +214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_85711c5c75137b69e0a1",
@@ -246,7 +246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5dde4c6fb43699785ac9",
@@ -278,7 +278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6b98d4852414d4ae8fe1",
@@ -310,7 +310,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ddaa1b1c311647757c5",
@@ -342,7 +342,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_52585067008fb72b253a",
@@ -374,7 +374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f193290e7f5c2f16b626",
@@ -406,7 +406,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d1d107413b2aa50560b2",
@@ -438,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0c0cb919bdfc26af1ec0",
@@ -470,12 +470,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_061abf251a6cd5d1daf4",
-    "text": "The believer's use of it, stated fairly. Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3. Concede that; the theology point is the stronger one anyway.",
-    "raw_text": "**The believer's use of it, stated fairly.** Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3. Concede that; the theology point is the stronger one anyway.",
+    "id": "rk_e2597fc87edcd60436a3",
+    "text": "Its relevance to biblical history, stated fairly. Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3 while leaving the competing theological interpretations visible.",
+    "raw_text": "**Its relevance to biblical history, stated fairly.** Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3 while leaving the competing theological interpretations visible.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -502,7 +502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_de2b56eded3178262235",
@@ -534,7 +534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_24fbe70238e76eb57ee3",
@@ -566,7 +566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f581d7645a6a0444ff04",
@@ -598,7 +598,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c8582ca2a7f3226a5d8d",
@@ -630,7 +630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_771394e188e921f1e15f",
@@ -662,12 +662,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_66a893688ff08278f221",
-    "text": "Handle with care. If you argue David never existed, this is the object that will be produced, and you will lose. Argue scale, not existence.",
-    "raw_text": "**Handle with care.** If you argue David never existed, this is the object that will be produced, and you will lose. Argue scale, not existence.",
+    "id": "rk_e065489d61bd049adb0d",
+    "text": "What it supports. The inscription weighs strongly against treating David as wholly invented. It supports a dynasty identified with David, while the scale of the biblical kingdom remains a separate question.",
+    "raw_text": "**What it supports.** The inscription weighs strongly against treating David as wholly invented. It supports a dynasty identified with David, while the scale of the biblical kingdom remains a separate question.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -694,7 +694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b7d303a02a7b04378341",
@@ -726,7 +726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_423a253e43798d6ba0f0",
@@ -758,7 +758,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4f2f61cd7c3a8544f0d7",
@@ -790,12 +790,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2d81dddf1b3767fd4748",
-    "text": "This is the best-corroborated event in the Hebrew Bible.  Concede it immediately and without hedging. Doing so establishes that you follow evidence, which is what makes your other concessions demands credible.",
-    "raw_text": "**This is the best-corroborated event in the Hebrew Bible.** ⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩ Concede it immediately and without hedging. Doing so establishes that you follow evidence, which is what makes your other concessions demands credible.",
+    "id": "rk_a0c0311e415732022655",
+    "text": "This is the best-corroborated event in the Hebrew Bible.  Give that corroboration its full weight while keeping historical agreement separate from theological explanation.",
+    "raw_text": "**This is the best-corroborated event in the Hebrew Bible.** ⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩ Give that corroboration its full weight while keeping historical agreement separate from theological explanation.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -822,7 +822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ce6ac0c8e54fb32ceb65",
@@ -854,7 +854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45b7c526954b80319c4a",
@@ -886,7 +886,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91e3bc0d3bace57242e3",
@@ -918,11 +918,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd95faee4f92c4b4caf1",
-    "text": "Specific things to look up here:\n- Makkot 23b — R. Simlai's 613 count, the whole basis for that number\n- Makkot 24a — the gematria derivation (Torah = 611, plus two heard at Sinai)\n- Leviticus 18 and 19 in Hebrew, to see for yourself that no verse marks the moral/ceremonial boundary\n- Maimonides, Sefer HaMitzvot — the enumeration and the fourteen governing principles",
+    "text": "Specific things to look up here:\nMakkot 23b — R. Simlai's 613 count, the whole basis for that number\nMakkot 24a — the gematria derivation (Torah = 611, plus two heard at Sinai)\nLeviticus 18 and 19 in Hebrew, to see for yourself that no verse marks the moral/ceremonial boundary\nMaimonides, Sefer HaMitzvot — the enumeration and the fourteen governing principles",
     "raw_text": "**Specific things to look up here:**\n- *Makkot* 23b — R. Simlai's 613 count, the whole basis for that number\n- *Makkot* 24a — the gematria derivation (Torah = 611, plus two heard at Sinai)\n- Leviticus 18 and 19 in Hebrew, to see for yourself that no verse marks the moral/ceremonial boundary\n- Maimonides, *Sefer HaMitzvot* — the enumeration and the fourteen governing principles",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -950,7 +950,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_58db1c992989f2e78a9f",
@@ -982,7 +982,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_12687ba8475024c22869",
@@ -1014,7 +1014,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ac935efa0a25322138e",
@@ -1046,7 +1046,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_38fcfcf19d5a834d2c94",
@@ -1078,7 +1078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cb2bf68cdf0f8939968",
@@ -1110,7 +1110,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8a8c6f92d700cad37775",
@@ -1142,7 +1142,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_32685909939672a268bf",
@@ -1174,7 +1174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3e0ea7a336027ffe804c",
@@ -1206,7 +1206,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_17923bf90427cc41194d",
@@ -1238,7 +1238,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_22fe13ce36ed28f7ffec",
@@ -1270,7 +1270,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_01191442b3efe80fd6e5",
@@ -1302,7 +1302,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0e5305805338d3c2b0a1",
@@ -1334,7 +1334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b9fc136f05109e24a1c9",
@@ -1366,7 +1366,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c1fcf3e838cda65dcb8e",
@@ -1398,7 +1398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a6703ce4b19fcd511ee2",
@@ -1430,7 +1430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec79766571ce6332592b",
@@ -1462,7 +1462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ebadcb4fce5ff875e46a",
@@ -1494,7 +1494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7843f87efb1ea9dae185",
@@ -1526,7 +1526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3baaa82cabf31c9d5ae9",
@@ -1558,7 +1558,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2eed402cbe841c006b2c",
@@ -1590,7 +1590,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d12854ae3bb572bf15de",
@@ -1622,7 +1622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_44f94d3397aef6be4152",
@@ -1654,7 +1654,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f7a8d1c2652d45d95149",
@@ -1686,7 +1686,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_461dcf99f2cbe84bccc5",
@@ -1718,11 +1718,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_114a13ac976ca71cb840",
-    "text": "Mark ends at 16:8 — with the women fleeing and saying nothing. The longer ending (16:9–20), including the snake-handling and poison-drinking, is not there.\n- John 7:53–8:11 — the woman caught in adultery — is absent.",
+    "text": "Mark ends at 16:8 — with the women fleeing and saying nothing. The longer ending (16:9–20), including the snake-handling and poison-drinking, is not there.\nJohn 7:53–8:11 — the woman caught in adultery — is absent.",
     "raw_text": "- **Mark ends at 16:8** — with the women fleeing and saying nothing. The longer ending (16:9–20), including the snake-handling and poison-drinking, is not there.\n- **John 7:53–8:11** — the woman caught in adultery — is absent.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -1750,7 +1750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e57558e0ffa353cf17b",
@@ -1782,7 +1782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc451ae88b6a0cd91d1f",
@@ -1814,7 +1814,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3f2e15b2a57e827f6970",
@@ -1846,7 +1846,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b097ac2c575045556b5",
@@ -1878,7 +1878,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_375063ccf050422f4642",
@@ -1910,7 +1910,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2ce76e52607a3204055b",
@@ -1942,12 +1942,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d347f9ca632ef5e8dfc1",
-    "text": "1. 1 Thessalonians (c. 50 CE) — the earliest Christian document that survives. Note what is absent: no virgin birth, no empty tomb narrative, no biography.\n2. 1 Corinthians 15:3–7 — the pre-Pauline creed. Concede its early date. Note it lists appearances and does not mention an empty tomb.\n3. Galatians 1–2 — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Master Notes §9.3.\n4. Mark 16:1–8 — the original ending.\n5. John 1:1–18 — the prologue, where the high Christology is explicit.",
-    "raw_text": "1. **1 Thessalonians** (c. 50 CE) — the earliest Christian document that survives. Note what is *absent*: no virgin birth, no empty tomb narrative, no biography.\n2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Concede its early date. Note it lists appearances and does not mention an empty tomb.\n3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Master Notes §9.3.\n4. **Mark 16:1–8** — the original ending.\n5. **John 1:1–18** — the prologue, where the high Christology is explicit.",
+    "id": "rk_d0b86fc8b73a464fdf68",
+    "text": "1. 1 Thessalonians (c. 50 CE) — the earliest Christian document that survives. Note what is absent: no virgin birth, no empty tomb narrative, no biography.\n2. 1 Corinthians 15:3–7 — the pre-Pauline creed. Note its early date, that it lists appearances, and that it does not mention an empty tomb.\n3. Galatians 1–2 — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.\n4. Mark 16:1–8 — the original ending.\n5. John 1:1–18 — the prologue, where the high Christology is explicit.",
+    "raw_text": "1. **1 Thessalonians** (c. 50 CE) — the earliest Christian document that survives. Note what is *absent*: no virgin birth, no empty tomb narrative, no biography.\n2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Note its early date, that it lists appearances, and that it does not mention an empty tomb.\n3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.\n4. **Mark 16:1–8** — the original ending.\n5. **John 1:1–18** — the prologue, where the high Christology is explicit.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1974,7 +1974,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3268cdf1d41b35a1fb76",
@@ -2005,7 +2005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b1e08220eaaae4f27640",
@@ -2036,7 +2036,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4092beb1c7bee7460633",
@@ -2067,7 +2067,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4bda701d2c14a5c42262",
@@ -2078,7 +2078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.1 History for Atheists"
     ],
     "subtopics": [],
@@ -2087,7 +2087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.1 History for Atheists",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.1 History for Atheists",
     "source_reference": "paragraph:66",
     "parent_id": null,
     "related_ids": [],
@@ -2099,18 +2099,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_162dd0e26a3373337e35",
-    "text": "Why it is in this document. Cited approvingly at Historical Framework §9. If you are about to use a historical claim in an argument, check it here first. His work on the Testimonium is a model of how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
-    "raw_text": "**Why it is in this document.** Cited approvingly at Historical Framework §9. If you are about to use a historical claim in an argument, check it here first. His work on the Testimonium is a model of how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
+    "id": "rk_1185c0f4be9f09c93470",
+    "text": "Why it is in this document. Cited approvingly at Historical Framework §9. When a historical claim appears in reading or conversation, check it here first. His work on the Testimonium models how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
+    "raw_text": "**Why it is in this document.** Cited approvingly at Historical Framework §9. When a historical claim appears in reading or conversation, check it here first. His work on the Testimonium models how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.1 History for Atheists"
     ],
     "subtopics": [],
@@ -2119,7 +2119,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.1 History for Atheists",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.1 History for Atheists",
     "source_reference": "paragraph:67",
     "parent_id": null,
     "related_ids": [],
@@ -2131,7 +2131,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3ba486d69d354c01bc06",
@@ -2142,7 +2142,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.1 History for Atheists"
     ],
     "subtopics": [],
@@ -2151,7 +2151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.1 History for Atheists",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.1 History for Atheists",
     "source_reference": "paragraph:68",
     "parent_id": null,
     "related_ids": [],
@@ -2163,18 +2163,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6d06095a8afdfd0894f1",
-    "text": "Three questions before any source enters an argument:",
-    "raw_text": "Three questions before any source enters an argument:",
+    "id": "rk_330f1e640a85507ecbe3",
+    "text": "Three questions before relying on any source:",
+    "raw_text": "Three questions before relying on any source:",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.2 The standing rule"
     ],
     "subtopics": [],
@@ -2183,7 +2183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.2 The standing rule",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.2 The standing rule",
     "source_reference": "paragraph:69",
     "parent_id": null,
     "related_ids": [],
@@ -2195,7 +2195,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c497c3f7c20aae8688e2",
@@ -2206,7 +2206,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.2 The standing rule"
     ],
     "subtopics": [],
@@ -2215,7 +2215,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.2 The standing rule",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.2 The standing rule",
     "source_reference": "paragraph:70",
     "parent_id": null,
     "related_ids": [],
@@ -2227,7 +2227,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_16b41176e4f146a6054a",
@@ -2238,7 +2238,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.2 The standing rule"
     ],
     "subtopics": [],
@@ -2247,7 +2247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.2 The standing rule",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.2 The standing rule",
     "source_reference": "paragraph:71",
     "parent_id": null,
     "related_ids": [],
@@ -2259,6 +2259,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);

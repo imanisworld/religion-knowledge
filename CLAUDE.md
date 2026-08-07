@@ -136,12 +136,12 @@ Each gets the full method above. Expect some to survive intact — record that o
 
 > **Status note (7 Aug 2026):** items 1, 2, 4, 5, and 6 above have since been audited and inserted into `Bible_Deep_Dive_Master_Notes.md` (§11.1/§11.2 now read "11 of 11 complete, queue empty"). Item 3 (Isaiah 7:14 — almah/parthenos) was not part of that batch and is still open.
 
-### Task 2 — audit the Field Guide
+### Task 2 — audit the Observations
 
 `Field_Guide_Conversation_Reference.md §8.4` lists twelve unaudited sections. Two are flagged for early attention:
 
 - §12.8 John 8:44 — must say anti-Jewish, not antisemitic. Antisemitism is a modern racial category (the term dates to 1879) and applying it to a first-century text is anachronistic; it invites a correction that discredits the surrounding argument. Run the case on reception history, which does not require establishing authorial intent. See `Bible_Deep_Dive_Master_Notes.md §8.5`.
-- §13 Trinity / Nicaea — verify against `Historical_Framework.md §7` before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The popular skeptic version is false and easily refuted. The true version — an emperor convening a theological dispute and exiling the losers — is the stronger argument.
+- §13 Trinity / Nicaea — verify against `Historical_Framework.md §7`. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns an emperor convening a theological dispute, enforcing its outcome, and exiling dissenters.
 
 > **Status note (7 Aug 2026):** the §13 Nicaea/canon mixup has since been corrected in `Field_Guide_Conversation_Reference.md`. §12.8 (John 8:44) is still open.
 

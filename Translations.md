@@ -2,7 +2,7 @@
 
 *Which Bible You Read Is Already an Interpretation*
 
-**Companion to:** Master Notes · Field Guide · History · Sources · The Strongest Case · Glossary
+**Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Glossary
 **Last updated:** 7 August 2026
 
 > **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements.
@@ -91,7 +91,7 @@ Check these in ESV, NRSVue, NIV, and JPS side by side. This is the highest-value
 
 **Isaiah 7:14 — *almah*.** "Virgin" (ESV, NIV, KJV) vs. "young woman" (NRSV, RSV, JPS). The Hebrew *almah* means a young woman of marriageable age; Hebrew has a specific word for virgin, *betulah*, and it is not used here. The Septuagint rendered it *parthenos*, which does carry "virgin," and Matthew quotes the Greek. When the RSV printed "young woman" in 1952, copies were publicly burned. **The scholarly reading is not controversial; the theological stakes are.**
 
-**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: "men who practice homosexuality" (collapsing both words into one). NRSVue: renders them separately. KJV: "effeminate" and "abusers of themselves with mankind." The RSV in 1946 was the first major English Bible to use the word "homosexuals" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Master Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: "homosexual" is a 19th-century category imported into a text that has no such word.
+**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: "men who practice homosexuality" (collapsing both words into one). NRSVue: renders them separately. KJV: "effeminate" and "abusers of themselves with mankind." The RSV in 1946 was the first major English Bible to use the word "homosexuals" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: "homosexual" is a 19th-century category imported into a text that has no such word.
 
 **Romans 16:7 — Junia.** "Well known *to* the apostles" (ESV) vs. "prominent *among* the apostles" (NRSV). One preposition decides whether a woman was an apostle. Also worth knowing: for centuries the name was printed as the masculine "Junias," a man who appears nowhere else in Greek literature. Modern editions have restored Junia.
 

@@ -1,12 +1,12 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Field_Guide_Conversation_Reference.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
     "id": "rk_9bb8d2fb8382fd881ba1",
-    "text": "FIELD GUIDE: LIVE CONVERSATION REFERENCE",
-    "raw_text": "**FIELD GUIDE: LIVE CONVERSATION REFERENCE**",
+    "text": "OBSERVATIONS: LIVE CONVERSATION REFERENCE",
+    "raw_text": "**OBSERVATIONS: LIVE CONVERSATION REFERENCE**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26,15 +26,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_911fa84f1e693b0bf248",
-    "text": "God / Religion / Morality Debates",
-    "raw_text": "*God / Religion / Morality Debates*",
+    "id": "rk_56a15a8cf777d070912e",
+    "text": "Bible Reading, Religion, Morality, and Conversation",
+    "raw_text": "*Bible Reading, Religion, Morality, and Conversation*",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -54,15 +54,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fc5b31713479df0c70d",
-    "text": "Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026",
-    "raw_text": "Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026",
+    "text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026",
+    "raw_text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -82,10 +82,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4d1c8af690fe43ebaa78",
@@ -110,14 +110,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_47c15d6ebeaa6519d20f",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
@@ -141,12 +141,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_36965aebe3013fc03892",
-    "text": "Scope: live-conversation material. Findings and textual analysis live in the Master Notes.",
-    "raw_text": "*Scope: live-conversation material. Findings and textual analysis live in the Master Notes.*",
+    "id": "rk_fb42077c6c498f5b290b",
+    "text": "Scope: a quick-reference companion for Bible reading and conversation. Extended findings and textual analysis live in the Study Notes.",
+    "raw_text": "*Scope: a quick-reference companion for Bible reading and conversation. Extended findings and textual analysis live in the Study Notes.*",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -166,15 +166,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2d52640d0a9e2cc28c1a",
-    "text": "Audited August 2026. Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> Companion documents: Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
-    "raw_text": "> **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> **Companion documents:** Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
+    "text": "Audited August 2026. Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n\nCompanion documents: Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
+    "raw_text": "> **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> **Companion documents:** Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -194,15 +194,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_0bd614df7c53e0ec9f50",
-    "text": "Live field reference for real conversations. Each entry covers: (1) the claim as a believer typically states it, (2) what the claim is doing logically, (3) the contradiction or weakness, (4) response options from soft to sharp, and (5) sources for both sides. Organized by logical move, not topic — because in live conversation people jump. Recognizing the move matters more than knowing the topic.",
-    "raw_text": "Live field reference for real conversations. Each entry covers: (1) the claim as a believer typically states it, (2) what the claim is doing logically, (3) the contradiction or weakness, (4) response options from soft to sharp, and (5) sources for both sides. Organized by logical move, not topic — because in live conversation people jump. Recognizing the move matters more than knowing the topic.",
+    "id": "rk_0462bf1d27b9f14d0bc2",
+    "text": "Reference for Bible reading and thoughtful conversation. Each entry identifies a common claim, explains its logic and context, records relevant strengths or problems, and names sources representing more than one view. It is organized for quick lookup when a passage, doctrine, or historical claim comes up.",
+    "raw_text": "Reference for Bible reading and thoughtful conversation. Each entry identifies a common claim, explains its logic and context, records relevant strengths or problems, and names sources representing more than one view. It is organized for quick lookup when a passage, doctrine, or historical claim comes up.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -224,10 +224,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec100d7c6eb6d3d787c7",
@@ -255,10 +255,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7ff69aa11411aaba0675",
@@ -286,10 +286,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_37fc389f31bba28fca99",
@@ -317,15 +317,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1ea3f71558fef126407e",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_b87f937af89c2b60e119",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -348,15 +348,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6f796f1dd5c04b2f96ef",
-    "text": "•  Soft: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
-    "raw_text": "•  Soft: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
+    "text": "•  Clarifying question: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
+    "raw_text": "•  Clarifying question: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -379,15 +379,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c5a38d49634035f734c",
-    "text": "•  Sharp: \"You have described a rule. You have not told me why that description obligates anyone.\"",
-    "raw_text": "•  Sharp: \"You have described a rule. You have not told me why that description obligates anyone.\"",
+    "text": "•  Direct question: \"You have described a rule. You have not told me why that description obligates anyone.\"",
+    "raw_text": "•  Direct question: \"You have described a rule. You have not told me why that description obligates anyone.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -410,10 +410,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ac6b005959ebc4cda2ec",
@@ -441,10 +441,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_84986d2e2d3367319cf3",
@@ -472,10 +472,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45bf251db671ce3b7ab5",
@@ -503,10 +503,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_32092fab32d73989ebbf",
@@ -534,10 +534,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5b3ab24aedf478577dc8",
@@ -565,10 +565,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b5fa3baecb618fa10aa6",
@@ -596,10 +596,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_be5c777e33f8c541f4bb",
@@ -627,10 +627,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3cf3f3d0d96f1a814db1",
@@ -658,10 +658,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_136be4214c47e03ddc41",
@@ -689,10 +689,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c50487f0519500f684a5",
@@ -720,10 +720,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6a4b10e07e9497158118",
@@ -751,10 +751,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f04d70340d8b5cbc58bb",
@@ -782,15 +782,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_922d0fcb630cd967a456",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_66753fd727a9745db4f4",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -813,15 +813,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f3dc6ef0b19264967537",
-    "text": "•  Soft: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
-    "raw_text": "•  Soft: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
+    "text": "•  Clarifying question: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
+    "raw_text": "•  Clarifying question: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -844,15 +844,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_99e99b3e4c633fa0da4e",
-    "text": "•  Sharp: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
-    "raw_text": "•  Sharp: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
+    "text": "•  Direct question: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
+    "raw_text": "•  Direct question: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -875,10 +875,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f77431c6a67a7a78501",
@@ -906,10 +906,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d583f6dd717ac26f072c",
@@ -937,10 +937,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_87c0ce07eae26377ff39",
@@ -968,10 +968,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c4037d7d293e68cd1f7",
@@ -999,10 +999,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a2b3d296adb5880efedb",
@@ -1030,10 +1030,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8fe0122b1891ad899889",
@@ -1061,10 +1061,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7a28241571872ffea1c2",
@@ -1092,10 +1092,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b99c6e67344d8d31cffd",
@@ -1123,10 +1123,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_34bfe8f9bd7f69b59145",
@@ -1154,10 +1154,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d871f42180f0c82afd9",
@@ -1185,10 +1185,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_37edf04b114a9f185ce8",
@@ -1216,10 +1216,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_44d57f61f687a18381a3",
@@ -1247,10 +1247,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_679269755a594e2eb546",
@@ -1278,15 +1278,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9553044eee51a7c48c2c",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_a2f8b07219b78c066d67",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1309,15 +1309,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6a944065df22ca58fa82",
-    "text": "•  Soft: \"If God commanded torturing children — would it be good?\"",
-    "raw_text": "•  Soft: \"If God commanded torturing children — would it be good?\"",
+    "text": "•  Clarifying question: \"If God commanded torturing children — would it be good?\"",
+    "raw_text": "•  Clarifying question: \"If God commanded torturing children — would it be good?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1340,15 +1340,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f5cad75f99a7e0b78dfb",
-    "text": "•  Sharp: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
-    "raw_text": "•  Sharp: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
+    "text": "•  Direct question: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
+    "raw_text": "•  Direct question: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1371,10 +1371,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e337202b66145294d8b7",
@@ -1402,10 +1402,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_edb5dcbd1c19f4b6a03e",
@@ -1433,10 +1433,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_68a7bba7b8e323d42959",
@@ -1464,10 +1464,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4492035b0ed302f564e5",
@@ -1495,10 +1495,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d53d0f294ab158c2cc26",
@@ -1526,10 +1526,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_65e05bdaad0cc050034d",
@@ -1557,10 +1557,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6d732026ca643e6f769b",
@@ -1588,10 +1588,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_12b9d96ca871c3642aee",
@@ -1619,10 +1619,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e3a3927e0204f887bd86",
@@ -1650,10 +1650,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e1107737225400ce54e5",
@@ -1681,10 +1681,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c4b515505366a4884f2a",
@@ -1712,10 +1712,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f79813bb3ce76bf5157b",
@@ -1743,10 +1743,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a3254a2b43fe3b4c72df",
@@ -1774,10 +1774,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ea82554a97690dc5af9",
@@ -1805,10 +1805,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e858908c01b8bdcdddf9",
@@ -1836,10 +1836,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8ea522399b102168260",
@@ -1867,10 +1867,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f26591125b72ff90a35",
@@ -1898,10 +1898,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c7d35b8b8216caf4111a",
@@ -1929,10 +1929,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_966e3c70a3694a9b5eff",
@@ -1960,10 +1960,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fe0dcb6adeae33f0b57",
@@ -1991,15 +1991,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2e7060587f752abc7213",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_c65c9df9012286e65838",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2022,15 +2022,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e3a69867eacf9ec30dab",
-    "text": "•  Soft: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
-    "raw_text": "•  Soft: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
+    "text": "•  Clarifying question: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
+    "raw_text": "•  Clarifying question: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2053,15 +2053,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_39652aa4dcecd00dbab7",
-    "text": "•  Sharp: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
-    "raw_text": "•  Sharp: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
+    "text": "•  Direct question: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
+    "raw_text": "•  Direct question: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2084,10 +2084,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a5b98570c701a8f63b5",
@@ -2115,10 +2115,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8dc38ccdc0ad41a77ca",
@@ -2146,10 +2146,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e12df7ab0c2f68067933",
@@ -2177,10 +2177,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fe10dcb6d08fbdcad882",
@@ -2208,10 +2208,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5378f2ba900c6801cb45",
@@ -2221,7 +2221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2230,7 +2230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:73",
     "parent_id": null,
     "related_ids": [],
@@ -2239,10 +2239,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7dbee2c1f92ceb6ec8c9",
@@ -2252,7 +2252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2261,7 +2261,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:74",
     "parent_id": null,
     "related_ids": [],
@@ -2270,10 +2270,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9e20b977e0fdc21006e6",
@@ -2283,7 +2283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2292,7 +2292,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:75",
     "parent_id": null,
     "related_ids": [],
@@ -2301,10 +2301,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_953fd2e0774f6155bcaf",
@@ -2314,7 +2314,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2323,7 +2323,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:76",
     "parent_id": null,
     "related_ids": [],
@@ -2332,10 +2332,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf80900506ed150923f2",
@@ -2345,7 +2345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2354,7 +2354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:77",
     "parent_id": null,
     "related_ids": [],
@@ -2363,20 +2363,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7abffbbf731ecc63236d",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_0ca998774d8c973b6e53",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2385,7 +2385,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:78",
     "parent_id": null,
     "related_ids": [],
@@ -2394,20 +2394,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a17d0123e18cfc057b97",
-    "text": "•  Soft: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
-    "raw_text": "•  Soft: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
+    "text": "•  Clarifying question: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
+    "raw_text": "•  Clarifying question: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2416,7 +2416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:79",
     "parent_id": null,
     "related_ids": [],
@@ -2425,20 +2425,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_22c648539fd6e0379cfa",
-    "text": "•  Sharp: \"How did cultures with no Bible access your objective morality independently?\"",
-    "raw_text": "•  Sharp: \"How did cultures with no Bible access your objective morality independently?\"",
+    "text": "•  Direct question: \"How did cultures with no Bible access your objective morality independently?\"",
+    "raw_text": "•  Direct question: \"How did cultures with no Bible access your objective morality independently?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2447,7 +2447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:80",
     "parent_id": null,
     "related_ids": [],
@@ -2456,10 +2456,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50e73f39e2de2d9d1b56",
@@ -2469,7 +2469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2478,7 +2478,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:81",
     "parent_id": null,
     "related_ids": [],
@@ -2487,10 +2487,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_04567a7e81e324df52b5",
@@ -2500,7 +2500,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2509,7 +2509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
@@ -2518,10 +2518,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c14b2140b7766467758e",
@@ -2531,7 +2531,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2540,7 +2540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
@@ -2549,10 +2549,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fb9ab5511353e133e7bc",
@@ -2562,7 +2562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2571,7 +2571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:84",
     "parent_id": null,
     "related_ids": [],
@@ -2580,10 +2580,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f306a17e97f7cceb719f",
@@ -2593,7 +2593,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2602,7 +2602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:85",
     "parent_id": null,
     "related_ids": [],
@@ -2611,10 +2611,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_85285829221ae673c479",
@@ -2624,7 +2624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2633,7 +2633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:86",
     "parent_id": null,
     "related_ids": [],
@@ -2642,10 +2642,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2185480eef1f749a22ee",
@@ -2655,7 +2655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2664,7 +2664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:87",
     "parent_id": null,
     "related_ids": [],
@@ -2673,10 +2673,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4cb663abefb51521fb94",
@@ -2686,7 +2686,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2695,7 +2695,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:88",
     "parent_id": null,
     "related_ids": [],
@@ -2704,10 +2704,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4a62ca91c624531321ad",
@@ -2717,7 +2717,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2726,7 +2726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:89",
     "parent_id": null,
     "related_ids": [],
@@ -2735,10 +2735,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_28d5db803087eed9c8f1",
@@ -2748,7 +2748,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2757,7 +2757,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
@@ -2766,10 +2766,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f7085bcf11cf8ba38e4",
@@ -2779,7 +2779,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2788,7 +2788,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
@@ -2797,10 +2797,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7859373ee36a21785b45",
@@ -2810,7 +2810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2819,7 +2819,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
@@ -2828,20 +2828,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e55abae1ea1d933fceaa",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_24778d9a1c4e3ebf5a55",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2850,7 +2850,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
@@ -2859,20 +2859,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_74502f82b179e86d7d95",
-    "text": "•  Soft: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
-    "raw_text": "•  Soft: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
+    "text": "•  Clarifying question: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
+    "raw_text": "•  Clarifying question: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2881,7 +2881,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:94",
     "parent_id": null,
     "related_ids": [],
@@ -2890,20 +2890,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a2544b863e9fc4539a4",
-    "text": "•  Sharp: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
-    "raw_text": "•  Sharp: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
+    "text": "•  Direct question: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
+    "raw_text": "•  Direct question: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2912,7 +2912,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:95",
     "parent_id": null,
     "related_ids": [],
@@ -2921,10 +2921,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6fd2b25e023da1ead5c5",
@@ -2934,7 +2934,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2943,7 +2943,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:96",
     "parent_id": null,
     "related_ids": [],
@@ -2952,10 +2952,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_daf1253ad6cac4db2714",
@@ -2965,7 +2965,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2974,7 +2974,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:97",
     "parent_id": null,
     "related_ids": [],
@@ -2983,10 +2983,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2cfe540ccddd241ce781",
@@ -2996,7 +2996,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -3005,7 +3005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:98",
     "parent_id": null,
     "related_ids": [],
@@ -3014,10 +3014,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91747bd03d469c2b2d02",
@@ -3027,7 +3027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3036,7 +3036,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:99",
     "parent_id": null,
     "related_ids": [],
@@ -3045,10 +3045,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cba26d053476f80f684e",
@@ -3058,7 +3058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3067,7 +3067,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:100",
     "parent_id": null,
     "related_ids": [],
@@ -3076,10 +3076,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_713165f5dfac7bbcd47d",
@@ -3089,7 +3089,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3098,7 +3098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:101",
     "parent_id": null,
     "related_ids": [],
@@ -3107,10 +3107,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e9f275247977a3f47138",
@@ -3120,7 +3120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3129,7 +3129,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:102",
     "parent_id": null,
     "related_ids": [],
@@ -3138,10 +3138,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf40499821130337552f",
@@ -3151,7 +3151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3160,7 +3160,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:103",
     "parent_id": null,
     "related_ids": [],
@@ -3169,10 +3169,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ab14cf30a2ed454fb313",
@@ -3182,7 +3182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3191,7 +3191,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:104",
     "parent_id": null,
     "related_ids": [],
@@ -3200,20 +3200,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_8c8bfce259c95374679c",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_90ca3a0c111d60c92a36",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3222,7 +3222,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:105",
     "parent_id": null,
     "related_ids": [],
@@ -3231,20 +3231,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c0c026202aeb1e882a8",
-    "text": "•  Soft: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
-    "raw_text": "•  Soft: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
+    "text": "•  Clarifying question: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
+    "raw_text": "•  Clarifying question: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3253,7 +3253,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:106",
     "parent_id": null,
     "related_ids": [],
@@ -3262,20 +3262,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c39c8cd3fcaed4390cc",
-    "text": "•  Sharp: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
-    "raw_text": "•  Sharp: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
+    "text": "•  Direct question: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
+    "raw_text": "•  Direct question: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3284,7 +3284,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:107",
     "parent_id": null,
     "related_ids": [],
@@ -3293,10 +3293,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5dad76b71d696ffa6fca",
@@ -3306,7 +3306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3315,7 +3315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:108",
     "parent_id": null,
     "related_ids": [],
@@ -3324,10 +3324,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_628bce844c7ad7dd0e34",
@@ -3337,7 +3337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3346,7 +3346,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:109",
     "parent_id": null,
     "related_ids": [],
@@ -3355,10 +3355,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dc6ba0566188ceed3a1e",
@@ -3368,7 +3368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3377,7 +3377,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:110",
     "parent_id": null,
     "related_ids": [],
@@ -3386,10 +3386,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f74b487ba01b6a883058",
@@ -3399,7 +3399,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3408,7 +3408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:111",
     "parent_id": null,
     "related_ids": [],
@@ -3417,10 +3417,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69064dc71abe5bb9c20d",
@@ -3430,7 +3430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3439,7 +3439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:112",
     "parent_id": null,
     "related_ids": [],
@@ -3448,10 +3448,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69964306526088e5b3d7",
@@ -3461,7 +3461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3470,7 +3470,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:113",
     "parent_id": null,
     "related_ids": [],
@@ -3479,10 +3479,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f4bf26006452d8785091",
@@ -3492,7 +3492,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3501,7 +3501,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:114",
     "parent_id": null,
     "related_ids": [],
@@ -3510,10 +3510,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cae0e183cb7720d522f8",
@@ -3523,7 +3523,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3532,7 +3532,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:115",
     "parent_id": null,
     "related_ids": [],
@@ -3541,10 +3541,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6ea5f08ff3f8a03c63b6",
@@ -3554,7 +3554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3563,7 +3563,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:116",
     "parent_id": null,
     "related_ids": [],
@@ -3572,10 +3572,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8738f03ee8089e30f9c2",
@@ -3585,7 +3585,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3594,7 +3594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:117",
     "parent_id": null,
     "related_ids": [],
@@ -3603,10 +3603,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fb13a4cc5ae4c0fc9f3b",
@@ -3616,7 +3616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3625,7 +3625,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:118",
     "parent_id": null,
     "related_ids": [],
@@ -3634,20 +3634,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_62d1c059ad9aa2048ffa",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_42946f5fb2a72441866e",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3656,7 +3656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:119",
     "parent_id": null,
     "related_ids": [],
@@ -3665,20 +3665,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_59f49378bfb250b0d351",
-    "text": "•  Soft: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
-    "raw_text": "•  Soft: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
+    "text": "•  Clarifying question: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
+    "raw_text": "•  Clarifying question: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3687,7 +3687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:120",
     "parent_id": null,
     "related_ids": [],
@@ -3696,20 +3696,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4e62772b6c44cacbae0e",
-    "text": "•  Sharp: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
-    "raw_text": "•  Sharp: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
+    "text": "•  Direct question: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
+    "raw_text": "•  Direct question: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3718,7 +3718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:121",
     "parent_id": null,
     "related_ids": [],
@@ -3727,10 +3727,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e66425a5707fa4602cb",
@@ -3740,7 +3740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3749,7 +3749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:122",
     "parent_id": null,
     "related_ids": [],
@@ -3758,10 +3758,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b8b482669b0e4aa3d7b2",
@@ -3771,7 +3771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3780,7 +3780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:123",
     "parent_id": null,
     "related_ids": [],
@@ -3789,10 +3789,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc834f1a62037d3732e4",
@@ -3802,7 +3802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3811,7 +3811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:124",
     "parent_id": null,
     "related_ids": [],
@@ -3820,10 +3820,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b9f6b04e15e8e03c8f58",
@@ -3833,7 +3833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3842,7 +3842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:125",
     "parent_id": null,
     "related_ids": [],
@@ -3851,10 +3851,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_260a7ec352d0d8395756",
@@ -3864,7 +3864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)"
     ],
     "subtopics": [],
@@ -3873,7 +3873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291)",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291)",
     "source_reference": "paragraph:126",
     "parent_id": null,
     "related_ids": [],
@@ -3882,10 +3882,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_96b90681cb4d10d0167c",
@@ -3895,7 +3895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -3905,9 +3905,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:127",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3917,29 +3917,29 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b8cce8bf9e1d172f90d7",
-    "text": "STATUS: Core argument holds. Two details need correcting before use.",
-    "raw_text": "**STATUS: Core argument holds. Two details need correcting before use.**",
+    "id": "rk_e9c53f76e6ff96d60a21",
+    "text": "STATUS: Core assessment holds. Two details need correction.",
+    "raw_text": "**STATUS: Core assessment holds. Two details need correction.**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
     "subtopics": [],
     "record_type": "AUDIT_STATUS",
-    "status": "Core argument holds. Two details need correcting before use.",
+    "status": "Core assessment holds. Two details need correction.",
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:128",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3949,17 +3949,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7f2d8503af3909f86fa2",
-    "text": "1. Drop the Children's Crusade. It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, Journal of Medieval History 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that pueri in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes the counter-case fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Either way it is a contested episode resting on thin, late, embellished sources. You have the Fourth Crusade, which is documented and indefensible. Use that and leave this one alone.",
-    "raw_text": "**1. Drop the Children's Crusade.** It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, *Journal of Medieval History* 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that *pueri* in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes the counter-case fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Either way it is a contested episode resting on thin, late, embellished sources. **You have the Fourth Crusade, which is documented and indefensible. Use that and leave this one alone.**",
+    "id": "rk_7e9bd040730b3abbb2c7",
+    "text": "1. Children's Crusade correction. It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, Journal of Medieval History 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that pueri in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
+    "raw_text": "**1. Children's Crusade correction.** It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, *Journal of Medieval History* 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that *pueri* in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -3969,9 +3969,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:129",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3981,17 +3981,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_8cdbaf22fda0dc9c28b9",
-    "text": "2. Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, and Rodney Stark's God's Battalions is already listed below as the apologetic source — expect it. The Fourth Crusade, which sacked Christian Constantinople, has no defensive reading at all. Concede the first point and press the second; conceding costs nothing and makes the rest land harder.",
-    "raw_text": "**2. Do not accept or reject \"the Crusades were defensive\" wholesale.** The First Crusade has a partly defensible context in Seljuk expansion, and Rodney Stark's *God's Battalions* is already listed below as the apologetic source — expect it. The Fourth Crusade, which sacked Christian Constantinople, has no defensive reading at all. Concede the first point and press the second; conceding costs nothing and makes the rest land harder.",
+    "id": "rk_ca3feba4e4f64bd5caa6",
+    "text": "2. Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. Keep the episodes and their contexts distinct.",
+    "raw_text": "**2. Do not accept or reject \"the Crusades were defensive\" wholesale.** The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. Keep the episodes and their contexts distinct.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4001,9 +4001,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:130",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4013,17 +4013,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3d5363cd7c9f1d9d79dd",
-    "text": "What is untouched by any of this : the theological mechanism. Crusaders believed they had direct divine command. That is the strongest form of moral grounding the believer's own framework allows, and it authorised mass killing. See History §10 for the apologetic version you will meet.",
-    "raw_text": "**What is untouched by any of this** ⟨INFERENCE⟩**:** the theological mechanism. Crusaders believed they had direct divine command. That is the strongest form of moral grounding the believer's own framework allows, and it authorised mass killing. See History §10 for the apologetic version you will meet.",
+    "id": "rk_3c40e8dec32dd795f480",
+    "text": "What is untouched by any of this : the theological mechanism. Crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
+    "raw_text": "**What is untouched by any of this** ⟨INFERENCE⟩**:** the theological mechanism. Crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4033,9 +4033,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:131",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4045,17 +4045,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_173054275f217a5201b3",
-    "text": "Theological mechanism: \"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning weaponized into mass killing.",
-    "raw_text": "**Theological mechanism: **\"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning weaponized into mass killing.",
+    "id": "rk_54e0bedd34918790c686",
+    "text": "Theological mechanism: \"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning used to authorize mass killing.",
+    "raw_text": "**Theological mechanism: **\"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning used to authorize mass killing.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4065,9 +4065,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:132",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4077,17 +4077,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_971a0e10e6cb961d3bc6",
-    "text": "Why it matters: The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. Either God commanded evil, or humans used God to justify what they already wanted. Both options destroy the claim that divine grounding produces reliable moral outcomes.",
-    "raw_text": "**Why it matters: **The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. Either God commanded evil, or humans used God to justify what they already wanted. Both options destroy the claim that divine grounding produces reliable moral outcomes.",
+    "id": "rk_edee6d954354e3a6b725",
+    "text": "Why it matters: The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. This history raises a serious question about whether claims of divine grounding reliably produce moral outcomes.",
+    "raw_text": "**Why it matters: **The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. This history raises a serious question about whether claims of divine grounding reliably produce moral outcomes.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4097,9 +4097,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:133",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4109,17 +4109,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_054fcfffe6076f88ba98",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_1bd36c99f3e8516b88f7",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4129,9 +4129,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:134",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4141,17 +4141,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bd71aa506d06d41a205e",
-    "text": "•  Soft: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
-    "raw_text": "•  Soft: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
+    "text": "•  Clarifying question: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
+    "raw_text": "•  Clarifying question: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4161,9 +4161,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:135",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4173,17 +4173,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4462c4ed2b2f86cf36fa",
-    "text": "•  Sharp: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
-    "raw_text": "•  Sharp: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
+    "text": "•  Direct question: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
+    "raw_text": "•  Direct question: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4193,9 +4193,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:136",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4205,7 +4205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_78b39c227527008d0e0c",
@@ -4215,7 +4215,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4225,9 +4225,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:137",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4237,7 +4237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69ba0978cc9f936bf383",
@@ -4247,7 +4247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4257,9 +4257,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:138",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4269,7 +4269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bd608d3dcb4c963b0742",
@@ -4279,7 +4279,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4289,9 +4289,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:139",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4301,7 +4301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ed7aeb8ea2fecdca10e",
@@ -4311,7 +4311,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4321,9 +4321,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:140",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4333,7 +4333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_71ab93ded94ff7889bae",
@@ -4343,7 +4343,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4353,9 +4353,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:141",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4365,7 +4365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0a86ed0d2fba5c394dd0",
@@ -4375,7 +4375,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4385,9 +4385,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:142",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4397,7 +4397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b018288300918917e238",
@@ -4407,7 +4407,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4416,7 +4416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:143",
     "parent_id": null,
     "related_ids": [],
@@ -4425,10 +4425,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f78ce0ffb112b6bae212",
@@ -4438,7 +4438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4447,7 +4447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:144",
     "parent_id": null,
     "related_ids": [],
@@ -4456,10 +4456,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4eaf837124572e7f0889",
@@ -4469,7 +4469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4478,7 +4478,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:145",
     "parent_id": null,
     "related_ids": [],
@@ -4487,20 +4487,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_26ab0d71861b8f796500",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_e9c0dfa31d065304496e",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4509,7 +4509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:146",
     "parent_id": null,
     "related_ids": [],
@@ -4518,20 +4518,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_87d5641fc56a67253b90",
-    "text": "•  Soft: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
-    "raw_text": "•  Soft: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
+    "text": "•  Clarifying question: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
+    "raw_text": "•  Clarifying question: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4540,7 +4540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:147",
     "parent_id": null,
     "related_ids": [],
@@ -4549,20 +4549,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_11130b7cfe926ad6656f",
-    "text": "•  Sharp: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
-    "raw_text": "•  Sharp: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
+    "text": "•  Direct question: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
+    "raw_text": "•  Direct question: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4571,7 +4571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:148",
     "parent_id": null,
     "related_ids": [],
@@ -4580,10 +4580,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4fb9d55c7c5767d0dde0",
@@ -4593,7 +4593,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4602,7 +4602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:149",
     "parent_id": null,
     "related_ids": [],
@@ -4611,10 +4611,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2379f4c2eb0ac27b238",
@@ -4624,7 +4624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4633,7 +4633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:150",
     "parent_id": null,
     "related_ids": [],
@@ -4642,10 +4642,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2efc2e1896f6a2c2f70",
@@ -4655,7 +4655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4664,7 +4664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:151",
     "parent_id": null,
     "related_ids": [],
@@ -4673,10 +4673,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dfeaeb333bfab906d665",
@@ -4704,10 +4704,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90a7221e3ec49e29bad6",
@@ -4739,7 +4739,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c0133ecab9c86ffd9bd2",
@@ -4771,7 +4771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15b1676006d55ec66839",
@@ -4803,7 +4803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_644f8fe6de9a2dfdffc6",
@@ -4835,7 +4835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c07208fdf75fe2c001c9",
@@ -4867,7 +4867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_418600c84d59cb69cae4",
@@ -4899,7 +4899,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_692c24c02ec8bb8ea551",
@@ -4931,12 +4931,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_228f567137c25681a8d7",
-    "text": "REBUILT VERSION — use this instead.  Every prepared bias humans have is toward immediate, physically present, evolutionarily ancient threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught. That claim is true, it is not defeated by the counterexample that sinks the two-fears version, and it reaches the same conclusion.",
-    "raw_text": "**REBUILT VERSION — use this instead.** ⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩ Every prepared bias humans have is toward **immediate, physically present, evolutionarily ancient** threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught. That claim is true, it is not defeated by the counterexample that sinks the two-fears version, and it reaches the same conclusion.",
+    "id": "rk_97597bbf1715b65570c9",
+    "text": "REBUILT VERSION.  Every prepared bias humans have is toward immediate, physically present, evolutionarily ancient threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.",
+    "raw_text": "**REBUILT VERSION.** ⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩ Every prepared bias humans have is toward **immediate, physically present, evolutionarily ancient** threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -4963,12 +4963,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_84b1d17c96b890112513",
-    "text": "Replacement lines for live use:",
-    "raw_text": "**Replacement lines for live use:**",
+    "id": "rk_cd6dff97fd01879f0965",
+    "text": "Questions and observations for conversation:",
+    "raw_text": "**Questions and observations for conversation:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -4995,7 +4995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e74886ac43b065a69639",
@@ -5027,7 +5027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_536972e78533c4638516",
@@ -5059,7 +5059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec42fcca822df9990e11",
@@ -5091,7 +5091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4408f5b73a5c3e8fb403",
@@ -5123,7 +5123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8ec3ce82af1063818a6d",
@@ -5155,12 +5155,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_64bc09da0ef5dc559112",
-    "text": "Implication for the debate:",
-    "raw_text": "**Implication for the debate:**",
+    "id": "rk_7bc83ef449271221b3ce",
+    "text": "Interpretive implication:",
+    "raw_text": "**Interpretive implication:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5187,12 +5187,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b3a47a7062c1425963c2",
-    "text": "•  Fear of divine punishment is learned fear — culturally installed by the same religion that offers itself as the solution. That is the structure of a trap, not a foundation.",
-    "raw_text": "•  Fear of divine punishment is learned fear — culturally installed by the same religion that offers itself as the solution. That is the structure of a trap, not a foundation.",
+    "id": "rk_41e59cc9ad918988d06b",
+    "text": "•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.",
+    "raw_text": "•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5219,12 +5219,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_733cc2ecd0c0caf075e0",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_5bfcf972316abffb2f7b",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5251,7 +5251,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_de6e735516a71148f34d",
@@ -5283,7 +5283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4bf74b0e51ef6bd4582c",
@@ -5315,7 +5315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c5e26e3103ba959df61",
@@ -5347,7 +5347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21e0e1a645d221c2b1a4",
@@ -5379,7 +5379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_402e6abbc6dab809086e",
@@ -5411,7 +5411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_31fa3cfb8691045d21b3",
@@ -5443,7 +5443,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_905b5ed51d0e766d6b0f",
@@ -5475,7 +5475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1e27eac012a7a10c91e8",
@@ -5507,7 +5507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d6eea9755a417a1af371",
@@ -5539,7 +5539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1a0d0d045d4fe468e264",
@@ -5571,7 +5571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cb3425e6818d1ee6cb36",
@@ -5599,10 +5599,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff706e0b59b2f8ae8c1a",
@@ -5630,10 +5630,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91f36d02f855427a0526",
@@ -5661,10 +5661,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_63996d3ffb515a736399",
@@ -5692,10 +5692,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15d843c615a50dc13023",
@@ -5723,10 +5723,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_42c391af8388b5156509",
@@ -5754,10 +5754,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5107539282e516130668",
@@ -5785,10 +5785,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4041e2f9fe1e975703c2",
@@ -5816,10 +5816,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91f27dabd281b570d99f",
@@ -5847,10 +5847,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3491db2dec2f57efa0cd",
@@ -5878,10 +5878,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e2ed5a79585ddc9d9586",
@@ -5909,10 +5909,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_437fed669136ad7c8bd4",
@@ -5940,10 +5940,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_96de41fb68a8ede18551",
@@ -5971,10 +5971,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6680be43006f0131d74f",
@@ -6002,10 +6002,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee240968d1b752718890",
@@ -6033,10 +6033,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e7d375870589792c7f2",
@@ -6064,10 +6064,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ad0a13eb45acd0381fa4",
@@ -6095,10 +6095,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2565c0c2cf952aebda4",
@@ -6126,10 +6126,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f73c638c2f52f810d6ca",
@@ -6157,10 +6157,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_197aaa19afdb0e5bf4d7",
@@ -6188,10 +6188,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd906e0bd853dba4e8f3",
@@ -6219,10 +6219,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e07fc271ae3baa82d08a",
@@ -6250,10 +6250,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c061513b31688e9fb2d1",
@@ -6263,8 +6263,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.1 Exposing circular reasoning:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.1 Clarifying circular reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6272,7 +6272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.1 Exposing circular reasoning:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.1 Clarifying circular reasoning:",
     "source_reference": "paragraph:202",
     "parent_id": null,
     "related_ids": [],
@@ -6281,10 +6281,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f9b5498934da8eee1dc",
@@ -6294,8 +6294,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.1 Exposing circular reasoning:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.1 Clarifying circular reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6303,7 +6303,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.1 Exposing circular reasoning:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.1 Clarifying circular reasoning:",
     "source_reference": "paragraph:203",
     "parent_id": null,
     "related_ids": [],
@@ -6312,10 +6312,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d301216f4a743b9e5269",
@@ -6325,8 +6325,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.2 Exposing the Euthyphro dilemma:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.2 Clarifying the Euthyphro dilemma:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6334,7 +6334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.2 Exposing the Euthyphro dilemma:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.2 Clarifying the Euthyphro dilemma:",
     "source_reference": "paragraph:204",
     "parent_id": null,
     "related_ids": [],
@@ -6343,10 +6343,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_86b45fa89f8c8cd84295",
@@ -6356,8 +6356,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.2 Exposing the Euthyphro dilemma:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.2 Clarifying the Euthyphro dilemma:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6365,7 +6365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.2 Exposing the Euthyphro dilemma:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.2 Clarifying the Euthyphro dilemma:",
     "source_reference": "paragraph:205",
     "parent_id": null,
     "related_ids": [],
@@ -6374,10 +6374,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_23ac3d7e8357cce578c4",
@@ -6387,8 +6387,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.3 Exposing moving goalposts:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.3 Noticing a changed standard:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6396,7 +6396,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.3 Exposing moving goalposts:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.3 Noticing a changed standard:",
     "source_reference": "paragraph:206",
     "parent_id": null,
     "related_ids": [],
@@ -6405,10 +6405,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19fb003c4af2a7cb3363",
@@ -6418,8 +6418,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.4 Exposing the fear trap:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.4 Understanding fear-based reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6427,7 +6427,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.4 Exposing the fear trap:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.4 Understanding fear-based reasoning:",
     "source_reference": "paragraph:207",
     "parent_id": null,
     "related_ids": [],
@@ -6436,10 +6436,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c3396c73a385dc02e057",
@@ -6449,8 +6449,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.4 Exposing the fear trap:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.4 Understanding fear-based reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6458,7 +6458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.4 Exposing the fear trap:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.4 Understanding fear-based reasoning:",
     "source_reference": "paragraph:208",
     "parent_id": null,
     "related_ids": [],
@@ -6467,10 +6467,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0dc56fe4afc011e099bf",
@@ -6480,7 +6480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.5 On the Gospels:"
     ],
     "subtopics": [],
@@ -6489,7 +6489,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.5 On the Gospels:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.5 On the Gospels:",
     "source_reference": "paragraph:209",
     "parent_id": null,
     "related_ids": [],
@@ -6498,10 +6498,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5946d8154b70d2496ebd",
@@ -6511,7 +6511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.5 On the Gospels:"
     ],
     "subtopics": [],
@@ -6520,7 +6520,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.5 On the Gospels:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.5 On the Gospels:",
     "source_reference": "paragraph:210",
     "parent_id": null,
     "related_ids": [],
@@ -6529,10 +6529,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e333b6efd326b7eea16d",
@@ -6542,7 +6542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.5 On the Gospels:"
     ],
     "subtopics": [],
@@ -6551,7 +6551,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.5 On the Gospels:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.5 On the Gospels:",
     "source_reference": "paragraph:211",
     "parent_id": null,
     "related_ids": [],
@@ -6560,10 +6560,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_77d2138aedaf2e95e98a",
@@ -6573,7 +6573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.6 On historical evidence:"
     ],
     "subtopics": [],
@@ -6582,7 +6582,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.6 On historical evidence:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.6 On historical evidence:",
     "source_reference": "paragraph:212",
     "parent_id": null,
     "related_ids": [],
@@ -6591,10 +6591,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ad6b2465004ebee2f008",
@@ -6604,7 +6604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.6 On historical evidence:"
     ],
     "subtopics": [],
@@ -6613,7 +6613,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.6 On historical evidence:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.6 On historical evidence:",
     "source_reference": "paragraph:213",
     "parent_id": null,
     "related_ids": [],
@@ -6622,10 +6622,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d92dfb875df2c35d7548",
@@ -6635,7 +6635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)",
+      "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN)",
       "Observation 1 — Jumping claims, no fixed position"
     ],
     "subtopics": [],
@@ -6644,7 +6644,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN) > Observation 1 — Jumping claims, no fixed position",
+    "source_section": "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN) > Observation 1 — Jumping claims, no fixed position",
     "source_reference": "paragraph:214",
     "parent_id": null,
     "related_ids": [],
@@ -6653,10 +6653,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states the fieldwork observations at §7 are the user's."
+      "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0873e5721b5419312833",
@@ -6666,7 +6666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)",
+      "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN)",
       "Observation 2 — Low textual literacy"
     ],
     "subtopics": [],
@@ -6675,7 +6675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN) > Observation 2 — Low textual literacy",
+    "source_section": "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN) > Observation 2 — Low textual literacy",
     "source_reference": "paragraph:215",
     "parent_id": null,
     "related_ids": [],
@@ -6684,10 +6684,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states the fieldwork observations at §7 are the user's."
+      "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9988050c4bc082dafbf1",
@@ -6697,7 +6697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)",
+      "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN)",
       "Observation 3 — Metaphysical leap"
     ],
     "subtopics": [],
@@ -6706,7 +6706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN) > Observation 3 — Metaphysical leap",
+    "source_section": "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN) > Observation 3 — Metaphysical leap",
     "source_reference": "paragraph:216",
     "parent_id": null,
     "related_ids": [],
@@ -6715,10 +6715,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states the fieldwork observations at §7 are the user's."
+      "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1db7ea8eaedebf44e02f",
@@ -6728,7 +6728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6737,7 +6737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:217",
     "parent_id": null,
     "related_ids": [],
@@ -6746,10 +6746,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b43660e4048e83b8aa14",
@@ -6759,7 +6759,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6768,7 +6768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:218",
     "parent_id": null,
     "related_ids": [],
@@ -6777,10 +6777,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dcf42d1e5cba40c22dba",
@@ -6790,7 +6790,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6799,7 +6799,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:219",
     "parent_id": null,
     "related_ids": [],
@@ -6808,20 +6808,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_112f37cca6e5ed1b0801",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_235d483a3b39690397a7",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6830,7 +6830,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:220",
     "parent_id": null,
     "related_ids": [],
@@ -6839,20 +6839,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ae89394be2cfc8e14b04",
-    "text": "•  Soft: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
-    "raw_text": "•  Soft: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
+    "text": "•  Clarifying question: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
+    "raw_text": "•  Clarifying question: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6861,7 +6861,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:221",
     "parent_id": null,
     "related_ids": [],
@@ -6870,20 +6870,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_faf8416b416343588e73",
-    "text": "•  Sharp: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
-    "raw_text": "•  Sharp: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
+    "text": "•  Direct question: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
+    "raw_text": "•  Direct question: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6892,7 +6892,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:222",
     "parent_id": null,
     "related_ids": [],
@@ -6901,10 +6901,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4a15109490d03c752ce",
@@ -6914,7 +6914,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6923,7 +6923,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:223",
     "parent_id": null,
     "related_ids": [],
@@ -6932,10 +6932,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_82454b9eb1188d208c75",
@@ -6945,7 +6945,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -6954,7 +6954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:224",
     "parent_id": null,
     "related_ids": [],
@@ -6963,10 +6963,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0604d4016955a6fa5f7d",
@@ -6976,7 +6976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -6985,7 +6985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:225",
     "parent_id": null,
     "related_ids": [],
@@ -6994,10 +6994,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf72d2030ec4e551711a",
@@ -7007,7 +7007,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7016,7 +7016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:226",
     "parent_id": null,
     "related_ids": [],
@@ -7025,10 +7025,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_78f9d9dc1955100013cd",
@@ -7038,7 +7038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7047,7 +7047,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:227",
     "parent_id": null,
     "related_ids": [],
@@ -7056,10 +7056,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_81169c85d85c2ee7ac91",
@@ -7069,7 +7069,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7078,7 +7078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:228",
     "parent_id": null,
     "related_ids": [],
@@ -7087,10 +7087,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_88855a740e064c6d3efb",
@@ -7100,7 +7100,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7109,7 +7109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:229",
     "parent_id": null,
     "related_ids": [],
@@ -7118,10 +7118,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b4b924493684c86bfdc6",
@@ -7131,7 +7131,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7140,7 +7140,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:230",
     "parent_id": null,
     "related_ids": [],
@@ -7149,20 +7149,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_feee234d38acfdfd1939",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_cb59a362a75e1c598230",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7171,7 +7171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:231",
     "parent_id": null,
     "related_ids": [],
@@ -7180,20 +7180,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7154de25eca2679735da",
-    "text": "•  Soft: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
-    "raw_text": "•  Soft: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
+    "text": "•  Clarifying question: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
+    "raw_text": "•  Clarifying question: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7202,7 +7202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:232",
     "parent_id": null,
     "related_ids": [],
@@ -7211,20 +7211,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_36682bb239979f8cc165",
-    "text": "•  Sharp: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
-    "raw_text": "•  Sharp: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
+    "text": "•  Direct question: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
+    "raw_text": "•  Direct question: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7233,7 +7233,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:233",
     "parent_id": null,
     "related_ids": [],
@@ -7242,10 +7242,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_994f1b731371f3c46145",
@@ -7255,7 +7255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7264,7 +7264,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:234",
     "parent_id": null,
     "related_ids": [],
@@ -7273,10 +7273,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0cc5dba6583a71be1d15",
@@ -7286,7 +7286,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7295,7 +7295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:235",
     "parent_id": null,
     "related_ids": [],
@@ -7304,10 +7304,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_61ae8013c1f557d5c8e2",
@@ -7317,7 +7317,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7326,7 +7326,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:236",
     "parent_id": null,
     "related_ids": [],
@@ -7335,10 +7335,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5869ec6b1cee5b659b7e",
@@ -7348,7 +7348,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7357,7 +7357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:237",
     "parent_id": null,
     "related_ids": [],
@@ -7366,10 +7366,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19267deea1b3f03eb302",
@@ -7379,7 +7379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7388,7 +7388,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:238",
     "parent_id": null,
     "related_ids": [],
@@ -7397,10 +7397,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b54ef5e6ae11d4e1674e",
@@ -7410,7 +7410,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7419,7 +7419,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:239",
     "parent_id": null,
     "related_ids": [],
@@ -7428,10 +7428,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e19ce5e1d8d2d4f38f81",
@@ -7441,7 +7441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7450,7 +7450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:240",
     "parent_id": null,
     "related_ids": [],
@@ -7459,10 +7459,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_425f9663cfe502428ed4",
@@ -7472,7 +7472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7481,7 +7481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:241",
     "parent_id": null,
     "related_ids": [],
@@ -7490,10 +7490,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_adb1a705a4529b676f34",
@@ -7503,7 +7503,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7512,7 +7512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:242",
     "parent_id": null,
     "related_ids": [],
@@ -7521,10 +7521,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bddaf20ed9adb4fece01",
@@ -7534,7 +7534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7543,7 +7543,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:243",
     "parent_id": null,
     "related_ids": [],
@@ -7552,10 +7552,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d0afbb49f161e04a33be",
@@ -7565,7 +7565,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7574,7 +7574,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:244",
     "parent_id": null,
     "related_ids": [],
@@ -7583,10 +7583,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_173b920423f1fd4475da",
@@ -7596,7 +7596,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7605,7 +7605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:245",
     "parent_id": null,
     "related_ids": [],
@@ -7614,10 +7614,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_55b23804768eadef33a8",
@@ -7627,7 +7627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7636,7 +7636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:246",
     "parent_id": null,
     "related_ids": [],
@@ -7645,20 +7645,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_17e67775abcbeb0a03ba",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_46b43ed7a08debb4c7a1",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7667,7 +7667,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:247",
     "parent_id": null,
     "related_ids": [],
@@ -7676,20 +7676,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d9990630d93e1b5742c",
-    "text": "•  Soft: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
-    "raw_text": "•  Soft: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
+    "text": "•  Clarifying question: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
+    "raw_text": "•  Clarifying question: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7698,7 +7698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:248",
     "parent_id": null,
     "related_ids": [],
@@ -7707,20 +7707,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7ed5fd4e69cc5965c1cf",
-    "text": "•  Sharp: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
-    "raw_text": "•  Sharp: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
+    "text": "•  Direct question: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
+    "raw_text": "•  Direct question: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7729,7 +7729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:249",
     "parent_id": null,
     "related_ids": [],
@@ -7738,10 +7738,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_89cc8cc215c029ee39ae",
@@ -7751,7 +7751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7760,7 +7760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:250",
     "parent_id": null,
     "related_ids": [],
@@ -7769,10 +7769,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_730d16c91d9d47b78804",
@@ -7782,7 +7782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7791,7 +7791,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:251",
     "parent_id": null,
     "related_ids": [],
@@ -7800,10 +7800,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4afd6f688fff52cf947e",
@@ -7813,7 +7813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7822,7 +7822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:252",
     "parent_id": null,
     "related_ids": [],
@@ -7831,10 +7831,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c43a98e267f4c179e41",
@@ -7844,7 +7844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7853,7 +7853,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:253",
     "parent_id": null,
     "related_ids": [],
@@ -7862,10 +7862,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_20c020e695d215f3fb46",
@@ -7875,7 +7875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7884,7 +7884,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:254",
     "parent_id": null,
     "related_ids": [],
@@ -7893,10 +7893,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_faa69c685ce7417a5c7b",
@@ -7906,7 +7906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7915,7 +7915,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:255",
     "parent_id": null,
     "related_ids": [],
@@ -7924,10 +7924,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d29e2f2e997f7d114f6c",
@@ -7937,7 +7937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7946,7 +7946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:256",
     "parent_id": null,
     "related_ids": [],
@@ -7955,10 +7955,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b524b96e551c0e02252c",
@@ -7968,7 +7968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -7977,7 +7977,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:257",
     "parent_id": null,
     "related_ids": [],
@@ -7986,10 +7986,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c38d4524b08b4c7da45",
@@ -7999,7 +7999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8008,7 +8008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:258",
     "parent_id": null,
     "related_ids": [],
@@ -8017,10 +8017,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1b56a9dac5be4b0c8f6f",
@@ -8030,7 +8030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8039,7 +8039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:259",
     "parent_id": null,
     "related_ids": [],
@@ -8048,10 +8048,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d12dc0d5dc9ca7c89c52",
@@ -8061,7 +8061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8070,7 +8070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:260",
     "parent_id": null,
     "related_ids": [],
@@ -8079,10 +8079,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fb7542f092f9060ef06",
@@ -8092,7 +8092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8101,7 +8101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:261",
     "parent_id": null,
     "related_ids": [],
@@ -8110,10 +8110,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4435fc87d95993b79a98",
@@ -8123,7 +8123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8132,7 +8132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:262",
     "parent_id": null,
     "related_ids": [],
@@ -8141,10 +8141,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15fdcb2b349aec16752d",
@@ -8154,7 +8154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8163,7 +8163,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:263",
     "parent_id": null,
     "related_ids": [],
@@ -8172,20 +8172,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_32c5499ee85350018627",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_179aaf367c72f89163f2",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8194,7 +8194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:264",
     "parent_id": null,
     "related_ids": [],
@@ -8203,20 +8203,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e0b13f01948d7b51a499",
-    "text": "•  Soft: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
-    "raw_text": "•  Soft: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
+    "text": "•  Clarifying question: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
+    "raw_text": "•  Clarifying question: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8225,7 +8225,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:265",
     "parent_id": null,
     "related_ids": [],
@@ -8234,20 +8234,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6b3fc067412ba2b6ae40",
-    "text": "•  Sharp: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
-    "raw_text": "•  Sharp: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
+    "text": "•  Direct question: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
+    "raw_text": "•  Direct question: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8256,7 +8256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:266",
     "parent_id": null,
     "related_ids": [],
@@ -8265,10 +8265,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_49820ce4ee65eb489cc8",
@@ -8278,7 +8278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8287,7 +8287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:267",
     "parent_id": null,
     "related_ids": [],
@@ -8296,10 +8296,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e77c3d67d909a53fcdf",
@@ -8309,7 +8309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8318,7 +8318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:268",
     "parent_id": null,
     "related_ids": [],
@@ -8327,10 +8327,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6bfccb018457073da763",
@@ -8340,7 +8340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8349,7 +8349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:269",
     "parent_id": null,
     "related_ids": [],
@@ -8358,10 +8358,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c68cf452648411788d5e",
@@ -8371,7 +8371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8380,7 +8380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:270",
     "parent_id": null,
     "related_ids": [],
@@ -8389,10 +8389,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75f3c224896a33ab9329",
@@ -8402,7 +8402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8411,7 +8411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:271",
     "parent_id": null,
     "related_ids": [],
@@ -8420,10 +8420,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_30f022682fbddfcdc93b",
@@ -8433,7 +8433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8442,7 +8442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:272",
     "parent_id": null,
     "related_ids": [],
@@ -8451,10 +8451,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f5684c14f5ebe988d566",
@@ -8464,7 +8464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8473,7 +8473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:273",
     "parent_id": null,
     "related_ids": [],
@@ -8482,10 +8482,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d89d9e0c9105a8364ec5",
@@ -8495,7 +8495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8504,7 +8504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:274",
     "parent_id": null,
     "related_ids": [],
@@ -8513,10 +8513,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ba5a0a4d24a4f67b2cdb",
@@ -8526,7 +8526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8535,7 +8535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:275",
     "parent_id": null,
     "related_ids": [],
@@ -8544,10 +8544,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91c82473f8e953e672d5",
@@ -8557,7 +8557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8566,7 +8566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:276",
     "parent_id": null,
     "related_ids": [],
@@ -8575,10 +8575,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2936986a07ff9f43b7f4",
@@ -8588,7 +8588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8597,7 +8597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:277",
     "parent_id": null,
     "related_ids": [],
@@ -8606,10 +8606,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2015eefd46e404e5a157",
@@ -8619,7 +8619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8628,7 +8628,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:278",
     "parent_id": null,
     "related_ids": [],
@@ -8637,10 +8637,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6019bc0fed130f10fae9",
@@ -8650,7 +8650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8659,7 +8659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:279",
     "parent_id": null,
     "related_ids": [],
@@ -8668,10 +8668,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ba76d2b4e600ea814583",
@@ -8681,7 +8681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8690,7 +8690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:280",
     "parent_id": null,
     "related_ids": [],
@@ -8699,10 +8699,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf4982d3920195288ca3",
@@ -8712,7 +8712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8721,7 +8721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:281",
     "parent_id": null,
     "related_ids": [],
@@ -8730,10 +8730,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_224a71e0a73ee6a36494",
@@ -8743,7 +8743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8752,7 +8752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:282",
     "parent_id": null,
     "related_ids": [],
@@ -8761,10 +8761,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7cfe5c44815893fb0e07",
@@ -8774,7 +8774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8783,7 +8783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:283",
     "parent_id": null,
     "related_ids": [],
@@ -8792,10 +8792,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_83cdd2aa17a161f55ce2",
@@ -8805,7 +8805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8814,7 +8814,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:284",
     "parent_id": null,
     "related_ids": [],
@@ -8823,10 +8823,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc995cc50974d24a3842",
@@ -8836,7 +8836,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8845,7 +8845,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:285",
     "parent_id": null,
     "related_ids": [],
@@ -8854,10 +8854,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91b5d3f3dfe20035c8f6",
@@ -8867,7 +8867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8876,7 +8876,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:286",
     "parent_id": null,
     "related_ids": [],
@@ -8885,10 +8885,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3387fd2b8442b27ff230",
@@ -8898,7 +8898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8907,7 +8907,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:287",
     "parent_id": null,
     "related_ids": [],
@@ -8916,10 +8916,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69d57daed8cfcf43d086",
@@ -8929,7 +8929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8937,7 +8937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:288",
     "parent_id": null,
     "related_ids": [],
@@ -8946,10 +8946,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bfbcd87ff83feeef1de7",
@@ -8959,7 +8959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8967,7 +8967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:289",
     "parent_id": null,
     "related_ids": [],
@@ -8976,10 +8976,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19a29cf3d51735dad331",
@@ -8989,7 +8989,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8997,7 +8997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:290",
     "parent_id": null,
     "related_ids": [],
@@ -9006,10 +9006,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fb0511854f9f2b993d2",
@@ -9019,7 +9019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9027,7 +9027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:291",
     "parent_id": null,
     "related_ids": [],
@@ -9036,10 +9036,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d891a80b7abdb27e6724",
@@ -9049,7 +9049,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9057,7 +9057,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:292",
     "parent_id": null,
     "related_ids": [],
@@ -9066,10 +9066,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_38be004257d28c393e50",
@@ -9079,7 +9079,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9087,7 +9087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:293",
     "parent_id": null,
     "related_ids": [],
@@ -9096,10 +9096,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f1d99eab0efa3d2138e2",
@@ -9109,7 +9109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9117,7 +9117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:294",
     "parent_id": null,
     "related_ids": [],
@@ -9126,10 +9126,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1c1c7155b84ae984e294",
@@ -9139,7 +9139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9147,7 +9147,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:295",
     "parent_id": null,
     "related_ids": [],
@@ -9156,10 +9156,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5f41d20346892744c195",
@@ -9169,7 +9169,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9177,7 +9177,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:296",
     "parent_id": null,
     "related_ids": [],
@@ -9186,10 +9186,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f0ffc3a51317e325472e",
@@ -9199,7 +9199,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9207,7 +9207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:297",
     "parent_id": null,
     "related_ids": [],
@@ -9216,10 +9216,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e710bd77f8dd5864662f",
@@ -9229,7 +9229,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9237,7 +9237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:298",
     "parent_id": null,
     "related_ids": [],
@@ -9246,10 +9246,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_72a9762051780ba29575",
@@ -9259,7 +9259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9267,7 +9267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:299",
     "parent_id": null,
     "related_ids": [],
@@ -9276,10 +9276,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b392054f17f32040b0ff",
@@ -9289,7 +9289,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9297,7 +9297,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:300",
     "parent_id": null,
     "related_ids": [],
@@ -9306,10 +9306,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_843841d3652d6f1deff8",
@@ -9319,7 +9319,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9327,7 +9327,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:301",
     "parent_id": null,
     "related_ids": [],
@@ -9336,10 +9336,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_251a31268e7c40353231",
@@ -9349,7 +9349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9357,7 +9357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:302",
     "parent_id": null,
     "related_ids": [],
@@ -9366,10 +9366,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1a87270fd1e6dc9ce652",
@@ -9379,7 +9379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9387,7 +9387,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:303",
     "parent_id": null,
     "related_ids": [],
@@ -9396,10 +9396,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c951a4aff03834f9480",
@@ -9409,7 +9409,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9417,7 +9417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:304",
     "parent_id": null,
     "related_ids": [],
@@ -9426,10 +9426,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_969f8a55d8d3286b6d22",
@@ -9439,7 +9439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9447,7 +9447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:305",
     "parent_id": null,
     "related_ids": [],
@@ -9456,20 +9456,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9f526aaf23af7d9c4516",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_a8895056de54ff4b80da",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9477,7 +9477,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:306",
     "parent_id": null,
     "related_ids": [],
@@ -9486,20 +9486,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_41422e2593b6f5b2642f",
-    "text": "•  Soft: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
-    "raw_text": "•  Soft: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
+    "text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
+    "raw_text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9507,7 +9507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:307",
     "parent_id": null,
     "related_ids": [],
@@ -9516,20 +9516,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_489d80939887c64115a6",
-    "text": "•  Sharp: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
-    "raw_text": "•  Sharp: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
+    "text": "•  Direct question: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
+    "raw_text": "•  Direct question: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9537,7 +9537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:308",
     "parent_id": null,
     "related_ids": [],
@@ -9546,10 +9546,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fff756006a65d25b1f6",
@@ -9559,7 +9559,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9567,7 +9567,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:309",
     "parent_id": null,
     "related_ids": [],
@@ -9576,10 +9576,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_795ff5e4168180da58fb",
@@ -9589,7 +9589,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9597,7 +9597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:310",
     "parent_id": null,
     "related_ids": [],
@@ -9606,10 +9606,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75f6156fa9b89e8a7ab5",
@@ -9619,7 +9619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9627,7 +9627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:311",
     "parent_id": null,
     "related_ids": [],
@@ -9636,10 +9636,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3408df6a48fd97b1ee3",
@@ -9649,7 +9649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9657,7 +9657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:312",
     "parent_id": null,
     "related_ids": [],
@@ -9666,10 +9666,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5d95736e1cc600b5e60e",
@@ -9679,7 +9679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9687,7 +9687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:313",
     "parent_id": null,
     "related_ids": [],
@@ -9696,10 +9696,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91c33ff6ed79d0bdf3e7",
@@ -9709,7 +9709,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9718,7 +9718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:314",
     "parent_id": null,
     "related_ids": [],
@@ -9727,10 +9727,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9683e9d3ac8e46d6a381",
@@ -9740,7 +9740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9749,7 +9749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:315",
     "parent_id": null,
     "related_ids": [],
@@ -9758,10 +9758,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_de2a375b4b9e6143f1d5",
@@ -9771,7 +9771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9780,7 +9780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:316",
     "parent_id": null,
     "related_ids": [],
@@ -9789,10 +9789,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_03cbae8f9373b0e5b2db",
@@ -9802,7 +9802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9811,7 +9811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:317",
     "parent_id": null,
     "related_ids": [],
@@ -9820,10 +9820,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8c043eeda4557425a46e",
@@ -9833,7 +9833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9842,7 +9842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:318",
     "parent_id": null,
     "related_ids": [],
@@ -9851,10 +9851,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5809932e9dc6c782830a",
@@ -9864,7 +9864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9873,7 +9873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:319",
     "parent_id": null,
     "related_ids": [],
@@ -9882,10 +9882,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1abc86a2e0f233b56972",
@@ -9895,7 +9895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9904,7 +9904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:320",
     "parent_id": null,
     "related_ids": [],
@@ -9913,10 +9913,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bc9eccb580a6492a6ef9",
@@ -9926,7 +9926,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9935,7 +9935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:321",
     "parent_id": null,
     "related_ids": [],
@@ -9944,10 +9944,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2a7af98f1950edf4f18",
@@ -9957,7 +9957,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9966,7 +9966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:322",
     "parent_id": null,
     "related_ids": [],
@@ -9975,10 +9975,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9271879ac67846a44f52",
@@ -9988,7 +9988,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9997,7 +9997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:323",
     "parent_id": null,
     "related_ids": [],
@@ -10006,10 +10006,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_76817fe3a5cb6aa8f76c",
@@ -10019,7 +10019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10028,7 +10028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:324",
     "parent_id": null,
     "related_ids": [],
@@ -10037,10 +10037,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4b8eb02e7baab3330572",
@@ -10050,7 +10050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10059,7 +10059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:325",
     "parent_id": null,
     "related_ids": [],
@@ -10068,10 +10068,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e62ecacf3a0165574d62",
@@ -10081,7 +10081,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10090,7 +10090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:326",
     "parent_id": null,
     "related_ids": [],
@@ -10099,10 +10099,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50e85fc512d444a7df68",
@@ -10112,7 +10112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10121,7 +10121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:327",
     "parent_id": null,
     "related_ids": [],
@@ -10130,10 +10130,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_88ab61b466e712f4d7ab",
@@ -10143,7 +10143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10152,7 +10152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:328",
     "parent_id": null,
     "related_ids": [],
@@ -10161,10 +10161,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0dd101191a3e10b6f2b6",
@@ -10174,7 +10174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10183,7 +10183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:329",
     "parent_id": null,
     "related_ids": [],
@@ -10192,10 +10192,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5daab4977e41c47bb4ab",
@@ -10205,7 +10205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10214,7 +10214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:330",
     "parent_id": null,
     "related_ids": [],
@@ -10223,10 +10223,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4bfbc65b65b6d587fa0",
@@ -10236,7 +10236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10245,7 +10245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:331",
     "parent_id": null,
     "related_ids": [],
@@ -10254,10 +10254,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_513109d9d61e47cbdb24",
@@ -10267,7 +10267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10276,7 +10276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:332",
     "parent_id": null,
     "related_ids": [],
@@ -10285,10 +10285,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3690528d8d461778de19",
@@ -10298,7 +10298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10307,7 +10307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:333",
     "parent_id": null,
     "related_ids": [],
@@ -10316,10 +10316,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_13b302f912c71f2b27f4",
@@ -10329,7 +10329,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10338,7 +10338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:334",
     "parent_id": null,
     "related_ids": [],
@@ -10347,10 +10347,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec623e22328625817ff1",
@@ -10360,7 +10360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10369,7 +10369,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:335",
     "parent_id": null,
     "related_ids": [],
@@ -10378,10 +10378,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c54b43df62a328a55612",
@@ -10391,7 +10391,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10400,7 +10400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:336",
     "parent_id": null,
     "related_ids": [],
@@ -10409,10 +10409,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0433cf81315ce0518b5d",
@@ -10422,7 +10422,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10431,7 +10431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:337",
     "parent_id": null,
     "related_ids": [],
@@ -10440,10 +10440,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a104cb3a5c1703ab6794",
@@ -10453,7 +10453,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10462,7 +10462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:338",
     "parent_id": null,
     "related_ids": [],
@@ -10471,10 +10471,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8f78d0a7cb9892f69a3",
@@ -10484,7 +10484,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10493,7 +10493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:339",
     "parent_id": null,
     "related_ids": [],
@@ -10502,10 +10502,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4b6334f28f260e06cb83",
@@ -10515,7 +10515,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10524,7 +10524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:340",
     "parent_id": null,
     "related_ids": [],
@@ -10533,10 +10533,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8f0ee9c82ca4e6b2845c",
@@ -10546,7 +10546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10555,7 +10555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:341",
     "parent_id": null,
     "related_ids": [],
@@ -10564,10 +10564,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ed939bef467b14e86bb7",
@@ -10577,7 +10577,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10586,7 +10586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:342",
     "parent_id": null,
     "related_ids": [],
@@ -10595,10 +10595,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a5505c75928f56714de2",
@@ -10608,7 +10608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10617,7 +10617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:343",
     "parent_id": null,
     "related_ids": [],
@@ -10626,10 +10626,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_405139f7379df574ee7b",
@@ -10639,7 +10639,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10648,7 +10648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:344",
     "parent_id": null,
     "related_ids": [],
@@ -10657,10 +10657,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7e6c875ebb087f384c32",
@@ -10670,7 +10670,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10679,7 +10679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:345",
     "parent_id": null,
     "related_ids": [],
@@ -10688,10 +10688,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3455f1388e753d47556",
@@ -10701,7 +10701,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10710,7 +10710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:346",
     "parent_id": null,
     "related_ids": [],
@@ -10719,10 +10719,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4104d93a509599cb2de9",
@@ -10749,10 +10749,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e83014372b8187a6bef9",
@@ -10780,10 +10780,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1753f97d61e0d3a7f377",
@@ -10811,10 +10811,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e06eb8f17f92c0f3becd",
@@ -10842,10 +10842,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e731eb21514999fefd40",
@@ -10873,10 +10873,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d0dddca41dd43d17e2a1",
@@ -10904,10 +10904,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2bc988a12101f487588",
@@ -10935,10 +10935,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd6cf8da620f9ff8d4d3",
@@ -10966,10 +10966,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9c6cc57355cc8ced7927",
@@ -10997,10 +10997,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_94ef7fddf1026d974af9",
@@ -11028,10 +11028,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_72b05d247d99ff540371",
@@ -11059,10 +11059,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c4c9ebb73e13cae3156",
@@ -11090,10 +11090,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9741de6d4409628d07d2",
@@ -11121,10 +11121,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9d955f51a243c94e76f9",
@@ -11152,10 +11152,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15a22eca597c3819a1e0",
@@ -11183,10 +11183,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91e24e66db127110ec29",
@@ -11214,10 +11214,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee071abbb245574786d2",
@@ -11245,10 +11245,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3de5505f9b9a22ddfb5b",
@@ -11276,10 +11276,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_115f7c2e66aafb160f3e",
@@ -11307,10 +11307,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbf6fe716f6cbdc01d9a",
@@ -11338,10 +11338,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3f7ca1551834b7f197c1",
@@ -11369,10 +11369,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b8409d1d30ed3f9c713c",
@@ -11400,10 +11400,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e39611947a1433c76e3",
@@ -11431,10 +11431,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd9f3bafffcdef6d4cd8",
@@ -11462,10 +11462,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_091afa08916cc5a1ce59",
@@ -11493,10 +11493,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_41a026aa105d1315cb4f",
@@ -11524,10 +11524,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f15762bd50c5a4ac943a",
@@ -11555,10 +11555,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e88229201d407ebe48dd",
@@ -11586,10 +11586,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_67405b7cc1266dba7b3c",
@@ -11617,10 +11617,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b17a0e0a4d01ae39e7e",
@@ -11648,10 +11648,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_53455859c7bac47e272b",
@@ -11679,10 +11679,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_559a03fb3df41de3d16a",
@@ -11710,10 +11710,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2602c6a9d19f163c679f",
@@ -11741,10 +11741,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_757868bbfd5d2a1df1d1",
@@ -11772,10 +11772,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b57c5a5cdcc5e71753c0",
@@ -11803,10 +11803,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_70b76a416f554c345452",
@@ -11834,10 +11834,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_98b7f74c03d1327ba4d5",
@@ -11865,10 +11865,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6ea594d790f097d374cd",
@@ -11896,10 +11896,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc1e07b9fe2d297b0c90",
@@ -11927,10 +11927,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c3905467ad703d1ac36",
@@ -11958,10 +11958,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_423712e80db3e0db30b1",
@@ -11989,10 +11989,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dca94684119381b0b3bb",
@@ -12020,10 +12020,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_615f4007dbf305f1af21",
@@ -12051,10 +12051,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f783ee686be3e45ac3e6",
@@ -12081,10 +12081,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3138036f42cc0bcebdd0",
@@ -12112,10 +12112,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f0db4022e741eb284a47",
@@ -12143,10 +12143,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a6379fccbd65d949483",
@@ -12174,10 +12174,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b61c5cf9d939a43e24b0",
@@ -12205,10 +12205,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_873675a2bb8c65f74910",
@@ -12236,10 +12236,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_00000b4aefef96f7cf42",
@@ -12267,10 +12267,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_515781f6bb5f5c7be566",
@@ -12298,10 +12298,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f3790ace531d68a1a40c",
@@ -12329,10 +12329,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_788e5429cbe0c2479a09",
@@ -12360,10 +12360,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d6da59ce71874e56e38b",
@@ -12391,10 +12391,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90426b00cc987e9fe364",
@@ -12422,10 +12422,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7c54c77cda6db304b523",
@@ -12453,10 +12453,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d3ff58e462f9d8be4e7",
@@ -12467,7 +12467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12475,7 +12475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:403",
     "parent_id": null,
     "related_ids": [],
@@ -12484,10 +12484,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1ad3140d27e5d7a3a928",
@@ -12498,7 +12498,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12506,7 +12506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:404",
     "parent_id": null,
     "related_ids": [],
@@ -12515,10 +12515,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7399091d26a128e6a62c",
@@ -12529,7 +12529,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12537,7 +12537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:405",
     "parent_id": null,
     "related_ids": [],
@@ -12546,10 +12546,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_831f9c69a957c0e95338",
@@ -12560,7 +12560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12568,7 +12568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:406",
     "parent_id": null,
     "related_ids": [],
@@ -12577,10 +12577,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1360e35a1cd7c458c899",
@@ -12591,7 +12591,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12599,7 +12599,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:407",
     "parent_id": null,
     "related_ids": [],
@@ -12608,10 +12608,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3f7238d39bc3972ea040",
@@ -12622,7 +12622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12630,7 +12630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:408",
     "parent_id": null,
     "related_ids": [],
@@ -12639,10 +12639,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1340fbda8d364184cd63",
@@ -12653,7 +12653,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12661,7 +12661,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:409",
     "parent_id": null,
     "related_ids": [],
@@ -12670,10 +12670,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b14ff8e28f1cef471a0",
@@ -12684,7 +12684,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12692,7 +12692,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:410",
     "parent_id": null,
     "related_ids": [],
@@ -12701,10 +12701,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1603fa5ec3f26a97fa36",
@@ -12715,7 +12715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12723,7 +12723,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:411",
     "parent_id": null,
     "related_ids": [],
@@ -12732,10 +12732,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fb14fec08604db0a9b02",
@@ -12746,7 +12746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12754,7 +12754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:412",
     "parent_id": null,
     "related_ids": [],
@@ -12763,10 +12763,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_58404e08bafd49dadc74",
@@ -12794,10 +12794,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90302feb059bf70a2298",
@@ -12825,10 +12825,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9194f4063675e4866fed",
@@ -12856,10 +12856,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9d6a91471d56d4f1ec7b",
@@ -12870,7 +12870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12878,7 +12878,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:416",
     "parent_id": null,
     "related_ids": [],
@@ -12887,10 +12887,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51b60af91172809da005",
@@ -12901,7 +12901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12909,7 +12909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:417",
     "parent_id": null,
     "related_ids": [],
@@ -12918,10 +12918,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21248800ef03172f44b3",
@@ -12932,7 +12932,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12940,7 +12940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:418",
     "parent_id": null,
     "related_ids": [],
@@ -12949,10 +12949,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75007629c0d553ab0219",
@@ -12963,7 +12963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12971,7 +12971,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:419",
     "parent_id": null,
     "related_ids": [],
@@ -12980,10 +12980,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dbeb1eb50a4159cef72f",
@@ -12994,7 +12994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13002,7 +13002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:420",
     "parent_id": null,
     "related_ids": [],
@@ -13011,10 +13011,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f767b846f67415c849b9",
@@ -13025,7 +13025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13033,7 +13033,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:421",
     "parent_id": null,
     "related_ids": [],
@@ -13042,10 +13042,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d9a1c519d93a3379b40f",
@@ -13056,7 +13056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13064,7 +13064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:422",
     "parent_id": null,
     "related_ids": [],
@@ -13073,10 +13073,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6fac55a7f702f089384d",
@@ -13087,7 +13087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13095,7 +13095,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:423",
     "parent_id": null,
     "related_ids": [],
@@ -13104,10 +13104,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff9e050662c6a2737e11",
@@ -13118,7 +13118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13126,7 +13126,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:424",
     "parent_id": null,
     "related_ids": [],
@@ -13135,10 +13135,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3fedb18ab915121db2e9",
@@ -13149,7 +13149,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13157,7 +13157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:425",
     "parent_id": null,
     "related_ids": [],
@@ -13166,10 +13166,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e4f1a21fe5f10a76d746",
@@ -13197,10 +13197,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8b4d009e8f0abd107f2",
@@ -13228,10 +13228,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_03abb0f8a9d3d263ebfb",
@@ -13259,10 +13259,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c8137cbe09e40c41b5c0",
@@ -13290,10 +13290,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_808a090967a076c74ebb",
@@ -13321,10 +13321,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fdf6fe9197713b4d8de3",
@@ -13352,10 +13352,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7549f0c9dae1b3049001",
@@ -13383,10 +13383,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f234c4941b11f6e2a0ef",
@@ -13414,10 +13414,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8e21f1fe0aa04b722f19",
@@ -13445,10 +13445,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a202811c266f56476771",
@@ -13476,10 +13476,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a4766da6c1828b120f8",
@@ -13507,10 +13507,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_12d9755f2c8fe989400d",
@@ -13538,10 +13538,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b6b68be3cf278312443b",
@@ -13569,10 +13569,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45772bd2f2cc81e6149c",
@@ -13600,10 +13600,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eb9f2304e682bf2bb161",
@@ -13631,10 +13631,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4855220a240c69a5f06",
@@ -13662,10 +13662,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a9f95e4ce2a1f7b4afdf",
@@ -13693,10 +13693,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_afeb628a574f9e274722",
@@ -13724,20 +13724,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_dfdc170e542bbb269a94",
-    "text": "When you ask a believer for empirical evidence, you are applying an evidentiary standard to a claim they have been told does not require one. The responses fall into predictable categories. Each category is a move, not an answer.",
-    "raw_text": "When you ask a believer for empirical evidence, you are applying an evidentiary standard to a claim they have been told does not require one. The responses fall into predictable categories. Each category is a move, not an answer.",
+    "id": "rk_e75a353a74c6bd272133",
+    "text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
+    "raw_text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13745,7 +13745,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
     "source_reference": "paragraph:444",
     "parent_id": null,
     "related_ids": [],
@@ -13754,10 +13754,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51f8b88db8005f65c93f",
@@ -13767,7 +13767,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13776,7 +13776,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:445",
     "parent_id": null,
     "related_ids": [],
@@ -13785,10 +13785,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_315b74e549dd6006ff5e",
@@ -13798,7 +13798,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13807,7 +13807,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:446",
     "parent_id": null,
     "related_ids": [],
@@ -13816,10 +13816,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_695e35d5228054c73457",
@@ -13829,7 +13829,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13838,7 +13838,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:447",
     "parent_id": null,
     "related_ids": [],
@@ -13847,10 +13847,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d2e803b1b92b907a4e16",
@@ -13860,7 +13860,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13869,7 +13869,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:448",
     "parent_id": null,
     "related_ids": [],
@@ -13878,10 +13878,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_98aca277c99bb858818e",
@@ -13891,7 +13891,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13900,7 +13900,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:449",
     "parent_id": null,
     "related_ids": [],
@@ -13909,20 +13909,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_946e8ee7979ab7a184e6",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_b9e6b5a1fc6f05cbda5d",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13931,7 +13931,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:450",
     "parent_id": null,
     "related_ids": [],
@@ -13940,20 +13940,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e6c467facb76c5b68ac2",
-    "text": "•  Soft: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
-    "raw_text": "•  Soft: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
+    "text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
+    "raw_text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13962,7 +13962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:451",
     "parent_id": null,
     "related_ids": [],
@@ -13971,20 +13971,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9788a3c1c98bbb4959e6",
-    "text": "•  Sharp: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
-    "raw_text": "•  Sharp: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
+    "text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
+    "raw_text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13993,7 +13993,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:452",
     "parent_id": null,
     "related_ids": [],
@@ -14002,10 +14002,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b6e910821c34ac63d67e",
@@ -14015,7 +14015,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14024,7 +14024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:453",
     "parent_id": null,
     "related_ids": [],
@@ -14033,10 +14033,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fa2ddc926a8d42599d88",
@@ -14046,7 +14046,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14055,7 +14055,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:454",
     "parent_id": null,
     "related_ids": [],
@@ -14064,10 +14064,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf896b22f8ddfe90283f",
@@ -14077,7 +14077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14086,7 +14086,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:455",
     "parent_id": null,
     "related_ids": [],
@@ -14095,10 +14095,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0eadbe5cbc4c0a2ba27f",
@@ -14108,7 +14108,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14117,7 +14117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:456",
     "parent_id": null,
     "related_ids": [],
@@ -14126,10 +14126,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f85f8a105fb9bf4df31",
@@ -14139,7 +14139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14148,7 +14148,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:457",
     "parent_id": null,
     "related_ids": [],
@@ -14157,10 +14157,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_89815413b08f70fc281f",
@@ -14170,7 +14170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14179,7 +14179,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:458",
     "parent_id": null,
     "related_ids": [],
@@ -14188,20 +14188,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e0f1fbb1926f5fe15ed9",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_838510f77ea4bcfce47b",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14210,7 +14210,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:459",
     "parent_id": null,
     "related_ids": [],
@@ -14219,20 +14219,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cf5d7a89fb8aa2def1c",
-    "text": "•  Soft: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
-    "raw_text": "•  Soft: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
+    "text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
+    "raw_text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14241,7 +14241,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:460",
     "parent_id": null,
     "related_ids": [],
@@ -14250,20 +14250,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_317ab86f4ee5eb17b26a",
-    "text": "•  Sharp: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
-    "raw_text": "•  Sharp: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
+    "text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
+    "raw_text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14272,7 +14272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:461",
     "parent_id": null,
     "related_ids": [],
@@ -14281,10 +14281,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cc89b8e85c44bfc5137b",
@@ -14294,7 +14294,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14303,7 +14303,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:462",
     "parent_id": null,
     "related_ids": [],
@@ -14312,10 +14312,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a828d67d9d694f00967d",
@@ -14325,7 +14325,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14334,7 +14334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:463",
     "parent_id": null,
     "related_ids": [],
@@ -14343,10 +14343,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_27da8ec9d70385fc23a1",
@@ -14356,7 +14356,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14365,7 +14365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:464",
     "parent_id": null,
     "related_ids": [],
@@ -14374,10 +14374,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5a4dbed48c12694f762b",
@@ -14387,7 +14387,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14396,7 +14396,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:465",
     "parent_id": null,
     "related_ids": [],
@@ -14405,10 +14405,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_267b4e877e4df09cfaa3",
@@ -14418,7 +14418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14427,7 +14427,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:466",
     "parent_id": null,
     "related_ids": [],
@@ -14436,10 +14436,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a70c32e12a3f901ba915",
@@ -14449,7 +14449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14458,7 +14458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:467",
     "parent_id": null,
     "related_ids": [],
@@ -14467,10 +14467,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fedd4fdfe4d0e4de96fd",
@@ -14480,7 +14480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14489,7 +14489,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:468",
     "parent_id": null,
     "related_ids": [],
@@ -14498,10 +14498,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0d7fd47aa73c1e609a9d",
@@ -14511,7 +14511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14520,7 +14520,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:469",
     "parent_id": null,
     "related_ids": [],
@@ -14529,10 +14529,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c7b40f7fb3d52ac3adc",
@@ -14542,7 +14542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14551,7 +14551,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:470",
     "parent_id": null,
     "related_ids": [],
@@ -14560,10 +14560,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3154c9be690de7ead561",
@@ -14573,7 +14573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14582,7 +14582,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:471",
     "parent_id": null,
     "related_ids": [],
@@ -14591,10 +14591,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee93f3bd972fbf2fe0a5",
@@ -14604,7 +14604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14613,7 +14613,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:472",
     "parent_id": null,
     "related_ids": [],
@@ -14622,10 +14622,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e20a9d5ac5e8a4ed5216",
@@ -14635,7 +14635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14644,7 +14644,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:473",
     "parent_id": null,
     "related_ids": [],
@@ -14653,10 +14653,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b12d7e71e1785db4670",
@@ -14666,7 +14666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14675,7 +14675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:474",
     "parent_id": null,
     "related_ids": [],
@@ -14684,10 +14684,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d738fadb731a03d1c3d",
@@ -14697,7 +14697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14706,7 +14706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:475",
     "parent_id": null,
     "related_ids": [],
@@ -14715,20 +14715,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_83eff44d8e45f72e6276",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_8b14a7c431234f9f7afe",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14737,7 +14737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:476",
     "parent_id": null,
     "related_ids": [],
@@ -14746,20 +14746,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_40f7def6637e5b44d184",
-    "text": "•  Soft: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
-    "raw_text": "•  Soft: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "raw_text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14768,7 +14768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:477",
     "parent_id": null,
     "related_ids": [],
@@ -14777,20 +14777,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_77e1c226af1a82adfa41",
-    "text": "•  Sharp: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
-    "raw_text": "•  Sharp: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "raw_text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14799,7 +14799,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:478",
     "parent_id": null,
     "related_ids": [],
@@ -14808,10 +14808,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c89427b6a89647610f6b",
@@ -14821,7 +14821,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14830,7 +14830,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:479",
     "parent_id": null,
     "related_ids": [],
@@ -14839,10 +14839,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0067670394f4981b3c28",
@@ -14852,7 +14852,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14861,7 +14861,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:480",
     "parent_id": null,
     "related_ids": [],
@@ -14870,10 +14870,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_249c492cb9ea3da23881",
@@ -14883,7 +14883,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14892,7 +14892,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:481",
     "parent_id": null,
     "related_ids": [],
@@ -14901,10 +14901,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d53e081162a0dcb455a",
@@ -14914,7 +14914,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14923,7 +14923,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:482",
     "parent_id": null,
     "related_ids": [],
@@ -14932,10 +14932,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d32ad85f8e7a4ae13288",
@@ -14945,7 +14945,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14954,7 +14954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:483",
     "parent_id": null,
     "related_ids": [],
@@ -14963,10 +14963,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cc7bca45a75c885c791",
@@ -14976,7 +14976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14985,7 +14985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:484",
     "parent_id": null,
     "related_ids": [],
@@ -14994,10 +14994,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c6c40ed01724cb345fae",
@@ -15007,7 +15007,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -15016,7 +15016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:485",
     "parent_id": null,
     "related_ids": [],
@@ -15025,10 +15025,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_794543f088f7eb7c89fd",
@@ -15038,7 +15038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15047,7 +15047,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:486",
     "parent_id": null,
     "related_ids": [],
@@ -15056,10 +15056,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_799fa314e33fee4f9f77",
@@ -15069,7 +15069,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15078,7 +15078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:487",
     "parent_id": null,
     "related_ids": [],
@@ -15087,20 +15087,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3ec6993134ffe6b4ea5c",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_4ea31bd840cd64aa2a3f",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15109,7 +15109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:488",
     "parent_id": null,
     "related_ids": [],
@@ -15118,20 +15118,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_edfcc7177086cf69fccb",
-    "text": "•  Soft: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
-    "raw_text": "•  Soft: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
+    "text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
+    "raw_text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15140,7 +15140,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:489",
     "parent_id": null,
     "related_ids": [],
@@ -15149,20 +15149,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2b2032b0e8978be078db",
-    "text": "•  Sharp: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
-    "raw_text": "•  Sharp: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
+    "text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
+    "raw_text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15171,7 +15171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:490",
     "parent_id": null,
     "related_ids": [],
@@ -15180,10 +15180,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e2b64aed9af3a77ae9dd",
@@ -15193,7 +15193,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15202,7 +15202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:491",
     "parent_id": null,
     "related_ids": [],
@@ -15211,10 +15211,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fcc029732e61fbe058c2",
@@ -15224,7 +15224,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15233,7 +15233,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:492",
     "parent_id": null,
     "related_ids": [],
@@ -15242,10 +15242,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff20e5c3e8d8f989a7f8",
@@ -15255,7 +15255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15264,7 +15264,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:493",
     "parent_id": null,
     "related_ids": [],
@@ -15273,10 +15273,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dc96c12f4e466ac34efc",
@@ -15286,7 +15286,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15295,7 +15295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:494",
     "parent_id": null,
     "related_ids": [],
@@ -15304,10 +15304,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9d1c2c73a91fea56b6ee",
@@ -15317,7 +15317,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15326,7 +15326,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:495",
     "parent_id": null,
     "related_ids": [],
@@ -15335,10 +15335,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69c5adf1e4f5de90e4b3",
@@ -15348,7 +15348,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15357,7 +15357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:496",
     "parent_id": null,
     "related_ids": [],
@@ -15366,10 +15366,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5d72c38b82bfd22b6f24",
@@ -15379,7 +15379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15388,7 +15388,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:497",
     "parent_id": null,
     "related_ids": [],
@@ -15397,10 +15397,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9fd7bed437325a129a4c",
@@ -15410,7 +15410,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15419,7 +15419,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:498",
     "parent_id": null,
     "related_ids": [],
@@ -15428,10 +15428,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_92f51a16599bcd946d67",
@@ -15441,7 +15441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15450,7 +15450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:499",
     "parent_id": null,
     "related_ids": [],
@@ -15459,10 +15459,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f18f46656f08c1a9158",
@@ -15472,7 +15472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15481,7 +15481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:500",
     "parent_id": null,
     "related_ids": [],
@@ -15490,10 +15490,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3735cd7b08cb94c62ef",
@@ -15503,7 +15503,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15512,7 +15512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:501",
     "parent_id": null,
     "related_ids": [],
@@ -15521,10 +15521,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3cc490422215878165b",
@@ -15534,7 +15534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15543,7 +15543,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:502",
     "parent_id": null,
     "related_ids": [],
@@ -15552,10 +15552,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a575060052080e86ac5f",
@@ -15565,7 +15565,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15574,7 +15574,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:503",
     "parent_id": null,
     "related_ids": [],
@@ -15583,10 +15583,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_713ccd05fbd799fd0e52",
@@ -15596,7 +15596,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15605,7 +15605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:504",
     "parent_id": null,
     "related_ids": [],
@@ -15614,20 +15614,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f637b1863c8110ba44c4",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_615efb4a1959935c55ae",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15636,7 +15636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:505",
     "parent_id": null,
     "related_ids": [],
@@ -15645,20 +15645,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3264a93e218556a1660b",
-    "text": "•  Soft: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
-    "raw_text": "•  Soft: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
+    "text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
+    "raw_text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15667,7 +15667,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:506",
     "parent_id": null,
     "related_ids": [],
@@ -15676,20 +15676,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7000e5e3fe617516abcb",
-    "text": "•  Sharp: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
-    "raw_text": "•  Sharp: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
+    "text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
+    "raw_text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15698,7 +15698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:507",
     "parent_id": null,
     "related_ids": [],
@@ -15707,10 +15707,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_06633637209ef188e7b8",
@@ -15720,7 +15720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15729,7 +15729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:508",
     "parent_id": null,
     "related_ids": [],
@@ -15738,10 +15738,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_07768cbf3a483c438126",
@@ -15751,7 +15751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15760,7 +15760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:509",
     "parent_id": null,
     "related_ids": [],
@@ -15769,10 +15769,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e82e4fd8cfd4b2b678fc",
@@ -15782,7 +15782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15791,7 +15791,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:510",
     "parent_id": null,
     "related_ids": [],
@@ -15800,10 +15800,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d8a4c66da5f51b766ec6",
@@ -15813,7 +15813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15822,7 +15822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:511",
     "parent_id": null,
     "related_ids": [],
@@ -15831,10 +15831,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15cba396c6210b5ae096",
@@ -15844,7 +15844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15853,7 +15853,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:512",
     "parent_id": null,
     "related_ids": [],
@@ -15862,10 +15862,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a5dada0cfe361fc62d0",
@@ -15875,7 +15875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15884,7 +15884,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:513",
     "parent_id": null,
     "related_ids": [],
@@ -15893,10 +15893,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e087b6e3c03e250eacc",
@@ -15906,7 +15906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -15915,7 +15915,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:514",
     "parent_id": null,
     "related_ids": [],
@@ -15924,10 +15924,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_17f3217485f87668e3e1",
@@ -15937,7 +15937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -15946,7 +15946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:515",
     "parent_id": null,
     "related_ids": [],
@@ -15955,10 +15955,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b16bbc0bcedf5512c714",
@@ -15968,7 +15968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -15977,7 +15977,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:516",
     "parent_id": null,
     "related_ids": [],
@@ -15986,10 +15986,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_22490a73a3bb3060e3d2",
@@ -15999,7 +15999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16008,7 +16008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:517",
     "parent_id": null,
     "related_ids": [],
@@ -16017,20 +16017,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2915372fbe31b96a3528",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_99628bb1cb776e1b0d54",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16039,7 +16039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:518",
     "parent_id": null,
     "related_ids": [],
@@ -16048,20 +16048,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d90a6a43d8a68ef1cb7",
-    "text": "•  Soft: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
-    "raw_text": "•  Soft: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
+    "text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
+    "raw_text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16070,7 +16070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:519",
     "parent_id": null,
     "related_ids": [],
@@ -16079,20 +16079,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d715b6cdcc330378ab84",
-    "text": "•  Sharp: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
-    "raw_text": "•  Sharp: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
+    "text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
+    "raw_text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16101,7 +16101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:520",
     "parent_id": null,
     "related_ids": [],
@@ -16110,10 +16110,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4f1873dd810dfc22d94b",
@@ -16123,7 +16123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16132,7 +16132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:521",
     "parent_id": null,
     "related_ids": [],
@@ -16141,10 +16141,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d4e37854c673e2312710",
@@ -16154,7 +16154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16163,7 +16163,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:522",
     "parent_id": null,
     "related_ids": [],
@@ -16172,10 +16172,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3e2bdc1cb28e8c4c824",
@@ -16185,7 +16185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16194,7 +16194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:523",
     "parent_id": null,
     "related_ids": [],
@@ -16203,10 +16203,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1123bc96fa9e1e7f1ccb",
@@ -16216,7 +16216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16225,7 +16225,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:524",
     "parent_id": null,
     "related_ids": [],
@@ -16234,10 +16234,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b0c81afe6a33e074d1bc",
@@ -16247,7 +16247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16256,7 +16256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:525",
     "parent_id": null,
     "related_ids": [],
@@ -16265,10 +16265,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f8d5991101f283dd7d70",
@@ -16278,7 +16278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16287,7 +16287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:526",
     "parent_id": null,
     "related_ids": [],
@@ -16296,10 +16296,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21676c3bbc7e47dfa8ba",
@@ -16309,7 +16309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16318,7 +16318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:527",
     "parent_id": null,
     "related_ids": [],
@@ -16327,10 +16327,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2ce33c7ac26651919ee8",
@@ -16340,7 +16340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16349,7 +16349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:528",
     "parent_id": null,
     "related_ids": [],
@@ -16358,20 +16358,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_198d919895d811b7a058",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_e300e5893bc5a7f63460",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16380,7 +16380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:529",
     "parent_id": null,
     "related_ids": [],
@@ -16389,20 +16389,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3fa9fa3412d2f4dcf0ee",
-    "text": "•  Soft: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
-    "raw_text": "•  Soft: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "raw_text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16411,7 +16411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:530",
     "parent_id": null,
     "related_ids": [],
@@ -16420,20 +16420,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bda5a0a1554d972c4664",
-    "text": "•  Sharp: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
-    "raw_text": "•  Sharp: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "raw_text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16442,7 +16442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:531",
     "parent_id": null,
     "related_ids": [],
@@ -16451,10 +16451,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f69347b7de2952c5c619",
@@ -16464,7 +16464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16473,7 +16473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:532",
     "parent_id": null,
     "related_ids": [],
@@ -16482,10 +16482,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_43f2d579c31fe9479d1d",
@@ -16495,7 +16495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16504,7 +16504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:533",
     "parent_id": null,
     "related_ids": [],
@@ -16513,10 +16513,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_82c2fafd0d049994805e",
@@ -16526,7 +16526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16535,7 +16535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:534",
     "parent_id": null,
     "related_ids": [],
@@ -16544,10 +16544,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2d0050c61da384458fe7",
@@ -16557,7 +16557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16566,7 +16566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:535",
     "parent_id": null,
     "related_ids": [],
@@ -16575,10 +16575,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e8a872430245d439019",
@@ -16588,8 +16588,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16597,7 +16597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:536",
     "parent_id": null,
     "related_ids": [],
@@ -16606,10 +16606,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d25442f536939dbc2539",
@@ -16619,8 +16619,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16628,7 +16628,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:537",
     "parent_id": null,
     "related_ids": [],
@@ -16637,10 +16637,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_20a774d804b5c2110367",
@@ -16650,8 +16650,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16659,7 +16659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:538",
     "parent_id": null,
     "related_ids": [],
@@ -16668,10 +16668,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_34af5d29cfe1b4e6ca1a",
@@ -16681,8 +16681,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16690,7 +16690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:539",
     "parent_id": null,
     "related_ids": [],
@@ -16699,10 +16699,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_051eb3648d00343e90c0",
@@ -16712,8 +16712,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16721,7 +16721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:540",
     "parent_id": null,
     "related_ids": [],
@@ -16730,10 +16730,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_03ae448280a457ce3b12",
@@ -16743,8 +16743,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16752,7 +16752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:541",
     "parent_id": null,
     "related_ids": [],
@@ -16761,10 +16761,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_573afce4ba632807220f",
@@ -16774,8 +16774,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16783,7 +16783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:542",
     "parent_id": null,
     "related_ids": [],
@@ -16792,10 +16792,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf9a5fe2535d03a455ac",
@@ -16805,7 +16805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16813,7 +16813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
     "source_reference": "paragraph:543",
     "parent_id": null,
     "related_ids": [],
@@ -16822,10 +16822,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ccbf63ab23369a61488",
@@ -16835,7 +16835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16844,7 +16844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:544",
     "parent_id": null,
     "related_ids": [],
@@ -16853,10 +16853,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eba6c14e6f3f88a4cc10",
@@ -16866,7 +16866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16875,7 +16875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:545",
     "parent_id": null,
     "related_ids": [],
@@ -16884,10 +16884,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_266bb9159e47b068bac3",
@@ -16897,7 +16897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16906,7 +16906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:546",
     "parent_id": null,
     "related_ids": [],
@@ -16915,10 +16915,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_07e9ddd37dd50648187a",
@@ -16928,7 +16928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16937,7 +16937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:547",
     "parent_id": null,
     "related_ids": [],
@@ -16946,10 +16946,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_705839d4965cc2c83dc0",
@@ -16959,7 +16959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16968,7 +16968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:548",
     "parent_id": null,
     "related_ids": [],
@@ -16977,20 +16977,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7705f5ef8784bfe6291c",
-    "text": "This is already documented in the Master Notes but belongs here for completeness.",
-    "raw_text": "This is already documented in the Master Notes but belongs here for completeness.",
+    "text": "This is already documented in the Study Notes but belongs here for completeness.",
+    "raw_text": "This is already documented in the Study Notes but belongs here for completeness.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -16999,7 +16999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:549",
     "parent_id": null,
     "related_ids": [],
@@ -17008,10 +17008,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8361e82e612056d92c71",
@@ -17021,7 +17021,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -17030,7 +17030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:550",
     "parent_id": null,
     "related_ids": [],
@@ -17039,10 +17039,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21184c9dba7221075329",
@@ -17052,7 +17052,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -17061,7 +17061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:551",
     "parent_id": null,
     "related_ids": [],
@@ -17070,10 +17070,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cb7bff53d22979663aa4",
@@ -17083,7 +17083,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -17092,7 +17092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:552",
     "parent_id": null,
     "related_ids": [],
@@ -17101,10 +17101,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c9f4245526b57d768eeb",
@@ -17114,7 +17114,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17123,7 +17123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:553",
     "parent_id": null,
     "related_ids": [],
@@ -17132,10 +17132,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cb1fd225ea07b84865f9",
@@ -17145,7 +17145,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17154,7 +17154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:554",
     "parent_id": null,
     "related_ids": [],
@@ -17163,10 +17163,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_666bc6534476dd9720d1",
@@ -17176,7 +17176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17185,7 +17185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:555",
     "parent_id": null,
     "related_ids": [],
@@ -17194,10 +17194,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1334eb3b2bf730c913d3",
@@ -17207,7 +17207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17216,7 +17216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:556",
     "parent_id": null,
     "related_ids": [],
@@ -17225,10 +17225,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9e831ed4938267b6ad0b",
@@ -17238,8 +17238,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17247,7 +17247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:557",
     "parent_id": null,
     "related_ids": [],
@@ -17256,21 +17256,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1e30c0e8bdb5028a7980",
-    "text": "Why this destroys the framework: If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something very different from \"timeless truth from a transcendent moral being.\" It means \"a human document reflecting its time.\" Which is what critics have been saying. The cultural accommodation defense concedes the critical argument.",
-    "raw_text": "**Why this destroys the framework: **If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something very different from \"timeless truth from a transcendent moral being.\" It means \"a human document reflecting its time.\" Which is what critics have been saying. The cultural accommodation defense concedes the critical argument.",
+    "id": "rk_24d8846ded070c3bd839",
+    "text": "Why this creates a tension: If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
+    "raw_text": "**Why this creates a tension: **If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17278,7 +17278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:558",
     "parent_id": null,
     "related_ids": [],
@@ -17287,10 +17287,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_aa09597654700da10477",
@@ -17300,8 +17300,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17309,7 +17309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:559",
     "parent_id": null,
     "related_ids": [],
@@ -17318,21 +17318,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b8362adda31633e03bcc",
-    "text": "The question that exposes the trap:",
-    "raw_text": "**The question that exposes the trap:**",
+    "id": "rk_a646cce32edf6d828538",
+    "text": "The question that clarifies the tension:",
+    "raw_text": "**The question that clarifies the tension:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17340,7 +17340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:560",
     "parent_id": null,
     "related_ids": [],
@@ -17349,10 +17349,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a057f962523a81c5dfa",
@@ -17362,8 +17362,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17371,7 +17371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:561",
     "parent_id": null,
     "related_ids": [],
@@ -17380,10 +17380,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_197cd0cf62999f164b48",
@@ -17393,8 +17393,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17402,7 +17402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:562",
     "parent_id": null,
     "related_ids": [],
@@ -17411,10 +17411,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51826393c659056ca902",
@@ -17424,8 +17424,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17433,7 +17433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:563",
     "parent_id": null,
     "related_ids": [],
@@ -17442,10 +17442,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f025730ee6b246702bae",
@@ -17455,8 +17455,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17464,7 +17464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:564",
     "parent_id": null,
     "related_ids": [],
@@ -17473,10 +17473,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5a5591db3ffb89544aaf",
@@ -17486,8 +17486,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17495,7 +17495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:565",
     "parent_id": null,
     "related_ids": [],
@@ -17504,10 +17504,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a09a9ecf11f649f5c103",
@@ -17517,8 +17517,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17526,7 +17526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:566",
     "parent_id": null,
     "related_ids": [],
@@ -17535,10 +17535,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e385c08b80de7b3a0502",
@@ -17548,8 +17548,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17557,7 +17557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:567",
     "parent_id": null,
     "related_ids": [],
@@ -17566,10 +17566,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45506682080da9fb69bf",
@@ -17579,8 +17579,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17588,7 +17588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:568",
     "parent_id": null,
     "related_ids": [],
@@ -17597,10 +17597,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d8e29ccc227555ef293a",
@@ -17610,8 +17610,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17619,7 +17619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:569",
     "parent_id": null,
     "related_ids": [],
@@ -17628,10 +17628,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b16fd610b2822a492ddf",
@@ -17641,8 +17641,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17650,7 +17650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:570",
     "parent_id": null,
     "related_ids": [],
@@ -17659,10 +17659,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_544926c3a9d2312f6ae1",
@@ -17672,8 +17672,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17681,7 +17681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:571",
     "parent_id": null,
     "related_ids": [],
@@ -17690,10 +17690,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4d80dc0ffa7fed60b3da",
@@ -17720,10 +17720,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_afb13962d8936322e800",
@@ -17751,10 +17751,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_08ea3f9a89e12b3b2b4a",
@@ -17782,10 +17782,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7e1be68dc4bb38928cde",
@@ -17813,10 +17813,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5cf42428f8b539df1bfa",
@@ -17844,10 +17844,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e6d71e3351608e8bd18d",
@@ -17875,10 +17875,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7c476f303bd583fd00f3",
@@ -17906,10 +17906,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0af71faa88ec40975bf1",
@@ -17937,10 +17937,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ebfa933eb673a7dbef3",
@@ -17968,10 +17968,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8d7a41410943d0866e82",
@@ -17999,10 +17999,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_068c0ee839c106748552",
@@ -18030,15 +18030,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_ac96b8906a352ce49fcf",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_af18b4e912b899718d2e",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18061,15 +18061,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a20a3daee951e1c1b84b",
-    "text": "•  Soft: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
-    "raw_text": "•  Soft: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
+    "text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
+    "raw_text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18092,15 +18092,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ca5cd123206176645ee3",
-    "text": "•  Sharp: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
-    "raw_text": "•  Sharp: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
+    "text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
+    "raw_text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18123,10 +18123,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_46bc91572e1396bb0a5c",
@@ -18154,10 +18154,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_da2071ec8b1ce9123f3f",
@@ -18185,10 +18185,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6acfafbd78cfb0163790",
@@ -18216,10 +18216,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e4e76a96f6f0a11daec7",
@@ -18247,10 +18247,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f395525421b92edd1636",
@@ -18278,10 +18278,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_651653060a6ff944c989",
@@ -18309,10 +18309,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_57dcd86c4068669b7707",
@@ -18322,7 +18322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.1 What the Claim Is and What It Does"
     ],
     "subtopics": [],
@@ -18331,7 +18331,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.1 What the Claim Is and What It Does",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
     "source_reference": "paragraph:592",
     "parent_id": null,
     "related_ids": [],
@@ -18340,10 +18340,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7fa09b774f1d062100cf",
@@ -18353,7 +18353,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.1 What the Claim Is and What It Does"
     ],
     "subtopics": [],
@@ -18362,7 +18362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.1 What the Claim Is and What It Does",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
     "source_reference": "paragraph:593",
     "parent_id": null,
     "related_ids": [],
@@ -18371,10 +18371,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c3d3c9b41377d8bff634",
@@ -18384,7 +18384,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18393,7 +18393,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:594",
     "parent_id": null,
     "related_ids": [],
@@ -18402,10 +18402,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_118ea908bac22bc7fcf9",
@@ -18415,7 +18415,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18424,7 +18424,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:595",
     "parent_id": null,
     "related_ids": [],
@@ -18433,10 +18433,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf0a92e31a43d95a1aaf",
@@ -18446,7 +18446,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18455,7 +18455,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:596",
     "parent_id": null,
     "related_ids": [],
@@ -18464,10 +18464,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_188256639a0113cbb79f",
@@ -18477,7 +18477,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18486,7 +18486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:597",
     "parent_id": null,
     "related_ids": [],
@@ -18495,10 +18495,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_524e0770130116b1036b",
@@ -18508,7 +18508,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.3 The Calvinist vs. Arminian Split"
     ],
     "subtopics": [],
@@ -18517,7 +18517,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.3 The Calvinist vs. Arminian Split",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
     "source_reference": "paragraph:598",
     "parent_id": null,
     "related_ids": [],
@@ -18526,10 +18526,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_156bc8fda453ba79b058",
@@ -18539,7 +18539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.3 The Calvinist vs. Arminian Split"
     ],
     "subtopics": [],
@@ -18548,7 +18548,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.3 The Calvinist vs. Arminian Split",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
     "source_reference": "paragraph:599",
     "parent_id": null,
     "related_ids": [],
@@ -18557,10 +18557,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2fa6e1a2efac5efc3de",
@@ -18570,7 +18570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.3 The Calvinist vs. Arminian Split"
     ],
     "subtopics": [],
@@ -18579,7 +18579,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.3 The Calvinist vs. Arminian Split",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
     "source_reference": "paragraph:600",
     "parent_id": null,
     "related_ids": [],
@@ -18588,10 +18588,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0993c9cf6cfc11455980",
@@ -18601,7 +18601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.4 The Universalization Problem"
     ],
     "subtopics": [],
@@ -18610,7 +18610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.4 The Universalization Problem",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
     "source_reference": "paragraph:601",
     "parent_id": null,
     "related_ids": [],
@@ -18619,10 +18619,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_116f248a6b61256714d5",
@@ -18632,7 +18632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.4 The Universalization Problem"
     ],
     "subtopics": [],
@@ -18641,7 +18641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.4 The Universalization Problem",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
     "source_reference": "paragraph:602",
     "parent_id": null,
     "related_ids": [],
@@ -18650,10 +18650,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fa61a560848409e4e100",
@@ -18663,7 +18663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.4 The Universalization Problem"
     ],
     "subtopics": [],
@@ -18672,7 +18672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.4 The Universalization Problem",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
     "source_reference": "paragraph:603",
     "parent_id": null,
     "related_ids": [],
@@ -18681,10 +18681,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_25669039886a953dbefb",
@@ -18694,7 +18694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18703,7 +18703,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:604",
     "parent_id": null,
     "related_ids": [],
@@ -18712,10 +18712,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_62027d44624570a43b26",
@@ -18725,7 +18725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18734,7 +18734,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:605",
     "parent_id": null,
     "related_ids": [],
@@ -18743,10 +18743,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_10f089f9dc8ef83a34d6",
@@ -18756,7 +18756,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18765,7 +18765,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:606",
     "parent_id": null,
     "related_ids": [],
@@ -18774,10 +18774,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7a8b0ccc1c5c377ef79c",
@@ -18787,7 +18787,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18796,7 +18796,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:607",
     "parent_id": null,
     "related_ids": [],
@@ -18805,10 +18805,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e10ce2240877770e23de",
@@ -18818,7 +18818,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18827,7 +18827,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:608",
     "parent_id": null,
     "related_ids": [],
@@ -18836,10 +18836,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_94543b96e15551f45aba",
@@ -18849,7 +18849,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18858,7 +18858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:609",
     "parent_id": null,
     "related_ids": [],
@@ -18867,10 +18867,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ce699ae3a374e3408d41",
@@ -18880,7 +18880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18889,7 +18889,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:610",
     "parent_id": null,
     "related_ids": [],
@@ -18898,10 +18898,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5b634de9c492a5d77f5a",
@@ -18911,7 +18911,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18920,7 +18920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:611",
     "parent_id": null,
     "related_ids": [],
@@ -18929,10 +18929,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cfef626228af88bad402",
@@ -18942,7 +18942,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18951,7 +18951,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:612",
     "parent_id": null,
     "related_ids": [],
@@ -18960,10 +18960,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90731c897b088f07995d",
@@ -18973,7 +18973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18982,7 +18982,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:613",
     "parent_id": null,
     "related_ids": [],
@@ -18991,10 +18991,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21ce74644eefd17fdea7",
@@ -19004,7 +19004,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -19013,7 +19013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:614",
     "parent_id": null,
     "related_ids": [],
@@ -19022,10 +19022,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff0633fa6ad2fdad8866",
@@ -19035,7 +19035,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -19044,7 +19044,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:615",
     "parent_id": null,
     "related_ids": [],
@@ -19053,10 +19053,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9f02f18dcbc64e3f2060",
@@ -19066,7 +19066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -19075,7 +19075,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:616",
     "parent_id": null,
     "related_ids": [],
@@ -19084,10 +19084,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_79355a4d915239f1995b",
@@ -19097,7 +19097,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.1 On Jeremiah 29:11 (personal life promise)"
     ],
     "subtopics": [],
@@ -19106,7 +19106,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
     "source_reference": "paragraph:617",
     "parent_id": null,
     "related_ids": [],
@@ -19115,10 +19115,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ab203a74ad15c4e24269",
@@ -19128,7 +19128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.2 On the 'new covenant' (Jeremiah 31:31)"
     ],
     "subtopics": [],
@@ -19137,7 +19137,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
     "source_reference": "paragraph:618",
     "parent_id": null,
     "related_ids": [],
@@ -19146,10 +19146,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e0371bfb281a1f3c21a5",
@@ -19159,7 +19159,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.3 On Amos 5:21-24 vs. ritual worship requirements"
     ],
     "subtopics": [],
@@ -19168,7 +19168,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
     "source_reference": "paragraph:619",
     "parent_id": null,
     "related_ids": [],
@@ -19177,10 +19177,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50a8d39dba7c20f82bea",
@@ -19190,7 +19190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.4 On Jonah vs. nationalist theology"
     ],
     "subtopics": [],
@@ -19199,7 +19199,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.4 On Jonah vs. nationalist theology",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.4 On Jonah vs. nationalist theology",
     "source_reference": "paragraph:620",
     "parent_id": null,
     "related_ids": [],
@@ -19208,10 +19208,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51c4c857af0fb92c6ae5",
@@ -19221,7 +19221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.5 On the Bible being 'clear' or 'consistent'"
     ],
     "subtopics": [],
@@ -19230,7 +19230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
     "source_reference": "paragraph:621",
     "parent_id": null,
     "related_ids": [],
@@ -19239,10 +19239,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ef4656ca357ed017169",
@@ -19252,7 +19252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.6 On the absence of Jesus's own writings"
     ],
     "subtopics": [],
@@ -19261,7 +19261,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.6 On the absence of Jesus's own writings",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.6 On the absence of Jesus's own writings",
     "source_reference": "paragraph:622",
     "parent_id": null,
     "related_ids": [],
@@ -19270,10 +19270,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c5ced41f92e7e536a8f2",
@@ -19283,7 +19283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19291,7 +19291,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:623",
     "parent_id": null,
     "related_ids": [],
@@ -19300,10 +19300,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ccb6386411f1ccadfb64",
@@ -19313,7 +19313,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19321,7 +19321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:624",
     "parent_id": null,
     "related_ids": [],
@@ -19330,10 +19330,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_489010457d1e8f6948b9",
@@ -19343,7 +19343,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19351,7 +19351,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:625",
     "parent_id": null,
     "related_ids": [],
@@ -19360,10 +19360,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9b28ee4d6a291d888cd8",
@@ -19373,7 +19373,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19381,7 +19381,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:626",
     "parent_id": null,
     "related_ids": [],
@@ -19390,10 +19390,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_aefc79cb60d98d840cd1",
@@ -19403,7 +19403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19411,7 +19411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:627",
     "parent_id": null,
     "related_ids": [],
@@ -19420,10 +19420,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c494f4ef65f0c4cdc9be",
@@ -19433,7 +19433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19441,7 +19441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:628",
     "parent_id": null,
     "related_ids": [],
@@ -19450,10 +19450,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b5c3b99db2833bbf8bff",
@@ -19463,7 +19463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19471,7 +19471,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
     "source_reference": "paragraph:629",
     "parent_id": null,
     "related_ids": [],
@@ -19480,10 +19480,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2353d3672c59f5f8d83",
@@ -19493,7 +19493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.1 Before and during the kingdoms"
     ],
     "subtopics": [],
@@ -19502,7 +19502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.1 Before and during the kingdoms",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.1 Before and during the kingdoms",
     "source_reference": "paragraph:630",
     "parent_id": null,
     "related_ids": [],
@@ -19511,10 +19511,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1a6a9a7167556caadb5d",
@@ -19524,8 +19524,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.2 The 400-year gap most believers don't know"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.2 The Second Temple period between the Testaments"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19533,7 +19533,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.2 The 400-year gap most believers don't know",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:631",
     "parent_id": null,
     "related_ids": [],
@@ -19542,10 +19542,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ddd2f766aaa65be8ba92",
@@ -19555,8 +19555,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.2 The 400-year gap most believers don't know"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.2 The Second Temple period between the Testaments"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19564,7 +19564,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.2 The 400-year gap most believers don't know",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:632",
     "parent_id": null,
     "related_ids": [],
@@ -19573,10 +19573,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8dbac188a202692f37f3",
@@ -19586,8 +19586,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.2 The 400-year gap most believers don't know"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.2 The Second Temple period between the Testaments"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19595,7 +19595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.2 The 400-year gap most believers don't know",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:633",
     "parent_id": null,
     "related_ids": [],
@@ -19604,10 +19604,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c388cf407f6b14e2d8e5",
@@ -19617,7 +19617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.3 Jesus and the New Testament"
     ],
     "subtopics": [],
@@ -19626,7 +19626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.3 Jesus and the New Testament",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.3 Jesus and the New Testament",
     "source_reference": "paragraph:634",
     "parent_id": null,
     "related_ids": [],
@@ -19635,10 +19635,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbea2f1be6c313a48bff",
@@ -19648,7 +19648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.4 How the church and the canon formed"
     ],
     "subtopics": [],
@@ -19657,7 +19657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.4 How the church and the canon formed",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.4 How the church and the canon formed",
     "source_reference": "paragraph:635",
     "parent_id": null,
     "related_ids": [],
@@ -19666,10 +19666,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf46765485486c78b79c",
@@ -19679,7 +19679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.5 Islam"
     ],
     "subtopics": [],
@@ -19688,7 +19688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.5 Islam",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.5 Islam",
     "source_reference": "paragraph:636",
     "parent_id": null,
     "related_ids": [],
@@ -19697,10 +19697,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_323db2e0af81c9a78e92",
@@ -19710,7 +19710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.6 English Bibles"
     ],
     "subtopics": [],
@@ -19719,7 +19719,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.6 English Bibles",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.6 English Bibles",
     "source_reference": "paragraph:637",
     "parent_id": null,
     "related_ids": [],
@@ -19728,10 +19728,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbae179351b5fd4a4e99",
@@ -19741,8 +19741,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.7 The gaps — the numbers that actually win arguments"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.7 Source gaps — key intervals to remember"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19750,7 +19750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.7 The gaps — the numbers that actually win arguments",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:638",
     "parent_id": null,
     "related_ids": [],
@@ -19759,21 +19759,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b0eee4afb5876ded953c",
-    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n- ~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n- ~60–70 years — crucifixion to John\n- ~85 years — crucifixion to Tacitus\n- 150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n- ~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- 100–200 years — Muhammad's death (632) to the written sira and hadith\n- ~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
+    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
     "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.7 The gaps — the numbers that actually win arguments"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.7 Source gaps — key intervals to remember"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19781,7 +19781,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.7 The gaps — the numbers that actually win arguments",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:639",
     "parent_id": null,
     "related_ids": [],
@@ -19790,21 +19790,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_cc4782b2da43cadc6ea1",
-    "text": "The line: \"How long between the event and the writing?\" It works on every source, in every tradition, including the ones you agree with.",
-    "raw_text": "**The line:** *\"How long between the event and the writing?\"* It works on every source, in every tradition, including the ones you agree with.",
+    "id": "rk_1bf1b271a17cd5a38f24",
+    "text": "Reference question: \"How long between the event and the writing?\" Apply it to every source, in every tradition, including the ones you agree with.",
+    "raw_text": "**Reference question:** *\"How long between the event and the writing?\"* Apply it to every source, in every tradition, including the ones you agree with.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.7 The gaps — the numbers that actually win arguments"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.7 Source gaps — key intervals to remember"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19812,7 +19812,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.7 The gaps — the numbers that actually win arguments",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:640",
     "parent_id": null,
     "related_ids": [],
@@ -19821,10 +19821,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0cf5d7c2cf8384c79707",
@@ -19851,15 +19851,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_87566b1a1f036fb9ef86",
-    "text": "•  Sources on both sides are included by design. Goal is understanding the strongest version of every argument, not just the counters.",
-    "raw_text": "•  Sources on both sides are included by design. Goal is understanding the strongest version of every argument, not just the counters.",
+    "id": "rk_1f42708e29ee7f64b4a0",
+    "text": "•  Sources from multiple perspectives are included by design. The goal is to understand the strongest version of each position and the evidence for and against it.",
+    "raw_text": "•  Sources from multiple perspectives are included by design. The goal is to understand the strongest version of each position and the evidence for and against it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -19881,10 +19881,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3344633eef7c040aaf79",
@@ -19911,10 +19911,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_314d0ca8ea5c0d9feb90",
@@ -19941,10 +19941,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b019db5f51f0c471734e",
@@ -19955,7 +19955,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19963,7 +19963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:645",
     "parent_id": null,
     "related_ids": [],
@@ -19972,10 +19972,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e330ec1154b8cfdf68d4",
@@ -19986,7 +19986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19994,7 +19994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:646",
     "parent_id": null,
     "related_ids": [],
@@ -20003,10 +20003,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fecf03d6d23c8f0f0f96",
@@ -20017,7 +20017,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20025,7 +20025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:647",
     "parent_id": null,
     "related_ids": [],
@@ -20034,21 +20034,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7c4c9ba90b5f064d660a",
-    "text": "Field application: do not deploy a line from an unaudited claim as though it were settled. The queue at §8.2 lists what has not been checked.",
-    "raw_text": "**Field application:** do not deploy a line from an unaudited claim as though it were settled. The queue at §8.2 lists what has not been checked.",
+    "id": "rk_61c84b7048666148dc87",
+    "text": "Use note: do not present an unaudited claim as settled. The queue at §8.2 lists what has not been checked.",
+    "raw_text": "**Use note:** do not present an unaudited claim as settled. The queue at §8.2 lists what has not been checked.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20056,7 +20056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:648",
     "parent_id": null,
     "related_ids": [],
@@ -20065,21 +20065,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2b443820ba3508b5ff34",
-    "text": "| They say | Go to |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — the popular skeptic version is false |\n| \"5,800 manuscripts\" | Historical Framework §4 — concede the number, contest the inference |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
-    "raw_text": "| They say | Go to |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — **the popular skeptic version is false** |\n| \"5,800 manuscripts\" | Historical Framework §4 — concede the number, contest the inference |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
+    "id": "rk_a921aefb0c228cb64486",
+    "text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — the popular skeptic version is false |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
+    "raw_text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — **the popular skeptic version is false** |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.2 Where to Look When Something Comes Up Mid-Conversation"
+      "8.2 Where to Look While Reading or in Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20087,7 +20087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look When Something Comes Up Mid-Conversation",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look While Reading or in Conversation",
     "source_reference": "paragraph:649",
     "parent_id": null,
     "related_ids": [],
@@ -20096,10 +20096,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_269ed5b7b4037307b5b4",
@@ -20110,7 +20110,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.2 Where to Look When Something Comes Up Mid-Conversation"
+      "8.2 Where to Look While Reading or in Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20118,7 +20118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look When Something Comes Up Mid-Conversation",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look While Reading or in Conversation",
     "source_reference": "paragraph:650",
     "parent_id": null,
     "related_ids": [],
@@ -20127,15 +20127,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6029bfd17c99407c233a",
-    "text": "Ranked by expected exposure. Not yet audited.",
-    "raw_text": "Ranked by expected exposure. Not yet audited.",
+    "id": "rk_51fe7e7651018ae74e01",
+    "text": "Ranked by verification priority. Not yet audited.",
+    "raw_text": "Ranked by verification priority. Not yet audited.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20158,10 +20158,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69074c55ca31a416ac95",
@@ -20189,14 +20189,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf3e49423f1d4389cd7c",
-    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- \"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
+    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n\"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- **\"John is textually antisemitic\"** — recorded at §8.5. The *Ioudaioi* translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -20220,10 +20220,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3433f319a1ef2f1f69f7",
@@ -20251,14 +20251,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ae2a74d4e28929cf584",
-    "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- Luke softening Roman culpability (§6.3) — defensible, with real pushback.\n- Deutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
+    "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\nLuke softening Roman culpability (§6.3) — defensible, with real pushback.\nDeutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- **Luke softening Roman culpability** (§6.3) — defensible, with real pushback.\n- **Deutero-Pauline pseudonymity** (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -20282,10 +20282,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_83fe958ecc63ade6bf52",
@@ -20313,14 +20313,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_422b9d35e4dcc053ea61",
-    "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
+    "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\nGalatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\nMatthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\nIsaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\nHa-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
     "raw_text": "- Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -20344,10 +20344,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5198c152bc39a669cd42",
@@ -20375,10 +20375,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8bc89ab76bd6e975d6ba",
@@ -20390,7 +20390,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20398,7 +20398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:659",
     "parent_id": null,
     "related_ids": [],
@@ -20407,22 +20407,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_28207eff10dab1a4b386",
-    "text": "Verified elsewhere and safe to use: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Master Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
-    "raw_text": "**Verified elsewhere and safe to use:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Master Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
+    "id": "rk_7296d20067da83e96bf6",
+    "text": "Verified elsewhere: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
+    "raw_text": "**Verified elsewhere:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20430,7 +20430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:660",
     "parent_id": null,
     "related_ids": [],
@@ -20439,22 +20439,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3cde02747b96baffbaec",
-    "text": "Not yet audited in this document. Treat as usable but unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 deflection phrases · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
-    "raw_text": "**Not yet audited in this document.** Treat as usable but unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 deflection phrases · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
+    "id": "rk_7ea0b08d4b951968add0",
+    "text": "Not yet audited in this document. Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
+    "raw_text": "**Not yet audited in this document.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20462,7 +20462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:661",
     "parent_id": null,
     "related_ids": [],
@@ -20471,10 +20471,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_92f7141f03a5b53bab0c",
@@ -20486,7 +20486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20494,7 +20494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:662",
     "parent_id": null,
     "related_ids": [],
@@ -20503,22 +20503,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_280c6694875e889301ff",
-    "text": "§12.8 John 8:44 — say anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Master Notes §8.5 audit.\n- §13 Trinity / Nicaea — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
-    "raw_text": "- **§12.8 John 8:44** — say **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Master Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
+    "id": "rk_f337487fe77b2b43e675",
+    "text": "§12.8 John 8:44 — use anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.\n§13 Trinity / Nicaea — verify against Historical Framework §7. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns imperial enforcement of a theological outcome and the exile of dissenters.",
+    "raw_text": "- **§12.8 John 8:44** — use **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns imperial enforcement of a theological outcome and the exile of dissenters.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20526,7 +20526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:663",
     "parent_id": null,
     "related_ids": [],
@@ -20535,22 +20535,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_17532371016f61585ace",
-    "text": "Living document — update as conversations progress",
-    "raw_text": "*Living document — update as conversations progress*",
+    "id": "rk_72002581dec258b00fc9",
+    "text": "Living document — update as reading and conversations progress",
+    "raw_text": "*Living document — update as reading and conversations progress*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20558,7 +20558,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:664",
     "parent_id": null,
     "related_ids": [],
@@ -20567,9 +20567,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);

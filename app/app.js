@@ -275,8 +275,8 @@
   }
 
   const DOC_TITLES = {
-    'Bible_Deep_Dive_Master_Notes.md': 'Master Notes',
-    'Field_Guide_Conversation_Reference.md': 'Field Guide',
+    'Bible_Deep_Dive_Master_Notes.md': 'Study Notes',
+    'Field_Guide_Conversation_Reference.md': 'Observations',
     'Glossary.md': 'Glossary',
     'Historical_Framework.md': 'Historical Framework',
     'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',

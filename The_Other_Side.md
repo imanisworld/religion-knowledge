@@ -1,11 +1,11 @@
 # The Strongest Case
 
-*Theologians, Apologists, and How the Literal/Allegorical Switch Actually Works*
+*Theologians, Apologists, and Approaches to Literal and Allegorical Reading*
 
-**Companion to:** Master Notes · Field Guide · Historical Framework · Sources
+**Companion to:** Study Notes · Observations · Historical Framework · Sources
 **Last updated:** 7 August 2026
 
-> **Provenance.** **Written by:** Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. **The ranking by 'hardest to answer' is Claude's judgement, not a scholarly consensus** — a starting map, not a verdict.
+> **Provenance.** **Written by:** Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. The organization and assessments are Claude's judgement, not a scholarly consensus — a starting map, not a verdict.
 
 > **Who is saying what.** Three markers run through all seven documents:
 >
@@ -16,19 +16,19 @@
 > **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.
 
 
-> **Why this document exists.** Two problems, and they are connected.
+> **How to use this document.** This is a guide to serious religious positions and to the interpretive frameworks used in biblical reading.
 >
-> **First:** most critique of religion engages the weakest available version. That is a waste. There are serious people on the believing side — philosophers who are genuinely hard to answer, historians who have found real things. Knowing which is which is what separates someone who can argue from someone who can only recite.
+> **First:** popular summaries often miss the strongest versions of religious thought. The philosophers, historians, theologians, and apologists listed here are worth knowing because their work shapes serious discussions of belief and scripture.
 >
-> **Second, and this is the harder one:** the sense that a believer's reading is "all over the place" — literal here, metaphor there, no visible rule. That feeling is accurate, and §2 explains exactly what is happening. There are named, centuries-old frameworks governing it. They are real intellectual traditions. But almost nobody using them can state which one they are applying, and none of them specify *in advance* which passages get which treatment. That is the whole problem, and once you can name it, the disorientation stops.
+> **Second:** biblical readers move among literal, metaphorical, typological, and theological readings. §2 names the centuries-old frameworks that govern those choices, explains what each contributes, and notes where their boundaries remain unclear.
 
-## 1. Who Is Actually Worth Engaging
+## 1. Thinkers and Traditions Worth Knowing
 
-Sorted by how hard they are to answer, not by how famous they are. ⟨INFERENCE — this ranking is Claude's judgement, not a survey of the field.⟩ The gap between those two is large.
+Organized by field and level of scholarly engagement rather than fame. ⟨INFERENCE — this organization is Claude's judgement, not a survey of the field.⟩
 
-### 1.1 Philosophers — the genuinely difficult tier
+### 1.1 Philosophers — major contemporary positions
 
-These people are professional analytic philosophers publishing in secular journals. Do not go at them casually.
+These are professional analytic philosophers whose work appears in secular academic venues and merits careful reading.
 
 **Alvin Plantinga** [REFORMED EPISTEMOLOGY] — *Warranted Christian Belief*, *God and Other Minds*. His argument is not that God's existence can be proved. It is that belief in God can be **properly basic** — rational without inferential argument, in the way belief in other minds or the reliability of memory is. He also formulated the free will defense, which is widely regarded as having defeated the *logical* problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the *evidential* problem of evil survives, and that is where the real argument now happens.
 
@@ -38,7 +38,7 @@ These people are professional analytic philosophers publishing in secular journa
 
 **Eleonore Stump** [CATHOLIC, ANALYTIC] — *Wandering in Darkness*. On suffering, engaging it through narrative rather than theodicy. Genuinely serious and rarely engaged by critics.
 
-**William Lane Craig** [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and a formidable debater. He is also the softest target of this group: the Kalām's second premise (that the universe began to exist) leans on contested cosmology, and his defense of the Canaanite conquest on divine command grounds is where most opponents concentrate fire.
+**William Lane Craig** [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and an accomplished public debater. The Kalām's second premise (that the universe began to exist) depends on contested cosmology, while his defense of the Canaanite conquest on divine-command grounds attracts substantial criticism.
 
 ### 1.2 Historians and biblical scholars who are also believers
 
@@ -56,17 +56,17 @@ This category surprises people. These are not apologists — they are working sc
 
 **Peter Enns** [PROGRESSIVE EVANGELICAL] — *The Bible Tells Me So*, *Inspiration and Incarnation*. Accepts essentially all the critical findings and argues the doctrine of inspiration must be revised to fit them rather than the reverse. Was pushed out of Westminster Theological Seminary for it. Useful because he concedes the data and relocates the argument.
 
-### 1.3 The apologetics tier — expect these, they are what you will actually meet
+### 1.3 Apologetics — academic and popular approaches
 
 **Michael Licona** [EVANGELICAL, historian] — *The Resurrection of Jesus: A New Historiographical Approach*. Serious methodological work. Notable for being attacked *by his own side* for suggesting Matthew 27:52–53 (the resurrected saints walking through Jerusalem) might be apocalyptic imagery — which tells you a great deal about the constraints inerrantists operate under.
 
 **Gary Habermas** [EVANGELICAL] — the "minimal facts" argument. Builds a case from a small set of claims he says the majority of critical scholars grant. Handle by examining whether each "fact" is granted in the form he states it.
 
-**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Master Notes for where his redaction-criticism reversal is genuinely sharp.
+**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Study Notes for where his redaction-criticism reversal is genuinely sharp.
 
-**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Master Notes §1.8 audit.
+**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Study Notes §1.8 audit.
 
-**J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell** — the popular tier. Strobel's *Case for Christ* is structured as journalism but interviews only people who already agree. This is the level most conversations actually happen at, and it is not where the strong arguments live. Do not let a win here convince you the position is defeated.
+**J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell** — popular-level apologists. Strobel's *Case for Christ* is structured as journalism but interviews only people who already agree. Distinguish these presentations from stronger academic versions of the same positions.
 
 ### 1.4 Historic theologians worth knowing by name
 
@@ -110,7 +110,7 @@ Note what defenders themselves emphasize: <cite index="68-1">a proper understand
 
 **Analogy of faith.** Unclear passages interpreted by clear ones. Sounds like sound method. In practice it means passages that conflict with settled doctrine get read in light of passages that support it — which is circular, and the circularity is invisible from inside.
 
-### 2.3 The genre point is legitimate — concede it
+### 2.3 The genre point is legitimate
 
 Do not attack allegorical reading as such. It is the position of critical scholarship too.
 
@@ -118,7 +118,7 @@ Genesis 1 *is* ancient Near Eastern cosmology, not a science text — that is wh
 
 **The distinction that matters** ⟨INFERENCE⟩**:** genre is a property of the text, determinable from its structure, its ancient parallels, and its own signals. A framework applied because a reading became uncomfortable is a different operation wearing the same clothes.
 
-### 2.4 The diagnostic question
+### 2.4 A useful interpretive question
 
 **"What's your rule — stated before we look at the passage?"**
 
@@ -139,16 +139,16 @@ Question 3 has no answer. Aquinas's categories are not in the text, and no verse
 
 **What it does establish** ⟨INFERENCE⟩ is narrower and much harder to escape: whatever the text's origin, *its application is a human act*, performed by people using unstated sorting rules that reliably preserve what they already believed. The question stops being "what does the Bible say" and becomes "who decided which parts count, and what were they protecting."
 
-That is the same structural finding as the audit log in the Master Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.
+That is the same structural finding as the audit log in the Study Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.
 
-## 3. Rules for Engaging Well
+## 3. Principles for Reading and Conversation
 
-**Engage the strongest version.** If you can only beat Turek, you have not beaten the position. Plantinga is the position.
+**Understand the strongest version.** A popular presentation and the underlying philosophical position may differ substantially; consult the strongest representative work available.
 
-**Concede fast and visibly.** Where they are right — Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, the 1 Corinthians 15 creed is early — say so immediately. Every concession makes your unconceded points cost more.
+**Acknowledge established points clearly.** Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, and the 1 Corinthians 15 creed is early. These facts should remain visible even when evaluating broader conclusions.
 
 **Separate the historical claim from the theological one, every time.** That a Galilean preacher was crucified under Pilate is well supported. That he rose is not a historical claim in the same sense, and collapsing the two is how both sides get confused.
 
-**Do not confuse a bad advocate with a bad argument.** Most conversations happen at the popular level. Winning there tells you about the person, not the position.
+**Do not confuse a weak presentation with a weak position.** Most conversations happen at the popular level; assess the underlying claim separately from the person presenting it.
 
-**Ask for the rule before the passage.** §2.4. It is the single most useful move in this entire document, and it works because it asks for something the frameworks cannot supply.
+**Identify the interpretive rule before evaluating the passage.** See §2.4. Stating the rule first makes its assumptions and consequences easier to examine.

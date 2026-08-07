@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Glossary.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -31,7 +31,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_78efdaf599b090a361e2",
@@ -61,7 +61,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_76738c6251ccc2a21038",
@@ -91,11 +91,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bca7940687b306b64f29",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
@@ -121,11 +121,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf18743232517f1344a5",
-    "text": "These words show up throughout the other documents. Nothing here is hard once someone tells you what it means — most of it is field-specific shorthand, and knowing the word is not the same as knowing the idea.\n>\n> In the other documents, terms with a dotted underline show the definition when you hover or tap them. This page is the full list in one place.",
+    "text": "These words show up throughout the other documents. Nothing here is hard once someone tells you what it means — most of it is field-specific shorthand, and knowing the word is not the same as knowing the idea.\n\nIn the other documents, terms with a dotted underline show the definition when you hover or tap them. This page is the full list in one place.",
     "raw_text": "> These words show up throughout the other documents. Nothing here is hard once someone tells you what it means — most of it is field-specific shorthand, and knowing the word is not the same as knowing the idea.\n>\n> In the other documents, terms with a **dotted underline** show the definition when you hover or tap them. This page is the full list in one place.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -151,7 +151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_108855299d97742849d0",
@@ -182,7 +182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a6f2b83b284638972ab4",
@@ -213,7 +213,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6f34cbb848a2027a4f7d",
@@ -244,7 +244,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_da56fbb77e87c1708751",
@@ -275,7 +275,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_68c8978c467c0c9d1d90",
@@ -306,7 +306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c4a8d80f30b0e7f012aa",
@@ -337,7 +337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6343ddaf88f2ef4d2631",
@@ -368,7 +368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf223f41a8df0273914d",
@@ -399,7 +399,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d7c0e9e9ddb8d9c6ae54",
@@ -430,7 +430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d227d0d0292da6d8bca8",
@@ -461,7 +461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9a8868d0b37103a61f15",
@@ -492,7 +492,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_923c8d7ae8bbe71b3e83",
@@ -523,7 +523,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9e73717d8d495d6cb22b",
@@ -554,7 +554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5133839898221202263e",
@@ -585,7 +585,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9940fab6449305c466bf",
@@ -616,7 +616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_357d6b9497e9a3743416",
@@ -647,7 +647,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4cba12f6c33fbaa04eab",
@@ -678,7 +678,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4db14d64d78714a3120a",
@@ -709,7 +709,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4beaf9e59b26c36736e",
@@ -740,7 +740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5817c72a4ef4ec785394",
@@ -771,7 +771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bfd4c78a67ab62dbde70",
@@ -802,7 +802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_164841de9daca0d3f0bf",
@@ -833,7 +833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_99c0073166b2df3d009b",
@@ -864,7 +864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_672289b571f8a0dc28b3",
@@ -895,7 +895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eb2b81fb202e0d7c585d",
@@ -926,7 +926,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_114f8a0352fb605dde19",
@@ -957,7 +957,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf9c16df8d8c1ab58dad",
@@ -988,7 +988,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8d6ea668e3241c16d93d",
@@ -1019,7 +1019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_13446c1bc2ae103f40c1",
@@ -1050,7 +1050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c894cc3dea573e542d8e",
@@ -1081,7 +1081,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_be0f8407cdca57102aaa",
@@ -1112,7 +1112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c15fd2eb1f7d9857ea7e",
@@ -1143,7 +1143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d8cfc383c8c7e986d217",
@@ -1174,7 +1174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eb92236e2fe1b2f7590c",
@@ -1205,7 +1205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2423e2242554f8698e03",
@@ -1236,7 +1236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e45c165964a72d35dd4d",
@@ -1267,7 +1267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbb22ccb01ed19691a0d",
@@ -1298,7 +1298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_99e4c2237b29863a9cab",
@@ -1329,7 +1329,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c8c21830902ecc018647",
@@ -1360,7 +1360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_364a2862b47ad2694e48",
@@ -1391,7 +1391,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2649a7875b064f63fda",
@@ -1422,7 +1422,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d8117b7304ac657a462c",
@@ -1453,7 +1453,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_35251ea92128747607b3",
@@ -1484,7 +1484,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4629a7d81fbbfdf47f03",
@@ -1515,7 +1515,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7db969009f2cdbcc42cb",
@@ -1546,7 +1546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f3dbbbc7763d0a84538",
@@ -1577,7 +1577,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c07a40b8fd6cc579b95",
@@ -1608,7 +1608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_92190bf18ab9fd3aa88a",
@@ -1639,7 +1639,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_860a126852db6292df01",
@@ -1670,7 +1670,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7b98050afab7ac9e3404",
@@ -1701,7 +1701,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f6c1c8389479a99e09d6",
@@ -1732,7 +1732,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_896b62ed91834df27eec",
@@ -1763,7 +1763,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d76ed24d692ccc777dca",
@@ -1794,7 +1794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b84571a3ebb8d8b38e04",
@@ -1825,7 +1825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ca9198c7f0200faba2c5",
@@ -1856,7 +1856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b566a793d6de59b5d7ee",
@@ -1887,7 +1887,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee550ba7cd1a6121ac8e",
@@ -1918,7 +1918,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_baa03cba751b2c60e036",
@@ -1949,7 +1949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_70c3c34afe536de0ae84",
@@ -1980,7 +1980,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_93cd03023599251bf6fb",
@@ -2011,7 +2011,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e1ed6feee2e194c3fd52",
@@ -2042,7 +2042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cdd30a51cf46d95ce161",
@@ -2073,7 +2073,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_634aacc641923d932bd9",
@@ -2104,7 +2104,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ded5e931b624bd7d4e64",
@@ -2135,7 +2135,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a19a8211bda1de4e2817",
@@ -2166,7 +2166,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f4274c1084849bf5a624",
@@ -2197,7 +2197,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3d0f8d855998133b98ed",
@@ -2228,7 +2228,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0f07fb6f08bb2bdf982d",
@@ -2259,7 +2259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_83372cbecff9070af990",
@@ -2290,7 +2290,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_83b4a058e91902adc930",
@@ -2321,7 +2321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_38403e3e9b63c8eb1780",
@@ -2352,7 +2352,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_37c5743c70d675764f55",
@@ -2383,7 +2383,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2ff950f36e83be1a8bdd",
@@ -2414,7 +2414,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6d67a1ad25046eee6360",
@@ -2445,7 +2445,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a68d820412d63c4caf33",
@@ -2476,7 +2476,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_65000de799d7a7f4875e",
@@ -2507,7 +2507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a42ce105d5b414927c80",
@@ -2538,7 +2538,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c20527f09c46ac242bff",
@@ -2569,7 +2569,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c72b5ff8c79936cf84de",
@@ -2600,7 +2600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d81d6a10eed802d8335c",
@@ -2631,7 +2631,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c0db448d49146b8f7b71",
@@ -2662,7 +2662,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a7a9a3a5adde17e7572a",
@@ -2693,7 +2693,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d9cec0571fb6c34706bc",
@@ -2724,7 +2724,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_676cebd15fbb1514f5fc",
@@ -2755,7 +2755,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_748e9d45c6df474bc3f2",
@@ -2786,7 +2786,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7db2f0889f0c275ffc55",
@@ -2817,7 +2817,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21a27d83cfb367401fdb",
@@ -2848,7 +2848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1c14520cdc943c1a319d",
@@ -2879,7 +2879,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fdcb8c516651290ce60",
@@ -2910,7 +2910,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_42fcc10daff3322f3a5e",
@@ -2941,6 +2941,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Glossary provenance explicitly states: Written by Claude; plain-English definitions of standard field terms."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);

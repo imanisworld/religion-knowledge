@@ -30,33 +30,68 @@ test('provenance legend with multiple marker types fails closed', () => {
   assert.equal(out.records[0].attribution_evidence.method, 'multiple_explicit_markers');
 });
 
-test('legacy Master Notes sections 0-9 fail closed to REVIEW_REQUIRED', () => {
+test('multiline blockquote and nested list markers are cleaned on every line', () => {
+  const content = `# Topic
+
+> **Who is saying what.** Three markers:
+>
+> - **⟨DOCUMENTED⟩** — a named scholar.
+> - **⟨INFERENCE⟩** — Claude's reasoning.
+> - **⟨YOURS⟩** — the user's observation.
+>
+> **The rule:** keep the descriptions intact.`;
+  const out = parseMarkdown({ sourceFile: 'The_Other_Side.md', content });
+  const record = out.records[0];
+
+  assert.equal(record.provenance_type, 'REVIEW_REQUIRED');
+  assert.equal(record.attribution_evidence.method, 'multiple_explicit_markers');
+  assert.doesNotMatch(record.text, /(?:^|\n)\s*>/);
+  assert.doesNotMatch(record.text, /(?:^|\n)\s*[-*+]\s+/);
+  assert.match(record.text, /Who is saying what\. Three markers:/);
+  assert.match(record.text, /⟨DOCUMENTED⟩ — a named scholar\./);
+  assert.match(record.text, /⟨INFERENCE⟩ — Claude's reasoning\./);
+  assert.match(record.text, /⟨YOURS⟩ — the user's observation\./);
+  assert.match(record.text, /The rule: keep the descriptions intact\./);
+});
+
+test('multiline unordered list markers are cleaned on every line', () => {
+  const content = `# Topic
+
+- First item
+- Second item
+  * Nested item`;
+  const out = parseMarkdown({ sourceFile: 'Historical_Framework.md', content });
+
+  assert.equal(out.records[0].text, 'First item\nSecond item\nNested item');
+});
+
+test('legacy Study Notes sections 0-9 fail closed to REVIEW_REQUIRED', () => {
   const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 1. Big Framework\n\n### 1.1 Claim\n\nThis predates provenance convention.' });
   assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
   assert.equal(out.records[0].review_required, true);
   assert.match(out.records[0].attribution_evidence.value, /mixed/i);
 });
 
-test('post-legacy Master Notes defaults to user-authored text', () => {
+test('post-legacy Study Notes defaults to user-authored text', () => {
   const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 10. Current Notes\n\nThis is later user-authored material.' });
   assert.equal(out.records[0].provenance_type, 'MY_WORDS');
   assert.equal(out.records[0].review_required, false);
   assert.equal(out.records[0].attribution_evidence.method, 'document_provenance');
 });
 
-test('Field Guide section 7 defaults to user-authored fieldwork', () => {
+test('Observations section 7 defaults to user-authored fieldwork', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 7. FIELDWORK\n\nObserved in live conversation.' });
   assert.equal(out.records[0].provenance_type, 'MY_WORDS');
   assert.equal(out.records[0].review_required, false);
 });
 
-test('Field Guide mixed sections remain REVIEW_REQUIRED', () => {
+test('Observations mixed sections remain REVIEW_REQUIRED', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 3. HISTORY\n\nOld mixed material.' });
   assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
   assert.equal(out.records[0].review_required, true);
 });
 
-test('Field Guide section 8 defaults to Claude compilation', () => {
+test('Observations section 8 defaults to Claude compilation', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 8. METHOD\n\nCompiled method.' });
   assert.equal(out.records[0].provenance_type, 'CLAUDE');
   assert.equal(out.records[0].representation_type, 'SUMMARY');
@@ -117,4 +152,48 @@ test('IDs are deterministic', () => {
   const a = parseMarkdown(input);
   const b = parseMarkdown(input);
   assert.equal(a.records[0].id, b.records[0].id);
+});
+
+test('Study Notes display rename preserves legacy record IDs', () => {
+  const legacy = parseMarkdown({
+    sourceFile: 'Bible_Deep_Dive_Master_Notes.md',
+    content: '# Bible Deep Dive: Master Notes\n\nSee Master Notes §1.',
+  });
+  const renamed = parseMarkdown({
+    sourceFile: 'Bible_Deep_Dive_Master_Notes.md',
+    content: '# Bible Deep Dive: Study Notes\n\nSee Study Notes §1.',
+  });
+
+  assert.equal(renamed.records[0].id, legacy.records[0].id);
+  assert.equal(renamed.records[0].topics[0], 'Bible Deep Dive: Study Notes');
+  assert.equal(renamed.records[0].text, 'See Study Notes §1.');
+});
+
+test('Observations display rename preserves legacy record IDs', () => {
+  const legacy = parseMarkdown({
+    sourceFile: 'Field_Guide_Conversation_Reference.md',
+    content: '# Field Guide: Live Conversation Reference\n\nSee Field Guide §2.',
+  });
+  const renamed = parseMarkdown({
+    sourceFile: 'Field_Guide_Conversation_Reference.md',
+    content: '# Observations: Live Conversation Reference\n\nSee Observations §2.',
+  });
+
+  assert.equal(renamed.records[0].id, legacy.records[0].id);
+  assert.equal(renamed.records[0].topics[0], 'Observations: Live Conversation Reference');
+  assert.equal(renamed.records[0].text, 'See Observations §2.');
+});
+
+test('reader-focused heading and prompt labels preserve unchanged record IDs', () => {
+  const legacy = parseMarkdown({
+    sourceFile: 'Field_Guide_Conversation_Reference.md',
+    content: '# 2. COMMON CLAIMS & RESPONSES\n\n**Why this critique holds up — and what to say:**\n\n• Soft: "What supports that reading?"',
+  });
+  const renamed = parseMarkdown({
+    sourceFile: 'Field_Guide_Conversation_Reference.md',
+    content: '# 2. COMMON CLAIMS — CONTEXT AND QUESTIONS\n\n**Why this assessment holds — questions for conversation:**\n\n• Clarifying question: "What supports that reading?"',
+  });
+
+  assert.deepEqual(renamed.records.map(({ id }) => id), legacy.records.map(({ id }) => id));
+  assert.equal(renamed.records.at(-1).text, '• Clarifying question: "What supports that reading?"');
 });

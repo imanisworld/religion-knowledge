@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 
-export const PARSER_VERSION = '1.1.2';
+export const PARSER_VERSION = '1.1.3';
 
 const PROVENANCE = Object.freeze({
   MY_WORDS: 'MY_WORDS',
@@ -15,11 +15,11 @@ const PROVENANCE = Object.freeze({
 
 function cleanInlineMarkdown(text) {
   return text
-    .replace(/^>\s?/, '')
-    .replace(/^[-*+]\s+/, '')
+    .replace(/^[\t ]*(?:>[\t ]?)+/gm, '')
+    .replace(/^[\t ]*[-*+][\t ]+/gm, '')
     .replace(/`([^`]+)`/g, '$1')
-    .replace(/\*\*([^*]+)\*\*/g, '$1')
-    .replace(/\*([^*]+)\*/g, '$1')
+    .replace(/\*\*([^*\n]+)\*\*/g, '$1')
+    .replace(/\*([^*\n]+)\*/g, '$1')
     .trim();
 }
 
@@ -91,7 +91,58 @@ function classifyRecordType(text, headingPath, inAudit) {
 }
 
 function stableId(sourceFile, sectionPath, ordinal, rawText) {
-  const input = `${sourceFile}\u0000${sectionPath.filter(Boolean).join(' > ')}\u0000${ordinal}\u0000${rawText}`;
+  // Keep identifiers stable across the reader-facing Study Notes rename. The
+  // legacy title remains part of the hash seed only; it is never displayed.
+  const legacyIdentity = (value) => value
+    .replace(/\bStudy Notes\b/g, 'Master Notes')
+    .replace(/\bObservations\b/g, 'Field Guide')
+    .replace(/OBSERVATIONS: LIVE CONVERSATION REFERENCE/g, 'FIELD GUIDE: LIVE CONVERSATION REFERENCE')
+    // Reader-facing labels can evolve without orphaning review state attached
+    // to unchanged records beneath those headings.
+    .replace(/Historical Timeline/g, 'The Chronological Spine')
+    .replace(/Three questions for evaluating historical claims/g, 'The three questions that resolve most disputes')
+    .replace(/A live scholarly question: how big was David's kingdom\?/g, "The one live fight: how big was David's kingdom?")
+    .replace(/The Second Temple period$/g, 'The gap nobody teaches: Second Temple period')
+    .replace(/Constantine and Nicaea — What the Evidence Shows/g, 'Constantine and Nicaea — Get This Right')
+    .replace(/COMMON SKEPTICAL CLAIMS — What the Evidence Supports/g, 'BAD SKEPTIC HISTORY — Stop Using These')
+    .replace(/COMMON APOLOGETIC CLAIMS — What the Evidence Supports/g, 'APOLOGETIC HISTORY — What to Expect and How to Answer')
+    .replace(/Handling Uncertainty in Reading and Conversation/g, 'Losing Gracefully — The Live-Conversation Move')
+    .replace(/Thinkers and Traditions Worth Knowing/g, 'Who Is Actually Worth Engaging')
+    .replace(/Philosophers — major contemporary positions/g, 'Philosophers — the genuinely difficult tier')
+    .replace(/Apologetics — academic and popular approaches/g, 'The apologetics tier — expect these, they are what you will actually meet')
+    .replace(/The genre point is legitimate$/g, 'The genre point is legitimate — concede it')
+    .replace(/A useful interpretive question/g, 'The diagnostic question')
+    .replace(/Principles for Reading and Conversation/g, 'Rules for Engaging Well')
+    .replace(/Source Verification/g, 'Checking Yourself')
+    .replace(/COMMON CLAIMS — CONTEXT AND QUESTIONS/g, 'COMMON CLAIMS & RESPONSES')
+    .replace(/HISTORICAL CASE STUDIES/g, 'HISTORICAL COUNTERS')
+    .replace(/QUESTIONS FOR CONVERSATION/g, 'QUESTIONS TO ASK IN LIVE CONVERSATION')
+    .replace(/Clarifying circular reasoning:/g, 'Exposing circular reasoning:')
+    .replace(/Clarifying the Euthyphro dilemma:/g, 'Exposing the Euthyphro dilemma:')
+    .replace(/Noticing a changed standard:/g, 'Exposing moving goalposts:')
+    .replace(/Understanding fear-based reasoning:/g, 'Exposing the fear trap:')
+    .replace(/CONVERSATION OBSERVATIONS \(ADD AS THEY HAPPEN\)/g, 'FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)')
+    .replace(/COMMON CONVERSATION PATTERNS/g, 'COMMON DEFLECTION PHRASES')
+    .replace(/"DON'T ADD YOUR OWN UNDERSTANDING" — AN INTERPRETIVE TENSION/g, 'THE SELF-DEFEATING ARGUMENT: "DON\'T ADD YOUR OWN UNDERSTANDING"')
+    .replace(/MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES/g, 'MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY')
+    .replace(/EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION/g, 'ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS')
+    .replace(/Pre-Nicene Diversity — Historical Context/g, "Pre-Nicene Diversity — What Believers Usually Don't Know")
+    .replace(/Logical Questions Raised by the Doctrine/g, 'Logical Problems the Doctrine Produces')
+    .replace(/Changing Standards of Evidence/g, 'Meta-Point: The Standard Keeps Shifting')
+    .replace(/WOMEN IN BIBLICAL TEXTS AND INTERPRETATION/g, 'GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS')
+    .replace(/The Theological Tension/g, 'The Theological Trap')
+    .replace(/Deborah and Mary Magdalene in Egalitarian Readings/g, 'The Deborah and Mary Magdalene Counters')
+    .replace(/"JESUS ONLY DID IT FOR US" — IN-GROUP EXCLUSIVITY/g, '"JESUS ONLY DID IT FOR US" — THE IN-GROUP EXCLUSIVITY PROBLEM')
+    .replace(/OT & GOSPEL REFERENCE NOTES/g, 'OT & GOSPEL TALKING POINTS')
+    .replace(/QUICK TIMELINE — DATES FOR READING AND CONVERSATION/g, 'QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION')
+    .replace(/The Second Temple period between the Testaments/g, "The 400-year gap most believers don't know")
+    .replace(/Source gaps — key intervals to remember/g, 'The gaps — the numbers that actually win arguments')
+    .replace(/Where to Look While Reading or in Conversation/g, 'Where to Look When Something Comes Up Mid-Conversation')
+    .replace(/Why this assessment holds — questions for conversation:/g, 'Why this critique holds up — and what to say:')
+    .replace(/Clarifying question:/g, 'Soft:')
+    .replace(/Direct question:/g, 'Sharp:');
+  const identitySection = sectionPath.filter(Boolean).map(legacyIdentity).join(' > ');
+  const input = `${sourceFile}\u0000${identitySection}\u0000${ordinal}\u0000${legacyIdentity(rawText)}`;
   return `rk_${crypto.createHash('sha256').update(input).digest('hex').slice(0, 20)}`;
 }
 
@@ -142,22 +193,22 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
 
   if (sourceFile === 'Bible_Deep_Dive_Master_Notes.md') {
     if (Number.isFinite(major) && major >= 0 && major <= 9) {
-      return reviewRequired('Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable.');
+      return reviewRequired('Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable.');
     }
-    return userDocumentDefault('Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed.');
+    return userDocumentDefault('Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed.');
   }
 
   if (sourceFile === 'Field_Guide_Conversation_Reference.md') {
     if (major === 7) {
-      return userDocumentDefault('Field Guide provenance explicitly states the fieldwork observations at §7 are the user\'s.');
+      return userDocumentDefault('Observations provenance explicitly states the fieldwork observations at §7 are the user\'s.');
     }
     if (major === 8 || major === 19) {
-      return claudeDocumentDefault('Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources.');
+      return claudeDocumentDefault('Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources.');
     }
     if (Number.isFinite(major) && major >= 1 && major <= 17) {
-      return reviewRequired('Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions.');
+      return reviewRequired('Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions.');
     }
-    return reviewRequired('Field Guide provenance does not deterministically assign this section to one speaker.');
+    return reviewRequired('Observations provenance does not deterministically assign this section to one speaker.');
   }
 
   if (sourceFile === 'Glossary.md') {
@@ -213,12 +264,16 @@ export function parseMarkdown({ sourceFile, content }) {
     if (!rawText || /^---+$/.test(rawText)) return;
 
     ordinal += 1;
-    const text = cleanInlineMarkdown(rawText.replace(/⟨(?:YOURS|INFERENCE|DOCUMENTED)(?:\s*—[^⟩]*)?⟩/gi, '').trim());
+    const explicitMarkerAttribution = markerInfo(rawText);
+    const cleanedText = cleanInlineMarkdown(rawText);
+    const text = explicitMarkerAttribution?.attribution_evidence.method === 'multiple_explicit_markers'
+      ? cleanedText
+      : cleanedText.replace(/⟨(?:YOURS|INFERENCE|DOCUMENTED)(?:\s*—[^⟩]*)?⟩/gi, '').trim();
     if (!text) return;
 
     const inAudit = Boolean(currentAuditId);
     const recordType = classifyRecordType(text, headingPath, inAudit);
-    let attribution = markerInfo(rawText);
+    let attribution = explicitMarkerAttribution;
 
     if (!attribution && inAudit) {
       attribution = {
