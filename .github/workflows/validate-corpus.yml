@@ -27,6 +27,7 @@ jobs:
       - name: Check app JavaScript syntax
         run: |
           node --check app/app.js
+          node --check app/source-links.js
           node --check data/normalized/records.js
           node --check data/review/overrides.js
 
