@@ -36,16 +36,19 @@ jobs:
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
 
-      - name: Generate normalized records
+      - name: Generate normalized record chunks
         run: npm run generate-records
 
       - name: Check generated JavaScript syntax
-        run: node --check data/normalized/records.generated.js
+        run: |
+          for file in data/normalized/generated/*.js; do
+            node --check "$file"
+          done
 
       - name: Preserve generated records for private review
         uses: actions/upload-artifact@v4
         with:
           name: normalized-records
-          path: data/normalized/records.generated.js
+          path: data/normalized/generated/
           if-no-files-found: error
           retention-days: 1
