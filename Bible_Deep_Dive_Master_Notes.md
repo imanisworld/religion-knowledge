@@ -18,7 +18,7 @@
 
 > **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.
 >
-> **Scope:** this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the **Observations: Live Conversation Reference**.
+> **Scope:** this document holds findings, textual analysis, and what the reading has established. Quick-reference observations, common claims, contextual notes, and questions live in the **Observations: Live Conversation Reference**.
 
 ## 0. Reading Approach & Stance
 
@@ -66,7 +66,7 @@ Job challenges the idea that suffering proves guilt. God answers with power and 
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** because it's correct — this is the one item in the queue that needed no correction, only better sourcing. Worth noting for calibration: not everything in the original notes was overstated. Recording "holds, no change" is as much the point of the audit process as recording a collapse.
 
-**Debate note:** this is one of your strongest and most portable lines, because it requires no translation dispute and no contested dating — just reading Job 1 in English closely. Ask a believer to point to the verse where Job's Satan rebels, falls, or acts independently of God. There isn't one. The rebellion is a different, much later story grafted onto an earlier one.
+**Reading and conversation note:** Job 1 itself never says that ha-satan rebels, falls, or acts independently of God. That later rebellion story should be distinguished from the role presented in this earlier text.
 
 ---
 
@@ -148,9 +148,9 @@ Worse than the dating error: the original claim implied a consensus that does no
 
 **CORRECTED:** *The Exodus narrative is a composite text assembled over centuries, with decisive shaping somewhere between the 7th century and the Persian period, functioning as origin literature for a community defining itself — not as a report of the events it describes. Which stage did the decisive work is genuinely unsettled, and the two main scholarly schools disagree on method, not merely dates.*
 
-**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The exilic framing is the most emotionally resonant version — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered version is harder to attack and costs an opponent more, because "which layer" is a question they cannot answer either.
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The exilic framing is emotionally resonant — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered account better reflects the evidence and keeps the question of composition layers open.
 
-**Debate note:** the stage you pick changes the argument. Josianic = monarchic state-building propaganda. Exilic = displaced-people identity literature. Persian = negotiated document among rival factions. Use the layered version.
+**Reading and conversation note:** the proposed stage changes the interpretation. Josianic = monarchic state-building literature. Exilic = displaced-people identity literature. Persian = a negotiated document among rival factions. Keep the layered model in view.
 
 #### ⚑ AUDIT — The *eleph* Census Solution
 
@@ -176,7 +176,7 @@ The proposal has a real lineage: W. M. F. Petrie (1931), George Mendenhall (1958
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It converts an obviously impossible number into a plausible one without discarding the text — exactly the shape of a solution adopted for convenience rather than evidence. Same failure mode as the narrowing readings of Leviticus 18:22: a fix that resolves discomfort is not thereby a finding.
 
-**Debate note:** do not use the *eleph* argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.
+**Reading and conversation note:** the *eleph* proposal is a real philological hypothesis but does not resolve the demographic problem. Treat the census numbers as schematic and ask what literary or theological work the large totals perform.
 
 ---
 
@@ -268,7 +268,7 @@ The Hosea metaphor: God as wronged husband, threatening to strip, starve, and ex
 
 Critical to keep straight: most of the 21-proposal disagreement is about **rationale** (semen, status, procreation, boundary, land), not **referent**. "Consensus that homosexuality isn't it" means *not an orientation category* — it does not mean *not male-male sex*.
 
-**Do not argue in debate** that the verse means rape; the two-party death penalty defeats it (Torah punishes rapists alone, Deut 22:25–26). **Do argue** that a blanket ban would be unprecedented in the ANE, that specialists have produced 21 readings with no consensus, and that Milgrom — no liberal — held it binding on Israelites in the land and nobody else. Strongest ground remains the selective-application problem at §1.5 ⟨YOURS — you identified this pattern from the reading before any of the scholarship was brought in⟩: nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.
+**Reading note:** the verse should not be summarized as meaning rape; the two-party death penalty weighs against that reading (Torah punishes rapists alone, Deut 22:25–26). A blanket prohibition would be unprecedented in the ANE, specialists have produced 21 readings with no consensus, and Milgrom held it binding on Israelites in the land and nobody else. The selective-application question at §1.5 remains important ⟨YOURS — you identified this pattern from the reading before any of the scholarship was brought in⟩: nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.
 
 ---
 
@@ -354,9 +354,9 @@ Matthew has ten distinct **formula-quotations** — R.T. France's [EVANGELICAL, 
 
 **CORRECTED:** *Matthew systematically appends editorial fulfillment-citations to pre-existing narrative material, and Hosea 11:1 is the clearest case where the original sense cannot plausibly be predictive. The method is best named typology plus* sensus plenior*, structurally related to but formally distinct from Qumran pesher. "Retrofitted" is directionally accurate but reads as an accusation of dishonesty; the documented reality is a recognized, if contested, first-century Jewish reading practice — the live scholarly question is whether that practice constitutes legitimate interpretation, not whether Matthew engaged in it.*
 
-**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "retrofitted" is punchy and gets the direction of causation right (event first, prophetic reading second) — which is the important part and is correct. The risk is a well-read opponent countering with "that's not fraud, that's typology," which is technically true and can make the whole line look naive if you have not already named the method yourself.
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "retrofitted" captures the sequence (event first, prophetic reading second), but it can obscure the established category of typology. Name the interpretive method directly and then evaluate its limits.
 
-**Debate note:** use Hosea 11:1, not Isaiah 7:14, as your lead example — it is the cleanest case with no serious scholarly dispute about the original sense, and it does not require adjudicating the almah/parthenos translation fight. Name the method yourself ("this is typology — reading Israel's history as a pattern fulfilled in Jesus") before your opponent does; it removes their easiest rebuttal and lets you ask the harder question instead: *if this method can make any past event predictive of any future one, what would falsify it?*
+**Reading and conversation note:** Hosea 11:1 is a clear example because its original sense is not seriously disputed and it avoids the *almah/parthenos* translation question. Name the method directly — typology, reading Israel's history as a pattern fulfilled in Jesus — then ask what limits or could falsify that method.
 
 ---
 
@@ -388,7 +388,7 @@ The trajectory across the Synoptics plus John is a real, frequently observed pat
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "Luke softens Rome" is true but underspecified — it invites the response "Luke is no kinder to Rome than the others," which has some real support (Fitzmyer). The sharper, better-defended claim is the *specific mechanism*: repetition of declared innocence plus an added corroborating authority, which is measurable in the text rather than a general vibe.
 
-**Debate note:** lead with the count — three explicit declarations of innocence in Luke alone, plus Herod. That is a textual fact your opponent cannot dispute. Do not lead with "Rome is let off the hook," which invites a real rebuttal.
+**Reading and conversation note:** begin with the textual observation: Luke gives three explicit declarations of innocence, plus Herod's. Then consider competing explanations for that narrative emphasis, including Christological purpose and the distribution of Roman and Jewish culpability.
 
 ---
 
@@ -422,7 +422,7 @@ Where Christian theology is actually constructed. Paul never met Jesus. His lett
 
 **Methodological caution on stylometry — this cuts against the critical side.** Statistical style analysis is unreliable on corpora this short, and studies disagree with each other. Some analyses find 1 Thessalonians and Philippians — both undisputed — among the most syntactically divergent letters in the corpus, and at least one recent study has challenged Philemon. A method that flags undisputed letters as outliers cannot be treated as decisive when it flags disputed ones.
 
-**The convention-versus-forgery question.** The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use "forgery" outright. [Ehrman's position is recalled, not verified this session — check before deploying.]
+**The convention-versus-forgery question.** The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use "forgery" outright. [Ehrman's position is recalled, not verified this session — check before relying on it.]
 
 **CORRECTED:** *Three tiers. Pastorals: near-consensus pseudonymous among critical scholars, though a broader survey of biblical scholars splits close to even. Colossians and 2 Thessalonians: genuinely disputed, with 2 Thessalonians carrying the stronger internal case against authenticity and Colossians defended by a serious conservative tradition. Ephesians: widely read as dependent on Colossians. Stylometric arguments should be handled with care, since the same methods flag undisputed letters as outliers.*
 
@@ -498,13 +498,13 @@ I flagged this as likely overstated, assuming the *Ioudaioi* = "Judeans" transla
 
 **The strongest counter-case:** scholars generally agree John did not mean "all Jews." Reinhartz observes John uses *Ioudaioi* interchangeably with "Pharisees," sometimes in the same passage, and that for John first-century *Ioudaioi* were not a monolithic undifferentiated group. John repeatedly signals Jesus's own Jewishness — his body is wrapped for burial according to Jewish custom (19:40). Wesley Howard-Brook argues John is calling people **back** to the covenant, not away from it. The intra-Jewish reading — a family argument, read for two millennia by outsiders cheering one side — is a serious position, not apologetics.
 
-**Terminology correction:** the standard scholarly term is **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way "homosexuality" is anachronistic in Leviticus. This matters — using the wrong term invites a correction that lets an opponent dismiss the whole point.
+**Terminology correction:** the standard scholarly term is **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way "homosexuality" is anachronistic in Leviticus. The distinction keeps the historical claim precise.
 
 **CORRECTED:** *John's Gospel contains sharply anti-Jewish rhetoric, of which 8:44 is the extreme case, and its reception history as a resource for Christian anti-Judaism is documented and severe. Leading Jewish scholars defend translating* Ioudaioi *as "Jews" and reject "Judeans" as an erasure. What is contested is (a) whether the polemic is intra-Jewish sectarian rhetoric rather than a hostile out-group construction, and (b) whether Martyn's synagogue-expulsion reconstruction — which the notes above use as the explanation — is historically sound. Reinhartz critiques it.*
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The reception history is genuinely appalling, and the temptation is to read the effect back into the intent. A text can be catastrophic in its consequences without its author having written what later readers made of it. Keep the reception-history claim, which is strong, separate from the authorial-intent claim, which is not.
 
-**Debate note:** this is one of the few places where the strongest version of your argument does **not** need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.
+**Reading and conversation note:** this is one of the few places where the strongest version of your argument does **not** need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.
 
 ---
 
@@ -544,7 +544,7 @@ Note the tense in the current literature: Michael Bird [EVANGELICAL], summarizin
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It is a complete, satisfying mechanism — prophecy fails, theology adapts, institution survives. Explanatory closure feels like evidence. But the delay thesis is a claim about **causation**, and causation is the hardest thing to establish in literary history and the easiest thing to assume.
 
-**Debate note:** the failed-deadline argument is strong on its own and needs no causal story attached. Ask about Mark 13:30 and Matthew 16:28 directly. Do not add "and that's why John was written," because a well-read opponent can cite Ratzinger against you.
+**Reading and conversation note:** examine Mark 13:30 and Matthew 16:28 directly without treating the delay of the parousia as a settled explanation for why John was written; Ratzinger offers a substantial objection to that developmental account.
 
 ---
 
@@ -590,7 +590,7 @@ Acts makes Peter and Paul look like they broadly agree, minor friction smoothed 
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "these two chapters contradict each other" is true but under-specified in the same way the Luke/Rome claim was — it invites "no they don't, here's a harmonization," and there are several available. The Galatians 2:6 vs. Acts 15:19–29 framing is much harder to harmonize away, because it isn't a factual detail (who was there, what order things happened) — it's a first-person claim about the *nature of an authority relationship*, made by one of the two people in that relationship.
 
-**Debate note:** don't open with "Acts and Galatians contradict each other" — you'll get a same-event/different-event debate that goes nowhere useful. Open with Galatians 2:6 directly: Paul says Jerusalem added nothing. Then ask what a formal dietary and sexual-conduct decree, delivered as binding, would count as if not "adding something."
+**Reading and conversation note:** begin with Galatians 2:6, where Paul says Jerusalem added nothing, and compare it with the formal dietary and sexual-conduct decree in Acts. The same-event/different-event question can then be evaluated from the texts rather than assumed at the outset.
 
 ---
 
@@ -616,7 +616,7 @@ Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into 
 
 **Traditional case at full strength:** Colin Hemer [CONSERVATIVE-EVANGELICAL], *The Book of Acts in the Setting of Hellenistic History* (posthumous, 1989), is the most robust assembly of the evidence. Compared against inscriptions, archaeology, and geography, Acts is strikingly accurate on places, provincial boundaries, officials, and — notably — the correct and varying titles of local magistrates, which change from city to city and which Acts gets right. Ben Witherington III [CONSERVATIVE-EVANGELICAL], *The Acts of the Apostles: A Socio-Rhetorical Commentary* (1998), reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius. Craig Keener's multivolume commentary and F.F. Bruce work the same ground; Bruce once floated (half-seriously) that Luke might have taken shorthand notes. Bruce Winter argues Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.
 
-**The distinction that resolves it:** Hemer's evidence establishes accuracy in **incidental external detail** — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. Equally, the critical side should concede the detail accuracy rather than ignore it: whoever wrote Acts knew the eastern Mediterranean well.
+**The distinction that resolves it:** Hemer's evidence establishes accuracy in **incidental external detail** — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. The detail accuracy still deserves full weight: whoever wrote Acts knew the eastern Mediterranean well.
 
 **CORRECTED:** *The speeches in Acts are Lukan compositions. The strongest evidence is internal — a shared kerygmatic structure across different speakers, varying by audience rather than by source. Ancient historiographical convention is context for this, not proof of it, and Thucydides 1.22.1 should not be cited as licence for invention, since Thucydides claims fidelity to the general sense of what was said. Acts is separately and demonstrably accurate on incidental external detail, which is a real datum that does not extend to the speeches.*
 
@@ -636,9 +636,9 @@ This is a man building a case, under oath, for his independence from Jerusalem �
 
 Fourteen years later (2:1), a second visit — this is the material already audited at §9.3/§9.4 against Acts 15. Read alongside that audit: **"those who seemed influential added nothing to me"** (2:6). Then the Antioch incident (2:11–14): Paul says he **opposed Peter to his face**, publicly, because Peter had been eating with Gentiles and then withdrew when men from James arrived, "fearing the circumcision party." Paul calls this hypocrisy and reports confronting the head of the Jerusalem church in front of the whole congregation.
 
-**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. This is Paul's own testimony that Christianity's founding leadership was in open, public dispute over what the movement actually required of a Gentile convert — not a settled question with a clean answer, but a live fight Paul was actively losing ground in and wrote this letter to try to win.
+**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.
 
-### 9.5.2 The theological stakes — and the fault line you need before Romans
+### 9.5.2 The theological stakes — a question to track before Romans
 
 The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.
 
@@ -656,7 +656,7 @@ The circumcision/law controversy in Galatians is not a minor ritual dispute. Pau
 
 **What to do with this** ⟨INFERENCE⟩**:** don't resolve this now. Hold both readings as you go through Galatians 2–3 and into Romans, and watch which one the text supports better as Paul's argument develops — particularly Galatians 3:10–14 (the curse of the law) and Romans 3–4, which is where the traditional reading has its strongest textual ground. The debate matters for more than academic precision: if NPP is right, two thousand years of "Paul vs. legalism" sermons have been fighting a strawman version of Judaism that real practicing Jews in Paul's own century didn't hold — which is itself a significant finding about how doctrine gets built on a mischaracterization of the group being argued against.
 
-**Debate note:** this is not yet debate-ready material — it's a live, genuinely contested scholarly question, and deploying either side as settled fact will be an easy target for anyone who knows the literature. What *is* debate-ready right now: Galatians 1:8–9 and 5:12 as evidence of the ferocity of internal Christian conflict from the very beginning, regardless of which side of the NPP debate is correct.
+**Reading and conversation note:** this is a genuinely contested scholarly question, so neither side should be treated as settled. Galatians 1:8–9 and 5:12 do clearly show the intensity of internal Christian conflict from the movement's early period, regardless of which reading of Paul proves stronger.
 
 ---
 

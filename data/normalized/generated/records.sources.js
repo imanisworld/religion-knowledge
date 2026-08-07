@@ -473,9 +473,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_061abf251a6cd5d1daf4",
-    "text": "The believer's use of it, stated fairly. Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3. Concede that; the theology point is the stronger one anyway.",
-    "raw_text": "**The believer's use of it, stated fairly.** Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3. Concede that; the theology point is the stronger one anyway.",
+    "id": "rk_e2597fc87edcd60436a3",
+    "text": "Its relevance to biblical history, stated fairly. Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3 while leaving the competing theological interpretations visible.",
+    "raw_text": "**Its relevance to biblical history, stated fairly.** Livius notes it directly: <cite index=\"60-1\">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3 while leaving the competing theological interpretations visible.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -665,9 +665,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_66a893688ff08278f221",
-    "text": "Handle with care. If you argue David never existed, this is the object that will be produced, and you will lose. Argue scale, not existence.",
-    "raw_text": "**Handle with care.** If you argue David never existed, this is the object that will be produced, and you will lose. Argue scale, not existence.",
+    "id": "rk_e065489d61bd049adb0d",
+    "text": "What it supports. The inscription weighs strongly against treating David as wholly invented. It supports a dynasty identified with David, while the scale of the biblical kingdom remains a separate question.",
+    "raw_text": "**What it supports.** The inscription weighs strongly against treating David as wholly invented. It supports a dynasty identified with David, while the scale of the biblical kingdom remains a separate question.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -793,9 +793,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2d81dddf1b3767fd4748",
-    "text": "This is the best-corroborated event in the Hebrew Bible.  Concede it immediately and without hedging. Doing so establishes that you follow evidence, which is what makes your other concessions demands credible.",
-    "raw_text": "**This is the best-corroborated event in the Hebrew Bible.** ⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩ Concede it immediately and without hedging. Doing so establishes that you follow evidence, which is what makes your other concessions demands credible.",
+    "id": "rk_a0c0311e415732022655",
+    "text": "This is the best-corroborated event in the Hebrew Bible.  Give that corroboration its full weight while keeping historical agreement separate from theological explanation.",
+    "raw_text": "**This is the best-corroborated event in the Hebrew Bible.** ⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩ Give that corroboration its full weight while keeping historical agreement separate from theological explanation.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -1945,9 +1945,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d347f9ca632ef5e8dfc1",
-    "text": "1. 1 Thessalonians (c. 50 CE) — the earliest Christian document that survives. Note what is absent: no virgin birth, no empty tomb narrative, no biography.\n2. 1 Corinthians 15:3–7 — the pre-Pauline creed. Concede its early date. Note it lists appearances and does not mention an empty tomb.\n3. Galatians 1–2 — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.\n4. Mark 16:1–8 — the original ending.\n5. John 1:1–18 — the prologue, where the high Christology is explicit.",
-    "raw_text": "1. **1 Thessalonians** (c. 50 CE) — the earliest Christian document that survives. Note what is *absent*: no virgin birth, no empty tomb narrative, no biography.\n2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Concede its early date. Note it lists appearances and does not mention an empty tomb.\n3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.\n4. **Mark 16:1–8** — the original ending.\n5. **John 1:1–18** — the prologue, where the high Christology is explicit.",
+    "id": "rk_d0b86fc8b73a464fdf68",
+    "text": "1. 1 Thessalonians (c. 50 CE) — the earliest Christian document that survives. Note what is absent: no virgin birth, no empty tomb narrative, no biography.\n2. 1 Corinthians 15:3–7 — the pre-Pauline creed. Note its early date, that it lists appearances, and that it does not mention an empty tomb.\n3. Galatians 1–2 — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.\n4. Mark 16:1–8 — the original ending.\n5. John 1:1–18 — the prologue, where the high Christology is explicit.",
+    "raw_text": "1. **1 Thessalonians** (c. 50 CE) — the earliest Christian document that survives. Note what is *absent*: no virgin birth, no empty tomb narrative, no biography.\n2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Note its early date, that it lists appearances, and that it does not mention an empty tomb.\n3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.\n4. **Mark 16:1–8** — the original ending.\n5. **John 1:1–18** — the prologue, where the high Christology is explicit.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2078,7 +2078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.1 History for Atheists"
     ],
     "subtopics": [],
@@ -2087,7 +2087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.1 History for Atheists",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.1 History for Atheists",
     "source_reference": "paragraph:66",
     "parent_id": null,
     "related_ids": [],
@@ -2102,15 +2102,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_162dd0e26a3373337e35",
-    "text": "Why it is in this document. Cited approvingly at Historical Framework §9. If you are about to use a historical claim in an argument, check it here first. His work on the Testimonium is a model of how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
-    "raw_text": "**Why it is in this document.** Cited approvingly at Historical Framework §9. If you are about to use a historical claim in an argument, check it here first. His work on the Testimonium is a model of how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
+    "id": "rk_1185c0f4be9f09c93470",
+    "text": "Why it is in this document. Cited approvingly at Historical Framework §9. When a historical claim appears in reading or conversation, check it here first. His work on the Testimonium models how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
+    "raw_text": "**Why it is in this document.** Cited approvingly at Historical Framework §9. When a historical claim appears in reading or conversation, check it here first. His work on the Testimonium models how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.1 History for Atheists"
     ],
     "subtopics": [],
@@ -2119,7 +2119,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.1 History for Atheists",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.1 History for Atheists",
     "source_reference": "paragraph:67",
     "parent_id": null,
     "related_ids": [],
@@ -2142,7 +2142,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.1 History for Atheists"
     ],
     "subtopics": [],
@@ -2151,7 +2151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.1 History for Atheists",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.1 History for Atheists",
     "source_reference": "paragraph:68",
     "parent_id": null,
     "related_ids": [],
@@ -2166,15 +2166,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6d06095a8afdfd0894f1",
-    "text": "Three questions before any source enters an argument:",
-    "raw_text": "Three questions before any source enters an argument:",
+    "id": "rk_330f1e640a85507ecbe3",
+    "text": "Three questions before relying on any source:",
+    "raw_text": "Three questions before relying on any source:",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.2 The standing rule"
     ],
     "subtopics": [],
@@ -2183,7 +2183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.2 The standing rule",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.2 The standing rule",
     "source_reference": "paragraph:69",
     "parent_id": null,
     "related_ids": [],
@@ -2206,7 +2206,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.2 The standing rule"
     ],
     "subtopics": [],
@@ -2215,7 +2215,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.2 The standing rule",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.2 The standing rule",
     "source_reference": "paragraph:70",
     "parent_id": null,
     "related_ids": [],
@@ -2238,7 +2238,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Sources & Primary Texts",
-      "6. Checking Yourself",
+      "6. Source Verification",
       "6.2 The standing rule"
     ],
     "subtopics": [],
@@ -2247,7 +2247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Sources_and_Primary_Texts.md",
-    "source_section": "Sources & Primary Texts > 6. Checking Yourself > 6.2 The standing rule",
+    "source_section": "Sources & Primary Texts > 6. Source Verification > 6.2 The standing rule",
     "source_reference": "paragraph:71",
     "parent_id": null,
     "related_ids": [],

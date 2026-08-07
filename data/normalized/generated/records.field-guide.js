@@ -32,9 +32,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_911fa84f1e693b0bf248",
-    "text": "God / Religion / Morality Debates",
-    "raw_text": "*God / Religion / Morality Debates*",
+    "id": "rk_56a15a8cf777d070912e",
+    "text": "Bible Reading, Religion, Morality, and Conversation",
+    "raw_text": "*Bible Reading, Religion, Morality, and Conversation*",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -144,9 +144,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_36965aebe3013fc03892",
-    "text": "Scope: live-conversation material. Findings and textual analysis live in the Study Notes.",
-    "raw_text": "*Scope: live-conversation material. Findings and textual analysis live in the Study Notes.*",
+    "id": "rk_fb42077c6c498f5b290b",
+    "text": "Scope: a quick-reference companion for Bible reading and conversation. Extended findings and textual analysis live in the Study Notes.",
+    "raw_text": "*Scope: a quick-reference companion for Bible reading and conversation. Extended findings and textual analysis live in the Study Notes.*",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -200,9 +200,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_0bd614df7c53e0ec9f50",
-    "text": "Live field reference for real conversations. Each entry covers: (1) the claim as a believer typically states it, (2) what the claim is doing logically, (3) the contradiction or weakness, (4) response options from soft to sharp, and (5) sources for both sides. Organized by logical move, not topic — because in live conversation people jump. Recognizing the move matters more than knowing the topic.",
-    "raw_text": "Live field reference for real conversations. Each entry covers: (1) the claim as a believer typically states it, (2) what the claim is doing logically, (3) the contradiction or weakness, (4) response options from soft to sharp, and (5) sources for both sides. Organized by logical move, not topic — because in live conversation people jump. Recognizing the move matters more than knowing the topic.",
+    "id": "rk_0462bf1d27b9f14d0bc2",
+    "text": "Reference for Bible reading and thoughtful conversation. Each entry identifies a common claim, explains its logic and context, records relevant strengths or problems, and names sources representing more than one view. It is organized for quick lookup when a passage, doctrine, or historical claim comes up.",
+    "raw_text": "Reference for Bible reading and thoughtful conversation. Each entry identifies a common claim, explains its logic and context, records relevant strengths or problems, and names sources representing more than one view. It is organized for quick lookup when a passage, doctrine, or historical claim comes up.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -324,8 +324,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_b87f937af89c2b60e119",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -355,8 +355,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_6f796f1dd5c04b2f96ef",
-    "text": "•  Soft: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
-    "raw_text": "•  Soft: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
+    "text": "•  Clarifying question: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
+    "raw_text": "•  Clarifying question: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -386,8 +386,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_3c5a38d49634035f734c",
-    "text": "•  Sharp: \"You have described a rule. You have not told me why that description obligates anyone.\"",
-    "raw_text": "•  Sharp: \"You have described a rule. You have not told me why that description obligates anyone.\"",
+    "text": "•  Direct question: \"You have described a rule. You have not told me why that description obligates anyone.\"",
+    "raw_text": "•  Direct question: \"You have described a rule. You have not told me why that description obligates anyone.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -789,8 +789,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_66753fd727a9745db4f4",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -820,8 +820,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_f3dc6ef0b19264967537",
-    "text": "•  Soft: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
-    "raw_text": "•  Soft: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
+    "text": "•  Clarifying question: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
+    "raw_text": "•  Clarifying question: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -851,8 +851,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_99e99b3e4c633fa0da4e",
-    "text": "•  Sharp: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
-    "raw_text": "•  Sharp: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
+    "text": "•  Direct question: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
+    "raw_text": "•  Direct question: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1285,8 +1285,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_a2f8b07219b78c066d67",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1316,8 +1316,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_6a944065df22ca58fa82",
-    "text": "•  Soft: \"If God commanded torturing children — would it be good?\"",
-    "raw_text": "•  Soft: \"If God commanded torturing children — would it be good?\"",
+    "text": "•  Clarifying question: \"If God commanded torturing children — would it be good?\"",
+    "raw_text": "•  Clarifying question: \"If God commanded torturing children — would it be good?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1347,8 +1347,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_f5cad75f99a7e0b78dfb",
-    "text": "•  Sharp: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
-    "raw_text": "•  Sharp: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
+    "text": "•  Direct question: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
+    "raw_text": "•  Direct question: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1998,8 +1998,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_c65c9df9012286e65838",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2029,8 +2029,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_e3a69867eacf9ec30dab",
-    "text": "•  Soft: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
-    "raw_text": "•  Soft: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
+    "text": "•  Clarifying question: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
+    "raw_text": "•  Clarifying question: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2060,8 +2060,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_39652aa4dcecd00dbab7",
-    "text": "•  Sharp: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
-    "raw_text": "•  Sharp: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
+    "text": "•  Direct question: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
+    "raw_text": "•  Direct question: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2221,7 +2221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2230,7 +2230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:73",
     "parent_id": null,
     "related_ids": [],
@@ -2252,7 +2252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2261,7 +2261,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:74",
     "parent_id": null,
     "related_ids": [],
@@ -2283,7 +2283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2292,7 +2292,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:75",
     "parent_id": null,
     "related_ids": [],
@@ -2314,7 +2314,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2323,7 +2323,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:76",
     "parent_id": null,
     "related_ids": [],
@@ -2345,7 +2345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2354,7 +2354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:77",
     "parent_id": null,
     "related_ids": [],
@@ -2370,13 +2370,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_0ca998774d8c973b6e53",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2385,7 +2385,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:78",
     "parent_id": null,
     "related_ids": [],
@@ -2401,13 +2401,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_a17d0123e18cfc057b97",
-    "text": "•  Soft: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
-    "raw_text": "•  Soft: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
+    "text": "•  Clarifying question: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
+    "raw_text": "•  Clarifying question: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2416,7 +2416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:79",
     "parent_id": null,
     "related_ids": [],
@@ -2432,13 +2432,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_22c648539fd6e0379cfa",
-    "text": "•  Sharp: \"How did cultures with no Bible access your objective morality independently?\"",
-    "raw_text": "•  Sharp: \"How did cultures with no Bible access your objective morality independently?\"",
+    "text": "•  Direct question: \"How did cultures with no Bible access your objective morality independently?\"",
+    "raw_text": "•  Direct question: \"How did cultures with no Bible access your objective morality independently?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2447,7 +2447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:80",
     "parent_id": null,
     "related_ids": [],
@@ -2469,7 +2469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2478,7 +2478,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:81",
     "parent_id": null,
     "related_ids": [],
@@ -2500,7 +2500,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2509,7 +2509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
@@ -2531,7 +2531,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2540,7 +2540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
@@ -2562,7 +2562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2571,7 +2571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:84",
     "parent_id": null,
     "related_ids": [],
@@ -2593,7 +2593,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2602,7 +2602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:85",
     "parent_id": null,
     "related_ids": [],
@@ -2624,7 +2624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2633,7 +2633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:86",
     "parent_id": null,
     "related_ids": [],
@@ -2655,7 +2655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.1 \"Without God there is no objective morality\""
     ],
     "subtopics": [],
@@ -2664,7 +2664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.1 \"Without God there is no objective morality\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.1 \"Without God there is no objective morality\"",
     "source_reference": "paragraph:87",
     "parent_id": null,
     "related_ids": [],
@@ -2686,7 +2686,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2695,7 +2695,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:88",
     "parent_id": null,
     "related_ids": [],
@@ -2717,7 +2717,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2726,7 +2726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:89",
     "parent_id": null,
     "related_ids": [],
@@ -2748,7 +2748,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2757,7 +2757,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
@@ -2779,7 +2779,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2788,7 +2788,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
@@ -2810,7 +2810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2819,7 +2819,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
@@ -2835,13 +2835,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_24778d9a1c4e3ebf5a55",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2850,7 +2850,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
@@ -2866,13 +2866,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_74502f82b179e86d7d95",
-    "text": "•  Soft: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
-    "raw_text": "•  Soft: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
+    "text": "•  Clarifying question: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
+    "raw_text": "•  Clarifying question: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2881,7 +2881,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:94",
     "parent_id": null,
     "related_ids": [],
@@ -2897,13 +2897,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_3a2544b863e9fc4539a4",
-    "text": "•  Sharp: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
-    "raw_text": "•  Sharp: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
+    "text": "•  Direct question: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
+    "raw_text": "•  Direct question: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2912,7 +2912,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:95",
     "parent_id": null,
     "related_ids": [],
@@ -2934,7 +2934,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2943,7 +2943,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:96",
     "parent_id": null,
     "related_ids": [],
@@ -2965,7 +2965,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -2974,7 +2974,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:97",
     "parent_id": null,
     "related_ids": [],
@@ -2996,7 +2996,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.2 \"Morality is metaphysical, therefore it requires God\""
     ],
     "subtopics": [],
@@ -3005,7 +3005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.2 \"Morality is metaphysical, therefore it requires God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.2 \"Morality is metaphysical, therefore it requires God\"",
     "source_reference": "paragraph:98",
     "parent_id": null,
     "related_ids": [],
@@ -3027,7 +3027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3036,7 +3036,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:99",
     "parent_id": null,
     "related_ids": [],
@@ -3058,7 +3058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3067,7 +3067,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:100",
     "parent_id": null,
     "related_ids": [],
@@ -3089,7 +3089,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3098,7 +3098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:101",
     "parent_id": null,
     "related_ids": [],
@@ -3120,7 +3120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3129,7 +3129,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:102",
     "parent_id": null,
     "related_ids": [],
@@ -3151,7 +3151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3160,7 +3160,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:103",
     "parent_id": null,
     "related_ids": [],
@@ -3182,7 +3182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3191,7 +3191,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:104",
     "parent_id": null,
     "related_ids": [],
@@ -3207,13 +3207,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_90ca3a0c111d60c92a36",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3222,7 +3222,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:105",
     "parent_id": null,
     "related_ids": [],
@@ -3238,13 +3238,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_5c0c026202aeb1e882a8",
-    "text": "•  Soft: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
-    "raw_text": "•  Soft: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
+    "text": "•  Clarifying question: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
+    "raw_text": "•  Clarifying question: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3253,7 +3253,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:106",
     "parent_id": null,
     "related_ids": [],
@@ -3269,13 +3269,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_5c39c8cd3fcaed4390cc",
-    "text": "•  Sharp: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
-    "raw_text": "•  Sharp: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
+    "text": "•  Direct question: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
+    "raw_text": "•  Direct question: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3284,7 +3284,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:107",
     "parent_id": null,
     "related_ids": [],
@@ -3306,7 +3306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3315,7 +3315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:108",
     "parent_id": null,
     "related_ids": [],
@@ -3337,7 +3337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3346,7 +3346,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:109",
     "parent_id": null,
     "related_ids": [],
@@ -3368,7 +3368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3377,7 +3377,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:110",
     "parent_id": null,
     "related_ids": [],
@@ -3399,7 +3399,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3408,7 +3408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:111",
     "parent_id": null,
     "related_ids": [],
@@ -3430,7 +3430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3439,7 +3439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:112",
     "parent_id": null,
     "related_ids": [],
@@ -3461,7 +3461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.3 \"The Bible is the word of God\""
     ],
     "subtopics": [],
@@ -3470,7 +3470,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.3 \"The Bible is the word of God\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.3 \"The Bible is the word of God\"",
     "source_reference": "paragraph:113",
     "parent_id": null,
     "related_ids": [],
@@ -3492,7 +3492,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3501,7 +3501,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:114",
     "parent_id": null,
     "related_ids": [],
@@ -3523,7 +3523,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3532,7 +3532,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:115",
     "parent_id": null,
     "related_ids": [],
@@ -3554,7 +3554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3563,7 +3563,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:116",
     "parent_id": null,
     "related_ids": [],
@@ -3585,7 +3585,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3594,7 +3594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:117",
     "parent_id": null,
     "related_ids": [],
@@ -3616,7 +3616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3625,7 +3625,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:118",
     "parent_id": null,
     "related_ids": [],
@@ -3641,13 +3641,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_42946f5fb2a72441866e",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3656,7 +3656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:119",
     "parent_id": null,
     "related_ids": [],
@@ -3672,13 +3672,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_59f49378bfb250b0d351",
-    "text": "•  Soft: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
-    "raw_text": "•  Soft: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
+    "text": "•  Clarifying question: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
+    "raw_text": "•  Clarifying question: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3687,7 +3687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:120",
     "parent_id": null,
     "related_ids": [],
@@ -3703,13 +3703,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_4e62772b6c44cacbae0e",
-    "text": "•  Sharp: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
-    "raw_text": "•  Sharp: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
+    "text": "•  Direct question: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
+    "raw_text": "•  Direct question: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3718,7 +3718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:121",
     "parent_id": null,
     "related_ids": [],
@@ -3740,7 +3740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3749,7 +3749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:122",
     "parent_id": null,
     "related_ids": [],
@@ -3771,7 +3771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3780,7 +3780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:123",
     "parent_id": null,
     "related_ids": [],
@@ -3802,7 +3802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3811,7 +3811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:124",
     "parent_id": null,
     "related_ids": [],
@@ -3833,7 +3833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "2. COMMON CLAIMS & RESPONSES",
+      "2. COMMON CLAIMS — CONTEXT AND QUESTIONS",
       "2.4 \"People without belief have no reason to be moral\""
     ],
     "subtopics": [],
@@ -3842,7 +3842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "2. COMMON CLAIMS & RESPONSES > 2.4 \"People without belief have no reason to be moral\"",
+    "source_section": "2. COMMON CLAIMS — CONTEXT AND QUESTIONS > 2.4 \"People without belief have no reason to be moral\"",
     "source_reference": "paragraph:125",
     "parent_id": null,
     "related_ids": [],
@@ -3864,7 +3864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)"
     ],
     "subtopics": [],
@@ -3873,7 +3873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291)",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291)",
     "source_reference": "paragraph:126",
     "parent_id": null,
     "related_ids": [],
@@ -3895,7 +3895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -3905,9 +3905,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:127",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3920,26 +3920,26 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b8cce8bf9e1d172f90d7",
-    "text": "STATUS: Core argument holds. Two details need correcting before use.",
-    "raw_text": "**STATUS: Core argument holds. Two details need correcting before use.**",
+    "id": "rk_e9c53f76e6ff96d60a21",
+    "text": "STATUS: Core assessment holds. Two details need correction.",
+    "raw_text": "**STATUS: Core assessment holds. Two details need correction.**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
     "subtopics": [],
     "record_type": "AUDIT_STATUS",
-    "status": "Core argument holds. Two details need correcting before use.",
+    "status": "Core assessment holds. Two details need correction.",
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:128",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3952,14 +3952,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7f2d8503af3909f86fa2",
-    "text": "1. Drop the Children's Crusade. It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, Journal of Medieval History 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that pueri in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes the counter-case fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Either way it is a contested episode resting on thin, late, embellished sources. You have the Fourth Crusade, which is documented and indefensible. Use that and leave this one alone.",
-    "raw_text": "**1. Drop the Children's Crusade.** It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, *Journal of Medieval History* 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that *pueri* in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes the counter-case fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Either way it is a contested episode resting on thin, late, embellished sources. **You have the Fourth Crusade, which is documented and indefensible. Use that and leave this one alone.**",
+    "id": "rk_7e9bd040730b3abbb2c7",
+    "text": "1. Children's Crusade correction. It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, Journal of Medieval History 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that pueri in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
+    "raw_text": "**1. Children's Crusade correction.** It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, *Journal of Medieval History* 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that *pueri* in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -3969,9 +3969,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:129",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3984,14 +3984,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_8cdbaf22fda0dc9c28b9",
-    "text": "2. Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, and Rodney Stark's God's Battalions is already listed below as the apologetic source — expect it. The Fourth Crusade, which sacked Christian Constantinople, has no defensive reading at all. Concede the first point and press the second; conceding costs nothing and makes the rest land harder.",
-    "raw_text": "**2. Do not accept or reject \"the Crusades were defensive\" wholesale.** The First Crusade has a partly defensible context in Seljuk expansion, and Rodney Stark's *God's Battalions* is already listed below as the apologetic source — expect it. The Fourth Crusade, which sacked Christian Constantinople, has no defensive reading at all. Concede the first point and press the second; conceding costs nothing and makes the rest land harder.",
+    "id": "rk_ca3feba4e4f64bd5caa6",
+    "text": "2. Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. Keep the episodes and their contexts distinct.",
+    "raw_text": "**2. Do not accept or reject \"the Crusades were defensive\" wholesale.** The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. Keep the episodes and their contexts distinct.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4001,9 +4001,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:130",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4016,14 +4016,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3d5363cd7c9f1d9d79dd",
-    "text": "What is untouched by any of this : the theological mechanism. Crusaders believed they had direct divine command. That is the strongest form of moral grounding the believer's own framework allows, and it authorised mass killing. See History §10 for the apologetic version you will meet.",
-    "raw_text": "**What is untouched by any of this** ⟨INFERENCE⟩**:** the theological mechanism. Crusaders believed they had direct divine command. That is the strongest form of moral grounding the believer's own framework allows, and it authorised mass killing. See History §10 for the apologetic version you will meet.",
+    "id": "rk_3c40e8dec32dd795f480",
+    "text": "What is untouched by any of this : the theological mechanism. Crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
+    "raw_text": "**What is untouched by any of this** ⟨INFERENCE⟩**:** the theological mechanism. Crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4033,9 +4033,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:131",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4048,14 +4048,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_173054275f217a5201b3",
-    "text": "Theological mechanism: \"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning weaponized into mass killing.",
-    "raw_text": "**Theological mechanism: **\"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning weaponized into mass killing.",
+    "id": "rk_54e0bedd34918790c686",
+    "text": "Theological mechanism: \"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning used to authorize mass killing.",
+    "raw_text": "**Theological mechanism: **\"God wills it\" (Deus Vult) — the is-ought fallacy and circular reasoning used to authorize mass killing.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4065,9 +4065,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:132",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4080,14 +4080,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_971a0e10e6cb961d3bc6",
-    "text": "Why it matters: The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. Either God commanded evil, or humans used God to justify what they already wanted. Both options destroy the claim that divine grounding produces reliable moral outcomes.",
-    "raw_text": "**Why it matters: **The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. Either God commanded evil, or humans used God to justify what they already wanted. Both options destroy the claim that divine grounding produces reliable moral outcomes.",
+    "id": "rk_edee6d954354e3a6b725",
+    "text": "Why it matters: The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. This history raises a serious question about whether claims of divine grounding reliably produce moral outcomes.",
+    "raw_text": "**Why it matters: **The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. This history raises a serious question about whether claims of divine grounding reliably produce moral outcomes.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4097,9 +4097,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:133",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4113,13 +4113,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_1bd36c99f3e8516b88f7",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4129,9 +4129,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:134",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4145,13 +4145,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_bd71aa506d06d41a205e",
-    "text": "•  Soft: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
-    "raw_text": "•  Soft: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
+    "text": "•  Clarifying question: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
+    "raw_text": "•  Clarifying question: \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4161,9 +4161,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:135",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4177,13 +4177,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_4462c4ed2b2f86cf36fa",
-    "text": "•  Sharp: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
-    "raw_text": "•  Sharp: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
+    "text": "•  Direct question: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
+    "raw_text": "•  Direct question: \"The same Bible grounded pro-slavery theology for centuries. Same text, same God.\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4193,9 +4193,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:136",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4215,7 +4215,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4225,9 +4225,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:137",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4247,7 +4247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4257,9 +4257,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:138",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4279,7 +4279,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4289,9 +4289,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:139",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4311,7 +4311,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4321,9 +4321,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:140",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4343,7 +4343,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4353,9 +4353,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:141",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4375,7 +4375,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.1 The Crusades (1095-1291)",
       "⚑ AUDIT — Crusades Framing"
     ],
@@ -4385,9 +4385,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:142",
-    "parent_id": "audit_91c86b9637f95d0e160c",
+    "parent_id": "audit_5ec98c45f17a8458c10d",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4407,7 +4407,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4416,7 +4416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:143",
     "parent_id": null,
     "related_ids": [],
@@ -4438,7 +4438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4447,7 +4447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:144",
     "parent_id": null,
     "related_ids": [],
@@ -4469,7 +4469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4478,7 +4478,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:145",
     "parent_id": null,
     "related_ids": [],
@@ -4494,13 +4494,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_e9c0dfa31d065304496e",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4509,7 +4509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:146",
     "parent_id": null,
     "related_ids": [],
@@ -4525,13 +4525,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_87d5641fc56a67253b90",
-    "text": "•  Soft: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
-    "raw_text": "•  Soft: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
+    "text": "•  Clarifying question: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
+    "raw_text": "•  Clarifying question: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4540,7 +4540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:147",
     "parent_id": null,
     "related_ids": [],
@@ -4556,13 +4556,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_11130b7cfe926ad6656f",
-    "text": "•  Sharp: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
-    "raw_text": "•  Sharp: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
+    "text": "•  Direct question: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
+    "raw_text": "•  Direct question: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4571,7 +4571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:148",
     "parent_id": null,
     "related_ids": [],
@@ -4593,7 +4593,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4602,7 +4602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:149",
     "parent_id": null,
     "related_ids": [],
@@ -4624,7 +4624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4633,7 +4633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:150",
     "parent_id": null,
     "related_ids": [],
@@ -4655,7 +4655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "3. HISTORICAL COUNTERS",
+      "3. HISTORICAL CASE STUDIES",
       "3.2 Biblical Slavery"
     ],
     "subtopics": [],
@@ -4664,7 +4664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "3. HISTORICAL COUNTERS > 3.2 Biblical Slavery",
+    "source_section": "3. HISTORICAL CASE STUDIES > 3.2 Biblical Slavery",
     "source_reference": "paragraph:151",
     "parent_id": null,
     "related_ids": [],
@@ -4934,9 +4934,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_228f567137c25681a8d7",
-    "text": "REBUILT VERSION — use this instead.  Every prepared bias humans have is toward immediate, physically present, evolutionarily ancient threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught. That claim is true, it is not defeated by the counterexample that sinks the two-fears version, and it reaches the same conclusion.",
-    "raw_text": "**REBUILT VERSION — use this instead.** ⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩ Every prepared bias humans have is toward **immediate, physically present, evolutionarily ancient** threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught. That claim is true, it is not defeated by the counterexample that sinks the two-fears version, and it reaches the same conclusion.",
+    "id": "rk_97597bbf1715b65570c9",
+    "text": "REBUILT VERSION.  Every prepared bias humans have is toward immediate, physically present, evolutionarily ancient threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.",
+    "raw_text": "**REBUILT VERSION.** ⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩ Every prepared bias humans have is toward **immediate, physically present, evolutionarily ancient** threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -4966,9 +4966,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_84b1d17c96b890112513",
-    "text": "Replacement lines for live use:",
-    "raw_text": "**Replacement lines for live use:**",
+    "id": "rk_cd6dff97fd01879f0965",
+    "text": "Questions and observations for conversation:",
+    "raw_text": "**Questions and observations for conversation:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5158,9 +5158,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_64bc09da0ef5dc559112",
-    "text": "Implication for the debate:",
-    "raw_text": "**Implication for the debate:**",
+    "id": "rk_7bc83ef449271221b3ce",
+    "text": "Interpretive implication:",
+    "raw_text": "**Interpretive implication:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5190,9 +5190,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b3a47a7062c1425963c2",
-    "text": "•  Fear of divine punishment is learned fear — culturally installed by the same religion that offers itself as the solution. That is the structure of a trap, not a foundation.",
-    "raw_text": "•  Fear of divine punishment is learned fear — culturally installed by the same religion that offers itself as the solution. That is the structure of a trap, not a foundation.",
+    "id": "rk_41e59cc9ad918988d06b",
+    "text": "•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.",
+    "raw_text": "•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5223,8 +5223,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_5bfcf972316abffb2f7b",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -6263,8 +6263,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.1 Exposing circular reasoning:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.1 Clarifying circular reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6272,7 +6272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.1 Exposing circular reasoning:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.1 Clarifying circular reasoning:",
     "source_reference": "paragraph:202",
     "parent_id": null,
     "related_ids": [],
@@ -6294,8 +6294,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.1 Exposing circular reasoning:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.1 Clarifying circular reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6303,7 +6303,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.1 Exposing circular reasoning:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.1 Clarifying circular reasoning:",
     "source_reference": "paragraph:203",
     "parent_id": null,
     "related_ids": [],
@@ -6325,8 +6325,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.2 Exposing the Euthyphro dilemma:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.2 Clarifying the Euthyphro dilemma:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6334,7 +6334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.2 Exposing the Euthyphro dilemma:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.2 Clarifying the Euthyphro dilemma:",
     "source_reference": "paragraph:204",
     "parent_id": null,
     "related_ids": [],
@@ -6356,8 +6356,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.2 Exposing the Euthyphro dilemma:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.2 Clarifying the Euthyphro dilemma:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6365,7 +6365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.2 Exposing the Euthyphro dilemma:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.2 Clarifying the Euthyphro dilemma:",
     "source_reference": "paragraph:205",
     "parent_id": null,
     "related_ids": [],
@@ -6387,8 +6387,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.3 Exposing moving goalposts:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.3 Noticing a changed standard:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6396,7 +6396,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.3 Exposing moving goalposts:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.3 Noticing a changed standard:",
     "source_reference": "paragraph:206",
     "parent_id": null,
     "related_ids": [],
@@ -6418,8 +6418,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.4 Exposing the fear trap:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.4 Understanding fear-based reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6427,7 +6427,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.4 Exposing the fear trap:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.4 Understanding fear-based reasoning:",
     "source_reference": "paragraph:207",
     "parent_id": null,
     "related_ids": [],
@@ -6449,8 +6449,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
-      "6.4 Exposing the fear trap:"
+      "6. QUESTIONS FOR CONVERSATION",
+      "6.4 Understanding fear-based reasoning:"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -6458,7 +6458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.4 Exposing the fear trap:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.4 Understanding fear-based reasoning:",
     "source_reference": "paragraph:208",
     "parent_id": null,
     "related_ids": [],
@@ -6480,7 +6480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.5 On the Gospels:"
     ],
     "subtopics": [],
@@ -6489,7 +6489,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.5 On the Gospels:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.5 On the Gospels:",
     "source_reference": "paragraph:209",
     "parent_id": null,
     "related_ids": [],
@@ -6511,7 +6511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.5 On the Gospels:"
     ],
     "subtopics": [],
@@ -6520,7 +6520,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.5 On the Gospels:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.5 On the Gospels:",
     "source_reference": "paragraph:210",
     "parent_id": null,
     "related_ids": [],
@@ -6542,7 +6542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.5 On the Gospels:"
     ],
     "subtopics": [],
@@ -6551,7 +6551,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.5 On the Gospels:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.5 On the Gospels:",
     "source_reference": "paragraph:211",
     "parent_id": null,
     "related_ids": [],
@@ -6573,7 +6573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.6 On historical evidence:"
     ],
     "subtopics": [],
@@ -6582,7 +6582,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.6 On historical evidence:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.6 On historical evidence:",
     "source_reference": "paragraph:212",
     "parent_id": null,
     "related_ids": [],
@@ -6604,7 +6604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "6. QUESTIONS TO ASK IN LIVE CONVERSATION",
+      "6. QUESTIONS FOR CONVERSATION",
       "6.6 On historical evidence:"
     ],
     "subtopics": [],
@@ -6613,7 +6613,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "6. QUESTIONS TO ASK IN LIVE CONVERSATION > 6.6 On historical evidence:",
+    "source_section": "6. QUESTIONS FOR CONVERSATION > 6.6 On historical evidence:",
     "source_reference": "paragraph:213",
     "parent_id": null,
     "related_ids": [],
@@ -6635,7 +6635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)",
+      "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN)",
       "Observation 1 — Jumping claims, no fixed position"
     ],
     "subtopics": [],
@@ -6644,7 +6644,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN) > Observation 1 — Jumping claims, no fixed position",
+    "source_section": "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN) > Observation 1 — Jumping claims, no fixed position",
     "source_reference": "paragraph:214",
     "parent_id": null,
     "related_ids": [],
@@ -6666,7 +6666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)",
+      "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN)",
       "Observation 2 — Low textual literacy"
     ],
     "subtopics": [],
@@ -6675,7 +6675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN) > Observation 2 — Low textual literacy",
+    "source_section": "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN) > Observation 2 — Low textual literacy",
     "source_reference": "paragraph:215",
     "parent_id": null,
     "related_ids": [],
@@ -6697,7 +6697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN)",
+      "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN)",
       "Observation 3 — Metaphysical leap"
     ],
     "subtopics": [],
@@ -6706,7 +6706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "7. FIELDWORK OBSERVATIONS (LIVE — ADD AS THEY HAPPEN) > Observation 3 — Metaphysical leap",
+    "source_section": "7. CONVERSATION OBSERVATIONS (ADD AS THEY HAPPEN) > Observation 3 — Metaphysical leap",
     "source_reference": "paragraph:216",
     "parent_id": null,
     "related_ids": [],
@@ -6728,7 +6728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6737,7 +6737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:217",
     "parent_id": null,
     "related_ids": [],
@@ -6759,7 +6759,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6768,7 +6768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:218",
     "parent_id": null,
     "related_ids": [],
@@ -6790,7 +6790,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6799,7 +6799,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:219",
     "parent_id": null,
     "related_ids": [],
@@ -6815,13 +6815,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_235d483a3b39690397a7",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6830,7 +6830,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:220",
     "parent_id": null,
     "related_ids": [],
@@ -6846,13 +6846,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_ae89394be2cfc8e14b04",
-    "text": "•  Soft: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
-    "raw_text": "•  Soft: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
+    "text": "•  Clarifying question: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
+    "raw_text": "•  Clarifying question: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6861,7 +6861,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:221",
     "parent_id": null,
     "related_ids": [],
@@ -6877,13 +6877,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_faf8416b416343588e73",
-    "text": "•  Sharp: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
-    "raw_text": "•  Sharp: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
+    "text": "•  Direct question: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
+    "raw_text": "•  Direct question: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6892,7 +6892,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:222",
     "parent_id": null,
     "related_ids": [],
@@ -6914,7 +6914,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.1 \"People are just scared of the truth\""
     ],
     "subtopics": [],
@@ -6923,7 +6923,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.1 \"People are just scared of the truth\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.1 \"People are just scared of the truth\"",
     "source_reference": "paragraph:223",
     "parent_id": null,
     "related_ids": [],
@@ -6945,7 +6945,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -6954,7 +6954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:224",
     "parent_id": null,
     "related_ids": [],
@@ -6976,7 +6976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -6985,7 +6985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:225",
     "parent_id": null,
     "related_ids": [],
@@ -7007,7 +7007,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7016,7 +7016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:226",
     "parent_id": null,
     "related_ids": [],
@@ -7038,7 +7038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7047,7 +7047,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:227",
     "parent_id": null,
     "related_ids": [],
@@ -7069,7 +7069,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7078,7 +7078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:228",
     "parent_id": null,
     "related_ids": [],
@@ -7100,7 +7100,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7109,7 +7109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:229",
     "parent_id": null,
     "related_ids": [],
@@ -7131,7 +7131,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7140,7 +7140,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:230",
     "parent_id": null,
     "related_ids": [],
@@ -7156,13 +7156,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_cb59a362a75e1c598230",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7171,7 +7171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:231",
     "parent_id": null,
     "related_ids": [],
@@ -7187,13 +7187,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_7154de25eca2679735da",
-    "text": "•  Soft: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
-    "raw_text": "•  Soft: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
+    "text": "•  Clarifying question: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
+    "raw_text": "•  Clarifying question: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7202,7 +7202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:232",
     "parent_id": null,
     "related_ids": [],
@@ -7218,13 +7218,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_36682bb239979f8cc165",
-    "text": "•  Sharp: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
-    "raw_text": "•  Sharp: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
+    "text": "•  Direct question: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
+    "raw_text": "•  Direct question: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7233,7 +7233,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:233",
     "parent_id": null,
     "related_ids": [],
@@ -7255,7 +7255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7264,7 +7264,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:234",
     "parent_id": null,
     "related_ids": [],
@@ -7286,7 +7286,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7295,7 +7295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:235",
     "parent_id": null,
     "related_ids": [],
@@ -7317,7 +7317,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7326,7 +7326,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:236",
     "parent_id": null,
     "related_ids": [],
@@ -7348,7 +7348,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7357,7 +7357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:237",
     "parent_id": null,
     "related_ids": [],
@@ -7379,7 +7379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7388,7 +7388,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:238",
     "parent_id": null,
     "related_ids": [],
@@ -7410,7 +7410,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.2 \"Burning in hell\""
     ],
     "subtopics": [],
@@ -7419,7 +7419,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.2 \"Burning in hell\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.2 \"Burning in hell\"",
     "source_reference": "paragraph:239",
     "parent_id": null,
     "related_ids": [],
@@ -7441,7 +7441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7450,7 +7450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:240",
     "parent_id": null,
     "related_ids": [],
@@ -7472,7 +7472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7481,7 +7481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:241",
     "parent_id": null,
     "related_ids": [],
@@ -7503,7 +7503,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7512,7 +7512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:242",
     "parent_id": null,
     "related_ids": [],
@@ -7534,7 +7534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7543,7 +7543,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:243",
     "parent_id": null,
     "related_ids": [],
@@ -7565,7 +7565,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7574,7 +7574,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:244",
     "parent_id": null,
     "related_ids": [],
@@ -7596,7 +7596,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7605,7 +7605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:245",
     "parent_id": null,
     "related_ids": [],
@@ -7627,7 +7627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7636,7 +7636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:246",
     "parent_id": null,
     "related_ids": [],
@@ -7652,13 +7652,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_46b43ed7a08debb4c7a1",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7667,7 +7667,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:247",
     "parent_id": null,
     "related_ids": [],
@@ -7683,13 +7683,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_1d9990630d93e1b5742c",
-    "text": "•  Soft: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
-    "raw_text": "•  Soft: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
+    "text": "•  Clarifying question: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
+    "raw_text": "•  Clarifying question: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7698,7 +7698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:248",
     "parent_id": null,
     "related_ids": [],
@@ -7714,13 +7714,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_7ed5fd4e69cc5965c1cf",
-    "text": "•  Sharp: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
-    "raw_text": "•  Sharp: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
+    "text": "•  Direct question: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
+    "raw_text": "•  Direct question: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7729,7 +7729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:249",
     "parent_id": null,
     "related_ids": [],
@@ -7751,7 +7751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7760,7 +7760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:250",
     "parent_id": null,
     "related_ids": [],
@@ -7782,7 +7782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7791,7 +7791,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:251",
     "parent_id": null,
     "related_ids": [],
@@ -7813,7 +7813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7822,7 +7822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:252",
     "parent_id": null,
     "related_ids": [],
@@ -7844,7 +7844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7853,7 +7853,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:253",
     "parent_id": null,
     "related_ids": [],
@@ -7875,7 +7875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7884,7 +7884,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:254",
     "parent_id": null,
     "related_ids": [],
@@ -7906,7 +7906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7915,7 +7915,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:255",
     "parent_id": null,
     "related_ids": [],
@@ -7937,7 +7937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.3 \"God doesn't want robots\" (Free Will Argument)"
     ],
     "subtopics": [],
@@ -7946,7 +7946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.3 \"God doesn't want robots\" (Free Will Argument)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.3 \"God doesn't want robots\" (Free Will Argument)",
     "source_reference": "paragraph:256",
     "parent_id": null,
     "related_ids": [],
@@ -7968,7 +7968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -7977,7 +7977,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:257",
     "parent_id": null,
     "related_ids": [],
@@ -7999,7 +7999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8008,7 +8008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:258",
     "parent_id": null,
     "related_ids": [],
@@ -8030,7 +8030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8039,7 +8039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:259",
     "parent_id": null,
     "related_ids": [],
@@ -8061,7 +8061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8070,7 +8070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:260",
     "parent_id": null,
     "related_ids": [],
@@ -8092,7 +8092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8101,7 +8101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:261",
     "parent_id": null,
     "related_ids": [],
@@ -8123,7 +8123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8132,7 +8132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:262",
     "parent_id": null,
     "related_ids": [],
@@ -8154,7 +8154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8163,7 +8163,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:263",
     "parent_id": null,
     "related_ids": [],
@@ -8179,13 +8179,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_179aaf367c72f89163f2",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8194,7 +8194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:264",
     "parent_id": null,
     "related_ids": [],
@@ -8210,13 +8210,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_e0b13f01948d7b51a499",
-    "text": "•  Soft: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
-    "raw_text": "•  Soft: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
+    "text": "•  Clarifying question: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
+    "raw_text": "•  Clarifying question: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8225,7 +8225,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:265",
     "parent_id": null,
     "related_ids": [],
@@ -8241,13 +8241,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_6b3fc067412ba2b6ae40",
-    "text": "•  Sharp: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
-    "raw_text": "•  Sharp: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
+    "text": "•  Direct question: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
+    "raw_text": "•  Direct question: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8256,7 +8256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:266",
     "parent_id": null,
     "related_ids": [],
@@ -8278,7 +8278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8287,7 +8287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:267",
     "parent_id": null,
     "related_ids": [],
@@ -8309,7 +8309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8318,7 +8318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:268",
     "parent_id": null,
     "related_ids": [],
@@ -8340,7 +8340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8349,7 +8349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:269",
     "parent_id": null,
     "related_ids": [],
@@ -8371,7 +8371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8380,7 +8380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:270",
     "parent_id": null,
     "related_ids": [],
@@ -8402,7 +8402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8411,7 +8411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:271",
     "parent_id": null,
     "related_ids": [],
@@ -8433,7 +8433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8442,7 +8442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:272",
     "parent_id": null,
     "related_ids": [],
@@ -8464,7 +8464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8473,7 +8473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:273",
     "parent_id": null,
     "related_ids": [],
@@ -8495,7 +8495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.4 \"God is outside of time\""
     ],
     "subtopics": [],
@@ -8504,7 +8504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.4 \"God is outside of time\"",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.4 \"God is outside of time\"",
     "source_reference": "paragraph:274",
     "parent_id": null,
     "related_ids": [],
@@ -8526,7 +8526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8535,7 +8535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:275",
     "parent_id": null,
     "related_ids": [],
@@ -8557,7 +8557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8566,7 +8566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:276",
     "parent_id": null,
     "related_ids": [],
@@ -8588,7 +8588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8597,7 +8597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:277",
     "parent_id": null,
     "related_ids": [],
@@ -8619,7 +8619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8628,7 +8628,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:278",
     "parent_id": null,
     "related_ids": [],
@@ -8650,7 +8650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8659,7 +8659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:279",
     "parent_id": null,
     "related_ids": [],
@@ -8681,7 +8681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8690,7 +8690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:280",
     "parent_id": null,
     "related_ids": [],
@@ -8712,7 +8712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8721,7 +8721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:281",
     "parent_id": null,
     "related_ids": [],
@@ -8743,7 +8743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8752,7 +8752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:282",
     "parent_id": null,
     "related_ids": [],
@@ -8774,7 +8774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8783,7 +8783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:283",
     "parent_id": null,
     "related_ids": [],
@@ -8805,7 +8805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8814,7 +8814,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:284",
     "parent_id": null,
     "related_ids": [],
@@ -8836,7 +8836,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8845,7 +8845,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:285",
     "parent_id": null,
     "related_ids": [],
@@ -8867,7 +8867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8876,7 +8876,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:286",
     "parent_id": null,
     "related_ids": [],
@@ -8898,7 +8898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "9. COMMON DEFLECTION PHRASES",
+      "9. COMMON CONVERSATION PATTERNS",
       "9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)"
     ],
     "subtopics": [],
@@ -8907,7 +8907,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "9. COMMON DEFLECTION PHRASES > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
+    "source_section": "9. COMMON CONVERSATION PATTERNS > 9.5 \"How can the devil confuse you if you have God?\" (Internal Contradiction)",
     "source_reference": "paragraph:287",
     "parent_id": null,
     "related_ids": [],
@@ -8929,7 +8929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8937,7 +8937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:288",
     "parent_id": null,
     "related_ids": [],
@@ -8959,7 +8959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8967,7 +8967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:289",
     "parent_id": null,
     "related_ids": [],
@@ -8989,7 +8989,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8997,7 +8997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:290",
     "parent_id": null,
     "related_ids": [],
@@ -9019,7 +9019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9027,7 +9027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:291",
     "parent_id": null,
     "related_ids": [],
@@ -9049,7 +9049,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9057,7 +9057,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:292",
     "parent_id": null,
     "related_ids": [],
@@ -9079,7 +9079,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9087,7 +9087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:293",
     "parent_id": null,
     "related_ids": [],
@@ -9109,7 +9109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9117,7 +9117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:294",
     "parent_id": null,
     "related_ids": [],
@@ -9139,7 +9139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9147,7 +9147,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:295",
     "parent_id": null,
     "related_ids": [],
@@ -9169,7 +9169,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9177,7 +9177,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:296",
     "parent_id": null,
     "related_ids": [],
@@ -9199,7 +9199,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9207,7 +9207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:297",
     "parent_id": null,
     "related_ids": [],
@@ -9229,7 +9229,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9237,7 +9237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:298",
     "parent_id": null,
     "related_ids": [],
@@ -9259,7 +9259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9267,7 +9267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:299",
     "parent_id": null,
     "related_ids": [],
@@ -9289,7 +9289,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9297,7 +9297,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:300",
     "parent_id": null,
     "related_ids": [],
@@ -9319,7 +9319,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9327,7 +9327,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:301",
     "parent_id": null,
     "related_ids": [],
@@ -9349,7 +9349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9357,7 +9357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:302",
     "parent_id": null,
     "related_ids": [],
@@ -9379,7 +9379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9387,7 +9387,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:303",
     "parent_id": null,
     "related_ids": [],
@@ -9409,7 +9409,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9417,7 +9417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:304",
     "parent_id": null,
     "related_ids": [],
@@ -9439,7 +9439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9447,7 +9447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:305",
     "parent_id": null,
     "related_ids": [],
@@ -9463,13 +9463,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_a8895056de54ff4b80da",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9477,7 +9477,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:306",
     "parent_id": null,
     "related_ids": [],
@@ -9493,13 +9493,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_41422e2593b6f5b2642f",
-    "text": "•  Soft: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
-    "raw_text": "•  Soft: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
+    "text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
+    "raw_text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9507,7 +9507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:307",
     "parent_id": null,
     "related_ids": [],
@@ -9523,13 +9523,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_489d80939887c64115a6",
-    "text": "•  Sharp: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
-    "raw_text": "•  Sharp: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
+    "text": "•  Direct question: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
+    "raw_text": "•  Direct question: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9537,7 +9537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:308",
     "parent_id": null,
     "related_ids": [],
@@ -9559,7 +9559,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9567,7 +9567,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:309",
     "parent_id": null,
     "related_ids": [],
@@ -9589,7 +9589,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9597,7 +9597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:310",
     "parent_id": null,
     "related_ids": [],
@@ -9619,7 +9619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9627,7 +9627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:311",
     "parent_id": null,
     "related_ids": [],
@@ -9649,7 +9649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9657,7 +9657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:312",
     "parent_id": null,
     "related_ids": [],
@@ -9679,7 +9679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\""
+      "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -9687,7 +9687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "10. THE SELF-DEFEATING ARGUMENT: \"DON'T ADD YOUR OWN UNDERSTANDING\"",
+    "source_section": "10. \"DON'T ADD YOUR OWN UNDERSTANDING\" — AN INTERPRETIVE TENSION",
     "source_reference": "paragraph:313",
     "parent_id": null,
     "related_ids": [],
@@ -9709,7 +9709,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9718,7 +9718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:314",
     "parent_id": null,
     "related_ids": [],
@@ -9740,7 +9740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9749,7 +9749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:315",
     "parent_id": null,
     "related_ids": [],
@@ -9771,7 +9771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9780,7 +9780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:316",
     "parent_id": null,
     "related_ids": [],
@@ -9802,7 +9802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9811,7 +9811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:317",
     "parent_id": null,
     "related_ids": [],
@@ -9833,7 +9833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9842,7 +9842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:318",
     "parent_id": null,
     "related_ids": [],
@@ -9864,7 +9864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9873,7 +9873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:319",
     "parent_id": null,
     "related_ids": [],
@@ -9895,7 +9895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9904,7 +9904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:320",
     "parent_id": null,
     "related_ids": [],
@@ -9926,7 +9926,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9935,7 +9935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:321",
     "parent_id": null,
     "related_ids": [],
@@ -9957,7 +9957,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9966,7 +9966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:322",
     "parent_id": null,
     "related_ids": [],
@@ -9988,7 +9988,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -9997,7 +9997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:323",
     "parent_id": null,
     "related_ids": [],
@@ -10019,7 +10019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10028,7 +10028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:324",
     "parent_id": null,
     "related_ids": [],
@@ -10050,7 +10050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10059,7 +10059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:325",
     "parent_id": null,
     "related_ids": [],
@@ -10081,7 +10081,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10090,7 +10090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:326",
     "parent_id": null,
     "related_ids": [],
@@ -10112,7 +10112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10121,7 +10121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:327",
     "parent_id": null,
     "related_ids": [],
@@ -10143,7 +10143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.1 Humanism"
     ],
     "subtopics": [],
@@ -10152,7 +10152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.1 Humanism",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.1 Humanism",
     "source_reference": "paragraph:328",
     "parent_id": null,
     "related_ids": [],
@@ -10174,7 +10174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10183,7 +10183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:329",
     "parent_id": null,
     "related_ids": [],
@@ -10205,7 +10205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10214,7 +10214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:330",
     "parent_id": null,
     "related_ids": [],
@@ -10236,7 +10236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10245,7 +10245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:331",
     "parent_id": null,
     "related_ids": [],
@@ -10267,7 +10267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10276,7 +10276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:332",
     "parent_id": null,
     "related_ids": [],
@@ -10298,7 +10298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10307,7 +10307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:333",
     "parent_id": null,
     "related_ids": [],
@@ -10329,7 +10329,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10338,7 +10338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:334",
     "parent_id": null,
     "related_ids": [],
@@ -10360,7 +10360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10369,7 +10369,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:335",
     "parent_id": null,
     "related_ids": [],
@@ -10391,7 +10391,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10400,7 +10400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:336",
     "parent_id": null,
     "related_ids": [],
@@ -10422,7 +10422,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10431,7 +10431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:337",
     "parent_id": null,
     "related_ids": [],
@@ -10453,7 +10453,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10462,7 +10462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:338",
     "parent_id": null,
     "related_ids": [],
@@ -10484,7 +10484,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10493,7 +10493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:339",
     "parent_id": null,
     "related_ids": [],
@@ -10515,7 +10515,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10524,7 +10524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:340",
     "parent_id": null,
     "related_ids": [],
@@ -10546,7 +10546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10555,7 +10555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:341",
     "parent_id": null,
     "related_ids": [],
@@ -10577,7 +10577,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10586,7 +10586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:342",
     "parent_id": null,
     "related_ids": [],
@@ -10608,7 +10608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10617,7 +10617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:343",
     "parent_id": null,
     "related_ids": [],
@@ -10639,7 +10639,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10648,7 +10648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:344",
     "parent_id": null,
     "related_ids": [],
@@ -10670,7 +10670,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10679,7 +10679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:345",
     "parent_id": null,
     "related_ids": [],
@@ -10701,7 +10701,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY",
+      "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES",
       "11.2 Objective Morality / Universal Law Without God"
     ],
     "subtopics": [],
@@ -10710,7 +10710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "11. MORAL FRAMEWORKS — WHAT BELIEVERS DISMISS AND WHY > 11.2 Objective Morality / Universal Law Without God",
+    "source_section": "11. MORAL FRAMEWORKS — SECULAR AND RELIGIOUS APPROACHES > 11.2 Objective Morality / Universal Law Without God",
     "source_reference": "paragraph:346",
     "parent_id": null,
     "related_ids": [],
@@ -12467,7 +12467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12475,7 +12475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:403",
     "parent_id": null,
     "related_ids": [],
@@ -12498,7 +12498,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12506,7 +12506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:404",
     "parent_id": null,
     "related_ids": [],
@@ -12529,7 +12529,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12537,7 +12537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:405",
     "parent_id": null,
     "related_ids": [],
@@ -12560,7 +12560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12568,7 +12568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:406",
     "parent_id": null,
     "related_ids": [],
@@ -12591,7 +12591,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12599,7 +12599,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:407",
     "parent_id": null,
     "related_ids": [],
@@ -12622,7 +12622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12630,7 +12630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:408",
     "parent_id": null,
     "related_ids": [],
@@ -12653,7 +12653,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12661,7 +12661,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:409",
     "parent_id": null,
     "related_ids": [],
@@ -12684,7 +12684,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12692,7 +12692,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:410",
     "parent_id": null,
     "related_ids": [],
@@ -12715,7 +12715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12723,7 +12723,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:411",
     "parent_id": null,
     "related_ids": [],
@@ -12746,7 +12746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — What Believers Usually Don't Know"
+      "13.2 Pre-Nicene Diversity — Historical Context"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12754,7 +12754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — What Believers Usually Don't Know",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
     "source_reference": "paragraph:412",
     "parent_id": null,
     "related_ids": [],
@@ -12870,7 +12870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12878,7 +12878,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:416",
     "parent_id": null,
     "related_ids": [],
@@ -12901,7 +12901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12909,7 +12909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:417",
     "parent_id": null,
     "related_ids": [],
@@ -12932,7 +12932,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12940,7 +12940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:418",
     "parent_id": null,
     "related_ids": [],
@@ -12963,7 +12963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -12971,7 +12971,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:419",
     "parent_id": null,
     "related_ids": [],
@@ -12994,7 +12994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13002,7 +13002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:420",
     "parent_id": null,
     "related_ids": [],
@@ -13025,7 +13025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13033,7 +13033,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:421",
     "parent_id": null,
     "related_ids": [],
@@ -13056,7 +13056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13064,7 +13064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:422",
     "parent_id": null,
     "related_ids": [],
@@ -13087,7 +13087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13095,7 +13095,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:423",
     "parent_id": null,
     "related_ids": [],
@@ -13118,7 +13118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13126,7 +13126,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:424",
     "parent_id": null,
     "related_ids": [],
@@ -13149,7 +13149,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Problems the Doctrine Produces"
+      "13.4 Logical Questions Raised by the Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13157,7 +13157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Problems the Doctrine Produces",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
     "source_reference": "paragraph:425",
     "parent_id": null,
     "related_ids": [],
@@ -13730,14 +13730,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_dfdc170e542bbb269a94",
-    "text": "When you ask a believer for empirical evidence, you are applying an evidentiary standard to a claim they have been told does not require one. The responses fall into predictable categories. Each category is a move, not an answer.",
-    "raw_text": "When you ask a believer for empirical evidence, you are applying an evidentiary standard to a claim they have been told does not require one. The responses fall into predictable categories. Each category is a move, not an answer.",
+    "id": "rk_e75a353a74c6bd272133",
+    "text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
+    "raw_text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -13745,7 +13745,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
     "source_reference": "paragraph:444",
     "parent_id": null,
     "related_ids": [],
@@ -13767,7 +13767,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13776,7 +13776,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:445",
     "parent_id": null,
     "related_ids": [],
@@ -13798,7 +13798,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13807,7 +13807,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:446",
     "parent_id": null,
     "related_ids": [],
@@ -13829,7 +13829,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13838,7 +13838,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:447",
     "parent_id": null,
     "related_ids": [],
@@ -13860,7 +13860,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13869,7 +13869,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:448",
     "parent_id": null,
     "related_ids": [],
@@ -13891,7 +13891,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13900,7 +13900,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:449",
     "parent_id": null,
     "related_ids": [],
@@ -13916,13 +13916,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_b9e6b5a1fc6f05cbda5d",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13931,7 +13931,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:450",
     "parent_id": null,
     "related_ids": [],
@@ -13947,13 +13947,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_e6c467facb76c5b68ac2",
-    "text": "•  Soft: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
-    "raw_text": "•  Soft: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
+    "text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
+    "raw_text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13962,7 +13962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:451",
     "parent_id": null,
     "related_ids": [],
@@ -13978,13 +13978,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_9788a3c1c98bbb4959e6",
-    "text": "•  Sharp: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
-    "raw_text": "•  Sharp: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
+    "text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
+    "raw_text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.1 \"Faith doesn't require evidence\""
     ],
     "subtopics": [],
@@ -13993,7 +13993,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.1 \"Faith doesn't require evidence\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
     "source_reference": "paragraph:452",
     "parent_id": null,
     "related_ids": [],
@@ -14015,7 +14015,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14024,7 +14024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:453",
     "parent_id": null,
     "related_ids": [],
@@ -14046,7 +14046,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14055,7 +14055,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:454",
     "parent_id": null,
     "related_ids": [],
@@ -14077,7 +14077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14086,7 +14086,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:455",
     "parent_id": null,
     "related_ids": [],
@@ -14108,7 +14108,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14117,7 +14117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:456",
     "parent_id": null,
     "related_ids": [],
@@ -14139,7 +14139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14148,7 +14148,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:457",
     "parent_id": null,
     "related_ids": [],
@@ -14170,7 +14170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14179,7 +14179,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:458",
     "parent_id": null,
     "related_ids": [],
@@ -14195,13 +14195,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_838510f77ea4bcfce47b",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14210,7 +14210,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:459",
     "parent_id": null,
     "related_ids": [],
@@ -14226,13 +14226,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_6cf5d7a89fb8aa2def1c",
-    "text": "•  Soft: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
-    "raw_text": "•  Soft: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
+    "text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
+    "raw_text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14241,7 +14241,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:460",
     "parent_id": null,
     "related_ids": [],
@@ -14257,13 +14257,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_317ab86f4ee5eb17b26a",
-    "text": "•  Sharp: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
-    "raw_text": "•  Sharp: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
+    "text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
+    "raw_text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14272,7 +14272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:461",
     "parent_id": null,
     "related_ids": [],
@@ -14294,7 +14294,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14303,7 +14303,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:462",
     "parent_id": null,
     "related_ids": [],
@@ -14325,7 +14325,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14334,7 +14334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:463",
     "parent_id": null,
     "related_ids": [],
@@ -14356,7 +14356,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14365,7 +14365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:464",
     "parent_id": null,
     "related_ids": [],
@@ -14387,7 +14387,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
@@ -14396,7 +14396,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:465",
     "parent_id": null,
     "related_ids": [],
@@ -14418,7 +14418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14427,7 +14427,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:466",
     "parent_id": null,
     "related_ids": [],
@@ -14449,7 +14449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14458,7 +14458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:467",
     "parent_id": null,
     "related_ids": [],
@@ -14480,7 +14480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14489,7 +14489,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:468",
     "parent_id": null,
     "related_ids": [],
@@ -14511,7 +14511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14520,7 +14520,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:469",
     "parent_id": null,
     "related_ids": [],
@@ -14542,7 +14542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14551,7 +14551,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:470",
     "parent_id": null,
     "related_ids": [],
@@ -14573,7 +14573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14582,7 +14582,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:471",
     "parent_id": null,
     "related_ids": [],
@@ -14604,7 +14604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14613,7 +14613,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:472",
     "parent_id": null,
     "related_ids": [],
@@ -14635,7 +14635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14644,7 +14644,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:473",
     "parent_id": null,
     "related_ids": [],
@@ -14666,7 +14666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14675,7 +14675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:474",
     "parent_id": null,
     "related_ids": [],
@@ -14697,7 +14697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14706,7 +14706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:475",
     "parent_id": null,
     "related_ids": [],
@@ -14722,13 +14722,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_8b14a7c431234f9f7afe",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14737,7 +14737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:476",
     "parent_id": null,
     "related_ids": [],
@@ -14753,13 +14753,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_40f7def6637e5b44d184",
-    "text": "•  Soft: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
-    "raw_text": "•  Soft: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "raw_text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14768,7 +14768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:477",
     "parent_id": null,
     "related_ids": [],
@@ -14784,13 +14784,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_77e1c226af1a82adfa41",
-    "text": "•  Sharp: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
-    "raw_text": "•  Sharp: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "raw_text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14799,7 +14799,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:478",
     "parent_id": null,
     "related_ids": [],
@@ -14821,7 +14821,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14830,7 +14830,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:479",
     "parent_id": null,
     "related_ids": [],
@@ -14852,7 +14852,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14861,7 +14861,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:480",
     "parent_id": null,
     "related_ids": [],
@@ -14883,7 +14883,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14892,7 +14892,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:481",
     "parent_id": null,
     "related_ids": [],
@@ -14914,7 +14914,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14923,7 +14923,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:482",
     "parent_id": null,
     "related_ids": [],
@@ -14945,7 +14945,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14954,7 +14954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:483",
     "parent_id": null,
     "related_ids": [],
@@ -14976,7 +14976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -14985,7 +14985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:484",
     "parent_id": null,
     "related_ids": [],
@@ -15007,7 +15007,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
     ],
     "subtopics": [],
@@ -15016,7 +15016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
     "source_reference": "paragraph:485",
     "parent_id": null,
     "related_ids": [],
@@ -15038,7 +15038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15047,7 +15047,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:486",
     "parent_id": null,
     "related_ids": [],
@@ -15069,7 +15069,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15078,7 +15078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:487",
     "parent_id": null,
     "related_ids": [],
@@ -15094,13 +15094,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_4ea31bd840cd64aa2a3f",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15109,7 +15109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:488",
     "parent_id": null,
     "related_ids": [],
@@ -15125,13 +15125,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_edfcc7177086cf69fccb",
-    "text": "•  Soft: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
-    "raw_text": "•  Soft: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
+    "text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
+    "raw_text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15140,7 +15140,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:489",
     "parent_id": null,
     "related_ids": [],
@@ -15156,13 +15156,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_2b2032b0e8978be078db",
-    "text": "•  Sharp: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
-    "raw_text": "•  Sharp: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
+    "text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
+    "raw_text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15171,7 +15171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:490",
     "parent_id": null,
     "related_ids": [],
@@ -15193,7 +15193,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15202,7 +15202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:491",
     "parent_id": null,
     "related_ids": [],
@@ -15224,7 +15224,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15233,7 +15233,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:492",
     "parent_id": null,
     "related_ids": [],
@@ -15255,7 +15255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.4 \"Science Can't Explain Everything\" — God of the Gaps"
     ],
     "subtopics": [],
@@ -15264,7 +15264,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
     "source_reference": "paragraph:493",
     "parent_id": null,
     "related_ids": [],
@@ -15286,7 +15286,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15295,7 +15295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:494",
     "parent_id": null,
     "related_ids": [],
@@ -15317,7 +15317,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15326,7 +15326,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:495",
     "parent_id": null,
     "related_ids": [],
@@ -15348,7 +15348,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15357,7 +15357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:496",
     "parent_id": null,
     "related_ids": [],
@@ -15379,7 +15379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15388,7 +15388,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:497",
     "parent_id": null,
     "related_ids": [],
@@ -15410,7 +15410,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15419,7 +15419,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:498",
     "parent_id": null,
     "related_ids": [],
@@ -15441,7 +15441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15450,7 +15450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:499",
     "parent_id": null,
     "related_ids": [],
@@ -15472,7 +15472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15481,7 +15481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:500",
     "parent_id": null,
     "related_ids": [],
@@ -15503,7 +15503,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15512,7 +15512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:501",
     "parent_id": null,
     "related_ids": [],
@@ -15534,7 +15534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15543,7 +15543,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:502",
     "parent_id": null,
     "related_ids": [],
@@ -15565,7 +15565,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15574,7 +15574,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:503",
     "parent_id": null,
     "related_ids": [],
@@ -15596,7 +15596,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15605,7 +15605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:504",
     "parent_id": null,
     "related_ids": [],
@@ -15621,13 +15621,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_615efb4a1959935c55ae",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15636,7 +15636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:505",
     "parent_id": null,
     "related_ids": [],
@@ -15652,13 +15652,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_3264a93e218556a1660b",
-    "text": "•  Soft: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
-    "raw_text": "•  Soft: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
+    "text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
+    "raw_text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15667,7 +15667,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:506",
     "parent_id": null,
     "related_ids": [],
@@ -15683,13 +15683,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_7000e5e3fe617516abcb",
-    "text": "•  Sharp: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
-    "raw_text": "•  Sharp: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
+    "text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
+    "raw_text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15698,7 +15698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:507",
     "parent_id": null,
     "related_ids": [],
@@ -15720,7 +15720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15729,7 +15729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:508",
     "parent_id": null,
     "related_ids": [],
@@ -15751,7 +15751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15760,7 +15760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:509",
     "parent_id": null,
     "related_ids": [],
@@ -15782,7 +15782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15791,7 +15791,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:510",
     "parent_id": null,
     "related_ids": [],
@@ -15813,7 +15813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15822,7 +15822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:511",
     "parent_id": null,
     "related_ids": [],
@@ -15844,7 +15844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15853,7 +15853,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:512",
     "parent_id": null,
     "related_ids": [],
@@ -15875,7 +15875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
@@ -15884,7 +15884,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.5 \"The Resurrection is Historical Fact\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:513",
     "parent_id": null,
     "related_ids": [],
@@ -15906,7 +15906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -15915,7 +15915,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:514",
     "parent_id": null,
     "related_ids": [],
@@ -15937,7 +15937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -15946,7 +15946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:515",
     "parent_id": null,
     "related_ids": [],
@@ -15968,7 +15968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -15977,7 +15977,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:516",
     "parent_id": null,
     "related_ids": [],
@@ -15999,7 +15999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16008,7 +16008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:517",
     "parent_id": null,
     "related_ids": [],
@@ -16024,13 +16024,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_99628bb1cb776e1b0d54",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16039,7 +16039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:518",
     "parent_id": null,
     "related_ids": [],
@@ -16055,13 +16055,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_7d90a6a43d8a68ef1cb7",
-    "text": "•  Soft: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
-    "raw_text": "•  Soft: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
+    "text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
+    "raw_text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16070,7 +16070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:519",
     "parent_id": null,
     "related_ids": [],
@@ -16086,13 +16086,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_d715b6cdcc330378ab84",
-    "text": "•  Sharp: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
-    "raw_text": "•  Sharp: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
+    "text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
+    "raw_text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16101,7 +16101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:520",
     "parent_id": null,
     "related_ids": [],
@@ -16123,7 +16123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16132,7 +16132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:521",
     "parent_id": null,
     "related_ids": [],
@@ -16154,7 +16154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16163,7 +16163,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:522",
     "parent_id": null,
     "related_ids": [],
@@ -16185,7 +16185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
@@ -16194,7 +16194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:523",
     "parent_id": null,
     "related_ids": [],
@@ -16216,7 +16216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16225,7 +16225,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:524",
     "parent_id": null,
     "related_ids": [],
@@ -16247,7 +16247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16256,7 +16256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:525",
     "parent_id": null,
     "related_ids": [],
@@ -16278,7 +16278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16287,7 +16287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:526",
     "parent_id": null,
     "related_ids": [],
@@ -16309,7 +16309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16318,7 +16318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:527",
     "parent_id": null,
     "related_ids": [],
@@ -16340,7 +16340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16349,7 +16349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:528",
     "parent_id": null,
     "related_ids": [],
@@ -16365,13 +16365,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_e300e5893bc5a7f63460",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16380,7 +16380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:529",
     "parent_id": null,
     "related_ids": [],
@@ -16396,13 +16396,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_3fa9fa3412d2f4dcf0ee",
-    "text": "•  Soft: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
-    "raw_text": "•  Soft: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "raw_text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16411,7 +16411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:530",
     "parent_id": null,
     "related_ids": [],
@@ -16427,13 +16427,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_bda5a0a1554d972c4664",
-    "text": "•  Sharp: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
-    "raw_text": "•  Sharp: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "raw_text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16442,7 +16442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:531",
     "parent_id": null,
     "related_ids": [],
@@ -16464,7 +16464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16473,7 +16473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:532",
     "parent_id": null,
     "related_ids": [],
@@ -16495,7 +16495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16504,7 +16504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:533",
     "parent_id": null,
     "related_ids": [],
@@ -16526,7 +16526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16535,7 +16535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:534",
     "parent_id": null,
     "related_ids": [],
@@ -16557,7 +16557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
       "14.7 \"God is Not Detectable by Material Methods\""
     ],
     "subtopics": [],
@@ -16566,7 +16566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
     "source_reference": "paragraph:535",
     "parent_id": null,
     "related_ids": [],
@@ -16588,8 +16588,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16597,7 +16597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:536",
     "parent_id": null,
     "related_ids": [],
@@ -16619,8 +16619,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16628,7 +16628,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:537",
     "parent_id": null,
     "related_ids": [],
@@ -16650,8 +16650,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16659,7 +16659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:538",
     "parent_id": null,
     "related_ids": [],
@@ -16681,8 +16681,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16690,7 +16690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:539",
     "parent_id": null,
     "related_ids": [],
@@ -16712,8 +16712,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16721,7 +16721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:540",
     "parent_id": null,
     "related_ids": [],
@@ -16743,8 +16743,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16752,7 +16752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:541",
     "parent_id": null,
     "related_ids": [],
@@ -16774,8 +16774,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS",
-      "14.8 Meta-Point: The Standard Keeps Shifting"
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.8 Changing Standards of Evidence"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16783,7 +16783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. ASKING FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS > 14.8 Meta-Point: The Standard Keeps Shifting",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
     "source_reference": "paragraph:542",
     "parent_id": null,
     "related_ids": [],
@@ -16805,7 +16805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16813,7 +16813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
     "source_reference": "paragraph:543",
     "parent_id": null,
     "related_ids": [],
@@ -16835,7 +16835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16844,7 +16844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:544",
     "parent_id": null,
     "related_ids": [],
@@ -16866,7 +16866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16875,7 +16875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:545",
     "parent_id": null,
     "related_ids": [],
@@ -16897,7 +16897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16906,7 +16906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:546",
     "parent_id": null,
     "related_ids": [],
@@ -16928,7 +16928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16937,7 +16937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:547",
     "parent_id": null,
     "related_ids": [],
@@ -16959,7 +16959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
@@ -16968,7 +16968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.1 The Legal Framework — Women as Property",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
     "source_reference": "paragraph:548",
     "parent_id": null,
     "related_ids": [],
@@ -16990,7 +16990,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -16999,7 +16999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:549",
     "parent_id": null,
     "related_ids": [],
@@ -17021,7 +17021,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -17030,7 +17030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:550",
     "parent_id": null,
     "related_ids": [],
@@ -17052,7 +17052,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -17061,7 +17061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:551",
     "parent_id": null,
     "related_ids": [],
@@ -17083,7 +17083,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
@@ -17092,7 +17092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.2 The Prophets — Sexual Violence as Theology",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
     "source_reference": "paragraph:552",
     "parent_id": null,
     "related_ids": [],
@@ -17114,7 +17114,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17123,7 +17123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:553",
     "parent_id": null,
     "related_ids": [],
@@ -17145,7 +17145,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17154,7 +17154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:554",
     "parent_id": null,
     "related_ids": [],
@@ -17176,7 +17176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17185,7 +17185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:555",
     "parent_id": null,
     "related_ids": [],
@@ -17207,7 +17207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
@@ -17216,7 +17216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.3 The New Testament — Silence and Submission",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
     "source_reference": "paragraph:556",
     "parent_id": null,
     "related_ids": [],
@@ -17238,8 +17238,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17247,7 +17247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:557",
     "parent_id": null,
     "related_ids": [],
@@ -17262,15 +17262,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1e30c0e8bdb5028a7980",
-    "text": "Why this destroys the framework: If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something very different from \"timeless truth from a transcendent moral being.\" It means \"a human document reflecting its time.\" Which is what critics have been saying. The cultural accommodation defense concedes the critical argument.",
-    "raw_text": "**Why this destroys the framework: **If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something very different from \"timeless truth from a transcendent moral being.\" It means \"a human document reflecting its time.\" Which is what critics have been saying. The cultural accommodation defense concedes the critical argument.",
+    "id": "rk_24d8846ded070c3bd839",
+    "text": "Why this creates a tension: If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
+    "raw_text": "**Why this creates a tension: **If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17278,7 +17278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:558",
     "parent_id": null,
     "related_ids": [],
@@ -17300,8 +17300,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17309,7 +17309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:559",
     "parent_id": null,
     "related_ids": [],
@@ -17324,15 +17324,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b8362adda31633e03bcc",
-    "text": "The question that exposes the trap:",
-    "raw_text": "**The question that exposes the trap:**",
+    "id": "rk_a646cce32edf6d828538",
+    "text": "The question that clarifies the tension:",
+    "raw_text": "**The question that clarifies the tension:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17340,7 +17340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:560",
     "parent_id": null,
     "related_ids": [],
@@ -17362,8 +17362,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.4 The Theological Trap"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17371,7 +17371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.4 The Theological Trap",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
     "source_reference": "paragraph:561",
     "parent_id": null,
     "related_ids": [],
@@ -17393,8 +17393,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17402,7 +17402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:562",
     "parent_id": null,
     "related_ids": [],
@@ -17424,8 +17424,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17433,7 +17433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:563",
     "parent_id": null,
     "related_ids": [],
@@ -17455,8 +17455,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17464,7 +17464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:564",
     "parent_id": null,
     "related_ids": [],
@@ -17486,8 +17486,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17495,7 +17495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:565",
     "parent_id": null,
     "related_ids": [],
@@ -17517,8 +17517,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17526,7 +17526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:566",
     "parent_id": null,
     "related_ids": [],
@@ -17548,8 +17548,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17557,7 +17557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:567",
     "parent_id": null,
     "related_ids": [],
@@ -17579,8 +17579,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17588,7 +17588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:568",
     "parent_id": null,
     "related_ids": [],
@@ -17610,8 +17610,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17619,7 +17619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:569",
     "parent_id": null,
     "related_ids": [],
@@ -17641,8 +17641,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17650,7 +17650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:570",
     "parent_id": null,
     "related_ids": [],
@@ -17672,8 +17672,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS",
-      "15.5 The Deborah and Mary Magdalene Counters"
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17681,7 +17681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. GOD AND WOMEN — WHAT THE TEXT ACTUALLY SAYS > 15.5 The Deborah and Mary Magdalene Counters",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
     "source_reference": "paragraph:571",
     "parent_id": null,
     "related_ids": [],
@@ -18037,8 +18037,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_af18b4e912b899718d2e",
-    "text": "Why this critique holds up — and what to say:",
-    "raw_text": "**Why this critique holds up — and what to say:**",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18068,8 +18068,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_a20a3daee951e1c1b84b",
-    "text": "•  Soft: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
-    "raw_text": "•  Soft: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
+    "text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
+    "raw_text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18099,8 +18099,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
   },
   {
     "id": "rk_ca5cd123206176645ee3",
-    "text": "•  Sharp: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
-    "raw_text": "•  Sharp: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
+    "text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
+    "raw_text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18322,7 +18322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.1 What the Claim Is and What It Does"
     ],
     "subtopics": [],
@@ -18331,7 +18331,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.1 What the Claim Is and What It Does",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
     "source_reference": "paragraph:592",
     "parent_id": null,
     "related_ids": [],
@@ -18353,7 +18353,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.1 What the Claim Is and What It Does"
     ],
     "subtopics": [],
@@ -18362,7 +18362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.1 What the Claim Is and What It Does",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
     "source_reference": "paragraph:593",
     "parent_id": null,
     "related_ids": [],
@@ -18384,7 +18384,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18393,7 +18393,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:594",
     "parent_id": null,
     "related_ids": [],
@@ -18415,7 +18415,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18424,7 +18424,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:595",
     "parent_id": null,
     "related_ids": [],
@@ -18446,7 +18446,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18455,7 +18455,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:596",
     "parent_id": null,
     "related_ids": [],
@@ -18477,7 +18477,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.2 What Jesus's Own Words Say — Internal Contradiction"
     ],
     "subtopics": [],
@@ -18486,7 +18486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.2 What Jesus's Own Words Say — Internal Contradiction",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
     "source_reference": "paragraph:597",
     "parent_id": null,
     "related_ids": [],
@@ -18508,7 +18508,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.3 The Calvinist vs. Arminian Split"
     ],
     "subtopics": [],
@@ -18517,7 +18517,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.3 The Calvinist vs. Arminian Split",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
     "source_reference": "paragraph:598",
     "parent_id": null,
     "related_ids": [],
@@ -18539,7 +18539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.3 The Calvinist vs. Arminian Split"
     ],
     "subtopics": [],
@@ -18548,7 +18548,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.3 The Calvinist vs. Arminian Split",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
     "source_reference": "paragraph:599",
     "parent_id": null,
     "related_ids": [],
@@ -18570,7 +18570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.3 The Calvinist vs. Arminian Split"
     ],
     "subtopics": [],
@@ -18579,7 +18579,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.3 The Calvinist vs. Arminian Split",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
     "source_reference": "paragraph:600",
     "parent_id": null,
     "related_ids": [],
@@ -18601,7 +18601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.4 The Universalization Problem"
     ],
     "subtopics": [],
@@ -18610,7 +18610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.4 The Universalization Problem",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
     "source_reference": "paragraph:601",
     "parent_id": null,
     "related_ids": [],
@@ -18632,7 +18632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.4 The Universalization Problem"
     ],
     "subtopics": [],
@@ -18641,7 +18641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.4 The Universalization Problem",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
     "source_reference": "paragraph:602",
     "parent_id": null,
     "related_ids": [],
@@ -18663,7 +18663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.4 The Universalization Problem"
     ],
     "subtopics": [],
@@ -18672,7 +18672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.4 The Universalization Problem",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
     "source_reference": "paragraph:603",
     "parent_id": null,
     "related_ids": [],
@@ -18694,7 +18694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18703,7 +18703,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:604",
     "parent_id": null,
     "related_ids": [],
@@ -18725,7 +18725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18734,7 +18734,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:605",
     "parent_id": null,
     "related_ids": [],
@@ -18756,7 +18756,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18765,7 +18765,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:606",
     "parent_id": null,
     "related_ids": [],
@@ -18787,7 +18787,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18796,7 +18796,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:607",
     "parent_id": null,
     "related_ids": [],
@@ -18818,7 +18818,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18827,7 +18827,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:608",
     "parent_id": null,
     "related_ids": [],
@@ -18849,7 +18849,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18858,7 +18858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:609",
     "parent_id": null,
     "related_ids": [],
@@ -18880,7 +18880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18889,7 +18889,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:610",
     "parent_id": null,
     "related_ids": [],
@@ -18911,7 +18911,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18920,7 +18920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:611",
     "parent_id": null,
     "related_ids": [],
@@ -18942,7 +18942,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18951,7 +18951,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:612",
     "parent_id": null,
     "related_ids": [],
@@ -18973,7 +18973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -18982,7 +18982,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:613",
     "parent_id": null,
     "related_ids": [],
@@ -19004,7 +19004,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -19013,7 +19013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:614",
     "parent_id": null,
     "related_ids": [],
@@ -19035,7 +19035,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -19044,7 +19044,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:615",
     "parent_id": null,
     "related_ids": [],
@@ -19066,7 +19066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM",
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
@@ -19075,7 +19075,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — THE IN-GROUP EXCLUSIVITY PROBLEM > 17.5 The Suffering of Non-Believers",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:616",
     "parent_id": null,
     "related_ids": [],
@@ -19097,7 +19097,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.1 On Jeremiah 29:11 (personal life promise)"
     ],
     "subtopics": [],
@@ -19106,7 +19106,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
     "source_reference": "paragraph:617",
     "parent_id": null,
     "related_ids": [],
@@ -19128,7 +19128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.2 On the 'new covenant' (Jeremiah 31:31)"
     ],
     "subtopics": [],
@@ -19137,7 +19137,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
     "source_reference": "paragraph:618",
     "parent_id": null,
     "related_ids": [],
@@ -19159,7 +19159,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.3 On Amos 5:21-24 vs. ritual worship requirements"
     ],
     "subtopics": [],
@@ -19168,7 +19168,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
     "source_reference": "paragraph:619",
     "parent_id": null,
     "related_ids": [],
@@ -19190,7 +19190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.4 On Jonah vs. nationalist theology"
     ],
     "subtopics": [],
@@ -19199,7 +19199,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.4 On Jonah vs. nationalist theology",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.4 On Jonah vs. nationalist theology",
     "source_reference": "paragraph:620",
     "parent_id": null,
     "related_ids": [],
@@ -19221,7 +19221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.5 On the Bible being 'clear' or 'consistent'"
     ],
     "subtopics": [],
@@ -19230,7 +19230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
     "source_reference": "paragraph:621",
     "parent_id": null,
     "related_ids": [],
@@ -19252,7 +19252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
+      "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8)",
       "18.6 On the absence of Jesus's own writings"
     ],
     "subtopics": [],
@@ -19261,7 +19261,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.6 On the absence of Jesus's own writings",
+    "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.6 On the absence of Jesus's own writings",
     "source_reference": "paragraph:622",
     "parent_id": null,
     "related_ids": [],
@@ -19463,7 +19463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19471,7 +19471,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
     "source_reference": "paragraph:629",
     "parent_id": null,
     "related_ids": [],
@@ -19493,7 +19493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.1 Before and during the kingdoms"
     ],
     "subtopics": [],
@@ -19502,7 +19502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.1 Before and during the kingdoms",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.1 Before and during the kingdoms",
     "source_reference": "paragraph:630",
     "parent_id": null,
     "related_ids": [],
@@ -19524,8 +19524,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.2 The 400-year gap most believers don't know"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.2 The Second Temple period between the Testaments"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19533,7 +19533,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.2 The 400-year gap most believers don't know",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:631",
     "parent_id": null,
     "related_ids": [],
@@ -19555,8 +19555,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.2 The 400-year gap most believers don't know"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.2 The Second Temple period between the Testaments"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19564,7 +19564,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.2 The 400-year gap most believers don't know",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:632",
     "parent_id": null,
     "related_ids": [],
@@ -19586,8 +19586,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.2 The 400-year gap most believers don't know"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.2 The Second Temple period between the Testaments"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19595,7 +19595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.2 The 400-year gap most believers don't know",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:633",
     "parent_id": null,
     "related_ids": [],
@@ -19617,7 +19617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.3 Jesus and the New Testament"
     ],
     "subtopics": [],
@@ -19626,7 +19626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.3 Jesus and the New Testament",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.3 Jesus and the New Testament",
     "source_reference": "paragraph:634",
     "parent_id": null,
     "related_ids": [],
@@ -19648,7 +19648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.4 How the church and the canon formed"
     ],
     "subtopics": [],
@@ -19657,7 +19657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.4 How the church and the canon formed",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.4 How the church and the canon formed",
     "source_reference": "paragraph:635",
     "parent_id": null,
     "related_ids": [],
@@ -19679,7 +19679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.5 Islam"
     ],
     "subtopics": [],
@@ -19688,7 +19688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.5 Islam",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.5 Islam",
     "source_reference": "paragraph:636",
     "parent_id": null,
     "related_ids": [],
@@ -19710,7 +19710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
       "19.6 English Bibles"
     ],
     "subtopics": [],
@@ -19719,7 +19719,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.6 English Bibles",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.6 English Bibles",
     "source_reference": "paragraph:637",
     "parent_id": null,
     "related_ids": [],
@@ -19741,8 +19741,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.7 The gaps — the numbers that actually win arguments"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.7 Source gaps — key intervals to remember"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19750,7 +19750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.7 The gaps — the numbers that actually win arguments",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:638",
     "parent_id": null,
     "related_ids": [],
@@ -19772,8 +19772,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.7 The gaps — the numbers that actually win arguments"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.7 Source gaps — key intervals to remember"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19781,7 +19781,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.7 The gaps — the numbers that actually win arguments",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:639",
     "parent_id": null,
     "related_ids": [],
@@ -19796,15 +19796,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_cc4782b2da43cadc6ea1",
-    "text": "The line: \"How long between the event and the writing?\" It works on every source, in every tradition, including the ones you agree with.",
-    "raw_text": "**The line:** *\"How long between the event and the writing?\"* It works on every source, in every tradition, including the ones you agree with.",
+    "id": "rk_1bf1b271a17cd5a38f24",
+    "text": "Reference question: \"How long between the event and the writing?\" Apply it to every source, in every tradition, including the ones you agree with.",
+    "raw_text": "**Reference question:** *\"How long between the event and the writing?\"* Apply it to every source, in every tradition, including the ones you agree with.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
-      "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION",
-      "19.7 The gaps — the numbers that actually win arguments"
+      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
+      "19.7 Source gaps — key intervals to remember"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19812,7 +19812,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES YOU NEED MID-CONVERSATION > 19.7 The gaps — the numbers that actually win arguments",
+    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:640",
     "parent_id": null,
     "related_ids": [],
@@ -19857,9 +19857,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_87566b1a1f036fb9ef86",
-    "text": "•  Sources on both sides are included by design. Goal is understanding the strongest version of every argument, not just the counters.",
-    "raw_text": "•  Sources on both sides are included by design. Goal is understanding the strongest version of every argument, not just the counters.",
+    "id": "rk_1f42708e29ee7f64b4a0",
+    "text": "•  Sources from multiple perspectives are included by design. The goal is to understand the strongest version of each position and the evidence for and against it.",
+    "raw_text": "•  Sources from multiple perspectives are included by design. The goal is to understand the strongest version of each position and the evidence for and against it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20040,9 +20040,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7c4c9ba90b5f064d660a",
-    "text": "Field application: do not deploy a line from an unaudited claim as though it were settled. The queue at §8.2 lists what has not been checked.",
-    "raw_text": "**Field application:** do not deploy a line from an unaudited claim as though it were settled. The queue at §8.2 lists what has not been checked.",
+    "id": "rk_61c84b7048666148dc87",
+    "text": "Use note: do not present an unaudited claim as settled. The queue at §8.2 lists what has not been checked.",
+    "raw_text": "**Use note:** do not present an unaudited claim as settled. The queue at §8.2 lists what has not been checked.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20071,15 +20071,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2b443820ba3508b5ff34",
-    "text": "| They say | Go to |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — the popular skeptic version is false |\n| \"5,800 manuscripts\" | Historical Framework §4 — concede the number, contest the inference |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
-    "raw_text": "| They say | Go to |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — **the popular skeptic version is false** |\n| \"5,800 manuscripts\" | Historical Framework §4 — concede the number, contest the inference |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
+    "id": "rk_a921aefb0c228cb64486",
+    "text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — the popular skeptic version is false |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
+    "raw_text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — **the popular skeptic version is false** |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.2 Where to Look When Something Comes Up Mid-Conversation"
+      "8.2 Where to Look While Reading or in Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20087,7 +20087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look When Something Comes Up Mid-Conversation",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look While Reading or in Conversation",
     "source_reference": "paragraph:649",
     "parent_id": null,
     "related_ids": [],
@@ -20110,7 +20110,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.2 Where to Look When Something Comes Up Mid-Conversation"
+      "8.2 Where to Look While Reading or in Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20118,7 +20118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look When Something Comes Up Mid-Conversation",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look While Reading or in Conversation",
     "source_reference": "paragraph:650",
     "parent_id": null,
     "related_ids": [],
@@ -20133,9 +20133,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6029bfd17c99407c233a",
-    "text": "Ranked by expected exposure. Not yet audited.",
-    "raw_text": "Ranked by expected exposure. Not yet audited.",
+    "id": "rk_51fe7e7651018ae74e01",
+    "text": "Ranked by verification priority. Not yet audited.",
+    "raw_text": "Ranked by verification priority. Not yet audited.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20413,9 +20413,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_28207eff10dab1a4b386",
-    "text": "Verified elsewhere and safe to use: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
-    "raw_text": "**Verified elsewhere and safe to use:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
+    "id": "rk_7296d20067da83e96bf6",
+    "text": "Verified elsewhere: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
+    "raw_text": "**Verified elsewhere:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20445,9 +20445,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3cde02747b96baffbaec",
-    "text": "Not yet audited in this document. Treat as usable but unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 deflection phrases · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
-    "raw_text": "**Not yet audited in this document.** Treat as usable but unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 deflection phrases · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
+    "id": "rk_7ea0b08d4b951968add0",
+    "text": "Not yet audited in this document. Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
+    "raw_text": "**Not yet audited in this document.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20509,9 +20509,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_280c6694875e889301ff",
-    "text": "§12.8 John 8:44 — say anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Study Notes §8.5 audit.\n§13 Trinity / Nicaea — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
-    "raw_text": "- **§12.8 John 8:44** — say **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Study Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
+    "id": "rk_f337487fe77b2b43e675",
+    "text": "§12.8 John 8:44 — use anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.\n§13 Trinity / Nicaea — verify against Historical Framework §7. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns imperial enforcement of a theological outcome and the exile of dissenters.",
+    "raw_text": "- **§12.8 John 8:44** — use **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns imperial enforcement of a theological outcome and the exile of dissenters.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -20541,9 +20541,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_17532371016f61585ace",
-    "text": "Living document — update as conversations progress",
-    "raw_text": "*Living document — update as conversations progress*",
+    "id": "rk_72002581dec258b00fc9",
+    "text": "Living document — update as reading and conversations progress",
+    "raw_text": "*Living document — update as reading and conversations progress*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",

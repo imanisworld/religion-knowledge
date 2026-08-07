@@ -183,3 +183,17 @@ test('Observations display rename preserves legacy record IDs', () => {
   assert.equal(renamed.records[0].topics[0], 'Observations: Live Conversation Reference');
   assert.equal(renamed.records[0].text, 'See Observations §2.');
 });
+
+test('reader-focused heading and prompt labels preserve unchanged record IDs', () => {
+  const legacy = parseMarkdown({
+    sourceFile: 'Field_Guide_Conversation_Reference.md',
+    content: '# 2. COMMON CLAIMS & RESPONSES\n\n**Why this critique holds up — and what to say:**\n\n• Soft: "What supports that reading?"',
+  });
+  const renamed = parseMarkdown({
+    sourceFile: 'Field_Guide_Conversation_Reference.md',
+    content: '# 2. COMMON CLAIMS — CONTEXT AND QUESTIONS\n\n**Why this assessment holds — questions for conversation:**\n\n• Clarifying question: "What supports that reading?"',
+  });
+
+  assert.deepEqual(renamed.records.map(({ id }) => id), legacy.records.map(({ id }) => id));
+  assert.equal(renamed.records.at(-1).text, '• Clarifying question: "What supports that reading?"');
+});

@@ -46,7 +46,7 @@ These are the hard anchors. They are physical objects with dates, and they are n
 
 **What else it establishes.** <cite index="55-1">It is the most extensive inscription ever recovered referring to the kingdom of Israel — the "House of Omri" — and it bears the earliest certain extrabiblical reference to YHWH.</cite>
 
-**The believer's use of it, stated fairly.** Livius notes it directly: <cite index="60-1">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3. Concede that; the theology point is the stronger one anyway.
+**Its relevance to biblical history, stated fairly.** Livius notes it directly: <cite index="60-1">in the nineteenth century many scholars had begun doubting the Bible's reliability as a historical source, and the Mesha stela was seen as an important argument against those skeptics.</cite> It does corroborate the general situation of 2 Kings 3 while leaving the competing theological interpretations visible.
 
 → [Full translation and commentary (Livius.org)](https://www.livius.org/sources/content/anet/320-the-stela-of-mesha/)
 
@@ -60,7 +60,7 @@ These are the hard anchors. They are physical objects with dates, and they are n
 
 **What it does not establish.** Anything about the *scale* of his kingdom — which is where the actual scholarly fight is. See Historical Framework §2.3.
 
-**Handle with care.** If you argue David never existed, this is the object that will be produced, and you will lose. Argue scale, not existence.
+**What it supports.** The inscription weighs strongly against treating David as wholly invented. It supports a dynasty identified with David, while the scale of the biblical kingdom remains a separate question.
 
 ### 1.4 The Sennacherib Prism — 691 BCE
 
@@ -70,7 +70,7 @@ These are the hard anchors. They are physical objects with dates, and they are n
 
 **What makes it exceptional.** <cite index="57-1">It gives a different perspective on these events from the Books of Kings, and some passages in 2 Kings 18–19 agree with at least a few of the claims on the prism.</cite> The prism records tribute and the shutting-up, and does **not** claim Jerusalem was taken. 2 Kings says the siege lifted. Two hostile sources, one event, compatible facts, incompatible explanations.
 
-**This is the best-corroborated event in the Hebrew Bible.** ⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩ Concede it immediately and without hedging. Doing so establishes that you follow evidence, which is what makes your other concessions demands credible.
+**This is the best-corroborated event in the Hebrew Bible.** ⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩ Give that corroboration its full weight while keeping historical agreement separate from theological explanation.
 
 → [Translation (Livius.org)](https://www.livius.org/sources/content/anet/287-the-sennacherib-prism/) · [Background (Wikipedia)](https://en.wikipedia.org/wiki/Sennacherib's_Annals)
 
@@ -170,7 +170,7 @@ Both passages are in most printed Bibles. Being able to say *I have looked at th
 For understanding how the theology was built rather than how the story is told:
 
 1. **1 Thessalonians** (c. 50 CE) — the earliest Christian document that survives. Note what is *absent*: no virgin birth, no empty tomb narrative, no biography.
-2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Concede its early date. Note it lists appearances and does not mention an empty tomb.
+2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Note its early date, that it lists appearances, and that it does not mention an empty tomb.
 3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.
 4. **Mark 16:1–8** — the original ending.
 5. **John 1:1–18** — the prologue, where the high Christology is explicit.
@@ -183,19 +183,19 @@ For understanding how the theology was built rather than how the story is told:
 
 **The comparison worth holding.** The Quranic text was standardized under Uthman within about twenty years of Muhammad's death — much tighter than the New Testament's transmission, and Muslim apologists press this correctly. But the *sira* and hadith, which supply almost all biographical detail, were compiled one to two centuries later, a gap comparable to or worse than the Gospels'. Ibn Ishaq's biography survives only through Ibn Hisham's later edition.
 
-## 6. Checking Yourself
+## 6. Source Verification
 
 ### 6.1 History for Atheists
 
 **What it is.** Tim O'Neill, an atheist, systematically debunking bad atheist history — the Nicaea myths, mythicism, the Dark Ages thesis, the Horus parallels, the Hypatia legend.
 
-**Why it is in this document.** Cited approvingly at Historical Framework §9. If you are about to use a historical claim in an argument, check it here first. His work on the Testimonium is a model of how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.
+**Why it is in this document.** Cited approvingly at Historical Framework §9. When a historical claim appears in reading or conversation, check it here first. His work on the Testimonium models how to state a position: name the minority scholars, credit their work, and then say plainly that they are a minority.
 
 → [History for Atheists](https://historyforatheists.com/)
 
 ### 6.2 The standing rule
 
-Three questions before any source enters an argument:
+Three questions before relying on any source:
 
 1. **Have I opened it?** Not read about it — opened it.
 2. **How long between the event and the writing?**

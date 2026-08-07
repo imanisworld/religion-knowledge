@@ -27,8 +27,8 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 | # | Document | What it holds |
 |---|---|---|
 | 1 | **Study Notes** | Findings and textual analysis from the reading, with audit corrections filed inline beneath the claims they revise |
-| 2 | **Observations** | Live-conversation material — talking points, responses, deflection handling |
-| 3 | **Historical Framework** | The chronological spine, how evidence works, and bad history on both sides |
+| 2 | **Observations** | Reading observations, common claims, contextual notes, and questions for conversation |
+| 3 | **Historical Framework** | Chronology, historical context, how evidence works, and commonly misstated claims |
 | 4 | **Sources & Primary Texts** | What each primary source says, with links to free full texts |
 | 5 | **The Strongest Case** | Theologians and apologists worth engaging, plus how the literal/allegorical switch works |
 | 6 | **Translations** | Translation philosophies, committee bias, and where versions diverge |

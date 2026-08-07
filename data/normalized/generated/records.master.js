@@ -124,9 +124,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_305665b38ac3a186ffc7",
-    "text": "How to read this document. Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits directly beneath it, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n\nScope: this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the Observations: Live Conversation Reference.",
-    "raw_text": "> **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n>\n> **Scope:** this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the **Observations: Live Conversation Reference**.",
+    "id": "rk_b30ac6a0e0aa4b12a934",
+    "text": "How to read this document. Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits directly beneath it, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n\nScope: this document holds findings, textual analysis, and what the reading has established. Quick-reference observations, common claims, contextual notes, and questions live in the Observations: Live Conversation Reference.",
+    "raw_text": "> **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n>\n> **Scope:** this document holds findings, textual analysis, and what the reading has established. Quick-reference observations, common claims, contextual notes, and questions live in the **Observations: Live Conversation Reference**.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
@@ -711,9 +711,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b54b2c6a7e559c2249ce",
-    "text": "Debate note: this is one of your strongest and most portable lines, because it requires no translation dispute and no contested dating — just reading Job 1 in English closely. Ask a believer to point to the verse where Job's Satan rebels, falls, or acts independently of God. There isn't one. The rebellion is a different, much later story grafted onto an earlier one.",
-    "raw_text": "**Debate note:** this is one of your strongest and most portable lines, because it requires no translation dispute and no contested dating — just reading Job 1 in English closely. Ask a believer to point to the verse where Job's Satan rebels, falls, or acts independently of God. There isn't one. The rebellion is a different, much later story grafted onto an earlier one.",
+    "id": "rk_d188ec3b542bcb595280",
+    "text": "Reading and conversation note: Job 1 itself never says that ha-satan rebels, falls, or acts independently of God. That later rebellion story should be distinguished from the role presented in this earlier text.",
+    "raw_text": "**Reading and conversation note:** Job 1 itself never says that ha-satan rebels, falls, or acts independently of God. That later rebellion story should be distinguished from the role presented in this earlier text.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -1743,9 +1743,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2fb60f8713debc90d20f",
-    "text": "WHY IT LOOKED RIGHT : The exilic framing is the most emotionally resonant version — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered version is harder to attack and costs an opponent more, because \"which layer\" is a question they cannot answer either.",
-    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The exilic framing is the most emotionally resonant version — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered version is harder to attack and costs an opponent more, because \"which layer\" is a question they cannot answer either.",
+    "id": "rk_b542cefe54da825f1589",
+    "text": "WHY IT LOOKED RIGHT : The exilic framing is emotionally resonant — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered account better reflects the evidence and keeps the question of composition layers open.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The exilic framing is emotionally resonant — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered account better reflects the evidence and keeps the question of composition layers open.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -1776,9 +1776,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e9e8378b9e786a19450c",
-    "text": "Debate note: the stage you pick changes the argument. Josianic = monarchic state-building propaganda. Exilic = displaced-people identity literature. Persian = negotiated document among rival factions. Use the layered version.",
-    "raw_text": "**Debate note:** the stage you pick changes the argument. Josianic = monarchic state-building propaganda. Exilic = displaced-people identity literature. Persian = negotiated document among rival factions. Use the layered version.",
+    "id": "rk_14e4a1f79127feba7e91",
+    "text": "Reading and conversation note: the proposed stage changes the interpretation. Josianic = monarchic state-building literature. Exilic = displaced-people identity literature. Persian = a negotiated document among rival factions. Keep the layered model in view.",
+    "raw_text": "**Reading and conversation note:** the proposed stage changes the interpretation. Josianic = monarchic state-building literature. Exilic = displaced-people identity literature. Persian = a negotiated document among rival factions. Keep the layered model in view.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -2179,9 +2179,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9210a52f23fdedc76669",
-    "text": "Debate note: do not use the eleph argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.",
-    "raw_text": "**Debate note:** do not use the *eleph* argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.",
+    "id": "rk_2c23552203d15c375b41",
+    "text": "Reading and conversation note: the eleph proposal is a real philological hypothesis but does not resolve the demographic problem. Treat the census numbers as schematic and ask what literary or theological work the large totals perform.",
+    "raw_text": "**Reading and conversation note:** the *eleph* proposal is a real philological hypothesis but does not resolve the demographic problem. Treat the census numbers as schematic and ask what literary or theological work the large totals perform.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -3206,9 +3206,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f3f28a93b0763e2f9e68",
-    "text": "Do not argue in debate that the verse means rape; the two-party death penalty defeats it (Torah punishes rapists alone, Deut 22:25–26). Do argue that a blanket ban would be unprecedented in the ANE, that specialists have produced 21 readings with no consensus, and that Milgrom — no liberal — held it binding on Israelites in the land and nobody else. Strongest ground remains the selective-application problem at §1.5 : nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.",
-    "raw_text": "**Do not argue in debate** that the verse means rape; the two-party death penalty defeats it (Torah punishes rapists alone, Deut 22:25–26). **Do argue** that a blanket ban would be unprecedented in the ANE, that specialists have produced 21 readings with no consensus, and that Milgrom — no liberal — held it binding on Israelites in the land and nobody else. Strongest ground remains the selective-application problem at §1.5 ⟨YOURS — you identified this pattern from the reading before any of the scholarship was brought in⟩: nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.",
+    "id": "rk_4e878726a1c83c8fda72",
+    "text": "Reading note: the verse should not be summarized as meaning rape; the two-party death penalty weighs against that reading (Torah punishes rapists alone, Deut 22:25–26). A blanket prohibition would be unprecedented in the ANE, specialists have produced 21 readings with no consensus, and Milgrom held it binding on Israelites in the land and nobody else. The selective-application question at §1.5 remains important : nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.",
+    "raw_text": "**Reading note:** the verse should not be summarized as meaning rape; the two-party death penalty weighs against that reading (Torah punishes rapists alone, Deut 22:25–26). A blanket prohibition would be unprecedented in the ANE, specialists have produced 21 readings with no consensus, and Milgrom held it binding on Israelites in the land and nobody else. The selective-application question at §1.5 remains important ⟨YOURS — you identified this pattern from the reading before any of the scholarship was brought in⟩: nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
@@ -4167,9 +4167,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9aa08f2fffd3d2643e45",
-    "text": "WHY IT LOOKED RIGHT : \"retrofitted\" is punchy and gets the direction of causation right (event first, prophetic reading second) — which is the important part and is correct. The risk is a well-read opponent countering with \"that's not fraud, that's typology,\" which is technically true and can make the whole line look naive if you have not already named the method yourself.",
-    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** \"retrofitted\" is punchy and gets the direction of causation right (event first, prophetic reading second) — which is the important part and is correct. The risk is a well-read opponent countering with \"that's not fraud, that's typology,\" which is technically true and can make the whole line look naive if you have not already named the method yourself.",
+    "id": "rk_1e123fe4d7bf65f6bd2f",
+    "text": "WHY IT LOOKED RIGHT : \"retrofitted\" captures the sequence (event first, prophetic reading second), but it can obscure the established category of typology. Name the interpretive method directly and then evaluate its limits.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** \"retrofitted\" captures the sequence (event first, prophetic reading second), but it can obscure the established category of typology. Name the interpretive method directly and then evaluate its limits.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -4200,9 +4200,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_40163c4dffd4dee252b2",
-    "text": "Debate note: use Hosea 11:1, not Isaiah 7:14, as your lead example — it is the cleanest case with no serious scholarly dispute about the original sense, and it does not require adjudicating the almah/parthenos translation fight. Name the method yourself (\"this is typology — reading Israel's history as a pattern fulfilled in Jesus\") before your opponent does; it removes their easiest rebuttal and lets you ask the harder question instead: if this method can make any past event predictive of any future one, what would falsify it?",
-    "raw_text": "**Debate note:** use Hosea 11:1, not Isaiah 7:14, as your lead example — it is the cleanest case with no serious scholarly dispute about the original sense, and it does not require adjudicating the almah/parthenos translation fight. Name the method yourself (\"this is typology — reading Israel's history as a pattern fulfilled in Jesus\") before your opponent does; it removes their easiest rebuttal and lets you ask the harder question instead: *if this method can make any past event predictive of any future one, what would falsify it?*",
+    "id": "rk_7c564c4ca3a36ba2566f",
+    "text": "Reading and conversation note: Hosea 11:1 is a clear example because its original sense is not seriously disputed and it avoids the almah/parthenos translation question. Name the method directly — typology, reading Israel's history as a pattern fulfilled in Jesus — then ask what limits or could falsify that method.",
+    "raw_text": "**Reading and conversation note:** Hosea 11:1 is a clear example because its original sense is not seriously disputed and it avoids the *almah/parthenos* translation question. Name the method directly — typology, reading Israel's history as a pattern fulfilled in Jesus — then ask what limits or could falsify that method.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -4213,8 +4213,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
     ],
     "subtopics": [],
-    "record_type": "QUESTION",
-    "status": "OPEN",
+    "record_type": "AUDIT_NOTE",
+    "status": null,
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
@@ -4635,9 +4635,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_0d8cb96adf967fc93495",
-    "text": "Debate note: lead with the count — three explicit declarations of innocence in Luke alone, plus Herod. That is a textual fact your opponent cannot dispute. Do not lead with \"Rome is let off the hook,\" which invites a real rebuttal.",
-    "raw_text": "**Debate note:** lead with the count — three explicit declarations of innocence in Luke alone, plus Herod. That is a textual fact your opponent cannot dispute. Do not lead with \"Rome is let off the hook,\" which invites a real rebuttal.",
+    "id": "rk_52f882994ac9d85cc85d",
+    "text": "Reading and conversation note: begin with the textual observation: Luke gives three explicit declarations of innocence, plus Herod's. Then consider competing explanations for that narrative emphasis, including Christological purpose and the distribution of Roman and Jewish culpability.",
+    "raw_text": "**Reading and conversation note:** begin with the textual observation: Luke gives three explicit declarations of innocence, plus Herod's. Then consider competing explanations for that narrative emphasis, including Christological purpose and the distribution of Roman and Jewish culpability.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5064,9 +5064,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6764b60a080c10f3c4d7",
-    "text": "The convention-versus-forgery question. The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use \"forgery\" outright. [Ehrman's position is recalled, not verified this session — check before deploying.]",
-    "raw_text": "**The convention-versus-forgery question.** The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use \"forgery\" outright. [Ehrman's position is recalled, not verified this session — check before deploying.]",
+    "id": "rk_797291b3c999c5004972",
+    "text": "The convention-versus-forgery question. The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use \"forgery\" outright. [Ehrman's position is recalled, not verified this session — check before relying on it.]",
+    "raw_text": "**The convention-versus-forgery question.** The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use \"forgery\" outright. [Ehrman's position is recalled, not verified this session — check before relying on it.]",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -6002,9 +6002,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b54ce61f99f5f7dc97e4",
-    "text": "Terminology correction: the standard scholarly term is anti-Jewish, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way \"homosexuality\" is anachronistic in Leviticus. This matters — using the wrong term invites a correction that lets an opponent dismiss the whole point.",
-    "raw_text": "**Terminology correction:** the standard scholarly term is **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way \"homosexuality\" is anachronistic in Leviticus. This matters — using the wrong term invites a correction that lets an opponent dismiss the whole point.",
+    "id": "rk_7302e1b0a5e2d3cd1c9b",
+    "text": "Terminology correction: the standard scholarly term is anti-Jewish, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way \"homosexuality\" is anachronistic in Leviticus. The distinction keeps the historical claim precise.",
+    "raw_text": "**Terminology correction:** the standard scholarly term is **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way \"homosexuality\" is anachronistic in Leviticus. The distinction keeps the historical claim precise.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -6103,9 +6103,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_50ad7f37647b08aeba87",
-    "text": "Debate note: this is one of the few places where the strongest version of your argument does not need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.",
-    "raw_text": "**Debate note:** this is one of the few places where the strongest version of your argument does **not** need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.",
+    "id": "rk_f5ad1e53db108de50365",
+    "text": "Reading and conversation note: this is one of the few places where the strongest version of your argument does not need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.",
+    "raw_text": "**Reading and conversation note:** this is one of the few places where the strongest version of your argument does **not** need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -6666,9 +6666,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1f9495bc4a7523daf62e",
-    "text": "Debate note: the failed-deadline argument is strong on its own and needs no causal story attached. Ask about Mark 13:30 and Matthew 16:28 directly. Do not add \"and that's why John was written,\" because a well-read opponent can cite Ratzinger against you.",
-    "raw_text": "**Debate note:** the failed-deadline argument is strong on its own and needs no causal story attached. Ask about Mark 13:30 and Matthew 16:28 directly. Do not add \"and that's why John was written,\" because a well-read opponent can cite Ratzinger against you.",
+    "id": "rk_2c1bb4d66815d0409f0f",
+    "text": "Reading and conversation note: examine Mark 13:30 and Matthew 16:28 directly without treating the delay of the parousia as a settled explanation for why John was written; Ratzinger offers a substantial objection to that developmental account.",
+    "raw_text": "**Reading and conversation note:** examine Mark 13:30 and Matthew 16:28 directly without treating the delay of the parousia as a settled explanation for why John was written; Ratzinger offers a substantial objection to that developmental account.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -7229,9 +7229,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d71d6e76a888bc1d9f81",
-    "text": "Debate note: don't open with \"Acts and Galatians contradict each other\" — you'll get a same-event/different-event debate that goes nowhere useful. Open with Galatians 2:6 directly: Paul says Jerusalem added nothing. Then ask what a formal dietary and sexual-conduct decree, delivered as binding, would count as if not \"adding something.\"",
-    "raw_text": "**Debate note:** don't open with \"Acts and Galatians contradict each other\" — you'll get a same-event/different-event debate that goes nowhere useful. Open with Galatians 2:6 directly: Paul says Jerusalem added nothing. Then ask what a formal dietary and sexual-conduct decree, delivered as binding, would count as if not \"adding something.\"",
+    "id": "rk_6195448ebd5ff69535be",
+    "text": "Reading and conversation note: begin with Galatians 2:6, where Paul says Jerusalem added nothing, and compare it with the formal dietary and sexual-conduct decree in Acts. The same-event/different-event question can then be evaluated from the texts rather than assumed at the outset.",
+    "raw_text": "**Reading and conversation note:** begin with Galatians 2:6, where Paul says Jerusalem added nothing, and compare it with the formal dietary and sexual-conduct decree in Acts. The same-event/different-event question can then be evaluated from the texts rather than assumed at the outset.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -7560,9 +7560,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f433dc8d0d640427b1c3",
-    "text": "The distinction that resolves it: Hemer's evidence establishes accuracy in incidental external detail — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. Equally, the critical side should concede the detail accuracy rather than ignore it: whoever wrote Acts knew the eastern Mediterranean well.",
-    "raw_text": "**The distinction that resolves it:** Hemer's evidence establishes accuracy in **incidental external detail** — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. Equally, the critical side should concede the detail accuracy rather than ignore it: whoever wrote Acts knew the eastern Mediterranean well.",
+    "id": "rk_bdfbbd143dfd0918df51",
+    "text": "The distinction that resolves it: Hemer's evidence establishes accuracy in incidental external detail — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. The detail accuracy still deserves full weight: whoever wrote Acts knew the eastern Mediterranean well.",
+    "raw_text": "**The distinction that resolves it:** Hemer's evidence establishes accuracy in **incidental external detail** — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. The detail accuracy still deserves full weight: whoever wrote Acts knew the eastern Mediterranean well.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -7788,9 +7788,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2c022ca37dba8db73dbd",
-    "text": "What this establishes, independent of any Acts comparison: the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. This is Paul's own testimony that Christianity's founding leadership was in open, public dispute over what the movement actually required of a Gentile convert — not a settled question with a clean answer, but a live fight Paul was actively losing ground in and wrote this letter to try to win.",
-    "raw_text": "**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. This is Paul's own testimony that Christianity's founding leadership was in open, public dispute over what the movement actually required of a Gentile convert — not a settled question with a clean answer, but a live fight Paul was actively losing ground in and wrote this letter to try to win.",
+    "id": "rk_534326c4b2ce28e0a2a8",
+    "text": "What this establishes, independent of any Acts comparison: the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
+    "raw_text": "**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -7820,7 +7820,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9ebd795884e4b0ef2514",
+    "id": "rk_e0ff9b74ada182180d82",
     "text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be accursed (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would go the whole way and castrate themselves — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.",
     "raw_text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -7829,7 +7829,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -7837,7 +7837,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:239",
     "parent_id": null,
     "related_ids": [],
@@ -7852,7 +7852,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e40a834e34c304448898",
+    "id": "rk_bed46d8e421e5f3a341a",
     "text": "This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:",
     "raw_text": "**This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -7861,7 +7861,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -7869,7 +7869,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:240",
     "parent_id": null,
     "related_ids": [],
@@ -7884,7 +7884,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_a1926f9a8b6da5c75b89",
+    "id": "rk_37c32e2a775a62945310",
     "text": "The traditional (\"Lutheran\") reading. Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. \"Works of the law\" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of Thomas Schreiner [EVANGELICAL], Stephen Westerholm [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his Perspectives Old and New on Paul is the standard survey of the whole debate and treats every side fairly], and Peter Stuhlmacher [CRITICAL, German].",
     "raw_text": "**The traditional (\"Lutheran\") reading.** Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. \"Works of the law\" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of **Thomas Schreiner** [EVANGELICAL], **Stephen Westerholm** [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his *Perspectives Old and New on Paul* is the standard survey of the whole debate and treats every side fairly], and **Peter Stuhlmacher** [CRITICAL, German].",
     "provenance_type": "REVIEW_REQUIRED",
@@ -7893,7 +7893,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -7901,7 +7901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:241",
     "parent_id": null,
     "related_ids": [],
@@ -7916,7 +7916,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6445442e2a1cd154b8b2",
+    "id": "rk_bf6b3e6f6672dafeafdb",
     "text": "The New Perspective on Paul (NPP). E.P. Sanders [CRITICAL], Paul and Palestinian Judaism (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the \"legalistic Judaism\" the Reformation reading assumes Paul was fighting did not exist — Second Temple Judaism operated on what Sanders termed covenantal nomism: you are already in the covenant by God's grace, and law-observance is the response to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.",
     "raw_text": "**The New Perspective on Paul (NPP).** **E.P. Sanders** [CRITICAL], *Paul and Palestinian Judaism* (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the \"legalistic Judaism\" the Reformation reading assumes Paul was fighting **did not exist** — Second Temple Judaism operated on what Sanders termed **covenantal nomism**: you are already in the covenant by God's grace, and law-observance is the *response* to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -7925,7 +7925,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -7933,7 +7933,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:242",
     "parent_id": null,
     "related_ids": [],
@@ -7948,7 +7948,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_71a9cb4e865b63d83c42",
+    "id": "rk_2cde640db181a4dd23aa",
     "text": "James D.G. Dunn [CRITICAL] — coined the term \"New Perspective\" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing \"works of the law\" in Galatians refers not to earning salvation generally but specifically to ethnic boundary markers: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about who counts as included, not about whether good works can save you.",
     "raw_text": "**James D.G. Dunn** [CRITICAL] — coined the term \"New Perspective\" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing \"works of the law\" in Galatians refers not to earning salvation generally but specifically to **ethnic boundary markers**: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about **who counts as included**, not about whether good works can save you.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -7957,7 +7957,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -7965,7 +7965,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:243",
     "parent_id": null,
     "related_ids": [],
@@ -7980,7 +7980,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7368246cea4efc2e90bb",
+    "id": "rk_bb26c4864a1e4e7ebb12",
     "text": "N.T. Wright [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -7989,7 +7989,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -7997,7 +7997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:244",
     "parent_id": null,
     "related_ids": [],
@@ -8012,7 +8012,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2fefdb5f6728e0563741",
+    "id": "rk_15430b4540b3f0df4138",
     "text": "The strongest critical pushback on the NPP, stated fairly — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target ethnic exclusivism (NPP) or a wider human tendency to seek self-justification through one's own achievement (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys \"righteousness\" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying the ungodly — a category that doesn't fit neatly into a \"boundary marker\" dispute.",
     "raw_text": "**The strongest critical pushback on the NPP, stated fairly** — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target *ethnic exclusivism* (NPP) or *a wider human tendency to seek self-justification through one's own achievement* (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys \"righteousness\" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying **the ungodly** — a category that doesn't fit neatly into a \"boundary marker\" dispute.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8021,7 +8021,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8029,7 +8029,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:245",
     "parent_id": null,
     "related_ids": [],
@@ -8044,7 +8044,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_324b2ca5f2f9304c8f85",
+    "id": "rk_1573199624d7caa9aa2a",
     "text": "What to do with this : don't resolve this now. Hold both readings as you go through Galatians 2–3 and into Romans, and watch which one the text supports better as Paul's argument develops — particularly Galatians 3:10–14 (the curse of the law) and Romans 3–4, which is where the traditional reading has its strongest textual ground. The debate matters for more than academic precision: if NPP is right, two thousand years of \"Paul vs. legalism\" sermons have been fighting a strawman version of Judaism that real practicing Jews in Paul's own century didn't hold — which is itself a significant finding about how doctrine gets built on a mischaracterization of the group being argued against.",
     "raw_text": "**What to do with this** ⟨INFERENCE⟩**:** don't resolve this now. Hold both readings as you go through Galatians 2–3 and into Romans, and watch which one the text supports better as Paul's argument develops — particularly Galatians 3:10–14 (the curse of the law) and Romans 3–4, which is where the traditional reading has its strongest textual ground. The debate matters for more than academic precision: if NPP is right, two thousand years of \"Paul vs. legalism\" sermons have been fighting a strawman version of Judaism that real practicing Jews in Paul's own century didn't hold — which is itself a significant finding about how doctrine gets built on a mischaracterization of the group being argued against.",
     "provenance_type": "CLAUDE",
@@ -8053,7 +8053,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8061,7 +8061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:246",
     "parent_id": null,
     "related_ids": [],
@@ -8076,16 +8076,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_48b7a4aeedf3448addbf",
-    "text": "Debate note: this is not yet debate-ready material — it's a live, genuinely contested scholarly question, and deploying either side as settled fact will be an easy target for anyone who knows the literature. What is debate-ready right now: Galatians 1:8–9 and 5:12 as evidence of the ferocity of internal Christian conflict from the very beginning, regardless of which side of the NPP debate is correct.",
-    "raw_text": "**Debate note:** this is not yet debate-ready material — it's a live, genuinely contested scholarly question, and deploying either side as settled fact will be an easy target for anyone who knows the literature. What *is* debate-ready right now: Galatians 1:8–9 and 5:12 as evidence of the ferocity of internal Christian conflict from the very beginning, regardless of which side of the NPP debate is correct.",
+    "id": "rk_9598915b8db58f37f657",
+    "text": "Reading and conversation note: this is a genuinely contested scholarly question, so neither side should be treated as settled. Galatians 1:8–9 and 5:12 do clearly show the intensity of internal Christian conflict from the movement's early period, regardless of which reading of Paul proves stronger.",
+    "raw_text": "**Reading and conversation note:** this is a genuinely contested scholarly question, so neither side should be treated as settled. Galatians 1:8–9 and 5:12 do clearly show the intensity of internal Christian conflict from the movement's early period, regardless of which reading of Paul proves stronger.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
-      "9.5.2 The theological stakes — and the fault line you need before Romans"
+      "9.5.2 The theological stakes — a question to track before Romans"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -8093,7 +8093,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — a question to track before Romans",
     "source_reference": "paragraph:247",
     "parent_id": null,
     "related_ids": [],

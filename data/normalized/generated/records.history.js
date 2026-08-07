@@ -4,9 +4,9 @@
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
-    "id": "rk_486bdc8554670e39e035",
-    "text": "The Backbone — Chronology, Evidence, and Bad History on Both Sides",
-    "raw_text": "*The Backbone — Chronology, Evidence, and Bad History on Both Sides*",
+    "id": "rk_3c7ec9d06972af2dd4c6",
+    "text": "Chronology, Evidence, and Historical Context",
+    "raw_text": "*Chronology, Evidence, and Historical Context*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -64,9 +64,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_50de0706607eee1cf79a",
-    "text": "Provenance. Written by: Claude, 7 August 2026, verified by search. Nothing here is your prior work. The dates and events are documented and standard; the framing — especially which arguments to drop and why — is Claude's judgement and marked where it matters.",
-    "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. **Nothing here is your prior work.** The dates and events are documented and standard; the *framing* — especially which arguments to drop and why — is Claude's judgement and marked where it matters.",
+    "id": "rk_c79d2aab57328f96b529",
+    "text": "Provenance. Written by: Claude, 7 August 2026, verified by search. Nothing here is your prior work. The dates and events are documented and standard; interpretive judgements are marked where they matter.",
+    "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. **Nothing here is your prior work.** The dates and events are documented and standard; interpretive judgements are marked where they matter.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -124,9 +124,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d3868570456edb0b4f84",
-    "text": "Why this document exists. Getting outgunned on history is not a knowledge problem, it is a structure problem. Someone who has a chronological spine in their head can place any new fact on it instantly. Someone who has facts without a spine gets buried. This document is the spine.\n\nThe hardest rule in here: the fastest way to lose a history argument is to deploy popular skeptic claims that are not true. §9 lists them. Read §9 before you read anything else. Most people who \"lost to history\" lost because they were carrying bad ammunition, not because the other side was right.",
-    "raw_text": "> **Why this document exists.** Getting outgunned on history is not a knowledge problem, it is a *structure* problem. Someone who has a chronological spine in their head can place any new fact on it instantly. Someone who has facts without a spine gets buried. This document is the spine.\n>\n> **The hardest rule in here:** the fastest way to lose a history argument is to deploy popular skeptic claims that are not true. §9 lists them. Read §9 before you read anything else. Most people who \"lost to history\" lost because they were carrying bad ammunition, not because the other side was right.",
+    "id": "rk_fd140a8bfb0d046519f9",
+    "text": "How to use this document. Use the chronology to place biblical texts, events, empires, and later doctrines in historical sequence. It is a reference for reading and conversation: what happened, when it happened, what evidence survives, and what remains disputed.\n\nAccuracy note: §9 collects familiar historical claims that do not survive scrutiny. Check it whenever one appears, regardless of which perspective uses it.",
+    "raw_text": "> **How to use this document.** Use the chronology to place biblical texts, events, empires, and later doctrines in historical sequence. It is a reference for reading and conversation: what happened, when it happened, what evidence survives, and what remains disputed.\n>\n> **Accuracy note:** §9 collects familiar historical claims that do not survive scrutiny. Check it whenever one appears, regardless of which perspective uses it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -322,7 +322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Historical Framework",
       "1. How Historical Evidence Actually Works",
-      "1.2 The three questions that resolve most disputes"
+      "1.2 Three questions for evaluating historical claims"
     ],
     "subtopics": [],
     "record_type": "QUESTION",
@@ -330,7 +330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 1. How Historical Evidence Actually Works > 1.2 The three questions that resolve most disputes",
+    "source_section": "Historical Framework > 1. How Historical Evidence Actually Works > 1.2 Three questions for evaluating historical claims",
     "source_reference": "paragraph:11",
     "parent_id": null,
     "related_ids": [],
@@ -354,7 +354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Historical Framework",
       "1. How Historical Evidence Actually Works",
-      "1.2 The three questions that resolve most disputes"
+      "1.2 Three questions for evaluating historical claims"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -362,7 +362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 1. How Historical Evidence Actually Works > 1.2 The three questions that resolve most disputes",
+    "source_section": "Historical Framework > 1. How Historical Evidence Actually Works > 1.2 Three questions for evaluating historical claims",
     "source_reference": "paragraph:12",
     "parent_id": null,
     "related_ids": [],
@@ -377,9 +377,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_69f778ef66589358fe85",
-    "text": "Archaeology routinely confirms that biblical texts know their setting — real cities, real officials, real customs, real titles. This is genuine and should be conceded without hesitation.",
-    "raw_text": "Archaeology routinely confirms that biblical texts know their **setting** — real cities, real officials, real customs, real titles. This is genuine and should be conceded without hesitation.",
+    "id": "rk_4a6e9ac065430547411c",
+    "text": "Archaeology routinely confirms that biblical texts know their setting — real cities, real officials, real customs, real titles. This is genuine evidence and should be given its full weight.",
+    "raw_text": "Archaeology routinely confirms that biblical texts know their **setting** — real cities, real officials, real customs, real titles. This is genuine evidence and should be given its full weight.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -441,9 +441,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_58696fe28e10ef2c2003",
-    "text": "Use this line: \"That confirms the author knew the world. It doesn't confirm the story.\"",
-    "raw_text": "**Use this line:** *\"That confirms the author knew the world. It doesn't confirm the story.\"*",
+    "id": "rk_1dd38057d1d31e722a40",
+    "text": "Concise formulation: \"That confirms the author knew the world. It doesn't confirm the story.\"",
+    "raw_text": "**Concise formulation:** *\"That confirms the author knew the world. It doesn't confirm the story.\"*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -473,15 +473,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2a110ba1a633ef18ab61",
-    "text": "Memorize this and you can place anything. Dates before roughly 900 BCE are approximate and contested; from the Assyrian period onward, chronology is firm because it is anchored to dated eclipses and king lists.",
-    "raw_text": "Memorize this and you can place anything. Dates before roughly 900 BCE are approximate and contested; from the Assyrian period onward, chronology is firm because it is anchored to dated eclipses and king lists.",
+    "id": "rk_cacba49519dfb2671a82",
+    "text": "Use this timeline to place texts and events in sequence. Dates before roughly 900 BCE are approximate and contested; from the Assyrian period onward, chronology is firm because it is anchored to dated eclipses and king lists.",
+    "raw_text": "Use this timeline to place texts and events in sequence. Dates before roughly 900 BCE are approximate and contested; from the Assyrian period onward, chronology is firm because it is anchored to dated eclipses and king lists.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine"
+      "2. Historical Timeline"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -489,7 +489,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine",
+    "source_section": "Historical Framework > 2. Historical Timeline",
     "source_reference": "paragraph:16",
     "parent_id": null,
     "related_ids": [],
@@ -512,7 +512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.1 Bronze Age and the emergence of Israel"
     ],
     "subtopics": [],
@@ -521,7 +521,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.1 Bronze Age and the emergence of Israel",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.1 Bronze Age and the emergence of Israel",
     "source_reference": "paragraph:17",
     "parent_id": null,
     "related_ids": [],
@@ -544,7 +544,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.1 Bronze Age and the emergence of Israel"
     ],
     "subtopics": [],
@@ -553,7 +553,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.1 Bronze Age and the emergence of Israel",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.1 Bronze Age and the emergence of Israel",
     "source_reference": "paragraph:18",
     "parent_id": null,
     "related_ids": [],
@@ -576,7 +576,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2 Monarchy, Assyria, Babylon"
     ],
     "subtopics": [],
@@ -585,7 +585,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2 Monarchy, Assyria, Babylon",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2 Monarchy, Assyria, Babylon",
     "source_reference": "paragraph:19",
     "parent_id": null,
     "related_ids": [],
@@ -608,7 +608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -617,7 +617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:20",
     "parent_id": null,
     "related_ids": [],
@@ -640,7 +640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -649,7 +649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:21",
     "parent_id": null,
     "related_ids": [],
@@ -672,7 +672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -681,7 +681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:22",
     "parent_id": null,
     "related_ids": [],
@@ -704,7 +704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -713,7 +713,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:23",
     "parent_id": null,
     "related_ids": [],
@@ -736,7 +736,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -745,7 +745,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:24",
     "parent_id": null,
     "related_ids": [],
@@ -768,7 +768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -777,7 +777,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:25",
     "parent_id": null,
     "related_ids": [],
@@ -792,15 +792,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_730f9b69902b9941c3b0",
-    "text": "Concede this one freely. It costs nothing and it demonstrates you are arguing from evidence rather than from a conclusion.",
-    "raw_text": "**Concede this one freely.** It costs nothing and it demonstrates you are arguing from evidence rather than from a conclusion.",
+    "id": "rk_a6ed4b90ea8465f413ee",
+    "text": "Give this evidence its full weight. It is a useful example of following the evidence even when it complicates a preferred conclusion.",
+    "raw_text": "**Give this evidence its full weight.** It is a useful example of following the evidence even when it complicates a preferred conclusion.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.2a ⚑ CORRECTION — the Cyrus Cylinder"
     ],
     "subtopics": [],
@@ -809,7 +809,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.2a ⚑ CORRECTION — the Cyrus Cylinder",
     "source_reference": "paragraph:26",
     "parent_id": null,
     "related_ids": [],
@@ -824,16 +824,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_50e724b74f063d760b84",
-    "text": "Not whether David existed — the Tel Dan Stele settled that a dynasty traced itself to a David within about 150 years of his supposed reign. The fight is over scale.",
-    "raw_text": "Not *whether David existed* — the Tel Dan Stele settled that a dynasty traced itself to a David within about 150 years of his supposed reign. The fight is over **scale**.",
+    "id": "rk_9da1fabe3ee5fc931c46",
+    "text": "Not whether David existed — the Tel Dan Stele established that a dynasty traced itself to a David within about 150 years of his supposed reign. The question is scale.",
+    "raw_text": "Not *whether David existed* — the Tel Dan Stele established that a dynasty traced itself to a David within about 150 years of his supposed reign. The question is **scale**.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.3 The one live fight: how big was David's kingdom?"
+      "2. Historical Timeline",
+      "2.3 A live scholarly question: how big was David's kingdom?"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -841,7 +841,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.3 The one live fight: how big was David's kingdom?",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.3 A live scholarly question: how big was David's kingdom?",
     "source_reference": "paragraph:27",
     "parent_id": null,
     "related_ids": [],
@@ -864,8 +864,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.3 The one live fight: how big was David's kingdom?"
+      "2. Historical Timeline",
+      "2.3 A live scholarly question: how big was David's kingdom?"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -873,7 +873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.3 The one live fight: how big was David's kingdom?",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.3 A live scholarly question: how big was David's kingdom?",
     "source_reference": "paragraph:28",
     "parent_id": null,
     "related_ids": [],
@@ -888,16 +888,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_fee88570649af9c5a9ce",
-    "text": "Correct position : the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.",
-    "raw_text": "**Correct position** ⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩**:** the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both halves matter — dropping the first half is how you get caught out.",
+    "id": "rk_28aca2766e75d4e3ea81",
+    "text": "Best-supported synthesis : the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both findings matter.",
+    "raw_text": "**Best-supported synthesis** ⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩**:** the Tel Dan inscription strongly supports that a ninth-century dynasty identified itself as Davidic. That evidences the dynasty's self-description, not the man's deeds. The empire described in Samuel–Kings is not archaeologically supported at that scale. Both findings matter.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.3 The one live fight: how big was David's kingdom?"
+      "2. Historical Timeline",
+      "2.3 A live scholarly question: how big was David's kingdom?"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -905,7 +905,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.3 The one live fight: how big was David's kingdom?",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.3 A live scholarly question: how big was David's kingdom?",
     "source_reference": "paragraph:29",
     "parent_id": null,
     "related_ids": [],
@@ -920,16 +920,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_907d9ac53ec56262f519",
-    "text": "This is where the biggest advantage sits, because most believers have a blank between Malachi and Matthew, and almost everything distinctive about first-century Judaism was formed in it.",
-    "raw_text": "This is where the biggest advantage sits, because most believers have a blank between Malachi and Matthew, and almost everything distinctive about first-century Judaism was formed in it.",
+    "id": "rk_faa32efd5ea2e5b7badc",
+    "text": "This period supplies the often-missing context between Malachi and Matthew, when many features distinctive to first-century Judaism took shape.",
+    "raw_text": "This period supplies the often-missing context between Malachi and Matthew, when many features distinctive to first-century Judaism took shape.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.4 The gap nobody teaches: Second Temple period"
+      "2. Historical Timeline",
+      "2.4 The Second Temple period"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -937,7 +937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.4 The Second Temple period",
     "source_reference": "paragraph:30",
     "parent_id": null,
     "related_ids": [],
@@ -960,8 +960,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.4 The gap nobody teaches: Second Temple period"
+      "2. Historical Timeline",
+      "2.4 The Second Temple period"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -969,7 +969,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.4 The Second Temple period",
     "source_reference": "paragraph:31",
     "parent_id": null,
     "related_ids": [],
@@ -992,8 +992,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.4 The gap nobody teaches: Second Temple period"
+      "2. Historical Timeline",
+      "2.4 The Second Temple period"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1001,7 +1001,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.4 The Second Temple period",
     "source_reference": "paragraph:32",
     "parent_id": null,
     "related_ids": [],
@@ -1024,8 +1024,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.4 The gap nobody teaches: Second Temple period"
+      "2. Historical Timeline",
+      "2.4 The Second Temple period"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1033,7 +1033,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.4 The Second Temple period",
     "source_reference": "paragraph:33",
     "parent_id": null,
     "related_ids": [],
@@ -1048,16 +1048,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_5043c8e4706178a43ea4",
-    "text": "Debate application: if someone insists their theology comes straight from the Bible, ask where hell, Satan, angels, and resurrection came from — and then ask why those concepts are missing from the Torah and appear fully formed by the first century. The answer is four centuries of history they were never taught.",
-    "raw_text": "**Debate application:** if someone insists their theology comes straight from the Bible, ask where hell, Satan, angels, and resurrection came from — and then ask why those concepts are missing from the Torah and appear fully formed by the first century. The answer is four centuries of history they were never taught.",
+    "id": "rk_e632fca75dc832a9ef49",
+    "text": "Reading and conversation note: when ideas such as hell, Satan, angels, and resurrection appear in a discussion, compare their treatment in the Torah with their developed forms by the first century. The Second Temple period supplies essential historical context for that development.",
+    "raw_text": "**Reading and conversation note:** when ideas such as hell, Satan, angels, and resurrection appear in a discussion, compare their treatment in the Torah with their developed forms by the first century. The Second Temple period supplies essential historical context for that development.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
-      "2.4 The gap nobody teaches: Second Temple period"
+      "2. Historical Timeline",
+      "2.4 The Second Temple period"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1065,7 +1065,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.4 The gap nobody teaches: Second Temple period",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.4 The Second Temple period",
     "source_reference": "paragraph:34",
     "parent_id": null,
     "related_ids": [],
@@ -1088,7 +1088,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.5 Roman Judea into the Christian era"
     ],
     "subtopics": [],
@@ -1097,7 +1097,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.5 Roman Judea into the Christian era",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.5 Roman Judea into the Christian era",
     "source_reference": "paragraph:35",
     "parent_id": null,
     "related_ids": [],
@@ -1120,7 +1120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "2. The Chronological Spine",
+      "2. Historical Timeline",
       "2.5 Roman Judea into the Christian era"
     ],
     "subtopics": [],
@@ -1129,7 +1129,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2. The Chronological Spine > 2.5 Roman Judea into the Christian era",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.5 Roman Judea into the Christian era",
     "source_reference": "paragraph:36",
     "parent_id": null,
     "related_ids": [],
@@ -1144,9 +1144,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_5113013013199dd8deab",
-    "text": "Handle this precisely. It is where overconfident skeptics get destroyed.",
-    "raw_text": "Handle this precisely. It is where overconfident skeptics get destroyed.",
+    "id": "rk_b4bb6fa0bc52252de581",
+    "text": "Handle this precisely; popular summaries often overstate or understate what the evidence supports.",
+    "raw_text": "Handle this precisely; popular summaries often overstate or understate what the evidence supports.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1392,9 +1392,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_4d4cfe7f48938f0ae8b9",
-    "text": "The claim you will hear: roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
-    "raw_text": "**The claim you will hear:** roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
+    "id": "rk_8619a927bb037557df9f",
+    "text": "A common claim: roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
+    "raw_text": "**A common claim:** roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1423,9 +1423,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_4e3aabfe3a77e4ad3a41",
-    "text": "The factual part is true. Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.",
-    "raw_text": "**The factual part is true.** Do not dispute the numbers; you will lose. Homer is the nearest comparison and it is not close.",
+    "id": "rk_a9a369f4b30d6db280ea",
+    "text": "The factual part is true. Homer is the nearest comparison and it is not close.",
+    "raw_text": "**The factual part is true.** Homer is the nearest comparison and it is not close.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1516,9 +1516,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f6b4b7acb5ee46c0a85f",
-    "text": "What they do not establish, and this is the whole answer:",
-    "raw_text": "**What they do not establish, and this is the whole answer:**",
+    "id": "rk_582185b4d3e95b2173fa",
+    "text": "What they do not establish:",
+    "raw_text": "**What they do not establish:**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1578,9 +1578,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f6c9e0a946257004ef5b",
-    "text": "Use this line: \"I agree we can reconstruct what the second-century text said. That's the part I'm not disputing. What I'm asking about is the sixty years before that, which no manuscript can reach.\"",
-    "raw_text": "**Use this line:** *\"I agree we can reconstruct what the second-century text said. That's the part I'm not disputing. What I'm asking about is the sixty years before that, which no manuscript can reach.\"*",
+    "id": "rk_ced0499a2e14dde54327",
+    "text": "Concise formulation: \"We can reconstruct what the second-century text said with considerable confidence. A separate question concerns the earlier decades that no surviving manuscript can directly reach.\"",
+    "raw_text": "**Concise formulation:** *\"We can reconstruct what the second-century text said with considerable confidence. A separate question concerns the earlier decades that no surviving manuscript can directly reach.\"*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1857,15 +1857,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_73cbdd91c6d67da98abc",
-    "text": "This is the single most common place where a skeptic gets destroyed in live conversation, because the popular version is false and the correction is easy to look up.",
-    "raw_text": "This is the single most common place where a skeptic gets destroyed in live conversation, because the popular version is false and the correction is easy to look up.",
+    "id": "rk_9391ea4602b498dd801b",
+    "text": "The popular claim that Nicaea created the biblical canon is false, and the correction is easy to verify.",
+    "raw_text": "The popular claim that Nicaea created the biblical canon is false, and the correction is easy to verify.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1873,7 +1873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:60",
     "parent_id": null,
     "related_ids": [],
@@ -1896,7 +1896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1904,7 +1904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:61",
     "parent_id": null,
     "related_ids": [],
@@ -1927,7 +1927,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1935,7 +1935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:62",
     "parent_id": null,
     "related_ids": [],
@@ -1950,15 +1950,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_678e88ee22ad34bf3564",
-    "text": "Where the myth comes from, because knowing this is what turns a defeat into a win: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the Synodicon Vetus, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through The Da Vinci Code.",
-    "raw_text": "**Where the myth comes from,** because knowing this is what turns a defeat into a win: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the *Synodicon Vetus*, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through *The Da Vinci Code*.",
+    "id": "rk_f9b9093fad2c91469c99",
+    "text": "Where the myth comes from: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the Synodicon Vetus, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through The Da Vinci Code.",
+    "raw_text": "**Where the myth comes from:** <cite index=\"22-1\">a late-ninth-century Greek manuscript, the *Synodicon Vetus*, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through *The Da Vinci Code*.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1966,7 +1966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:63",
     "parent_id": null,
     "related_ids": [],
@@ -1989,7 +1989,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1997,7 +1997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:64",
     "parent_id": null,
     "related_ids": [],
@@ -2012,15 +2012,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f01e0dd1e41b77418552",
-    "text": "What is legitimately damning, and use this instead : Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile the losers.",
-    "raw_text": "**What is legitimately damning, and use this instead** ⟨INFERENCE — the facts are documented; the judgement that this is the stronger argument is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile the losers.",
+    "id": "rk_c93ac44b0163f0117e09",
+    "text": "What the evidence does support : Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile dissenters.",
+    "raw_text": "**What the evidence does support** ⟨INFERENCE — the facts are documented; the judgement is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile dissenters.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2028,7 +2028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:65",
     "parent_id": null,
     "related_ids": [],
@@ -2037,21 +2037,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "explicit_marker",
-      "value": "⟨INFERENCE — the facts are documented; the judgement that this is the stronger argument is Claude's⟩"
+      "value": "⟨INFERENCE — the facts are documented; the judgement is Claude's⟩"
     },
     "review_required": false,
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3316e7e3d7f3e34b5f68",
-    "text": "Correction applied 7 Aug 2026 — and it makes the argument better. The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — fifty-six years and several imperial reversals later. So the accurate claim is not \"one vote settled it under political pressure.\" It is: the outcome tracked which emperor was in power, over more than half a century. That is a far harder point to answer, and it is documented.",
-    "raw_text": "**Correction applied 7 Aug 2026 — and it makes the argument better.** The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — **fifty-six years and several imperial reversals later.** So the accurate claim is not \"one vote settled it under political pressure.\" It is: **the outcome tracked which emperor was in power, over more than half a century.** That is a far harder point to answer, and it is documented.",
+    "id": "rk_fc6a863240790825d7e0",
+    "text": "Correction applied 7 Aug 2026. The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — fifty-six years and several imperial reversals later. The more accurate summary is: the outcome tracked which emperor was in power, over more than half a century.",
+    "raw_text": "**Correction applied 7 Aug 2026.** The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — **fifty-six years and several imperial reversals later.** The more accurate summary is: **the outcome tracked which emperor was in power, over more than half a century.**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2059,7 +2059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:66",
     "parent_id": null,
     "related_ids": [],
@@ -2074,15 +2074,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6fcce887c1e139a49036",
-    "text": "The true version is the stronger argument. You do not need the myth.",
-    "raw_text": "**The true version is the stronger argument.** You do not need the myth.",
+    "id": "rk_4dd83b84fcb8614cd823",
+    "text": "The documented history is more useful than the myth.",
+    "raw_text": "The documented history is more useful than the myth.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "7. Constantine and Nicaea — Get This Right"
+      "7. Constantine and Nicaea — What the Evidence Shows"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2090,7 +2090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 7. Constantine and Nicaea — Get This Right",
+    "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
     "source_reference": "paragraph:67",
     "parent_id": null,
     "related_ids": [],
@@ -2167,9 +2167,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_86a07f4123f2f535eb1e",
-    "text": "Pre-Constantine persecution was real but sporadic — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.",
-    "raw_text": "**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll. Do not inflate it; you will be corrected, and there is no need.",
+    "id": "rk_11fd16180a815e0cebb2",
+    "text": "Pre-Constantine persecution was real but sporadic — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll.",
+    "raw_text": "**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2198,15 +2198,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2a2c193d06345c2dcbc8",
-    "text": "Read this section first. These claims circulate widely, feel powerful, and are false or badly overstated. Deploying one hands your opponent an easy, verifiable win and discredits everything true you said before it. Every item below is rejected by secular historians, not by apologists.",
-    "raw_text": "**Read this section first.** These claims circulate widely, feel powerful, and are false or badly overstated. Deploying one hands your opponent an easy, verifiable win and discredits everything true you said before it. Every item below is rejected by secular historians, not by apologists.",
+    "id": "rk_e3ea68bab81c493e5ec0",
+    "text": "These claims circulate widely but are false or badly overstated. Every item below is rejected by secular historians, not only by apologists.",
+    "raw_text": "These claims circulate widely but are false or badly overstated. Every item below is rejected by secular historians, not only by apologists.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2214,7 +2214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:71",
     "parent_id": null,
     "related_ids": [],
@@ -2237,7 +2237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2245,7 +2245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:72",
     "parent_id": null,
     "related_ids": [],
@@ -2260,15 +2260,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_12808b019b9abab2897a",
-    "text": "\"Jesus never existed.\" Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. You do not need mythicism; a historical Jesus who was an apocalyptic Jewish preacher executed by Rome is more corrosive to orthodox theology than an invented one, because it puts the burden on explaining how that figure became God.",
-    "raw_text": "**\"Jesus never existed.\"** Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. You do not need mythicism; a historical Jesus who was an apocalyptic Jewish preacher executed by Rome is *more* corrosive to orthodox theology than an invented one, because it puts the burden on explaining how that figure became God.",
+    "id": "rk_594b57009eaa7a75ecfc",
+    "text": "\"Jesus never existed.\" Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. The historically supported starting point is an apocalyptic Jewish preacher executed by Rome; the later development of claims about divinity is a separate question.",
+    "raw_text": "**\"Jesus never existed.\"** Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. The historically supported starting point is an apocalyptic Jewish preacher executed by Rome; the later development of claims about divinity is a separate question.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2276,7 +2276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:73",
     "parent_id": null,
     "related_ids": [],
@@ -2291,15 +2291,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_dede7bc6ef1623e747b0",
-    "text": "\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\" Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and Zeitgeist (2007). Egyptologists reject it flatly. This is the single fastest way to lose an argument to anyone who has read a real source.",
-    "raw_text": "**\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\"** Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and *Zeitgeist* (2007). Egyptologists reject it flatly. **This is the single fastest way to lose an argument to anyone who has read a real source.**",
+    "id": "rk_5b3d098f8506ab92c625",
+    "text": "\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\" Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and Zeitgeist (2007). Egyptologists reject it flatly.",
+    "raw_text": "**\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\"** Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and *Zeitgeist* (2007). Egyptologists reject it flatly.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2307,7 +2307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:74",
     "parent_id": null,
     "related_ids": [],
@@ -2330,7 +2330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2338,7 +2338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:75",
     "parent_id": null,
     "related_ids": [],
@@ -2361,7 +2361,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2369,7 +2369,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:76",
     "parent_id": null,
     "related_ids": [],
@@ -2392,7 +2392,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2400,7 +2400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:77",
     "parent_id": null,
     "related_ids": [],
@@ -2423,7 +2423,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2431,7 +2431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:78",
     "parent_id": null,
     "related_ids": [],
@@ -2454,7 +2454,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2462,7 +2462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:79",
     "parent_id": null,
     "related_ids": [],
@@ -2485,7 +2485,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2493,7 +2493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:80",
     "parent_id": null,
     "related_ids": [],
@@ -2508,15 +2508,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_faee408bebc708d48179",
-    "text": "The resource: Tim O'Neill's History for Atheists is an atheist site devoted entirely to debunking bad atheist history. If you are going to use a historical claim in an argument, check it there first. Using a source hostile to your own side's sloppiness is what makes the rest of your case credible.",
-    "raw_text": "**The resource:** Tim O'Neill's **History for Atheists** is an atheist site devoted entirely to debunking bad atheist history. If you are going to use a historical claim in an argument, check it there first. Using a source hostile to your own side's sloppiness is what makes the rest of your case credible.",
+    "id": "rk_642910ad925b8a2b7578",
+    "text": "The resource: Tim O'Neill's History for Atheists is an atheist site devoted to correcting bad atheist history. It is a useful place to check a historical claim before relying on it.",
+    "raw_text": "**The resource:** Tim O'Neill's **History for Atheists** is an atheist site devoted to correcting bad atheist history. It is a useful place to check a historical claim before relying on it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "9. ⚑ BAD SKEPTIC HISTORY — Stop Using These"
+      "9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2524,7 +2524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 9. ⚑ BAD SKEPTIC HISTORY — Stop Using These",
+    "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:81",
     "parent_id": null,
     "related_ids": [],
@@ -2539,15 +2539,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_a659019b791a8280cb24",
-    "text": "\"5,800 manuscripts.\" True. See §4. Concede the number, contest the inference.",
-    "raw_text": "**\"5,800 manuscripts.\"** True. See §4. Concede the number, contest the inference.",
+    "id": "rk_5c6b49386c0e36037964",
+    "text": "\"5,800 manuscripts.\" True. See §4. Accept the number while evaluating the inference separately.",
+    "raw_text": "**\"5,800 manuscripts.\"** True. See §4. Accept the number while evaluating the inference separately.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2555,7 +2555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
@@ -2570,15 +2570,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_cd70d65e53420c622964",
-    "text": "\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\" The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. Concede it. Then note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
-    "raw_text": "**\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\"** The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. **Concede it.** Then note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
+    "id": "rk_68d71162d041e992d7e8",
+    "text": "\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\" The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. Note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
+    "raw_text": "**\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\"** The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. Note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2586,7 +2586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
@@ -2609,7 +2609,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2617,7 +2617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:84",
     "parent_id": null,
     "related_ids": [],
@@ -2640,7 +2640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2648,7 +2648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:85",
     "parent_id": null,
     "related_ids": [],
@@ -2671,7 +2671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2679,7 +2679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:86",
     "parent_id": null,
     "related_ids": [],
@@ -2702,7 +2702,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2710,7 +2710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:87",
     "parent_id": null,
     "related_ids": [],
@@ -2733,7 +2733,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer"
+      "10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2741,7 +2741,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 10. ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer",
+    "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
     "source_reference": "paragraph:88",
     "parent_id": null,
     "related_ids": [],
@@ -2756,15 +2756,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_867acb32156a3cc9b185",
-    "text": "You will meet someone who knows more history than you. This will keep happening; the field is enormous.",
-    "raw_text": "You will meet someone who knows more history than you. This will keep happening; the field is enormous.",
+    "id": "rk_799cf2a9230c2fb6f675",
+    "text": "No reader knows every part of this history; the field is enormous.",
+    "raw_text": "No reader knows every part of this history; the field is enormous.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Losing Gracefully — The Live-Conversation Move"
+      "11. Handling Uncertainty in Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2772,7 +2772,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
+    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
     "source_reference": "paragraph:89",
     "parent_id": null,
     "related_ids": [],
@@ -2787,15 +2787,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_62a8b43bee4fc951e8fe",
-    "text": "The move: \"I don't know that one. Where can I read it?\"",
-    "raw_text": "**The move:** *\"I don't know that one. Where can I read it?\"*",
+    "id": "rk_ccbd3495b278c27b44f9",
+    "text": "A useful response: \"I don't know that one. Where can I read it?\"",
+    "raw_text": "**A useful response:** *\"I don't know that one. Where can I read it?\"*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Losing Gracefully — The Live-Conversation Move"
+      "11. Handling Uncertainty in Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2803,7 +2803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
+    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
     "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
@@ -2818,15 +2818,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6cc0df16fc4081cfa92c",
-    "text": "This costs nothing and does three things at once. It is honest. It makes any later concession from them harder to refuse, because you have modeled it. And it prevents the failure mode that actually loses arguments — defending a claim you are not sure of, getting refuted on it, and having every earlier point retroactively discredited.",
-    "raw_text": "This costs nothing and does three things at once. It is honest. It makes any later concession from them harder to refuse, because you have modeled it. And it prevents the failure mode that actually loses arguments — defending a claim you are not sure of, getting refuted on it, and having every earlier point retroactively discredited.",
+    "id": "rk_840cc52956e8280a59ae",
+    "text": "This is honest, opens a path to better sources, and prevents an uncertain claim from hardening into a mistaken conclusion.",
+    "raw_text": "This is honest, opens a path to better sources, and prevents an uncertain claim from hardening into a mistaken conclusion.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Losing Gracefully — The Live-Conversation Move"
+      "11. Handling Uncertainty in Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2834,7 +2834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
+    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
     "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
@@ -2849,15 +2849,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_4911c0d31af959f34209",
-    "text": "The principle underneath : one confidently stated wrong fact costs more than ten unstated right ones. This is the same lesson as the audit log in the Study Notes, applied in real time.",
-    "raw_text": "**The principle underneath** ⟨INFERENCE⟩**:** one confidently stated wrong fact costs more than ten unstated right ones. This is the same lesson as the audit log in the Study Notes, applied in real time.",
+    "id": "rk_4ded8d83d7f10d16113c",
+    "text": "The principle underneath : one confidently stated wrong fact can distort an entire discussion. This is the same lesson as the audit log in the Study Notes, applied in real time.",
+    "raw_text": "**The principle underneath** ⟨INFERENCE⟩**:** one confidently stated wrong fact can distort an entire discussion. This is the same lesson as the audit log in the Study Notes, applied in real time.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Losing Gracefully — The Live-Conversation Move"
+      "11. Handling Uncertainty in Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2865,7 +2865,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
+    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
     "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
@@ -2880,15 +2880,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_18a5af39cdf3ac6d79f2",
-    "text": "And the position that requires no history at all is still the strongest thing available: Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every scheme for sorting them comes from outside the text. That argument cannot be outflanked by someone with better dates.",
-    "raw_text": "**And the position that requires no history at all** is still the strongest thing available: Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every scheme for sorting them comes from outside the text. That argument cannot be outflanked by someone with better dates.",
+    "id": "rk_4bdacb8c1fdee2da0027",
+    "text": "A textual question that requires no historical claim: Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every later scheme for sorting them comes from outside the text.",
+    "raw_text": "**A textual question that requires no historical claim:** Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every later scheme for sorting them comes from outside the text.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Losing Gracefully — The Live-Conversation Move"
+      "11. Handling Uncertainty in Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2896,7 +2896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
+    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
     "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
@@ -2911,15 +2911,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b8a1773b7664441eca50",
-    "text": "Living document — verify before deploying. Claims here are checked as of August 2026 but this is a summary, not a source.",
-    "raw_text": "*Living document — verify before deploying. Claims here are checked as of August 2026 but this is a summary, not a source.*",
+    "id": "rk_306c14052f6b74e0632b",
+    "text": "Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.",
+    "raw_text": "*Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Losing Gracefully — The Live-Conversation Move"
+      "11. Handling Uncertainty in Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2927,7 +2927,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Losing Gracefully — The Live-Conversation Move",
+    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
     "source_reference": "paragraph:94",
     "parent_id": null,
     "related_ids": [],

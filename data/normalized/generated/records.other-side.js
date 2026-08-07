@@ -4,9 +4,9 @@
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
-    "id": "rk_ef304863dbe1d9a15d79",
-    "text": "Theologians, Apologists, and How the Literal/Allegorical Switch Actually Works",
-    "raw_text": "*Theologians, Apologists, and How the Literal/Allegorical Switch Actually Works*",
+    "id": "rk_6497c7178a8e15c2d140",
+    "text": "Theologians, Apologists, and Approaches to Literal and Allegorical Reading",
+    "raw_text": "*Theologians, Apologists, and Approaches to Literal and Allegorical Reading*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -64,9 +64,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2348d16fb88a04ea8c0f",
-    "text": "Provenance. Written by: Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. The ranking by 'hardest to answer' is Claude's judgement, not a scholarly consensus — a starting map, not a verdict.",
-    "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. **The ranking by 'hardest to answer' is Claude's judgement, not a scholarly consensus** — a starting map, not a verdict.",
+    "id": "rk_51b4dc30b6a34a50425f",
+    "text": "Provenance. Written by: Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. The organization and assessments are Claude's judgement, not a scholarly consensus — a starting map, not a verdict.",
+    "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. The organization and assessments are Claude's judgement, not a scholarly consensus — a starting map, not a verdict.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -124,9 +124,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_b3c41eadc655599afaf4",
-    "text": "Why this document exists. Two problems, and they are connected.\n\nFirst: most critique of religion engages the weakest available version. That is a waste. There are serious people on the believing side — philosophers who are genuinely hard to answer, historians who have found real things. Knowing which is which is what separates someone who can argue from someone who can only recite.\n\nSecond, and this is the harder one: the sense that a believer's reading is \"all over the place\" — literal here, metaphor there, no visible rule. That feeling is accurate, and §2 explains exactly what is happening. There are named, centuries-old frameworks governing it. They are real intellectual traditions. But almost nobody using them can state which one they are applying, and none of them specify in advance which passages get which treatment. That is the whole problem, and once you can name it, the disorientation stops.",
-    "raw_text": "> **Why this document exists.** Two problems, and they are connected.\n>\n> **First:** most critique of religion engages the weakest available version. That is a waste. There are serious people on the believing side — philosophers who are genuinely hard to answer, historians who have found real things. Knowing which is which is what separates someone who can argue from someone who can only recite.\n>\n> **Second, and this is the harder one:** the sense that a believer's reading is \"all over the place\" — literal here, metaphor there, no visible rule. That feeling is accurate, and §2 explains exactly what is happening. There are named, centuries-old frameworks governing it. They are real intellectual traditions. But almost nobody using them can state which one they are applying, and none of them specify *in advance* which passages get which treatment. That is the whole problem, and once you can name it, the disorientation stops.",
+    "id": "rk_d0fe74c3bd0ecd681a93",
+    "text": "How to use this document. This is a guide to serious religious positions and to the interpretive frameworks used in biblical reading.\n\nFirst: popular summaries often miss the strongest versions of religious thought. The philosophers, historians, theologians, and apologists listed here are worth knowing because their work shapes serious discussions of belief and scripture.\n\nSecond: biblical readers move among literal, metaphorical, typological, and theological readings. §2 names the centuries-old frameworks that govern those choices, explains what each contributes, and notes where their boundaries remain unclear.",
+    "raw_text": "> **How to use this document.** This is a guide to serious religious positions and to the interpretive frameworks used in biblical reading.\n>\n> **First:** popular summaries often miss the strongest versions of religious thought. The philosophers, historians, theologians, and apologists listed here are worth knowing because their work shapes serious discussions of belief and scripture.\n>\n> **Second:** biblical readers move among literal, metaphorical, typological, and theological readings. §2 names the centuries-old frameworks that govern those choices, explains what each contributes, and notes where their boundaries remain unclear.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -154,15 +154,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_df4d577c6c95d19151ba",
-    "text": "Sorted by how hard they are to answer, not by how famous they are.  The gap between those two is large.",
-    "raw_text": "Sorted by how hard they are to answer, not by how famous they are. ⟨INFERENCE — this ranking is Claude's judgement, not a survey of the field.⟩ The gap between those two is large.",
+    "id": "rk_88d27589fbaa827d0779",
+    "text": "Organized by field and level of scholarly engagement rather than fame.",
+    "raw_text": "Organized by field and level of scholarly engagement rather than fame. ⟨INFERENCE — this organization is Claude's judgement, not a survey of the field.⟩",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging"
+      "1. Thinkers and Traditions Worth Knowing"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -170,7 +170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing",
     "source_reference": "paragraph:6",
     "parent_id": null,
     "related_ids": [],
@@ -179,22 +179,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "explicit_marker",
-      "value": "⟨INFERENCE — this ranking is Claude's judgement, not a survey of the field.⟩"
+      "value": "⟨INFERENCE — this organization is Claude's judgement, not a survey of the field.⟩"
     },
     "review_required": false,
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2089123fa10d3ecc70a6",
-    "text": "These people are professional analytic philosophers publishing in secular journals. Do not go at them casually.",
-    "raw_text": "These people are professional analytic philosophers publishing in secular journals. Do not go at them casually.",
+    "id": "rk_267ed43e819491a18660",
+    "text": "These are professional analytic philosophers whose work appears in secular academic venues and merits careful reading.",
+    "raw_text": "These are professional analytic philosophers whose work appears in secular academic venues and merits careful reading.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.1 Philosophers — the genuinely difficult tier"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.1 Philosophers — major contemporary positions"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -202,7 +202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.1 Philosophers — the genuinely difficult tier",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.1 Philosophers — major contemporary positions",
     "source_reference": "paragraph:7",
     "parent_id": null,
     "related_ids": [],
@@ -225,8 +225,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.1 Philosophers — the genuinely difficult tier"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.1 Philosophers — major contemporary positions"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -234,7 +234,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.1 Philosophers — the genuinely difficult tier",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.1 Philosophers — major contemporary positions",
     "source_reference": "paragraph:8",
     "parent_id": null,
     "related_ids": [],
@@ -257,8 +257,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.1 Philosophers — the genuinely difficult tier"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.1 Philosophers — major contemporary positions"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -266,7 +266,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.1 Philosophers — the genuinely difficult tier",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.1 Philosophers — major contemporary positions",
     "source_reference": "paragraph:9",
     "parent_id": null,
     "related_ids": [],
@@ -289,8 +289,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.1 Philosophers — the genuinely difficult tier"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.1 Philosophers — major contemporary positions"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -298,7 +298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.1 Philosophers — the genuinely difficult tier",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.1 Philosophers — major contemporary positions",
     "source_reference": "paragraph:10",
     "parent_id": null,
     "related_ids": [],
@@ -321,8 +321,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.1 Philosophers — the genuinely difficult tier"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.1 Philosophers — major contemporary positions"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -330,7 +330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.1 Philosophers — the genuinely difficult tier",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.1 Philosophers — major contemporary positions",
     "source_reference": "paragraph:11",
     "parent_id": null,
     "related_ids": [],
@@ -345,16 +345,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d71d36e345e9a664e7bb",
-    "text": "William Lane Craig [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and a formidable debater. He is also the softest target of this group: the Kalām's second premise (that the universe began to exist) leans on contested cosmology, and his defense of the Canaanite conquest on divine command grounds is where most opponents concentrate fire.",
-    "raw_text": "**William Lane Craig** [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and a formidable debater. He is also the softest target of this group: the Kalām's second premise (that the universe began to exist) leans on contested cosmology, and his defense of the Canaanite conquest on divine command grounds is where most opponents concentrate fire.",
+    "id": "rk_a9dc638a775c3e18c111",
+    "text": "William Lane Craig [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and an accomplished public debater. The Kalām's second premise (that the universe began to exist) depends on contested cosmology, while his defense of the Canaanite conquest on divine-command grounds attracts substantial criticism.",
+    "raw_text": "**William Lane Craig** [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and an accomplished public debater. The Kalām's second premise (that the universe began to exist) depends on contested cosmology, while his defense of the Canaanite conquest on divine-command grounds attracts substantial criticism.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.1 Philosophers — the genuinely difficult tier"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.1 Philosophers — major contemporary positions"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -362,7 +362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.1 Philosophers — the genuinely difficult tier",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.1 Philosophers — major contemporary positions",
     "source_reference": "paragraph:12",
     "parent_id": null,
     "related_ids": [],
@@ -385,7 +385,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -394,7 +394,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:13",
     "parent_id": null,
     "related_ids": [],
@@ -417,7 +417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -426,7 +426,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:14",
     "parent_id": null,
     "related_ids": [],
@@ -449,7 +449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -458,7 +458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:15",
     "parent_id": null,
     "related_ids": [],
@@ -481,7 +481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -490,7 +490,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:16",
     "parent_id": null,
     "related_ids": [],
@@ -513,7 +513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -522,7 +522,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:17",
     "parent_id": null,
     "related_ids": [],
@@ -545,7 +545,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -554,7 +554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:18",
     "parent_id": null,
     "related_ids": [],
@@ -577,7 +577,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.2 Historians and biblical scholars who are also believers"
     ],
     "subtopics": [],
@@ -586,7 +586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.2 Historians and biblical scholars who are also believers",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.2 Historians and biblical scholars who are also believers",
     "source_reference": "paragraph:19",
     "parent_id": null,
     "related_ids": [],
@@ -609,8 +609,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.3 The apologetics tier — expect these, they are what you will actually meet"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.3 Apologetics — academic and popular approaches"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -618,7 +618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.3 The apologetics tier — expect these, they are what you will actually meet",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.3 Apologetics — academic and popular approaches",
     "source_reference": "paragraph:20",
     "parent_id": null,
     "related_ids": [],
@@ -641,8 +641,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.3 The apologetics tier — expect these, they are what you will actually meet"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.3 Apologetics — academic and popular approaches"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -650,7 +650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.3 The apologetics tier — expect these, they are what you will actually meet",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.3 Apologetics — academic and popular approaches",
     "source_reference": "paragraph:21",
     "parent_id": null,
     "related_ids": [],
@@ -673,8 +673,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.3 The apologetics tier — expect these, they are what you will actually meet"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.3 Apologetics — academic and popular approaches"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -682,7 +682,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.3 The apologetics tier — expect these, they are what you will actually meet",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.3 Apologetics — academic and popular approaches",
     "source_reference": "paragraph:22",
     "parent_id": null,
     "related_ids": [],
@@ -705,8 +705,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.3 The apologetics tier — expect these, they are what you will actually meet"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.3 Apologetics — academic and popular approaches"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -714,7 +714,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.3 The apologetics tier — expect these, they are what you will actually meet",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.3 Apologetics — academic and popular approaches",
     "source_reference": "paragraph:23",
     "parent_id": null,
     "related_ids": [],
@@ -729,16 +729,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1823c49ee03e0c7bfc9f",
-    "text": "J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell — the popular tier. Strobel's Case for Christ is structured as journalism but interviews only people who already agree. This is the level most conversations actually happen at, and it is not where the strong arguments live. Do not let a win here convince you the position is defeated.",
-    "raw_text": "**J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell** — the popular tier. Strobel's *Case for Christ* is structured as journalism but interviews only people who already agree. This is the level most conversations actually happen at, and it is not where the strong arguments live. Do not let a win here convince you the position is defeated.",
+    "id": "rk_d7a349f3bb679e681619",
+    "text": "J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell — popular-level apologists. Strobel's Case for Christ is structured as journalism but interviews only people who already agree. Distinguish these presentations from stronger academic versions of the same positions.",
+    "raw_text": "**J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell** — popular-level apologists. Strobel's *Case for Christ* is structured as journalism but interviews only people who already agree. Distinguish these presentations from stronger academic versions of the same positions.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
-      "1.3 The apologetics tier — expect these, they are what you will actually meet"
+      "1. Thinkers and Traditions Worth Knowing",
+      "1.3 Apologetics — academic and popular approaches"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -746,7 +746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.3 The apologetics tier — expect these, they are what you will actually meet",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.3 Apologetics — academic and popular approaches",
     "source_reference": "paragraph:24",
     "parent_id": null,
     "related_ids": [],
@@ -769,7 +769,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.4 Historic theologians worth knowing by name"
     ],
     "subtopics": [],
@@ -778,7 +778,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.4 Historic theologians worth knowing by name",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.4 Historic theologians worth knowing by name",
     "source_reference": "paragraph:25",
     "parent_id": null,
     "related_ids": [],
@@ -801,7 +801,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.4 Historic theologians worth knowing by name"
     ],
     "subtopics": [],
@@ -810,7 +810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.4 Historic theologians worth knowing by name",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.4 Historic theologians worth knowing by name",
     "source_reference": "paragraph:26",
     "parent_id": null,
     "related_ids": [],
@@ -833,7 +833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.4 Historic theologians worth knowing by name"
     ],
     "subtopics": [],
@@ -842,7 +842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.4 Historic theologians worth knowing by name",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.4 Historic theologians worth knowing by name",
     "source_reference": "paragraph:27",
     "parent_id": null,
     "related_ids": [],
@@ -865,7 +865,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.4 Historic theologians worth knowing by name"
     ],
     "subtopics": [],
@@ -874,7 +874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.4 Historic theologians worth knowing by name",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.4 Historic theologians worth knowing by name",
     "source_reference": "paragraph:28",
     "parent_id": null,
     "related_ids": [],
@@ -897,7 +897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "1. Who Is Actually Worth Engaging",
+      "1. Thinkers and Traditions Worth Knowing",
       "1.4 Historic theologians worth knowing by name"
     ],
     "subtopics": [],
@@ -906,7 +906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 1. Who Is Actually Worth Engaging > 1.4 Historic theologians worth knowing by name",
+    "source_section": "The Strongest Case > 1. Thinkers and Traditions Worth Knowing > 1.4 Historic theologians worth knowing by name",
     "source_reference": "paragraph:29",
     "parent_id": null,
     "related_ids": [],
@@ -1313,7 +1313,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.3 The genre point is legitimate — concede it"
+      "2.3 The genre point is legitimate"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1321,7 +1321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.3 The genre point is legitimate — concede it",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.3 The genre point is legitimate",
     "source_reference": "paragraph:42",
     "parent_id": null,
     "related_ids": [],
@@ -1345,7 +1345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.3 The genre point is legitimate — concede it"
+      "2.3 The genre point is legitimate"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1353,7 +1353,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.3 The genre point is legitimate — concede it",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.3 The genre point is legitimate",
     "source_reference": "paragraph:43",
     "parent_id": null,
     "related_ids": [],
@@ -1377,7 +1377,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.3 The genre point is legitimate — concede it"
+      "2.3 The genre point is legitimate"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1385,7 +1385,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.3 The genre point is legitimate — concede it",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.3 The genre point is legitimate",
     "source_reference": "paragraph:44",
     "parent_id": null,
     "related_ids": [],
@@ -1409,7 +1409,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.4 The diagnostic question"
+      "2.4 A useful interpretive question"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1417,7 +1417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 The diagnostic question",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 A useful interpretive question",
     "source_reference": "paragraph:45",
     "parent_id": null,
     "related_ids": [],
@@ -1441,7 +1441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.4 The diagnostic question"
+      "2.4 A useful interpretive question"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1449,7 +1449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 The diagnostic question",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 A useful interpretive question",
     "source_reference": "paragraph:46",
     "parent_id": null,
     "related_ids": [],
@@ -1473,7 +1473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.4 The diagnostic question"
+      "2.4 A useful interpretive question"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1481,7 +1481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 The diagnostic question",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 A useful interpretive question",
     "source_reference": "paragraph:47",
     "parent_id": null,
     "related_ids": [],
@@ -1505,7 +1505,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.4 The diagnostic question"
+      "2.4 A useful interpretive question"
     ],
     "subtopics": [],
     "record_type": "QUESTION",
@@ -1513,7 +1513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 The diagnostic question",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 A useful interpretive question",
     "source_reference": "paragraph:48",
     "parent_id": null,
     "related_ids": [],
@@ -1537,7 +1537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "The Strongest Case",
       "2. The Literal / Allegorical Problem — What Is Actually Happening",
-      "2.4 The diagnostic question"
+      "2.4 A useful interpretive question"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1545,7 +1545,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 The diagnostic question",
+    "source_section": "The Strongest Case > 2. The Literal / Allegorical Problem — What Is Actually Happening > 2.4 A useful interpretive question",
     "source_reference": "paragraph:49",
     "parent_id": null,
     "related_ids": [],
@@ -1656,15 +1656,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_dea43dcb2e5165d709bd",
-    "text": "Engage the strongest version. If you can only beat Turek, you have not beaten the position. Plantinga is the position.",
-    "raw_text": "**Engage the strongest version.** If you can only beat Turek, you have not beaten the position. Plantinga is the position.",
+    "id": "rk_5833e32c6c7504f84dd3",
+    "text": "Understand the strongest version. A popular presentation and the underlying philosophical position may differ substantially; consult the strongest representative work available.",
+    "raw_text": "**Understand the strongest version.** A popular presentation and the underlying philosophical position may differ substantially; consult the strongest representative work available.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "3. Rules for Engaging Well"
+      "3. Principles for Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1672,7 +1672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 3. Rules for Engaging Well",
+    "source_section": "The Strongest Case > 3. Principles for Reading and Conversation",
     "source_reference": "paragraph:53",
     "parent_id": null,
     "related_ids": [],
@@ -1687,15 +1687,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_6c21d6d712df52593b8d",
-    "text": "Concede fast and visibly. Where they are right — Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, the 1 Corinthians 15 creed is early — say so immediately. Every concession makes your unconceded points cost more.",
-    "raw_text": "**Concede fast and visibly.** Where they are right — Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, the 1 Corinthians 15 creed is early — say so immediately. Every concession makes your unconceded points cost more.",
+    "id": "rk_bc41ea8c49f705de5daa",
+    "text": "Acknowledge established points clearly. Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, and the 1 Corinthians 15 creed is early. These facts should remain visible even when evaluating broader conclusions.",
+    "raw_text": "**Acknowledge established points clearly.** Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, and the 1 Corinthians 15 creed is early. These facts should remain visible even when evaluating broader conclusions.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "3. Rules for Engaging Well"
+      "3. Principles for Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1703,7 +1703,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 3. Rules for Engaging Well",
+    "source_section": "The Strongest Case > 3. Principles for Reading and Conversation",
     "source_reference": "paragraph:54",
     "parent_id": null,
     "related_ids": [],
@@ -1726,7 +1726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "3. Rules for Engaging Well"
+      "3. Principles for Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1734,7 +1734,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 3. Rules for Engaging Well",
+    "source_section": "The Strongest Case > 3. Principles for Reading and Conversation",
     "source_reference": "paragraph:55",
     "parent_id": null,
     "related_ids": [],
@@ -1749,15 +1749,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_17641fa58dcd5b58ea5a",
-    "text": "Do not confuse a bad advocate with a bad argument. Most conversations happen at the popular level. Winning there tells you about the person, not the position.",
-    "raw_text": "**Do not confuse a bad advocate with a bad argument.** Most conversations happen at the popular level. Winning there tells you about the person, not the position.",
+    "id": "rk_46ed3e6a0084fbf033bf",
+    "text": "Do not confuse a weak presentation with a weak position. Most conversations happen at the popular level; assess the underlying claim separately from the person presenting it.",
+    "raw_text": "**Do not confuse a weak presentation with a weak position.** Most conversations happen at the popular level; assess the underlying claim separately from the person presenting it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "3. Rules for Engaging Well"
+      "3. Principles for Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1765,7 +1765,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 3. Rules for Engaging Well",
+    "source_section": "The Strongest Case > 3. Principles for Reading and Conversation",
     "source_reference": "paragraph:56",
     "parent_id": null,
     "related_ids": [],
@@ -1780,15 +1780,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_82a2fce4a85724377ebe",
-    "text": "Ask for the rule before the passage. §2.4. It is the single most useful move in this entire document, and it works because it asks for something the frameworks cannot supply.",
-    "raw_text": "**Ask for the rule before the passage.** §2.4. It is the single most useful move in this entire document, and it works because it asks for something the frameworks cannot supply.",
+    "id": "rk_add062a2c10ae1b10739",
+    "text": "Identify the interpretive rule before evaluating the passage. See §2.4. Stating the rule first makes its assumptions and consequences easier to examine.",
+    "raw_text": "**Identify the interpretive rule before evaluating the passage.** See §2.4. Stating the rule first makes its assumptions and consequences easier to examine.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "The Strongest Case",
-      "3. Rules for Engaging Well"
+      "3. Principles for Reading and Conversation"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1796,7 +1796,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "The_Other_Side.md",
-    "source_section": "The Strongest Case > 3. Rules for Engaging Well",
+    "source_section": "The Strongest Case > 3. Principles for Reading and Conversation",
     "source_reference": "paragraph:57",
     "parent_id": null,
     "related_ids": [],

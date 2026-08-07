@@ -13,13 +13,13 @@
   "record_type_counts": {
     "OBSERVATION": 964,
     "POSITION": 1,
-    "AUDIT_NOTE": 156,
+    "AUDIT_NOTE": 157,
     "CLAIM": 10,
     "AUDIT_STATUS": 16,
     "CORRECTION": 13,
     "AUDIT_REASONING": 13,
     "AUDIT_SURVIVAL": 2,
-    "QUESTION": 18,
+    "QUESTION": 17,
     "DEFINITION": 94
   },
   "chunks": [
@@ -27,13 +27,13 @@
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
       "records": 263,
-      "size_bytes": 481384
+      "size_bytes": 479406
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
       "records": 664,
-      "size_bytes": 905370
+      "size_bytes": 905149
     },
     {
       "source_file": "Glossary.md",
@@ -45,19 +45,19 @@
       "source_file": "Historical_Framework.md",
       "file": "records.history.js",
       "records": 94,
-      "size_bytes": 156561
+      "size_bytes": 153591
     },
     {
       "source_file": "Sources_and_Primary_Texts.md",
       "file": "records.sources.js",
       "records": 71,
-      "size_bytes": 112210
+      "size_bytes": 112298
     },
     {
       "source_file": "The_Other_Side.md",
       "file": "records.other-side.js",
       "records": 57,
-      "size_bytes": 93072
+      "size_bytes": 92471
     },
     {
       "source_file": "Translations.md",
