@@ -97,7 +97,7 @@ main > p{color:var(--ink2);margin:0 0 2rem;max-width:60ch}
   <h1>Bible Deep Dive</h1>
   <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Seven cross-linked documents.</p>
   <a class="app-card" href="app/">
-    <h2>Open the knowledge app</h2>
+    <h2>Open the app</h2>
     <p>Browse every record with provenance intact — search, topics, questions, audits, and the review queue.</p>
   </a>
   <div class="grid">${cards}
