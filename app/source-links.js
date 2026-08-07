@@ -3,10 +3,20 @@
     ? window.RELIGION_KNOWLEDGE_RECORDS
     : [];
 
+  const READERS = {
+    'Bible_Deep_Dive_Master_Notes.md': 'master-notes.html',
+    'Field_Guide_Conversation_Reference.md': 'field-guide.html',
+    'Glossary.md': 'glossary.html',
+    'Historical_Framework.md': 'history.html',
+    'Sources_and_Primary_Texts.md': 'sources.html',
+    'The_Other_Side.md': 'other-side.html',
+    'Translations.md': 'translations.html',
+  };
+
   function safeSourceHref(sourceFile) {
     if (typeof sourceFile !== 'string') return null;
     if (!/^[A-Za-z0-9_.-]+\.md$/.test(sourceFile)) return null;
-    return `../${encodeURIComponent(sourceFile)}`;
+    return `../${encodeURIComponent(READERS[sourceFile] || sourceFile)}`;
   }
 
   function addOriginalSourceLink(recordId) {
@@ -34,7 +44,7 @@
     link.rel = 'noopener';
     link.className = 'secondary-button original-source-link';
     link.dataset.originalSourceLink = 'true';
-    link.textContent = 'Open original source';
+    link.textContent = READERS[record.source_file] ? 'Open reader' : 'Open original source';
 
     section.append(title, detail, link);
     const editor = body.querySelector('.review-editor');

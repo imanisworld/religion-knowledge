@@ -6,13 +6,13 @@
   if (!view) return;
 
   const canonical = [
-    ['Bible_Deep_Dive_Master_Notes.md', 'Master Notes'],
-    ['Field_Guide_Conversation_Reference.md', 'Field Guide'],
-    ['Glossary.md', 'Glossary'],
-    ['Historical_Framework.md', 'Historical Framework'],
-    ['Sources_and_Primary_Texts.md', 'Sources & Primary Texts'],
-    ['The_Other_Side.md', 'The Other Side'],
-    ['Translations.md', 'Translations'],
+    ['Bible_Deep_Dive_Master_Notes.md', 'Master Notes', 'master-notes.html'],
+    ['Field_Guide_Conversation_Reference.md', 'Field Guide', 'field-guide.html'],
+    ['Glossary.md', 'Glossary', 'glossary.html'],
+    ['Historical_Framework.md', 'Historical Framework', 'history.html'],
+    ['Sources_and_Primary_Texts.md', 'Sources & Primary Texts', 'sources.html'],
+    ['The_Other_Side.md', 'The Other Side', 'other-side.html'],
+    ['Translations.md', 'Translations', 'translations.html'],
   ];
 
   const escapeHtml = (value) => String(value ?? '')
@@ -27,10 +27,11 @@
   library.id = 'source-library';
   library.setAttribute('aria-label', 'Canonical source documents');
 
-  const cards = canonical.map(([file, title]) => {
+  const cards = canonical.map(([file, title, reader]) => {
     const fileRecords = records.filter((record) => record.source_file === file);
     const review = fileRecords.filter((record) => record.review_required || record.provenance_type === 'REVIEW_REQUIRED').length;
-    const href = `../${encodeURIComponent(file)}`;
+    const href = `../${encodeURIComponent(reader || file)}`;
+    const linkLabel = reader ? 'Open reader' : 'Open original';
     return `
       <article class="record-card source-library-card" data-source-library-file="${escapeHtml(file)}">
         <div class="record-meta"><span class="badge source">CANONICAL SOURCE</span></div>
@@ -39,7 +40,7 @@
         <p class="record-source">${escapeHtml(file)}</p>
         <div class="dialog-actions">
           <button class="secondary-button" type="button" data-browse-source="${escapeHtml(file)}">Browse records</button>
-          <a class="secondary-button" href="${href}" target="_blank" rel="noopener" data-open-canonical-source="${escapeHtml(file)}">Open original</a>
+          <a class="secondary-button" href="${href}" target="_blank" rel="noopener" data-open-canonical-source="${escapeHtml(file)}">${linkLabel}</a>
         </div>
       </article>`;
   }).join('');
