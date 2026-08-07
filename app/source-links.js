@@ -13,10 +13,17 @@
     'Translations.md': 'translations.html',
   };
 
+  function embeddedHref(sourceFile) {
+    const embeddedSources = window.RELIGION_KNOWLEDGE_SOURCE_URIS && typeof window.RELIGION_KNOWLEDGE_SOURCE_URIS === 'object'
+      ? window.RELIGION_KNOWLEDGE_SOURCE_URIS
+      : null;
+    return (embeddedSources && embeddedSources[sourceFile]) || null;
+  }
+
   function safeSourceHref(sourceFile) {
     if (typeof sourceFile !== 'string') return null;
     if (!/^[A-Za-z0-9_.-]+\.md$/.test(sourceFile)) return null;
-    return `../${encodeURIComponent(READERS[sourceFile] || sourceFile)}`;
+    return embeddedHref(sourceFile) || `../${encodeURIComponent(READERS[sourceFile] || sourceFile)}`;
   }
 
   function addOriginalSourceLink(recordId) {
@@ -44,7 +51,9 @@
     link.rel = 'noopener';
     link.className = 'secondary-button original-source-link';
     link.dataset.originalSourceLink = 'true';
-    link.textContent = READERS[record.source_file] ? 'Open reader' : 'Open original source';
+    link.textContent = embeddedHref(record.source_file)
+      ? 'Open source (offline copy)'
+      : (READERS[record.source_file] ? 'Open reader' : 'Open original source');
 
     section.append(title, detail, link);
     const editor = body.querySelector('.review-editor');

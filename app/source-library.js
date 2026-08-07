@@ -15,6 +15,10 @@
     ['Translations.md', 'Translations', 'translations.html'],
   ];
 
+  const embeddedSources = window.RELIGION_KNOWLEDGE_SOURCE_URIS && typeof window.RELIGION_KNOWLEDGE_SOURCE_URIS === 'object'
+    ? window.RELIGION_KNOWLEDGE_SOURCE_URIS
+    : null;
+
   const escapeHtml = (value) => String(value ?? '')
     .replaceAll('&', '&amp;')
     .replaceAll('<', '&lt;')
@@ -30,8 +34,9 @@
   const cards = canonical.map(([file, title, reader]) => {
     const fileRecords = records.filter((record) => record.source_file === file);
     const review = fileRecords.filter((record) => record.review_required || record.provenance_type === 'REVIEW_REQUIRED').length;
-    const href = `../${encodeURIComponent(reader || file)}`;
-    const linkLabel = reader ? 'Open reader' : 'Open original';
+    const embedded = embeddedSources && embeddedSources[file];
+    const href = embedded || `../${encodeURIComponent(reader || file)}`;
+    const linkLabel = embedded ? 'Open source (offline copy)' : (reader ? 'Open reader' : 'Open original');
     return `
       <article class="record-card source-library-card" data-source-library-file="${escapeHtml(file)}">
         <div class="record-meta"><span class="badge source">CANONICAL SOURCE</span></div>
