@@ -44,6 +44,32 @@ Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife the
 
 Job challenges the idea that suffering proves guilt. God answers with power and riddles, not moral explanation. 'Ha-satan' appears as the Accuser — a legal/adversarial role in the divine court, not a personified cosmic evil. This is a major theological pivot.
 
+#### ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain
+
+`CHECKED 7 AUG 2026`
+
+**AS RECORDED:** Job's Satan is a functionary in the divine court, not the cosmic devil of later tradition. (§1.3, §2.)
+
+**STATUS: Holds, cleanly. This is one of the best-supported claims in the entire document — strengthen the citation, no correction needed to the substance.**
+
+**AUDIT**
+
+**The philology is not contested.** *Ha-satan* — the definite article *ha* plus *satan* ("adversary," "accuser," carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the *bene ha-elohim* ("sons of God"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. **The standing scholarly reference for this reading is Peggy L. Day** [CRITICAL], *An Adversary in Heaven: śāṭān in the Hebrew Bible* (Scholars Press, 1988) — the field's classic monograph on exactly this claim. **Henry Ansgar Kelly** [CRITICAL], *Satan: A Biography* (Cambridge, 2006), covers the same ground in more recent, broader scope.
+
+**One precise detail worth adding, because it closes an obvious objection:** ha-satan is never once called a *malakh* ("angel" / "messenger") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the *malakhim* who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.
+
+**The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely.** It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: **1 Enoch** has rebel "Watchers" descending and corrupting the earth. **Jubilees** introduces a named prince, **Mastema**, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The **Testament of Job** (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the *original* figure as bounded and subordinate.
+
+**On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4:** the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — **Mary Boyce** [CRITICAL, the standard Zoroastrian-studies authority], *Zoroastrians: Their Religious Beliefs and Practices*. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.
+
+**CORRECTED:** *No change to the substance — this claim survives audit intact. Ha-satan in Job and Zechariah is a bounded, subordinate prosecutorial role within the divine council, never called an angel, operating only under explicit divine authorization. The cosmic-adversary Satan of later Christian tradition develops in identifiable post-biblical texts — 1 Enoch, Jubilees, the Testament of Job — not in the Hebrew Bible itself. Possible Zoroastrian influence on that later development is a real scholarly conversation, not a demonstrated fact.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** because it's correct — this is the one item in the queue that needed no correction, only better sourcing. Worth noting for calibration: not everything in the original notes was overstated. Recording "holds, no change" is as much the point of the audit process as recording a collapse.
+
+**Debate note:** this is one of your strongest and most portable lines, because it requires no translation dispute and no contested dating — just reading Job 1 in English closely. Ask a believer to point to the verse where Job's Satan rebels, falls, or acts independently of God. There isn't one. The rebellion is a different, much later story grafted onto an earlier one.
+
+---
+
 ### 1.4 Moral discomfort is constant
 
 Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These aren't fringe passages — they're central to the theology.
@@ -254,13 +280,93 @@ Jesus spoke Aramaic. The Gospels are written in Greek. This translation layer �
 
 Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus seems surprised by things and asks questions. The resurrection ending is famously disputed: oldest manuscripts end at 16:8 with women fleeing in terror, saying nothing to anyone. Later scribes added verses 9-20. This is the baseline — Mark before Matthew's elaborations.
 
+#### ⚑ AUDIT — Markan Priority: How Settled Is "Settled"?
+
+`CHECKED 7 AUG 2026`
+
+**AS RECORDED:** Mark was written first; Matthew and Luke used it as a source. Near-consensus. (§6.1.)
+
+**STATUS: Holds as the working majority position. "Near-consensus" is accurate but the minority is larger, more organized, and more recently active than most treatments imply — worth knowing so you don't overclaim.**
+
+**AUDIT**
+
+**The majority case, briefly, because it is genuinely strong:** roughly 90% of Mark's content appears in Matthew, and about 50% in Luke, often expanded. Where Matthew departs from Mark's order, Luke tends to follow Mark's order, and vice versa — the two never agree against Mark on sequence, which is difficult to explain unless Mark is the common source both are independently building on. This has been the dominant position since Holtzmann's work in 1863, refined by **B.H. Streeter** in 1924, and it remains **Fitzmyer's** [CRITICAL] position and the working assumption of most critical scholarship, including most historical-Jesus research (it's the basis for arguments like "Mark's Jesus is the least theologically developed").
+
+**The minority case, named and dated, because it is real scholarship, not fringe apologetics** ⟨noting camps carefully here, since this issue cuts across the usual critical/conservative line⟩**:**
+
+- **The Griesbach (Two-Gospel) Hypothesis** — J.J. Griesbach, 1776, revived forcefully by **William R. Farmer** [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], *The Synoptic Problem: A Critical Analysis* (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by *theological* preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.
+- **The Farrer Hypothesis** (Farrer–Goulder–Goodacre) — associated most recently with **Mark Goodacre** [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used *both* Mark and Matthew directly, eliminating the need to posit a hypothetical lost source ("Q") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the *two-source* hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.
+- **The Augustinian Hypothesis** — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.
+
+**What actually moved recently, and it's worth being precise:** the *Q hypothesis* — the theorized lost sayings-source explaining material common to Matthew and Luke but not Mark — is under more serious and more recent pressure than Markan priority itself. Goodacre's challenge is specifically to Q, not to Mark's priority. Do not conflate "some scholars doubt Q" with "some scholars doubt Mark was first" — these are different claims, and only the second is what your notes actually assert.
+
+**CORRECTED:** *Markan priority remains the working majority position, on strong textual grounds (the order-agreement pattern, volume of shared material). "Near-consensus" is fair. But active, serious, non-apologetic scholarship — Farmer, Goodacre — continues to contest either Markan priority itself (Griesbach) or the two-source model built on top of it (Farrer). The more precisely contested question right now is Q, not Mark's priority per se.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** Markan priority genuinely is closer to consensus than most other things in this document, so treating it as settled felt safe by comparison to the other audited claims. The correction here is narrow: not "you were wrong," but "name the live minority correctly if it comes up," since Farmer and Goodacre are not conservative apologists and citing them as such would be its own factual error.
+
+---
+
 ### 6.2 Matthew — Read Second
 
 Written for a Jewish audience, so it obsessively cites OT to prove Jesus is the Messiah. You will recognize the misquoted prophecies because you have read the originals. 'Virgin birth' comes from Matthew's mistranslation of Isaiah 7:14 (almah = young woman, not virgin). Heavy use of 'this was to fulfill what was written' — a rhetorical pattern, not independent evidence.
 
+#### ⚑ AUDIT — Matthew's Fulfillment Formula: "Retrofitted" or Something Else?
+
+`CHECKED 7 AUG 2026`
+
+**AS RECORDED:** Matthew retrofits Old Testament citations onto events after the fact to manufacture prophetic fulfillment. (§6.2.)
+
+**STATUS: The mechanism is documented and real. "Retrofitted" is accurate as plain description but invites a specific, answerable objection — replace it with the more precise and more defensible term.**
+
+**AUDIT**
+
+Matthew has ten distinct **formula-quotations** — R.T. France's [EVANGELICAL, but this count is uncontroversial] term for the recurring editorial pattern: "All this happened to fulfill what had been spoken by the prophet..." (e.g., 1:22–23, 2:15, 2:17–18, 2:23, 4:14–16). **These are Matthew's own editorial insertions layered onto an existing narrative** — Fitzmyer's analysis, cited in the Hosea 11:1 case study below, notes explicitly that the prophetic wording is secondary; Matthew added the citations to a story that already existed. That is the documented mechanism, and it is not seriously disputed by critical or most evangelical scholars — the dispute is over whether the *method* was legitimate by first-century standards, not whether Matthew *did* it.
+
+**The clearest case, and the one to actually cite: Matthew 2:15 / Hosea 11:1.** Hosea 11:1 reads "When Israel was a child, I loved him, and out of Egypt I called my son" — in context, an unambiguous **backward-looking reference to the Exodus**, God recalling the nation Israel out of Egypt centuries earlier. Matthew quotes it as a **forward-looking prediction** of the infant Jesus's return from Egypt after Herod's death. There is no plausible reading of Hosea's original sentence as predictive. This is Matthew re-purposing a historical statement about the nation as a messianic statement about an individual.
+
+**The correct technical term, and why "retrofitted" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Other Side §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's "last days." **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).
+
+**The strongest conservative case, stated at full strength — Seth Postell** [EVANGELICAL], *JETS* 68.3 (2025), argues directly against the "retrofitting" framing: rather than reading Isaiah 7:14 for what Ahaz could have understood in the 8th century BCE, Postell argues the **final canonical shape of the book of Isaiah** — as an author/editor's completed literary unit — already builds toward a messianic reading, so Matthew is not imposing a foreign meaning but recovering the sense the finished book's own structure was building toward. This is a real, recent, peer-reviewed position and should not be dismissed as apologetics without engagement — though note it depends on reading "the literal sense" as a property of the whole edited book rather than of Isaiah's original 8th-century utterance, which most historical-critical scholars reject as a redefinition of "literal."
+
+**CORRECTED:** *Matthew systematically appends editorial fulfillment-citations to pre-existing narrative material, and Hosea 11:1 is the clearest case where the original sense cannot plausibly be predictive. The method is best named typology plus* sensus plenior*, structurally related to but formally distinct from Qumran pesher. "Retrofitted" is directionally accurate but reads as an accusation of dishonesty; the documented reality is a recognized, if contested, first-century Jewish reading practice — the live scholarly question is whether that practice constitutes legitimate interpretation, not whether Matthew engaged in it.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "retrofitted" is punchy and gets the direction of causation right (event first, prophetic reading second) — which is the important part and is correct. The risk is a well-read opponent countering with "that's not fraud, that's typology," which is technically true and can make the whole line look naive if you have not already named the method yourself.
+
+**Debate note:** use Hosea 11:1, not Isaiah 7:14, as your lead example — it is the cleanest case with no serious scholarly dispute about the original sense, and it does not require adjudicating the almah/parthenos translation fight. Name the method yourself ("this is typology — reading Israel's history as a pattern fulfilled in Jesus") before your opponent does; it removes their easiest rebuttal and lets you ask the harder question instead: *if this method can make any past event predictive of any future one, what would falsify it?*
+
+---
+
 ### 6.3 Luke — Read Third
 
 Gentile audience. Emphasizes mercy and the poor. Softens some of the harder edges. Luke's academic-style opening (1:1-4) — claiming to write an 'orderly account' based on investigation — is defensive posturing that signals the author knows competing accounts exist. Pairs with Acts (same author, same project: legitimizing Paul's mission to the Gentiles).
+
+#### ⚑ AUDIT — Does Luke Soften Roman Culpability?
+
+`CHECKED 7 AUG 2026`
+
+**AS RECORDED:** Luke shifts blame from Rome toward Jewish leadership relative to Mark. (§6.3.)
+
+**STATUS: Holds — and the mechanism is more specific than "softening."**
+
+**AUDIT**
+
+The trajectory across the Synoptics plus John is a real, frequently observed pattern: Pilate grows more reluctant and more explicitly declares Jesus innocent as the Gospels get later, while Jewish authorities and "the crowd" carry more of the narrative weight. This is not fringe — it is standard redaction-critical observation, traceable through commentaries from **Raymond Brown** [CRITICAL, Catholic] and **Joseph Fitzmyer** [CRITICAL, Catholic, author of the standard Anchor Bible Luke commentary] on down.
+
+**Luke specifically, and this is the sharper point than a general "softening":** Luke has Pilate declare Jesus innocent **three separate times** (23:4, 23:14–15, 23:22) — more explicitly and more repeatedly than Mark or Matthew. Luke also inserts a scene found in no other Gospel: Pilate sends Jesus to Herod Antipas, who likewise finds no fault (23:6–12). The effect is cumulative: by the time of the crucifixion, two Roman/client authorities have independently declared Jesus innocent, and the crowd's demand overrides both.
+
+**The counter-observation, and it complicates a simple "Luke exonerates Rome" reading:** Cuany (*JSNT* 39.4, 2017) [CRITICAL] argues the Barabbas exchange functions as the **climax of Luke's trial narrative** and is doing Christological work — contrasting the released insurrectionist with the condemned innocent — not merely anti-Jewish blame-shifting. And Fitzmyer's own commentary tradition has long noted that Luke is **not** presenting Pilate as a model of Roman justice either — a governor who three times declares a man innocent and crucifies him anyway is not flattering to Rome. The apologetic function, if there is one, is narrower than "protect Rome": it is Christological (establish Jesus's innocence beyond doubt) and only secondarily shifts the weight of blame.
+
+**On why this happened, historically — the strongest version of the argument, stated carefully** ⟨INFERENCE — the pattern is documented; the causal explanation is a widely-held reading, not a single citation⟩**:** the standard critical explanation is that Gospel communities writing under Roman rule, in the decades after the Jewish War (66–73 CE) inflamed Roman suspicion of anything Judea-associated, had strong survival incentives to distance the new movement from insurrection against Rome and from the recently-crushed Jewish revolt. This is argued at length by **John Dominic Crossan** [CRITICAL], *Who Killed Jesus?* (1995), who frames the trajectory explicitly as the root of later Christian anti-Judaism.
+
+**What does NOT hold, and should not be claimed:** that the Barabbas episode as narrated is historically plausible. There is no independent evidence for a Passover pardon custom, and a Roman prefect releasing a convicted insurrectionist on a crowd's demand has no attested parallel. Whether this makes the episode a Lukan/Markan invention outright, or a garbled memory of some actual clemency practice, is unresolved — but do not defend the Barabbas story as historical while making this argument; that would be arguing both that the text is unreliable and that a specific unreliable detail happened.
+
+**CORRECTED:** *Luke intensifies rather than merely repeats Mark's tendency to exonerate Roman authority — three explicit declarations of innocence plus an added Herod scene, versus Mark's single more ambiguous account. The trajectory across all four Gospels toward increasing Pilate-sympathy and increasing Jewish-crowd culpability is a standard critical observation. The strongest explanation is social pressure on communities writing after 70 CE to distance the movement from anti-Roman insurrection — but the Barabbas scene's historical plausibility should not be defended in the same argument, since no independent evidence supports the pardon custom it depends on.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "Luke softens Rome" is true but underspecified — it invites the response "Luke is no kinder to Rome than the others," which has some real support (Fitzmyer). The sharper, better-defended claim is the *specific mechanism*: repetition of declared innocence plus an added corroborating authority, which is measurable in the text rather than a general vibe.
+
+**Debate note:** lead with the count — three explicit declarations of innocence in Luke alone, plus Herod. That is a textual fact your opponent cannot dispute. Do not lead with "Rome is let off the hook," which invites a real rebuttal.
+
+---
 
 ### 6.4 John — Read Last
 
@@ -434,6 +540,36 @@ The actual argument: do Gentiles need to follow Jewish law, including circumcisi
 
 Acts makes Peter and Paul look like they broadly agree, minor friction smoothed over. Paul's letter to the Galatians (2:11) says he opposed Peter 'to his face' because Peter was being hypocritical about eating with Gentiles — performing Jewish observance when Jewish Christians were watching, dropping it when they weren't. Acts doesn't include this. Acts is managing the founding mythology. Paul's letters are the actual receipts.
 
+#### ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?
+
+`CHECKED 7 AUG 2026`
+
+**AS RECORDED:** Galatians 2 and Acts 15 give contradictory accounts of the Jerusalem council. (§9.3.)
+
+**STATUS: Real, but the "degree" question resolves differently than most treatments suggest — the strongest critical position doesn't need the contradiction to make its point.**
+
+**AUDIT**
+
+**First, the identification problem itself is genuinely contested — not a settled critical finding.** Three positions circulate, and it matters which scholars hold which:
+
+1. **Same event, two accounts** (the traditional majority position). **Craig Keener** [EVANGELICAL, author of the standard four-volume Acts commentary] argues this on Occam's Razor grounds — common focus on Gentile inclusion and circumcision, the same named figures (Peter, James, Paul, Barnabas), the same basic outcome. **Fitzmyer** [CRITICAL, Catholic] is quoted directly in Keener's own treatment as concluding none of the differences is significant enough to undermine the identification. **Pierson Parker** [CRITICAL], *JBL* 86 (1967), makes the same case from the opposite direction: it would be remarkable to imagine two separate councils, on the same subject, with the same people, the same sequence, the same location, ending in the same falling-out between Paul and Barnabas.
+
+2. **Galatians 2 = the earlier Acts 11:27–30 famine visit, not Acts 15** — a minority position with real defenders, hinging on the fact that Galatians mentions only two Jerusalem visits total while Acts records three, and that no public decree or letter (central to Acts 15) appears anywhere in Galatians.
+
+3. **Galatians was written *before* the Acts 15 council took place** — meaning there is no contradiction because the events described are chronologically prior to it. This is a serious minority position, not a fringe harmonization: it explains why Paul never cites the Acts 15 decree in Galatians (it hadn't happened yet), and it explains why the circumcision controversy in Galatians reads as live and unresolved rather than settled.
+
+**Second — and this is the more useful point than adjudicating which position is correct** ⟨INFERENCE⟩**:** even under Keener's own same-event position, the strongest version of the contradiction survives, because it isn't really about which meeting is being described. It's this: **Galatians 2:6, in Paul's own words, states that the Jerusalem leadership "added nothing" to his gospel** — a direct, first-person claim of full apostolic independence. Acts 15:19–29, by contrast, has James issue a formal, binding decree (abstain from food sacrificed to idols, from blood, from what is strangled, and from sexual immorality) that Gentile believers are required to follow. **That is Jerusalem adding something, delivered as institutional authority — the very thing Paul's own letter says did not happen.** This is not a scheduling discrepancy. It's Paul's eyewitness account of his own authority directly conflicting with Luke's account of what the meeting produced.
+
+**This reframes what to actually argue.** Whether it's one meeting or two barely matters if the theological content of what happened at "the" meeting is described in mutually exclusive ways by a participant and a later historian.
+
+**CORRECTED:** *Whether Galatians 2 and Acts 15 describe the same meeting is genuinely disputed among serious scholars, with real defenders of same-event, different-event, and Galatians-predates-Acts-15 positions. The stronger and simpler contradiction does not depend on resolving that question: Paul states in his own hand that Jerusalem added nothing to his gospel, while Acts has Jerusalem issue a binding decree. A first-person claim of independence and a third-person account of an imposed ruling cannot both be accurate descriptions of the same relationship, regardless of which calendar date is attached to which text.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "these two chapters contradict each other" is true but under-specified in the same way the Luke/Rome claim was — it invites "no they don't, here's a harmonization," and there are several available. The Galatians 2:6 vs. Acts 15:19–29 framing is much harder to harmonize away, because it isn't a factual detail (who was there, what order things happened) — it's a first-person claim about the *nature of an authority relationship*, made by one of the two people in that relationship.
+
+**Debate note:** don't open with "Acts and Galatians contradict each other" — you'll get a same-event/different-event debate that goes nowhere useful. Open with Galatians 2:6 directly: Paul says Jerusalem added nothing. Then ask what a formal dietary and sexual-conduct decree, delivered as binding, would count as if not "adding something."
+
+---
+
 ### 9.4 Paul's conversion (Acts 9 vs. Galatians 1)
 
 Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.
@@ -461,6 +597,42 @@ Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into 
 **CORRECTED:** *The speeches in Acts are Lukan compositions. The strongest evidence is internal — a shared kerygmatic structure across different speakers, varying by audience rather than by source. Ancient historiographical convention is context for this, not proof of it, and Thucydides 1.22.1 should not be cited as licence for invention, since Thucydides claims fidelity to the general sense of what was said. Acts is separately and demonstrably accurate on incidental external detail, which is a real datum that does not extend to the speeches.*
 
 **WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "Ancient historians made up speeches" is a tidy, widely repeated line that appears to settle the question by appeal to genre. It repeats a misreading of the one passage everyone cites. The conclusion survives anyway — on better evidence.
+
+---
+
+## 9.5 Galatians — The Angriest Letter in the Canon
+
+**Tonal shift from Acts, immediately visible.** Acts 15 presents a smooth, unified council reaching consensus. Galatians opens with Paul skipping the greeting-thanksgiving formula every other authentic letter uses and going straight to: *"I am astonished that you are so quickly deserting him who called you... and turning to a different gospel"* (1:6). No pleasantries. This is a man mid-crisis, and it is worth reading the letter with that fact in view rather than as calm doctrine — the argument's shape is defensive and reactive throughout.
+
+### 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT
+
+Paul states his gospel came **"not from man, nor was I taught it, but through a revelation of Jesus Christ"** (1:11–12), and goes further than that: after his conversion he did **not** go to Jerusalem to consult the apostles — he went to Arabia, then Damascus, and only after three years went up to Jerusalem, and even then stayed just fifteen days, seeing only Peter and James (1:15–20). He seals this with an oath: **"In what I am writing to you, before God, I do not lie"** (1:20).
+
+This is a man building a case, under oath, for his independence from Jerusalem — which tells you the independence was being disputed by someone, in real time, as he wrote.
+
+Fourteen years later (2:1), a second visit — this is the material already audited at §9.3/§9.4 against Acts 15. Read alongside that audit: **"those who seemed influential added nothing to me"** (2:6). Then the Antioch incident (2:11–14): Paul says he **opposed Peter to his face**, publicly, because Peter had been eating with Gentiles and then withdrew when men from James arrived, "fearing the circumcision party." Paul calls this hypocrisy and reports confronting the head of the Jerusalem church in front of the whole congregation.
+
+**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. This is Paul's own testimony that Christianity's founding leadership was in open, public dispute over what the movement actually required of a Gentile convert — not a settled question with a clean answer, but a live fight Paul was actively losing ground in and wrote this letter to try to win.
+
+### 9.5.2 The theological stakes — and the fault line you need before Romans
+
+The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.
+
+**This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:**
+
+**The traditional ("Lutheran") reading.** Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. "Works of the law" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of **Thomas Schreiner** [EVANGELICAL], **Stephen Westerholm** [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his *Perspectives Old and New on Paul* is the standard survey of the whole debate and treats every side fairly], and **Peter Stuhlmacher** [CRITICAL, German].
+
+**The New Perspective on Paul (NPP).** **E.P. Sanders** [CRITICAL], *Paul and Palestinian Judaism* (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the "legalistic Judaism" the Reformation reading assumes Paul was fighting **did not exist** — Second Temple Judaism operated on what Sanders termed **covenantal nomism**: you are already in the covenant by God's grace, and law-observance is the *response* to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.
+
+**James D.G. Dunn** [CRITICAL] — coined the term "New Perspective" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing "works of the law" in Galatians refers not to earning salvation generally but specifically to **ethnic boundary markers**: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about **who counts as included**, not about whether good works can save you.
+
+**N.T. Wright** [ANGLICAN, historian — see The Other Side §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.
+
+**The strongest critical pushback on the NPP, stated fairly** — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target *ethnic exclusivism* (NPP) or *a wider human tendency to seek self-justification through one's own achievement* (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys "righteousness" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying **the ungodly** — a category that doesn't fit neatly into a "boundary marker" dispute.
+
+**What to do with this** ⟨INFERENCE⟩**:** don't resolve this now. Hold both readings as you go through Galatians 2–3 and into Romans, and watch which one the text supports better as Paul's argument develops — particularly Galatians 3:10–14 (the curse of the law) and Romans 3–4, which is where the traditional reading has its strongest textual ground. The debate matters for more than academic precision: if NPP is right, two thousand years of "Paul vs. legalism" sermons have been fighting a strawman version of Judaism that real practicing Jews in Paul's own century didn't hold — which is itself a significant finding about how doctrine gets built on a mischaracterization of the group being argued against.
+
+**Debate note:** this is not yet debate-ready material — it's a live, genuinely contested scholarly question, and deploying either side as settled fact will be an easy target for anyone who knows the literature. What *is* debate-ready right now: Galatians 1:8–9 and 5:12 as evidence of the ferocity of internal Christian conflict from the very beginning, regardless of which side of the NPP debate is correct.
 
 ---
 
@@ -517,4 +689,4 @@ Ranked by expected exposure. Not yet audited.
 - Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.
 - Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.
 
-*Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*
+*Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*
