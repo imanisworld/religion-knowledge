@@ -33,14 +33,18 @@
         Provenance
         <select id="provenance-filter">
           <option value="ALL">All</option>
-          <option value="MY_WORDS">My words</option>
-          <option value="MY_POSITION">My position</option>
-          <option value="MY_QUESTION">My question</option>
-          <option value="CLAUDE">Claude</option>
-          <option value="CHATGPT">ChatGPT</option>
+          <optgroup label="Mine">
+            <option value="MY_WORDS">My words</option>
+            <option value="MY_POSITION">My position</option>
+            <option value="MY_QUESTION">My question</option>
+          </optgroup>
+          <optgroup label="AI Analysis">
+            <option value="CLAUDE">Claude</option>
+            <option value="CHATGPT">ChatGPT</option>
+            <option value="INFERENCE">Inference</option>
+          </optgroup>
           <option value="SOURCE">Source</option>
-          <option value="INFERENCE">Inference</option>
-          <option value="REVIEW_REQUIRED">Review required</option>
+          <option value="REVIEW_REQUIRED">Needs review</option>
         </select>
       </label>
       <label>
@@ -106,7 +110,7 @@
 
     <nav class="bottom-nav" aria-label="Primary navigation">
       <button class="nav-item active" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
-      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Mine</small></button>
+      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Thoughts</small></button>
       <button class="nav-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
       <button class="nav-item" type="button" data-view="review"><span>!</span><small>Review</small></button>
       <button class="nav-item" type="button" id="nav-more" aria-haspopup="dialog" aria-controls="more-sheet"><span>⋯</span><small>More</small></button>

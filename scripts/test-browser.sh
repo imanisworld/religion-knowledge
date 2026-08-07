@@ -344,6 +344,16 @@ if ! grep -Fq 'data-home-clean="pass"' /tmp/religion-app-dom.html; then
   exit 1
 fi
 
+if ! grep -Fq '<optgroup label="AI Analysis">' /tmp/religion-app-dom.html; then
+  echo "Provenance filter is missing its grouped options" >&2
+  exit 1
+fi
+
+if grep -Eq '<span class="badge [a-z]*">(VERBATIM|PARAPHRASE|SUMMARY)</span>' /tmp/religion-app-dom.html; then
+  echo "Card faces still show representation-type badges (dialog-only now)" >&2
+  exit 1
+fi
+
 if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-browser.log; then
   echo "Browser log contains a JavaScript runtime error" >&2
   cat /tmp/religion-browser.log >&2

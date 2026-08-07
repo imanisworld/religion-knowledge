@@ -268,6 +268,22 @@
     return String(value ?? '').replaceAll('_', ' ');
   }
 
+  // Badge copy only — the dialog's detail rows keep the raw enum labels,
+  // since that surface is the attribution audit trail.
+  function badgeText(provenance) {
+    return provenance === 'REVIEW_REQUIRED' ? 'NEEDS REVIEW' : label(provenance);
+  }
+
+  const DOC_TITLES = {
+    'Bible_Deep_Dive_Master_Notes.md': 'Master Notes',
+    'Field_Guide_Conversation_Reference.md': 'Field Guide',
+    'Glossary.md': 'Glossary',
+    'Historical_Framework.md': 'Historical Framework',
+    'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',
+    'The_Other_Side.md': 'The Other Side',
+    'Translations.md': 'Translations',
+  };
+
   function resetListLimits() {
     state.listLimits = {};
   }
@@ -300,21 +316,26 @@
   function card(record) {
     const title = record.title || record.text || 'Untitled record';
     const preview = record.text || record.raw_text || '';
-    const badges = [record.provenance_type, record.representation_type, record.record_type]
-      .filter(Boolean)
-      .map((item, index) => {
-        const cls = index === 0 ? badgeClass(record.provenance_type) : '';
-        return `<span class="badge ${cls}">${escapeHtml(label(item))}</span>`;
-      })
-      .join('');
-    const overrideBadge = record.override_applied ? '<span class="badge">MANUAL REVIEW</span>' : '';
+    // Card faces stay lean: provenance (the at-a-glance fact), record type
+    // only when it says more than the default OBSERVATION, and a REVIEWED
+    // stamp for overridden records. Representation and full attribution
+    // detail live in the record dialog.
+    const badges = [`<span class="badge ${badgeClass(record.provenance_type)}">${escapeHtml(badgeText(record.provenance_type))}</span>`];
+    if (record.record_type && record.record_type !== 'OBSERVATION') {
+      badges.push(`<span class="badge">${escapeHtml(label(record.record_type))}</span>`);
+    }
+    if (record.override_applied) badges.push('<span class="badge">REVIEWED</span>');
+
+    const docTitle = DOC_TITLES[record.source_file] || record.source_file || '';
+    const sectionParts = typeof record.source_section === 'string' ? record.source_section.split(' > ') : [];
+    const sectionLeaf = sectionParts.length > 1 ? sectionParts[sectionParts.length - 1] : '';
 
     return `
       <button class="record-card" type="button" data-record-id="${escapeHtml(record.id)}">
-        <div class="record-meta">${badges}${overrideBadge}</div>
+        <div class="record-meta">${badges.join('')}</div>
         <h3>${escapeHtml(title.length > 110 ? `${title.slice(0, 107)}…` : title)}</h3>
         ${preview && preview !== title ? `<p>${escapeHtml(preview.length > 220 ? `${preview.slice(0, 217)}…` : preview)}</p>` : ''}
-        ${record.source_file ? `<p class="record-source">${escapeHtml(record.source_file)}${record.source_section ? ` · ${escapeHtml(record.source_section)}` : ''}</p>` : ''}
+        ${record.source_file ? `<p class="record-source">${escapeHtml(docTitle)}${sectionLeaf ? ` · ${escapeHtml(sectionLeaf)}` : ''}</p>` : ''}
       </button>`;
   }
 
@@ -351,7 +372,7 @@
     const sources = records.filter((r) => r.provenance_type === 'SOURCE').length;
     const stats = [
       ['Records', records.length, 'search'],
-      ['Provably mine', mine, 'thoughts'],
+      ['My thoughts', mine, 'thoughts'],
       ['Audits', audits, 'audits'],
       ['Review', review, 'review'],
       ['Sources', sources, 'sources'],
@@ -508,7 +529,7 @@
   function renderCompare() {
     const chains = buildChains();
     $('compare-list').innerHTML = chains.length
-      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(label(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
+      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(badgeText(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(DOC_TITLES[item.source_file] || item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
       : emptyState('No comparison chains yet', 'Comparison requires source-backed relationships between original words, AI interpretation, evidence, audits, and later positions.');
   }
 

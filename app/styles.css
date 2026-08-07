@@ -327,7 +327,11 @@ button.stat-card:focus-visible { border-color: var(--accent); }
   text-transform: uppercase;
 }
 .badge.mine { background: var(--mark-you-bg); color: var(--mark-you-text); border-color: var(--mark-you-border); }
-.badge.review { color: var(--warning); }
+.badge.review {
+  background: color-mix(in srgb, var(--warning) 14%, var(--panel-2));
+  color: var(--warning);
+  border-color: color-mix(in srgb, var(--warning) 45%, var(--line));
+}
 .badge.source { background: var(--mark-doc-bg); color: var(--mark-doc-text); border-color: var(--mark-doc-border); }
 .badge.ai { background: var(--mark-inf-bg); color: var(--mark-inf-text); border-color: var(--mark-inf-border); }
 
