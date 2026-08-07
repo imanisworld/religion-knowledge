@@ -1,0 +1,22 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local tooling
+node_modules/
+coverage/
+.tmp/
+tmp/
+*.log
+
+# Secrets / local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated import outputs that have not been reviewed
+imports/staging/
