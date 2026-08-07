@@ -2,6 +2,12 @@
   "$schema": "./node_modules/wrangler/config-schema.json",
   "name": "religion-knowledge",
   "compatibility_date": "2026-08-07",
+  // dist/reader-site is generated, not committed — wrangler runs this before
+  // every deploy (locally and in Cloudflare Workers Builds) so the assets
+  // directory always exists and matches the checked-out commit.
+  "build": {
+    "command": "npm run build:reader-site"
+  },
   "assets": {
     "directory": "./dist/reader-site",
     "not_found_handling": "404-page",
