@@ -2,7 +2,7 @@
 
 *Theologians, Apologists, and How the Literal/Allegorical Switch Actually Works*
 
-**Companion to:** Master Notes · Field Guide · Historical Framework · Sources
+**Companion to:** Study Notes · Observations · Historical Framework · Sources
 **Last updated:** 7 August 2026
 
 > **Provenance.** **Written by:** Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. **The ranking by 'hardest to answer' is Claude's judgement, not a scholarly consensus** — a starting map, not a verdict.
@@ -62,9 +62,9 @@ This category surprises people. These are not apologists — they are working sc
 
 **Gary Habermas** [EVANGELICAL] — the "minimal facts" argument. Builds a case from a small set of claims he says the majority of critical scholars grant. Handle by examining whether each "fact" is granted in the form he states it.
 
-**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Master Notes for where his redaction-criticism reversal is genuinely sharp.
+**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Study Notes for where his redaction-criticism reversal is genuinely sharp.
 
-**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Master Notes §1.8 audit.
+**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Study Notes §1.8 audit.
 
 **J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell** — the popular tier. Strobel's *Case for Christ* is structured as journalism but interviews only people who already agree. This is the level most conversations actually happen at, and it is not where the strong arguments live. Do not let a win here convince you the position is defeated.
 
@@ -139,7 +139,7 @@ Question 3 has no answer. Aquinas's categories are not in the text, and no verse
 
 **What it does establish** ⟨INFERENCE⟩ is narrower and much harder to escape: whatever the text's origin, *its application is a human act*, performed by people using unstated sorting rules that reliably preserve what they already believed. The question stops being "what does the Bible say" and becomes "who decided which parts count, and what were they protecting."
 
-That is the same structural finding as the audit log in the Master Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.
+That is the same structural finding as the audit log in the Study Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.
 
 ## 3. Rules for Engaging Well
 

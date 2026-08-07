@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Bible_Deep_Dive_Master_Notes.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -11,7 +11,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes"
+      "Bible Deep Dive: Study Notes"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19,7 +19,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes",
+    "source_section": "Bible Deep Dive: Study Notes",
     "source_reference": "paragraph:1",
     "parent_id": null,
     "related_ids": [],
@@ -28,10 +28,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2c3ddabec9d98966a943",
@@ -41,7 +41,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes"
+      "Bible Deep Dive: Study Notes"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -49,7 +49,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes",
+    "source_section": "Bible Deep Dive: Study Notes",
     "source_reference": "paragraph:2",
     "parent_id": null,
     "related_ids": [],
@@ -58,10 +58,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9df7867de4fc0e88c8f0",
@@ -71,7 +71,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes"
+      "Bible Deep Dive: Study Notes"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -79,7 +79,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes",
+    "source_section": "Bible Deep Dive: Study Notes",
     "source_reference": "paragraph:3",
     "parent_id": null,
     "related_ids": [],
@@ -88,20 +88,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7f945dfe4194aa1e0ae5",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar said this in a named publication. Go check it. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it and it should never be cited as though someone did.\n> -  — your own observation, from reading or from live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* an unmarked claim in an audit body is documented. Anything marked  is Claude reasoning, and you should treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar said this in a named publication. Go check it. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it and it should never be cited as though someone did.\n⟨YOURS⟩ — your own observation, from reading or from live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: an unmarked claim in an audit body is documented. Anything marked ⟨INFERENCE⟩ is Claude reasoning, and you should treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar said this in a named publication. Go check it. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it and it should never be cited as though someone did.\n> - **⟨YOURS⟩** — your own observation, from reading or from live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** an unmarked claim in an audit body is documented. Anything marked ⟨INFERENCE⟩ is Claude reasoning, and you should treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes"
+      "Bible Deep Dive: Study Notes"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -109,7 +109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes",
+    "source_section": "Bible Deep Dive: Study Notes",
     "source_reference": "paragraph:4",
     "parent_id": null,
     "related_ids": [],
@@ -121,17 +121,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_305665b38ac3a186ffc7",
-    "text": "How to read this document. Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits directly beneath it, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n>\n> Scope: this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the Field Guide: Live Conversation Reference.",
-    "raw_text": "> **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n>\n> **Scope:** this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the **Field Guide: Live Conversation Reference**.",
+    "text": "How to read this document. Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits directly beneath it, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n\nScope: this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the Observations: Live Conversation Reference.",
+    "raw_text": "> **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n>\n> **Scope:** this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the **Observations: Live Conversation Reference**.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes"
+      "Bible Deep Dive: Study Notes"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -139,7 +139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes",
+    "source_section": "Bible Deep Dive: Study Notes",
     "source_reference": "paragraph:5",
     "parent_id": null,
     "related_ids": [],
@@ -148,10 +148,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f05631f3eb0a751d489a",
@@ -161,7 +161,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "0. Reading Approach & Stance"
     ],
     "subtopics": [],
@@ -170,7 +170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 0. Reading Approach & Stance",
+    "source_section": "Bible Deep Dive: Study Notes > 0. Reading Approach & Stance",
     "source_reference": "paragraph:6",
     "parent_id": null,
     "related_ids": [],
@@ -179,10 +179,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c7838ddcca3e90e2f685",
@@ -192,7 +192,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "0. Reading Approach & Stance"
     ],
     "subtopics": [],
@@ -201,7 +201,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 0. Reading Approach & Stance",
+    "source_section": "Bible Deep Dive: Study Notes > 0. Reading Approach & Stance",
     "source_reference": "paragraph:7",
     "parent_id": null,
     "related_ids": [],
@@ -210,10 +210,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f6c4a611c175f21e6a86",
@@ -223,7 +223,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "0. Reading Approach & Stance"
     ],
     "subtopics": [],
@@ -232,7 +232,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 0. Reading Approach & Stance",
+    "source_section": "Bible Deep Dive: Study Notes > 0. Reading Approach & Stance",
     "source_reference": "paragraph:8",
     "parent_id": null,
     "related_ids": [],
@@ -241,10 +241,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fe0c9d9188f7bf5cbaf8",
@@ -254,7 +254,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "0. Reading Approach & Stance"
     ],
     "subtopics": [],
@@ -263,7 +263,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 0. Reading Approach & Stance",
+    "source_section": "Bible Deep Dive: Study Notes > 0. Reading Approach & Stance",
     "source_reference": "paragraph:9",
     "parent_id": null,
     "related_ids": [],
@@ -272,10 +272,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e9ed6553b0633b9f6e42",
@@ -285,7 +285,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.1 The Bible is not consistent"
     ],
@@ -295,7 +295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.1 The Bible is not consistent",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.1 The Bible is not consistent",
     "source_reference": "paragraph:10",
     "parent_id": null,
     "related_ids": [],
@@ -304,10 +304,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e9440149729e77ea34f3",
@@ -317,7 +317,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.2 Early Israelite religion is transactional"
     ],
@@ -327,7 +327,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.2 Early Israelite religion is transactional",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.2 Early Israelite religion is transactional",
     "source_reference": "paragraph:11",
     "parent_id": null,
     "related_ids": [],
@@ -336,10 +336,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_123d19c75c01e4694b86",
@@ -349,7 +349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model"
     ],
@@ -359,7 +359,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model",
     "source_reference": "paragraph:12",
     "parent_id": null,
     "related_ids": [],
@@ -368,10 +368,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c988247dceb131de9e11",
@@ -381,7 +381,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -392,9 +392,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:13",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -404,7 +404,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a24ceb703582cc8ad4d9",
@@ -414,7 +414,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -425,9 +425,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:14",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [
       "rk_5e1c2f7df46ec3431c4e"
     ],
@@ -439,7 +439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3aec1da17a26d95cd67",
@@ -449,7 +449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -460,9 +460,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:15",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [
       "rk_5e1c2f7df46ec3431c4e"
     ],
@@ -474,7 +474,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fea4bd1497d7a3a182f",
@@ -484,7 +484,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -495,9 +495,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:16",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -507,7 +507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ed2abfe39938b4abe212",
@@ -517,7 +517,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -528,9 +528,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:17",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -540,7 +540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6f773c84d36a24d557b3",
@@ -550,7 +550,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -561,9 +561,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:18",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -573,7 +573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f1ea928bc1cefa99529e",
@@ -583,7 +583,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -594,9 +594,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:19",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -606,7 +606,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_52e8a0e0981d84a44a59",
@@ -616,7 +616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -627,9 +627,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:20",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -639,7 +639,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e1c2f7df46ec3431c4e",
@@ -649,7 +649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -660,9 +660,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:21",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [
       "rk_a24ceb703582cc8ad4d9",
       "rk_d3aec1da17a26d95cd67"
@@ -675,7 +675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1e858861b9cc9fc3a8be",
@@ -685,7 +685,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -696,9 +696,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:22",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -708,7 +708,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b54b2c6a7e559c2249ce",
@@ -718,7 +718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.3 Job exposes flaws of that model",
       "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
@@ -729,9 +729,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:23",
-    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -741,7 +741,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_458d44408c2b0b053fae",
@@ -751,7 +751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.4 Moral discomfort is constant"
     ],
@@ -761,7 +761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.4 Moral discomfort is constant",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.4 Moral discomfort is constant",
     "source_reference": "paragraph:24",
     "parent_id": null,
     "related_ids": [],
@@ -770,10 +770,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b7e553930460c4a624e6",
@@ -783,7 +783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.5 Selective law-keeping exposes human power"
     ],
@@ -793,7 +793,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.5 Selective law-keeping exposes human power",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.5 Selective law-keeping exposes human power",
     "source_reference": "paragraph:25",
     "parent_id": null,
     "related_ids": [],
@@ -802,10 +802,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_99a291b0fdf165458bf9",
@@ -815,7 +815,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing"
     ],
@@ -825,7 +825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing",
     "source_reference": "paragraph:26",
     "parent_id": null,
     "related_ids": [],
@@ -834,10 +834,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_842c569fff106cdbce90",
@@ -847,7 +847,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -858,9 +858,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:27",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -870,7 +870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8e86686fd6898ab1cd40",
@@ -880,7 +880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -891,9 +891,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:28",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [
       "rk_7547132df08203961aab"
     ],
@@ -905,7 +905,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eac534bdf2030f1e06a7",
@@ -915,7 +915,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -926,9 +926,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:29",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [
       "rk_7547132df08203961aab"
     ],
@@ -940,7 +940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5031e1a3ce1eb05fd483",
@@ -950,7 +950,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -961,9 +961,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:30",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -973,7 +973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8638f32dde7d0bedb522",
@@ -983,7 +983,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -994,9 +994,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:31",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1006,7 +1006,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_794886ab40d0c2c42910",
@@ -1016,7 +1016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1027,9 +1027,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:32",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1039,7 +1039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_842c843de3651483697e",
@@ -1049,7 +1049,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1060,9 +1060,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:33",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1072,7 +1072,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bb48bf208b0c85d9ca01",
@@ -1082,7 +1082,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1093,9 +1093,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:34",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1105,7 +1105,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8fb6345bbc7f73589fdc",
@@ -1115,7 +1115,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1126,9 +1126,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:35",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1138,7 +1138,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ad51ab689e313adb2212",
@@ -1148,7 +1148,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1159,9 +1159,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:36",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1171,7 +1171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7547132df08203961aab",
@@ -1181,7 +1181,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1192,9 +1192,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:37",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [
       "rk_8e86686fd6898ab1cd40",
       "rk_eac534bdf2030f1e06a7"
@@ -1207,7 +1207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0342d1b95d900f519c7a",
@@ -1217,7 +1217,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1228,9 +1228,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:38",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1240,7 +1240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e7cb97cb110c29b72ef5",
@@ -1250,7 +1250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.6 Misattribution of healing",
       "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
@@ -1261,9 +1261,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
     "source_reference": "paragraph:39",
-    "parent_id": "audit_a8078370de87325e3869",
+    "parent_id": "audit_6ddb64507d3b54f0846b",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1273,7 +1273,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0894af51f53fd701a7c3",
@@ -1283,7 +1283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.7 Israel as people vs. place"
     ],
@@ -1293,7 +1293,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.7 Israel as people vs. place",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.7 Israel as people vs. place",
     "source_reference": "paragraph:40",
     "parent_id": null,
     "related_ids": [],
@@ -1302,10 +1302,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_102509e90a847a3d0b2b",
@@ -1315,7 +1315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology"
     ],
@@ -1325,7 +1325,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology",
     "source_reference": "paragraph:41",
     "parent_id": null,
     "related_ids": [],
@@ -1334,10 +1334,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d941d03ac3e64eac55e1",
@@ -1347,7 +1347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1358,9 +1358,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:42",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1370,7 +1370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_455a7d0c8490d1ffb329",
@@ -1380,7 +1380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1391,9 +1391,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:43",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [
       "rk_ce79c6bd146853b81a12"
     ],
@@ -1405,7 +1405,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8b9b6619ef2590528b9f",
@@ -1415,7 +1415,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1426,9 +1426,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:44",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [
       "rk_ce79c6bd146853b81a12"
     ],
@@ -1440,7 +1440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_485554478e93cbce1e79",
@@ -1450,7 +1450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1461,9 +1461,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:45",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1473,7 +1473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_94b1b9f34216d828832d",
@@ -1483,7 +1483,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1494,9 +1494,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:46",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1506,7 +1506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d652278add2f9cf2cd7f",
@@ -1516,7 +1516,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1527,9 +1527,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:47",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1539,7 +1539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7e8dc3301494a93aa744",
@@ -1549,7 +1549,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1560,9 +1560,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:48",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1572,7 +1572,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ce7f9bae13809e6b6c47",
@@ -1582,7 +1582,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1593,9 +1593,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:49",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1605,17 +1605,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19d74a6a401f02e7c33c",
-    "text": "Neo-Documentarians — Baruch Schwartz [NEO-DOCUMENTARIAN, Hebrew University], Joel Baden (The Composition of the Pentateuch, Yale 2012), Jeffrey Stackert. Mostly North American and Israeli. Hold a refined J/E/D/P model.\n- European school — Konrad Schmid, Thomas Römer, Jan Christian Gertz, following Rolf Rendtorff. Redaction-critical and supplementary models. Published a volume titled A Farewell to the Yahwist?\n- The two sides do not agree that the sources exist. Schmid answered Baden directly in \"The Neo-Documentarian Manifesto: A Critical Reading,\" JBL 140 (2021).",
+    "text": "Neo-Documentarians — Baruch Schwartz [NEO-DOCUMENTARIAN, Hebrew University], Joel Baden (The Composition of the Pentateuch, Yale 2012), Jeffrey Stackert. Mostly North American and Israeli. Hold a refined J/E/D/P model.\nEuropean school — Konrad Schmid, Thomas Römer, Jan Christian Gertz, following Rolf Rendtorff. Redaction-critical and supplementary models. Published a volume titled A Farewell to the Yahwist?\nThe two sides do not agree that the sources exist. Schmid answered Baden directly in \"The Neo-Documentarian Manifesto: A Critical Reading,\" JBL 140 (2021).",
     "raw_text": "- **Neo-Documentarians** — Baruch Schwartz [NEO-DOCUMENTARIAN, Hebrew University], Joel Baden (*The Composition of the Pentateuch*, Yale 2012), Jeffrey Stackert. Mostly North American and Israeli. Hold a refined J/E/D/P model.\n- **European school** — Konrad Schmid, Thomas Römer, Jan Christian Gertz, following Rolf Rendtorff. Redaction-critical and supplementary models. Published a volume titled *A Farewell to the Yahwist?*\n- The two sides do not agree that the sources exist. Schmid answered Baden directly in \"The Neo-Documentarian Manifesto: A Critical Reading,\" *JBL* 140 (2021).",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1626,9 +1626,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:50",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1638,7 +1638,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4f00750fa08e79c4dea6",
@@ -1648,7 +1648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1659,9 +1659,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:51",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1671,7 +1671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e6536c08a2d31680f7e0",
@@ -1681,7 +1681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1692,9 +1692,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:52",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1704,7 +1704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ce79c6bd146853b81a12",
@@ -1714,7 +1714,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1725,9 +1725,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:53",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [
       "rk_455a7d0c8490d1ffb329",
       "rk_8b9b6619ef2590528b9f"
@@ -1740,7 +1740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fb60f8713debc90d20f",
@@ -1750,7 +1750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1761,9 +1761,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:54",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1773,7 +1773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e9e8378b9e786a19450c",
@@ -1783,7 +1783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — Exodus Composition and Dating"
@@ -1794,9 +1794,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
     "source_reference": "paragraph:55",
-    "parent_id": "audit_132aaef4b3ce9355974c",
+    "parent_id": "audit_a80d03b15a85ea2da8ee",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1806,7 +1806,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dda1f959ce02753b1ece",
@@ -1816,7 +1816,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -1827,9 +1827,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:56",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1839,7 +1839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_53e484d8938e070d4421",
@@ -1849,7 +1849,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -1860,9 +1860,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:57",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [
       "rk_56c5e45b4f2c96d60823"
     ],
@@ -1874,7 +1874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_52dc09da18271abaeaed",
@@ -1884,7 +1884,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -1895,9 +1895,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:58",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [
       "rk_56c5e45b4f2c96d60823"
     ],
@@ -1909,7 +1909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a6080282fd3e2f3ddbae",
@@ -1919,7 +1919,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -1930,9 +1930,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:59",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1942,7 +1942,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_74bcc62c180f8fd32956",
@@ -1952,7 +1952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -1963,9 +1963,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:60",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1975,7 +1975,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b31594250a5fe58d32c4",
@@ -1985,7 +1985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -1996,9 +1996,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:61",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2008,7 +2008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_12c7317d58a6d4f035cf",
@@ -2018,7 +2018,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -2029,9 +2029,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:62",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2041,7 +2041,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d746c88c12e783ab4027",
@@ -2051,7 +2051,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -2062,9 +2062,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:63",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2074,7 +2074,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_66bdf4f3231a11aaf5fd",
@@ -2084,7 +2084,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -2095,9 +2095,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:64",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2107,7 +2107,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_56c5e45b4f2c96d60823",
@@ -2117,7 +2117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -2128,9 +2128,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:65",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [
       "rk_53e484d8938e070d4421",
       "rk_52dc09da18271abaeaed"
@@ -2143,7 +2143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e43a575337aa899b7efe",
@@ -2153,7 +2153,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -2164,9 +2164,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:66",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2176,7 +2176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9210a52f23fdedc76669",
@@ -2186,7 +2186,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
       "1.8 National trauma shaped theology",
       "⚑ AUDIT — The eleph Census Solution"
@@ -2197,9 +2197,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
     "source_reference": "paragraph:67",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "parent_id": "audit_d540102d0a135c14db2e",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2209,7 +2209,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_57e1ff6a4946e290164f",
@@ -2219,7 +2219,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues"
     ],
     "subtopics": [],
@@ -2228,7 +2228,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues",
     "source_reference": "paragraph:68",
     "parent_id": null,
     "related_ids": [],
@@ -2237,10 +2237,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e013cc04ddc1f46a7f9",
@@ -2250,7 +2250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues"
     ],
     "subtopics": [],
@@ -2259,7 +2259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues",
     "source_reference": "paragraph:69",
     "parent_id": null,
     "related_ids": [],
@@ -2268,10 +2268,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8283432a8fde7296cbdd",
@@ -2281,7 +2281,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2291,9 +2291,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:70",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2303,7 +2303,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_23d4450752b871336b25",
@@ -2313,7 +2313,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2323,9 +2323,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:71",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [
       "rk_b3de5a1688756368210f"
     ],
@@ -2337,7 +2337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9f5d73ece0e871d25323",
@@ -2347,7 +2347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2357,9 +2357,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:72",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [
       "rk_b3de5a1688756368210f"
     ],
@@ -2371,7 +2371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2ad35caba24ec0e3f725",
@@ -2381,7 +2381,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2391,9 +2391,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:73",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2403,7 +2403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d6561a553e6d1ba79ed",
@@ -2413,7 +2413,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2423,9 +2423,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:74",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2435,7 +2435,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15d2f77617b97333136a",
@@ -2445,7 +2445,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2455,9 +2455,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:75",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2467,7 +2467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_16a4bed55b9bf88c8c3c",
@@ -2477,7 +2477,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2487,9 +2487,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:76",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2499,7 +2499,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e2f04c418c196d4a46d0",
@@ -2509,7 +2509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2519,9 +2519,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:77",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2531,7 +2531,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3de5a1688756368210f",
@@ -2541,7 +2541,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2551,9 +2551,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:78",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [
       "rk_23d4450752b871336b25",
       "rk_9f5d73ece0e871d25323"
@@ -2566,7 +2566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a60842de679d95b4bf85",
@@ -2576,7 +2576,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2586,9 +2586,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:79",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2598,7 +2598,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4d5e5adb59b3be45a3ca",
@@ -2608,7 +2608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2618,9 +2618,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:80",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2630,7 +2630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ac990b51b3a6ec5599a0",
@@ -2640,7 +2640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "2. Hebrew / Translation Issues",
       "⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading"
     ],
@@ -2650,9 +2650,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
+    "source_section": "Bible Deep Dive: Study Notes > 2. Hebrew / Translation Issues > ⚑ AUDIT — Isaiah 7:14: Almah, Parthenos, and the Virgin Birth Reading",
     "source_reference": "paragraph:81",
-    "parent_id": "audit_d80d8b20963188a5ef31",
+    "parent_id": "audit_6be8f88feb7803390091",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -2662,7 +2662,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_24f6cf7ffd1bc0ca2f93",
@@ -2672,7 +2672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.1 Isaiah"
     ],
@@ -2682,7 +2682,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.1 Isaiah",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.1 Isaiah",
     "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
@@ -2691,10 +2691,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f1d1a927f5e5f4efb521",
@@ -2704,7 +2704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.2 Jeremiah"
     ],
@@ -2714,7 +2714,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
     "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
@@ -2723,10 +2723,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_79f82ce303b9b2a244e0",
@@ -2736,7 +2736,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.2 Jeremiah"
     ],
@@ -2746,7 +2746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
     "source_reference": "paragraph:84",
     "parent_id": null,
     "related_ids": [],
@@ -2755,10 +2755,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cfff4525ba21b1a39d18",
@@ -2768,7 +2768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.2 Jeremiah"
     ],
@@ -2778,7 +2778,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
     "source_reference": "paragraph:85",
     "parent_id": null,
     "related_ids": [],
@@ -2787,10 +2787,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bd66d8756d9fb8d70209",
@@ -2800,7 +2800,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.3 Ezekiel"
     ],
@@ -2810,7 +2810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.3 Ezekiel",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.3 Ezekiel",
     "source_reference": "paragraph:86",
     "parent_id": null,
     "related_ids": [],
@@ -2819,10 +2819,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_abae661cd7c6cfa4c84e",
@@ -2832,7 +2832,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.4 Amos"
     ],
@@ -2842,7 +2842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.4 Amos",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.4 Amos",
     "source_reference": "paragraph:87",
     "parent_id": null,
     "related_ids": [],
@@ -2851,10 +2851,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec123d835a020df46082",
@@ -2864,7 +2864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.5 Jonah"
     ],
@@ -2874,7 +2874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.5 Jonah",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.5 Jonah",
     "source_reference": "paragraph:88",
     "parent_id": null,
     "related_ids": [],
@@ -2883,10 +2883,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a1e0ee3c2b87d869398c",
@@ -2896,7 +2896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.6 Micah"
     ],
@@ -2906,7 +2906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.6 Micah",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.6 Micah",
     "source_reference": "paragraph:89",
     "parent_id": null,
     "related_ids": [],
@@ -2915,10 +2915,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_80ba79d774dc81f7fbae",
@@ -2928,7 +2928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
       "3.7 The Minor Prophets Formula"
     ],
@@ -2938,7 +2938,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.7 The Minor Prophets Formula",
+    "source_section": "Bible Deep Dive: Study Notes > 3. Key Prophets — What Matters > 3.7 The Minor Prophets Formula",
     "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
@@ -2947,10 +2947,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ec3c53b18fd836f77d8",
@@ -2960,7 +2960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT"
     ],
     "subtopics": [],
@@ -2969,7 +2969,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT",
     "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
@@ -2978,10 +2978,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_53bba082ecbdeb691ecb",
@@ -2991,7 +2991,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT"
     ],
     "subtopics": [],
@@ -3000,7 +3000,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT",
     "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
@@ -3009,10 +3009,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b4884c74ba3763b4280",
@@ -3022,7 +3022,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT"
     ],
     "subtopics": [],
@@ -3031,7 +3031,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT",
     "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
@@ -3040,10 +3040,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c38e644a2f247db18e79",
@@ -3053,7 +3053,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT",
       "⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)"
     ],
@@ -3063,9 +3063,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
     "source_reference": "paragraph:94",
-    "parent_id": "audit_0c362ea9b707cd1cf993",
+    "parent_id": "audit_07988a84ed142ec5d9da",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3075,7 +3075,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_271f8a5f93e62ea92d88",
@@ -3085,7 +3085,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT",
       "⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)"
     ],
@@ -3095,9 +3095,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
     "source_reference": "paragraph:95",
-    "parent_id": "audit_0c362ea9b707cd1cf993",
+    "parent_id": "audit_07988a84ed142ec5d9da",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3107,7 +3107,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_418fea3a2c7d264c21d4",
@@ -3117,7 +3117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT",
       "⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)"
     ],
@@ -3127,9 +3127,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
     "source_reference": "paragraph:96",
-    "parent_id": "audit_0c362ea9b707cd1cf993",
+    "parent_id": "audit_07988a84ed142ec5d9da",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3139,7 +3139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3410d8b9d446a755cf2e",
@@ -3149,7 +3149,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT",
       "⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)"
     ],
@@ -3159,9 +3159,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
     "source_reference": "paragraph:97",
-    "parent_id": "audit_0c362ea9b707cd1cf993",
+    "parent_id": "audit_07988a84ed142ec5d9da",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3171,7 +3171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_050a57ba0c15bfbff8b9",
@@ -3181,7 +3181,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT",
       "⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)"
     ],
@@ -3191,9 +3191,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
     "source_reference": "paragraph:98",
-    "parent_id": "audit_0c362ea9b707cd1cf993",
+    "parent_id": "audit_07988a84ed142ec5d9da",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3203,7 +3203,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f3f28a93b0763e2f9e68",
@@ -3213,7 +3213,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT",
       "⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)"
     ],
@@ -3223,9 +3223,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
+    "source_section": "Bible Deep Dive: Study Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
     "source_reference": "paragraph:99",
-    "parent_id": "audit_0c362ea9b707cd1cf993",
+    "parent_id": "audit_07988a84ed142ec5d9da",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3235,7 +3235,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨YOURS⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_11bc4096968610962f4a",
@@ -3245,7 +3245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.1 What the NT is doing structurally"
     ],
@@ -3255,7 +3255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.1 What the NT is doing structurally",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.1 What the NT is doing structurally",
     "source_reference": "paragraph:100",
     "parent_id": null,
     "related_ids": [],
@@ -3264,10 +3264,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f3861f2223763aa27fb3",
@@ -3277,7 +3277,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.2 Key structural facts"
     ],
@@ -3287,7 +3287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
     "source_reference": "paragraph:101",
     "parent_id": null,
     "related_ids": [],
@@ -3296,10 +3296,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_17c9c3aafd17af470133",
@@ -3309,7 +3309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.2 Key structural facts"
     ],
@@ -3319,7 +3319,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
     "source_reference": "paragraph:102",
     "parent_id": null,
     "related_ids": [],
@@ -3328,10 +3328,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4a6440b49b4457a04a76",
@@ -3341,7 +3341,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.2 Key structural facts"
     ],
@@ -3351,7 +3351,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
     "source_reference": "paragraph:103",
     "parent_id": null,
     "related_ids": [],
@@ -3360,10 +3360,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2d4bb4688fb892aaef08",
@@ -3373,7 +3373,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.3 The 'Christ' problem"
     ],
@@ -3383,7 +3383,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.3 The 'Christ' problem",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.3 The 'Christ' problem",
     "source_reference": "paragraph:104",
     "parent_id": null,
     "related_ids": [],
@@ -3392,10 +3392,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_28bfdcc18016a6d03789",
@@ -3405,7 +3405,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.4 Eternal damnation: a new escalation"
     ],
@@ -3415,7 +3415,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.4 Eternal damnation: a new escalation",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.4 Eternal damnation: a new escalation",
     "source_reference": "paragraph:105",
     "parent_id": null,
     "related_ids": [],
@@ -3424,10 +3424,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_140c8bfe5b9ed5033792",
@@ -3437,7 +3437,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
       "5.5 Greek vs. Aramaic"
     ],
@@ -3447,7 +3447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.5 Greek vs. Aramaic",
+    "source_section": "Bible Deep Dive: Study Notes > 5. New Testament — Orientation & Critical Framework > 5.5 Greek vs. Aramaic",
     "source_reference": "paragraph:106",
     "parent_id": null,
     "related_ids": [],
@@ -3456,10 +3456,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0d00ad39e999c316e98e",
@@ -3469,7 +3469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First"
     ],
@@ -3479,7 +3479,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First",
     "source_reference": "paragraph:107",
     "parent_id": null,
     "related_ids": [],
@@ -3488,10 +3488,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50e068476964b8afc296",
@@ -3501,7 +3501,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3512,9 +3512,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:108",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3524,7 +3524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_79dbb4bdefb92a8763f0",
@@ -3534,7 +3534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3545,9 +3545,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:109",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [
       "rk_c99e998cda9788ba7ca9"
     ],
@@ -3559,7 +3559,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b29f00170c736e529267",
@@ -3569,7 +3569,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3580,9 +3580,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:110",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [
       "rk_c99e998cda9788ba7ca9"
     ],
@@ -3594,7 +3594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_513e219ac629d6423eaf",
@@ -3604,7 +3604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3615,9 +3615,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:111",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3627,7 +3627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_568d838e5d821f35e45e",
@@ -3637,7 +3637,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3648,9 +3648,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:112",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3660,7 +3660,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4741acacfce2691ba58c",
@@ -3670,7 +3670,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3681,9 +3681,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:113",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3693,17 +3693,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5aded781fc9918d1855b",
-    "text": "The Griesbach (Two-Gospel) Hypothesis — J.J. Griesbach, 1776, revived forcefully by William R. Farmer [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], The Synoptic Problem: A Critical Analysis (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by theological preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.\n- The Farrer Hypothesis (Farrer–Goulder–Goodacre) — associated most recently with Mark Goodacre [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used both Mark and Matthew directly, eliminating the need to posit a hypothetical lost source (\"Q\") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the two-source hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.\n- The Augustinian Hypothesis — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.",
+    "text": "The Griesbach (Two-Gospel) Hypothesis — J.J. Griesbach, 1776, revived forcefully by William R. Farmer [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], The Synoptic Problem: A Critical Analysis (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by theological preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.\nThe Farrer Hypothesis (Farrer–Goulder–Goodacre) — associated most recently with Mark Goodacre [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used both Mark and Matthew directly, eliminating the need to posit a hypothetical lost source (\"Q\") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the two-source hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.\nThe Augustinian Hypothesis — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.",
     "raw_text": "- **The Griesbach (Two-Gospel) Hypothesis** — J.J. Griesbach, 1776, revived forcefully by **William R. Farmer** [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], *The Synoptic Problem: A Critical Analysis* (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by *theological* preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.\n- **The Farrer Hypothesis** (Farrer–Goulder–Goodacre) — associated most recently with **Mark Goodacre** [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used *both* Mark and Matthew directly, eliminating the need to posit a hypothetical lost source (\"Q\") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the *two-source* hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.\n- **The Augustinian Hypothesis** — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3714,9 +3714,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:114",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3726,7 +3726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_af9ffa62d48b0ac15ba0",
@@ -3736,7 +3736,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3747,9 +3747,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:115",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3759,7 +3759,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c99e998cda9788ba7ca9",
@@ -3769,7 +3769,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3780,9 +3780,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:116",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [
       "rk_79dbb4bdefb92a8763f0",
       "rk_b29f00170c736e529267"
@@ -3795,7 +3795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3debb1b2819c750fcb08",
@@ -3805,7 +3805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.1 Mark — Read First",
       "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
@@ -3816,9 +3816,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
     "source_reference": "paragraph:117",
-    "parent_id": "audit_66cb06a42e386561e6e2",
+    "parent_id": "audit_bbdd221dfe750294d478",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3828,7 +3828,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_052e4a32b91a5a8f53e5",
@@ -3838,7 +3838,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second"
     ],
@@ -3848,7 +3848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second",
     "source_reference": "paragraph:118",
     "parent_id": null,
     "related_ids": [],
@@ -3857,10 +3857,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_30ae2bb629bd9e8ce317",
@@ -3870,7 +3870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -3881,9 +3881,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:119",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3893,7 +3893,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c7166e8f35d131a3ebac",
@@ -3903,7 +3903,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -3914,9 +3914,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:120",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [
       "rk_92b968f4db35b010a5a8"
     ],
@@ -3928,7 +3928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f7d53523529faa0e1e28",
@@ -3938,7 +3938,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -3949,9 +3949,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:121",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [
       "rk_92b968f4db35b010a5a8"
     ],
@@ -3963,7 +3963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_005a3a3cb59372ee4c28",
@@ -3973,7 +3973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -3984,9 +3984,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:122",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -3996,7 +3996,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_06fb579b5dfd0b142912",
@@ -4006,7 +4006,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4017,9 +4017,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:123",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4029,7 +4029,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d1afd6737dde02dd4fe",
@@ -4039,7 +4039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4050,9 +4050,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:124",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4062,7 +4062,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5f6c3f957c58768cd990",
@@ -4072,7 +4072,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4083,9 +4083,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:125",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4095,7 +4095,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_10d392ae85e8f636007e",
@@ -4105,7 +4105,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4116,9 +4116,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:126",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4128,7 +4128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_92b968f4db35b010a5a8",
@@ -4138,7 +4138,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4149,9 +4149,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:127",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [
       "rk_c7166e8f35d131a3ebac",
       "rk_f7d53523529faa0e1e28"
@@ -4164,7 +4164,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9aa08f2fffd3d2643e45",
@@ -4174,7 +4174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4185,9 +4185,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:128",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4197,7 +4197,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_40163c4dffd4dee252b2",
@@ -4207,7 +4207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.2 Matthew — Read Second",
       "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
@@ -4218,9 +4218,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
     "source_reference": "paragraph:129",
-    "parent_id": "audit_64a41973fbbd347869a2",
+    "parent_id": "audit_374a8a1db3eb5ba84805",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4230,7 +4230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d7d8109fedaabfde217",
@@ -4240,7 +4240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third"
     ],
@@ -4250,7 +4250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third",
     "source_reference": "paragraph:130",
     "parent_id": null,
     "related_ids": [],
@@ -4259,10 +4259,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_06376762ea37d69b5e1d",
@@ -4272,7 +4272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4283,9 +4283,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:131",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4295,7 +4295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_936cdd39840bc2489677",
@@ -4305,7 +4305,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4316,9 +4316,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:132",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [
       "rk_941a329a4ed5f0edab43"
     ],
@@ -4330,7 +4330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_74478198e0b8f028c534",
@@ -4340,7 +4340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4351,9 +4351,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:133",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [
       "rk_941a329a4ed5f0edab43"
     ],
@@ -4365,7 +4365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f08777666609d816ebf3",
@@ -4375,7 +4375,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4386,9 +4386,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:134",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4398,7 +4398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a40564c67ea899415b56",
@@ -4408,7 +4408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4419,9 +4419,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:135",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4431,7 +4431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_55a39a28dc644331c0d5",
@@ -4441,7 +4441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4452,9 +4452,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:136",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4464,7 +4464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ebd33ad4d90ff44bcad2",
@@ -4474,7 +4474,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4485,9 +4485,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:137",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4497,7 +4497,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_49cb8a1edceb602f82b0",
@@ -4507,7 +4507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4518,9 +4518,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:138",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4530,7 +4530,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the pattern is documented; the causal explanation is a widely-held reading, not a single citation⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9100e95e4564678956a0",
@@ -4540,7 +4540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4551,9 +4551,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:139",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4563,7 +4563,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_941a329a4ed5f0edab43",
@@ -4573,7 +4573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4584,9 +4584,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:140",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [
       "rk_936cdd39840bc2489677",
       "rk_74478198e0b8f028c534"
@@ -4599,7 +4599,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_88f64c03221e1ef70a0a",
@@ -4609,7 +4609,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4620,9 +4620,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:141",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4632,7 +4632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0d8cb96adf967fc93495",
@@ -4642,7 +4642,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.3 Luke — Read Third",
       "⚑ AUDIT — Does Luke Soften Roman Culpability?"
@@ -4653,9 +4653,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
     "source_reference": "paragraph:142",
-    "parent_id": "audit_7ae8fe8c026716885859",
+    "parent_id": "audit_a59159050199a6a0fdd9",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4665,7 +4665,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b1c4722fc8bac059cee",
@@ -4675,7 +4675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.4 John — Read Last"
     ],
@@ -4685,7 +4685,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.4 John — Read Last",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.4 John — Read Last",
     "source_reference": "paragraph:143",
     "parent_id": null,
     "related_ids": [],
@@ -4694,10 +4694,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c022f38b1b8ea828546",
@@ -4707,7 +4707,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters"
     ],
@@ -4717,7 +4717,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters",
     "source_reference": "paragraph:144",
     "parent_id": null,
     "related_ids": [],
@@ -4726,10 +4726,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7234f029f5245292d70d",
@@ -4739,7 +4739,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4750,9 +4750,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:145",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4762,7 +4762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a34dfcbc7b0dca21203f",
@@ -4772,7 +4772,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4783,9 +4783,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:146",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4795,7 +4795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7c4a63806416ae854156",
@@ -4805,7 +4805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4816,9 +4816,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:147",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [
       "rk_4c338986c41e358e286b"
     ],
@@ -4830,7 +4830,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0429b11fe9fa20cedc47",
@@ -4840,7 +4840,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4851,9 +4851,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:148",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4863,7 +4863,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50c03007aa29c59a8cd3",
@@ -4873,7 +4873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4884,9 +4884,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:149",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4896,7 +4896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_579855872f5036c881c3",
@@ -4906,7 +4906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4917,9 +4917,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:150",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4929,7 +4929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_106af85e5ff81503ae2f",
@@ -4939,7 +4939,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4950,9 +4950,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:151",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4962,7 +4962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f26bd08cc36abbd9314a",
@@ -4972,7 +4972,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -4983,9 +4983,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:152",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -4995,7 +4995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_93c1a642605de1f8554b",
@@ -5005,7 +5005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -5016,9 +5016,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:153",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5028,7 +5028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_662c60e9d397b121b391",
@@ -5038,7 +5038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -5049,9 +5049,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:154",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5061,7 +5061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6764b60a080c10f3c4d7",
@@ -5071,7 +5071,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -5082,9 +5082,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:155",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5094,7 +5094,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4c338986c41e358e286b",
@@ -5104,7 +5104,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -5115,9 +5115,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:156",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [
       "rk_7c4a63806416ae854156"
     ],
@@ -5129,7 +5129,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f5378a185e9ab1069c71",
@@ -5139,7 +5139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -5150,9 +5150,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:157",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5162,7 +5162,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bbade46190450febfb56",
@@ -5172,7 +5172,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "6. Gospel Reading Order & Framework",
       "6.5 Then Paul's Letters",
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
@@ -5183,9 +5183,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
+    "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:158",
-    "parent_id": "audit_6fc43a996e151703a993",
+    "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5195,7 +5195,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_93088454525041c23c5f",
@@ -5205,7 +5205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5214,7 +5214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:159",
     "parent_id": null,
     "related_ids": [],
@@ -5223,10 +5223,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_de7875b4109d838b319c",
@@ -5236,7 +5236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5245,7 +5245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:160",
     "parent_id": null,
     "related_ids": [],
@@ -5254,10 +5254,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_942f9dbf400344bc5159",
@@ -5267,7 +5267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5276,7 +5276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:161",
     "parent_id": null,
     "related_ids": [],
@@ -5285,10 +5285,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_29f80e9a2065215c75d4",
@@ -5298,7 +5298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5307,7 +5307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:162",
     "parent_id": null,
     "related_ids": [],
@@ -5316,10 +5316,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_64ecf59543a023922256",
@@ -5329,7 +5329,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5338,7 +5338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:163",
     "parent_id": null,
     "related_ids": [],
@@ -5347,10 +5347,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_71f649316919ca8b3b21",
@@ -5360,7 +5360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5369,7 +5369,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:164",
     "parent_id": null,
     "related_ids": [],
@@ -5378,10 +5378,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ed4e92e1c01e4029326a",
@@ -5391,7 +5391,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "7. Critical Dimensions to Track (All NT)"
     ],
     "subtopics": [],
@@ -5400,7 +5400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
+    "source_section": "Bible Deep Dive: Study Notes > 7. Critical Dimensions to Track (All NT)",
     "source_reference": "paragraph:165",
     "parent_id": null,
     "related_ids": [],
@@ -5409,10 +5409,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c02a0696360b5ad4707",
@@ -5422,7 +5422,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint"
     ],
     "subtopics": [],
@@ -5431,7 +5431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint",
     "source_reference": "paragraph:166",
     "parent_id": null,
     "related_ids": [],
@@ -5440,10 +5440,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_70aafbf5e4053773d1df",
@@ -5453,7 +5453,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.1 What John is doing differently"
     ],
@@ -5463,7 +5463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.1 What John is doing differently",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.1 What John is doing differently",
     "source_reference": "paragraph:167",
     "parent_id": null,
     "related_ids": [],
@@ -5472,10 +5472,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_149624cef562015f89b6",
@@ -5485,7 +5485,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.1 What John is doing differently"
     ],
@@ -5495,7 +5495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.1 What John is doing differently",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.1 What John is doing differently",
     "source_reference": "paragraph:168",
     "parent_id": null,
     "related_ids": [],
@@ -5504,10 +5504,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_122f361cb99173444265",
@@ -5517,7 +5517,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.2 The 'I Am' statements"
     ],
@@ -5527,7 +5527,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.2 The 'I Am' statements",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.2 The 'I Am' statements",
     "source_reference": "paragraph:169",
     "parent_id": null,
     "related_ids": [],
@@ -5536,10 +5536,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7fd72ac29d8ce593be33",
@@ -5549,7 +5549,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.3 The Lazarus problem"
     ],
@@ -5559,7 +5559,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.3 The Lazarus problem",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.3 The Lazarus problem",
     "source_reference": "paragraph:170",
     "parent_id": null,
     "related_ids": [],
@@ -5568,10 +5568,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_11eed16b5523c9c0bd6b",
@@ -5581,7 +5581,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.4 Eat my flesh, drink my blood (John 6)"
     ],
@@ -5591,7 +5591,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.4 Eat my flesh, drink my blood (John 6)",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.4 Eat my flesh, drink my blood (John 6)",
     "source_reference": "paragraph:171",
     "parent_id": null,
     "related_ids": [],
@@ -5600,10 +5600,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_738cb5c6d12b1ec3383f",
@@ -5613,7 +5613,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.4 Eat my flesh, drink my blood (John 6)"
     ],
@@ -5623,7 +5623,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.4 Eat my flesh, drink my blood (John 6)",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.4 Eat my flesh, drink my blood (John 6)",
     "source_reference": "paragraph:172",
     "parent_id": null,
     "related_ids": [],
@@ -5632,10 +5632,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45557ebc0e3763e32c4e",
@@ -5645,7 +5645,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem"
     ],
@@ -5655,7 +5655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem",
     "source_reference": "paragraph:173",
     "parent_id": null,
     "related_ids": [],
@@ -5664,10 +5664,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_449260caf4f4d45d411c",
@@ -5677,7 +5677,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5688,9 +5688,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:174",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5700,7 +5700,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c3c9fb042b0419b4594",
@@ -5710,7 +5710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5721,9 +5721,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:175",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5733,7 +5733,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd3bc100c07b8cd70a3e",
@@ -5743,7 +5743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5754,9 +5754,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:176",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [
       "rk_86c4d3e5c771c0c3cead"
     ],
@@ -5768,7 +5768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_62e3196a02f33034aaf2",
@@ -5778,7 +5778,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5789,9 +5789,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:177",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5801,7 +5801,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1b8f484320ca95b6a089",
@@ -5811,7 +5811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5822,9 +5822,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:178",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5834,7 +5834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bc11478d681f61ecbbce",
@@ -5844,7 +5844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5855,9 +5855,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:179",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5867,7 +5867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f31323ea41775d2d3634",
@@ -5877,7 +5877,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5888,9 +5888,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:180",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5900,7 +5900,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c2db11221aefc5f5dde",
@@ -5910,7 +5910,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5921,9 +5921,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:181",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5933,7 +5933,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8383e4a28fa2c20f1379",
@@ -5943,7 +5943,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5954,9 +5954,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:182",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5966,7 +5966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d279bb4adbd73c1e8652",
@@ -5976,7 +5976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -5987,9 +5987,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:183",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5999,7 +5999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b54ce61f99f5f7dc97e4",
@@ -6009,7 +6009,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -6020,9 +6020,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:184",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6032,7 +6032,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_86c4d3e5c771c0c3cead",
@@ -6042,7 +6042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -6053,9 +6053,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:185",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [
       "rk_fd3bc100c07b8cd70a3e"
     ],
@@ -6067,7 +6067,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8d15f2d170f7fa5aedda",
@@ -6077,7 +6077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -6088,9 +6088,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:186",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6100,7 +6100,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50ad7f37647b08aeba87",
@@ -6110,7 +6110,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.5 John's antisemitism problem",
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
@@ -6121,9 +6121,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:187",
-    "parent_id": "audit_e51bae030537e25f9e6a",
+    "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6133,7 +6133,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_07add46a3b4e78e0e13b",
@@ -6143,7 +6143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution"
     ],
@@ -6153,7 +6153,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution",
     "source_reference": "paragraph:188",
     "parent_id": null,
     "related_ids": [],
@@ -6162,10 +6162,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75b5d19c9ea91f0e6c9c",
@@ -6175,7 +6175,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution"
     ],
@@ -6185,7 +6185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution",
     "source_reference": "paragraph:189",
     "parent_id": null,
     "related_ids": [],
@@ -6194,10 +6194,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_beb5dbeb0ab3b085f6d2",
@@ -6207,7 +6207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6218,9 +6218,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:190",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6230,7 +6230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f56d0da41847123c5f94",
@@ -6240,7 +6240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6251,9 +6251,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:191",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6263,7 +6263,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f301578d662c42136e17",
@@ -6273,7 +6273,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6284,9 +6284,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:192",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [
       "rk_61e1b26ca740c7f167b0"
     ],
@@ -6298,7 +6298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cbf19e3f33d6b82c1f3",
@@ -6308,7 +6308,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6319,9 +6319,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:193",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6331,7 +6331,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6573f6de3f3d5f12c29e",
@@ -6341,7 +6341,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6352,9 +6352,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:194",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6364,7 +6364,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_16d1c9903a30d8eb55d0",
@@ -6374,7 +6374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6385,9 +6385,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:195",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6397,7 +6397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b1b1c68425ebaf073240",
@@ -6407,7 +6407,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6418,9 +6418,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:196",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6430,7 +6430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c98ac2dbd152f8816a1",
@@ -6440,7 +6440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6451,9 +6451,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:197",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6463,7 +6463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5b4b86ba82b7094ade1a",
@@ -6473,7 +6473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6484,9 +6484,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:198",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6496,7 +6496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0c8516b77f83985005ea",
@@ -6506,7 +6506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6517,9 +6517,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:199",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6529,7 +6529,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21a0004da80d77525ed6",
@@ -6539,7 +6539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6550,9 +6550,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:200",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6562,7 +6562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3753743203f0d0da090e",
@@ -6572,7 +6572,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6583,9 +6583,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:201",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6595,7 +6595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_61e1b26ca740c7f167b0",
@@ -6605,7 +6605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6616,9 +6616,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:202",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [
       "rk_f301578d662c42136e17"
     ],
@@ -6630,7 +6630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f444c905b40f262eff3d",
@@ -6640,7 +6640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6651,9 +6651,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:203",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6663,7 +6663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f9495bc4a7523daf62e",
@@ -6673,7 +6673,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
       "8.6 The delay of the parousia — John's solution",
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
@@ -6684,9 +6684,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
+    "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:204",
-    "parent_id": "audit_0b5d6471fca8bf02e77a",
+    "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6696,7 +6696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5682349e2dae4b7de163",
@@ -6706,7 +6706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth"
     ],
     "subtopics": [],
@@ -6715,7 +6715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth",
     "source_reference": "paragraph:205",
     "parent_id": null,
     "related_ids": [],
@@ -6724,10 +6724,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_64785a3ac3f422b8850f",
@@ -6737,7 +6737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.1 Pentecost (Acts 2)"
     ],
@@ -6747,7 +6747,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.1 Pentecost (Acts 2)",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.1 Pentecost (Acts 2)",
     "source_reference": "paragraph:206",
     "parent_id": null,
     "related_ids": [],
@@ -6756,10 +6756,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fa0cab48eda133ee62a5",
@@ -6769,7 +6769,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.2 The Jerusalem Council (Acts 15)"
     ],
@@ -6779,7 +6779,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.2 The Jerusalem Council (Acts 15)",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.2 The Jerusalem Council (Acts 15)",
     "source_reference": "paragraph:207",
     "parent_id": null,
     "related_ids": [],
@@ -6788,10 +6788,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e4c979e79f552a2813ad",
@@ -6801,7 +6801,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters"
     ],
@@ -6811,7 +6811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters",
     "source_reference": "paragraph:208",
     "parent_id": null,
     "related_ids": [],
@@ -6820,10 +6820,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d05a049319322d71f4af",
@@ -6833,7 +6833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -6844,9 +6844,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:209",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6856,7 +6856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3569c456721c4854e6c6",
@@ -6866,7 +6866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -6877,9 +6877,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:210",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [
       "rk_5e0251089486e2aa4579"
     ],
@@ -6891,7 +6891,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_97e80e6250731ebb343e",
@@ -6901,7 +6901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -6912,9 +6912,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:211",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [
       "rk_5e0251089486e2aa4579"
     ],
@@ -6926,7 +6926,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9ba3bfa048f9fe14d4cf",
@@ -6936,7 +6936,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -6947,9 +6947,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:212",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6959,7 +6959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff2c620c5d449898247f",
@@ -6969,7 +6969,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -6980,9 +6980,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:213",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -6992,7 +6992,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_46344cbc2e32a5f4ab81",
@@ -7002,7 +7002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7013,9 +7013,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:214",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7025,7 +7025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a97e0e9d4108eaaa40a0",
@@ -7035,7 +7035,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7046,9 +7046,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:215",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7058,7 +7058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a1c2b27a511dd190bda2",
@@ -7068,7 +7068,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7079,9 +7079,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:216",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7091,7 +7091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_10043e1f883a84caee1b",
@@ -7101,7 +7101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7112,9 +7112,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:217",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7124,7 +7124,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0b1225a0ffedcbb5c4ea",
@@ -7134,7 +7134,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7145,9 +7145,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:218",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7157,7 +7157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e0251089486e2aa4579",
@@ -7167,7 +7167,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7178,9 +7178,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:219",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [
       "rk_3569c456721c4854e6c6",
       "rk_97e80e6250731ebb343e"
@@ -7193,7 +7193,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f4b84c51e86bc1ba10b",
@@ -7203,7 +7203,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7214,9 +7214,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:220",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7226,7 +7226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d71d6e76a888bc1d9f81",
@@ -7236,7 +7236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.3 The hero problem — Acts vs. Paul's own letters",
       "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
@@ -7247,9 +7247,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
     "source_reference": "paragraph:221",
-    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "parent_id": "audit_40440a3277cef16c0c06",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7259,7 +7259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a7ffd532fdaf12ab5568",
@@ -7269,7 +7269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)"
     ],
@@ -7279,7 +7279,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
     "source_reference": "paragraph:222",
     "parent_id": null,
     "related_ids": [],
@@ -7288,10 +7288,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9766fbda740648af4713",
@@ -7301,7 +7301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7312,9 +7312,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:223",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7324,7 +7324,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e0b1d766acdc8110804a",
@@ -7334,7 +7334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7345,9 +7345,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:224",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7357,7 +7357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6f47caa7766112500687",
@@ -7367,7 +7367,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7378,9 +7378,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:225",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [
       "rk_7dfb10cba525a29567a7"
     ],
@@ -7392,7 +7392,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8e25a344ffd1bb53bc8a",
@@ -7402,7 +7402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7413,9 +7413,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:226",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7425,7 +7425,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6a41a0a313b02b6ef519",
@@ -7435,7 +7435,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7446,9 +7446,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:227",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7458,7 +7458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_41d7d3fa22d445aeb704",
@@ -7468,7 +7468,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7479,9 +7479,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:228",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7491,7 +7491,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_abf8fe1868880c11ca0b",
@@ -7501,7 +7501,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7512,9 +7512,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:229",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7524,7 +7524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_592ed8bf07570189f699",
@@ -7534,7 +7534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7545,9 +7545,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:230",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7557,7 +7557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f433dc8d0d640427b1c3",
@@ -7567,7 +7567,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7578,9 +7578,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:231",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7590,7 +7590,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7dfb10cba525a29567a7",
@@ -7600,7 +7600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7611,9 +7611,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:232",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [
       "rk_6f47caa7766112500687"
     ],
@@ -7625,7 +7625,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dad3d756e18ffbb85a65",
@@ -7635,7 +7635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
       "9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
@@ -7646,9 +7646,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
+    "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:233",
-    "parent_id": "audit_5738830910cf65c721be",
+    "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -7658,7 +7658,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_04b77ddd91f82c07b378",
@@ -7668,7 +7668,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon"
     ],
     "subtopics": [],
@@ -7677,7 +7677,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon",
     "source_reference": "paragraph:234",
     "parent_id": null,
     "related_ids": [],
@@ -7686,10 +7686,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cc40ee1121ec4cfd545f",
@@ -7699,7 +7699,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
     ],
@@ -7709,7 +7709,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
     "source_reference": "paragraph:235",
     "parent_id": null,
     "related_ids": [],
@@ -7718,10 +7718,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf77d4af02999e6daf1a",
@@ -7731,7 +7731,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
     ],
@@ -7741,7 +7741,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
     "source_reference": "paragraph:236",
     "parent_id": null,
     "related_ids": [],
@@ -7750,10 +7750,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a6c6b72cc4e6eb608d31",
@@ -7763,7 +7763,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
     ],
@@ -7773,7 +7773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
     "source_reference": "paragraph:237",
     "parent_id": null,
     "related_ids": [],
@@ -7782,10 +7782,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2c022ca37dba8db73dbd",
@@ -7795,7 +7795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
     ],
@@ -7805,7 +7805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
     "source_reference": "paragraph:238",
     "parent_id": null,
     "related_ids": [],
@@ -7814,10 +7814,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9ebd795884e4b0ef2514",
@@ -7827,7 +7827,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -7837,7 +7837,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:239",
     "parent_id": null,
     "related_ids": [],
@@ -7846,10 +7846,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e40a834e34c304448898",
@@ -7859,7 +7859,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -7869,7 +7869,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:240",
     "parent_id": null,
     "related_ids": [],
@@ -7878,10 +7878,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a1926f9a8b6da5c75b89",
@@ -7891,7 +7891,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -7901,7 +7901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:241",
     "parent_id": null,
     "related_ids": [],
@@ -7910,10 +7910,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6445442e2a1cd154b8b2",
@@ -7923,7 +7923,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -7933,7 +7933,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:242",
     "parent_id": null,
     "related_ids": [],
@@ -7942,10 +7942,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_71a9cb4e865b63d83c42",
@@ -7955,7 +7955,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -7965,7 +7965,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:243",
     "parent_id": null,
     "related_ids": [],
@@ -7974,10 +7974,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7368246cea4efc2e90bb",
@@ -7987,7 +7987,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -7997,7 +7997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:244",
     "parent_id": null,
     "related_ids": [],
@@ -8006,10 +8006,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fefdb5f6728e0563741",
@@ -8019,7 +8019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -8029,7 +8029,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:245",
     "parent_id": null,
     "related_ids": [],
@@ -8038,10 +8038,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_324b2ca5f2f9304c8f85",
@@ -8051,7 +8051,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -8061,7 +8061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:246",
     "parent_id": null,
     "related_ids": [],
@@ -8073,7 +8073,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_48b7a4aeedf3448addbf",
@@ -8083,7 +8083,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "9.5 Galatians — The Angriest Letter in the Canon",
       "9.5.2 The theological stakes — and the fault line you need before Romans"
     ],
@@ -8093,7 +8093,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
     "source_reference": "paragraph:247",
     "parent_id": null,
     "related_ids": [],
@@ -8102,10 +8102,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1be19bf454c09249bdc2",
@@ -8115,7 +8115,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
     ],
     "subtopics": [],
@@ -8124,7 +8124,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
+    "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
     "source_reference": "paragraph:248",
     "parent_id": null,
     "related_ids": [],
@@ -8133,10 +8133,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6bc393d9e74555561b79",
@@ -8146,7 +8146,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
     ],
     "subtopics": [],
@@ -8155,7 +8155,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
+    "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
     "source_reference": "paragraph:249",
     "parent_id": null,
     "related_ids": [],
@@ -8164,10 +8164,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c420d2f99755a04b2d8",
@@ -8177,7 +8177,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
     ],
     "subtopics": [],
@@ -8186,7 +8186,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
+    "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
     "source_reference": "paragraph:250",
     "parent_id": null,
     "related_ids": [],
@@ -8195,10 +8195,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4317ab3602ec35a704d9",
@@ -8208,7 +8208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
     ],
     "subtopics": [],
@@ -8217,7 +8217,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
+    "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
     "source_reference": "paragraph:251",
     "parent_id": null,
     "related_ids": [],
@@ -8226,10 +8226,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c8879f05f9423248a3dc",
@@ -8239,7 +8239,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
     ],
     "subtopics": [],
@@ -8248,7 +8248,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
+    "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
     "source_reference": "paragraph:252",
     "parent_id": null,
     "related_ids": [],
@@ -8257,10 +8257,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4ac652b742ef04b98ec",
@@ -8270,7 +8270,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.1 Standing Method — Applies to Everything Above"
     ],
@@ -8280,7 +8280,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
     "source_reference": "paragraph:253",
     "parent_id": null,
     "related_ids": [],
@@ -8289,10 +8289,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4fbd12711d0141d7ad0",
@@ -8302,7 +8302,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.1 Standing Method — Applies to Everything Above"
     ],
@@ -8312,7 +8312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
     "source_reference": "paragraph:254",
     "parent_id": null,
     "related_ids": [],
@@ -8321,10 +8321,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a7495a172070e6f2acb4",
@@ -8334,7 +8334,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.1 Standing Method — Applies to Everything Above"
     ],
@@ -8344,7 +8344,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
     "source_reference": "paragraph:255",
     "parent_id": null,
     "related_ids": [],
@@ -8353,10 +8353,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7f5f16e0bbdc93d34629",
@@ -8366,7 +8366,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8376,7 +8376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:256",
     "parent_id": null,
     "related_ids": [],
@@ -8385,10 +8385,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1559f37f75755189c5cd",
@@ -8398,7 +8398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8408,7 +8408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:257",
     "parent_id": null,
     "related_ids": [],
@@ -8417,20 +8417,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_28a69fbe80a25f365ee4",
-    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n- \"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
+    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n\"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — audited at §8.6. Overstated.\n- **\"John is textually antisemitic\"** — audited at §8.5. Holds w/ revisions.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8440,7 +8440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:258",
     "parent_id": null,
     "related_ids": [],
@@ -8449,10 +8449,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2646f6f2242e50e49bb9",
@@ -8462,7 +8462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8472,7 +8472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:259",
     "parent_id": null,
     "related_ids": [],
@@ -8481,20 +8481,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_70de34122517a2baf365",
-    "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\n- Luke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\n- Deutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
+    "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\nLuke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\nDeutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.\n- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.\n- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8504,7 +8504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:260",
     "parent_id": null,
     "related_ids": [],
@@ -8513,10 +8513,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bd82a7e87001f5b12511",
@@ -8526,7 +8526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8536,7 +8536,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:261",
     "parent_id": null,
     "related_ids": [],
@@ -8545,20 +8545,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_14b5d0b89cf66905a8f6",
-    "text": "Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
+    "text": "Markan priority (§6.1) — audited. Holds.\nGalatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\nMatthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\nIsaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\nHa-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "raw_text": "- Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8568,7 +8568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:262",
     "parent_id": null,
     "related_ids": [],
@@ -8577,10 +8577,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5f17add13506b9017917",
@@ -8590,7 +8590,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": "user",
     "topics": [
-      "Bible Deep Dive: Master Notes",
+      "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
       "11.2 Audit Queue — Closed"
     ],
@@ -8600,7 +8600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
+    "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
     "source_reference": "paragraph:263",
     "parent_id": null,
     "related_ids": [],
@@ -8609,9 +8609,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Master Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);

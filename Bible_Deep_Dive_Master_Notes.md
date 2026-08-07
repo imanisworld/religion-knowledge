@@ -1,4 +1,4 @@
-# Bible Deep Dive: Master Notes
+# Bible Deep Dive: Study Notes
 
 *Critical / Historical / Moral Lens*
 
@@ -18,7 +18,7 @@
 
 > **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.
 >
-> **Scope:** this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the **Field Guide: Live Conversation Reference**.
+> **Scope:** this document holds findings, textual analysis, and what the reading has established. Live-conversation material — talking points, response lines, deflection handling — lives in the **Observations: Live Conversation Reference**.
 
 ## 0. Reading Approach & Stance
 

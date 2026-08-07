@@ -6,8 +6,8 @@
   if (!view) return;
 
   const canonical = [
-    ['Bible_Deep_Dive_Master_Notes.md', 'Master Notes', 'master-notes.html'],
-    ['Field_Guide_Conversation_Reference.md', 'Field Guide', 'field-guide.html'],
+    ['Bible_Deep_Dive_Master_Notes.md', 'Study Notes', 'master-notes.html'],
+    ['Field_Guide_Conversation_Reference.md', 'Observations', 'field-guide.html'],
     ['Glossary.md', 'Glossary', 'glossary.html'],
     ['Historical_Framework.md', 'Historical Framework', 'history.html'],
     ['Sources_and_Primary_Texts.md', 'Sources & Primary Texts', 'sources.html'],

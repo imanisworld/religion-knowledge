@@ -2,7 +2,7 @@
 
 *The Backbone — Chronology, Evidence, and Bad History on Both Sides*
 
-**Companion to:** Bible Deep Dive Master Notes · Field Guide
+**Companion to:** Bible Deep Dive Study Notes · Observations
 **Last updated:** 7 August 2026
 
 > **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. **Nothing here is your prior work.** The dates and events are documented and standard; the *framing* — especially which arguments to drop and why — is Claude's judgement and marked where it matters.
@@ -288,7 +288,7 @@ This is the single most common place where a skeptic gets destroyed in live conv
 
 **"The Hittites were thought mythical until archaeology proved the Bible right."** Overstated, and it is an argument from one past vindication to unlimited future credit. The same reasoning would have vindicated the conquest of Jericho, which the archaeology did not support.
 
-**"Christianity ended slavery."** Abolition was driven substantially by Christians — Wilberforce, the Quakers — and that is real. So was the biblical defense of slavery, using Colossians 3:22 and Ephesians 6:5, for eighteen centuries prior. The text supported both sides, which is the actual point. See Master Notes §6.5 for the disputed-letter dimension, which sharpens this considerably.
+**"Christianity ended slavery."** Abolition was driven substantially by Christians — Wilberforce, the Quakers — and that is real. So was the biblical defense of slavery, using Colossians 3:22 and Ephesians 6:5, for eighteen centuries prior. The text supported both sides, which is the actual point. See Study Notes §6.5 for the disputed-letter dimension, which sharpens this considerably.
 
 **"The Crusades were defensive."** Partly defensible for the First Crusade in context of Seljuk expansion; not defensible for the Fourth, which sacked Christian Constantinople. Do not accept the framing wholesale and do not reject it wholesale.
 
@@ -300,7 +300,7 @@ You will meet someone who knows more history than you. This will keep happening;
 
 This costs nothing and does three things at once. It is honest. It makes any later concession from them harder to refuse, because you have modeled it. And it prevents the failure mode that actually loses arguments — defending a claim you are not sure of, getting refuted on it, and having every earlier point retroactively discredited.
 
-**The principle underneath** ⟨INFERENCE⟩**:** one confidently stated wrong fact costs more than ten unstated right ones. This is the same lesson as the audit log in the Master Notes, applied in real time.
+**The principle underneath** ⟨INFERENCE⟩**:** one confidently stated wrong fact costs more than ten unstated right ones. This is the same lesson as the audit log in the Study Notes, applied in real time.
 
 **And the position that requires no history at all** is still the strongest thing available: Leviticus 19 puts "love your neighbor as yourself" nine verses from "don't wear wool and linen together," with identical divine attribution. Nothing in the text marks the boundary. Every scheme for sorting them comes from outside the text. That argument cannot be outflanked by someone with better dates.
 

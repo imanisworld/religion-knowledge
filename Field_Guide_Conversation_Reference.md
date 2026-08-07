@@ -1,8 +1,8 @@
-**FIELD GUIDE: LIVE CONVERSATION REFERENCE**
+**OBSERVATIONS: LIVE CONVERSATION REFERENCE**
 
 *God / Religion / Morality Debates*
 
-Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026
+Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026
 
 > **Provenance.** **Written by:** you and Claude together across sessions. §1–§17 predate this marking convention and are genuinely mixed — no longer cleanly separable after the fact. The fieldwork observations at §7 are yours. The §19 timeline and §8 method are Claude's compilation from named sources.
 
@@ -15,11 +15,11 @@ Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026
 > **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.
 
 
-*Scope: live-conversation material. Findings and textual analysis live in the Master Notes.*
+*Scope: live-conversation material. Findings and textual analysis live in the Study Notes.*
 
 > **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.
 >
-> **Companion documents:** Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).
+> **Companion documents:** Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).
 
 # 0. HOW TO USE THIS DOCUMENT
 
@@ -35,7 +35,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 **In religion: **"God says X is wrong, therefore X is morally wrong." The gap: that is an is-statement. Making it normatively binding requires a separate premise that is never supplied.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight."
 
@@ -67,7 +67,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  "How do we know it is God's word?" — "Because the Bible says so." Back to start.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "That uses the conclusion to prove the premise. What external evidence supports the claim?"
 
@@ -101,7 +101,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  Proves too much: same logic validates the Quran, the Vedas. "It is in a holy book" is not the real standard.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "If God commanded torturing children — would it be good?"
 
@@ -151,7 +151,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  A society agreeing murder is wrong functions as a real moral rule whether God exists or not.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us."
 
@@ -179,7 +179,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  Cultures with no knowledge of the Bible independently arrived at prohibitions on murder, theft, and deception.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible."
 
@@ -211,7 +211,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  Full structure: "Wrong is real but non-physical, needs supernatural source, therefore the Bible." Each arrow is an unsupported jump.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God."
 
@@ -237,7 +237,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  Modern Bible versions are vehicles for doctrinal change. Ancient alterations accepted by populations with no access to comparison texts and no literacy.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "Which version? The canon was selected by human councils centuries after the texts were written."
 
@@ -267,7 +267,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  If believers only behave morally because of fear of punishment or desire for reward — that is not morality, that is compliance.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God."
 
@@ -303,7 +303,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 **Why it matters: **The most objective moral grounding possible — direct divine command — authorized centuries of atrocity. Either God commanded evil, or humans used God to justify what they already wanted. Both options destroy the claim that divine grounding produces reliable moral outcomes.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?"
 
@@ -329,7 +329,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 **Historical use: **These passages were used to justify American chattel slavery. Abolitionists used the same Bible. Both sides claimed divine authority.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?"
 
@@ -381,7 +381,7 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  Fear of divine punishment is learned fear — culturally installed by the same religion that offers itself as the solution. That is the structure of a trap, not a foundation.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  "The fear of God is a learned fear. Religion created the problem it claims to solve."
 
@@ -515,7 +515,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 **The irony: **Fear of hell is the primary mechanism of religious compliance. The framework that calls skeptics scared is built entirely on fear as a motivator.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?"
 
@@ -539,7 +539,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  If the threat of hell is required to motivate moral behavior, that behavior is compliance under coercion — not morality.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?"
 
@@ -573,7 +573,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  This is a live internal Christian debate: Calvinist predestination (God selects the saved) vs. Arminian free will (humans genuinely choose). Both cannot be fully right. Both use the same Bible.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?"
 
@@ -609,7 +609,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  The concept of "outside time" is not clearly in the biblical text itself — it is a philosophical import (Boethius, 6th century CE) used to defend doctrines that the original authors did not articulate this way.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?"
 
@@ -697,7 +697,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  This is documented in skeptical theism literature (Wykstra, Bergmann, Howard-Snyder) and the moral paralysis objection (Almeida, Wielenberg, Maitzen).
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well."
 
@@ -1033,7 +1033,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 •  When believers make claims in the empirical world — "God healed my aunt," "prayer works," "God answers prayers" — they are making empirical claims. Those claims require empirical evidence. You cannot make empirical claims and then retreat to "faith doesn't require evidence" when asked to verify them.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?"
 
@@ -1053,7 +1053,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 •  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?"
 
@@ -1089,7 +1089,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 •  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports "a designer" at most.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim."
 
@@ -1115,7 +1115,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 **The logical problem: **Unexplained phenomena are not evidence for God. They are gaps in current knowledge. The history of science is a history of previously God-attributed phenomena receiving natural explanations — lightning, disease, epilepsy, the movement of planets. Inserting God into current gaps predicts that as knowledge expands, God retreats. This is not a stable position.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence."
 
@@ -1151,7 +1151,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 •  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "The only sources are documents written by believers decades after the event. What would count as independent verification?"
 
@@ -1179,7 +1179,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 •  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy."
 
@@ -1203,7 +1203,7 @@ When you ask a believer for empirical evidence, you are applying an evidentiary 
 
 •  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. "God exists but leaves no detectable trace" fails this test.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?"
 
@@ -1251,7 +1251,7 @@ This is not a peripheral issue. The subordination, silencing, and sexualization 
 
 ## 15.2 The Prophets — Sexual Violence as Theology
 
-This is already documented in the Master Notes but belongs here for completeness.
+This is already documented in the Study Notes but belongs here for completeness.
 
 •  Ezekiel 16 and 23 — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented explicitly as God's love. Cutting off noses and ears, public stripping, mob violence — divine romance.
 
@@ -1333,7 +1333,7 @@ The text does not hide this. It requires engagement because believers who push a
 
 **None of these support inerrancy: **All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.
 
-**Responses:**
+**Why this critique holds up — and what to say:**
 
 •  Soft: "Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?"
 
@@ -1413,7 +1413,7 @@ The in-group exclusivity claim produces a specific moral problem: what does the 
 
 •  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.
 
-# 18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)
+# 18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)
 
 ## 18.1 On Jeremiah 29:11 (personal life promise)
 
@@ -1439,7 +1439,7 @@ Jeremiah contradicts itself constantly. It says surrender to Babylon because God
 
 Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.
 
-# 20. READING PROGRESS (mirrored from Master Notes §10)
+# 20. READING PROGRESS (mirrored from Study Notes §10)
 
 *What has actually been read cover to cover. Relevant in live conversation: do not argue from a book not yet read.*
 
@@ -1566,7 +1566,7 @@ These are the figures to have ready. Every one is a *gap between event and writi
 
 •  All entries are living — add corrections, reversals, and new observations as they come.
 
-## 8.1 Scholarly Survey Method (mirrored from Master Notes §11)
+## 8.1 Scholarly Survey Method (mirrored from Study Notes §11)
 
 Applied to every contested passage from here forward, and retroactively to everything above:
 
@@ -1624,17 +1624,17 @@ Ranked by expected exposure. Not yet audited.
 
 *Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*
 
-### 8.4 Field Guide Audit Status
+### 8.4 Observations Audit Status
 
 **Corrected:** §3.1 Crusades (partial — Children's Crusade dropped, defensive framing nuanced) · §4.1 Innate fear (collapsed, rebuilt).
 
-**Verified elsewhere and safe to use:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Master Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.
+**Verified elsewhere and safe to use:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.
 
 **Not yet audited in this document.** Treat as usable but unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 deflection phrases · §10 "don't add your own understanding" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.
 
 **Two flagged for early attention when the audit resumes:**
 
-- **§12.8 John 8:44** — say **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Master Notes §8.5 audit.
+- **§12.8 John 8:44** — say **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Study Notes §8.5 audit.
 - **§13 Trinity / Nicaea** — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.
 
 *Living document — update as conversations progress*

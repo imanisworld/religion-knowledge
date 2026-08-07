@@ -1,12 +1,12 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Field_Guide_Conversation_Reference.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
     "id": "rk_9bb8d2fb8382fd881ba1",
-    "text": "FIELD GUIDE: LIVE CONVERSATION REFERENCE",
-    "raw_text": "**FIELD GUIDE: LIVE CONVERSATION REFERENCE**",
+    "text": "OBSERVATIONS: LIVE CONVERSATION REFERENCE",
+    "raw_text": "**OBSERVATIONS: LIVE CONVERSATION REFERENCE**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26,10 +26,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_911fa84f1e693b0bf248",
@@ -54,15 +54,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fc5b31713479df0c70d",
-    "text": "Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026",
-    "raw_text": "Companion to: Bible Deep Dive Master Notes  |  Last updated: 7 August 2026",
+    "text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026",
+    "raw_text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -82,10 +82,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4d1c8af690fe43ebaa78",
@@ -110,14 +110,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_47c15d6ebeaa6519d20f",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
@@ -141,12 +141,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_36965aebe3013fc03892",
-    "text": "Scope: live-conversation material. Findings and textual analysis live in the Master Notes.",
-    "raw_text": "*Scope: live-conversation material. Findings and textual analysis live in the Master Notes.*",
+    "text": "Scope: live-conversation material. Findings and textual analysis live in the Study Notes.",
+    "raw_text": "*Scope: live-conversation material. Findings and textual analysis live in the Study Notes.*",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -166,15 +166,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2d52640d0a9e2cc28c1a",
-    "text": "Audited August 2026. Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> Companion documents: Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
-    "raw_text": "> **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> **Companion documents:** Master Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
+    "text": "Audited August 2026. Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n\nCompanion documents: Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
+    "raw_text": "> **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> **Companion documents:** Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -194,10 +194,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0bd614df7c53e0ec9f50",
@@ -224,10 +224,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec100d7c6eb6d3d787c7",
@@ -255,10 +255,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7ff69aa11411aaba0675",
@@ -286,10 +286,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_37fc389f31bba28fca99",
@@ -317,15 +317,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1ea3f71558fef126407e",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_b87f937af89c2b60e119",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -348,10 +348,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6f796f1dd5c04b2f96ef",
@@ -379,10 +379,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c5a38d49634035f734c",
@@ -410,10 +410,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ac6b005959ebc4cda2ec",
@@ -441,10 +441,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_84986d2e2d3367319cf3",
@@ -472,10 +472,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45bf251db671ce3b7ab5",
@@ -503,10 +503,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_32092fab32d73989ebbf",
@@ -534,10 +534,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5b3ab24aedf478577dc8",
@@ -565,10 +565,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b5fa3baecb618fa10aa6",
@@ -596,10 +596,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_be5c777e33f8c541f4bb",
@@ -627,10 +627,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3cf3f3d0d96f1a814db1",
@@ -658,10 +658,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_136be4214c47e03ddc41",
@@ -689,10 +689,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c50487f0519500f684a5",
@@ -720,10 +720,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6a4b10e07e9497158118",
@@ -751,10 +751,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f04d70340d8b5cbc58bb",
@@ -782,15 +782,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_922d0fcb630cd967a456",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_66753fd727a9745db4f4",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -813,10 +813,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f3dc6ef0b19264967537",
@@ -844,10 +844,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_99e99b3e4c633fa0da4e",
@@ -875,10 +875,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f77431c6a67a7a78501",
@@ -906,10 +906,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d583f6dd717ac26f072c",
@@ -937,10 +937,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_87c0ce07eae26377ff39",
@@ -968,10 +968,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c4037d7d293e68cd1f7",
@@ -999,10 +999,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a2b3d296adb5880efedb",
@@ -1030,10 +1030,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8fe0122b1891ad899889",
@@ -1061,10 +1061,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7a28241571872ffea1c2",
@@ -1092,10 +1092,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b99c6e67344d8d31cffd",
@@ -1123,10 +1123,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_34bfe8f9bd7f69b59145",
@@ -1154,10 +1154,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d871f42180f0c82afd9",
@@ -1185,10 +1185,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_37edf04b114a9f185ce8",
@@ -1216,10 +1216,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_44d57f61f687a18381a3",
@@ -1247,10 +1247,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_679269755a594e2eb546",
@@ -1278,15 +1278,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9553044eee51a7c48c2c",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_a2f8b07219b78c066d67",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -1309,10 +1309,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6a944065df22ca58fa82",
@@ -1340,10 +1340,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f5cad75f99a7e0b78dfb",
@@ -1371,10 +1371,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e337202b66145294d8b7",
@@ -1402,10 +1402,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_edb5dcbd1c19f4b6a03e",
@@ -1433,10 +1433,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_68a7bba7b8e323d42959",
@@ -1464,10 +1464,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4492035b0ed302f564e5",
@@ -1495,10 +1495,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d53d0f294ab158c2cc26",
@@ -1526,10 +1526,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_65e05bdaad0cc050034d",
@@ -1557,10 +1557,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6d732026ca643e6f769b",
@@ -1588,10 +1588,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_12b9d96ca871c3642aee",
@@ -1619,10 +1619,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e3a3927e0204f887bd86",
@@ -1650,10 +1650,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e1107737225400ce54e5",
@@ -1681,10 +1681,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c4b515505366a4884f2a",
@@ -1712,10 +1712,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f79813bb3ce76bf5157b",
@@ -1743,10 +1743,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a3254a2b43fe3b4c72df",
@@ -1774,10 +1774,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ea82554a97690dc5af9",
@@ -1805,10 +1805,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e858908c01b8bdcdddf9",
@@ -1836,10 +1836,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8ea522399b102168260",
@@ -1867,10 +1867,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f26591125b72ff90a35",
@@ -1898,10 +1898,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c7d35b8b8216caf4111a",
@@ -1929,10 +1929,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_966e3c70a3694a9b5eff",
@@ -1960,10 +1960,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fe0dcb6adeae33f0b57",
@@ -1991,15 +1991,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2e7060587f752abc7213",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_c65c9df9012286e65838",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2022,10 +2022,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e3a69867eacf9ec30dab",
@@ -2053,10 +2053,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_39652aa4dcecd00dbab7",
@@ -2084,10 +2084,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a5b98570c701a8f63b5",
@@ -2115,10 +2115,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8dc38ccdc0ad41a77ca",
@@ -2146,10 +2146,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e12df7ab0c2f68067933",
@@ -2177,10 +2177,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fe10dcb6d08fbdcad882",
@@ -2208,10 +2208,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5378f2ba900c6801cb45",
@@ -2239,10 +2239,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7dbee2c1f92ceb6ec8c9",
@@ -2270,10 +2270,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9e20b977e0fdc21006e6",
@@ -2301,10 +2301,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_953fd2e0774f6155bcaf",
@@ -2332,10 +2332,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf80900506ed150923f2",
@@ -2363,15 +2363,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_7abffbbf731ecc63236d",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_0ca998774d8c973b6e53",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2394,10 +2394,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a17d0123e18cfc057b97",
@@ -2425,10 +2425,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_22c648539fd6e0379cfa",
@@ -2456,10 +2456,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50e73f39e2de2d9d1b56",
@@ -2487,10 +2487,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_04567a7e81e324df52b5",
@@ -2518,10 +2518,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c14b2140b7766467758e",
@@ -2549,10 +2549,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fb9ab5511353e133e7bc",
@@ -2580,10 +2580,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f306a17e97f7cceb719f",
@@ -2611,10 +2611,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_85285829221ae673c479",
@@ -2642,10 +2642,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2185480eef1f749a22ee",
@@ -2673,10 +2673,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4cb663abefb51521fb94",
@@ -2704,10 +2704,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4a62ca91c624531321ad",
@@ -2735,10 +2735,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_28d5db803087eed9c8f1",
@@ -2766,10 +2766,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f7085bcf11cf8ba38e4",
@@ -2797,10 +2797,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7859373ee36a21785b45",
@@ -2828,15 +2828,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e55abae1ea1d933fceaa",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_24778d9a1c4e3ebf5a55",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -2859,10 +2859,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_74502f82b179e86d7d95",
@@ -2890,10 +2890,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a2544b863e9fc4539a4",
@@ -2921,10 +2921,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6fd2b25e023da1ead5c5",
@@ -2952,10 +2952,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_daf1253ad6cac4db2714",
@@ -2983,10 +2983,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2cfe540ccddd241ce781",
@@ -3014,10 +3014,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91747bd03d469c2b2d02",
@@ -3045,10 +3045,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cba26d053476f80f684e",
@@ -3076,10 +3076,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_713165f5dfac7bbcd47d",
@@ -3107,10 +3107,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e9f275247977a3f47138",
@@ -3138,10 +3138,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf40499821130337552f",
@@ -3169,10 +3169,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ab14cf30a2ed454fb313",
@@ -3200,15 +3200,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_8c8bfce259c95374679c",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_90ca3a0c111d60c92a36",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -3231,10 +3231,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c0c026202aeb1e882a8",
@@ -3262,10 +3262,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c39c8cd3fcaed4390cc",
@@ -3293,10 +3293,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5dad76b71d696ffa6fca",
@@ -3324,10 +3324,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_628bce844c7ad7dd0e34",
@@ -3355,10 +3355,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dc6ba0566188ceed3a1e",
@@ -3386,10 +3386,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f74b487ba01b6a883058",
@@ -3417,10 +3417,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69064dc71abe5bb9c20d",
@@ -3448,10 +3448,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69964306526088e5b3d7",
@@ -3479,10 +3479,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f4bf26006452d8785091",
@@ -3510,10 +3510,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cae0e183cb7720d522f8",
@@ -3541,10 +3541,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6ea5f08ff3f8a03c63b6",
@@ -3572,10 +3572,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8738f03ee8089e30f9c2",
@@ -3603,10 +3603,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fb13a4cc5ae4c0fc9f3b",
@@ -3634,15 +3634,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_62d1c059ad9aa2048ffa",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_42946f5fb2a72441866e",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -3665,10 +3665,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_59f49378bfb250b0d351",
@@ -3696,10 +3696,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4e62772b6c44cacbae0e",
@@ -3727,10 +3727,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e66425a5707fa4602cb",
@@ -3758,10 +3758,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b8b482669b0e4aa3d7b2",
@@ -3789,10 +3789,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc834f1a62037d3732e4",
@@ -3820,10 +3820,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b9f6b04e15e8e03c8f58",
@@ -3851,10 +3851,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_260a7ec352d0d8395756",
@@ -3882,10 +3882,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_96b90681cb4d10d0167c",
@@ -3917,7 +3917,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b8cce8bf9e1d172f90d7",
@@ -3949,7 +3949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7f2d8503af3909f86fa2",
@@ -3981,7 +3981,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8cdbaf22fda0dc9c28b9",
@@ -4013,7 +4013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3d5363cd7c9f1d9d79dd",
@@ -4045,7 +4045,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_173054275f217a5201b3",
@@ -4077,7 +4077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_971a0e10e6cb961d3bc6",
@@ -4109,12 +4109,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_054fcfffe6076f88ba98",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_1bd36c99f3e8516b88f7",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -4141,7 +4141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bd71aa506d06d41a205e",
@@ -4173,7 +4173,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4462c4ed2b2f86cf36fa",
@@ -4205,7 +4205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_78b39c227527008d0e0c",
@@ -4237,7 +4237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69ba0978cc9f936bf383",
@@ -4269,7 +4269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bd608d3dcb4c963b0742",
@@ -4301,7 +4301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ed7aeb8ea2fecdca10e",
@@ -4333,7 +4333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_71ab93ded94ff7889bae",
@@ -4365,7 +4365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0a86ed0d2fba5c394dd0",
@@ -4397,7 +4397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b018288300918917e238",
@@ -4425,10 +4425,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f78ce0ffb112b6bae212",
@@ -4456,10 +4456,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4eaf837124572e7f0889",
@@ -4487,15 +4487,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_26ab0d71861b8f796500",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_e9c0dfa31d065304496e",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -4518,10 +4518,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_87d5641fc56a67253b90",
@@ -4549,10 +4549,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_11130b7cfe926ad6656f",
@@ -4580,10 +4580,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4fb9d55c7c5767d0dde0",
@@ -4611,10 +4611,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2379f4c2eb0ac27b238",
@@ -4642,10 +4642,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2efc2e1896f6a2c2f70",
@@ -4673,10 +4673,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dfeaeb333bfab906d665",
@@ -4704,10 +4704,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90a7221e3ec49e29bad6",
@@ -4739,7 +4739,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c0133ecab9c86ffd9bd2",
@@ -4771,7 +4771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15b1676006d55ec66839",
@@ -4803,7 +4803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_644f8fe6de9a2dfdffc6",
@@ -4835,7 +4835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c07208fdf75fe2c001c9",
@@ -4867,7 +4867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_418600c84d59cb69cae4",
@@ -4899,7 +4899,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_692c24c02ec8bb8ea551",
@@ -4931,7 +4931,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_228f567137c25681a8d7",
@@ -4963,7 +4963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_84b1d17c96b890112513",
@@ -4995,7 +4995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e74886ac43b065a69639",
@@ -5027,7 +5027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_536972e78533c4638516",
@@ -5059,7 +5059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec42fcca822df9990e11",
@@ -5091,7 +5091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4408f5b73a5c3e8fb403",
@@ -5123,7 +5123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8ec3ce82af1063818a6d",
@@ -5155,7 +5155,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_64bc09da0ef5dc559112",
@@ -5187,7 +5187,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3a47a7062c1425963c2",
@@ -5219,12 +5219,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_733cc2ecd0c0caf075e0",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_5bfcf972316abffb2f7b",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -5251,7 +5251,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_de6e735516a71148f34d",
@@ -5283,7 +5283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4bf74b0e51ef6bd4582c",
@@ -5315,7 +5315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c5e26e3103ba959df61",
@@ -5347,7 +5347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21e0e1a645d221c2b1a4",
@@ -5379,7 +5379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_402e6abbc6dab809086e",
@@ -5411,7 +5411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_31fa3cfb8691045d21b3",
@@ -5443,7 +5443,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_905b5ed51d0e766d6b0f",
@@ -5475,7 +5475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1e27eac012a7a10c91e8",
@@ -5507,7 +5507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d6eea9755a417a1af371",
@@ -5539,7 +5539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1a0d0d045d4fe468e264",
@@ -5571,7 +5571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cb3425e6818d1ee6cb36",
@@ -5599,10 +5599,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff706e0b59b2f8ae8c1a",
@@ -5630,10 +5630,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91f36d02f855427a0526",
@@ -5661,10 +5661,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_63996d3ffb515a736399",
@@ -5692,10 +5692,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15d843c615a50dc13023",
@@ -5723,10 +5723,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_42c391af8388b5156509",
@@ -5754,10 +5754,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5107539282e516130668",
@@ -5785,10 +5785,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4041e2f9fe1e975703c2",
@@ -5816,10 +5816,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91f27dabd281b570d99f",
@@ -5847,10 +5847,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3491db2dec2f57efa0cd",
@@ -5878,10 +5878,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e2ed5a79585ddc9d9586",
@@ -5909,10 +5909,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_437fed669136ad7c8bd4",
@@ -5940,10 +5940,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_96de41fb68a8ede18551",
@@ -5971,10 +5971,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6680be43006f0131d74f",
@@ -6002,10 +6002,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee240968d1b752718890",
@@ -6033,10 +6033,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e7d375870589792c7f2",
@@ -6064,10 +6064,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ad0a13eb45acd0381fa4",
@@ -6095,10 +6095,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2565c0c2cf952aebda4",
@@ -6126,10 +6126,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f73c638c2f52f810d6ca",
@@ -6157,10 +6157,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_197aaa19afdb0e5bf4d7",
@@ -6188,10 +6188,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd906e0bd853dba4e8f3",
@@ -6219,10 +6219,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e07fc271ae3baa82d08a",
@@ -6250,10 +6250,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c061513b31688e9fb2d1",
@@ -6281,10 +6281,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2f9b5498934da8eee1dc",
@@ -6312,10 +6312,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d301216f4a743b9e5269",
@@ -6343,10 +6343,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_86b45fa89f8c8cd84295",
@@ -6374,10 +6374,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_23ac3d7e8357cce578c4",
@@ -6405,10 +6405,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19fb003c4af2a7cb3363",
@@ -6436,10 +6436,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c3396c73a385dc02e057",
@@ -6467,10 +6467,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0dc56fe4afc011e099bf",
@@ -6498,10 +6498,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5946d8154b70d2496ebd",
@@ -6529,10 +6529,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e333b6efd326b7eea16d",
@@ -6560,10 +6560,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_77d2138aedaf2e95e98a",
@@ -6591,10 +6591,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ad6b2465004ebee2f008",
@@ -6622,10 +6622,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d92dfb875df2c35d7548",
@@ -6653,10 +6653,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states the fieldwork observations at §7 are the user's."
+      "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0873e5721b5419312833",
@@ -6684,10 +6684,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states the fieldwork observations at §7 are the user's."
+      "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9988050c4bc082dafbf1",
@@ -6715,10 +6715,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states the fieldwork observations at §7 are the user's."
+      "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1db7ea8eaedebf44e02f",
@@ -6746,10 +6746,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b43660e4048e83b8aa14",
@@ -6777,10 +6777,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dcf42d1e5cba40c22dba",
@@ -6808,15 +6808,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_112f37cca6e5ed1b0801",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_235d483a3b39690397a7",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -6839,10 +6839,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ae89394be2cfc8e14b04",
@@ -6870,10 +6870,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_faf8416b416343588e73",
@@ -6901,10 +6901,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4a15109490d03c752ce",
@@ -6932,10 +6932,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_82454b9eb1188d208c75",
@@ -6963,10 +6963,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0604d4016955a6fa5f7d",
@@ -6994,10 +6994,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf72d2030ec4e551711a",
@@ -7025,10 +7025,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_78f9d9dc1955100013cd",
@@ -7056,10 +7056,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_81169c85d85c2ee7ac91",
@@ -7087,10 +7087,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_88855a740e064c6d3efb",
@@ -7118,10 +7118,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b4b924493684c86bfdc6",
@@ -7149,15 +7149,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_feee234d38acfdfd1939",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_cb59a362a75e1c598230",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -7180,10 +7180,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7154de25eca2679735da",
@@ -7211,10 +7211,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_36682bb239979f8cc165",
@@ -7242,10 +7242,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_994f1b731371f3c46145",
@@ -7273,10 +7273,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0cc5dba6583a71be1d15",
@@ -7304,10 +7304,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_61ae8013c1f557d5c8e2",
@@ -7335,10 +7335,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5869ec6b1cee5b659b7e",
@@ -7366,10 +7366,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19267deea1b3f03eb302",
@@ -7397,10 +7397,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b54ef5e6ae11d4e1674e",
@@ -7428,10 +7428,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e19ce5e1d8d2d4f38f81",
@@ -7459,10 +7459,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_425f9663cfe502428ed4",
@@ -7490,10 +7490,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_adb1a705a4529b676f34",
@@ -7521,10 +7521,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bddaf20ed9adb4fece01",
@@ -7552,10 +7552,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d0afbb49f161e04a33be",
@@ -7583,10 +7583,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_173b920423f1fd4475da",
@@ -7614,10 +7614,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_55b23804768eadef33a8",
@@ -7645,15 +7645,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_17e67775abcbeb0a03ba",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_46b43ed7a08debb4c7a1",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -7676,10 +7676,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d9990630d93e1b5742c",
@@ -7707,10 +7707,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7ed5fd4e69cc5965c1cf",
@@ -7738,10 +7738,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_89cc8cc215c029ee39ae",
@@ -7769,10 +7769,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_730d16c91d9d47b78804",
@@ -7800,10 +7800,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4afd6f688fff52cf947e",
@@ -7831,10 +7831,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c43a98e267f4c179e41",
@@ -7862,10 +7862,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_20c020e695d215f3fb46",
@@ -7893,10 +7893,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_faa69c685ce7417a5c7b",
@@ -7924,10 +7924,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d29e2f2e997f7d114f6c",
@@ -7955,10 +7955,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b524b96e551c0e02252c",
@@ -7986,10 +7986,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c38d4524b08b4c7da45",
@@ -8017,10 +8017,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1b56a9dac5be4b0c8f6f",
@@ -8048,10 +8048,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d12dc0d5dc9ca7c89c52",
@@ -8079,10 +8079,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fb7542f092f9060ef06",
@@ -8110,10 +8110,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4435fc87d95993b79a98",
@@ -8141,10 +8141,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15fdcb2b349aec16752d",
@@ -8172,15 +8172,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_32c5499ee85350018627",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_179aaf367c72f89163f2",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -8203,10 +8203,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e0b13f01948d7b51a499",
@@ -8234,10 +8234,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6b3fc067412ba2b6ae40",
@@ -8265,10 +8265,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_49820ce4ee65eb489cc8",
@@ -8296,10 +8296,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e77c3d67d909a53fcdf",
@@ -8327,10 +8327,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6bfccb018457073da763",
@@ -8358,10 +8358,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c68cf452648411788d5e",
@@ -8389,10 +8389,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75f3c224896a33ab9329",
@@ -8420,10 +8420,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_30f022682fbddfcdc93b",
@@ -8451,10 +8451,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f5684c14f5ebe988d566",
@@ -8482,10 +8482,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d89d9e0c9105a8364ec5",
@@ -8513,10 +8513,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ba5a0a4d24a4f67b2cdb",
@@ -8544,10 +8544,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91c82473f8e953e672d5",
@@ -8575,10 +8575,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2936986a07ff9f43b7f4",
@@ -8606,10 +8606,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2015eefd46e404e5a157",
@@ -8637,10 +8637,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6019bc0fed130f10fae9",
@@ -8668,10 +8668,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ba76d2b4e600ea814583",
@@ -8699,10 +8699,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf4982d3920195288ca3",
@@ -8730,10 +8730,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_224a71e0a73ee6a36494",
@@ -8761,10 +8761,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7cfe5c44815893fb0e07",
@@ -8792,10 +8792,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_83cdd2aa17a161f55ce2",
@@ -8823,10 +8823,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc995cc50974d24a3842",
@@ -8854,10 +8854,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91b5d3f3dfe20035c8f6",
@@ -8885,10 +8885,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3387fd2b8442b27ff230",
@@ -8916,10 +8916,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69d57daed8cfcf43d086",
@@ -8946,10 +8946,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bfbcd87ff83feeef1de7",
@@ -8976,10 +8976,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_19a29cf3d51735dad331",
@@ -9006,10 +9006,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2fb0511854f9f2b993d2",
@@ -9036,10 +9036,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d891a80b7abdb27e6724",
@@ -9066,10 +9066,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_38be004257d28c393e50",
@@ -9096,10 +9096,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f1d99eab0efa3d2138e2",
@@ -9126,10 +9126,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1c1c7155b84ae984e294",
@@ -9156,10 +9156,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5f41d20346892744c195",
@@ -9186,10 +9186,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f0ffc3a51317e325472e",
@@ -9216,10 +9216,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e710bd77f8dd5864662f",
@@ -9246,10 +9246,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_72a9762051780ba29575",
@@ -9276,10 +9276,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b392054f17f32040b0ff",
@@ -9306,10 +9306,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_843841d3652d6f1deff8",
@@ -9336,10 +9336,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_251a31268e7c40353231",
@@ -9366,10 +9366,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1a87270fd1e6dc9ce652",
@@ -9396,10 +9396,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c951a4aff03834f9480",
@@ -9426,10 +9426,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_969f8a55d8d3286b6d22",
@@ -9456,15 +9456,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9f526aaf23af7d9c4516",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_a8895056de54ff4b80da",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9486,10 +9486,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_41422e2593b6f5b2642f",
@@ -9516,10 +9516,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_489d80939887c64115a6",
@@ -9546,10 +9546,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0fff756006a65d25b1f6",
@@ -9576,10 +9576,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_795ff5e4168180da58fb",
@@ -9606,10 +9606,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75f6156fa9b89e8a7ab5",
@@ -9636,10 +9636,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3408df6a48fd97b1ee3",
@@ -9666,10 +9666,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5d95736e1cc600b5e60e",
@@ -9696,10 +9696,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91c33ff6ed79d0bdf3e7",
@@ -9727,10 +9727,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9683e9d3ac8e46d6a381",
@@ -9758,10 +9758,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_de2a375b4b9e6143f1d5",
@@ -9789,10 +9789,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_03cbae8f9373b0e5b2db",
@@ -9820,10 +9820,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8c043eeda4557425a46e",
@@ -9851,10 +9851,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5809932e9dc6c782830a",
@@ -9882,10 +9882,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1abc86a2e0f233b56972",
@@ -9913,10 +9913,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bc9eccb580a6492a6ef9",
@@ -9944,10 +9944,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2a7af98f1950edf4f18",
@@ -9975,10 +9975,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9271879ac67846a44f52",
@@ -10006,10 +10006,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_76817fe3a5cb6aa8f76c",
@@ -10037,10 +10037,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4b8eb02e7baab3330572",
@@ -10068,10 +10068,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e62ecacf3a0165574d62",
@@ -10099,10 +10099,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50e85fc512d444a7df68",
@@ -10130,10 +10130,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_88ab61b466e712f4d7ab",
@@ -10161,10 +10161,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0dd101191a3e10b6f2b6",
@@ -10192,10 +10192,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5daab4977e41c47bb4ab",
@@ -10223,10 +10223,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4bfbc65b65b6d587fa0",
@@ -10254,10 +10254,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_513109d9d61e47cbdb24",
@@ -10285,10 +10285,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3690528d8d461778de19",
@@ -10316,10 +10316,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_13b302f912c71f2b27f4",
@@ -10347,10 +10347,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ec623e22328625817ff1",
@@ -10378,10 +10378,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c54b43df62a328a55612",
@@ -10409,10 +10409,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0433cf81315ce0518b5d",
@@ -10440,10 +10440,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a104cb3a5c1703ab6794",
@@ -10471,10 +10471,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8f78d0a7cb9892f69a3",
@@ -10502,10 +10502,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4b6334f28f260e06cb83",
@@ -10533,10 +10533,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8f0ee9c82ca4e6b2845c",
@@ -10564,10 +10564,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ed939bef467b14e86bb7",
@@ -10595,10 +10595,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a5505c75928f56714de2",
@@ -10626,10 +10626,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_405139f7379df574ee7b",
@@ -10657,10 +10657,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7e6c875ebb087f384c32",
@@ -10688,10 +10688,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3455f1388e753d47556",
@@ -10719,10 +10719,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4104d93a509599cb2de9",
@@ -10749,10 +10749,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e83014372b8187a6bef9",
@@ -10780,10 +10780,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1753f97d61e0d3a7f377",
@@ -10811,10 +10811,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e06eb8f17f92c0f3becd",
@@ -10842,10 +10842,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e731eb21514999fefd40",
@@ -10873,10 +10873,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d0dddca41dd43d17e2a1",
@@ -10904,10 +10904,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2bc988a12101f487588",
@@ -10935,10 +10935,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd6cf8da620f9ff8d4d3",
@@ -10966,10 +10966,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9c6cc57355cc8ced7927",
@@ -10997,10 +10997,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_94ef7fddf1026d974af9",
@@ -11028,10 +11028,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_72b05d247d99ff540371",
@@ -11059,10 +11059,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5c4c9ebb73e13cae3156",
@@ -11090,10 +11090,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9741de6d4409628d07d2",
@@ -11121,10 +11121,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9d955f51a243c94e76f9",
@@ -11152,10 +11152,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15a22eca597c3819a1e0",
@@ -11183,10 +11183,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_91e24e66db127110ec29",
@@ -11214,10 +11214,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee071abbb245574786d2",
@@ -11245,10 +11245,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3de5505f9b9a22ddfb5b",
@@ -11276,10 +11276,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_115f7c2e66aafb160f3e",
@@ -11307,10 +11307,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbf6fe716f6cbdc01d9a",
@@ -11338,10 +11338,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3f7ca1551834b7f197c1",
@@ -11369,10 +11369,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b8409d1d30ed3f9c713c",
@@ -11400,10 +11400,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e39611947a1433c76e3",
@@ -11431,10 +11431,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fd9f3bafffcdef6d4cd8",
@@ -11462,10 +11462,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_091afa08916cc5a1ce59",
@@ -11493,10 +11493,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_41a026aa105d1315cb4f",
@@ -11524,10 +11524,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f15762bd50c5a4ac943a",
@@ -11555,10 +11555,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e88229201d407ebe48dd",
@@ -11586,10 +11586,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_67405b7cc1266dba7b3c",
@@ -11617,10 +11617,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b17a0e0a4d01ae39e7e",
@@ -11648,10 +11648,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_53455859c7bac47e272b",
@@ -11679,10 +11679,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_559a03fb3df41de3d16a",
@@ -11710,10 +11710,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2602c6a9d19f163c679f",
@@ -11741,10 +11741,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_757868bbfd5d2a1df1d1",
@@ -11772,10 +11772,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b57c5a5cdcc5e71753c0",
@@ -11803,10 +11803,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_70b76a416f554c345452",
@@ -11834,10 +11834,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_98b7f74c03d1327ba4d5",
@@ -11865,10 +11865,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6ea594d790f097d374cd",
@@ -11896,10 +11896,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fc1e07b9fe2d297b0c90",
@@ -11927,10 +11927,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3c3905467ad703d1ac36",
@@ -11958,10 +11958,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_423712e80db3e0db30b1",
@@ -11989,10 +11989,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dca94684119381b0b3bb",
@@ -12020,10 +12020,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_615f4007dbf305f1af21",
@@ -12051,10 +12051,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f783ee686be3e45ac3e6",
@@ -12081,10 +12081,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3138036f42cc0bcebdd0",
@@ -12112,10 +12112,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f0db4022e741eb284a47",
@@ -12143,10 +12143,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a6379fccbd65d949483",
@@ -12174,10 +12174,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b61c5cf9d939a43e24b0",
@@ -12205,10 +12205,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_873675a2bb8c65f74910",
@@ -12236,10 +12236,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_00000b4aefef96f7cf42",
@@ -12267,10 +12267,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_515781f6bb5f5c7be566",
@@ -12298,10 +12298,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f3790ace531d68a1a40c",
@@ -12329,10 +12329,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_788e5429cbe0c2479a09",
@@ -12360,10 +12360,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d6da59ce71874e56e38b",
@@ -12391,10 +12391,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90426b00cc987e9fe364",
@@ -12422,10 +12422,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7c54c77cda6db304b523",
@@ -12453,10 +12453,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d3ff58e462f9d8be4e7",
@@ -12484,10 +12484,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1ad3140d27e5d7a3a928",
@@ -12515,10 +12515,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7399091d26a128e6a62c",
@@ -12546,10 +12546,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_831f9c69a957c0e95338",
@@ -12577,10 +12577,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1360e35a1cd7c458c899",
@@ -12608,10 +12608,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3f7238d39bc3972ea040",
@@ -12639,10 +12639,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1340fbda8d364184cd63",
@@ -12670,10 +12670,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b14ff8e28f1cef471a0",
@@ -12701,10 +12701,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1603fa5ec3f26a97fa36",
@@ -12732,10 +12732,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fb14fec08604db0a9b02",
@@ -12763,10 +12763,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_58404e08bafd49dadc74",
@@ -12794,10 +12794,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90302feb059bf70a2298",
@@ -12825,10 +12825,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9194f4063675e4866fed",
@@ -12856,10 +12856,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9d6a91471d56d4f1ec7b",
@@ -12887,10 +12887,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51b60af91172809da005",
@@ -12918,10 +12918,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21248800ef03172f44b3",
@@ -12949,10 +12949,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_75007629c0d553ab0219",
@@ -12980,10 +12980,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dbeb1eb50a4159cef72f",
@@ -13011,10 +13011,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f767b846f67415c849b9",
@@ -13042,10 +13042,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d9a1c519d93a3379b40f",
@@ -13073,10 +13073,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6fac55a7f702f089384d",
@@ -13104,10 +13104,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff9e050662c6a2737e11",
@@ -13135,10 +13135,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3fedb18ab915121db2e9",
@@ -13166,10 +13166,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e4f1a21fe5f10a76d746",
@@ -13197,10 +13197,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e8b4d009e8f0abd107f2",
@@ -13228,10 +13228,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_03abb0f8a9d3d263ebfb",
@@ -13259,10 +13259,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c8137cbe09e40c41b5c0",
@@ -13290,10 +13290,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_808a090967a076c74ebb",
@@ -13321,10 +13321,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fdf6fe9197713b4d8de3",
@@ -13352,10 +13352,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7549f0c9dae1b3049001",
@@ -13383,10 +13383,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f234c4941b11f6e2a0ef",
@@ -13414,10 +13414,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8e21f1fe0aa04b722f19",
@@ -13445,10 +13445,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a202811c266f56476771",
@@ -13476,10 +13476,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a4766da6c1828b120f8",
@@ -13507,10 +13507,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_12d9755f2c8fe989400d",
@@ -13538,10 +13538,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b6b68be3cf278312443b",
@@ -13569,10 +13569,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45772bd2f2cc81e6149c",
@@ -13600,10 +13600,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eb9f2304e682bf2bb161",
@@ -13631,10 +13631,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a4855220a240c69a5f06",
@@ -13662,10 +13662,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a9f95e4ce2a1f7b4afdf",
@@ -13693,10 +13693,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_afeb628a574f9e274722",
@@ -13724,10 +13724,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dfdc170e542bbb269a94",
@@ -13754,10 +13754,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51f8b88db8005f65c93f",
@@ -13785,10 +13785,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_315b74e549dd6006ff5e",
@@ -13816,10 +13816,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_695e35d5228054c73457",
@@ -13847,10 +13847,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d2e803b1b92b907a4e16",
@@ -13878,10 +13878,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_98aca277c99bb858818e",
@@ -13909,15 +13909,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_946e8ee7979ab7a184e6",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_b9e6b5a1fc6f05cbda5d",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -13940,10 +13940,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e6c467facb76c5b68ac2",
@@ -13971,10 +13971,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9788a3c1c98bbb4959e6",
@@ -14002,10 +14002,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b6e910821c34ac63d67e",
@@ -14033,10 +14033,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fa2ddc926a8d42599d88",
@@ -14064,10 +14064,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf896b22f8ddfe90283f",
@@ -14095,10 +14095,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0eadbe5cbc4c0a2ba27f",
@@ -14126,10 +14126,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f85f8a105fb9bf4df31",
@@ -14157,10 +14157,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_89815413b08f70fc281f",
@@ -14188,15 +14188,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e0f1fbb1926f5fe15ed9",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_838510f77ea4bcfce47b",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -14219,10 +14219,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cf5d7a89fb8aa2def1c",
@@ -14250,10 +14250,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_317ab86f4ee5eb17b26a",
@@ -14281,10 +14281,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cc89b8e85c44bfc5137b",
@@ -14312,10 +14312,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a828d67d9d694f00967d",
@@ -14343,10 +14343,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_27da8ec9d70385fc23a1",
@@ -14374,10 +14374,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5a4dbed48c12694f762b",
@@ -14405,10 +14405,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_267b4e877e4df09cfaa3",
@@ -14436,10 +14436,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a70c32e12a3f901ba915",
@@ -14467,10 +14467,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fedd4fdfe4d0e4de96fd",
@@ -14498,10 +14498,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0d7fd47aa73c1e609a9d",
@@ -14529,10 +14529,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c7b40f7fb3d52ac3adc",
@@ -14560,10 +14560,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3154c9be690de7ead561",
@@ -14591,10 +14591,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ee93f3bd972fbf2fe0a5",
@@ -14622,10 +14622,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e20a9d5ac5e8a4ed5216",
@@ -14653,10 +14653,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b12d7e71e1785db4670",
@@ -14684,10 +14684,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1d738fadb731a03d1c3d",
@@ -14715,15 +14715,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_83eff44d8e45f72e6276",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_8b14a7c431234f9f7afe",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -14746,10 +14746,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_40f7def6637e5b44d184",
@@ -14777,10 +14777,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_77e1c226af1a82adfa41",
@@ -14808,10 +14808,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c89427b6a89647610f6b",
@@ -14839,10 +14839,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0067670394f4981b3c28",
@@ -14870,10 +14870,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_249c492cb9ea3da23881",
@@ -14901,10 +14901,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d53e081162a0dcb455a",
@@ -14932,10 +14932,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d32ad85f8e7a4ae13288",
@@ -14963,10 +14963,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cc7bca45a75c885c791",
@@ -14994,10 +14994,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c6c40ed01724cb345fae",
@@ -15025,10 +15025,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_794543f088f7eb7c89fd",
@@ -15056,10 +15056,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_799fa314e33fee4f9f77",
@@ -15087,15 +15087,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_3ec6993134ffe6b4ea5c",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_4ea31bd840cd64aa2a3f",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15118,10 +15118,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_edfcc7177086cf69fccb",
@@ -15149,10 +15149,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2b2032b0e8978be078db",
@@ -15180,10 +15180,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e2b64aed9af3a77ae9dd",
@@ -15211,10 +15211,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fcc029732e61fbe058c2",
@@ -15242,10 +15242,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff20e5c3e8d8f989a7f8",
@@ -15273,10 +15273,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dc96c12f4e466ac34efc",
@@ -15304,10 +15304,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9d1c2c73a91fea56b6ee",
@@ -15335,10 +15335,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69c5adf1e4f5de90e4b3",
@@ -15366,10 +15366,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5d72c38b82bfd22b6f24",
@@ -15397,10 +15397,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9fd7bed437325a129a4c",
@@ -15428,10 +15428,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_92f51a16599bcd946d67",
@@ -15459,10 +15459,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f18f46656f08c1a9158",
@@ -15490,10 +15490,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3735cd7b08cb94c62ef",
@@ -15521,10 +15521,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3cc490422215878165b",
@@ -15552,10 +15552,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a575060052080e86ac5f",
@@ -15583,10 +15583,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_713ccd05fbd799fd0e52",
@@ -15614,15 +15614,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f637b1863c8110ba44c4",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_615efb4a1959935c55ae",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15645,10 +15645,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3264a93e218556a1660b",
@@ -15676,10 +15676,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7000e5e3fe617516abcb",
@@ -15707,10 +15707,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_06633637209ef188e7b8",
@@ -15738,10 +15738,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_07768cbf3a483c438126",
@@ -15769,10 +15769,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e82e4fd8cfd4b2b678fc",
@@ -15800,10 +15800,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d8a4c66da5f51b766ec6",
@@ -15831,10 +15831,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_15cba396c6210b5ae096",
@@ -15862,10 +15862,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a5dada0cfe361fc62d0",
@@ -15893,10 +15893,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e087b6e3c03e250eacc",
@@ -15924,10 +15924,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_17f3217485f87668e3e1",
@@ -15955,10 +15955,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b16bbc0bcedf5512c714",
@@ -15986,10 +15986,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_22490a73a3bb3060e3d2",
@@ -16017,15 +16017,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2915372fbe31b96a3528",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_99628bb1cb776e1b0d54",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16048,10 +16048,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7d90a6a43d8a68ef1cb7",
@@ -16079,10 +16079,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d715b6cdcc330378ab84",
@@ -16110,10 +16110,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4f1873dd810dfc22d94b",
@@ -16141,10 +16141,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d4e37854c673e2312710",
@@ -16172,10 +16172,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3e2bdc1cb28e8c4c824",
@@ -16203,10 +16203,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1123bc96fa9e1e7f1ccb",
@@ -16234,10 +16234,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b0c81afe6a33e074d1bc",
@@ -16265,10 +16265,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f8d5991101f283dd7d70",
@@ -16296,10 +16296,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21676c3bbc7e47dfa8ba",
@@ -16327,10 +16327,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2ce33c7ac26651919ee8",
@@ -16358,15 +16358,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_198d919895d811b7a058",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_e300e5893bc5a7f63460",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16389,10 +16389,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3fa9fa3412d2f4dcf0ee",
@@ -16420,10 +16420,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bda5a0a1554d972c4664",
@@ -16451,10 +16451,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f69347b7de2952c5c619",
@@ -16482,10 +16482,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_43f2d579c31fe9479d1d",
@@ -16513,10 +16513,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_82c2fafd0d049994805e",
@@ -16544,10 +16544,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2d0050c61da384458fe7",
@@ -16575,10 +16575,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e8a872430245d439019",
@@ -16606,10 +16606,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d25442f536939dbc2539",
@@ -16637,10 +16637,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_20a774d804b5c2110367",
@@ -16668,10 +16668,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_34af5d29cfe1b4e6ca1a",
@@ -16699,10 +16699,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_051eb3648d00343e90c0",
@@ -16730,10 +16730,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_03ae448280a457ce3b12",
@@ -16761,10 +16761,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_573afce4ba632807220f",
@@ -16792,10 +16792,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf9a5fe2535d03a455ac",
@@ -16822,10 +16822,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ccbf63ab23369a61488",
@@ -16853,10 +16853,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_eba6c14e6f3f88a4cc10",
@@ -16884,10 +16884,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_266bb9159e47b068bac3",
@@ -16915,10 +16915,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_07e9ddd37dd50648187a",
@@ -16946,10 +16946,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_705839d4965cc2c83dc0",
@@ -16977,15 +16977,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7705f5ef8784bfe6291c",
-    "text": "This is already documented in the Master Notes but belongs here for completeness.",
-    "raw_text": "This is already documented in the Master Notes but belongs here for completeness.",
+    "text": "This is already documented in the Study Notes but belongs here for completeness.",
+    "raw_text": "This is already documented in the Study Notes but belongs here for completeness.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17008,10 +17008,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8361e82e612056d92c71",
@@ -17039,10 +17039,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21184c9dba7221075329",
@@ -17070,10 +17070,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cb7bff53d22979663aa4",
@@ -17101,10 +17101,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c9f4245526b57d768eeb",
@@ -17132,10 +17132,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cb1fd225ea07b84865f9",
@@ -17163,10 +17163,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_666bc6534476dd9720d1",
@@ -17194,10 +17194,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1334eb3b2bf730c913d3",
@@ -17225,10 +17225,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9e831ed4938267b6ad0b",
@@ -17256,10 +17256,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1e30c0e8bdb5028a7980",
@@ -17287,10 +17287,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_aa09597654700da10477",
@@ -17318,10 +17318,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b8362adda31633e03bcc",
@@ -17349,10 +17349,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3a057f962523a81c5dfa",
@@ -17380,10 +17380,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_197cd0cf62999f164b48",
@@ -17411,10 +17411,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51826393c659056ca902",
@@ -17442,10 +17442,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f025730ee6b246702bae",
@@ -17473,10 +17473,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5a5591db3ffb89544aaf",
@@ -17504,10 +17504,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a09a9ecf11f649f5c103",
@@ -17535,10 +17535,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e385c08b80de7b3a0502",
@@ -17566,10 +17566,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_45506682080da9fb69bf",
@@ -17597,10 +17597,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d8e29ccc227555ef293a",
@@ -17628,10 +17628,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b16fd610b2822a492ddf",
@@ -17659,10 +17659,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_544926c3a9d2312f6ae1",
@@ -17690,10 +17690,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_4d80dc0ffa7fed60b3da",
@@ -17720,10 +17720,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_afb13962d8936322e800",
@@ -17751,10 +17751,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_08ea3f9a89e12b3b2b4a",
@@ -17782,10 +17782,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7e1be68dc4bb38928cde",
@@ -17813,10 +17813,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5cf42428f8b539df1bfa",
@@ -17844,10 +17844,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e6d71e3351608e8bd18d",
@@ -17875,10 +17875,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7c476f303bd583fd00f3",
@@ -17906,10 +17906,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0af71faa88ec40975bf1",
@@ -17937,10 +17937,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ebfa933eb673a7dbef3",
@@ -17968,10 +17968,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8d7a41410943d0866e82",
@@ -17999,10 +17999,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_068c0ee839c106748552",
@@ -18030,15 +18030,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
-    "id": "rk_ac96b8906a352ce49fcf",
-    "text": "Responses:",
-    "raw_text": "**Responses:**",
+    "id": "rk_af18b4e912b899718d2e",
+    "text": "Why this critique holds up — and what to say:",
+    "raw_text": "**Why this critique holds up — and what to say:**",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18061,10 +18061,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a20a3daee951e1c1b84b",
@@ -18092,10 +18092,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ca5cd123206176645ee3",
@@ -18123,10 +18123,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_46bc91572e1396bb0a5c",
@@ -18154,10 +18154,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_da2071ec8b1ce9123f3f",
@@ -18185,10 +18185,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6acfafbd78cfb0163790",
@@ -18216,10 +18216,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e4e76a96f6f0a11daec7",
@@ -18247,10 +18247,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f395525421b92edd1636",
@@ -18278,10 +18278,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_651653060a6ff944c989",
@@ -18309,10 +18309,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_57dcd86c4068669b7707",
@@ -18340,10 +18340,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7fa09b774f1d062100cf",
@@ -18371,10 +18371,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c3d3c9b41377d8bff634",
@@ -18402,10 +18402,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_118ea908bac22bc7fcf9",
@@ -18433,10 +18433,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bf0a92e31a43d95a1aaf",
@@ -18464,10 +18464,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_188256639a0113cbb79f",
@@ -18495,10 +18495,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_524e0770130116b1036b",
@@ -18526,10 +18526,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_156bc8fda453ba79b058",
@@ -18557,10 +18557,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c2fa6e1a2efac5efc3de",
@@ -18588,10 +18588,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0993c9cf6cfc11455980",
@@ -18619,10 +18619,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_116f248a6b61256714d5",
@@ -18650,10 +18650,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fa61a560848409e4e100",
@@ -18681,10 +18681,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_25669039886a953dbefb",
@@ -18712,10 +18712,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_62027d44624570a43b26",
@@ -18743,10 +18743,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_10f089f9dc8ef83a34d6",
@@ -18774,10 +18774,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7a8b0ccc1c5c377ef79c",
@@ -18805,10 +18805,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e10ce2240877770e23de",
@@ -18836,10 +18836,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_94543b96e15551f45aba",
@@ -18867,10 +18867,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ce699ae3a374e3408d41",
@@ -18898,10 +18898,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5b634de9c492a5d77f5a",
@@ -18929,10 +18929,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cfef626228af88bad402",
@@ -18960,10 +18960,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90731c897b088f07995d",
@@ -18991,10 +18991,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_21ce74644eefd17fdea7",
@@ -19022,10 +19022,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff0633fa6ad2fdad8866",
@@ -19053,10 +19053,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9f02f18dcbc64e3f2060",
@@ -19084,10 +19084,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_79355a4d915239f1995b",
@@ -19097,7 +19097,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
       "18.1 On Jeremiah 29:11 (personal life promise)"
     ],
     "subtopics": [],
@@ -19106,7 +19106,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
+    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
     "source_reference": "paragraph:617",
     "parent_id": null,
     "related_ids": [],
@@ -19115,10 +19115,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ab203a74ad15c4e24269",
@@ -19128,7 +19128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
       "18.2 On the 'new covenant' (Jeremiah 31:31)"
     ],
     "subtopics": [],
@@ -19137,7 +19137,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
+    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
     "source_reference": "paragraph:618",
     "parent_id": null,
     "related_ids": [],
@@ -19146,10 +19146,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e0371bfb281a1f3c21a5",
@@ -19159,7 +19159,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
       "18.3 On Amos 5:21-24 vs. ritual worship requirements"
     ],
     "subtopics": [],
@@ -19168,7 +19168,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
+    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
     "source_reference": "paragraph:619",
     "parent_id": null,
     "related_ids": [],
@@ -19177,10 +19177,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_50a8d39dba7c20f82bea",
@@ -19190,7 +19190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
       "18.4 On Jonah vs. nationalist theology"
     ],
     "subtopics": [],
@@ -19199,7 +19199,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.4 On Jonah vs. nationalist theology",
+    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.4 On Jonah vs. nationalist theology",
     "source_reference": "paragraph:620",
     "parent_id": null,
     "related_ids": [],
@@ -19208,10 +19208,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51c4c857af0fb92c6ae5",
@@ -19221,7 +19221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
       "18.5 On the Bible being 'clear' or 'consistent'"
     ],
     "subtopics": [],
@@ -19230,7 +19230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
+    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
     "source_reference": "paragraph:621",
     "parent_id": null,
     "related_ids": [],
@@ -19239,10 +19239,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0ef4656ca357ed017169",
@@ -19252,7 +19252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8)",
+      "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8)",
       "18.6 On the absence of Jesus's own writings"
     ],
     "subtopics": [],
@@ -19261,7 +19261,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Master Notes §8) > 18.6 On the absence of Jesus's own writings",
+    "source_section": "18. OT & GOSPEL TALKING POINTS (moved from Study Notes §8) > 18.6 On the absence of Jesus's own writings",
     "source_reference": "paragraph:622",
     "parent_id": null,
     "related_ids": [],
@@ -19270,10 +19270,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c5ced41f92e7e536a8f2",
@@ -19283,7 +19283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19291,7 +19291,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:623",
     "parent_id": null,
     "related_ids": [],
@@ -19300,10 +19300,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ccb6386411f1ccadfb64",
@@ -19313,7 +19313,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19321,7 +19321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:624",
     "parent_id": null,
     "related_ids": [],
@@ -19330,10 +19330,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_489010457d1e8f6948b9",
@@ -19343,7 +19343,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19351,7 +19351,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:625",
     "parent_id": null,
     "related_ids": [],
@@ -19360,10 +19360,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9b28ee4d6a291d888cd8",
@@ -19373,7 +19373,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19381,7 +19381,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:626",
     "parent_id": null,
     "related_ids": [],
@@ -19390,10 +19390,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_aefc79cb60d98d840cd1",
@@ -19403,7 +19403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19411,7 +19411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:627",
     "parent_id": null,
     "related_ids": [],
@@ -19420,10 +19420,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c494f4ef65f0c4cdc9be",
@@ -19433,7 +19433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
-      "20. READING PROGRESS (mirrored from Master Notes §10)"
+      "20. READING PROGRESS (mirrored from Study Notes §10)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19441,7 +19441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "20. READING PROGRESS (mirrored from Master Notes §10)",
+    "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
     "source_reference": "paragraph:628",
     "parent_id": null,
     "related_ids": [],
@@ -19450,10 +19450,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Field Guide provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b5c3b99db2833bbf8bff",
@@ -19480,10 +19480,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f2353d3672c59f5f8d83",
@@ -19511,10 +19511,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1a6a9a7167556caadb5d",
@@ -19542,10 +19542,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ddd2f766aaa65be8ba92",
@@ -19573,10 +19573,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8dbac188a202692f37f3",
@@ -19604,10 +19604,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c388cf407f6b14e2d8e5",
@@ -19635,10 +19635,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbea2f1be6c313a48bff",
@@ -19666,10 +19666,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf46765485486c78b79c",
@@ -19697,10 +19697,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_323db2e0af81c9a78e92",
@@ -19728,10 +19728,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fbae179351b5fd4a4e99",
@@ -19759,14 +19759,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b0eee4afb5876ded953c",
-    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n- ~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n- ~60–70 years — crucifixion to John\n- ~85 years — crucifixion to Tacitus\n- 150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n- ~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- 100–200 years — Muhammad's death (632) to the written sira and hadith\n- ~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
+    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
     "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -19790,10 +19790,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cc4782b2da43cadc6ea1",
@@ -19821,10 +19821,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0cf5d7c2cf8384c79707",
@@ -19851,10 +19851,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_87566b1a1f036fb9ef86",
@@ -19881,10 +19881,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3344633eef7c040aaf79",
@@ -19911,10 +19911,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_314d0ca8ea5c0d9feb90",
@@ -19941,10 +19941,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b019db5f51f0c471734e",
@@ -19955,7 +19955,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19963,7 +19963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:645",
     "parent_id": null,
     "related_ids": [],
@@ -19972,10 +19972,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e330ec1154b8cfdf68d4",
@@ -19986,7 +19986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19994,7 +19994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:646",
     "parent_id": null,
     "related_ids": [],
@@ -20003,10 +20003,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_fecf03d6d23c8f0f0f96",
@@ -20017,7 +20017,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20025,7 +20025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:647",
     "parent_id": null,
     "related_ids": [],
@@ -20034,10 +20034,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7c4c9ba90b5f064d660a",
@@ -20048,7 +20048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Master Notes §11)"
+      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20056,7 +20056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Master Notes §11)",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
     "source_reference": "paragraph:648",
     "parent_id": null,
     "related_ids": [],
@@ -20065,10 +20065,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2b443820ba3508b5ff34",
@@ -20096,10 +20096,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_269ed5b7b4037307b5b4",
@@ -20127,10 +20127,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6029bfd17c99407c233a",
@@ -20158,10 +20158,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_69074c55ca31a416ac95",
@@ -20189,14 +20189,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cf3e49423f1d4389cd7c",
-    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- \"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
+    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n\"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- **\"John is textually antisemitic\"** — recorded at §8.5. The *Ioudaioi* translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -20220,10 +20220,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3433f319a1ef2f1f69f7",
@@ -20251,14 +20251,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5ae2a74d4e28929cf584",
-    "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- Luke softening Roman culpability (§6.3) — defensible, with real pushback.\n- Deutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
+    "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\nLuke softening Roman culpability (§6.3) — defensible, with real pushback.\nDeutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- **Luke softening Roman culpability** (§6.3) — defensible, with real pushback.\n- **Deutero-Pauline pseudonymity** (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -20282,10 +20282,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_83fe958ecc63ade6bf52",
@@ -20313,14 +20313,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_422b9d35e4dcc053ea61",
-    "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
+    "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\nGalatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\nMatthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\nIsaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\nHa-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
     "raw_text": "- Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -20344,10 +20344,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5198c152bc39a669cd42",
@@ -20375,10 +20375,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8bc89ab76bd6e975d6ba",
@@ -20390,7 +20390,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20398,7 +20398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:659",
     "parent_id": null,
     "related_ids": [],
@@ -20407,22 +20407,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_28207eff10dab1a4b386",
-    "text": "Verified elsewhere and safe to use: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Master Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
-    "raw_text": "**Verified elsewhere and safe to use:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Master Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
+    "text": "Verified elsewhere and safe to use: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
+    "raw_text": "**Verified elsewhere and safe to use:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is correct and is the stronger version of that argument (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20430,7 +20430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:660",
     "parent_id": null,
     "related_ids": [],
@@ -20439,10 +20439,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3cde02747b96baffbaec",
@@ -20454,7 +20454,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20462,7 +20462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:661",
     "parent_id": null,
     "related_ids": [],
@@ -20471,10 +20471,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_92f7141f03a5b53bab0c",
@@ -20486,7 +20486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20494,7 +20494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:662",
     "parent_id": null,
     "related_ids": [],
@@ -20503,22 +20503,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_280c6694875e889301ff",
-    "text": "§12.8 John 8:44 — say anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Master Notes §8.5 audit.\n- §13 Trinity / Nicaea — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
-    "raw_text": "- **§12.8 John 8:44** — say **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Master Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
+    "text": "§12.8 John 8:44 — say anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Study Notes §8.5 audit.\n§13 Trinity / Nicaea — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
+    "raw_text": "- **§12.8 John 8:44** — say **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic and invites a correction that lets an opponent dismiss the whole point. Run the argument on reception history, which does not require establishing intent. See Study Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7 before use. Nicaea did not vote on the canon and did not invent Jesus's divinity. The true version — an emperor enforcing a theological outcome and exiling the losers — is the stronger argument anyway.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20526,7 +20526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:663",
     "parent_id": null,
     "related_ids": [],
@@ -20535,10 +20535,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_17532371016f61585ace",
@@ -20550,7 +20550,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "8. STANDING METHODOLOGICAL NOTES",
       "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Field Guide Audit Status"
+      "8.4 Observations Audit Status"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20558,7 +20558,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Field Guide Audit Status",
+    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
     "source_reference": "paragraph:664",
     "parent_id": null,
     "related_ids": [],
@@ -20567,9 +20567,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "document_provenance",
-      "value": "Field Guide provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
+      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);

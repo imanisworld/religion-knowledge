@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Translations.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -31,12 +31,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6885a349260889d87761",
-    "text": "Companion to: Master Notes · Field Guide · History · Sources · The Strongest Case · Glossary\nLast updated: 7 August 2026",
-    "raw_text": "**Companion to:** Master Notes · Field Guide · History · Sources · The Strongest Case · Glossary\n**Last updated:** 7 August 2026",
+    "text": "Companion to: Study Notes · Observations · History · Sources · The Strongest Case · Glossary\nLast updated: 7 August 2026",
+    "raw_text": "**Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Glossary\n**Last updated:** 7 August 2026",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -61,7 +61,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_66125abdd13d5a450acb",
@@ -91,11 +91,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff063d370d51c943ed01",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
@@ -121,11 +121,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f68c0d1cca34e8a80e5b",
-    "text": "The short version. There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n>\n> You are reading the ESV. That is a fine choice and you should keep it as your main read. But it is a conservative translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
+    "text": "The short version. There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n\nYou are reading the ESV. That is a fine choice and you should keep it as your main read. But it is a conservative translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
     "raw_text": "> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n>\n> **You are reading the ESV.** That is a fine choice and you should keep it as your main read. But it is a *conservative* translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -151,7 +151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f693379f79f7effaf0d0",
@@ -182,7 +182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6b2f85777cc92b1a313a",
@@ -213,7 +213,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ff9c894a938b822927a4",
@@ -244,7 +244,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d7c1fd3f656268ded4c3",
@@ -275,7 +275,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_18a4fb582293f54a303e",
@@ -306,7 +306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_828ee53fc9698fe09f6b",
@@ -337,7 +337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_52eb92d311ce2bb1acc8",
@@ -368,7 +368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d406214e25b754596069",
@@ -399,7 +399,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_775282b368a0d6d676f4",
@@ -430,7 +430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a7d7487afa518b26c09a",
@@ -461,7 +461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dd24fd29664367e7b707",
@@ -492,7 +492,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_aa9e2461e8d328589e8c",
@@ -523,7 +523,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_51c7100a827e44efc1aa",
@@ -554,7 +554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1f0b236476927580a564",
@@ -585,7 +585,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3d3628f90b5e4c81981e",
@@ -616,7 +616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_892dbefa7bab8c50287c",
@@ -647,7 +647,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e249e374886d04f3cd9f",
@@ -678,7 +678,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_32cbc6d80cbff40549eb",
@@ -709,11 +709,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d482e160486bf5a462e7",
-    "text": "2001 ESV: \"Your desire shall be for your husband, and he shall rule over you.\" The traditional rendering, shared with the RSV, NASB, and NKJV.\n- 2016 ESV: changed to \"Your desire shall be contrary to your husband, but he shall rule over you.\" The woman's desire becomes a desire to usurp; the man's rule becomes the corrective.\n- The Hebrew problem. The preposition is 'el. As one Old Testament professor put it: <cite index=\"80-1\">'el appears hundreds of times in the Hebrew Bible, but never with the meaning \"contrary to.\"</cite> The related word teshûqâ is the other half of the problem — <cite index=\"84-1\">Macintosh's study of how early translators, the Targum, and the Dead Sea Scrolls understood teshûqâ found that none of them take it to mean \"contrary\" or \"control.\"</cite>\n- Crossway then declared the 2016 text permanent — <cite index=\"79-1\">stating in their August 3rd press release that they were establishing the Permanent Text of the ESV Bible, unchanged forever, in perpetuity,</cite> likening it to the settled KJV.\n- Backlash. Reversal one. Within weeks <cite index=\"79-1\">Crossway reversed its decision to fix the text, leaving the window for revision open.</cite> <cite index=\"80-1\">Their statement said they had become convinced the decision was a mistake, and apologised.</cite>\n- Reversal two — and this is the part I did not know until checking. Crossway later changed the translation itself back: <cite index=\"83-1\">the committee changed the 2016 rendering of 'el from \"contrary to\" back to the original 2001 \"for,\" restoring continuity with the RSV, NASB, and NKJV and preserving the range of interpretive options, with alternatives now in a footnote — \"Or to, or toward, or against.\" The conjunction \"but\" was changed to \"and\" in Genesis 3:16 and 4:7 so as not to impose a contrast that is not explicit in the Hebrew.</cite>",
+    "text": "2001 ESV: \"Your desire shall be for your husband, and he shall rule over you.\" The traditional rendering, shared with the RSV, NASB, and NKJV.\n2016 ESV: changed to \"Your desire shall be contrary to your husband, but he shall rule over you.\" The woman's desire becomes a desire to usurp; the man's rule becomes the corrective.\nThe Hebrew problem. The preposition is 'el. As one Old Testament professor put it: <cite index=\"80-1\">'el appears hundreds of times in the Hebrew Bible, but never with the meaning \"contrary to.\"</cite> The related word teshûqâ is the other half of the problem — <cite index=\"84-1\">Macintosh's study of how early translators, the Targum, and the Dead Sea Scrolls understood teshûqâ found that none of them take it to mean \"contrary\" or \"control.\"</cite>\nCrossway then declared the 2016 text permanent — <cite index=\"79-1\">stating in their August 3rd press release that they were establishing the Permanent Text of the ESV Bible, unchanged forever, in perpetuity,</cite> likening it to the settled KJV.\nBacklash. Reversal one. Within weeks <cite index=\"79-1\">Crossway reversed its decision to fix the text, leaving the window for revision open.</cite> <cite index=\"80-1\">Their statement said they had become convinced the decision was a mistake, and apologised.</cite>\nReversal two — and this is the part I did not know until checking. Crossway later changed the translation itself back: <cite index=\"83-1\">the committee changed the 2016 rendering of 'el from \"contrary to\" back to the original 2001 \"for,\" restoring continuity with the RSV, NASB, and NKJV and preserving the range of interpretive options, with alternatives now in a footnote — \"Or to, or toward, or against.\" The conjunction \"but\" was changed to \"and\" in Genesis 3:16 and 4:7 so as not to impose a contrast that is not explicit in the Hebrew.</cite>",
     "raw_text": "- **2001 ESV:** \"Your desire shall be *for* your husband, and he shall rule over you.\" The traditional rendering, shared with the RSV, NASB, and NKJV.\n- **2016 ESV:** changed to \"Your desire shall be *contrary to* your husband, **but** he shall rule over you.\" The woman's desire becomes a desire to usurp; the man's rule becomes the corrective.\n- **The Hebrew problem.** The preposition is *'el*. As one Old Testament professor put it: <cite index=\"80-1\">'el appears hundreds of times in the Hebrew Bible, but never with the meaning \"contrary to.\"</cite> The related word *teshûqâ* is the other half of the problem — <cite index=\"84-1\">Macintosh's study of how early translators, the Targum, and the Dead Sea Scrolls understood teshûqâ found that none of them take it to mean \"contrary\" or \"control.\"</cite>\n- **Crossway then declared the 2016 text permanent** — <cite index=\"79-1\">stating in their August 3rd press release that they were establishing the Permanent Text of the ESV Bible, unchanged forever, in perpetuity,</cite> likening it to the settled KJV.\n- **Backlash. Reversal one.** Within weeks <cite index=\"79-1\">Crossway reversed its decision to fix the text, leaving the window for revision open.</cite> <cite index=\"80-1\">Their statement said they had become convinced the decision was a mistake, and apologised.</cite>\n- **Reversal two — and this is the part I did not know until checking.** Crossway later changed the translation itself back: <cite index=\"83-1\">the committee changed the 2016 rendering of 'el from \"contrary to\" back to the original 2001 \"for,\" restoring continuity with the RSV, NASB, and NKJV and preserving the range of interpretive options, with alternatives now in a footnote — \"Or to, or toward, or against.\" The conjunction \"but\" was changed to \"and\" in Genesis 3:16 and 4:7 so as not to impose a contrast that is not explicit in the Hebrew.</cite>",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -740,7 +740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_49072633463276ad4e10",
@@ -771,7 +771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — every step above is documented, including Crossway's own wording; this reading of what it means is Claude's.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_34339f5f34af12aa7a9c",
@@ -802,7 +802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d3b1f1684c70b4e7c5f7",
@@ -833,7 +833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3d37e372d01f8ec3889f",
@@ -864,7 +864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e291c27cf4c740d1806e",
@@ -895,7 +895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a1639d6a2ea5ace04fff",
@@ -926,12 +926,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bcf89f6aaaf56be8980a",
-    "text": "*1 Corinthians 6:9 — malakoi and arsenokoitai. ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue: renders them separately. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Master Notes §4. Careful: the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
-    "raw_text": "**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue: renders them separately. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Master Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
+    "text": "*1 Corinthians 6:9 — malakoi and arsenokoitai. ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue: renders them separately. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. Careful: the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
+    "raw_text": "**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue: renders them separately. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -957,7 +957,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ccc4d3360b9357fdc9bf",
@@ -988,7 +988,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f07afc21b266b4d39a0e",
@@ -1019,7 +1019,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8d0520111859b6920556",
@@ -1050,7 +1050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_8aa944cdcb6890dfc78e",
@@ -1081,7 +1081,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_90c9b3b0c8f64a93a8b6",
@@ -1112,7 +1112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_55f261d2418d69adc5cc",
@@ -1143,7 +1143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_59c4019caef4ac631ee8",
@@ -1174,7 +1174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6aa062ab6de1f00387cb",
@@ -1205,7 +1205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ae4318216f44250ea0ae",
@@ -1236,7 +1236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f119fd282b12fe884ac3",
@@ -1267,7 +1267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_146e70e13a51c885d7f6",
@@ -1298,7 +1298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9588f565e6e68e393f53",
@@ -1329,6 +1329,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);

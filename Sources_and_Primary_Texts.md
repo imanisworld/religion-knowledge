@@ -2,7 +2,7 @@
 
 *What Each Source Actually Says — With Links*
 
-**Companion to:** Master Notes · Field Guide · Historical Framework
+**Companion to:** Study Notes · Observations · Historical Framework
 **Last updated:** 7 August 2026
 
 > **Provenance.** **Written by:** Claude, 7 August 2026. Every link was checked. **What each source says is documented.** What it establishes and fails to establish is Claude's reading and is marked.
@@ -171,7 +171,7 @@ For understanding how the theology was built rather than how the story is told:
 
 1. **1 Thessalonians** (c. 50 CE) — the earliest Christian document that survives. Note what is *absent*: no virgin birth, no empty tomb narrative, no biography.
 2. **1 Corinthians 15:3–7** — the pre-Pauline creed. Concede its early date. Note it lists appearances and does not mention an empty tomb.
-3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Master Notes §9.3.
+3. **Galatians 1–2** — Paul's own account of the Jerusalem conflict, then compare with Acts 15. See Study Notes §9.3.
 4. **Mark 16:1–8** — the original ending.
 5. **John 1:1–18** — the prologue, where the high Christology is explicit.
 

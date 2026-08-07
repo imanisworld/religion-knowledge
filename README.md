@@ -20,14 +20,14 @@ Three markers run through every document, so you always know whose claim you are
 
 Audit entries also carry a `CHECKED` date. Anything without one has not been verified.
 
-**Honest limitation:** the older sections of the Master Notes and Field Guide predate this convention and are a genuine mix of your notes and Claude's earlier framing. They cannot be cleanly separated after the fact, and each document says so at the top. Everything written from 7 August 2026 onward is marked.
+**Honest limitation:** the older sections of the Study Notes and Observations predate this convention and are a genuine mix of your notes and Claude's earlier framing. They cannot be cleanly separated after the fact, and each document says so at the top. Everything written from 7 August 2026 onward is marked.
 
 ## The documents
 
 | # | Document | What it holds |
 |---|---|---|
-| 1 | **Master Notes** | Findings and textual analysis from the reading, with audit corrections filed inline beneath the claims they revise |
-| 2 | **Field Guide** | Live-conversation material — talking points, responses, deflection handling |
+| 1 | **Study Notes** | Findings and textual analysis from the reading, with audit corrections filed inline beneath the claims they revise |
+| 2 | **Observations** | Live-conversation material — talking points, responses, deflection handling |
 | 3 | **Historical Framework** | The chronological spine, how evidence works, and bad history on both sides |
 | 4 | **Sources & Primary Texts** | What each primary source says, with links to free full texts |
 | 5 | **The Strongest Case** | Theologians and apologists worth engaging, plus how the literal/allegorical switch works |
@@ -40,6 +40,6 @@ Open `master-notes.html` first. All seven link to each other from the sidebar �
 
 ## Current status
 
-- Audit: 7 of 11 claims complete. Remaining queue at Master Notes §11.2.
+- Audit: 7 of 11 claims complete. Remaining queue at Study Notes §11.2.
 - Reading: Old Testament complete; New Testament through Acts; Pauline epistles in progress.
-- Standing method at Master Notes §11.1 — applies to everything.
+- Standing method at Study Notes §11.1 — applies to everything.

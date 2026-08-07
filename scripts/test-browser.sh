@@ -122,7 +122,7 @@ setTimeout(() => {
                     }
                     document.getElementById('dialog-close')?.click();
 
-                    // Reader section anchors: a Master Notes record with a numbered
+                    // Reader section anchors: a Study Notes record with a numbered
                     // section must render an "Open reader" link that targets the
                     // reader's #s<num> anchor, not the document top.
                     const anchorSearch = document.getElementById('search-input');
@@ -322,7 +322,7 @@ fi
 
 READER_ANCHOR_HREF="$(grep -o 'data-reader-anchor-href="[^"]*"' /tmp/religion-app-dom.html | head -1 | sed 's/^data-reader-anchor-href="//; s/"$//')"
 if [[ ! "$READER_ANCHOR_HREF" =~ master-notes\.html#s[0-9-]+$ ]]; then
-  echo "Master Notes record did not render a section-anchored reader link (got: $READER_ANCHOR_HREF)" >&2
+  echo "Study Notes record did not render a section-anchored reader link (got: $READER_ANCHOR_HREF)" >&2
   exit 1
 fi
 

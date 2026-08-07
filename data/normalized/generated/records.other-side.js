@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: The_Other_Side.md
-// Parser version: 1.1.2
+// Parser version: 1.1.3
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -31,12 +31,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b2d350d5bd466248a449",
-    "text": "Companion to: Master Notes · Field Guide · Historical Framework · Sources\nLast updated: 7 August 2026",
-    "raw_text": "**Companion to:** Master Notes · Field Guide · Historical Framework · Sources\n**Last updated:** 7 August 2026",
+    "text": "Companion to: Study Notes · Observations · Historical Framework · Sources\nLast updated: 7 August 2026",
+    "raw_text": "**Companion to:** Study Notes · Observations · Historical Framework · Sources\n**Last updated:** 7 August 2026",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -61,7 +61,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2348d16fb88a04ea8c0f",
@@ -91,11 +91,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e16298937c9eb3d416c",
-    "text": "Who is saying what. Three markers run through all seven documents:\n>\n> - * — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> -  — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> -  — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> The rule:* anything marked  is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
@@ -121,11 +121,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3c41eadc655599afaf4",
-    "text": "Why this document exists. Two problems, and they are connected.\n>\n> First: most critique of religion engages the weakest available version. That is a waste. There are serious people on the believing side — philosophers who are genuinely hard to answer, historians who have found real things. Knowing which is which is what separates someone who can argue from someone who can only recite.\n>\n> Second, and this is the harder one: the sense that a believer's reading is \"all over the place\" — literal here, metaphor there, no visible rule. That feeling is accurate, and §2 explains exactly what is happening. There are named, centuries-old frameworks governing it. They are real intellectual traditions. But almost nobody using them can state which one they are applying, and none of them specify in advance which passages get which treatment. That is the whole problem, and once you can name it, the disorientation stops.",
+    "text": "Why this document exists. Two problems, and they are connected.\n\nFirst: most critique of religion engages the weakest available version. That is a waste. There are serious people on the believing side — philosophers who are genuinely hard to answer, historians who have found real things. Knowing which is which is what separates someone who can argue from someone who can only recite.\n\nSecond, and this is the harder one: the sense that a believer's reading is \"all over the place\" — literal here, metaphor there, no visible rule. That feeling is accurate, and §2 explains exactly what is happening. There are named, centuries-old frameworks governing it. They are real intellectual traditions. But almost nobody using them can state which one they are applying, and none of them specify in advance which passages get which treatment. That is the whole problem, and once you can name it, the disorientation stops.",
     "raw_text": "> **Why this document exists.** Two problems, and they are connected.\n>\n> **First:** most critique of religion engages the weakest available version. That is a waste. There are serious people on the believing side — philosophers who are genuinely hard to answer, historians who have found real things. Knowing which is which is what separates someone who can argue from someone who can only recite.\n>\n> **Second, and this is the harder one:** the sense that a believer's reading is \"all over the place\" — literal here, metaphor there, no visible rule. That feeling is accurate, and §2 explains exactly what is happening. There are named, centuries-old frameworks governing it. They are real intellectual traditions. But almost nobody using them can state which one they are applying, and none of them specify *in advance* which passages get which treatment. That is the whole problem, and once you can name it, the disorientation stops.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
@@ -151,7 +151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_df4d577c6c95d19151ba",
@@ -182,7 +182,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — this ranking is Claude's judgement, not a survey of the field.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2089123fa10d3ecc70a6",
@@ -214,7 +214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_65657314a0586132d6c4",
@@ -246,7 +246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_43bb3f7018def2bb2a70",
@@ -278,7 +278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_366821e1f7ea2096a119",
@@ -310,7 +310,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b61523e7fc7b0868f49",
@@ -342,7 +342,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d71d36e345e9a664e7bb",
@@ -374,7 +374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_84754c64b36946d46c4c",
@@ -406,7 +406,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_159df0c627779388ab6e",
@@ -438,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a057059c1d930f0c6e32",
@@ -470,7 +470,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5e63e4c9856bb9e0fb5e",
@@ -502,7 +502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_f43e5efad0ceed2ca4e4",
@@ -534,7 +534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_74b7f84bf716b5b2cef3",
@@ -566,7 +566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_ef3910ebc2f962d4b02d",
@@ -598,7 +598,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_30975578506932e2ba5e",
@@ -630,7 +630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b1bd49d25c5cdfdec71e",
@@ -662,12 +662,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_68ecba295a0af0385339",
-    "text": "Robert Gagnon [EVANGELICAL] — The Bible and Homosexual Practice. The most thorough conservative treatment; see Master Notes for where his redaction-criticism reversal is genuinely sharp.",
-    "raw_text": "**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Master Notes for where his redaction-criticism reversal is genuinely sharp.",
+    "text": "Robert Gagnon [EVANGELICAL] — The Bible and Homosexual Practice. The most thorough conservative treatment; see Study Notes for where his redaction-criticism reversal is genuinely sharp.",
+    "raw_text": "**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Study Notes for where his redaction-criticism reversal is genuinely sharp.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -694,12 +694,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_e2d9a3389f1372a4a256",
-    "text": "James Hoffmeier [EVANGELICAL, Egyptologist] and K.A. Kitchen [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Master Notes §1.8 audit.",
-    "raw_text": "**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Master Notes §1.8 audit.",
+    "text": "James Hoffmeier [EVANGELICAL, Egyptologist] and K.A. Kitchen [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Study Notes §1.8 audit.",
+    "raw_text": "**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Study Notes §1.8 audit.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -726,7 +726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1823c49ee03e0c7bfc9f",
@@ -758,7 +758,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_a6ae4fde4c4ed2c961be",
@@ -790,7 +790,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_0de87b83e8e6a76cbdb2",
@@ -822,7 +822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_3b3609c292d039b5292a",
@@ -854,7 +854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_98126ba46c674b1eb11e",
@@ -886,7 +886,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_291de4c0709a3450ed52",
@@ -918,7 +918,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_c3faeff75a6e5e6991fd",
@@ -949,7 +949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_9f4a07fd055d49b5ae5d",
@@ -981,7 +981,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1ef58325792878a0cf80",
@@ -1013,7 +1013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_bc706641cad7606dd672",
@@ -1045,7 +1045,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_385bf6861f24b23dc317",
@@ -1077,7 +1077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_1001e35250a82568e347",
@@ -1109,7 +1109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_662cb93faa176e40f74d",
@@ -1141,7 +1141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_362176066dcfe5936969",
@@ -1173,7 +1173,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_14c8f8e7242f434b8bf8",
@@ -1205,7 +1205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_563c7805b3b633a9b9f1",
@@ -1237,7 +1237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7dd1457a1fb9fb085af1",
@@ -1269,7 +1269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_cd09be83929c2f667655",
@@ -1301,7 +1301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_18020fd4e64d457a612a",
@@ -1333,7 +1333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_99f0fa6e44269ac806a0",
@@ -1365,7 +1365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2e0a337f5bca239ae62d",
@@ -1397,7 +1397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_5bae84a1314c501867bd",
@@ -1429,7 +1429,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2556fd9baff3bf67642c",
@@ -1461,7 +1461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6cf71ada78a49be69353",
@@ -1493,7 +1493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_d943f98a5d2127ed310a",
@@ -1525,7 +1525,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_2adc1d563e502b73a2f2",
@@ -1557,7 +1557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_7f059b0a49fda0a5737d",
@@ -1589,7 +1589,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_b3d5b5dc4eb69d7bdcbf",
@@ -1621,12 +1621,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_41f014a120dc34093bf8",
-    "text": "That is the same structural finding as the audit log in the Master Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. The list never sorts itself. Someone always sorts it, and the sorter's interests are visible in the result.",
-    "raw_text": "That is the same structural finding as the audit log in the Master Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.",
+    "text": "That is the same structural finding as the audit log in the Study Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. The list never sorts itself. Someone always sorts it, and the sorter's interests are visible in the result.",
+    "raw_text": "That is the same structural finding as the audit log in the Study Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1653,7 +1653,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_dea43dcb2e5165d709bd",
@@ -1684,7 +1684,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_6c21d6d712df52593b8d",
@@ -1715,7 +1715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_73fe0e13805ed524ab11",
@@ -1746,7 +1746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_17641fa58dcd5b58ea5a",
@@ -1777,7 +1777,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   },
   {
     "id": "rk_82a2fce4a85724377ebe",
@@ -1808,6 +1808,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "The Strongest Case provenance explicitly states: Written by Claude; rankings/judgments are Claude's where marked."
     },
     "review_required": false,
-    "parser_version": "1.1.2"
+    "parser_version": "1.1.3"
   }
 ]);
