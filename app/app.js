@@ -399,9 +399,9 @@
     } else {
       lead.innerHTML = `
         <div class="hero-card">
-          <p class="eyebrow">Traceable research</p>
-          <h2>Keep your thinking separate from AI interpretation.</h2>
-          <p>Every record keeps who said it, how it was represented, and where it came from.</p>
+          <p class="eyebrow">Religion Knowledge</p>
+          <h2>Your words, Claude's analysis, and named sources — kept separate.</h2>
+          <p>Every record keeps who said it and where it came from.</p>
         </div>`;
     }
   }
@@ -422,7 +422,7 @@
       .slice(0, 6);
     target.innerHTML = top.length
       ? top.map(([topic, count]) => `<a class="topic-chip" href="#/topic/${encodeURIComponent(topic)}">${escapeHtml(topic)}<span>${count}</span></a>`).join('')
-      : emptyState('No topics yet', 'Topic metadata appears after corpus normalization.');
+      : emptyState('No topics yet', 'Topics appear as records are added.');
   }
 
   function renderHomeQuestions() {
@@ -446,7 +446,7 @@
     const reviewHeading = $('home-review-heading');
     if (reviewHeading) reviewHeading.textContent = reviewAll.length ? `Needs attention · ${reviewAll.length}` : 'Needs attention';
     renderList('home-review-list', reviewAll.slice(0, 4), 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
-    renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.', { unbounded: true });
+    renderList('recent-list', recent, 'No normalized records yet', 'The original documents are unchanged.', { unbounded: true });
   }
 
   function renderThoughts() {
@@ -456,7 +456,7 @@
 
   function renderQuestions() {
     const items = filteredRecords((r) => r.provenance_type === 'MY_QUESTION' || r.record_type === 'QUESTION');
-    renderList('questions-list', items, 'No questions normalized yet', 'Questions appear here without implying that unresolved questions belong to you.');
+    renderList('questions-list', items, 'No questions normalized yet', 'Open questions from across the study.');
   }
 
   function renderSources() {
@@ -511,7 +511,7 @@
 
     $('topics-list').innerHTML = topics.length
       ? topics.map(([topic, count]) => `<button class="topic-card" type="button" data-topic="${escapeHtml(topic)}"><strong>${escapeHtml(topic)}</strong><span>${count} record${count === 1 ? '' : 's'}</span></button>`).join('')
-      : emptyState(topicQuery ? 'No topics match your filter' : 'No topics normalized yet', topicQuery ? 'Try a different search term.' : 'Topic metadata appears after corpus normalization.');
+      : emptyState(topicQuery ? 'No topics match your filter' : 'No topics normalized yet', topicQuery ? 'Try a different search term.' : 'Topics appear as records are added.');
   }
 
   function buildChains() {
