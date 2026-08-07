@@ -51,6 +51,9 @@ jobs:
       - name: Validate app data loading
         run: node scripts/import/validate-app-data.mjs
 
+      - name: Render app in phone-sized Chromium
+        run: bash scripts/test-browser.sh
+
       - name: Preserve generated records for private review
         uses: actions/upload-artifact@v4
         with:
