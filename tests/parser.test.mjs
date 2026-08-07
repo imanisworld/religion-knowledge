@@ -22,6 +22,14 @@ test('explicit DOCUMENTED marker maps to SOURCE', () => {
   assert.equal(out.records[0].review_required, false);
 });
 
+test('provenance legend with multiple marker types fails closed', () => {
+  const content = '# Topic\n\nWho is saying what: ⟨DOCUMENTED⟩ means source, ⟨INFERENCE⟩ means Claude reasoning, and ⟨YOURS⟩ means user observation.';
+  const out = parseMarkdown({ sourceFile: 'The_Other_Side.md', content });
+  assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
+  assert.equal(out.records[0].review_required, true);
+  assert.equal(out.records[0].attribution_evidence.method, 'multiple_explicit_markers');
+});
+
 test('legacy Master Notes sections 0-9 fail closed to REVIEW_REQUIRED', () => {
   const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 1. Big Framework\n\n### 1.1 Claim\n\nThis predates provenance convention.' });
   assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
