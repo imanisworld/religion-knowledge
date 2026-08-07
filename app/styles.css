@@ -1,33 +1,44 @@
 :root {
   color-scheme: light dark;
-  --bg: #f4f5f7;
-  --panel: #ffffff;
-  --panel-2: #eef0f3;
-  --text: #17191f;
-  --muted: #6a707b;
-  --line: #d9dde4;
-  --accent: #2d5bd1;
-  --accent-soft: #e7edff;
-  --danger: #a12727;
-  --warning: #8a5a00;
-  --success: #236942;
-  --shadow: 0 12px 36px rgba(0,0,0,.08);
+  --bg: #EDEFEC;
+  --panel: #FFFFFF;
+  --panel-2: #F6F8F7;
+  --text: #17201D;
+  --muted: #4A5551;
+  --subtle: #7A8582;
+  --line: #D3D8D4;
+  --accent: #1F5E5B;
+  --accent-soft: #E3EDEC;
+  --danger: #8E2B2B;
+  --warning: #A8681B;
+  --success: #2D6A4F;
+  --mark-you-bg: #E5E9F6; --mark-you-text: #2E3E73; --mark-you-border: #C6CEE8;
+  --mark-doc-bg: #E3F1E9; --mark-doc-text: #1F4C38; --mark-doc-border: #C2DFD1;
+  --mark-inf-bg: #F6EBD6; --mark-inf-text: #7A5510; --mark-inf-border: #E4CFA6;
+  --shadow: 0 12px 36px rgba(23,32,29,.10);
   --radius: 18px;
+  --f-display: "Newsreader", Georgia, serif;
+  --f-body: "IBM Plex Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, monospace;
 }
 
 :root[data-theme="dark"] {
-  --bg: #101218;
-  --panel: #171a22;
-  --panel-2: #20242e;
-  --text: #f5f6f8;
-  --muted: #a8afbb;
-  --line: #303642;
-  --accent: #8ca9ff;
-  --accent-soft: #202b4a;
-  --danger: #ff9d9d;
-  --warning: #f2c26c;
-  --success: #8fd4aa;
-  --shadow: 0 14px 40px rgba(0,0,0,.28);
+  --bg: #10130F;
+  --panel: #17201D;
+  --panel-2: #212C28;
+  --text: #F2F5F3;
+  --muted: #A8B4B0;
+  --subtle: #7F8D88;
+  --line: #2C3833;
+  --accent: #6FBFB5;
+  --accent-soft: #1B3330;
+  --danger: #E8A3A3;
+  --warning: #E6B876;
+  --success: #7FCB9E;
+  --mark-you-bg: #232B4A; --mark-you-text: #B7C2EE; --mark-you-border: #33406E;
+  --mark-doc-bg: #17332A; --mark-doc-text: #8FD4AA; --mark-doc-border: #245240;
+  --mark-inf-bg: #3A2E14; --mark-inf-text: #E8C176; --mark-inf-border: #5C4A22;
+  --shadow: 0 14px 40px rgba(0,0,0,.36);
 }
 
 * { box-sizing: border-box; }
@@ -38,7 +49,7 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--text);
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+  font-family: var(--f-body);
 }
 
 button, input, select { font: inherit; }
@@ -61,17 +72,19 @@ button { color: inherit; }
 
 .eyebrow {
   margin: 0 0 4px;
-  color: var(--muted);
-  font-size: .76rem;
-  font-weight: 750;
-  letter-spacing: .08em;
+  color: var(--subtle);
+  font-family: var(--f-mono);
+  font-size: .7rem;
+  font-weight: 600;
+  letter-spacing: .13em;
   text-transform: uppercase;
 }
 
 h1, h2, h3, p { overflow-wrap: anywhere; }
-h1 { margin: 0; font-size: clamp(1.6rem, 6vw, 2.15rem); }
-h2 { margin: 0; font-size: 1.28rem; line-height: 1.25; }
-h3 { margin: 0; font-size: 1rem; }
+h1, h2, h3 { font-family: var(--f-display); font-weight: 500; letter-spacing: -.02em; }
+h1 { margin: 0; font-size: clamp(1.6rem, 6vw, 2.15rem); line-height: 1.08; }
+h2 { margin: 0; font-size: 1.32rem; line-height: 1.2; }
+h3 { margin: 0; font-size: 1.05rem; font-weight: 600; }
 p { line-height: 1.55; }
 
 .icon-button,
@@ -226,8 +239,8 @@ p { line-height: 1.55; }
   border-radius: 15px;
   background: var(--panel);
 }
-.stat-card strong { display: block; font-size: 1.5rem; }
-.stat-card span { color: var(--muted); font-size: .8rem; }
+.stat-card strong { display: block; font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; }
+.stat-card span { display: block; margin-top: 2px; color: var(--subtle); font-family: var(--f-mono); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
 
 .section-block { margin: 24px 0; }
 .section-heading {
@@ -270,23 +283,24 @@ p { line-height: 1.55; }
   display: inline-flex;
   align-items: center;
   min-height: 25px;
-  padding: 3px 8px;
+  padding: 3px 9px;
   border-radius: 999px;
   background: var(--panel-2);
   border: 1px solid var(--line);
-  font-size: .69rem;
-  font-weight: 800;
-  letter-spacing: .02em;
+  font-family: var(--f-mono);
+  font-size: .64rem;
+  font-weight: 500;
+  letter-spacing: .07em;
+  text-transform: uppercase;
 }
-.badge.mine { background: var(--accent-soft); color: var(--accent); }
+.badge.mine { background: var(--mark-you-bg); color: var(--mark-you-text); border-color: var(--mark-you-border); }
 .badge.review { color: var(--warning); }
-.badge.source { color: var(--success); }
-.badge.ai { color: #8d4fc4; }
-:root[data-theme="dark"] .badge.ai { color: #d5aaff; }
+.badge.source { background: var(--mark-doc-bg); color: var(--mark-doc-text); border-color: var(--mark-doc-border); }
+.badge.ai { background: var(--mark-inf-bg); color: var(--mark-inf-text); border-color: var(--mark-inf-border); }
 
 .record-card h3 { margin-bottom: 7px; }
 .record-card p { margin: 0; color: var(--muted); }
-.record-source { margin-top: 10px !important; font-size: .78rem; }
+.record-source { margin-top: 10px !important; color: var(--subtle); font-family: var(--f-mono); font-size: .72rem; }
 
 .topic-controls {
   display: flex;
@@ -307,8 +321,8 @@ p { line-height: 1.55; }
   padding: 15px;
   min-height: 104px;
 }
-.topic-card strong { display: block; font-size: 1rem; margin-bottom: 8px; }
-.topic-card span { color: var(--muted); font-size: .8rem; }
+.topic-card strong { display: block; font-family: var(--f-display); font-size: 1.08rem; font-weight: 500; margin-bottom: 8px; }
+.topic-card span { color: var(--subtle); font-family: var(--f-mono); font-size: .68rem; letter-spacing: .04em; }
 
 .segmented {
   display: grid;
@@ -407,7 +421,7 @@ p { line-height: 1.55; }
 #dialog-body { padding: 16px 16px 24px; }
 .detail-grid { display: grid; gap: 10px; margin-top: 16px; }
 .detail-row { padding: 12px; border-radius: 12px; background: var(--panel-2); }
-.detail-row strong { display: block; font-size: .75rem; color: var(--muted); margin-bottom: 4px; }
+.detail-row strong { display: block; font-family: var(--f-mono); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; color: var(--subtle); margin-bottom: 5px; }
 .raw-text { white-space: pre-wrap; line-height: 1.55; }
 
 .more-sheet {
