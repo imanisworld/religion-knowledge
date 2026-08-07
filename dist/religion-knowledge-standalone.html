@@ -527,11 +527,61 @@ button.stat-card:focus-visible { border-color: var(--accent); }
 #review-progress,
 #search-summary { margin-top: 4px; }
 
+.side-nav { display: none; }
+
 @media (min-width: 720px) {
   .app-shell { padding-left: 24px; padding-right: 24px; }
   .stats-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
   .topic-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
   .filter-panel { grid-template-columns: 1fr 1fr auto; align-items: end; }
+}
+
+/* Desktop: persistent sidebar navigation replaces the phone tab bar, and the
+   extra width goes to real columns instead of stretched phone cards. */
+@media (min-width: 1024px) {
+  .app-shell {
+    width: min(100%, 1280px);
+    display: grid;
+    grid-template-columns: 220px minmax(0, 1fr);
+    column-gap: 32px;
+    align-items: start;
+    padding-bottom: 32px;
+  }
+
+  .side-nav {
+    display: grid;
+    gap: 4px;
+    grid-column: 1;
+    grid-row: 1 / span 4;
+    position: sticky;
+    top: 16px;
+    padding-top: 74px;
+  }
+  .side-item {
+    grid-template-columns: 26px 1fr;
+    display: grid;
+    justify-items: start;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 12px;
+    text-align: left;
+  }
+  .side-item span { font-size: 1rem; }
+  .side-item small { font-size: .84rem; font-weight: 650; }
+
+  .topbar,
+  .search-strip,
+  .filter-panel,
+  main { grid-column: 2; }
+
+  .bottom-nav { display: none; }
+
+  .card-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .compare-list { grid-template-columns: 1fr; }
+  .topic-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
+  .stats-grid { grid-template-columns: repeat(5, minmax(0,1fr)); }
+  .record-dialog { width: min(calc(100% - 48px), 840px); }
+  .hero-card { max-width: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -542,6 +592,18 @@ button.stat-card:focus-visible { border-color: var(--accent); }
 </head>
 <body>
   <div class="app-shell">
+    <nav class="side-nav" aria-label="Primary navigation">
+      <button class="nav-item side-item" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
+      <button class="nav-item side-item" type="button" data-view="thoughts"><span>✎</span><small>My Thoughts</small></button>
+      <button class="nav-item side-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
+      <button class="nav-item side-item" type="button" data-view="questions"><span>?</span><small>Questions</small></button>
+      <button class="nav-item side-item" type="button" data-view="sources"><span>§</span><small>Sources</small></button>
+      <button class="nav-item side-item" type="button" data-view="ai"><span>✦</span><small>AI Analysis</small></button>
+      <button class="nav-item side-item" type="button" data-view="audits"><span>✓</span><small>Audits</small></button>
+      <button class="nav-item side-item" type="button" data-view="compare"><span>⇄</span><small>Compare</small></button>
+      <button class="nav-item side-item" type="button" data-view="positions"><span>◆</span><small>Position History</small></button>
+      <button class="nav-item side-item" type="button" data-view="review"><span>!</span><small>Review Queue</small></button>
+    </nav>
     <header class="topbar">
       <div>
         <p class="eyebrow">Religion Knowledge</p>

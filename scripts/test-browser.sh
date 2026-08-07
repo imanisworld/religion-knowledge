@@ -132,16 +132,18 @@ setTimeout(() => {
                     }
                     setTimeout(() => {
                       document.querySelector('#search-results [data-record-id]')?.click();
+                      // Hash routing: openRecord writes the deep link synchronously
+                      // during the click, so check in the same tick (later ticks can
+                      // race other hash writers under virtual time).
+                      if (location.hash.startsWith('#/record/')) {
+                        document.body.dataset.recordHash = 'pass';
+                      }
                       setTimeout(() => {
                         const readerLink = document.querySelector('#dialog-body [data-original-source-link]');
                         document.body.dataset.readerAnchorHref = readerLink?.getAttribute('href') || 'missing';
 
-                        // Hash routing: opening a record must put a deep link in
-                        // the URL; navigating by hash must switch views even with
-                        // the record dialog still open.
-                        if (location.hash.startsWith('#/record/')) {
-                          document.body.dataset.recordHash = 'pass';
-                        }
+                        // Navigating by hash must switch views even with the
+                        // record dialog still open.
                         location.hash = '#/audits';
                         setTimeout(() => {
                           setTimeout(() => {
@@ -361,6 +363,11 @@ fi
 
 if grep -Fq 'exist only in this browser' /tmp/religion-app-dom.html; then
   echo "Clean profile should not warn about unexported review decisions" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'class="side-nav"' /tmp/religion-app-dom.html; then
+  echo "Desktop sidebar navigation markup is missing" >&2
   exit 1
 fi
 
