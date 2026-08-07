@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 
-export const PARSER_VERSION = '1.1.0';
+export const PARSER_VERSION = '1.1.1';
 
 const PROVENANCE = Object.freeze({
   MY_WORDS: 'MY_WORDS',
@@ -65,18 +65,19 @@ function classifyRecordType(text, headingPath, inAudit) {
   if (inAudit && /^why it looked right\s*:/i.test(text)) return 'AUDIT_REASONING';
   if (inAudit && /^what survives/i.test(text)) return 'AUDIT_SURVIVAL';
   if (/\?$/.test(text.trim())) return 'QUESTION';
-  if (headingPath.some((h) => /glossary/i.test(h))) return 'DEFINITION';
+  if (headingPath.some((h) => h && /glossary/i.test(h))) return 'DEFINITION';
   if (t.startsWith('core stance:')) return 'POSITION';
   return inAudit ? 'AUDIT_NOTE' : 'OBSERVATION';
 }
 
 function stableId(sourceFile, sectionPath, ordinal, rawText) {
-  const input = `${sourceFile}\u0000${sectionPath.join(' > ')}\u0000${ordinal}\u0000${rawText}`;
+  const input = `${sourceFile}\u0000${sectionPath.filter(Boolean).join(' > ')}\u0000${ordinal}\u0000${rawText}`;
   return `rk_${crypto.createHash('sha256').update(input).digest('hex').slice(0, 20)}`;
 }
 
 function majorSection(headingPath) {
   for (const heading of headingPath) {
+    if (!heading) continue;
     const match = heading.match(/^(\d+)\b/);
     if (match) return Number(match[1]);
   }
@@ -245,7 +246,7 @@ export function parseMarkdown({ sourceFile, content }) {
       position_status: null,
       original_date: null,
       source_file: sourceFile,
-      source_section: headingPath.join(' > ') || null,
+      source_section: headingPath.filter(Boolean).join(' > ') || null,
       source_reference: `paragraph:${ordinal}`,
       parent_id: currentAuditId,
       related_ids: [],
@@ -273,7 +274,7 @@ export function parseMarkdown({ sourceFile, content }) {
 
       const auditMatch = title.match(/^⚑\s*AUDIT\s*[—-]\s*(.+)$/i);
       if (auditMatch) {
-        currentAuditId = `audit_${crypto.createHash('sha256').update(`${sourceFile}\u0000${headingPath.join(' > ')}`).digest('hex').slice(0, 20)}`;
+        currentAuditId = `audit_${crypto.createHash('sha256').update(`${sourceFile}\u0000${headingPath.filter(Boolean).join(' > ')}`).digest('hex').slice(0, 20)}`;
         auditTitles.set(currentAuditId, auditMatch[1].trim());
       } else if (level <= 3) {
         currentAuditId = null;
