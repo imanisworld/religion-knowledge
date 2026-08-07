@@ -1,39 +1,39 @@
 {
   "parser_version": "1.1.2",
   "canonical_files": 7,
-  "records": 1198,
+  "records": 1277,
   "warnings": 7,
-  "review_required": 650,
+  "review_required": 663,
   "provenance_counts": {
     "MY_WORDS": 24,
-    "REVIEW_REQUIRED": 650,
-    "SOURCE": 136,
-    "CLAUDE": 388
+    "REVIEW_REQUIRED": 663,
+    "SOURCE": 186,
+    "CLAUDE": 404
   },
   "record_type_counts": {
-    "OBSERVATION": 944,
+    "OBSERVATION": 966,
     "POSITION": 1,
-    "AUDIT_NOTE": 112,
-    "CLAIM": 4,
-    "AUDIT_STATUS": 10,
-    "CORRECTION": 7,
+    "AUDIT_NOTE": 148,
+    "CLAIM": 9,
+    "AUDIT_STATUS": 15,
+    "CORRECTION": 12,
+    "AUDIT_REASONING": 12,
     "AUDIT_SURVIVAL": 2,
-    "AUDIT_REASONING": 7,
-    "QUESTION": 17,
+    "QUESTION": 18,
     "DEFINITION": 94
   },
   "chunks": [
     {
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
-      "records": 182,
-      "size_bytes": 314979
+      "records": 253,
+      "size_bytes": 461784
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
       "records": 664,
-      "size_bytes": 901310
+      "size_bytes": 902974
     },
     {
       "source_file": "Glossary.md",
@@ -44,8 +44,8 @@
     {
       "source_file": "Historical_Framework.md",
       "file": "records.history.js",
-      "records": 86,
-      "size_bytes": 140451
+      "records": 94,
+      "size_bytes": 156563
     },
     {
       "source_file": "Sources_and_Primary_Texts.md",

@@ -374,7 +374,377 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b5f764e132e647134d2e",
+    "id": "rk_c988247dceb131de9e11",
+    "text": "CHECKED 7 AUG 2026",
+    "raw_text": "`CHECKED 7 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:13",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a24ceb703582cc8ad4d9",
+    "text": "AS RECORDED: Job's Satan is a functionary in the divine court, not the cosmic devil of later tradition. (§1.3, §2.)",
+    "raw_text": "**AS RECORDED:** Job's Satan is a functionary in the divine court, not the cosmic devil of later tradition. (§1.3, §2.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:14",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [
+      "rk_5e1c2f7df46ec3431c4e"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_d3aec1da17a26d95cd67",
+    "text": "STATUS: Holds, cleanly. This is one of the best-supported claims in the entire document — strengthen the citation, no correction needed to the substance.",
+    "raw_text": "**STATUS: Holds, cleanly. This is one of the best-supported claims in the entire document — strengthen the citation, no correction needed to the substance.**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "Holds, cleanly. This is one of the best-supported claims in the entire document — strengthen the citation, no correction needed to the substance.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:15",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [
+      "rk_5e1c2f7df46ec3431c4e"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2fea4bd1497d7a3a182f",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:16",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_ed2abfe39938b4abe212",
+    "text": "The philology is not contested. Ha-satan — the definite article ha plus satan (\"adversary,\" \"accuser,\" carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the bene ha-elohim (\"sons of God\"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. The standing scholarly reference for this reading is Peggy L. Day [CRITICAL], An Adversary in Heaven: śāṭān in the Hebrew Bible (Scholars Press, 1988) — the field's classic monograph on exactly this claim. Henry Ansgar Kelly [CRITICAL], Satan: A Biography (Cambridge, 2006), covers the same ground in more recent, broader scope.",
+    "raw_text": "**The philology is not contested.** *Ha-satan* — the definite article *ha* plus *satan* (\"adversary,\" \"accuser,\" carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the *bene ha-elohim* (\"sons of God\"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. **The standing scholarly reference for this reading is Peggy L. Day** [CRITICAL], *An Adversary in Heaven: śāṭān in the Hebrew Bible* (Scholars Press, 1988) — the field's classic monograph on exactly this claim. **Henry Ansgar Kelly** [CRITICAL], *Satan: A Biography* (Cambridge, 2006), covers the same ground in more recent, broader scope.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:17",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_6f773c84d36a24d557b3",
+    "text": "One precise detail worth adding, because it closes an obvious objection: ha-satan is never once called a malakh (\"angel\" / \"messenger\") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the malakhim who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.",
+    "raw_text": "**One precise detail worth adding, because it closes an obvious objection:** ha-satan is never once called a *malakh* (\"angel\" / \"messenger\") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the *malakhim* who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:18",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_f1ea928bc1cefa99529e",
+    "text": "The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely. It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: 1 Enoch has rebel \"Watchers\" descending and corrupting the earth. Jubilees introduces a named prince, Mastema, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The Testament of Job (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the original figure as bounded and subordinate.",
+    "raw_text": "**The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely.** It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: **1 Enoch** has rebel \"Watchers\" descending and corrupting the earth. **Jubilees** introduces a named prince, **Mastema**, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The **Testament of Job** (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the *original* figure as bounded and subordinate.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:19",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_52e8a0e0981d84a44a59",
+    "text": "On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4: the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — Mary Boyce [CRITICAL, the standard Zoroastrian-studies authority], Zoroastrians: Their Religious Beliefs and Practices. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.",
+    "raw_text": "**On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4:** the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — **Mary Boyce** [CRITICAL, the standard Zoroastrian-studies authority], *Zoroastrians: Their Religious Beliefs and Practices*. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:20",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_5e1c2f7df46ec3431c4e",
+    "text": "CORRECTED: No change to the substance — this claim survives audit intact. Ha-satan in Job and Zechariah is a bounded, subordinate prosecutorial role within the divine council, never called an angel, operating only under explicit divine authorization. The cosmic-adversary Satan of later Christian tradition develops in identifiable post-biblical texts — 1 Enoch, Jubilees, the Testament of Job — not in the Hebrew Bible itself. Possible Zoroastrian influence on that later development is a real scholarly conversation, not a demonstrated fact.",
+    "raw_text": "**CORRECTED:** *No change to the substance — this claim survives audit intact. Ha-satan in Job and Zechariah is a bounded, subordinate prosecutorial role within the divine council, never called an angel, operating only under explicit divine authorization. The cosmic-adversary Satan of later Christian tradition develops in identifiable post-biblical texts — 1 Enoch, Jubilees, the Testament of Job — not in the Hebrew Bible itself. Possible Zoroastrian influence on that later development is a real scholarly conversation, not a demonstrated fact.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:21",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [
+      "rk_a24ceb703582cc8ad4d9",
+      "rk_d3aec1da17a26d95cd67"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_1e858861b9cc9fc3a8be",
+    "text": "WHY IT LOOKED RIGHT : because it's correct — this is the one item in the queue that needed no correction, only better sourcing. Worth noting for calibration: not everything in the original notes was overstated. Recording \"holds, no change\" is as much the point of the audit process as recording a collapse.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** because it's correct — this is the one item in the queue that needed no correction, only better sourcing. Worth noting for calibration: not everything in the original notes was overstated. Recording \"holds, no change\" is as much the point of the audit process as recording a collapse.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:22",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_b54b2c6a7e559c2249ce",
+    "text": "Debate note: this is one of your strongest and most portable lines, because it requires no translation dispute and no contested dating — just reading Job 1 in English closely. Ask a believer to point to the verse where Job's Satan rebels, falls, or acts independently of God. There isn't one. The rebellion is a different, much later story grafted onto an earlier one.",
+    "raw_text": "**Debate note:** this is one of your strongest and most portable lines, because it requires no translation dispute and no contested dating — just reading Job 1 in English closely. Ask a believer to point to the verse where Job's Satan rebels, falls, or acts independently of God. There isn't one. The rebellion is a different, much later story grafted onto an earlier one.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:23",
+    "parent_id": "audit_a46a786dc9236f4dcd69",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_458d44408c2b0b053fae",
     "text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These aren't fringe passages — they're central to the theology.",
     "raw_text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These aren't fringe passages — they're central to the theology.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -392,7 +762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.4 Moral discomfort is constant",
-    "source_reference": "paragraph:13",
+    "source_reference": "paragraph:24",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -406,7 +776,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_aaf2000fbd02daee43db",
+    "id": "rk_b7e553930460c4a624e6",
     "text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
     "raw_text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -424,7 +794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.5 Selective law-keeping exposes human power",
-    "source_reference": "paragraph:14",
+    "source_reference": "paragraph:25",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -438,7 +808,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1f281db952704d2d8a07",
+    "id": "rk_99a291b0fdf165458bf9",
     "text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
     "raw_text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -456,7 +826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing",
-    "source_reference": "paragraph:15",
+    "source_reference": "paragraph:26",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -470,7 +840,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_08ad55651390baa8cb24",
+    "id": "rk_842c569fff106cdbce90",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -489,7 +859,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:16",
+    "source_reference": "paragraph:27",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -503,7 +873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e31b95b2cc38e43acc0d",
+    "id": "rk_8e86686fd6898ab1cd40",
     "text": "AS RECORDED: \"Humans appear to be born with only two innate fears (loud noises, falling); culturally installed fear frameworks — including fear of divine punishment — are learned, not intrinsic.\" (Session notes.)",
     "raw_text": "**AS RECORDED:** \"Humans appear to be born with only two innate fears (loud noises, falling); culturally installed fear frameworks — including fear of divine punishment — are learned, not intrinsic.\" (Session notes.)",
     "provenance_type": "SOURCE",
@@ -522,10 +892,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:17",
+    "source_reference": "paragraph:28",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [
-      "rk_49c1051a8fe2d29adaf7"
+      "rk_7547132df08203961aab"
     ],
     "tags": [],
     "citation": null,
@@ -538,7 +908,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_ec5dff1e1f1704f1f024",
+    "id": "rk_eac534bdf2030f1e06a7",
     "text": "STATUS: Collapses as stated. The conclusion it was supporting survives on better grounds.",
     "raw_text": "**STATUS: Collapses as stated. The conclusion it was supporting survives on better grounds.**",
     "provenance_type": "SOURCE",
@@ -557,10 +927,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:18",
+    "source_reference": "paragraph:29",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [
-      "rk_49c1051a8fe2d29adaf7"
+      "rk_7547132df08203961aab"
     ],
     "tags": [],
     "citation": null,
@@ -573,7 +943,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a501462f3cabcccd281e",
+    "id": "rk_5031e1a3ce1eb05fd483",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -592,7 +962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:19",
+    "source_reference": "paragraph:30",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -606,7 +976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0ba7c0daf0108e75a711",
+    "id": "rk_8638f32dde7d0bedb522",
     "text": "The claim's circulation pattern is the first warning: CNN health features, motivational books, Facebook and Instagram posts. It is a pop-psychology staple, not a finding developmental psychology asserts.",
     "raw_text": "The claim's circulation pattern is the first warning: CNN health features, motivational books, Facebook and Instagram posts. It is a pop-psychology staple, not a finding developmental psychology asserts.",
     "provenance_type": "SOURCE",
@@ -625,7 +995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:20",
+    "source_reference": "paragraph:31",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -639,7 +1009,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c002b4dd6ff9995c8e96",
+    "id": "rk_794886ab40d0c2c42910",
     "text": "It rests on exactly two studies, and neither supports it:",
     "raw_text": "It rests on exactly two studies, and neither supports it:",
     "provenance_type": "SOURCE",
@@ -658,7 +1028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:21",
+    "source_reference": "paragraph:32",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -672,7 +1042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d5831303f79bc3f349ad",
+    "id": "rk_842c843de3651483697e",
     "text": "Gibson & Walk (1960), the \"visual cliff.\" Tested infants aged 6 to 14 months — children who could already crawl. That is not \"born with.\" The standard developmental reading is that avoidance of the drop-off is tied to locomotor experience — crawling — not to age. [VERIFIED, August 2026.] Campos, Bertenthal & Kermoian, Psychological Science 3 (1992), report four studies: holding age constant, locomotor experience accounts for wariness of heights; artificial experience in a walker generates it; an orthopedically handicapped infant tested over time showed no wariness so long as he had no locomotor experience; and regardless of the age crawling begins, it is the duration of crawling and not age that predicts avoidance. Crawling infants show elevated heart rate on the deep side; pre-locomotor infants do not. Karen Adolph's later work pushes further still, arguing infants do not acquire a generalized fear of heights at all but learn what their own body can currently do. Either way, the fear is built through experience, which is the opposite of innate.",
     "raw_text": "**Gibson & Walk (1960), the \"visual cliff.\"** Tested infants aged **6 to 14 months** — children who could already crawl. That is not \"born with.\" The standard developmental reading is that avoidance of the drop-off is tied to **locomotor experience** — crawling — not to age. **[VERIFIED, August 2026.]** Campos, Bertenthal & Kermoian, *Psychological Science* 3 (1992), report four studies: holding age constant, locomotor experience accounts for wariness of heights; artificial experience in a walker generates it; an orthopedically handicapped infant tested over time showed no wariness so long as he had no locomotor experience; and regardless of the age crawling begins, it is the *duration* of crawling and not age that predicts avoidance. Crawling infants show elevated heart rate on the deep side; pre-locomotor infants do not. Karen Adolph's later work pushes further still, arguing infants do not acquire a generalized fear of heights at all but learn what their own body can currently do. Either way, the fear is **built through experience**, which is the opposite of innate.",
     "provenance_type": "SOURCE",
@@ -691,7 +1061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:22",
+    "source_reference": "paragraph:33",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -705,7 +1075,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_66edf3003b6865e14ece",
+    "id": "rk_bb48bf208b0c85d9ca01",
     "text": "Watson & Rayner (1920), \"Little Albert.\" Watson hypothesized that fear of loud noises is an innate unconditioned response — it was his premise, not his result. He also conceded in the published article that the fear he conditioned in the infant was neither strong nor lasting. The study is separately notorious on methodological and ethical grounds.",
     "raw_text": "**Watson & Rayner (1920), \"Little Albert.\"** Watson **hypothesized** that fear of loud noises is an innate unconditioned response — it was his premise, not his result. He also conceded in the published article that the fear he conditioned in the infant was neither strong nor lasting. The study is separately notorious on methodological and ethical grounds.",
     "provenance_type": "SOURCE",
@@ -724,7 +1094,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:23",
+    "source_reference": "paragraph:34",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -738,7 +1108,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_f8309a9043518824b472",
+    "id": "rk_8fb6345bbc7f73589fdc",
     "text": "The core category error: the acoustic startle reflex and the Moro reflex are reflexes — brainstem-level defensive responses — not fears. Fear is a functional emotional state with appraisal. Conflating the two is what makes the claim sound rigorous.",
     "raw_text": "**The core category error:** the acoustic startle reflex and the Moro reflex are **reflexes** — brainstem-level defensive responses — not fears. Fear is a functional emotional state with appraisal. Conflating the two is what makes the claim sound rigorous.",
     "provenance_type": "SOURCE",
@@ -757,7 +1127,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:24",
+    "source_reference": "paragraph:35",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -771,7 +1141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3436ed8b3878b4df6bc8",
+    "id": "rk_ad51ab689e313adb2212",
     "text": "What developmental psychology actually holds: newborns display a limited set of innate defensive responses (startle to loud sound, Moro reflex to sudden loss of support, withdrawal from pain). Fear as a functional emotion develops through innate predispositions plus maturation plus learning. And the predispositions are not two — infants are biased toward rapid threat learning about loud abrupt sounds, sudden loss of support, looming objects, snake- and spider-like visual features, angry faces, and social separation. Stranger anxiety and separation anxiety emerge around 6–12 months; fear of the dark, animals, and the unknown in toddlerhood; cognitive fears of social evaluation, harm, and death from school age.",
     "raw_text": "**What developmental psychology actually holds:** newborns display a limited set of innate defensive responses (startle to loud sound, Moro reflex to sudden loss of support, withdrawal from pain). Fear as a functional emotion develops through innate predispositions plus maturation plus learning. And the predispositions are **not two** — infants are biased toward rapid threat learning about loud abrupt sounds, sudden loss of support, looming objects, snake- and spider-like visual features, angry faces, and social separation. Stranger anxiety and separation anxiety emerge around 6–12 months; fear of the dark, animals, and the unknown in toddlerhood; cognitive fears of social evaluation, harm, and death from school age.",
     "provenance_type": "SOURCE",
@@ -790,7 +1160,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:25",
+    "source_reference": "paragraph:36",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -804,7 +1174,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_49c1051a8fe2d29adaf7",
+    "id": "rk_7547132df08203961aab",
     "text": "CORRECTED: Humans are not born with two fears. Newborns have defensive reflexes, and a broader set of evolutionarily prepared biases that make certain threats fast to learn. Fear as an emotion is constructed developmentally.",
     "raw_text": "**CORRECTED:** *Humans are not born with two fears. Newborns have defensive reflexes, and a broader set of evolutionarily prepared biases that make certain threats fast to learn. Fear as an emotion is constructed developmentally.*",
     "provenance_type": "SOURCE",
@@ -823,11 +1193,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:26",
+    "source_reference": "paragraph:37",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [
-      "rk_e31b95b2cc38e43acc0d",
-      "rk_ec5dff1e1f1704f1f024"
+      "rk_8e86686fd6898ab1cd40",
+      "rk_eac534bdf2030f1e06a7"
     ],
     "tags": [],
     "citation": null,
@@ -840,7 +1210,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5f72f18fbb937d70d370",
+    "id": "rk_0342d1b95d900f519c7a",
     "text": "WHAT SURVIVES, AND IT IS THE PART THAT MATTERED : Fear of divine punishment is not innate. That conclusion never needed the \"two fears\" premise, and it stands on stronger ground without it — the prepared biases are all toward immediate, physically present, evolutionarily ancient threat classes. Abstract supernatural fears are in none of them. Fear of hell requires language, narrative, doctrine, and instruction. It is transmitted, not inherited. Make that argument instead; it is both true and unfalsifiable by the counterexample that sinks the two-fears version.",
     "raw_text": "**WHAT SURVIVES, AND IT IS THE PART THAT MATTERED** ⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩**:** Fear of divine punishment is not innate. That conclusion never needed the \"two fears\" premise, and it stands on stronger ground without it — the prepared biases are all toward **immediate, physically present, evolutionarily ancient** threat classes. Abstract supernatural fears are in none of them. Fear of hell requires language, narrative, doctrine, and instruction. It is transmitted, not inherited. Make that argument instead; it is both true and unfalsifiable by the counterexample that sinks the two-fears version.",
     "provenance_type": "CLAUDE",
@@ -859,7 +1229,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:27",
+    "source_reference": "paragraph:38",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -873,7 +1243,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c2bd768ff32bc146c2df",
+    "id": "rk_e7cb97cb110c29b72ef5",
     "text": "WHY IT LOOKED RIGHT : It is clean, memorable, quantified, and it arrives pre-packaged as a fact. Numbers in a claim create an impression of measurement. The specificity of \"two\" is doing rhetorical work that no study supports.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It is clean, memorable, quantified, and it arrives pre-packaged as a fact. Numbers in a claim create an impression of measurement. The specificity of \"two\" is doing rhetorical work that no study supports.",
     "provenance_type": "CLAUDE",
@@ -892,7 +1262,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:28",
+    "source_reference": "paragraph:39",
     "parent_id": "audit_a8078370de87325e3869",
     "related_ids": [],
     "tags": [],
@@ -906,7 +1276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4f5c99e3f8511b8cf60a",
+    "id": "rk_0894af51f53fd701a7c3",
     "text": "Early 'Israel' is Jacob's name and his descendants. Later it becomes national identity. Modern uses of the term conflate these layers in ways that create confusion — political and theological simultaneously.",
     "raw_text": "Early 'Israel' is Jacob's name and his descendants. Later it becomes national identity. Modern uses of the term conflate these layers in ways that create confusion — political and theological simultaneously.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -924,7 +1294,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.7 Israel as people vs. place",
-    "source_reference": "paragraph:29",
+    "source_reference": "paragraph:40",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -938,7 +1308,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5a88a63818b44d0eb733",
+    "id": "rk_102509e90a847a3d0b2b",
     "text": "Exile and empire reshape God concepts across the OT. The prophets are largely political and trauma literature more than universal moral instruction. Reading them as timeless divine commands strips the historical context that explains why they were written.",
     "raw_text": "Exile and empire reshape God concepts across the OT. The prophets are largely political and trauma literature more than universal moral instruction. Reading them as timeless divine commands strips the historical context that explains why they were written.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -956,7 +1326,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology",
-    "source_reference": "paragraph:30",
+    "source_reference": "paragraph:41",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -970,7 +1340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_325d0728c35c84a7ba25",
+    "id": "rk_d941d03ac3e64eac55e1",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -989,7 +1359,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:31",
+    "source_reference": "paragraph:42",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1003,7 +1373,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4c444ba600151581afc2",
+    "id": "rk_455a7d0c8490d1ffb329",
     "text": "AS RECORDED: \"The Exodus narrative was likely compiled during the Babylonian exile as identity-forming literature.\" (Session notes; related material at §1.8.)",
     "raw_text": "**AS RECORDED:** \"The Exodus narrative was likely compiled during the Babylonian exile as identity-forming literature.\" (Session notes; related material at §1.8.)",
     "provenance_type": "SOURCE",
@@ -1022,10 +1392,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:32",
+    "source_reference": "paragraph:43",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [
-      "rk_2668353c772cf1b27a5d"
+      "rk_ce79c6bd146853b81a12"
     ],
     "tags": [],
     "citation": null,
@@ -1038,7 +1408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_f318ca9152e7a85bd2e7",
+    "id": "rk_8b9b6619ef2590528b9f",
     "text": "STATUS: Overstated on dating. Core insight holds.",
     "raw_text": "**STATUS: Overstated on dating. Core insight holds.**",
     "provenance_type": "SOURCE",
@@ -1057,10 +1427,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:33",
+    "source_reference": "paragraph:44",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [
-      "rk_2668353c772cf1b27a5d"
+      "rk_ce79c6bd146853b81a12"
     ],
     "tags": [],
     "citation": null,
@@ -1073,7 +1443,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_20156b3f7147b4c47ed0",
+    "id": "rk_485554478e93cbce1e79",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -1092,7 +1462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:34",
+    "source_reference": "paragraph:45",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1106,7 +1476,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_819dc695f6f73c5983b9",
+    "id": "rk_94b1b9f34216d828832d",
     "text": "The specific dating collapsed a multi-stage process into one phase. The mainstream critical reconstruction is layered: crystallization across the 7th–6th centuries — either under Josiah's reforms or in the Babylonian exile — as Judahite scribes retrojected pan-Israelite origins onto highland villages that emerged from Canaanite society around 1200 BCE. On top of that sits an exilic or post-exilic Priestly redaction that rewrote earlier material to elevate the exodus to mythic status, casting Pharaoh as the ANE chaos monster.",
     "raw_text": "The specific dating collapsed a multi-stage process into one phase. The mainstream critical reconstruction is layered: crystallization across the 7th–6th centuries — either under Josiah's reforms or in the Babylonian exile — as Judahite scribes retrojected pan-Israelite origins onto highland villages that emerged from Canaanite society around 1200 BCE. On top of that sits an exilic or post-exilic Priestly redaction that rewrote earlier material to elevate the exodus to mythic status, casting Pharaoh as the ANE chaos monster.",
     "provenance_type": "SOURCE",
@@ -1125,7 +1495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:35",
+    "source_reference": "paragraph:46",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1139,7 +1509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_96c8b80d6cb040b728af",
+    "id": "rk_d652278add2f9cf2cd7f",
     "text": "Jaeyoung Jeon [CRITICAL] pushes the decisive shaping later still: major parts of the wilderness narrative composed in the Persian period, in the context of return and restoration, by competing scribal circles in Yehud and the diaspora — leaving the text as a record of scribal debates rather than a single voice.",
     "raw_text": "Jaeyoung Jeon [CRITICAL] pushes the decisive shaping later still: major parts of the wilderness narrative composed in the **Persian period**, in the context of return and restoration, by competing scribal circles in Yehud and the diaspora — leaving the text as a record of scribal debates rather than a single voice.",
     "provenance_type": "SOURCE",
@@ -1158,7 +1528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:36",
+    "source_reference": "paragraph:47",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1172,7 +1542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_00959c4b877c0e2a654c",
+    "id": "rk_7e8dc3301494a93aa744",
     "text": "Israel Finkelstein [CRITICAL / archaeological, low chronology] adds that on one reconstruction the exodus is solely a Northern Kingdom origin tradition, with any Judean contribution no earlier than the exilic period.",
     "raw_text": "Israel Finkelstein [CRITICAL / archaeological, low chronology] adds that on one reconstruction the exodus is solely a **Northern Kingdom** origin tradition, with any Judean contribution no earlier than the exilic period.",
     "provenance_type": "SOURCE",
@@ -1191,7 +1561,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:37",
+    "source_reference": "paragraph:48",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1205,7 +1575,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3d5495974e255ae2cae5",
+    "id": "rk_ce7f9bae13809e6b6c47",
     "text": "Worse than the dating error: the original claim implied a consensus that does not exist. Pentateuchal composition is the most contested area in Hebrew Bible studies, and the disagreement is methodological, not just chronological:",
     "raw_text": "Worse than the dating error: the original claim implied a consensus that does not exist. Pentateuchal composition is the most contested area in Hebrew Bible studies, and the disagreement is **methodological**, not just chronological:",
     "provenance_type": "SOURCE",
@@ -1224,7 +1594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:38",
+    "source_reference": "paragraph:49",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1238,7 +1608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3a4902f3ad29adec56bb",
+    "id": "rk_19d74a6a401f02e7c33c",
     "text": "Neo-Documentarians — Baruch Schwartz [NEO-DOCUMENTARIAN, Hebrew University], Joel Baden (The Composition of the Pentateuch, Yale 2012), Jeffrey Stackert. Mostly North American and Israeli. Hold a refined J/E/D/P model.\n- European school — Konrad Schmid, Thomas Römer, Jan Christian Gertz, following Rolf Rendtorff. Redaction-critical and supplementary models. Published a volume titled A Farewell to the Yahwist?\n- The two sides do not agree that the sources exist. Schmid answered Baden directly in \"The Neo-Documentarian Manifesto: A Critical Reading,\" JBL 140 (2021).",
     "raw_text": "- **Neo-Documentarians** — Baruch Schwartz [NEO-DOCUMENTARIAN, Hebrew University], Joel Baden (*The Composition of the Pentateuch*, Yale 2012), Jeffrey Stackert. Mostly North American and Israeli. Hold a refined J/E/D/P model.\n- **European school** — Konrad Schmid, Thomas Römer, Jan Christian Gertz, following Rolf Rendtorff. Redaction-critical and supplementary models. Published a volume titled *A Farewell to the Yahwist?*\n- The two sides do not agree that the sources exist. Schmid answered Baden directly in \"The Neo-Documentarian Manifesto: A Critical Reading,\" *JBL* 140 (2021).",
     "provenance_type": "SOURCE",
@@ -1257,7 +1627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:39",
+    "source_reference": "paragraph:50",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1271,7 +1641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c06a4711328ed20cf4df",
+    "id": "rk_4f00750fa08e79c4dea6",
     "text": "Traditional case at full strength: James K. Hoffmeier [CONSERVATIVE-EVANGELICAL, Egyptologist], Israel in Egypt (Oxford 1997) and Ancient Israel in Sinai (Oxford 2005). His strongest move is literary, not archaeological — Egyptian names, titles, and geography in the text that become hard to explain if composed after the New Kingdom, i.e. that a 6th-century Judahite scribe had no plausible access to. He also notes that Egyptologists and ANE specialists tend to be less skeptical of the text than biblical scholars are. Note he is not a maximalist: he takes a 13th-century date and is attacked from the right by Bryant Wood [CONSERVATIVE-EVANGELICAL, 1446 BC date, JETS 50/2] for delivering less evidence than promised. Archaeological counter to Finkelstein: radiocarbon dating and Khirbet Qeiyafa (fortress c. 1000 BCE) showing urban complexity inconsistent with low-chronology timelines.",
     "raw_text": "**Traditional case at full strength:** James K. Hoffmeier [CONSERVATIVE-EVANGELICAL, Egyptologist], *Israel in Egypt* (Oxford 1997) and *Ancient Israel in Sinai* (Oxford 2005). His strongest move is literary, not archaeological — Egyptian names, titles, and geography in the text that become hard to explain if composed after the New Kingdom, i.e. that a 6th-century Judahite scribe had no plausible access to. He also notes that Egyptologists and ANE specialists tend to be less skeptical of the text than biblical scholars are. Note he is **not** a maximalist: he takes a 13th-century date and is attacked from the right by Bryant Wood [CONSERVATIVE-EVANGELICAL, 1446 BC date, *JETS* 50/2] for delivering less evidence than promised. Archaeological counter to Finkelstein: radiocarbon dating and Khirbet Qeiyafa (fortress c. 1000 BCE) showing urban complexity inconsistent with low-chronology timelines.",
     "provenance_type": "SOURCE",
@@ -1290,7 +1660,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:40",
+    "source_reference": "paragraph:51",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1304,7 +1674,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e9395f00f98d872584b9",
+    "id": "rk_e6536c08a2d31680f7e0",
     "text": "What survives, strongly: \"Identity-forming literature\" is not a fringe reading — it is the mainstream critical frame. Finkelstein treats the Exodus as a charter myth, blending faint memories of Semitic labor in Egypt with invented etiology, unsupported by Canaanite settlement patterns showing no influx around 1400 or 1200 BCE. William Dever [CRITICAL, archaeologist, anti-minimalist] points to anachronisms — Philistines (arriving only after 1200 BCE) and domesticated camels (not reliably attested before the 10th century) — indicating Iron Age or later redaction.",
     "raw_text": "**What survives, strongly:** \"Identity-forming literature\" is not a fringe reading — it is the mainstream critical frame. Finkelstein treats the Exodus as a **charter myth**, blending faint memories of Semitic labor in Egypt with invented etiology, unsupported by Canaanite settlement patterns showing no influx around 1400 or 1200 BCE. William Dever [CRITICAL, archaeologist, anti-minimalist] points to anachronisms — Philistines (arriving only after 1200 BCE) and domesticated camels (not reliably attested before the 10th century) — indicating Iron Age or later redaction.",
     "provenance_type": "SOURCE",
@@ -1323,7 +1693,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:41",
+    "source_reference": "paragraph:52",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1337,7 +1707,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2668353c772cf1b27a5d",
+    "id": "rk_ce79c6bd146853b81a12",
     "text": "CORRECTED: The Exodus narrative is a composite text assembled over centuries, with decisive shaping somewhere between the 7th century and the Persian period, functioning as origin literature for a community defining itself — not as a report of the events it describes. Which stage did the decisive work is genuinely unsettled, and the two main scholarly schools disagree on method, not merely dates.",
     "raw_text": "**CORRECTED:** *The Exodus narrative is a composite text assembled over centuries, with decisive shaping somewhere between the 7th century and the Persian period, functioning as origin literature for a community defining itself — not as a report of the events it describes. Which stage did the decisive work is genuinely unsettled, and the two main scholarly schools disagree on method, not merely dates.*",
     "provenance_type": "SOURCE",
@@ -1356,11 +1726,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:42",
+    "source_reference": "paragraph:53",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [
-      "rk_4c444ba600151581afc2",
-      "rk_f318ca9152e7a85bd2e7"
+      "rk_455a7d0c8490d1ffb329",
+      "rk_8b9b6619ef2590528b9f"
     ],
     "tags": [],
     "citation": null,
@@ -1373,7 +1743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d3b58a6024b9398b2fad",
+    "id": "rk_2fb60f8713debc90d20f",
     "text": "WHY IT LOOKED RIGHT : The exilic framing is the most emotionally resonant version — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered version is harder to attack and costs an opponent more, because \"which layer\" is a question they cannot answer either.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The exilic framing is the most emotionally resonant version — displaced people telling themselves a deliverance story. It is also the least defensible as a specific claim. The layered version is harder to attack and costs an opponent more, because \"which layer\" is a question they cannot answer either.",
     "provenance_type": "CLAUDE",
@@ -1392,7 +1762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:43",
+    "source_reference": "paragraph:54",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1406,7 +1776,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_95ddcd377d18fa2430a1",
+    "id": "rk_e9e8378b9e786a19450c",
     "text": "Debate note: the stage you pick changes the argument. Josianic = monarchic state-building propaganda. Exilic = displaced-people identity literature. Persian = negotiated document among rival factions. Use the layered version.",
     "raw_text": "**Debate note:** the stage you pick changes the argument. Josianic = monarchic state-building propaganda. Exilic = displaced-people identity literature. Persian = negotiated document among rival factions. Use the layered version.",
     "provenance_type": "SOURCE",
@@ -1425,7 +1795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — Exodus Composition and Dating",
-    "source_reference": "paragraph:44",
+    "source_reference": "paragraph:55",
     "parent_id": "audit_132aaef4b3ce9355974c",
     "related_ids": [],
     "tags": [],
@@ -1439,379 +1809,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d3715ac46559de4cb938",
+    "id": "rk_dda1f959ce02753b1ece",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:45",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_e4cd88ab06c2d341797e",
-    "text": "AS RECORDED: \"The 'eleph' translation issue scales population numbers to historically plausible ranges.\" (Session notes.)",
-    "raw_text": "**AS RECORDED:** \"The 'eleph' translation issue scales population numbers to historically plausible ranges.\" (Session notes.)",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "CLAIM",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:46",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [
-      "rk_afa18611adf57e640b6b"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_e7c67b28cee627a5b895",
-    "text": "STATUS: Substantially wrong in framing. Presented as a critical finding; it is primarily a conservative harmonization.",
-    "raw_text": "**STATUS: Substantially wrong in framing. Presented as a critical finding; it is primarily a conservative harmonization.**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_STATUS",
-    "status": "Substantially wrong in framing. Presented as a critical finding; it is primarily a conservative harmonization.",
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:47",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [
-      "rk_afa18611adf57e640b6b"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_faedc174d815baecd1b9",
-    "text": "AUDIT",
-    "raw_text": "**AUDIT**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:48",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_07102b9bb2c86d4f5aea",
-    "text": "The proposal has a real lineage: W. M. F. Petrie (1931), George Mendenhall (1958) [CRITICAL], Abraham Malamat (1967), John Wenham (1967, 1981) [CONSERVATIVE-EVANGELICAL], Norman Gottwald (1979) [CRITICAL, sociological], David Fouts (1992, 1997) [CONSERVATIVE-EVANGELICAL], Colin Humphreys (1998, 2000) [physicist, conservative-sympathetic], Peter Briggs (2007). The philological basis is not baseless: eleph is etymologically connected to \"head of cattle\" (cf. the letter aleph), plausibly applied first to a village or population unit in a pastoral-agricultural society, then to the quota a clan supplied for the military muster, and only later to the number 1,000. Genesis 36:15 and Exodus 15:15 use a cognate for \"chief/clan.\"",
-    "raw_text": "The proposal has a real lineage: W. M. F. Petrie (1931), George Mendenhall (1958) [CRITICAL], Abraham Malamat (1967), John Wenham (1967, 1981) [CONSERVATIVE-EVANGELICAL], Norman Gottwald (1979) [CRITICAL, sociological], David Fouts (1992, 1997) [CONSERVATIVE-EVANGELICAL], Colin Humphreys (1998, 2000) [physicist, conservative-sympathetic], Peter Briggs (2007). The philological basis is not baseless: *eleph* is etymologically connected to \"head of cattle\" (cf. the letter aleph), plausibly applied first to a village or population unit in a pastoral-agricultural society, then to the quota a clan supplied for the military muster, and only later to the number 1,000. Genesis 36:15 and Exodus 15:15 use a cognate for \"chief/clan.\"",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:49",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_7c12f640cc8125465e63",
-    "text": "The problem is that the method does not converge. Same technique, wildly different answers for the number leaving Egypt: Petrie ≈ 5,550. Mendenhall and Humphreys ≈ 20,000. Wenham ≈ 72,000. An order-of-magnitude spread from scholars applying the same fix is the signature of a method being steered to a desired result rather than reading one off the text.",
-    "raw_text": "**The problem is that the method does not converge.** Same technique, wildly different answers for the number leaving Egypt: Petrie ≈ 5,550. Mendenhall and Humphreys ≈ 20,000. Wenham ≈ 72,000. An order-of-magnitude spread from scholars applying the same fix is the signature of a method being steered to a desired result rather than reading one off the text.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:50",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_1117449323acd2a9abf6",
-    "text": "Internal objections (Jim Snapp, Evangelical Textual Criticism): it is strange to record an exact count of squads alongside an inexact count of men; a \"squad\" statistic that does not represent a fixed number of men has no evident purpose; and a total population near 22,000 could not survive Numbers 16:49 (14,700 dead) and Numbers 25:9 (24,000 dead). Gleason Archer [CONSERVATIVE-EVANGELICAL] rejects the proposal and defends the text as it stands.",
-    "raw_text": "**Internal objections** (Jim Snapp, *Evangelical Textual Criticism*): it is strange to record an exact count of squads alongside an inexact count of men; a \"squad\" statistic that does not represent a fixed number of men has no evident purpose; and a total population near 22,000 could not survive Numbers 16:49 (14,700 dead) and Numbers 25:9 (24,000 dead). Gleason Archer [CONSERVATIVE-EVANGELICAL] rejects the proposal and defends the text as it stands.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:51",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_0fb14def9ead47357bea",
-    "text": "The decisive point I missed : the eleph solution's main constituency is apologetic. It is promoted heavily by Associates for Biblical Research [CONSERVATIVE-EVANGELICAL apologetics organization] and cited approvingly by Hoffmeier (2005: 153–59). Its function is to rescue the historicity of the census by converting an impossible number into a plausible one without abandoning the text.",
-    "raw_text": "**The decisive point I missed** ⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩**:** the *eleph* solution's main constituency is **apologetic**. It is promoted heavily by Associates for Biblical Research [CONSERVATIVE-EVANGELICAL apologetics organization] and cited approvingly by Hoffmeier (2005: 153–59). Its function is to rescue the historicity of the census by converting an impossible number into a plausible one without abandoning the text.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:52",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩"
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_81da0c23d60031ae489f",
-    "text": "The actual mainstream critical position is simpler and does not need the fix at all: the numbers are not historical, full stop. Eryl W. Davies [CRITICAL] states that OT scholars have long recognized the Numbers 1 and 26 figures cannot represent the number of Israelites who left Egypt — a judgment running back through Colenso (1871), Dillmann (1886), Gray (1903), and forward through Rogerson (1984) and Davies (1995). The figures are read as schematic, literary, or theological constructions.",
-    "raw_text": "**The actual mainstream critical position is simpler and does not need the fix at all:** the numbers are not historical, full stop. Eryl W. Davies [CRITICAL] states that OT scholars have long recognized the Numbers 1 and 26 figures cannot represent the number of Israelites who left Egypt — a judgment running back through Colenso (1871), Dillmann (1886), Gray (1903), and forward through Rogerson (1984) and Davies (1995). The figures are read as schematic, literary, or theological constructions.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:53",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_afa18611adf57e640b6b",
-    "text": "CORRECTED: The census numbers in Numbers 1 and 26 are not historical. The eleph proposal is a real philological hypothesis with a defensible semantic basis, but it is chiefly deployed to preserve the text's historicity, and its practitioners produce results differing by an order of magnitude. The critical position does not require it: the numbers are literary and theological, not demographic.",
-    "raw_text": "**CORRECTED:** *The census numbers in Numbers 1 and 26 are not historical. The* eleph *proposal is a real philological hypothesis with a defensible semantic basis, but it is chiefly deployed to preserve the text's historicity, and its practitioners produce results differing by an order of magnitude. The critical position does not require it: the numbers are literary and theological, not demographic.*",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "CORRECTION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:54",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [
-      "rk_e4cd88ab06c2d341797e",
-      "rk_e7c67b28cee627a5b895"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_adf8f483477320705126",
-    "text": "WHY IT LOOKED RIGHT : It converts an obviously impossible number into a plausible one without discarding the text — exactly the shape of a solution adopted for convenience rather than evidence. Same failure mode as the narrowing readings of Leviticus 18:22: a fix that resolves discomfort is not thereby a finding.",
-    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It converts an obviously impossible number into a plausible one without discarding the text — exactly the shape of a solution adopted for convenience rather than evidence. Same failure mode as the narrowing readings of Leviticus 18:22: a fix that resolves discomfort is not thereby a finding.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
-    "topics": [
-      "Bible Deep Dive: Master Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.8 National trauma shaped theology",
-      "⚑ AUDIT — The eleph Census Solution"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_REASONING",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
-    "source_reference": "paragraph:55",
-    "parent_id": "audit_d8f43bb64ecc20d44a88",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE⟩"
-    },
-    "review_required": false,
-    "parser_version": "1.1.2"
-  },
-  {
-    "id": "rk_87c99d0702e901a2ce33",
-    "text": "Debate note: do not use the eleph argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.",
-    "raw_text": "**Debate note:** do not use the *eleph* argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -1842,7 +1842,377 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c2b6a28dc70a59a49a1f",
+    "id": "rk_53e484d8938e070d4421",
+    "text": "AS RECORDED: \"The 'eleph' translation issue scales population numbers to historically plausible ranges.\" (Session notes.)",
+    "raw_text": "**AS RECORDED:** \"The 'eleph' translation issue scales population numbers to historically plausible ranges.\" (Session notes.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:57",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [
+      "rk_56c5e45b4f2c96d60823"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_52dc09da18271abaeaed",
+    "text": "STATUS: Substantially wrong in framing. Presented as a critical finding; it is primarily a conservative harmonization.",
+    "raw_text": "**STATUS: Substantially wrong in framing. Presented as a critical finding; it is primarily a conservative harmonization.**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "Substantially wrong in framing. Presented as a critical finding; it is primarily a conservative harmonization.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:58",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [
+      "rk_56c5e45b4f2c96d60823"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a6080282fd3e2f3ddbae",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:59",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_74bcc62c180f8fd32956",
+    "text": "The proposal has a real lineage: W. M. F. Petrie (1931), George Mendenhall (1958) [CRITICAL], Abraham Malamat (1967), John Wenham (1967, 1981) [CONSERVATIVE-EVANGELICAL], Norman Gottwald (1979) [CRITICAL, sociological], David Fouts (1992, 1997) [CONSERVATIVE-EVANGELICAL], Colin Humphreys (1998, 2000) [physicist, conservative-sympathetic], Peter Briggs (2007). The philological basis is not baseless: eleph is etymologically connected to \"head of cattle\" (cf. the letter aleph), plausibly applied first to a village or population unit in a pastoral-agricultural society, then to the quota a clan supplied for the military muster, and only later to the number 1,000. Genesis 36:15 and Exodus 15:15 use a cognate for \"chief/clan.\"",
+    "raw_text": "The proposal has a real lineage: W. M. F. Petrie (1931), George Mendenhall (1958) [CRITICAL], Abraham Malamat (1967), John Wenham (1967, 1981) [CONSERVATIVE-EVANGELICAL], Norman Gottwald (1979) [CRITICAL, sociological], David Fouts (1992, 1997) [CONSERVATIVE-EVANGELICAL], Colin Humphreys (1998, 2000) [physicist, conservative-sympathetic], Peter Briggs (2007). The philological basis is not baseless: *eleph* is etymologically connected to \"head of cattle\" (cf. the letter aleph), plausibly applied first to a village or population unit in a pastoral-agricultural society, then to the quota a clan supplied for the military muster, and only later to the number 1,000. Genesis 36:15 and Exodus 15:15 use a cognate for \"chief/clan.\"",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:60",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_b31594250a5fe58d32c4",
+    "text": "The problem is that the method does not converge. Same technique, wildly different answers for the number leaving Egypt: Petrie ≈ 5,550. Mendenhall and Humphreys ≈ 20,000. Wenham ≈ 72,000. An order-of-magnitude spread from scholars applying the same fix is the signature of a method being steered to a desired result rather than reading one off the text.",
+    "raw_text": "**The problem is that the method does not converge.** Same technique, wildly different answers for the number leaving Egypt: Petrie ≈ 5,550. Mendenhall and Humphreys ≈ 20,000. Wenham ≈ 72,000. An order-of-magnitude spread from scholars applying the same fix is the signature of a method being steered to a desired result rather than reading one off the text.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:61",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_12c7317d58a6d4f035cf",
+    "text": "Internal objections (Jim Snapp, Evangelical Textual Criticism): it is strange to record an exact count of squads alongside an inexact count of men; a \"squad\" statistic that does not represent a fixed number of men has no evident purpose; and a total population near 22,000 could not survive Numbers 16:49 (14,700 dead) and Numbers 25:9 (24,000 dead). Gleason Archer [CONSERVATIVE-EVANGELICAL] rejects the proposal and defends the text as it stands.",
+    "raw_text": "**Internal objections** (Jim Snapp, *Evangelical Textual Criticism*): it is strange to record an exact count of squads alongside an inexact count of men; a \"squad\" statistic that does not represent a fixed number of men has no evident purpose; and a total population near 22,000 could not survive Numbers 16:49 (14,700 dead) and Numbers 25:9 (24,000 dead). Gleason Archer [CONSERVATIVE-EVANGELICAL] rejects the proposal and defends the text as it stands.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:62",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_d746c88c12e783ab4027",
+    "text": "The decisive point I missed : the eleph solution's main constituency is apologetic. It is promoted heavily by Associates for Biblical Research [CONSERVATIVE-EVANGELICAL apologetics organization] and cited approvingly by Hoffmeier (2005: 153–59). Its function is to rescue the historicity of the census by converting an impossible number into a plausible one without abandoning the text.",
+    "raw_text": "**The decisive point I missed** ⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩**:** the *eleph* solution's main constituency is **apologetic**. It is promoted heavily by Associates for Biblical Research [CONSERVATIVE-EVANGELICAL apologetics organization] and cited approvingly by Hoffmeier (2005: 153–59). Its function is to rescue the historicity of the census by converting an impossible number into a plausible one without abandoning the text.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:63",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_66bdf4f3231a11aaf5fd",
+    "text": "The actual mainstream critical position is simpler and does not need the fix at all: the numbers are not historical, full stop. Eryl W. Davies [CRITICAL] states that OT scholars have long recognized the Numbers 1 and 26 figures cannot represent the number of Israelites who left Egypt — a judgment running back through Colenso (1871), Dillmann (1886), Gray (1903), and forward through Rogerson (1984) and Davies (1995). The figures are read as schematic, literary, or theological constructions.",
+    "raw_text": "**The actual mainstream critical position is simpler and does not need the fix at all:** the numbers are not historical, full stop. Eryl W. Davies [CRITICAL] states that OT scholars have long recognized the Numbers 1 and 26 figures cannot represent the number of Israelites who left Egypt — a judgment running back through Colenso (1871), Dillmann (1886), Gray (1903), and forward through Rogerson (1984) and Davies (1995). The figures are read as schematic, literary, or theological constructions.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:64",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_56c5e45b4f2c96d60823",
+    "text": "CORRECTED: The census numbers in Numbers 1 and 26 are not historical. The eleph proposal is a real philological hypothesis with a defensible semantic basis, but it is chiefly deployed to preserve the text's historicity, and its practitioners produce results differing by an order of magnitude. The critical position does not require it: the numbers are literary and theological, not demographic.",
+    "raw_text": "**CORRECTED:** *The census numbers in Numbers 1 and 26 are not historical. The* eleph *proposal is a real philological hypothesis with a defensible semantic basis, but it is chiefly deployed to preserve the text's historicity, and its practitioners produce results differing by an order of magnitude. The critical position does not require it: the numbers are literary and theological, not demographic.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:65",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [
+      "rk_53e484d8938e070d4421",
+      "rk_52dc09da18271abaeaed"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_e43a575337aa899b7efe",
+    "text": "WHY IT LOOKED RIGHT : It converts an obviously impossible number into a plausible one without discarding the text — exactly the shape of a solution adopted for convenience rather than evidence. Same failure mode as the narrowing readings of Leviticus 18:22: a fix that resolves discomfort is not thereby a finding.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It converts an obviously impossible number into a plausible one without discarding the text — exactly the shape of a solution adopted for convenience rather than evidence. Same failure mode as the narrowing readings of Leviticus 18:22: a fix that resolves discomfort is not thereby a finding.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:66",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_9210a52f23fdedc76669",
+    "text": "Debate note: do not use the eleph argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.",
+    "raw_text": "**Debate note:** do not use the *eleph* argument. It hands a believer a conservative harmonization and lets them argue historicity on your own terms. Say the numbers are schematic and ask what a text is doing when it reports 600,000 fighting men in a desert that shows no trace of them.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.8 National trauma shaped theology",
+      "⚑ AUDIT — The eleph Census Solution"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 1. Big Framework Takeaways (Old Testament) > 1.8 National trauma shaped theology > ⚑ AUDIT — The eleph Census Solution",
+    "source_reference": "paragraph:67",
+    "parent_id": "audit_d8f43bb64ecc20d44a88",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_57e1ff6a4946e290164f",
     "text": "Genesis 1:27 — 'adam' = humanity/humankind (collective), not a personal name 'Adam.' 'Male and female' are biological classification terms that don't automatically imply hierarchy.",
     "raw_text": "Genesis 1:27 — 'adam' = humanity/humankind (collective), not a personal name 'Adam.' 'Male and female' are biological classification terms that don't automatically imply hierarchy.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -1859,7 +2229,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues",
-    "source_reference": "paragraph:57",
+    "source_reference": "paragraph:68",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1873,7 +2243,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0a33cd962cb9c7ff33ea",
+    "id": "rk_5e013cc04ddc1f46a7f9",
     "text": "Isaiah 7:14 — Hebrew 'almah' = young woman. Matthew translates this with the Greek 'parthenos' (virgin) to construct the virgin birth narrative. The original verse is about events in Isaiah's own time, not a future messiah.",
     "raw_text": "Isaiah 7:14 — Hebrew 'almah' = young woman. Matthew translates this with the Greek 'parthenos' (virgin) to construct the virgin birth narrative. The original verse is about events in Isaiah's own time, not a future messiah.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -1890,7 +2260,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues",
-    "source_reference": "paragraph:58",
+    "source_reference": "paragraph:69",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1904,7 +2274,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_326161ff15a8b42acf56",
+    "id": "rk_420790c056c6004f16b4",
     "text": "Ha-satan — the Accuser, not 'Satan the devil.' A legal/adversarial role in early texts. The personified cosmic villain is a later theological development, not the original meaning.",
     "raw_text": "Ha-satan — the Accuser, not 'Satan the devil.' A legal/adversarial role in early texts. The personified cosmic villain is a later theological development, not the original meaning.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -1921,7 +2291,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues",
-    "source_reference": "paragraph:59",
+    "source_reference": "paragraph:70",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1935,7 +2305,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e6732eff7a5c40a761a6",
+    "id": "rk_93cdab28c8be429e60ab",
     "text": "'Christ' — Greek translation of Hebrew 'Mashiach' (Messiah) = 'anointed one.' Originally meant a king or priest anointed with oil. Not inherently supernatural. The NT is an argument that Jesus qualifies for this title, which most Jews of the time rejected.",
     "raw_text": "'Christ' — Greek translation of Hebrew 'Mashiach' (Messiah) = 'anointed one.' Originally meant a king or priest anointed with oil. Not inherently supernatural. The NT is an argument that Jesus qualifies for this title, which most Jews of the time rejected.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -1952,7 +2322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 2. Hebrew / Translation Issues",
-    "source_reference": "paragraph:60",
+    "source_reference": "paragraph:71",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1966,7 +2336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_15f99c2c48201d6a1e23",
+    "id": "rk_f4d9a9732eda3485660c",
     "text": "8th century BCE core, extended through post-exilic editing (scholars identify at least two distinct authors — 'First Isaiah' ch. 1-39, and 'Deutero-Isaiah' ch. 40-55, with possible Third Isaiah). Doom/restoration cycles. Repetitive and exhausting to read straight through. Used heavily by NT authors for 'fulfilled prophecy' claims that require ignoring original context.",
     "raw_text": "8th century BCE core, extended through post-exilic editing (scholars identify at least two distinct authors — 'First Isaiah' ch. 1-39, and 'Deutero-Isaiah' ch. 40-55, with possible Third Isaiah). Doom/restoration cycles. Repetitive and exhausting to read straight through. Used heavily by NT authors for 'fulfilled prophecy' claims that require ignoring original context.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -1984,7 +2354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.1 Isaiah",
-    "source_reference": "paragraph:61",
+    "source_reference": "paragraph:72",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1998,7 +2368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_14820f6d95f423014bcc",
+    "id": "rk_509b6535dc514b92ae2a",
     "text": "52 chapters of contradictory doom and hope. Jeremiah 29:11 ('plans for a future and a hope') is addressed to exiles being told to settle in Babylon for 70 years — not a personal life promise. The surrounding verses (29:16-19) describe God sending sword, famine, and plague to those still in Jerusalem.",
     "raw_text": "52 chapters of contradictory doom and hope. Jeremiah 29:11 ('plans for a future and a hope') is addressed to exiles being told to settle in Babylon for 70 years — not a personal life promise. The surrounding verses (29:16-19) describe God sending sword, famine, and plague to those still in Jerusalem.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2016,7 +2386,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
-    "source_reference": "paragraph:62",
+    "source_reference": "paragraph:73",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2030,7 +2400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a38ed59bfabe99962cde",
+    "id": "rk_5e76728ff4183ee11e6b",
     "text": "Jeremiah 31:31 (the 'new covenant') is addressed to 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Christians retrofitted this centuries later. Jewish tradition reads it as future restoration of Israel.",
     "raw_text": "Jeremiah 31:31 (the 'new covenant') is addressed to 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Christians retrofitted this centuries later. Jewish tradition reads it as future restoration of Israel.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2048,7 +2418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
-    "source_reference": "paragraph:63",
+    "source_reference": "paragraph:74",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2062,7 +2432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_34b4ce0d21bf74de9e97",
+    "id": "rk_63e546de99cf827b6458",
     "text": "The book contradicts itself: surrender to Babylon (ch. 27) vs. Babylon is evil and will be destroyed (ch. 50-51). Restoration after 70 years (29:10) vs. everyone will die (21:9). New covenant because the old one failed (31:31) while still preaching old covenant theology throughout.",
     "raw_text": "The book contradicts itself: surrender to Babylon (ch. 27) vs. Babylon is evil and will be destroyed (ch. 50-51). Restoration after 70 years (29:10) vs. everyone will die (21:9). New covenant because the old one failed (31:31) while still preaching old covenant theology throughout.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2080,7 +2450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.2 Jeremiah",
-    "source_reference": "paragraph:64",
+    "source_reference": "paragraph:75",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2094,7 +2464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0ba287262db290ac7156",
+    "id": "rk_ae9ad495a8c953e3b435",
     "text": "Bizarre visions (eating scrolls, cooking food over dung, lying on his side for 390 days). Chapters 16 and 23 contain extremely graphic sexual violence metaphors — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented as God's love. This is the most explicitly abusive metaphor in the prophetic literature.",
     "raw_text": "Bizarre visions (eating scrolls, cooking food over dung, lying on his side for 390 days). Chapters 16 and 23 contain extremely graphic sexual violence metaphors — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented as God's love. This is the most explicitly abusive metaphor in the prophetic literature.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2112,7 +2482,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.3 Ezekiel",
-    "source_reference": "paragraph:65",
+    "source_reference": "paragraph:76",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2126,7 +2496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_eab3bf1514228bb77ec1",
+    "id": "rk_53fa83fa8d11337ebd6b",
     "text": "Most important book in the minor prophets for ethical analysis. Rare social justice focus: explicitly condemns economic oppression, rich exploiting poor, corrupt courts, luxury while poor suffer. Amos 5:21-24 — God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings or worship music. What God wants instead: 'let justice roll down like waters, and righteousness like an ever-flowing stream.' MLK quoted this in the March on Washington.",
     "raw_text": "Most important book in the minor prophets for ethical analysis. Rare social justice focus: explicitly condemns economic oppression, rich exploiting poor, corrupt courts, luxury while poor suffer. Amos 5:21-24 — God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings or worship music. What God wants instead: 'let justice roll down like waters, and righteousness like an ever-flowing stream.' MLK quoted this in the March on Washington.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2144,7 +2514,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.4 Amos",
-    "source_reference": "paragraph:66",
+    "source_reference": "paragraph:77",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2158,7 +2528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_78e6bc8ae5520ae21584",
+    "id": "rk_80a40414eda4ea98f4e9",
     "text": "Satirical. God shows mercy to Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. God's final words: 'should I not care about 120,000 people?' The book critiques Jonah's nationalism as petty and contradicts the dominant nationalist violence theology of the other prophets. Most universalist book in the OT.",
     "raw_text": "Satirical. God shows mercy to Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. God's final words: 'should I not care about 120,000 people?' The book critiques Jonah's nationalism as petty and contradicts the dominant nationalist violence theology of the other prophets. Most universalist book in the OT.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2176,7 +2546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.5 Jonah",
-    "source_reference": "paragraph:67",
+    "source_reference": "paragraph:78",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2190,7 +2560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_09926981289d8d8fef8c",
+    "id": "rk_eb8a36439bfdb9626a1d",
     "text": "Micah 6:8 — the OT's most concise ethical statement: 'What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?' This directly contradicts the elaborate ritual requirements in Exodus/Leviticus. Not sacrifice, not temple attendance, not tithing — just justice, kindness, humility.",
     "raw_text": "Micah 6:8 — the OT's most concise ethical statement: 'What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?' This directly contradicts the elaborate ritual requirements in Exodus/Leviticus. Not sacrifice, not temple attendance, not tithing — just justice, kindness, humility.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2208,7 +2578,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.6 Micah",
-    "source_reference": "paragraph:68",
+    "source_reference": "paragraph:79",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2222,7 +2592,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5883c2861d2517e35f28",
+    "id": "rk_2dac516c07d8847e51a7",
     "text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
     "raw_text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2240,7 +2610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 3. Key Prophets — What Matters > 3.7 The Minor Prophets Formula",
-    "source_reference": "paragraph:69",
+    "source_reference": "paragraph:80",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2254,7 +2624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_fce55040949c276ff33e",
+    "id": "rk_4e6296a97e3fe22d204e",
     "text": "The prophets are obsessed with controlling women's sexuality and erasing women's religious authority. Israel is called 'whore' and 'prostitute' relentlessly (Hosea, Jeremiah, Ezekiel, Isaiah). Punishment is described as public stripping, sexual humiliation, and gang violence. Real women — like Gomer in Hosea — are used as theological props with no voice or agency.",
     "raw_text": "The prophets are obsessed with controlling women's sexuality and erasing women's religious authority. Israel is called 'whore' and 'prostitute' relentlessly (Hosea, Jeremiah, Ezekiel, Isaiah). Punishment is described as public stripping, sexual humiliation, and gang violence. Real women — like Gomer in Hosea — are used as theological props with no voice or agency.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2271,7 +2641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT",
-    "source_reference": "paragraph:70",
+    "source_reference": "paragraph:81",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2285,7 +2655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_929d9c559ee32d3013aa",
+    "id": "rk_6b859d820751a6b44ad0",
     "text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
     "raw_text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2302,7 +2672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT",
-    "source_reference": "paragraph:71",
+    "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2316,7 +2686,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c258c409ba9d2aec38b4",
+    "id": "rk_bda544cfbd5b36530f4d",
     "text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
     "raw_text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2333,7 +2703,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT",
-    "source_reference": "paragraph:72",
+    "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2347,7 +2717,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3a526399ff37f1b21524",
+    "id": "rk_07d566d4a7822799cf38",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -2365,7 +2735,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
-    "source_reference": "paragraph:73",
+    "source_reference": "paragraph:84",
     "parent_id": "audit_0c362ea9b707cd1cf993",
     "related_ids": [],
     "tags": [],
@@ -2379,7 +2749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e7d790129db478d97700",
+    "id": "rk_9c19733cb9a0637a4a0f",
     "text": "AS RECORDED: Not previously in this document — §1.5 (selective law-keeping) and §4 above touch the surrounding material but never worked the verse itself.",
     "raw_text": "**AS RECORDED:** Not previously in this document — §1.5 (selective law-keeping) and §4 above touch the surrounding material but never worked the verse itself.",
     "provenance_type": "SOURCE",
@@ -2397,7 +2767,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
-    "source_reference": "paragraph:74",
+    "source_reference": "paragraph:85",
     "parent_id": "audit_0c362ea9b707cd1cf993",
     "related_ids": [],
     "tags": [],
@@ -2411,7 +2781,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e8dc5f1ffbf0383bb577",
+    "id": "rk_121f70f2d1baf2779d3a",
     "text": "STATUS: New entry. Conclusion firm; the popular counter-readings do not survive.",
     "raw_text": "**STATUS: New entry. Conclusion firm; the popular counter-readings do not survive.**",
     "provenance_type": "SOURCE",
@@ -2429,7 +2799,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
-    "source_reference": "paragraph:75",
+    "source_reference": "paragraph:86",
     "parent_id": "audit_0c362ea9b707cd1cf993",
     "related_ids": [],
     "tags": [],
@@ -2443,7 +2813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3b5501cc380c682da5f1",
+    "id": "rk_b470e011046f0ec54669",
     "text": "AUDIT — The received text prohibits consensual male-male anal intercourse and prescribes death for both parties. Key names: Saul Olyan (JHS 1994) [CRITICAL — status/boundary, addressee = insertive partner]; Jerome T. Walsh (JBL 2001) [CRITICAL — inverts Olyan, addressee = receptive partner], with George Hollenback (JBL 2017) validating him; Jacob Milgrom (Anchor Bible 2000) [JEWISH CRITICAL — ban is absolute and unique in the ANE, but restricted to Israelites in the land, and lesbianism not prohibited]; Idan Dershowitz (HeBAI 2017) [CRITICAL — redactional, hypothesized earlier incest-only stratum]; Robert Gagnon (2001) [CONSERVATIVE-EVANGELICAL — broad prohibition]; Mark Preston Stone (CBR 2022) [CRITICAL — surveys 21 competing proposals, concludes consensus is emerging that \"homosexuality\" is not what is condemned].",
     "raw_text": "**AUDIT** — The received text prohibits consensual male-male anal intercourse and prescribes death for both parties. Key names: Saul Olyan (*JHS* 1994) [CRITICAL — status/boundary, addressee = insertive partner]; Jerome T. Walsh (*JBL* 2001) [CRITICAL — inverts Olyan, addressee = receptive partner], with George Hollenback (*JBL* 2017) validating him; Jacob Milgrom (*Anchor Bible* 2000) [JEWISH CRITICAL — ban is absolute and unique in the ANE, but restricted to Israelites in the land, and lesbianism not prohibited]; Idan Dershowitz (*HeBAI* 2017) [CRITICAL — redactional, hypothesized earlier incest-only stratum]; Robert Gagnon (2001) [CONSERVATIVE-EVANGELICAL — broad prohibition]; Mark Preston Stone (*CBR* 2022) [CRITICAL — surveys 21 competing proposals, concludes consensus is emerging that \"homosexuality\" is not what is condemned].",
     "provenance_type": "SOURCE",
@@ -2461,7 +2831,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
-    "source_reference": "paragraph:76",
+    "source_reference": "paragraph:87",
     "parent_id": "audit_0c362ea9b707cd1cf993",
     "related_ids": [],
     "tags": [],
@@ -2475,7 +2845,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_53bcf9840b0b7c1f46c0",
+    "id": "rk_a2072bf80bb57dc7b717",
     "text": "Critical to keep straight: most of the 21-proposal disagreement is about rationale (semen, status, procreation, boundary, land), not referent. \"Consensus that homosexuality isn't it\" means not an orientation category — it does not mean not male-male sex.",
     "raw_text": "Critical to keep straight: most of the 21-proposal disagreement is about **rationale** (semen, status, procreation, boundary, land), not **referent**. \"Consensus that homosexuality isn't it\" means *not an orientation category* — it does not mean *not male-male sex*.",
     "provenance_type": "SOURCE",
@@ -2493,7 +2863,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
-    "source_reference": "paragraph:77",
+    "source_reference": "paragraph:88",
     "parent_id": "audit_0c362ea9b707cd1cf993",
     "related_ids": [],
     "tags": [],
@@ -2507,7 +2877,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7ff0d2c617854ae3fbc9",
+    "id": "rk_0e742dafdb63a849a72a",
     "text": "Do not argue in debate that the verse means rape; the two-party death penalty defeats it (Torah punishes rapists alone, Deut 22:25–26). Do argue that a blanket ban would be unprecedented in the ANE, that specialists have produced 21 readings with no consensus, and that Milgrom — no liberal — held it binding on Israelites in the land and nobody else. Strongest ground remains the selective-application problem at §1.5 : nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.",
     "raw_text": "**Do not argue in debate** that the verse means rape; the two-party death penalty defeats it (Torah punishes rapists alone, Deut 22:25–26). **Do argue** that a blanket ban would be unprecedented in the ANE, that specialists have produced 21 readings with no consensus, and that Milgrom — no liberal — held it binding on Israelites in the land and nobody else. Strongest ground remains the selective-application problem at §1.5 ⟨YOURS — you identified this pattern from the reading before any of the scholarship was brought in⟩: nothing in Leviticus 19 marks where eternal moral law ends and expired ceremonial code begins.",
     "provenance_type": "MY_WORDS",
@@ -2525,7 +2895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 4. Gender, Sexuality, and Power in OT > ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)",
-    "source_reference": "paragraph:78",
+    "source_reference": "paragraph:89",
     "parent_id": "audit_0c362ea9b707cd1cf993",
     "related_ids": [],
     "tags": [],
@@ -2539,7 +2909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9c8d58da1676991c31d1",
+    "id": "rk_fe35c236ffbe1ba72616",
     "text": "The NT is not a continuation of the OT story. It is a reinterpretation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
     "raw_text": "The NT is not a continuation of the OT story. It is a reinterpretation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2557,7 +2927,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.1 What the NT is doing structurally",
-    "source_reference": "paragraph:79",
+    "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2571,7 +2941,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_fa68779c918337ab7b3a",
+    "id": "rk_b1a36c477bf8ebf1b7aa",
     "text": "Jesus didn't write anything. All NT doctrine derives from other people's interpretation of him. Paul's letters are the earliest NT documents — written before the Gospels, by someone who never met Jesus in person, building a theological system that Jesus himself never articulates.",
     "raw_text": "Jesus didn't write anything. All NT doctrine derives from other people's interpretation of him. Paul's letters are the earliest NT documents — written before the Gospels, by someone who never met Jesus in person, building a theological system that Jesus himself never articulates.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2589,7 +2959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
-    "source_reference": "paragraph:80",
+    "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2603,7 +2973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1029f85d169262307fe0",
+    "id": "rk_06040a50e3424d41440c",
     "text": "The Gospels were written 40-70 years after Jesus's death, in Greek, by communities with theological agendas, for specific audiences. They are not eyewitness accounts. They contradict each other in meaningful ways on birth narratives, resurrection accounts, last words, and Jesus's own self-description.",
     "raw_text": "The Gospels were written 40-70 years after Jesus's death, in Greek, by communities with theological agendas, for specific audiences. They are not eyewitness accounts. They contradict each other in meaningful ways on birth narratives, resurrection accounts, last words, and Jesus's own self-description.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2621,7 +2991,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
-    "source_reference": "paragraph:81",
+    "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2635,7 +3005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_dfc88e158bccc6caaddd",
+    "id": "rk_a64b81e85e09b2b3f667",
     "text": "The absence of Jesus's own writing means that when Matthew's Jesus and Paul's theology disagree, there is no document to resolve it. The entire religion is built on interpretation of interpreted oral tradition written down late by people who weren't there.",
     "raw_text": "The absence of Jesus's own writing means that when Matthew's Jesus and Paul's theology disagree, there is no document to resolve it. The entire religion is built on interpretation of interpreted oral tradition written down late by people who weren't there.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2653,7 +3023,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.2 Key structural facts",
-    "source_reference": "paragraph:82",
+    "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2667,7 +3037,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d414a7ace84af58a8e9d",
+    "id": "rk_0a78935f9ac40d322cfa",
     "text": "'Christ' is a title, not a name. It is the Greek translation of the Hebrew Mashiach (Messiah) = 'anointed one,' originally meaning a king or priest anointed with oil. The NT is an argument that Jesus qualifies. This argument was largely rejected by Jewish communities of the time — who were reading the same OT and came to different conclusions about what messianic prophecy required.",
     "raw_text": "'Christ' is a title, not a name. It is the Greek translation of the Hebrew Mashiach (Messiah) = 'anointed one,' originally meaning a king or priest anointed with oil. The NT is an argument that Jesus qualifies. This argument was largely rejected by Jewish communities of the time — who were reading the same OT and came to different conclusions about what messianic prophecy required.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2685,7 +3055,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.3 The 'Christ' problem",
-    "source_reference": "paragraph:83",
+    "source_reference": "paragraph:94",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2699,7 +3069,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a83da4a244d5767f6dd4",
+    "id": "rk_29fea8fe614f86c518eb",
     "text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
     "raw_text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2717,7 +3087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.4 Eternal damnation: a new escalation",
-    "source_reference": "paragraph:84",
+    "source_reference": "paragraph:95",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2731,7 +3101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_cc1df7668212ef0e48d3",
+    "id": "rk_ccb5561366cacbee3fb5",
     "text": "Jesus spoke Aramaic. The Gospels are written in Greek. This translation layer — across decades, across communities, across cultures — shapes everything. Words like 'almah' (Hebrew, young woman) becoming 'parthenos' (Greek, virgin) in Matthew show how translation choices create doctrine.",
     "raw_text": "Jesus spoke Aramaic. The Gospels are written in Greek. This translation layer — across decades, across communities, across cultures — shapes everything. Words like 'almah' (Hebrew, young woman) becoming 'parthenos' (Greek, virgin) in Matthew show how translation choices create doctrine.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2749,7 +3119,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 5. New Testament — Orientation & Critical Framework > 5.5 Greek vs. Aramaic",
-    "source_reference": "paragraph:85",
+    "source_reference": "paragraph:96",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2763,7 +3133,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7297b0149b3e85b1e901",
+    "id": "rk_0ccfcb47a1aa1e9078de",
     "text": "Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus seems surprised by things and asks questions. The resurrection ending is famously disputed: oldest manuscripts end at 16:8 with women fleeing in terror, saying nothing to anyone. Later scribes added verses 9-20. This is the baseline — Mark before Matthew's elaborations.",
     "raw_text": "Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus seems surprised by things and asks questions. The resurrection ending is famously disputed: oldest manuscripts end at 16:8 with women fleeing in terror, saying nothing to anyone. Later scribes added verses 9-20. This is the baseline — Mark before Matthew's elaborations.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2781,7 +3151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First",
-    "source_reference": "paragraph:86",
+    "source_reference": "paragraph:97",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2795,7 +3165,344 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0be5f6e0acb9557d5897",
+    "id": "rk_eff5e59a353d02b12e8e",
+    "text": "CHECKED 7 AUG 2026",
+    "raw_text": "`CHECKED 7 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:98",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a9cde3846b53e1370980",
+    "text": "AS RECORDED: Mark was written first; Matthew and Luke used it as a source. Near-consensus. (§6.1.)",
+    "raw_text": "**AS RECORDED:** Mark was written first; Matthew and Luke used it as a source. Near-consensus. (§6.1.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:99",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [
+      "rk_68b9361eb48acd21aa14"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_9d401cb7918cb5a611b3",
+    "text": "STATUS: Holds as the working majority position. \"Near-consensus\" is accurate but the minority is larger, more organized, and more recently active than most treatments imply — worth knowing so you don't overclaim.",
+    "raw_text": "**STATUS: Holds as the working majority position. \"Near-consensus\" is accurate but the minority is larger, more organized, and more recently active than most treatments imply — worth knowing so you don't overclaim.**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "Holds as the working majority position. \"Near-consensus\" is accurate but the minority is larger, more organized, and more recently active than most treatments imply — worth knowing so you don't overclaim.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:100",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [
+      "rk_68b9361eb48acd21aa14"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_72eff7ba5800946a387c",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:101",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_0c70dcff932507e5eea1",
+    "text": "The majority case, briefly, because it is genuinely strong: roughly 90% of Mark's content appears in Matthew, and about 50% in Luke, often expanded. Where Matthew departs from Mark's order, Luke tends to follow Mark's order, and vice versa — the two never agree against Mark on sequence, which is difficult to explain unless Mark is the common source both are independently building on. This has been the dominant position since Holtzmann's work in 1863, refined by B.H. Streeter in 1924, and it remains Fitzmyer's [CRITICAL] position and the working assumption of most critical scholarship, including most historical-Jesus research (it's the basis for arguments like \"Mark's Jesus is the least theologically developed\").",
+    "raw_text": "**The majority case, briefly, because it is genuinely strong:** roughly 90% of Mark's content appears in Matthew, and about 50% in Luke, often expanded. Where Matthew departs from Mark's order, Luke tends to follow Mark's order, and vice versa — the two never agree against Mark on sequence, which is difficult to explain unless Mark is the common source both are independently building on. This has been the dominant position since Holtzmann's work in 1863, refined by **B.H. Streeter** in 1924, and it remains **Fitzmyer's** [CRITICAL] position and the working assumption of most critical scholarship, including most historical-Jesus research (it's the basis for arguments like \"Mark's Jesus is the least theologically developed\").",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:102",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_1792482232330e3147c7",
+    "text": "The minority case, named and dated, because it is real scholarship, not fringe apologetics ⟨noting camps carefully here, since this issue cuts across the usual critical/conservative line⟩:",
+    "raw_text": "**The minority case, named and dated, because it is real scholarship, not fringe apologetics** ⟨noting camps carefully here, since this issue cuts across the usual critical/conservative line⟩**:**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:103",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_f519054f957f70350c27",
+    "text": "The Griesbach (Two-Gospel) Hypothesis — J.J. Griesbach, 1776, revived forcefully by William R. Farmer [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], The Synoptic Problem: A Critical Analysis (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by theological preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.\n- The Farrer Hypothesis (Farrer–Goulder–Goodacre) — associated most recently with Mark Goodacre [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used both Mark and Matthew directly, eliminating the need to posit a hypothetical lost source (\"Q\") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the two-source hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.\n- The Augustinian Hypothesis — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.",
+    "raw_text": "- **The Griesbach (Two-Gospel) Hypothesis** — J.J. Griesbach, 1776, revived forcefully by **William R. Farmer** [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], *The Synoptic Problem: A Critical Analysis* (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by *theological* preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.\n- **The Farrer Hypothesis** (Farrer–Goulder–Goodacre) — associated most recently with **Mark Goodacre** [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used *both* Mark and Matthew directly, eliminating the need to posit a hypothetical lost source (\"Q\") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the *two-source* hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.\n- **The Augustinian Hypothesis** — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:104",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2d6ab44fe27475543f18",
+    "text": "What actually moved recently, and it's worth being precise: the Q hypothesis — the theorized lost sayings-source explaining material common to Matthew and Luke but not Mark — is under more serious and more recent pressure than Markan priority itself. Goodacre's challenge is specifically to Q, not to Mark's priority. Do not conflate \"some scholars doubt Q\" with \"some scholars doubt Mark was first\" — these are different claims, and only the second is what your notes actually assert.",
+    "raw_text": "**What actually moved recently, and it's worth being precise:** the *Q hypothesis* — the theorized lost sayings-source explaining material common to Matthew and Luke but not Mark — is under more serious and more recent pressure than Markan priority itself. Goodacre's challenge is specifically to Q, not to Mark's priority. Do not conflate \"some scholars doubt Q\" with \"some scholars doubt Mark was first\" — these are different claims, and only the second is what your notes actually assert.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:105",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_68b9361eb48acd21aa14",
+    "text": "CORRECTED: Markan priority remains the working majority position, on strong textual grounds (the order-agreement pattern, volume of shared material). \"Near-consensus\" is fair. But active, serious, non-apologetic scholarship — Farmer, Goodacre — continues to contest either Markan priority itself (Griesbach) or the two-source model built on top of it (Farrer). The more precisely contested question right now is Q, not Mark's priority per se.",
+    "raw_text": "**CORRECTED:** *Markan priority remains the working majority position, on strong textual grounds (the order-agreement pattern, volume of shared material). \"Near-consensus\" is fair. But active, serious, non-apologetic scholarship — Farmer, Goodacre — continues to contest either Markan priority itself (Griesbach) or the two-source model built on top of it (Farrer). The more precisely contested question right now is Q, not Mark's priority per se.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:106",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [
+      "rk_a9cde3846b53e1370980",
+      "rk_9d401cb7918cb5a611b3"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_d55612e7b5714c83b049",
+    "text": "WHY IT LOOKED RIGHT : Markan priority genuinely is closer to consensus than most other things in this document, so treating it as settled felt safe by comparison to the other audited claims. The correction here is narrow: not \"you were wrong,\" but \"name the live minority correctly if it comes up,\" since Farmer and Goodacre are not conservative apologists and citing them as such would be its own factual error.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** Markan priority genuinely is closer to consensus than most other things in this document, so treating it as settled felt safe by comparison to the other audited claims. The correction here is narrow: not \"you were wrong,\" but \"name the live minority correctly if it comes up,\" since Farmer and Goodacre are not conservative apologists and citing them as such would be its own factual error.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.1 Mark — Read First",
+      "⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.1 Mark — Read First > ⚑ AUDIT — Markan Priority: How Settled Is \"Settled\"?",
+    "source_reference": "paragraph:107",
+    "parent_id": "audit_66cb06a42e386561e6e2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_c3f945d0be5fcbd50510",
     "text": "Written for a Jewish audience, so it obsessively cites OT to prove Jesus is the Messiah. You will recognize the misquoted prophecies because you have read the originals. 'Virgin birth' comes from Matthew's mistranslation of Isaiah 7:14 (almah = young woman, not virgin). Heavy use of 'this was to fulfill what was written' — a rhetorical pattern, not independent evidence.",
     "raw_text": "Written for a Jewish audience, so it obsessively cites OT to prove Jesus is the Messiah. You will recognize the misquoted prophecies because you have read the originals. 'Virgin birth' comes from Matthew's mistranslation of Isaiah 7:14 (almah = young woman, not virgin). Heavy use of 'this was to fulfill what was written' — a rhetorical pattern, not independent evidence.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2813,7 +3520,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second",
-    "source_reference": "paragraph:87",
+    "source_reference": "paragraph:108",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2827,7 +3534,377 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_317f045584dde9f047f5",
+    "id": "rk_36366738aa38481fc655",
+    "text": "CHECKED 7 AUG 2026",
+    "raw_text": "`CHECKED 7 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:109",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_91c45aacaa93c6bbaabf",
+    "text": "AS RECORDED: Matthew retrofits Old Testament citations onto events after the fact to manufacture prophetic fulfillment. (§6.2.)",
+    "raw_text": "**AS RECORDED:** Matthew retrofits Old Testament citations onto events after the fact to manufacture prophetic fulfillment. (§6.2.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:110",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [
+      "rk_a87b7ae1eedd4e70d8a4"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2dc2c2511cc6f1af0038",
+    "text": "STATUS: The mechanism is documented and real. \"Retrofitted\" is accurate as plain description but invites a specific, answerable objection — replace it with the more precise and more defensible term.",
+    "raw_text": "**STATUS: The mechanism is documented and real. \"Retrofitted\" is accurate as plain description but invites a specific, answerable objection — replace it with the more precise and more defensible term.**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "The mechanism is documented and real. \"Retrofitted\" is accurate as plain description but invites a specific, answerable objection — replace it with the more precise and more defensible term.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:111",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [
+      "rk_a87b7ae1eedd4e70d8a4"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_54bc378b2c1b5568ecfe",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:112",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_ecdf3c521390199bc72d",
+    "text": "Matthew has ten distinct formula-quotations — R.T. France's [EVANGELICAL, but this count is uncontroversial] term for the recurring editorial pattern: \"All this happened to fulfill what had been spoken by the prophet...\" (e.g., 1:22–23, 2:15, 2:17–18, 2:23, 4:14–16). These are Matthew's own editorial insertions layered onto an existing narrative — Fitzmyer's analysis, cited in the Hosea 11:1 case study below, notes explicitly that the prophetic wording is secondary; Matthew added the citations to a story that already existed. That is the documented mechanism, and it is not seriously disputed by critical or most evangelical scholars — the dispute is over whether the method was legitimate by first-century standards, not whether Matthew did it.",
+    "raw_text": "Matthew has ten distinct **formula-quotations** — R.T. France's [EVANGELICAL, but this count is uncontroversial] term for the recurring editorial pattern: \"All this happened to fulfill what had been spoken by the prophet...\" (e.g., 1:22–23, 2:15, 2:17–18, 2:23, 4:14–16). **These are Matthew's own editorial insertions layered onto an existing narrative** — Fitzmyer's analysis, cited in the Hosea 11:1 case study below, notes explicitly that the prophetic wording is secondary; Matthew added the citations to a story that already existed. That is the documented mechanism, and it is not seriously disputed by critical or most evangelical scholars — the dispute is over whether the *method* was legitimate by first-century standards, not whether Matthew *did* it.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:113",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_7b5af24d2c16a98330ce",
+    "text": "The clearest case, and the one to actually cite: Matthew 2:15 / Hosea 11:1. Hosea 11:1 reads \"When Israel was a child, I loved him, and out of Egypt I called my son\" — in context, an unambiguous backward-looking reference to the Exodus, God recalling the nation Israel out of Egypt centuries earlier. Matthew quotes it as a forward-looking prediction of the infant Jesus's return from Egypt after Herod's death. There is no plausible reading of Hosea's original sentence as predictive. This is Matthew re-purposing a historical statement about the nation as a messianic statement about an individual.",
+    "raw_text": "**The clearest case, and the one to actually cite: Matthew 2:15 / Hosea 11:1.** Hosea 11:1 reads \"When Israel was a child, I loved him, and out of Egypt I called my son\" — in context, an unambiguous **backward-looking reference to the Exodus**, God recalling the nation Israel out of Egypt centuries earlier. Matthew quotes it as a **forward-looking prediction** of the infant Jesus's return from Egypt after Herod's death. There is no plausible reading of Hosea's original sentence as predictive. This is Matthew re-purposing a historical statement about the nation as a messianic statement about an individual.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:114",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_cdf9170b30f648031f6b",
+    "text": "The correct technical term, and why \"retrofitted\" undersells the sophistication: the exegetical method is *typology combined with sensus plenior (see The Other Side §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a pattern that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's pesher technique read prophetic texts as pointing to their own community's \"last days.\" Joseph Fitzmyer [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations added onto an already-existing narrative to comment on it — closer to what genre critics call midrash, though even that label is disputed (Cunningham and Bock argue true midrash exists for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
+    "raw_text": "**The correct technical term, and why \"retrofitted\" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Other Side §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's \"last days.\" **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:115",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_830cabe93345f4b332eb",
+    "text": "The strongest conservative case, stated at full strength — Seth Postell [EVANGELICAL], JETS 68.3 (2025), argues directly against the \"retrofitting\" framing: rather than reading Isaiah 7:14 for what Ahaz could have understood in the 8th century BCE, Postell argues the final canonical shape of the book of Isaiah — as an author/editor's completed literary unit — already builds toward a messianic reading, so Matthew is not imposing a foreign meaning but recovering the sense the finished book's own structure was building toward. This is a real, recent, peer-reviewed position and should not be dismissed as apologetics without engagement — though note it depends on reading \"the literal sense\" as a property of the whole edited book rather than of Isaiah's original 8th-century utterance, which most historical-critical scholars reject as a redefinition of \"literal.\"",
+    "raw_text": "**The strongest conservative case, stated at full strength — Seth Postell** [EVANGELICAL], *JETS* 68.3 (2025), argues directly against the \"retrofitting\" framing: rather than reading Isaiah 7:14 for what Ahaz could have understood in the 8th century BCE, Postell argues the **final canonical shape of the book of Isaiah** — as an author/editor's completed literary unit — already builds toward a messianic reading, so Matthew is not imposing a foreign meaning but recovering the sense the finished book's own structure was building toward. This is a real, recent, peer-reviewed position and should not be dismissed as apologetics without engagement — though note it depends on reading \"the literal sense\" as a property of the whole edited book rather than of Isaiah's original 8th-century utterance, which most historical-critical scholars reject as a redefinition of \"literal.\"",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:116",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a87b7ae1eedd4e70d8a4",
+    "text": "CORRECTED: Matthew systematically appends editorial fulfillment-citations to pre-existing narrative material, and Hosea 11:1 is the clearest case where the original sense cannot plausibly be predictive. The method is best named typology plus sensus plenior, structurally related to but formally distinct from Qumran pesher. \"Retrofitted\" is directionally accurate but reads as an accusation of dishonesty; the documented reality is a recognized, if contested, first-century Jewish reading practice — the live scholarly question is whether that practice constitutes legitimate interpretation, not whether Matthew engaged in it.",
+    "raw_text": "**CORRECTED:** *Matthew systematically appends editorial fulfillment-citations to pre-existing narrative material, and Hosea 11:1 is the clearest case where the original sense cannot plausibly be predictive. The method is best named typology plus* sensus plenior*, structurally related to but formally distinct from Qumran pesher. \"Retrofitted\" is directionally accurate but reads as an accusation of dishonesty; the documented reality is a recognized, if contested, first-century Jewish reading practice — the live scholarly question is whether that practice constitutes legitimate interpretation, not whether Matthew engaged in it.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:117",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [
+      "rk_91c45aacaa93c6bbaabf",
+      "rk_2dc2c2511cc6f1af0038"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2e2a19e6a0a25fbd64c4",
+    "text": "WHY IT LOOKED RIGHT : \"retrofitted\" is punchy and gets the direction of causation right (event first, prophetic reading second) — which is the important part and is correct. The risk is a well-read opponent countering with \"that's not fraud, that's typology,\" which is technically true and can make the whole line look naive if you have not already named the method yourself.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** \"retrofitted\" is punchy and gets the direction of causation right (event first, prophetic reading second) — which is the important part and is correct. The risk is a well-read opponent countering with \"that's not fraud, that's typology,\" which is technically true and can make the whole line look naive if you have not already named the method yourself.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:118",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_8811a06a6a758da333bd",
+    "text": "Debate note: use Hosea 11:1, not Isaiah 7:14, as your lead example — it is the cleanest case with no serious scholarly dispute about the original sense, and it does not require adjudicating the almah/parthenos translation fight. Name the method yourself (\"this is typology — reading Israel's history as a pattern fulfilled in Jesus\") before your opponent does; it removes their easiest rebuttal and lets you ask the harder question instead: if this method can make any past event predictive of any future one, what would falsify it?",
+    "raw_text": "**Debate note:** use Hosea 11:1, not Isaiah 7:14, as your lead example — it is the cleanest case with no serious scholarly dispute about the original sense, and it does not require adjudicating the almah/parthenos translation fight. Name the method yourself (\"this is typology — reading Israel's history as a pattern fulfilled in Jesus\") before your opponent does; it removes their easiest rebuttal and lets you ask the harder question instead: *if this method can make any past event predictive of any future one, what would falsify it?*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.2 Matthew — Read Second",
+      "⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?"
+    ],
+    "subtopics": [],
+    "record_type": "QUESTION",
+    "status": "OPEN",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.2 Matthew — Read Second > ⚑ AUDIT — Matthew's Fulfillment Formula: \"Retrofitted\" or Something Else?",
+    "source_reference": "paragraph:119",
+    "parent_id": "audit_64a41973fbbd347869a2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_37922ce1ac1208948df0",
     "text": "Gentile audience. Emphasizes mercy and the poor. Softens some of the harder edges. Luke's academic-style opening (1:1-4) — claiming to write an 'orderly account' based on investigation — is defensive posturing that signals the author knows competing accounts exist. Pairs with Acts (same author, same project: legitimizing Paul's mission to the Gentiles).",
     "raw_text": "Gentile audience. Emphasizes mercy and the poor. Softens some of the harder edges. Luke's academic-style opening (1:1-4) — claiming to write an 'orderly account' based on investigation — is defensive posturing that signals the author knows competing accounts exist. Pairs with Acts (same author, same project: legitimizing Paul's mission to the Gentiles).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2845,7 +3922,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third",
-    "source_reference": "paragraph:88",
+    "source_reference": "paragraph:120",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2859,7 +3936,410 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1935c18a9c26bb0b8bc0",
+    "id": "rk_b08dcf932982358336d3",
+    "text": "CHECKED 7 AUG 2026",
+    "raw_text": "`CHECKED 7 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:121",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_e6065940d7a27dffbf47",
+    "text": "AS RECORDED: Luke shifts blame from Rome toward Jewish leadership relative to Mark. (§6.3.)",
+    "raw_text": "**AS RECORDED:** Luke shifts blame from Rome toward Jewish leadership relative to Mark. (§6.3.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:122",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [
+      "rk_a8b578211c30d3119446"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_cfd0fd3379ffacc699df",
+    "text": "STATUS: Holds — and the mechanism is more specific than \"softening.\"",
+    "raw_text": "**STATUS: Holds — and the mechanism is more specific than \"softening.\"**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "Holds — and the mechanism is more specific than \"softening.\"",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:123",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [
+      "rk_a8b578211c30d3119446"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_4a129b9ca9409d096cfb",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:124",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_944cbb4be4182ed0477b",
+    "text": "The trajectory across the Synoptics plus John is a real, frequently observed pattern: Pilate grows more reluctant and more explicitly declares Jesus innocent as the Gospels get later, while Jewish authorities and \"the crowd\" carry more of the narrative weight. This is not fringe — it is standard redaction-critical observation, traceable through commentaries from Raymond Brown [CRITICAL, Catholic] and Joseph Fitzmyer [CRITICAL, Catholic, author of the standard Anchor Bible Luke commentary] on down.",
+    "raw_text": "The trajectory across the Synoptics plus John is a real, frequently observed pattern: Pilate grows more reluctant and more explicitly declares Jesus innocent as the Gospels get later, while Jewish authorities and \"the crowd\" carry more of the narrative weight. This is not fringe — it is standard redaction-critical observation, traceable through commentaries from **Raymond Brown** [CRITICAL, Catholic] and **Joseph Fitzmyer** [CRITICAL, Catholic, author of the standard Anchor Bible Luke commentary] on down.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:125",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_b22e185e1c24f37c2fbf",
+    "text": "Luke specifically, and this is the sharper point than a general \"softening\": Luke has Pilate declare Jesus innocent three separate times (23:4, 23:14–15, 23:22) — more explicitly and more repeatedly than Mark or Matthew. Luke also inserts a scene found in no other Gospel: Pilate sends Jesus to Herod Antipas, who likewise finds no fault (23:6–12). The effect is cumulative: by the time of the crucifixion, two Roman/client authorities have independently declared Jesus innocent, and the crowd's demand overrides both.",
+    "raw_text": "**Luke specifically, and this is the sharper point than a general \"softening\":** Luke has Pilate declare Jesus innocent **three separate times** (23:4, 23:14–15, 23:22) — more explicitly and more repeatedly than Mark or Matthew. Luke also inserts a scene found in no other Gospel: Pilate sends Jesus to Herod Antipas, who likewise finds no fault (23:6–12). The effect is cumulative: by the time of the crucifixion, two Roman/client authorities have independently declared Jesus innocent, and the crowd's demand overrides both.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:126",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a2217a4daafd229a255d",
+    "text": "The counter-observation, and it complicates a simple \"Luke exonerates Rome\" reading: Cuany (JSNT 39.4, 2017) [CRITICAL] argues the Barabbas exchange functions as the climax of Luke's trial narrative and is doing Christological work — contrasting the released insurrectionist with the condemned innocent — not merely anti-Jewish blame-shifting. And Fitzmyer's own commentary tradition has long noted that Luke is not presenting Pilate as a model of Roman justice either — a governor who three times declares a man innocent and crucifies him anyway is not flattering to Rome. The apologetic function, if there is one, is narrower than \"protect Rome\": it is Christological (establish Jesus's innocence beyond doubt) and only secondarily shifts the weight of blame.",
+    "raw_text": "**The counter-observation, and it complicates a simple \"Luke exonerates Rome\" reading:** Cuany (*JSNT* 39.4, 2017) [CRITICAL] argues the Barabbas exchange functions as the **climax of Luke's trial narrative** and is doing Christological work — contrasting the released insurrectionist with the condemned innocent — not merely anti-Jewish blame-shifting. And Fitzmyer's own commentary tradition has long noted that Luke is **not** presenting Pilate as a model of Roman justice either — a governor who three times declares a man innocent and crucifies him anyway is not flattering to Rome. The apologetic function, if there is one, is narrower than \"protect Rome\": it is Christological (establish Jesus's innocence beyond doubt) and only secondarily shifts the weight of blame.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:127",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a7ffffd9400ca8618bba",
+    "text": "On why this happened, historically — the strongest version of the argument, stated carefully : the standard critical explanation is that Gospel communities writing under Roman rule, in the decades after the Jewish War (66–73 CE) inflamed Roman suspicion of anything Judea-associated, had strong survival incentives to distance the new movement from insurrection against Rome and from the recently-crushed Jewish revolt. This is argued at length by John Dominic Crossan [CRITICAL], Who Killed Jesus? (1995), who frames the trajectory explicitly as the root of later Christian anti-Judaism.",
+    "raw_text": "**On why this happened, historically — the strongest version of the argument, stated carefully** ⟨INFERENCE — the pattern is documented; the causal explanation is a widely-held reading, not a single citation⟩**:** the standard critical explanation is that Gospel communities writing under Roman rule, in the decades after the Jewish War (66–73 CE) inflamed Roman suspicion of anything Judea-associated, had strong survival incentives to distance the new movement from insurrection against Rome and from the recently-crushed Jewish revolt. This is argued at length by **John Dominic Crossan** [CRITICAL], *Who Killed Jesus?* (1995), who frames the trajectory explicitly as the root of later Christian anti-Judaism.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:128",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE — the pattern is documented; the causal explanation is a widely-held reading, not a single citation⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_318581f2f7b4740aa5da",
+    "text": "What does NOT hold, and should not be claimed: that the Barabbas episode as narrated is historically plausible. There is no independent evidence for a Passover pardon custom, and a Roman prefect releasing a convicted insurrectionist on a crowd's demand has no attested parallel. Whether this makes the episode a Lukan/Markan invention outright, or a garbled memory of some actual clemency practice, is unresolved — but do not defend the Barabbas story as historical while making this argument; that would be arguing both that the text is unreliable and that a specific unreliable detail happened.",
+    "raw_text": "**What does NOT hold, and should not be claimed:** that the Barabbas episode as narrated is historically plausible. There is no independent evidence for a Passover pardon custom, and a Roman prefect releasing a convicted insurrectionist on a crowd's demand has no attested parallel. Whether this makes the episode a Lukan/Markan invention outright, or a garbled memory of some actual clemency practice, is unresolved — but do not defend the Barabbas story as historical while making this argument; that would be arguing both that the text is unreliable and that a specific unreliable detail happened.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:129",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a8b578211c30d3119446",
+    "text": "CORRECTED: Luke intensifies rather than merely repeats Mark's tendency to exonerate Roman authority — three explicit declarations of innocence plus an added Herod scene, versus Mark's single more ambiguous account. The trajectory across all four Gospels toward increasing Pilate-sympathy and increasing Jewish-crowd culpability is a standard critical observation. The strongest explanation is social pressure on communities writing after 70 CE to distance the movement from anti-Roman insurrection — but the Barabbas scene's historical plausibility should not be defended in the same argument, since no independent evidence supports the pardon custom it depends on.",
+    "raw_text": "**CORRECTED:** *Luke intensifies rather than merely repeats Mark's tendency to exonerate Roman authority — three explicit declarations of innocence plus an added Herod scene, versus Mark's single more ambiguous account. The trajectory across all four Gospels toward increasing Pilate-sympathy and increasing Jewish-crowd culpability is a standard critical observation. The strongest explanation is social pressure on communities writing after 70 CE to distance the movement from anti-Roman insurrection — but the Barabbas scene's historical plausibility should not be defended in the same argument, since no independent evidence supports the pardon custom it depends on.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:130",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [
+      "rk_e6065940d7a27dffbf47",
+      "rk_cfd0fd3379ffacc699df"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_b2866bc15b2d55022997",
+    "text": "WHY IT LOOKED RIGHT : \"Luke softens Rome\" is true but underspecified — it invites the response \"Luke is no kinder to Rome than the others,\" which has some real support (Fitzmyer). The sharper, better-defended claim is the specific mechanism: repetition of declared innocence plus an added corroborating authority, which is measurable in the text rather than a general vibe.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** \"Luke softens Rome\" is true but underspecified — it invites the response \"Luke is no kinder to Rome than the others,\" which has some real support (Fitzmyer). The sharper, better-defended claim is the *specific mechanism*: repetition of declared innocence plus an added corroborating authority, which is measurable in the text rather than a general vibe.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:131",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_8e6e219d5e9ef0a83e73",
+    "text": "Debate note: lead with the count — three explicit declarations of innocence in Luke alone, plus Herod. That is a textual fact your opponent cannot dispute. Do not lead with \"Rome is let off the hook,\" which invites a real rebuttal.",
+    "raw_text": "**Debate note:** lead with the count — three explicit declarations of innocence in Luke alone, plus Herod. That is a textual fact your opponent cannot dispute. Do not lead with \"Rome is let off the hook,\" which invites a real rebuttal.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "6. Gospel Reading Order & Framework",
+      "6.3 Luke — Read Third",
+      "⚑ AUDIT — Does Luke Soften Roman Culpability?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.3 Luke — Read Third > ⚑ AUDIT — Does Luke Soften Roman Culpability?",
+    "source_reference": "paragraph:132",
+    "parent_id": "audit_7ae8fe8c026716885859",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2f9e2268732eb8dc878a",
     "text": "Latest written (~90-100 CE). Most theologically developed. Opens with 'In the beginning was the Word' — direct callback to Genesis 1, fully equating Jesus with God. Jesus speaks very differently in John than in the other three Gospels: longer speeches, explicit divine claims. The most distant from historical Jesus, the most useful for understanding where Christian theology ends up.",
     "raw_text": "Latest written (~90-100 CE). Most theologically developed. Opens with 'In the beginning was the Word' — direct callback to Genesis 1, fully equating Jesus with God. Jesus speaks very differently in John than in the other three Gospels: longer speeches, explicit divine claims. The most distant from historical Jesus, the most useful for understanding where Christian theology ends up.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2877,7 +4357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.4 John — Read Last",
-    "source_reference": "paragraph:89",
+    "source_reference": "paragraph:133",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2891,7 +4371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_99edb1a7ba0004ac55ff",
+    "id": "rk_c8ec3ac1c6f668c33458",
     "text": "Where Christian theology is actually constructed. Paul never met Jesus. His letters predate the Gospels. He is building a theological system, not reporting events. The tension between 'there is neither slave nor free' (Galatians 3:28) and 'slaves obey your masters' (Colossians 3:22, Ephesians 6:5) in the Pauline corpus is not a minor contradiction — it is the structural contradiction that made the Bible usable for both slavery's justification and its resistance.",
     "raw_text": "Where Christian theology is actually constructed. Paul never met Jesus. His letters predate the Gospels. He is building a theological system, not reporting events. The tension between 'there is neither slave nor free' (Galatians 3:28) and 'slaves obey your masters' (Colossians 3:22, Ephesians 6:5) in the Pauline corpus is not a minor contradiction — it is the structural contradiction that made the Bible usable for both slavery's justification and its resistance.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -2909,7 +4389,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters",
-    "source_reference": "paragraph:90",
+    "source_reference": "paragraph:134",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2923,7 +4403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b7ea4d5f7ac27b5e7234",
+    "id": "rk_f3d15373a19b35389c1a",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -2942,7 +4422,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:91",
+    "source_reference": "paragraph:135",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -2956,7 +4436,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_582b57dec9453a46496c",
+    "id": "rk_c06fdab251af52887057",
     "text": "AS RECORDED (§6.5, §11.2): Ephesians, Colossians, and the Pastorals flagged as pseudonymous by mainstream scholarship, treated as one verdict.",
     "raw_text": "**AS RECORDED (§6.5, §11.2):** Ephesians, Colossians, and the Pastorals flagged as pseudonymous by mainstream scholarship, treated as one verdict.",
     "provenance_type": "SOURCE",
@@ -2975,7 +4455,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:92",
+    "source_reference": "paragraph:136",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -2989,7 +4469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_19d37a26416aff31334b",
+    "id": "rk_a623d2baf0b94d9d6240",
     "text": "STATUS: Directionally right, flattened. Three tiers, not one — and the \"consensus\" claim depends on who is counted.",
     "raw_text": "**STATUS: Directionally right, flattened. Three tiers, not one — and the \"consensus\" claim depends on who is counted.**",
     "provenance_type": "SOURCE",
@@ -3008,10 +4488,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:93",
+    "source_reference": "paragraph:137",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [
-      "rk_e10b8e7a9af8ae106e77"
+      "rk_dd30a14fc4d96133d037"
     ],
     "tags": [],
     "citation": null,
@@ -3024,7 +4504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4033748b13f6c81bf2eb",
+    "id": "rk_e4c061237d86e46b6da0",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -3043,7 +4523,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:94",
+    "source_reference": "paragraph:138",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3057,7 +4537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e80083be31ee1b3046b0",
+    "id": "rk_673f3b200097510f3f6b",
     "text": "Undisputed seven: Romans, 1–2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon. Near-universal acceptance, established as the scholarly benchmark by the mid-twentieth century.",
     "raw_text": "**Undisputed seven:** Romans, 1–2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon. Near-universal acceptance, established as the scholarly benchmark by the mid-twentieth century.",
     "provenance_type": "SOURCE",
@@ -3076,7 +4556,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:95",
+    "source_reference": "paragraph:139",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3090,7 +4570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5624050192efca019d7d",
+    "id": "rk_595a8a598b99a95c61d9",
     "text": "Tier 1 — Pastorals (1 Timothy, 2 Timothy, Titus). Described in the literature as near-consensus pseudonymous: post-apostolic institutional concerns, church-order material presupposing a developed structure, addressed to individuals rather than congregations, and a vocabulary gap on the order of a third of the words appearing nowhere else in Paul. Dated typically two or more decades after Paul's death.",
     "raw_text": "**Tier 1 — Pastorals (1 Timothy, 2 Timothy, Titus).** Described in the literature as near-consensus pseudonymous: post-apostolic institutional concerns, church-order material presupposing a developed structure, addressed to individuals rather than congregations, and a vocabulary gap on the order of a third of the words appearing nowhere else in Paul. Dated typically two or more decades after Paul's death.",
     "provenance_type": "SOURCE",
@@ -3109,7 +4589,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:96",
+    "source_reference": "paragraph:140",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3123,7 +4603,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e35e116fe83fa5824e1f",
+    "id": "rk_8fb9373eb26ca7ebe05e",
     "text": "But here is a number worth holding onto. A recent survey of biblical scholars found the Pastorals close to evenly split when respondents could indicate Paul was significantly or somewhat involved: 2 Timothy 50% Pauline vs. 41% not; 1 Timothy 44% vs. 43%; Titus 44% vs. 45%. That is not near-consensus. The resolution: among critical scholars the consensus is real; a survey of everyone teaching biblical studies includes a large conservative-evangelical constituency. \"Scholarly consensus\" is a claim about a population, and the population has to be specified. This applies to every consensus claim in this document, including my own.",
     "raw_text": "**But here is a number worth holding onto.** A recent survey of biblical scholars found the Pastorals close to evenly split when respondents could indicate Paul was significantly *or* somewhat involved: 2 Timothy 50% Pauline vs. 41% not; 1 Timothy 44% vs. 43%; Titus 44% vs. 45%. That is not near-consensus. The resolution: among **critical** scholars the consensus is real; a survey of everyone teaching biblical studies includes a large conservative-evangelical constituency. **\"Scholarly consensus\" is a claim about a population, and the population has to be specified.** This applies to every consensus claim in this document, including my own.",
     "provenance_type": "SOURCE",
@@ -3142,7 +4622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:97",
+    "source_reference": "paragraph:141",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3156,7 +4636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bda72fdd45bf21267633",
+    "id": "rk_8a8e6b58910d49af3037",
     "text": "Tier 2 — Colossians and 2 Thessalonians. Genuinely contested. 2 Thessalonians has the sharpest internal argument against it: 1 Thessalonians 5:2 says the end arrives as a surprise, while 2 Thessalonians lays out a sequence of prior signs — a direct eschatological contradiction, in a letter that otherwise closely mirrors 1 Thessalonians in form. Colossians is defended by a serious conservative tradition: J.B. Lightfoot [CONSERVATIVE, 1875/1879] argued for authenticity from parallels to Phrygian local heresies and stylistic affinity with the prison letters, and that case still carries weight.",
     "raw_text": "**Tier 2 — Colossians and 2 Thessalonians.** Genuinely contested. 2 Thessalonians has the sharpest internal argument against it: 1 Thessalonians 5:2 says the end arrives as a surprise, while 2 Thessalonians lays out a sequence of prior signs — a direct eschatological contradiction, in a letter that otherwise closely mirrors 1 Thessalonians in form. Colossians is defended by a serious conservative tradition: J.B. Lightfoot [CONSERVATIVE, 1875/1879] argued for authenticity from parallels to Phrygian local heresies and stylistic affinity with the prison letters, and that case still carries weight.",
     "provenance_type": "SOURCE",
@@ -3175,7 +4655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:98",
+    "source_reference": "paragraph:142",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3189,7 +4669,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1f8efcf417dbd9799822",
+    "id": "rk_8335088025c8d5039a6d",
     "text": "Tier 3 — Ephesians. Widely treated as a literary expansion of Colossians, which places it downstream of a letter that is itself disputed.",
     "raw_text": "**Tier 3 — Ephesians.** Widely treated as a literary expansion of Colossians, which places it downstream of a letter that is itself disputed.",
     "provenance_type": "SOURCE",
@@ -3208,7 +4688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:99",
+    "source_reference": "paragraph:143",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3222,7 +4702,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e9ad89d5a12209941bac",
+    "id": "rk_24897357dc7ddf8fe9b0",
     "text": "Methodological caution on stylometry — this cuts against the critical side. Statistical style analysis is unreliable on corpora this short, and studies disagree with each other. Some analyses find 1 Thessalonians and Philippians — both undisputed — among the most syntactically divergent letters in the corpus, and at least one recent study has challenged Philemon. A method that flags undisputed letters as outliers cannot be treated as decisive when it flags disputed ones.",
     "raw_text": "**Methodological caution on stylometry — this cuts against the critical side.** Statistical style analysis is unreliable on corpora this short, and studies disagree with each other. Some analyses find 1 Thessalonians and Philippians — both undisputed — among the most syntactically divergent letters in the corpus, and at least one recent study has challenged Philemon. A method that flags undisputed letters as outliers cannot be treated as decisive when it flags disputed ones.",
     "provenance_type": "SOURCE",
@@ -3241,7 +4721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:100",
+    "source_reference": "paragraph:144",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3255,7 +4735,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_6386f667486cb80dc0b1",
+    "id": "rk_efa10134f1f4ff080461",
     "text": "The convention-versus-forgery question. The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use \"forgery\" outright. [Ehrman's position is recalled, not verified this session — check before deploying.]",
     "raw_text": "**The convention-versus-forgery question.** The standard line is that pseudepigraphy was a recognised and honourable literary convention in the Greco-Roman and Jewish worlds — disciples writing in a master's name — and this is often used to soften the finding. Bart Ehrman [CRITICAL] pushes back hard, arguing ancients regarded it as deception and said so. Some commentators use \"forgery\" outright. [Ehrman's position is recalled, not verified this session — check before deploying.]",
     "provenance_type": "SOURCE",
@@ -3274,7 +4754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:101",
+    "source_reference": "paragraph:145",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3288,7 +4768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e10b8e7a9af8ae106e77",
+    "id": "rk_dd30a14fc4d96133d037",
     "text": "CORRECTED: Three tiers. Pastorals: near-consensus pseudonymous among critical scholars, though a broader survey of biblical scholars splits close to even. Colossians and 2 Thessalonians: genuinely disputed, with 2 Thessalonians carrying the stronger internal case against authenticity and Colossians defended by a serious conservative tradition. Ephesians: widely read as dependent on Colossians. Stylometric arguments should be handled with care, since the same methods flag undisputed letters as outliers.",
     "raw_text": "**CORRECTED:** *Three tiers. Pastorals: near-consensus pseudonymous among critical scholars, though a broader survey of biblical scholars splits close to even. Colossians and 2 Thessalonians: genuinely disputed, with 2 Thessalonians carrying the stronger internal case against authenticity and Colossians defended by a serious conservative tradition. Ephesians: widely read as dependent on Colossians. Stylometric arguments should be handled with care, since the same methods flag undisputed letters as outliers.*",
     "provenance_type": "SOURCE",
@@ -3307,10 +4787,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:102",
+    "source_reference": "paragraph:146",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [
-      "rk_19d37a26416aff31334b"
+      "rk_a623d2baf0b94d9d6240"
     ],
     "tags": [],
     "citation": null,
@@ -3323,7 +4803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_6462a11e388fa3a1433e",
+    "id": "rk_c18940c293b6e584621b",
     "text": "WHY IT LOOKED RIGHT : Six disputed letters is a memorable number and the tiers collapse easily into one verdict. But the notes above were about to be used to sort your Galatians-onward reading, and sorting requires the tiers.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** Six disputed letters is a memorable number and the tiers collapse easily into one verdict. But the notes above were about to be used to sort your Galatians-onward reading, and sorting requires the tiers.",
     "provenance_type": "CLAUDE",
@@ -3342,7 +4822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:103",
+    "source_reference": "paragraph:147",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3356,7 +4836,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7bb0a7ae7e99f8f405dd",
+    "id": "rk_9e17e02478fe41f9f12f",
     "text": "Reading note for what comes next: Galatians, Romans, 1–2 Corinthians are all in the undisputed seven. Everything in the next stretch of reading is Paul's own voice. The tier problem only becomes live when you reach Ephesians and Colossians — including for the slavery texts at §6.5, where \"slaves obey your masters\" sits in Colossians 3:22 and Ephesians 6:5, i.e. both in disputed letters, while \"neither slave nor free\" sits in Galatians 3:28, which is undisputed. That materially changes the shape of the contradiction recorded there: it may be Paul versus his successors rather than Paul versus himself.",
     "raw_text": "**Reading note for what comes next:** Galatians, Romans, 1–2 Corinthians are all in the undisputed seven. Everything in the next stretch of reading is Paul's own voice. The tier problem only becomes live when you reach Ephesians and Colossians — including for the slavery texts at §6.5, where \"slaves obey your masters\" sits in Colossians 3:22 and Ephesians 6:5, i.e. **both in disputed letters**, while \"neither slave nor free\" sits in Galatians 3:28, which is undisputed. That materially changes the shape of the contradiction recorded there: it may be Paul versus his successors rather than Paul versus himself.",
     "provenance_type": "SOURCE",
@@ -3375,7 +4855,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
-    "source_reference": "paragraph:104",
+    "source_reference": "paragraph:148",
     "parent_id": "audit_6fc43a996e151703a993",
     "related_ids": [],
     "tags": [],
@@ -3389,7 +4869,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_953086ab0e00dc6d12ac",
+    "id": "rk_79299458b0c56b07d6b7",
     "text": "Authorship and dating: who wrote this, when, for what community, and what was their political situation.",
     "raw_text": "Authorship and dating: who wrote this, when, for what community, and what was their political situation.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3406,7 +4886,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:105",
+    "source_reference": "paragraph:149",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3420,7 +4900,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_cfbde7a3f8c093695d8d",
+    "id": "rk_133a1d472b6b94a7da76",
     "text": "OT citations: how are they being used, does the original context support the claim, and is this fulfillment or retrofit?",
     "raw_text": "OT citations: how are they being used, does the original context support the claim, and is this fulfillment or retrofit?",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3437,7 +4917,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:106",
+    "source_reference": "paragraph:150",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3451,7 +4931,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c6f328a4eace1f2d7a10",
+    "id": "rk_d5203be9b6aedb85d8e7",
     "text": "Contradictions between Gospels: same story told differently (birth narratives, resurrection accounts, last words, Peter's denial, the death of Judas).",
     "raw_text": "Contradictions between Gospels: same story told differently (birth narratives, resurrection accounts, last words, Peter's denial, the death of Judas).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3468,7 +4948,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:107",
+    "source_reference": "paragraph:151",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3482,7 +4962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_10af65245d77226dd36f",
+    "id": "rk_9db29506a39d61b93460",
     "text": "Power dynamics: who benefits from each theological claim. Whose obedience is being secured, and whose authority is being legitimized?",
     "raw_text": "Power dynamics: who benefits from each theological claim. Whose obedience is being secured, and whose authority is being legitimized?",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3499,7 +4979,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:108",
+    "source_reference": "paragraph:152",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3513,7 +4993,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_11372d13b05571bd70d9",
+    "id": "rk_fd5c8d95c556ab7dba0e",
     "text": "Theological evolution: how does 'Jesus as prophet/healer' become 'Jesus as cosmic God'? This arc runs across Mark → Matthew → Luke → John → Paul.",
     "raw_text": "Theological evolution: how does 'Jesus as prophet/healer' become 'Jesus as cosmic God'? This arc runs across Mark → Matthew → Luke → John → Paul.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3530,7 +5010,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:109",
+    "source_reference": "paragraph:153",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3544,7 +5024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2d0521ffb5b41da04a19",
+    "id": "rk_6be1b066140f5c072070",
     "text": "Greek translation issues: same problem as Hebrew, different language. Words matter; translation choices create doctrine.",
     "raw_text": "Greek translation issues: same problem as Hebrew, different language. Words matter; translation choices create doctrine.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3561,7 +5041,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:110",
+    "source_reference": "paragraph:154",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3575,7 +5055,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d3f9ebbaac1e1eb75404",
+    "id": "rk_a9d764477d879a8291ba",
     "text": "What Jesus actually says vs. what Paul builds: these are frequently in tension. Paul's theology of atonement, resurrection as cosmic event, and Gentile inclusion goes far beyond anything in the Synoptic Gospels.",
     "raw_text": "What Jesus actually says vs. what Paul builds: these are frequently in tension. Paul's theology of atonement, resurrection as cosmic event, and Gentile inclusion goes far beyond anything in the Synoptic Gospels.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3592,7 +5072,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 7. Critical Dimensions to Track (All NT)",
-    "source_reference": "paragraph:111",
+    "source_reference": "paragraph:155",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3606,7 +5086,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_70665e276b7175b3b051",
+    "id": "rk_00ffa8fdb66b8ab5d81d",
     "text": "Latest Gospel (~90-100 CE). Written after the Jesus community has been expelled from synagogues — the Greek word aposynagogos (expelled) appears only in John. That social wound is baked into the entire text.",
     "raw_text": "Latest Gospel (~90-100 CE). Written after the Jesus community has been expelled from synagogues — the Greek word aposynagogos (expelled) appears only in John. That social wound is baked into the entire text.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3623,7 +5103,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint",
-    "source_reference": "paragraph:112",
+    "source_reference": "paragraph:156",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3637,7 +5117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4c7412c67c93c1eb769f",
+    "id": "rk_d501fd48d19e14bf2e6d",
     "text": "John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
     "raw_text": "John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3655,7 +5135,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.1 What John is doing differently",
-    "source_reference": "paragraph:113",
+    "source_reference": "paragraph:157",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3669,7 +5149,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_34e423800f5dda240ed6",
+    "id": "rk_2676992e54cb689bf50b",
     "text": "Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
     "raw_text": "Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3687,7 +5167,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.1 What John is doing differently",
-    "source_reference": "paragraph:114",
+    "source_reference": "paragraph:158",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3701,7 +5181,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_863a590bb1af1ab98a25",
+    "id": "rk_6ce880142d75bf4fb2c1",
     "text": "'I am the way, the truth, and the life' (14:6). 'Before Abraham was, I am' (8:58). That last one deliberately uses the divine name from Exodus 3:14. Zero equivalent in Mark. The divine self-identification escalates across all four Gospels — John is the endpoint of that arc.",
     "raw_text": "'I am the way, the truth, and the life' (14:6). 'Before Abraham was, I am' (8:58). That last one deliberately uses the divine name from Exodus 3:14. Zero equivalent in Mark. The divine self-identification escalates across all four Gospels — John is the endpoint of that arc.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3719,7 +5199,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.2 The 'I Am' statements",
-    "source_reference": "paragraph:115",
+    "source_reference": "paragraph:159",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3733,7 +5213,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_111fb2fd464d456ed2c8",
+    "id": "rk_2d24033cddd3df3b1443",
     "text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.",
     "raw_text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3751,7 +5231,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.3 The Lazarus problem",
-    "source_reference": "paragraph:116",
+    "source_reference": "paragraph:160",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3765,7 +5245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_307c7a2e4509ea9391ba",
+    "id": "rk_914cf94d5d169a02f1e6",
     "text": "Jesus feeds 5,000 then pivots: I am the bread, eat my flesh, drink my blood for eternal life. He doubles down when people recoil. Even disciples say 'this is a hard saying' and leave. John includes the walkout — which is remarkable.",
     "raw_text": "Jesus feeds 5,000 then pivots: I am the bread, eat my flesh, drink my blood for eternal life. He doubles down when people recoil. Even disciples say 'this is a hard saying' and leave. John includes the walkout — which is remarkable.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3783,7 +5263,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.4 Eat my flesh, drink my blood (John 6)",
-    "source_reference": "paragraph:117",
+    "source_reference": "paragraph:161",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3797,7 +5277,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_468578ebc765b9e7d3bb",
+    "id": "rk_ea156a63df23a5047a6d",
     "text": "Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
     "raw_text": "Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3815,7 +5295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.4 Eat my flesh, drink my blood (John 6)",
-    "source_reference": "paragraph:118",
+    "source_reference": "paragraph:162",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3829,7 +5309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_aa0c5f69f722ead080d1",
+    "id": "rk_51aa9a9a865d0df00f60",
     "text": "'You are of your father the devil' — Jesus to Jewish leaders, John 8:44. 'The Jews' are treated as a category separate from and opposed to Jesus, despite Jesus being Jewish. This is a community processing its synagogue expulsion by demonizing the people who expelled them. This language becomes the theological foundation for centuries of Christian antisemitism — pogroms, expulsions, and the cultural soil that enabled the Holocaust. Scholars draw this line directly.",
     "raw_text": "'You are of your father the devil' — Jesus to Jewish leaders, John 8:44. 'The Jews' are treated as a category separate from and opposed to Jesus, despite Jesus being Jewish. This is a community processing its synagogue expulsion by demonizing the people who expelled them. This language becomes the theological foundation for centuries of Christian antisemitism — pogroms, expulsions, and the cultural soil that enabled the Holocaust. Scholars draw this line directly.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -3847,7 +5327,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem",
-    "source_reference": "paragraph:119",
+    "source_reference": "paragraph:163",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3861,7 +5341,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_fc66fe9670914f733458",
+    "id": "rk_d62b95ab149570c15c8d",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -3880,7 +5360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:120",
+    "source_reference": "paragraph:164",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -3894,7 +5374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_6ba480cf110136888a05",
+    "id": "rk_a6ac2a09945264e1a402",
     "text": "AS RECORDED (§8.5): \"'The Jews' are treated as a category separate from and opposed to Jesus... This is a community processing its synagogue expulsion by demonizing the people who expelled them. This language becomes the theological foundation for centuries of Christian antisemitism.\"",
     "raw_text": "**AS RECORDED (§8.5):** \"'The Jews' are treated as a category separate from and opposed to Jesus... This is a community processing its synagogue expulsion by demonizing the people who expelled them. This language becomes the theological foundation for centuries of Christian antisemitism.\"",
     "provenance_type": "SOURCE",
@@ -3913,7 +5393,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:121",
+    "source_reference": "paragraph:165",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -3927,7 +5407,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_e4e25e104ab29d98f242",
+    "id": "rk_2d937ecc35dcc242fc82",
     "text": "STATUS: Directionally sound and closer to mainstream than expected — but the explanatory framework is the weak link, and the obvious-looking correction is worse than the original.",
     "raw_text": "**STATUS: Directionally sound and closer to mainstream than expected — but the explanatory framework is the weak link, and the obvious-looking correction is worse than the original.**",
     "provenance_type": "SOURCE",
@@ -3946,10 +5426,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:122",
+    "source_reference": "paragraph:166",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [
-      "rk_274ea1f26dbaeda56420"
+      "rk_58cafc8e3e68e7a8dee8"
     ],
     "tags": [],
     "citation": null,
@@ -3962,7 +5442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_727e6104eb25a0e02b4b",
+    "id": "rk_3e00bff4b557804a35aa",
     "text": "AUDIT — this one inverted my expectation.",
     "raw_text": "**AUDIT — this one inverted my expectation.**",
     "provenance_type": "SOURCE",
@@ -3981,7 +5461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:123",
+    "source_reference": "paragraph:167",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -3995,7 +5475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2d0b89d0dd2430664da6",
+    "id": "rk_fbe452c06cbc726ad890",
     "text": "I flagged this as likely overstated, assuming the Ioudaioi = \"Judeans\" translation would be the corrective. It is not. The leading Jewish scholars in this debate argue against that move.",
     "raw_text": "I flagged this as likely overstated, assuming the *Ioudaioi* = \"Judeans\" translation would be the corrective. It is not. The leading Jewish scholars in this debate argue **against** that move.",
     "provenance_type": "SOURCE",
@@ -4014,7 +5494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:124",
+    "source_reference": "paragraph:168",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4028,7 +5508,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_8fd6a286de971668522c",
+    "id": "rk_59c871c9f2a1605684de",
     "text": "Adele Reinhartz [JEWISH CRITICAL] is alarmed by the growing invisibility of Jews and Judaism in English translations of ancient texts. She defends \"Jews\" as accurate and argues the affinity between ancient Ioudaioi and modern Jews speaks for accuracy, not against it. Amy-Jill Levine [JEWISH CRITICAL] shares the concern. Ruth Sheridan (JBL 2013) argues the highly literalistic \"Judeans\" carries its own hermeneutical risks. The advocates for \"Judeans\" are Steve Mason (JSJ 38, 2007), Philip Esler, and Malcolm Lowe — Mason's case is strongest for Josephus specifically.",
     "raw_text": "**Adele Reinhartz** [JEWISH CRITICAL] is alarmed by the growing invisibility of Jews and Judaism in English translations of ancient texts. She defends \"Jews\" as accurate and argues the affinity between ancient *Ioudaioi* and modern Jews speaks **for** accuracy, not against it. **Amy-Jill Levine** [JEWISH CRITICAL] shares the concern. **Ruth Sheridan** (*JBL* 2013) argues the highly literalistic \"Judeans\" carries its own hermeneutical risks. The advocates for \"Judeans\" are **Steve Mason** (*JSJ* 38, 2007), **Philip Esler**, and **Malcolm Lowe** — Mason's case is strongest for Josephus specifically.",
     "provenance_type": "SOURCE",
@@ -4047,7 +5527,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:125",
+    "source_reference": "paragraph:169",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4061,7 +5541,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_409618a1faebe8ee446a",
+    "id": "rk_4b1abadf58f9e9794131",
     "text": "Where the majority sits: most scholars and most Bible translations continue to use \"Jews.\" The NRSVue uses \"Jew\" unless the sense is clearly geographical.",
     "raw_text": "**Where the majority sits:** most scholars and most Bible translations continue to use \"Jews.\" The NRSVue uses \"Jew\" unless the sense is clearly geographical.",
     "provenance_type": "SOURCE",
@@ -4080,7 +5560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:126",
+    "source_reference": "paragraph:170",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4094,7 +5574,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3d8c899997d8cbe758ee",
+    "id": "rk_fbe3b5eda302a49bdd6c",
     "text": "The finding that should change how you use this: James Crossley [CRITICAL] published an ideological analysis of the Ioudaios debate showing the \"Judeans\" translation pushed to its endpoint produces the claim that it would be anachronistic to identify any modern Jews with the Judeans of John's Gospel — reasoning that runs through eighth-century conversion theories to sever modern Jews from the biblical text entirely. Reinhartz and Levine warned that this erases pre-rabbinic Judaism. The \"safer\" translation has been weaponised in a direction more dangerous than the original. Do not reach for it.",
     "raw_text": "**The finding that should change how you use this:** James Crossley [CRITICAL] published an ideological analysis of the *Ioudaios* debate showing the \"Judeans\" translation pushed to its endpoint produces the claim that it would be anachronistic to identify any modern Jews with the Judeans of John's Gospel — reasoning that runs through eighth-century conversion theories to sever modern Jews from the biblical text entirely. Reinhartz and Levine warned that this erases pre-rabbinic Judaism. **The \"safer\" translation has been weaponised in a direction more dangerous than the original.** Do not reach for it.",
     "provenance_type": "SOURCE",
@@ -4113,7 +5593,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:127",
+    "source_reference": "paragraph:171",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4127,7 +5607,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_ca54ca14ddc17a60967a",
+    "id": "rk_c4c7e043445dbaeededf",
     "text": "Where I was actually wrong — the framework, not the claim. §8.5 and §8 lean on J. Louis Martyn's two-level drama and the aposynagogos synagogue-expulsion reconstruction as established background. Reinhartz has critiqued that framework directly, and it is no longer safe to state as settled. My notes present Martyn's reconstruction as the explanation; it is a contested hypothesis.",
     "raw_text": "**Where I was actually wrong — the framework, not the claim.** §8.5 and §8 lean on J. Louis Martyn's two-level drama and the *aposynagogos* synagogue-expulsion reconstruction as established background. **Reinhartz has critiqued that framework directly**, and it is no longer safe to state as settled. My notes present Martyn's reconstruction as the explanation; it is a contested hypothesis.",
     "provenance_type": "SOURCE",
@@ -4146,7 +5626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:128",
+    "source_reference": "paragraph:172",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4160,7 +5640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_86e3ecb5577a2324ea47",
+    "id": "rk_e42fc25d08a151de35d2",
     "text": "The strongest counter-case: scholars generally agree John did not mean \"all Jews.\" Reinhartz observes John uses Ioudaioi interchangeably with \"Pharisees,\" sometimes in the same passage, and that for John first-century Ioudaioi were not a monolithic undifferentiated group. John repeatedly signals Jesus's own Jewishness — his body is wrapped for burial according to Jewish custom (19:40). Wesley Howard-Brook argues John is calling people back to the covenant, not away from it. The intra-Jewish reading — a family argument, read for two millennia by outsiders cheering one side — is a serious position, not apologetics.",
     "raw_text": "**The strongest counter-case:** scholars generally agree John did not mean \"all Jews.\" Reinhartz observes John uses *Ioudaioi* interchangeably with \"Pharisees,\" sometimes in the same passage, and that for John first-century *Ioudaioi* were not a monolithic undifferentiated group. John repeatedly signals Jesus's own Jewishness — his body is wrapped for burial according to Jewish custom (19:40). Wesley Howard-Brook argues John is calling people **back** to the covenant, not away from it. The intra-Jewish reading — a family argument, read for two millennia by outsiders cheering one side — is a serious position, not apologetics.",
     "provenance_type": "SOURCE",
@@ -4179,7 +5659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:129",
+    "source_reference": "paragraph:173",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4193,7 +5673,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2418a97a91d534a2cb07",
+    "id": "rk_ea737faa5186a735e11c",
     "text": "Terminology correction: the standard scholarly term is anti-Jewish, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way \"homosexuality\" is anachronistic in Leviticus. This matters — using the wrong term invites a correction that lets an opponent dismiss the whole point.",
     "raw_text": "**Terminology correction:** the standard scholarly term is **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category (the word dates to 1879); applying it to a first-century text is anachronistic in the same way \"homosexuality\" is anachronistic in Leviticus. This matters — using the wrong term invites a correction that lets an opponent dismiss the whole point.",
     "provenance_type": "SOURCE",
@@ -4212,7 +5692,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:130",
+    "source_reference": "paragraph:174",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4226,7 +5706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_274ea1f26dbaeda56420",
+    "id": "rk_58cafc8e3e68e7a8dee8",
     "text": "CORRECTED: John's Gospel contains sharply anti-Jewish rhetoric, of which 8:44 is the extreme case, and its reception history as a resource for Christian anti-Judaism is documented and severe. Leading Jewish scholars defend translating Ioudaioi as \"Jews\" and reject \"Judeans\" as an erasure. What is contested is (a) whether the polemic is intra-Jewish sectarian rhetoric rather than a hostile out-group construction, and (b) whether Martyn's synagogue-expulsion reconstruction — which the notes above use as the explanation — is historically sound. Reinhartz critiques it.",
     "raw_text": "**CORRECTED:** *John's Gospel contains sharply anti-Jewish rhetoric, of which 8:44 is the extreme case, and its reception history as a resource for Christian anti-Judaism is documented and severe. Leading Jewish scholars defend translating* Ioudaioi *as \"Jews\" and reject \"Judeans\" as an erasure. What is contested is (a) whether the polemic is intra-Jewish sectarian rhetoric rather than a hostile out-group construction, and (b) whether Martyn's synagogue-expulsion reconstruction — which the notes above use as the explanation — is historically sound. Reinhartz critiques it.*",
     "provenance_type": "SOURCE",
@@ -4245,10 +5725,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:131",
+    "source_reference": "paragraph:175",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [
-      "rk_e4e25e104ab29d98f242"
+      "rk_2d937ecc35dcc242fc82"
     ],
     "tags": [],
     "citation": null,
@@ -4261,7 +5741,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a2689d9986670e75a760",
+    "id": "rk_22fae297bbb08c934e4c",
     "text": "WHY IT LOOKED RIGHT : The reception history is genuinely appalling, and the temptation is to read the effect back into the intent. A text can be catastrophic in its consequences without its author having written what later readers made of it. Keep the reception-history claim, which is strong, separate from the authorial-intent claim, which is not.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The reception history is genuinely appalling, and the temptation is to read the effect back into the intent. A text can be catastrophic in its consequences without its author having written what later readers made of it. Keep the reception-history claim, which is strong, separate from the authorial-intent claim, which is not.",
     "provenance_type": "CLAUDE",
@@ -4280,7 +5760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:132",
+    "source_reference": "paragraph:176",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4294,7 +5774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_22ead135991f339d4546",
+    "id": "rk_1ffdde2ac7471ad1f51d",
     "text": "Debate note: this is one of the few places where the strongest version of your argument does not need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.",
     "raw_text": "**Debate note:** this is one of the few places where the strongest version of your argument does **not** need to establish intent. The reception history is the argument. Ask what it means that a text divinely inspired for all people has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to.",
     "provenance_type": "SOURCE",
@@ -4313,7 +5793,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
-    "source_reference": "paragraph:133",
+    "source_reference": "paragraph:177",
     "parent_id": "audit_e51bae030537e25f9e6a",
     "related_ids": [],
     "tags": [],
@@ -4327,7 +5807,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a5f9a094d848aebc1c52",
+    "id": "rk_8d7c7fdb5cff0fe3b361",
     "text": "Mark 13:30 — 'this generation will not pass away until all these things take place.' Matthew 16:28 — some standing here won't taste death before the Son of Man comes. These are specific claims with deadlines that passed. The early church expected the end imminently. Then people died. Jesus didn't return.",
     "raw_text": "Mark 13:30 — 'this generation will not pass away until all these things take place.' Matthew 16:28 — some standing here won't taste death before the Son of Man comes. These are specific claims with deadlines that passed. The early church expected the end imminently. Then people died. Jesus didn't return.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -4345,7 +5825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution",
-    "source_reference": "paragraph:134",
+    "source_reference": "paragraph:178",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -4359,7 +5839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_7eca42102b625de8cb02",
+    "id": "rk_2f01b1b3843e91f886fe",
     "text": "John's solution: shift from future apocalyptic to present mystical. Eternal life is available NOW through belief (John 5:24 — already 'passed from death to life,' past tense). You don't wait for the kingdom — you ingest it weekly in the Eucharist. Crisis absorbed into sustainable ritual. This is why John feels so different from Mark — it's a later community's theological revision of a failed timeline.",
     "raw_text": "John's solution: shift from future apocalyptic to present mystical. Eternal life is available NOW through belief (John 5:24 — already 'passed from death to life,' past tense). You don't wait for the kingdom — you ingest it weekly in the Eucharist. Crisis absorbed into sustainable ritual. This is why John feels so different from Mark — it's a later community's theological revision of a failed timeline.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -4377,7 +5857,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution",
-    "source_reference": "paragraph:135",
+    "source_reference": "paragraph:179",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -4391,7 +5871,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_ab46287c77d25f724caf",
+    "id": "rk_e743e9007a66a4b4962b",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -4410,7 +5890,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:136",
+    "source_reference": "paragraph:180",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4424,7 +5904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c05f2b9911508536ced8",
+    "id": "rk_da9bd6c96d7efe2c2c5e",
     "text": "AS RECORDED (§8.6): \"John's solution: shift from future apocalyptic to present mystical... Crisis absorbed into sustainable ritual. This is why John feels so different from Mark — it's a later community's theological revision of a failed timeline.\"",
     "raw_text": "**AS RECORDED (§8.6):** \"John's solution: shift from future apocalyptic to present mystical... Crisis absorbed into sustainable ritual. This is why John feels so different from Mark — it's a later community's theological revision of a failed timeline.\"",
     "provenance_type": "SOURCE",
@@ -4443,7 +5923,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:137",
+    "source_reference": "paragraph:181",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4457,7 +5937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d0dba22414c162009eb1",
+    "id": "rk_ecf36277e2fa7d325fa9",
     "text": "STATUS: Overstated. The data holds; the causal engine is exactly what is contested.",
     "raw_text": "**STATUS: Overstated. The data holds; the causal engine is exactly what is contested.**",
     "provenance_type": "SOURCE",
@@ -4476,10 +5956,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:138",
+    "source_reference": "paragraph:182",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [
-      "rk_439d67efc0a81764d4ae"
+      "rk_bb067993d82c3dd3863a"
     ],
     "tags": [],
     "citation": null,
@@ -4492,7 +5972,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_6eebd3d9011ab9ea78dc",
+    "id": "rk_1a005c2b8eecccc20f8a",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -4511,7 +5991,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:139",
+    "source_reference": "paragraph:183",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4525,7 +6005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d8513879458dc9750d9f",
+    "id": "rk_48d5f6fd1d98c65ea122",
     "text": "Separate two claims that §8.6 fused:",
     "raw_text": "Separate two claims that §8.6 fused:",
     "provenance_type": "SOURCE",
@@ -4544,7 +6024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:140",
+    "source_reference": "paragraph:184",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4558,7 +6038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9efc99dd9829c23dad25",
+    "id": "rk_375e20e26fab96487d17",
     "text": "(a) Early Christian texts expect an imminent end, and it did not come. This is solid. Mark 13:30, Matthew 16:28, 1 Thessalonians 4 are deadline claims. 2 Peter 3:4 already records scoffers asking where the promised coming is — the problem is internal to the NT, not imposed by critics. Ratzinger, no liberal, grants that the examples are cogent evidence that older texts stress imminence more.",
     "raw_text": "**(a) Early Christian texts expect an imminent end, and it did not come.** This is solid. Mark 13:30, Matthew 16:28, 1 Thessalonians 4 are deadline claims. 2 Peter 3:4 already records scoffers asking where the promised coming is — the problem is internal to the NT, not imposed by critics. Ratzinger, no liberal, grants that the examples are cogent evidence that older texts stress imminence more.",
     "provenance_type": "SOURCE",
@@ -4577,7 +6057,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:141",
+    "source_reference": "paragraph:185",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4591,7 +6071,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9a923b797b60a6a62997",
+    "id": "rk_5ee57659480c650c79ac",
     "text": "(b) That failed expectation is the causal engine driving later theological development, including John's realized eschatology. This is a mid-twentieth-century framework, and it is the part under sustained attack.",
     "raw_text": "**(b) That failed expectation is the causal engine driving later theological development, including John's realized eschatology.** This is a mid-twentieth-century framework, and it is the part under sustained attack.",
     "provenance_type": "SOURCE",
@@ -4610,7 +6090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:142",
+    "source_reference": "paragraph:186",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4624,7 +6104,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_4a8bd2396f6d9350eec9",
+    "id": "rk_11e4abe9840889a045ad",
     "text": "Who built it: Albert Schweitzer [CRITICAL, founder] made the delay the hinge of everything — on his account the entire inner history of Christianity rests on the parousia's failure to materialize and the consequent \"de-eschatologizing\" of the religion. Rudolf Bultmann [CRITICAL, existentialist] resolved it by dissolving the parousia into the existential now. Ernst Käsemann [CRITICAL] applied it to Luke-Acts with the memorable argument that you do not write the history of the church if you expect the world to end tomorrow. Hans Conzelmann [CRITICAL] built Lukan periodization on it. C.K. Barrett carried it into Johannine studies. C.H. Dodd [CRITICAL, \"Oxbridge\" school] supplied \"realized eschatology\" as the category.",
     "raw_text": "**Who built it:** Albert Schweitzer [CRITICAL, founder] made the delay the hinge of everything — on his account the entire inner history of Christianity rests on the parousia's failure to materialize and the consequent \"de-eschatologizing\" of the religion. Rudolf Bultmann [CRITICAL, existentialist] resolved it by dissolving the parousia into the existential now. Ernst Käsemann [CRITICAL] applied it to Luke-Acts with the memorable argument that you do not write the history of the church if you expect the world to end tomorrow. Hans Conzelmann [CRITICAL] built Lukan periodization on it. C.K. Barrett carried it into Johannine studies. C.H. Dodd [CRITICAL, \"Oxbridge\" school] supplied \"realized eschatology\" as the category.",
     "provenance_type": "SOURCE",
@@ -4643,7 +6123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:143",
+    "source_reference": "paragraph:187",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4657,7 +6137,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_324f6da6b27309a4e972",
+    "id": "rk_4f05ac34857222ed14cf",
     "text": "Note the tense in the current literature: Michael Bird [EVANGELICAL], summarizing Paula Fredriksen [CRITICAL, historian of ancient Christianity], writes that in the mid-twentieth century the delay of the parousia was regarded as a kind of controlling matrix for the early church. That is a description of a superseded consensus.",
     "raw_text": "Note the tense in the current literature: Michael Bird [EVANGELICAL], summarizing Paula Fredriksen [CRITICAL, historian of ancient Christianity], writes that in the **mid-twentieth century** the delay of the parousia **was regarded** as a kind of controlling matrix for the early church. That is a description of a superseded consensus.",
     "provenance_type": "SOURCE",
@@ -4676,7 +6156,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:144",
+    "source_reference": "paragraph:188",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4690,7 +6170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_f0bf0af2f3a761661b70",
+    "id": "rk_86559ead9402efdef2f2",
     "text": "Who dismantled it: A.L. Moore argues the delay did not fundamentally alter Paul's eschatological framework. David Aune [CRITICAL] argues the delay lacks a demonstrable causal relationship with early Christian theological transformation. Schweitzer's disappointment-leads-to-Hellenization thesis is challenged on grounds of continuity in early Christian hope. Clark Pinnock [EVANGELICAL] argues Paul's eschatology matured rather than changed.",
     "raw_text": "**Who dismantled it:** A.L. Moore argues the delay did not fundamentally alter Paul's eschatological framework. David Aune [CRITICAL] argues the delay lacks a demonstrable causal relationship with early Christian theological transformation. Schweitzer's disappointment-leads-to-Hellenization thesis is challenged on grounds of continuity in early Christian hope. Clark Pinnock [EVANGELICAL] argues Paul's eschatology matured rather than changed.",
     "provenance_type": "SOURCE",
@@ -4709,7 +6189,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:145",
+    "source_reference": "paragraph:189",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4723,7 +6203,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_3056fae5855922ba925a",
+    "id": "rk_168bf747561a02ed50b8",
     "text": "The sharpest single objection, and it comes from the conservative side — Joseph Ratzinger / Benedict XVI [CATHOLIC, conservative]: granting that older texts stress imminence more, it does not follow that one can infer a general chronological principle whereby Christian origins are marked by radical imminence, gradually toned down, arriving finally at John, where temporal eschatology has been wholly eliminated in favour of an existential counterpart. That is precisely the arc §8.6 assumes. The individual data points do not license the developmental curve drawn through them.",
     "raw_text": "**The sharpest single objection**, and it comes from the conservative side — Joseph Ratzinger / Benedict XVI [CATHOLIC, conservative]: granting that older texts stress imminence more, it does not follow that one can infer a **general chronological principle** whereby Christian origins are marked by radical imminence, gradually toned down, arriving finally at John, where temporal eschatology has been wholly eliminated in favour of an existential counterpart. That is precisely the arc §8.6 assumes. The individual data points do not license the developmental curve drawn through them.",
     "provenance_type": "SOURCE",
@@ -4742,7 +6222,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:146",
+    "source_reference": "paragraph:190",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4756,7 +6236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1ad43446022192db27ea",
+    "id": "rk_a33e1e0e197d3c0024f2",
     "text": "Complication worth holding: Paul's own letters already contain realized-eschatology language early, and apocalyptic language persists late (Revelation, c. 95 CE, is roughly contemporary with John and is maximally apocalyptic). If delay drove a one-way shift from future to present, Revelation should not exist where it does.",
     "raw_text": "**Complication worth holding:** Paul's own letters already contain realized-eschatology language *early*, and apocalyptic language persists *late* (Revelation, c. 95 CE, is roughly contemporary with John and is maximally apocalyptic). If delay drove a one-way shift from future to present, Revelation should not exist where it does.",
     "provenance_type": "SOURCE",
@@ -4775,7 +6255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:147",
+    "source_reference": "paragraph:191",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4789,7 +6269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_439d67efc0a81764d4ae",
+    "id": "rk_bb067993d82c3dd3863a",
     "text": "CORRECTED: Early Christian texts expected an imminent end that did not arrive, and this is an internal problem the NT itself registers. John's Gospel does emphasise present, realised eschatology far more than Mark does. Whether the second fact is caused by the first is a mid-twentieth-century hypothesis that has been substantially challenged and should not be asserted as established.",
     "raw_text": "**CORRECTED:** *Early Christian texts expected an imminent end that did not arrive, and this is an internal problem the NT itself registers. John's Gospel does emphasise present, realised eschatology far more than Mark does. Whether the second fact is caused by the first is a mid-twentieth-century hypothesis that has been substantially challenged and should not be asserted as established.*",
     "provenance_type": "SOURCE",
@@ -4808,10 +6288,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:148",
+    "source_reference": "paragraph:192",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [
-      "rk_d0dba22414c162009eb1"
+      "rk_ecf36277e2fa7d325fa9"
     ],
     "tags": [],
     "citation": null,
@@ -4824,7 +6304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_5ab59d361b9945cde9b9",
+    "id": "rk_0bbd1826086ac1702ea3",
     "text": "WHY IT LOOKED RIGHT : It is a complete, satisfying mechanism — prophecy fails, theology adapts, institution survives. Explanatory closure feels like evidence. But the delay thesis is a claim about causation, and causation is the hardest thing to establish in literary history and the easiest thing to assume.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It is a complete, satisfying mechanism — prophecy fails, theology adapts, institution survives. Explanatory closure feels like evidence. But the delay thesis is a claim about **causation**, and causation is the hardest thing to establish in literary history and the easiest thing to assume.",
     "provenance_type": "CLAUDE",
@@ -4843,7 +6323,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:149",
+    "source_reference": "paragraph:193",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4857,7 +6337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_f9c69044e349ea53a7f0",
+    "id": "rk_01420586d817f22460fb",
     "text": "Debate note: the failed-deadline argument is strong on its own and needs no causal story attached. Ask about Mark 13:30 and Matthew 16:28 directly. Do not add \"and that's why John was written,\" because a well-read opponent can cite Ratzinger against you.",
     "raw_text": "**Debate note:** the failed-deadline argument is strong on its own and needs no causal story attached. Ask about Mark 13:30 and Matthew 16:28 directly. Do not add \"and that's why John was written,\" because a well-read opponent can cite Ratzinger against you.",
     "provenance_type": "SOURCE",
@@ -4876,7 +6356,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
-    "source_reference": "paragraph:150",
+    "source_reference": "paragraph:194",
     "parent_id": "audit_0b5d6471fca8bf02e77a",
     "related_ids": [],
     "tags": [],
@@ -4890,7 +6370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_9737ca00cb902b7ea6f8",
+    "id": "rk_c7ae96019a5e5f3bbf6a",
     "text": "Luke part 2, same author, same agenda. The PR document for how a Jewish sect became a Gentile world religion. Written to make the transition look ordained and smooth. It wasn't.",
     "raw_text": "Luke part 2, same author, same agenda. The PR document for how a Jewish sect became a Gentile world religion. Written to make the transition look ordained and smooth. It wasn't.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -4907,7 +6387,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth",
-    "source_reference": "paragraph:151",
+    "source_reference": "paragraph:195",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -4921,7 +6401,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_acda65a2c319d1968bb0",
+    "id": "rk_b5802a1eb7973993ed8b",
     "text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.",
     "raw_text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -4939,7 +6419,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.1 Pentecost (Acts 2)",
-    "source_reference": "paragraph:152",
+    "source_reference": "paragraph:196",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -4953,7 +6433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0b7fe5f7b2324702f09b",
+    "id": "rk_84280d1607276e7f568e",
     "text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
     "raw_text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -4971,7 +6451,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.2 The Jerusalem Council (Acts 15)",
-    "source_reference": "paragraph:153",
+    "source_reference": "paragraph:197",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -4985,7 +6465,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a4e9c646b8317396dea8",
+    "id": "rk_ca9cc8f67d5f33f7f18d",
     "text": "Acts makes Peter and Paul look like they broadly agree, minor friction smoothed over. Paul's letter to the Galatians (2:11) says he opposed Peter 'to his face' because Peter was being hypocritical about eating with Gentiles — performing Jewish observance when Jewish Christians were watching, dropping it when they weren't. Acts doesn't include this. Acts is managing the founding mythology. Paul's letters are the actual receipts.",
     "raw_text": "Acts makes Peter and Paul look like they broadly agree, minor friction smoothed over. Paul's letter to the Galatians (2:11) says he opposed Peter 'to his face' because Peter was being hypocritical about eating with Gentiles — performing Jewish observance when Jewish Christians were watching, dropping it when they weren't. Acts doesn't include this. Acts is managing the founding mythology. Paul's letters are the actual receipts.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -5003,7 +6483,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters",
-    "source_reference": "paragraph:154",
+    "source_reference": "paragraph:198",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5017,7 +6497,443 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_c2f443d1d23ab758623d",
+    "id": "rk_1ea04d0896b564070335",
+    "text": "CHECKED 7 AUG 2026",
+    "raw_text": "`CHECKED 7 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:199",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_4fb2d6907ec98f1a65ad",
+    "text": "AS RECORDED: Galatians 2 and Acts 15 give contradictory accounts of the Jerusalem council. (§9.3.)",
+    "raw_text": "**AS RECORDED:** Galatians 2 and Acts 15 give contradictory accounts of the Jerusalem council. (§9.3.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:200",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [
+      "rk_a3af68d5116142a9d28b"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_8f55d2519e646cb0b319",
+    "text": "STATUS: Real, but the \"degree\" question resolves differently than most treatments suggest — the strongest critical position doesn't need the contradiction to make its point.",
+    "raw_text": "**STATUS: Real, but the \"degree\" question resolves differently than most treatments suggest — the strongest critical position doesn't need the contradiction to make its point.**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "Real, but the \"degree\" question resolves differently than most treatments suggest — the strongest critical position doesn't need the contradiction to make its point.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:201",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [
+      "rk_a3af68d5116142a9d28b"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_74db328beec58dcc1e2b",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:202",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_54a2886e947d71291a6c",
+    "text": "First, the identification problem itself is genuinely contested — not a settled critical finding. Three positions circulate, and it matters which scholars hold which:",
+    "raw_text": "**First, the identification problem itself is genuinely contested — not a settled critical finding.** Three positions circulate, and it matters which scholars hold which:",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:203",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_08187efa9223de3ce93f",
+    "text": "1. Same event, two accounts (the traditional majority position). Craig Keener [EVANGELICAL, author of the standard four-volume Acts commentary] argues this on Occam's Razor grounds — common focus on Gentile inclusion and circumcision, the same named figures (Peter, James, Paul, Barnabas), the same basic outcome. Fitzmyer [CRITICAL, Catholic] is quoted directly in Keener's own treatment as concluding none of the differences is significant enough to undermine the identification. Pierson Parker [CRITICAL], JBL 86 (1967), makes the same case from the opposite direction: it would be remarkable to imagine two separate councils, on the same subject, with the same people, the same sequence, the same location, ending in the same falling-out between Paul and Barnabas.",
+    "raw_text": "1. **Same event, two accounts** (the traditional majority position). **Craig Keener** [EVANGELICAL, author of the standard four-volume Acts commentary] argues this on Occam's Razor grounds — common focus on Gentile inclusion and circumcision, the same named figures (Peter, James, Paul, Barnabas), the same basic outcome. **Fitzmyer** [CRITICAL, Catholic] is quoted directly in Keener's own treatment as concluding none of the differences is significant enough to undermine the identification. **Pierson Parker** [CRITICAL], *JBL* 86 (1967), makes the same case from the opposite direction: it would be remarkable to imagine two separate councils, on the same subject, with the same people, the same sequence, the same location, ending in the same falling-out between Paul and Barnabas.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:204",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_05464fdf3cc18855e973",
+    "text": "2. Galatians 2 = the earlier Acts 11:27–30 famine visit, not Acts 15 — a minority position with real defenders, hinging on the fact that Galatians mentions only two Jerusalem visits total while Acts records three, and that no public decree or letter (central to Acts 15) appears anywhere in Galatians.",
+    "raw_text": "2. **Galatians 2 = the earlier Acts 11:27–30 famine visit, not Acts 15** — a minority position with real defenders, hinging on the fact that Galatians mentions only two Jerusalem visits total while Acts records three, and that no public decree or letter (central to Acts 15) appears anywhere in Galatians.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:205",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_cac3afa3311296a260b8",
+    "text": "3. *Galatians was written before the Acts 15 council took place* — meaning there is no contradiction because the events described are chronologically prior to it. This is a serious minority position, not a fringe harmonization: it explains why Paul never cites the Acts 15 decree in Galatians (it hadn't happened yet), and it explains why the circumcision controversy in Galatians reads as live and unresolved rather than settled.",
+    "raw_text": "3. **Galatians was written *before* the Acts 15 council took place** — meaning there is no contradiction because the events described are chronologically prior to it. This is a serious minority position, not a fringe harmonization: it explains why Paul never cites the Acts 15 decree in Galatians (it hadn't happened yet), and it explains why the circumcision controversy in Galatians reads as live and unresolved rather than settled.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:206",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_0494240396a23398fcce",
+    "text": "Second — and this is the more useful point than adjudicating which position is correct : even under Keener's own same-event position, the strongest version of the contradiction survives, because it isn't really about which meeting is being described. It's this: Galatians 2:6, in Paul's own words, states that the Jerusalem leadership \"added nothing\" to his gospel — a direct, first-person claim of full apostolic independence. Acts 15:19–29, by contrast, has James issue a formal, binding decree (abstain from food sacrificed to idols, from blood, from what is strangled, and from sexual immorality) that Gentile believers are required to follow. That is Jerusalem adding something, delivered as institutional authority — the very thing Paul's own letter says did not happen. This is not a scheduling discrepancy. It's Paul's eyewitness account of his own authority directly conflicting with Luke's account of what the meeting produced.",
+    "raw_text": "**Second — and this is the more useful point than adjudicating which position is correct** ⟨INFERENCE⟩**:** even under Keener's own same-event position, the strongest version of the contradiction survives, because it isn't really about which meeting is being described. It's this: **Galatians 2:6, in Paul's own words, states that the Jerusalem leadership \"added nothing\" to his gospel** — a direct, first-person claim of full apostolic independence. Acts 15:19–29, by contrast, has James issue a formal, binding decree (abstain from food sacrificed to idols, from blood, from what is strangled, and from sexual immorality) that Gentile believers are required to follow. **That is Jerusalem adding something, delivered as institutional authority — the very thing Paul's own letter says did not happen.** This is not a scheduling discrepancy. It's Paul's eyewitness account of his own authority directly conflicting with Luke's account of what the meeting produced.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:207",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_f248aae12c047305efdc",
+    "text": "This reframes what to actually argue. Whether it's one meeting or two barely matters if the theological content of what happened at \"the\" meeting is described in mutually exclusive ways by a participant and a later historian.",
+    "raw_text": "**This reframes what to actually argue.** Whether it's one meeting or two barely matters if the theological content of what happened at \"the\" meeting is described in mutually exclusive ways by a participant and a later historian.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:208",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a3af68d5116142a9d28b",
+    "text": "CORRECTED: Whether Galatians 2 and Acts 15 describe the same meeting is genuinely disputed among serious scholars, with real defenders of same-event, different-event, and Galatians-predates-Acts-15 positions. The stronger and simpler contradiction does not depend on resolving that question: Paul states in his own hand that Jerusalem added nothing to his gospel, while Acts has Jerusalem issue a binding decree. A first-person claim of independence and a third-person account of an imposed ruling cannot both be accurate descriptions of the same relationship, regardless of which calendar date is attached to which text.",
+    "raw_text": "**CORRECTED:** *Whether Galatians 2 and Acts 15 describe the same meeting is genuinely disputed among serious scholars, with real defenders of same-event, different-event, and Galatians-predates-Acts-15 positions. The stronger and simpler contradiction does not depend on resolving that question: Paul states in his own hand that Jerusalem added nothing to his gospel, while Acts has Jerusalem issue a binding decree. A first-person claim of independence and a third-person account of an imposed ruling cannot both be accurate descriptions of the same relationship, regardless of which calendar date is attached to which text.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:209",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [
+      "rk_4fb2d6907ec98f1a65ad",
+      "rk_8f55d2519e646cb0b319"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_cc5767a4dda08993ca87",
+    "text": "WHY IT LOOKED RIGHT : \"these two chapters contradict each other\" is true but under-specified in the same way the Luke/Rome claim was — it invites \"no they don't, here's a harmonization,\" and there are several available. The Galatians 2:6 vs. Acts 15:19–29 framing is much harder to harmonize away, because it isn't a factual detail (who was there, what order things happened) — it's a first-person claim about the nature of an authority relationship, made by one of the two people in that relationship.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** \"these two chapters contradict each other\" is true but under-specified in the same way the Luke/Rome claim was — it invites \"no they don't, here's a harmonization,\" and there are several available. The Galatians 2:6 vs. Acts 15:19–29 framing is much harder to harmonize away, because it isn't a factual detail (who was there, what order things happened) — it's a first-person claim about the *nature of an authority relationship*, made by one of the two people in that relationship.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:210",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_67177b994020b5b2edac",
+    "text": "Debate note: don't open with \"Acts and Galatians contradict each other\" — you'll get a same-event/different-event debate that goes nowhere useful. Open with Galatians 2:6 directly: Paul says Jerusalem added nothing. Then ask what a formal dietary and sexual-conduct decree, delivered as binding, would count as if not \"adding something.\"",
+    "raw_text": "**Debate note:** don't open with \"Acts and Galatians contradict each other\" — you'll get a same-event/different-event debate that goes nowhere useful. Open with Galatians 2:6 directly: Paul says Jerusalem added nothing. Then ask what a formal dietary and sexual-conduct decree, delivered as binding, would count as if not \"adding something.\"",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9. Acts — The Founding Myth",
+      "9.3 The hero problem — Acts vs. Paul's own letters",
+      "⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.3 The hero problem — Acts vs. Paul's own letters > ⚑ AUDIT — Galatians 2 vs. Acts 15: One Meeting or Two?",
+    "source_reference": "paragraph:211",
+    "parent_id": "audit_37f2e409d77eaa1f8ea1",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a616f7b1d65e713d5804",
     "text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
     "raw_text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -5035,7 +6951,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1)",
-    "source_reference": "paragraph:155",
+    "source_reference": "paragraph:212",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5049,7 +6965,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2d9684ea28f1fcf68e1b",
+    "id": "rk_5b6f4d613e90988799b9",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -5068,7 +6984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:156",
+    "source_reference": "paragraph:213",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5082,7 +6998,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bffed462ae3c5a0750a2",
+    "id": "rk_0b395c62d1b33fcdafa6",
     "text": "AS RECORDED (§9): \"Speeches are fictional constructions consistent with ancient historiography conventions.\"",
     "raw_text": "**AS RECORDED (§9):** \"Speeches are fictional constructions consistent with ancient historiography conventions.\"",
     "provenance_type": "SOURCE",
@@ -5101,7 +7017,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:157",
+    "source_reference": "paragraph:214",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5115,7 +7031,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_8b2fce7804711c153df7",
+    "id": "rk_be7ea5cd6e383b38d790",
     "text": "STATUS: Conclusion holds. The supporting argument is materially weaker than presented, and the convention it rests on has been challenged at its source.",
     "raw_text": "**STATUS: Conclusion holds. The supporting argument is materially weaker than presented, and the convention it rests on has been challenged at its source.**",
     "provenance_type": "SOURCE",
@@ -5134,10 +7050,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:158",
+    "source_reference": "paragraph:215",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [
-      "rk_d8b39084315f90e3e500"
+      "rk_37f09375fbed939c0bff"
     ],
     "tags": [],
     "citation": null,
@@ -5150,7 +7066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a6a39fbdd2d0a9523de2",
+    "id": "rk_eed8a5df98dc777731b9",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -5169,7 +7085,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:159",
+    "source_reference": "paragraph:216",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5183,7 +7099,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_2cd2d8af5a350d8ec638",
+    "id": "rk_9de29aa32527ada6dd79",
     "text": "The founding case: Martin Dibelius [CRITICAL, form criticism], \"The Speeches in Acts and Ancient Historiography,\" in Studies in the Acts of the Apostles (1956). His methodological move is the important one: in analysing ancient speeches, do not ask about the referent — ask how the speech functions within the narrative it sits in. That reframing set the agenda for everything after. Marion Soards, The Speeches in Acts (1994), and Robert Tannehill classify by setting and function rather than source.",
     "raw_text": "**The founding case:** Martin Dibelius [CRITICAL, form criticism], \"The Speeches in Acts and Ancient Historiography,\" in *Studies in the Acts of the Apostles* (1956). His methodological move is the important one: in analysing ancient speeches, do not ask about the referent — ask how the speech functions within the narrative it sits in. That reframing set the agenda for everything after. Marion Soards, *The Speeches in Acts* (1994), and Robert Tannehill classify by setting and function rather than source.",
     "provenance_type": "SOURCE",
@@ -5202,7 +7118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:160",
+    "source_reference": "paragraph:217",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5216,7 +7132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_72d77b7450699213d365",
+    "id": "rk_23fe77845317d586091f",
     "text": "The internal evidence, which is the strongest part and was missing from §10: the speeches share a common kerygmatic structure across speakers. C.H. Dodd [CRITICAL], The Apostolic Preaching and its Developments, mapped this. Peter in Acts 2 and Paul in Acts 13 deliver recognisably the same sermon shape. Both sound like Luke. If the speeches were independently sourced, they should diverge by speaker; they diverge by audience instead — which is a compositional signature, not a transmissional one.",
     "raw_text": "**The internal evidence, which is the strongest part and was missing from §10:** the speeches share a common kerygmatic structure across speakers. C.H. Dodd [CRITICAL], *The Apostolic Preaching and its Developments*, mapped this. Peter in Acts 2 and Paul in Acts 13 deliver recognisably the same sermon shape. Both sound like Luke. If the speeches were independently sourced, they should diverge by speaker; they diverge by *audience* instead — which is a compositional signature, not a transmissional one.",
     "provenance_type": "SOURCE",
@@ -5235,7 +7151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:161",
+    "source_reference": "paragraph:218",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5249,7 +7165,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a6a32ea19efec0ecd15f",
+    "id": "rk_b40fdaeb0f33bbdf0c64",
     "text": "Where the argument as recorded is weak: it leans on the Thucydidean convention (History of the Peloponnesian War 1.22.1) as licence for invented speeches. Stanley Porter [EVANGELICAL, but arguing on philological grounds], \"Thucydides 1.22.1 and Speeches in Acts: Is There a Thucydidean View?\" Novum Testamentum 32, challenges exactly this. Thucydides says he kept as close as possible to the general sense of what was actually said. That is a claim to fidelity of gist, not a licence to invent. Citing him as authorising fiction is a misreading — and it is a misreading made by critics and conservatives alike, in opposite directions. Do not build on it.",
     "raw_text": "**Where the argument as recorded is weak:** it leans on the Thucydidean convention (*History of the Peloponnesian War* 1.22.1) as licence for invented speeches. **Stanley Porter** [EVANGELICAL, but arguing on philological grounds], \"Thucydides 1.22.1 and Speeches in Acts: Is There a Thucydidean View?\" *Novum Testamentum* 32, challenges exactly this. Thucydides says he kept as close as possible to the **general sense of what was actually said**. That is a claim to fidelity of gist, not a licence to invent. Citing him as authorising fiction is a misreading — and it is a misreading made by critics and conservatives alike, in opposite directions. Do not build on it.",
     "provenance_type": "SOURCE",
@@ -5268,7 +7184,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:162",
+    "source_reference": "paragraph:219",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5282,7 +7198,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_621ff74bb2251fa3eb01",
+    "id": "rk_9fe3fd0116b29c06e444",
     "text": "Traditional case at full strength: Colin Hemer [CONSERVATIVE-EVANGELICAL], The Book of Acts in the Setting of Hellenistic History (posthumous, 1989), is the most robust assembly of the evidence. Compared against inscriptions, archaeology, and geography, Acts is strikingly accurate on places, provincial boundaries, officials, and — notably — the correct and varying titles of local magistrates, which change from city to city and which Acts gets right. Ben Witherington III [CONSERVATIVE-EVANGELICAL], The Acts of the Apostles: A Socio-Rhetorical Commentary (1998), reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius. Craig Keener's multivolume commentary and F.F. Bruce work the same ground; Bruce once floated (half-seriously) that Luke might have taken shorthand notes. Bruce Winter argues Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.",
     "raw_text": "**Traditional case at full strength:** Colin Hemer [CONSERVATIVE-EVANGELICAL], *The Book of Acts in the Setting of Hellenistic History* (posthumous, 1989), is the most robust assembly of the evidence. Compared against inscriptions, archaeology, and geography, Acts is strikingly accurate on places, provincial boundaries, officials, and — notably — the correct and varying titles of local magistrates, which change from city to city and which Acts gets right. Ben Witherington III [CONSERVATIVE-EVANGELICAL], *The Acts of the Apostles: A Socio-Rhetorical Commentary* (1998), reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius. Craig Keener's multivolume commentary and F.F. Bruce work the same ground; Bruce once floated (half-seriously) that Luke might have taken shorthand notes. Bruce Winter argues Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.",
     "provenance_type": "SOURCE",
@@ -5301,7 +7217,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:163",
+    "source_reference": "paragraph:220",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5315,7 +7231,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_8d9a5d9b967448451740",
+    "id": "rk_e6bfd493b6b88e816655",
     "text": "The distinction that resolves it: Hemer's evidence establishes accuracy in incidental external detail — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. Equally, the critical side should concede the detail accuracy rather than ignore it: whoever wrote Acts knew the eastern Mediterranean well.",
     "raw_text": "**The distinction that resolves it:** Hemer's evidence establishes accuracy in **incidental external detail** — titles, routes, harbours. That does not transfer to speech content, and it is a category error to let it. Equally, the critical side should concede the detail accuracy rather than ignore it: whoever wrote Acts knew the eastern Mediterranean well.",
     "provenance_type": "SOURCE",
@@ -5334,7 +7250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:164",
+    "source_reference": "paragraph:221",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5348,7 +7264,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d8b39084315f90e3e500",
+    "id": "rk_37f09375fbed939c0bff",
     "text": "CORRECTED: The speeches in Acts are Lukan compositions. The strongest evidence is internal — a shared kerygmatic structure across different speakers, varying by audience rather than by source. Ancient historiographical convention is context for this, not proof of it, and Thucydides 1.22.1 should not be cited as licence for invention, since Thucydides claims fidelity to the general sense of what was said. Acts is separately and demonstrably accurate on incidental external detail, which is a real datum that does not extend to the speeches.",
     "raw_text": "**CORRECTED:** *The speeches in Acts are Lukan compositions. The strongest evidence is internal — a shared kerygmatic structure across different speakers, varying by audience rather than by source. Ancient historiographical convention is context for this, not proof of it, and Thucydides 1.22.1 should not be cited as licence for invention, since Thucydides claims fidelity to the general sense of what was said. Acts is separately and demonstrably accurate on incidental external detail, which is a real datum that does not extend to the speeches.*",
     "provenance_type": "SOURCE",
@@ -5367,10 +7283,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:165",
+    "source_reference": "paragraph:222",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [
-      "rk_8b2fce7804711c153df7"
+      "rk_be7ea5cd6e383b38d790"
     ],
     "tags": [],
     "citation": null,
@@ -5383,7 +7299,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bf8f021fdcecdcef5977",
+    "id": "rk_ff9e92b02a141cdd4b77",
     "text": "WHY IT LOOKED RIGHT : \"Ancient historians made up speeches\" is a tidy, widely repeated line that appears to settle the question by appeal to genre. It repeats a misreading of the one passage everyone cites. The conclusion survives anyway — on better evidence.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** \"Ancient historians made up speeches\" is a tidy, widely repeated line that appears to settle the question by appeal to genre. It repeats a misreading of the one passage everyone cites. The conclusion survives anyway — on better evidence.",
     "provenance_type": "CLAUDE",
@@ -5402,7 +7318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
-    "source_reference": "paragraph:166",
+    "source_reference": "paragraph:223",
     "parent_id": "audit_5738830910cf65c721be",
     "related_ids": [],
     "tags": [],
@@ -5416,7 +7332,454 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_75964209505591ad1b5b",
+    "id": "rk_be66287afbb5262e089f",
+    "text": "Tonal shift from Acts, immediately visible. Acts 15 presents a smooth, unified council reaching consensus. Galatians opens with Paul skipping the greeting-thanksgiving formula every other authentic letter uses and going straight to: \"I am astonished that you are so quickly deserting him who called you... and turning to a different gospel\" (1:6). No pleasantries. This is a man mid-crisis, and it is worth reading the letter with that fact in view rather than as calm doctrine — the argument's shape is defensive and reactive throughout.",
+    "raw_text": "**Tonal shift from Acts, immediately visible.** Acts 15 presents a smooth, unified council reaching consensus. Galatians opens with Paul skipping the greeting-thanksgiving formula every other authentic letter uses and going straight to: *\"I am astonished that you are so quickly deserting him who called you... and turning to a different gospel\"* (1:6). No pleasantries. This is a man mid-crisis, and it is worth reading the letter with that fact in view rather than as calm doctrine — the argument's shape is defensive and reactive throughout.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon",
+    "source_reference": "paragraph:224",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_4c80fc524a021413359b",
+    "text": "Paul states his gospel came \"not from man, nor was I taught it, but through a revelation of Jesus Christ\" (1:11–12), and goes further than that: after his conversion he did not go to Jerusalem to consult the apostles — he went to Arabia, then Damascus, and only after three years went up to Jerusalem, and even then stayed just fifteen days, seeing only Peter and James (1:15–20). He seals this with an oath: \"In what I am writing to you, before God, I do not lie\" (1:20).",
+    "raw_text": "Paul states his gospel came **\"not from man, nor was I taught it, but through a revelation of Jesus Christ\"** (1:11–12), and goes further than that: after his conversion he did **not** go to Jerusalem to consult the apostles — he went to Arabia, then Damascus, and only after three years went up to Jerusalem, and even then stayed just fifteen days, seeing only Peter and James (1:15–20). He seals this with an oath: **\"In what I am writing to you, before God, I do not lie\"** (1:20).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_reference": "paragraph:225",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_254823647670bf764423",
+    "text": "This is a man building a case, under oath, for his independence from Jerusalem — which tells you the independence was being disputed by someone, in real time, as he wrote.",
+    "raw_text": "This is a man building a case, under oath, for his independence from Jerusalem — which tells you the independence was being disputed by someone, in real time, as he wrote.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_reference": "paragraph:226",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_fb699ac17b09e570f4c0",
+    "text": "Fourteen years later (2:1), a second visit — this is the material already audited at §9.3/§9.4 against Acts 15. Read alongside that audit: \"those who seemed influential added nothing to me\" (2:6). Then the Antioch incident (2:11–14): Paul says he opposed Peter to his face, publicly, because Peter had been eating with Gentiles and then withdrew when men from James arrived, \"fearing the circumcision party.\" Paul calls this hypocrisy and reports confronting the head of the Jerusalem church in front of the whole congregation.",
+    "raw_text": "Fourteen years later (2:1), a second visit — this is the material already audited at §9.3/§9.4 against Acts 15. Read alongside that audit: **\"those who seemed influential added nothing to me\"** (2:6). Then the Antioch incident (2:11–14): Paul says he **opposed Peter to his face**, publicly, because Peter had been eating with Gentiles and then withdrew when men from James arrived, \"fearing the circumcision party.\" Paul calls this hypocrisy and reports confronting the head of the Jerusalem church in front of the whole congregation.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_reference": "paragraph:227",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_2cab9532a41eec45da3b",
+    "text": "What this establishes, independent of any Acts comparison: the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. This is Paul's own testimony that Christianity's founding leadership was in open, public dispute over what the movement actually required of a Gentile convert — not a settled question with a clean answer, but a live fight Paul was actively losing ground in and wrote this letter to try to win.",
+    "raw_text": "**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. This is Paul's own testimony that Christianity's founding leadership was in open, public dispute over what the movement actually required of a Gentile convert — not a settled question with a clean answer, but a live fight Paul was actively losing ground in and wrote this letter to try to win.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.1 The autobiographical claim (1:11–2:14) — and why it's the sharpest primary-source material in the whole NT",
+    "source_reference": "paragraph:228",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_4ed82ab9b078832536a3",
+    "text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be accursed (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would go the whole way and castrate themselves — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.",
+    "raw_text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:229",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_052843d9f7ab2e421e99",
+    "text": "This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:",
+    "raw_text": "**This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:**",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:230",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_c47bd6463dee3af3fae6",
+    "text": "The traditional (\"Lutheran\") reading. Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. \"Works of the law\" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of Thomas Schreiner [EVANGELICAL], Stephen Westerholm [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his Perspectives Old and New on Paul is the standard survey of the whole debate and treats every side fairly], and Peter Stuhlmacher [CRITICAL, German].",
+    "raw_text": "**The traditional (\"Lutheran\") reading.** Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. \"Works of the law\" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of **Thomas Schreiner** [EVANGELICAL], **Stephen Westerholm** [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his *Perspectives Old and New on Paul* is the standard survey of the whole debate and treats every side fairly], and **Peter Stuhlmacher** [CRITICAL, German].",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:231",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_232428e51823c51f8314",
+    "text": "The New Perspective on Paul (NPP). E.P. Sanders [CRITICAL], Paul and Palestinian Judaism (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the \"legalistic Judaism\" the Reformation reading assumes Paul was fighting did not exist — Second Temple Judaism operated on what Sanders termed covenantal nomism: you are already in the covenant by God's grace, and law-observance is the response to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.",
+    "raw_text": "**The New Perspective on Paul (NPP).** **E.P. Sanders** [CRITICAL], *Paul and Palestinian Judaism* (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the \"legalistic Judaism\" the Reformation reading assumes Paul was fighting **did not exist** — Second Temple Judaism operated on what Sanders termed **covenantal nomism**: you are already in the covenant by God's grace, and law-observance is the *response* to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:232",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_c7f87ef5b5dcc53ed92d",
+    "text": "James D.G. Dunn [CRITICAL] — coined the term \"New Perspective\" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing \"works of the law\" in Galatians refers not to earning salvation generally but specifically to ethnic boundary markers: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about who counts as included, not about whether good works can save you.",
+    "raw_text": "**James D.G. Dunn** [CRITICAL] — coined the term \"New Perspective\" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing \"works of the law\" in Galatians refers not to earning salvation generally but specifically to **ethnic boundary markers**: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about **who counts as included**, not about whether good works can save you.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:233",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_ad7dcb25886b15cf5a8d",
+    "text": "N.T. Wright [ANGLICAN, historian — see The Other Side §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
+    "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Other Side §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:234",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_ca81468537b04fc1090d",
+    "text": "The strongest critical pushback on the NPP, stated fairly — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target ethnic exclusivism (NPP) or a wider human tendency to seek self-justification through one's own achievement (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys \"righteousness\" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying the ungodly — a category that doesn't fit neatly into a \"boundary marker\" dispute.",
+    "raw_text": "**The strongest critical pushback on the NPP, stated fairly** — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target *ethnic exclusivism* (NPP) or *a wider human tendency to seek self-justification through one's own achievement* (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys \"righteousness\" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying **the ungodly** — a category that doesn't fit neatly into a \"boundary marker\" dispute.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:235",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_a7881dc1c9042bb6966e",
+    "text": "What to do with this : don't resolve this now. Hold both readings as you go through Galatians 2–3 and into Romans, and watch which one the text supports better as Paul's argument develops — particularly Galatians 3:10–14 (the curse of the law) and Romans 3–4, which is where the traditional reading has its strongest textual ground. The debate matters for more than academic precision: if NPP is right, two thousand years of \"Paul vs. legalism\" sermons have been fighting a strawman version of Judaism that real practicing Jews in Paul's own century didn't hold — which is itself a significant finding about how doctrine gets built on a mischaracterization of the group being argued against.",
+    "raw_text": "**What to do with this** ⟨INFERENCE⟩**:** don't resolve this now. Hold both readings as you go through Galatians 2–3 and into Romans, and watch which one the text supports better as Paul's argument develops — particularly Galatians 3:10–14 (the curse of the law) and Romans 3–4, which is where the traditional reading has its strongest textual ground. The debate matters for more than academic precision: if NPP is right, two thousand years of \"Paul vs. legalism\" sermons have been fighting a strawman version of Judaism that real practicing Jews in Paul's own century didn't hold — which is itself a significant finding about how doctrine gets built on a mischaracterization of the group being argued against.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:236",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_58cd8bb11476522b9707",
+    "text": "Debate note: this is not yet debate-ready material — it's a live, genuinely contested scholarly question, and deploying either side as settled fact will be an easy target for anyone who knows the literature. What is debate-ready right now: Galatians 1:8–9 and 5:12 as evidence of the ferocity of internal Christian conflict from the very beginning, regardless of which side of the NPP debate is correct.",
+    "raw_text": "**Debate note:** this is not yet debate-ready material — it's a live, genuinely contested scholarly question, and deploying either side as settled fact will be an easy target for anyone who knows the literature. What *is* debate-ready right now: Galatians 1:8–9 and 5:12 as evidence of the ferocity of internal Christian conflict from the very beginning, regardless of which side of the NPP debate is correct.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Master Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.2 The theological stakes — and the fault line you need before Romans"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Master Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.2 The theological stakes — and the fault line you need before Romans",
+    "source_reference": "paragraph:237",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Master Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": true,
+    "parser_version": "1.1.2"
+  },
+  {
+    "id": "rk_fcbb7f15690e15a5be78",
     "text": "Old Testament — Completed",
     "raw_text": "**Old Testament — Completed**",
     "provenance_type": "MY_WORDS",
@@ -5433,7 +7796,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
-    "source_reference": "paragraph:167",
+    "source_reference": "paragraph:238",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5447,7 +7810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_06811459214731415e90",
+    "id": "rk_6cfeec9f6b1b39d87e29",
     "text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "raw_text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "provenance_type": "MY_WORDS",
@@ -5464,7 +7827,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
-    "source_reference": "paragraph:168",
+    "source_reference": "paragraph:239",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5478,7 +7841,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0cd830df88468c295d88",
+    "id": "rk_4336ab0977b954f801c1",
     "text": "New Testament — In Progress",
     "raw_text": "**New Testament — In Progress**",
     "provenance_type": "MY_WORDS",
@@ -5495,7 +7858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
-    "source_reference": "paragraph:169",
+    "source_reference": "paragraph:240",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5509,7 +7872,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_bbd848b32d9ea5ca1c79",
+    "id": "rk_e54ebfb7b041607508ab",
     "text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "raw_text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "provenance_type": "MY_WORDS",
@@ -5526,7 +7889,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
-    "source_reference": "paragraph:170",
+    "source_reference": "paragraph:241",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5540,7 +7903,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_67cfb99d6ba10a270314",
+    "id": "rk_3b39e656382ecc5c5ea6",
     "text": "Living document — update as reading progresses",
     "raw_text": "*Living document — update as reading progresses*",
     "provenance_type": "MY_WORDS",
@@ -5557,7 +7920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 10. Reading Progress",
-    "source_reference": "paragraph:171",
+    "source_reference": "paragraph:242",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5571,7 +7934,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d3108256c3f0f151ac93",
+    "id": "rk_26945eeb4592f7fd4997",
     "text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "raw_text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "provenance_type": "MY_WORDS",
@@ -5589,7 +7952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:172",
+    "source_reference": "paragraph:243",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5603,7 +7966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_d6ddc0999fbe57740a6b",
+    "id": "rk_b55f733a869f31b3414a",
     "text": "1. Name the scholars and the publications. Not \"some scholars argue.\" Author, title, journal, year.\n2. Label the camp. Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. Verify by search, not memory. Recall produces confident summaries of positions that do not exist.\n4. Strongest case for each side, including the traditional one.\n5. Documented vs. inferred, marked every time. \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. State a conclusion with reasoning. A survey that refuses to land is not an answer.\n7. Correct overreach openly. Then stop hedging.",
     "raw_text": "1. **Name the scholars and the publications.** Not \"some scholars argue.\" Author, title, journal, year.\n2. **Label the camp.** Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. **Verify by search, not memory.** Recall produces confident summaries of positions that do not exist.\n4. **Strongest case for each side, including the traditional one.**\n5. **Documented vs. inferred, marked every time.** \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. **State a conclusion with reasoning.** A survey that refuses to land is not an answer.\n7. **Correct overreach openly.** Then stop hedging.",
     "provenance_type": "MY_WORDS",
@@ -5621,7 +7984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:173",
+    "source_reference": "paragraph:244",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5635,7 +7998,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_1ff8fa1a8ef3e4264893",
+    "id": "rk_f72c6b813bf1965df51d",
     "text": "Entry format: AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "raw_text": "**Entry format:** AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "provenance_type": "MY_WORDS",
@@ -5653,7 +8016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:174",
+    "source_reference": "paragraph:245",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5667,7 +8030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_26c8e058e1ee027e8e71",
+    "id": "rk_21ed22586fca2eb48417",
     "text": "Ranked by expected exposure. Not yet audited.",
     "raw_text": "Ranked by expected exposure. Not yet audited.",
     "provenance_type": "MY_WORDS",
@@ -5685,7 +8048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:175",
+    "source_reference": "paragraph:246",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5699,7 +8062,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_75189343fea9b8d4cf26",
+    "id": "rk_41d1606764c74286b434",
     "text": "Highest exposure",
     "raw_text": "**Highest exposure**",
     "provenance_type": "MY_WORDS",
@@ -5717,7 +8080,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:176",
+    "source_reference": "paragraph:247",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5731,7 +8094,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b7a9426b7075920fd790",
+    "id": "rk_ddd4e5a1841c85a1467d",
     "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- \"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- **\"John is textually antisemitic\"** — recorded at §8.5. The *Ioudaioi* translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
     "provenance_type": "MY_WORDS",
@@ -5749,7 +8112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:177",
+    "source_reference": "paragraph:248",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5763,7 +8126,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_92494d01fc1392dd23d1",
+    "id": "rk_c540b774ba1b3efd744b",
     "text": "Medium exposure",
     "raw_text": "**Medium exposure**",
     "provenance_type": "MY_WORDS",
@@ -5781,7 +8144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:178",
+    "source_reference": "paragraph:249",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5795,7 +8158,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_026f42fc36ed790290c7",
+    "id": "rk_aeae99af737b3c1b5d11",
     "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- Luke softening Roman culpability (§6.3) — defensible, with real pushback.\n- Deutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- **Luke softening Roman culpability** (§6.3) — defensible, with real pushback.\n- **Deutero-Pauline pseudonymity** (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
     "provenance_type": "MY_WORDS",
@@ -5813,7 +8176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:179",
+    "source_reference": "paragraph:250",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5827,7 +8190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_eb2caba94bf47efda22a",
+    "id": "rk_e0e50d61a2eb39ba5f4e",
     "text": "Low exposure — expected to survive",
     "raw_text": "**Low exposure — expected to survive**",
     "provenance_type": "MY_WORDS",
@@ -5845,7 +8208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:180",
+    "source_reference": "paragraph:251",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5859,7 +8222,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_efdfd0d8930647315a35",
+    "id": "rk_005df1ad0599791f89c4",
     "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
     "raw_text": "- Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
     "provenance_type": "MY_WORDS",
@@ -5877,7 +8240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:181",
+    "source_reference": "paragraph:252",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -5891,9 +8254,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_13c43ec09a21601416c5",
-    "text": "Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
-    "raw_text": "*Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
+    "id": "rk_3162cef0f9f3dd4f4a49",
+    "text": "Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
+    "raw_text": "*Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
@@ -5909,7 +8272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Master Notes > 11. Method & Audit Status > 11.2 Remaining Audit Queue",
-    "source_reference": "paragraph:182",
+    "source_reference": "paragraph:253",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
