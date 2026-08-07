@@ -111,6 +111,22 @@ setTimeout(() => {
                       document.body.dataset.reviewSaveNext = 'pass';
                     }
                     document.getElementById('dialog-close')?.click();
+
+                    // Reader section anchors: a Master Notes record with a numbered
+                    // section must render an "Open reader" link that targets the
+                    // reader's #s<num> anchor, not the document top.
+                    const anchorSearch = document.getElementById('search-input');
+                    if (anchorSearch) {
+                      anchorSearch.value = 'Jeremiah';
+                      anchorSearch.dispatchEvent(new Event('input', { bubbles: true }));
+                    }
+                    setTimeout(() => {
+                      document.querySelector('#search-results [data-record-id]')?.click();
+                      setTimeout(() => {
+                        const readerLink = document.querySelector('#dialog-body [data-original-source-link]');
+                        document.body.dataset.readerAnchorHref = readerLink?.getAttribute('href') || 'missing';
+                      }, 0);
+                    }, 0);
                   }, 0);
                 }, 0);
               }, 0);
@@ -269,9 +285,20 @@ if [[ -z "$SOURCE_HREF" ]]; then
   exit 1
 fi
 
-SOURCE_URL="http://127.0.0.1:8765/app/$SOURCE_HREF"
+SOURCE_URL="http://127.0.0.1:8765/app/${SOURCE_HREF%%#*}"
 if ! curl -fsS "$SOURCE_URL" >/dev/null; then
   echo "Rendered original-source link does not resolve: $SOURCE_HREF" >&2
+  exit 1
+fi
+
+READER_ANCHOR_HREF="$(grep -o 'data-reader-anchor-href="[^"]*"' /tmp/religion-app-dom.html | head -1 | sed 's/^data-reader-anchor-href="//; s/"$//')"
+if [[ ! "$READER_ANCHOR_HREF" =~ master-notes\.html#s[0-9-]+$ ]]; then
+  echo "Master Notes record did not render a section-anchored reader link (got: $READER_ANCHOR_HREF)" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'class="app-link"' master-notes.html; then
+  echo "Reader docswitch is missing the App link back to the knowledge app" >&2
   exit 1
 fi
 
