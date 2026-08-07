@@ -30,6 +30,7 @@ jobs:
           node --check app/source-links.js
           node --check app/position-history.js
           node --check app/review-backup.js
+          node --check app/source-library.js
           node --check data/normalized/records.js
           node --check data/review/overrides.js
 
