@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#111318">
+  <title>Religion Knowledge</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Religion Knowledge</p>
+        <h1 id="page-title">Home</h1>
+      </div>
+      <button id="theme-toggle" class="icon-button" type="button" aria-label="Toggle dark mode">◐</button>
+    </header>
+
+    <section class="search-strip" aria-label="Search and filters">
+      <label class="search-box">
+        <span aria-hidden="true">⌕</span>
+        <input id="search-input" type="search" placeholder="Search notes, topics, sources…" autocomplete="off">
+      </label>
+      <button id="filter-button" class="filter-button" type="button" aria-expanded="false">Filters</button>
+    </section>
+
+    <section id="filter-panel" class="filter-panel" hidden>
+      <label>
+        Provenance
+        <select id="provenance-filter">
+          <option value="ALL">All</option>
+          <option value="MY_WORDS">My words</option>
+          <option value="MY_POSITION">My position</option>
+          <option value="MY_QUESTION">My question</option>
+          <option value="CLAUDE">Claude</option>
+          <option value="CHATGPT">ChatGPT</option>
+          <option value="SOURCE">Source</option>
+          <option value="INFERENCE">Inference</option>
+          <option value="REVIEW_REQUIRED">Review required</option>
+        </select>
+      </label>
+      <label>
+        Record type
+        <select id="type-filter">
+          <option value="ALL">All</option>
+          <option value="OBSERVATION">Observation</option>
+          <option value="POSITION">Position</option>
+          <option value="QUESTION">Question</option>
+          <option value="CLAIM">Claim</option>
+          <option value="SOURCE_NOTE">Source note</option>
+          <option value="AUDIT">Audit</option>
+          <option value="CORRECTION">Correction</option>
+          <option value="COUNTERARGUMENT">Counterargument</option>
+          <option value="DEBATE_NOTE">Debate note</option>
+          <option value="DEFINITION">Definition</option>
+          <option value="TIMELINE_EVENT">Timeline event</option>
+        </select>
+      </label>
+      <button id="clear-filters" class="secondary-button" type="button">Clear filters</button>
+    </section>
+
+    <main id="main-content" tabindex="-1">
+      <section id="view-home" class="view active" data-title="Home">
+        <div class="hero-card">
+          <p class="eyebrow">Traceable research</p>
+          <h2>Keep your thinking separate from AI interpretation.</h2>
+          <p>Every normalized item should retain who said it, how it was represented, and where it came from.</p>
+        </div>
+        <div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div>
+        <section class="section-block">
+          <div class="section-heading"><h2>Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <div id="home-review-list" class="card-list"></div>
+        </section>
+        <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>
+      </section>
+
+      <section id="view-thoughts" class="view" data-title="My Thoughts"><div class="section-heading stacked"><div><p class="eyebrow">Proven user-origin material</p><h2>My Thoughts</h2></div><p class="muted">AI commentary is excluded unless it is opened through a related record.</p></div><div id="thoughts-list" class="card-list"></div></section>
+      <section id="view-topics" class="view" data-title="Topics"><div class="section-heading stacked"><div><p class="eyebrow">Across every document</p><h2>Topics</h2></div></div><div id="topics-list" class="topic-grid"></div></section>
+      <section id="view-questions" class="view" data-title="Questions"><div class="section-heading stacked"><div><p class="eyebrow">Open reasoning</p><h2>Questions</h2></div></div><div id="questions-list" class="card-list"></div></section>
+      <section id="view-sources" class="view" data-title="Sources"><div class="section-heading stacked"><div><p class="eyebrow">Named evidence</p><h2>Sources</h2></div></div><div id="sources-list" class="card-list"></div></section>
+      <section id="view-ai" class="view" data-title="AI Analysis"><div class="section-heading stacked"><div><p class="eyebrow">Never silently yours</p><h2>AI Analysis</h2></div></div><div class="segmented" role="tablist" aria-label="AI source"><button class="segment active" data-ai="CLAUDE" type="button">Claude</button><button class="segment" data-ai="CHATGPT" type="button">ChatGPT</button><button class="segment" data-ai="INFERENCE" type="button">Inference</button></div><div id="ai-list" class="card-list"></div></section>
+      <section id="view-audits" class="view" data-title="Audits"><div class="section-heading stacked"><div><p class="eyebrow">What changed under scrutiny</p><h2>Audits & Corrections</h2></div></div><div id="audits-list" class="card-list"></div></section>
+      <section id="view-compare" class="view" data-title="Compare"><div class="section-heading stacked"><div><p class="eyebrow">Chain of custody</p><h2>Compare</h2></div><p class="muted">Original words → AI interpretation → evidence → audit → current position.</p></div><div id="compare-list" class="compare-list"></div></section>
+      <section id="view-review" class="view" data-title="Review Queue"><div class="section-heading stacked"><div><p class="eyebrow">Do not guess</p><h2>Review Queue</h2></div><p class="muted">Mixed, ambiguous, unsupported, or parser-failed material belongs here.</p></div><div id="review-list" class="card-list"></div></section>
+      <section id="view-search" class="view" data-title="Search Results"><div class="section-heading stacked"><div><p class="eyebrow">Filtered corpus</p><h2>Search Results</h2></div></div><div id="search-results" class="card-list"></div></section>
+    </main>
+
+    <nav class="bottom-nav" aria-label="Primary navigation">
+      <button class="nav-item active" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
+      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Mine</small></button>
+      <button class="nav-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
+      <button class="nav-item" type="button" data-view="audits"><span>✓</span><small>Audits</small></button>
+      <button class="nav-item" type="button" data-view="review"><span>!</span><small>Review</small></button>
+    </nav>
+  </div>
+
+  <dialog id="record-dialog" class="record-dialog"><div class="dialog-header"><div><p id="dialog-kicker" class="eyebrow"></p><h2 id="dialog-title">Record</h2></div><button id="dialog-close" class="icon-button" type="button" aria-label="Close record">×</button></div><div id="dialog-body"></div></dialog>
+
+  <script src="../data/normalized/records.js"></script>
+  <script src="../data/normalized/generated/records.master.js"></script>
+  <script src="../data/normalized/generated/records.field-guide.js"></script>
+  <script src="../data/normalized/generated/records.glossary.js"></script>
+  <script src="../data/normalized/generated/records.history.js"></script>
+  <script src="../data/normalized/generated/records.sources.js"></script>
+  <script src="../data/normalized/generated/records.other-side.js"></script>
+  <script src="../data/normalized/generated/records.translations.js"></script>
+  <script src="../data/review/overrides.js"></script>
+  <script src="position-history.js"></script>
+  <script src="app.js"></script>
+  <script src="source-links.js"></script>
+  <script src="review-backup.js"></script>
+  <script src="source-library.js"></script>
+</body>
+</html>

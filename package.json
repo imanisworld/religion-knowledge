@@ -1,0 +1,9 @@
+{
+  "name": "religion-knowledge",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "generate-records": "node scripts/import/generate-records.mjs --output-dir data/normalized/generated"
+  }
+}

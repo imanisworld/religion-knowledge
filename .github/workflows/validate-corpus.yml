@@ -1,0 +1,67 @@
+name: Validate religion corpus
+
+on:
+  push:
+    branches:
+      - chatgpt/mobile-app-v1
+  pull_request:
+    branches:
+      - main
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout exact commit
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Show runtime
+        run: node --version
+
+      - name: Check app JavaScript syntax
+        run: |
+          node --check app/app.js
+          node --check app/source-links.js
+          node --check app/position-history.js
+          node --check app/review-backup.js
+          node --check app/source-library.js
+          node --check data/normalized/records.js
+          node --check data/review/overrides.js
+
+      - name: Run parser unit tests
+        run: node --test tests/parser.test.mjs
+
+      - name: Validate committed corpus
+        run: node scripts/import/validate-corpus.mjs
+
+      - name: Regenerate normalized record chunks
+        run: npm run generate-records
+
+      - name: Verify committed chunks match parser output
+        run: git diff --exit-code -- data/normalized/generated/
+
+      - name: Check generated JavaScript syntax
+        run: |
+          for file in data/normalized/generated/*.js; do
+            node --check "$file"
+          done
+
+      - name: Validate app data loading
+        run: node scripts/import/validate-app-data.mjs
+
+      - name: Render app in phone-sized Chromium
+        run: bash scripts/test-browser.sh
+
+      - name: Preserve generated records for private review
+        uses: actions/upload-artifact@v4
+        with:
+          name: normalized-records
+          path: data/normalized/generated/
+          if-no-files-found: error
+          retention-days: 1

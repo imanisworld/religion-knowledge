@@ -1,0 +1,69 @@
+{
+  "parser_version": "1.1.2",
+  "canonical_files": 7,
+  "records": 1198,
+  "warnings": 7,
+  "review_required": 650,
+  "provenance_counts": {
+    "MY_WORDS": 24,
+    "REVIEW_REQUIRED": 650,
+    "SOURCE": 136,
+    "CLAUDE": 388
+  },
+  "record_type_counts": {
+    "OBSERVATION": 944,
+    "POSITION": 1,
+    "AUDIT_NOTE": 112,
+    "CLAIM": 4,
+    "AUDIT_STATUS": 10,
+    "CORRECTION": 7,
+    "AUDIT_SURVIVAL": 2,
+    "AUDIT_REASONING": 7,
+    "QUESTION": 17,
+    "DEFINITION": 94
+  },
+  "chunks": [
+    {
+      "source_file": "Bible_Deep_Dive_Master_Notes.md",
+      "file": "records.master.js",
+      "records": 182,
+      "size_bytes": 314979
+    },
+    {
+      "source_file": "Field_Guide_Conversation_Reference.md",
+      "file": "records.field-guide.js",
+      "records": 664,
+      "size_bytes": 901310
+    },
+    {
+      "source_file": "Glossary.md",
+      "file": "records.glossary.js",
+      "records": 95,
+      "size_bytes": 106025
+    },
+    {
+      "source_file": "Historical_Framework.md",
+      "file": "records.history.js",
+      "records": 86,
+      "size_bytes": 140451
+    },
+    {
+      "source_file": "Sources_and_Primary_Texts.md",
+      "file": "records.sources.js",
+      "records": 71,
+      "size_bytes": 112186
+    },
+    {
+      "source_file": "The_Other_Side.md",
+      "file": "records.other-side.js",
+      "records": 57,
+      "size_bytes": 92377
+    },
+    {
+      "source_file": "Translations.md",
+      "file": "records.translations.js",
+      "records": 43,
+      "size_bytes": 63979
+    }
+  ]
+}
