@@ -20,6 +20,16 @@ from pathlib import Path
 source = Path('app/index.html').read_text(encoding='utf-8')
 injection = '''<script>
 setTimeout(() => {
+  // Clean profile: Home leads with the hero fallback (no resume data yet),
+  // and the study/questions blocks render.
+  const heroFallback = document.querySelector('#home-lead .hero-card');
+  const noContinue = !document.querySelector('#home-lead .continue-card');
+  const topicChips = document.querySelectorAll('#home-topics .topic-chip').length;
+  const questionCards = document.querySelectorAll('#home-questions-list .record-card').length;
+  if (heroFallback && noContinue && topicChips > 0 && questionCards > 0) {
+    document.body.dataset.homeClean = 'pass';
+  }
+
   const firstRecord = document.querySelector('[data-record-id]');
   if (firstRecord) firstRecord.click();
   const browse = document.querySelector('[data-browse-source="Glossary.md"]');
@@ -326,6 +336,11 @@ fi
 
 if ! grep -Fq 'data-hash-route="pass"' /tmp/religion-app-dom.html; then
   echo "Setting location.hash did not route to the target view (or the dialog stayed open)" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-home-clean="pass"' /tmp/religion-app-dom.html; then
+  echo "Home did not render the clean-profile lead (hero fallback, topic chips, open questions)" >&2
   exit 1
 fi
 

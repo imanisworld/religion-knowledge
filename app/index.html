@@ -65,14 +65,19 @@
 
     <main id="main-content" tabindex="-1">
       <section id="view-home" class="view active" data-title="Home">
-        <div class="hero-card">
-          <p class="eyebrow">Traceable research</p>
-          <h2>Keep your thinking separate from AI interpretation.</h2>
-          <p>Every normalized item should retain who said it, how it was represented, and where it came from.</p>
-        </div>
+        <div id="home-lead"></div>
         <div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div>
         <section class="section-block">
-          <div class="section-heading"><h2>Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <div class="section-heading"><h2>What am I studying?</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
+          <div id="home-topics" class="topic-chip-row"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-questions-heading">Open questions</h2><button class="text-button" type="button" data-go="questions">All questions</button></div>
+          <div id="home-questions-list" class="card-list"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-review-heading">Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <p id="home-backup-status" class="muted" hidden></p>
           <div id="home-review-list" class="card-list"></div>
         </section>
         <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>

@@ -262,6 +262,39 @@ p { line-height: 1.55; }
 }
 .stat-card strong { display: block; font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; }
 .stat-card span { display: block; margin-top: 2px; color: var(--subtle); font-family: var(--f-mono); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+button.stat-card { text-align: left; cursor: pointer; }
+button.stat-card:hover,
+button.stat-card:focus-visible { border-color: var(--accent); }
+
+.continue-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-color: var(--accent);
+}
+.continue-card h2 { margin-bottom: 6px; }
+.continue-card p:last-child { color: var(--accent); font-weight: 600; }
+.continue-card:hover,
+.continue-card:focus-visible { box-shadow: 0 12px 36px rgba(31,94,91,.18); }
+
+.topic-chip-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.topic-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  padding: 0 15px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  font-size: .9rem;
+}
+.topic-chip span { color: var(--subtle); font-family: var(--f-mono); font-size: .7rem; }
+.topic-chip:hover,
+.topic-chip:focus-visible { border-color: var(--accent); color: var(--accent); }
 
 .section-block { margin: 24px 0; }
 .section-heading {
@@ -547,14 +580,19 @@ p { line-height: 1.55; }
 
     <main id="main-content" tabindex="-1">
       <section id="view-home" class="view active" data-title="Home">
-        <div class="hero-card">
-          <p class="eyebrow">Traceable research</p>
-          <h2>Keep your thinking separate from AI interpretation.</h2>
-          <p>Every normalized item should retain who said it, how it was represented, and where it came from.</p>
-        </div>
+        <div id="home-lead"></div>
         <div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div>
         <section class="section-block">
-          <div class="section-heading"><h2>Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <div class="section-heading"><h2>What am I studying?</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
+          <div id="home-topics" class="topic-chip-row"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-questions-heading">Open questions</h2><button class="text-button" type="button" data-go="questions">All questions</button></div>
+          <div id="home-questions-list" class="card-list"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-review-heading">Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <p id="home-backup-status" class="muted" hidden></p>
           <div id="home-review-list" class="card-list"></div>
         </section>
         <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>
@@ -40944,6 +40982,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     : {};
 
   const OVERRIDE_STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const RESUME_STORAGE_KEY = 'religion-knowledge-resume-v1';
   const LIST_PAGE_SIZE = 60;
   const ALLOWED_OVERRIDE_TYPES = [
     'MY_WORDS',
@@ -41071,8 +41110,28 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   }
 
   function saveResumeState() {
-    // Populated in a later change; kept as a seam so syncHash stays the only
-    // navigation-tracking call site.
+    try {
+      const record = openRecordId ? baseRecords.find((r) => r.id === openRecordId) : null;
+      const active = document.querySelector(`#view-${state.view}`);
+      const recordTitle = record ? String(record.title || record.text || '').trim() : '';
+      localStorage.setItem(RESUME_STORAGE_KEY, JSON.stringify({
+        hash: hashForState(),
+        view: state.view,
+        viewTitle: active?.dataset.title || 'Home',
+        recordId: openRecordId,
+        recordTitle: recordTitle ? (recordTitle.length > 80 ? `${recordTitle.slice(0, 77)}…` : recordTitle) : null,
+        updated_at: new Date().toISOString(),
+      }));
+    } catch { /* private mode / storage denied — resume simply stays off */ }
+  }
+
+  function loadResumeState() {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(RESUME_STORAGE_KEY) || 'null');
+      return parsed && typeof parsed === 'object' && typeof parsed.hash === 'string' ? parsed : null;
+    } catch {
+      return null;
+    }
   }
 
   function parseHash(raw) {
@@ -41266,27 +41325,81 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     const audits = records.filter((r) => ['AUDIT', 'AUDIT_NOTE', 'AUDIT_STATUS', 'CORRECTION', 'AUDIT_SURVIVAL', 'AUDIT_REASONING'].includes(r.record_type)).length;
     const sources = records.filter((r) => r.provenance_type === 'SOURCE').length;
     const stats = [
-      ['Records', records.length],
-      ['Provably mine', mine],
-      ['Audits', audits],
-      ['Review', review],
-      ['Sources', sources],
+      ['Records', records.length, 'search'],
+      ['Provably mine', mine, 'thoughts'],
+      ['Audits', audits, 'audits'],
+      ['Review', review, 'review'],
+      ['Sources', sources, 'sources'],
     ];
 
-    $('stats-grid').innerHTML = stats.map(([name, count]) => `
-      <div class="stat-card"><strong>${count}</strong><span>${escapeHtml(name)}</span></div>
+    $('stats-grid').innerHTML = stats.map(([name, count, target]) => `
+      <button class="stat-card" type="button" data-go="${escapeHtml(target)}"><strong>${count}</strong><span>${escapeHtml(name)}</span></button>
     `).join('');
+  }
+
+  function renderHomeLead() {
+    const lead = $('home-lead');
+    if (!lead) return;
+    const resume = loadResumeState();
+    if (resume && resume.hash && resume.hash !== '#/home') {
+      const title = resume.recordTitle || resume.viewTitle || 'Where you left off';
+      const context = resume.recordTitle ? `Record · ${resume.viewTitle || 'Home'}` : (resume.viewTitle || '');
+      lead.innerHTML = `
+        <a class="hero-card continue-card" href="${escapeHtml(resume.hash)}">
+          <p class="eyebrow">Continue where you left off</p>
+          <h2>${escapeHtml(title)}</h2>
+          <p>${escapeHtml(context)} →</p>
+        </a>`;
+    } else {
+      lead.innerHTML = `
+        <div class="hero-card">
+          <p class="eyebrow">Traceable research</p>
+          <h2>Keep your thinking separate from AI interpretation.</h2>
+          <p>Every record keeps who said it, how it was represented, and where it came from.</p>
+        </div>`;
+    }
+  }
+
+  function topicCounts(records) {
+    const counts = new Map();
+    records.forEach((record) => {
+      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
+    });
+    return counts;
+  }
+
+  function renderHomeTopics() {
+    const target = $('home-topics');
+    if (!target) return;
+    const top = [...topicCounts(currentRecords()).entries()]
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .slice(0, 6);
+    target.innerHTML = top.length
+      ? top.map(([topic, count]) => `<a class="topic-chip" href="#/topic/${encodeURIComponent(topic)}">${escapeHtml(topic)}<span>${count}</span></a>`).join('')
+      : emptyState('No topics yet', 'Topic metadata appears after corpus normalization.');
+  }
+
+  function renderHomeQuestions() {
+    const questions = currentRecords().filter((r) => r.provenance_type === 'MY_QUESTION' || r.record_type === 'QUESTION');
+    const heading = $('home-questions-heading');
+    if (heading) heading.textContent = questions.length ? `Open questions · ${questions.length}` : 'Open questions';
+    renderList('home-questions-list', questions.slice(0, 3), 'No questions normalized yet', 'Questions appear here as the corpus grows.', { unbounded: true });
   }
 
   function renderHome() {
     const records = currentRecords();
-    const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').slice(0, 4);
+    const reviewAll = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED');
     const recent = [...records]
       .sort((a, b) => String(b.original_date || '').localeCompare(String(a.original_date || '')))
-      .slice(0, 6);
+      .slice(0, 3);
 
+    renderHomeLead();
     renderStats();
-    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
+    renderHomeTopics();
+    renderHomeQuestions();
+    const reviewHeading = $('home-review-heading');
+    if (reviewHeading) reviewHeading.textContent = reviewAll.length ? `Needs attention · ${reviewAll.length}` : 'Needs attention';
+    renderList('home-review-list', reviewAll.slice(0, 4), 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
     renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.', { unbounded: true });
   }
 
@@ -41343,11 +41456,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   }
 
   function renderTopics() {
-    const counts = new Map();
-    filteredRecords().forEach((record) => {
-      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
-    });
-    let topics = [...counts.entries()];
+    let topics = [...topicCounts(filteredRecords()).entries()];
     const topicQuery = state.topicQuery.trim().toLowerCase();
     if (topicQuery) topics = topics.filter(([topic]) => topic.toLowerCase().includes(topicQuery));
     topics = state.topicSort === 'alpha'

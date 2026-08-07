@@ -7,6 +7,7 @@
     : {};
 
   const OVERRIDE_STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const RESUME_STORAGE_KEY = 'religion-knowledge-resume-v1';
   const LIST_PAGE_SIZE = 60;
   const ALLOWED_OVERRIDE_TYPES = [
     'MY_WORDS',
@@ -134,8 +135,28 @@
   }
 
   function saveResumeState() {
-    // Populated in a later change; kept as a seam so syncHash stays the only
-    // navigation-tracking call site.
+    try {
+      const record = openRecordId ? baseRecords.find((r) => r.id === openRecordId) : null;
+      const active = document.querySelector(`#view-${state.view}`);
+      const recordTitle = record ? String(record.title || record.text || '').trim() : '';
+      localStorage.setItem(RESUME_STORAGE_KEY, JSON.stringify({
+        hash: hashForState(),
+        view: state.view,
+        viewTitle: active?.dataset.title || 'Home',
+        recordId: openRecordId,
+        recordTitle: recordTitle ? (recordTitle.length > 80 ? `${recordTitle.slice(0, 77)}…` : recordTitle) : null,
+        updated_at: new Date().toISOString(),
+      }));
+    } catch { /* private mode / storage denied — resume simply stays off */ }
+  }
+
+  function loadResumeState() {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(RESUME_STORAGE_KEY) || 'null');
+      return parsed && typeof parsed === 'object' && typeof parsed.hash === 'string' ? parsed : null;
+    } catch {
+      return null;
+    }
   }
 
   function parseHash(raw) {
@@ -329,27 +350,81 @@
     const audits = records.filter((r) => ['AUDIT', 'AUDIT_NOTE', 'AUDIT_STATUS', 'CORRECTION', 'AUDIT_SURVIVAL', 'AUDIT_REASONING'].includes(r.record_type)).length;
     const sources = records.filter((r) => r.provenance_type === 'SOURCE').length;
     const stats = [
-      ['Records', records.length],
-      ['Provably mine', mine],
-      ['Audits', audits],
-      ['Review', review],
-      ['Sources', sources],
+      ['Records', records.length, 'search'],
+      ['Provably mine', mine, 'thoughts'],
+      ['Audits', audits, 'audits'],
+      ['Review', review, 'review'],
+      ['Sources', sources, 'sources'],
     ];
 
-    $('stats-grid').innerHTML = stats.map(([name, count]) => `
-      <div class="stat-card"><strong>${count}</strong><span>${escapeHtml(name)}</span></div>
+    $('stats-grid').innerHTML = stats.map(([name, count, target]) => `
+      <button class="stat-card" type="button" data-go="${escapeHtml(target)}"><strong>${count}</strong><span>${escapeHtml(name)}</span></button>
     `).join('');
+  }
+
+  function renderHomeLead() {
+    const lead = $('home-lead');
+    if (!lead) return;
+    const resume = loadResumeState();
+    if (resume && resume.hash && resume.hash !== '#/home') {
+      const title = resume.recordTitle || resume.viewTitle || 'Where you left off';
+      const context = resume.recordTitle ? `Record · ${resume.viewTitle || 'Home'}` : (resume.viewTitle || '');
+      lead.innerHTML = `
+        <a class="hero-card continue-card" href="${escapeHtml(resume.hash)}">
+          <p class="eyebrow">Continue where you left off</p>
+          <h2>${escapeHtml(title)}</h2>
+          <p>${escapeHtml(context)} →</p>
+        </a>`;
+    } else {
+      lead.innerHTML = `
+        <div class="hero-card">
+          <p class="eyebrow">Traceable research</p>
+          <h2>Keep your thinking separate from AI interpretation.</h2>
+          <p>Every record keeps who said it, how it was represented, and where it came from.</p>
+        </div>`;
+    }
+  }
+
+  function topicCounts(records) {
+    const counts = new Map();
+    records.forEach((record) => {
+      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
+    });
+    return counts;
+  }
+
+  function renderHomeTopics() {
+    const target = $('home-topics');
+    if (!target) return;
+    const top = [...topicCounts(currentRecords()).entries()]
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .slice(0, 6);
+    target.innerHTML = top.length
+      ? top.map(([topic, count]) => `<a class="topic-chip" href="#/topic/${encodeURIComponent(topic)}">${escapeHtml(topic)}<span>${count}</span></a>`).join('')
+      : emptyState('No topics yet', 'Topic metadata appears after corpus normalization.');
+  }
+
+  function renderHomeQuestions() {
+    const questions = currentRecords().filter((r) => r.provenance_type === 'MY_QUESTION' || r.record_type === 'QUESTION');
+    const heading = $('home-questions-heading');
+    if (heading) heading.textContent = questions.length ? `Open questions · ${questions.length}` : 'Open questions';
+    renderList('home-questions-list', questions.slice(0, 3), 'No questions normalized yet', 'Questions appear here as the corpus grows.', { unbounded: true });
   }
 
   function renderHome() {
     const records = currentRecords();
-    const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').slice(0, 4);
+    const reviewAll = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED');
     const recent = [...records]
       .sort((a, b) => String(b.original_date || '').localeCompare(String(a.original_date || '')))
-      .slice(0, 6);
+      .slice(0, 3);
 
+    renderHomeLead();
     renderStats();
-    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
+    renderHomeTopics();
+    renderHomeQuestions();
+    const reviewHeading = $('home-review-heading');
+    if (reviewHeading) reviewHeading.textContent = reviewAll.length ? `Needs attention · ${reviewAll.length}` : 'Needs attention';
+    renderList('home-review-list', reviewAll.slice(0, 4), 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
     renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.', { unbounded: true });
   }
 
@@ -406,11 +481,7 @@
   }
 
   function renderTopics() {
-    const counts = new Map();
-    filteredRecords().forEach((record) => {
-      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
-    });
-    let topics = [...counts.entries()];
+    let topics = [...topicCounts(filteredRecords()).entries()];
     const topicQuery = state.topicQuery.trim().toLowerCase();
     if (topicQuery) topics = topics.filter(([topic]) => topic.toLowerCase().includes(topicQuery));
     topics = state.topicSort === 'alpha'

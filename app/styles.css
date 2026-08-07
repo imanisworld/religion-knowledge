@@ -241,6 +241,39 @@ p { line-height: 1.55; }
 }
 .stat-card strong { display: block; font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; }
 .stat-card span { display: block; margin-top: 2px; color: var(--subtle); font-family: var(--f-mono); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+button.stat-card { text-align: left; cursor: pointer; }
+button.stat-card:hover,
+button.stat-card:focus-visible { border-color: var(--accent); }
+
+.continue-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-color: var(--accent);
+}
+.continue-card h2 { margin-bottom: 6px; }
+.continue-card p:last-child { color: var(--accent); font-weight: 600; }
+.continue-card:hover,
+.continue-card:focus-visible { box-shadow: 0 12px 36px rgba(31,94,91,.18); }
+
+.topic-chip-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.topic-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  padding: 0 15px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  font-size: .9rem;
+}
+.topic-chip span { color: var(--subtle); font-family: var(--f-mono); font-size: .7rem; }
+.topic-chip:hover,
+.topic-chip:focus-visible { border-color: var(--accent); color: var(--accent); }
 
 .section-block { margin: 24px 0; }
 .section-heading {
