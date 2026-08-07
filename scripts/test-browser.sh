@@ -354,6 +354,16 @@ if grep -Eq '<span class="badge [a-z]*">(VERBATIM|PARAPHRASE|SUMMARY)</span>' /t
   exit 1
 fi
 
+if ! grep -Fq 'id="home-backup-status"' /tmp/religion-app-dom.html; then
+  echo "Home backup-status placeholder is missing" >&2
+  exit 1
+fi
+
+if grep -Fq 'exist only in this browser' /tmp/religion-app-dom.html; then
+  echo "Clean profile should not warn about unexported review decisions" >&2
+  exit 1
+fi
+
 if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-browser.log; then
   echo "Browser log contains a JavaScript runtime error" >&2
   cat /tmp/religion-browser.log >&2

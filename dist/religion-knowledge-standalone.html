@@ -173,6 +173,17 @@ p { line-height: 1.55; }
   font-weight: 700;
 }
 
+.secondary-button.needs-backup { border-color: var(--warning); }
+.secondary-button.needs-backup::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 8px;
+  border-radius: 50%;
+  background: var(--warning);
+}
+
 .filter-button {
   display: inline-flex;
   align-items: center;
@@ -41922,6 +41933,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
 /* review-backup.js */
 (() => {
   const STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const META_KEY = 'religion-knowledge-review-backup-meta-v1';
   const BACKUP_VERSION = 1;
   const ALLOWED = new Set([
     'MY_WORDS', 'MY_POSITION', 'MY_QUESTION', 'CLAUDE',
@@ -41935,6 +41947,95 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     } catch {
       return {};
     }
+  }
+
+  function readMeta() {
+    try {
+      const value = JSON.parse(localStorage.getItem(META_KEY) || 'null');
+      return value && typeof value === 'object' ? value : { last_exported_at: null };
+    } catch {
+      return { last_exported_at: null };
+    }
+  }
+
+  function writeMeta(meta) {
+    try { localStorage.setItem(META_KEY, JSON.stringify(meta)); } catch {}
+  }
+
+  // Decisions that exist only in this browser: never exported, or saved/edited
+  // since the last export. These are the ones lost if the browser data goes.
+  function unexportedCount() {
+    const overrides = readOverrides();
+    const lastExport = readMeta().last_exported_at;
+    const ids = Object.keys(overrides);
+    if (!ids.length) return 0;
+    if (!lastExport) return ids.length;
+    return ids.filter((id) => {
+      const updated = overrides[id]?.updated_at;
+      return !updated || updated > lastExport;
+    }).length;
+  }
+
+  function renderBackupStatus() {
+    const total = Object.keys(readOverrides()).length;
+    const unexported = unexportedCount();
+    const lastExport = readMeta().last_exported_at;
+
+    const status = document.getElementById('review-backup-status');
+    if (status && !status.dataset.transient) {
+      if (unexported > 0) {
+        status.textContent = `${unexported} review decision${unexported === 1 ? '' : 's'} exist${unexported === 1 ? 's' : ''} only in this browser — export a backup.`;
+      } else if (total > 0 && lastExport) {
+        status.textContent = `All ${total} review decision${total === 1 ? '' : 's'} backed up (last export ${lastExport.slice(0, 10)}).`;
+      } else {
+        status.textContent = '';
+      }
+    }
+
+    const homeStatus = document.getElementById('home-backup-status');
+    if (homeStatus) {
+      if (unexported > 0) {
+        homeStatus.textContent = `${unexported} review decision${unexported === 1 ? '' : 's'} exist only in this browser. Export a backup from the Review Queue.`;
+        homeStatus.hidden = false;
+      } else {
+        homeStatus.textContent = '';
+        homeStatus.hidden = true;
+      }
+    }
+
+    const exportButton = document.getElementById('export-review-backup');
+    if (exportButton) exportButton.classList.toggle('needs-backup', unexported > 0);
+  }
+
+  function exportBackup() {
+    const overrides = readOverrides();
+    const exportedAt = new Date().toISOString();
+    const payload = {
+      schema: 'religion-knowledge-review-backup',
+      version: BACKUP_VERSION,
+      exported_at: exportedAt,
+      overrides,
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `religion-review-backup-${exportedAt.slice(0, 10)}.json`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+    writeMeta({ last_exported_at: exportedAt });
+    const status = document.getElementById('review-backup-status');
+    if (status) {
+      status.dataset.transient = 'true';
+      status.textContent = `Exported ${Object.keys(overrides).length} review decision${Object.keys(overrides).length === 1 ? '' : 's'} · just now.`;
+      setTimeout(() => {
+        delete status.dataset.transient;
+        renderBackupStatus();
+      }, 4000);
+    }
+    renderBackupStatus();
   }
 
   function validateOverrides(candidate) {
@@ -41966,24 +42067,6 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     return cleaned;
   }
 
-  function exportBackup() {
-    const payload = {
-      schema: 'religion-knowledge-review-backup',
-      version: BACKUP_VERSION,
-      exported_at: new Date().toISOString(),
-      overrides: readOverrides(),
-    };
-    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `religion-review-backup-${new Date().toISOString().slice(0, 10)}.json`;
-    document.body.appendChild(link);
-    link.click();
-    link.remove();
-    URL.revokeObjectURL(url);
-  }
-
   async function importBackup(file) {
     if (!file) return;
     const payload = JSON.parse(await file.text());
@@ -41991,6 +42074,17 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
       throw new Error('Unsupported review-backup format.');
     }
     const overrides = validateOverrides(payload.overrides);
+
+    const current = readOverrides();
+    const currentCount = Object.keys(current).length;
+    const incomingCount = Object.keys(overrides).length;
+    if (currentCount > 0 && JSON.stringify(current) !== JSON.stringify(overrides)) {
+      const proceed = window.confirm(
+        `Replace ${currentCount} local review decision${currentCount === 1 ? '' : 's'} with ${incomingCount} from this backup? Your current local decisions will be overwritten.`
+      );
+      if (!proceed) throw new Error('import cancelled — nothing was changed.');
+    }
+
     localStorage.setItem(STORAGE_KEY, JSON.stringify(overrides));
     location.reload();
   }
@@ -42031,6 +42125,17 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
       event.target.value = '';
     }
   });
+
+  // Recompute whenever a review decision is saved or cleared (same targets the
+  // rest of the app watches), and when another tab changes storage.
+  document.addEventListener('click', (event) => {
+    if (event.target.closest('#save-review-override, #save-review-next, #clear-review-override')) {
+      setTimeout(renderBackupStatus, 0);
+    }
+  });
+  window.addEventListener('storage', renderBackupStatus);
+
+  renderBackupStatus();
 })();
 
 </script>
