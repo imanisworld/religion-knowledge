@@ -80,7 +80,11 @@
     type: 'ALL',
     aiSource: 'CLAUDE',
     listLimits: {},
+    topicQuery: '',
+    topicSort: 'count',
   };
+
+  const MORE_SHEET_VIEWS = ['audits', 'questions', 'sources', 'ai', 'compare', 'positions'];
 
   const $ = (id) => document.getElementById(id);
   const views = [...document.querySelectorAll('.view')];
@@ -241,8 +245,27 @@
     renderList('audits-list', items, 'No audits normalized yet', 'Original claims and later corrections remain separate linked records.');
   }
 
+  function needsReview(record) {
+    return record.review_required || record.provenance_type === 'REVIEW_REQUIRED';
+  }
+
+  function reviewedThisSessionCount() {
+    return Object.keys(localOverrides).filter((id) => {
+      const original = baseRecords.find((r) => r.id === id);
+      return original && needsReview(original) && localOverrides[id]?.provenance_type !== 'REVIEW_REQUIRED';
+    }).length;
+  }
+
   function renderReview() {
-    const items = filteredRecords((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED');
+    const items = filteredRecords(needsReview);
+    const remaining = currentRecords().filter(needsReview).length;
+    const reviewed = reviewedThisSessionCount();
+    const progress = $('review-progress');
+    if (progress) {
+      progress.textContent = reviewed
+        ? `${remaining} remaining · ${reviewed} reviewed this session`
+        : `${remaining} awaiting review`;
+    }
     renderList('review-list', items, 'Review queue clear', 'Manually reviewed items leave this queue but retain their original attribution underneath.');
   }
 
@@ -251,10 +274,16 @@
     filteredRecords().forEach((record) => {
       (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
     });
-    const topics = [...counts.entries()].sort((a, b) => b[1] - a[1]);
+    let topics = [...counts.entries()];
+    const topicQuery = state.topicQuery.trim().toLowerCase();
+    if (topicQuery) topics = topics.filter(([topic]) => topic.toLowerCase().includes(topicQuery));
+    topics = state.topicSort === 'alpha'
+      ? topics.sort((a, b) => a[0].localeCompare(b[0]))
+      : topics.sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+
     $('topics-list').innerHTML = topics.length
       ? topics.map(([topic, count]) => `<button class="topic-card" type="button" data-topic="${escapeHtml(topic)}"><strong>${escapeHtml(topic)}</strong><span>${count} record${count === 1 ? '' : 's'}</span></button>`).join('')
-      : emptyState('No topics normalized yet', 'Topic metadata appears after corpus normalization.');
+      : emptyState(topicQuery ? 'No topics match your filter' : 'No topics normalized yet', topicQuery ? 'Try a different search term.' : 'Topic metadata appears after corpus normalization.');
   }
 
   function buildChains() {
@@ -278,7 +307,23 @@
 
   function renderSearch() {
     const items = filteredRecords();
+    const summary = $('search-summary');
+    if (summary) {
+      const q = state.query.trim();
+      const parts = [`${items.length} result${items.length === 1 ? '' : 's'}`];
+      if (q) parts.push(`for “${q}”`);
+      if (state.provenance !== 'ALL') parts.push(`· ${label(state.provenance).toLowerCase()}`);
+      if (state.type !== 'ALL') parts.push(`· ${label(state.type).toLowerCase()}`);
+      summary.textContent = parts.join(' ');
+    }
     renderList('search-results', items, 'No matching records', currentRecords().length ? 'Change the search or filters.' : 'No normalized records have been loaded.');
+  }
+
+  function renderFilterBadge() {
+    const count = (state.provenance !== 'ALL' ? 1 : 0) + (state.type !== 'ALL' ? 1 : 0);
+    const badge = $('filter-count');
+    if (badge) badge.textContent = count ? String(count) : '';
+    $('filter-button')?.classList.toggle('has-filters', count > 0);
   }
 
   function renderAll() {
@@ -292,12 +337,15 @@
     renderCompare();
     renderReview();
     renderSearch();
+    renderFilterBadge();
   }
 
   function showView(name) {
     state.view = name;
     views.forEach((view) => view.classList.toggle('active', view.id === `view-${name}`));
     navItems.forEach((item) => item.classList.toggle('active', item.dataset.view === name));
+    const moreButton = $('nav-more');
+    if (moreButton) moreButton.classList.toggle('active', MORE_SHEET_VIEWS.includes(name));
     const active = document.querySelector(`#view-${name}`);
     $('page-title').textContent = active?.dataset.title || 'Religion Knowledge';
     $('main-content').focus({ preventScroll: true });
@@ -310,6 +358,7 @@
     const originalEvidence = original.attribution_evidence
       ? `${original.attribution_evidence.method || 'evidence'}: ${original.attribution_evidence.value || ''}`
       : 'Not recorded';
+    const inQueue = needsReview(record);
 
     return `
       <section class="review-editor" aria-label="Manual attribution review">
@@ -321,6 +370,7 @@
         <textarea id="review-note" rows="3" placeholder="Why this attribution is now known"></textarea>
         <div class="dialog-actions">
           <button type="button" id="save-review-override" data-record-id="${escapeHtml(record.id)}">Save review</button>
+          ${inQueue ? `<button type="button" id="save-review-next" data-record-id="${escapeHtml(record.id)}">Save &amp; review next</button>` : ''}
           ${getOverride(record.id) ? `<button type="button" id="clear-review-override" data-record-id="${escapeHtml(record.id)}">Restore parser attribution</button>` : ''}
         </div>
         <p class="record-source"><strong>Original parser attribution:</strong> ${escapeHtml(label(original.provenance_type))} · ${escapeHtml(originalEvidence)}</p>
@@ -355,9 +405,9 @@
     $('record-dialog').showModal();
   }
 
-  function saveReviewOverride(recordId) {
+  function applyReviewOverride(recordId) {
     const provenance = $('review-provenance')?.value;
-    if (!ALLOWED_OVERRIDE_TYPES.includes(provenance)) return;
+    if (!ALLOWED_OVERRIDE_TYPES.includes(provenance)) return false;
     const note = $('review-note')?.value?.trim() || '';
     localOverrides = {
       ...localOverrides,
@@ -368,8 +418,30 @@
       },
     };
     try { localStorage.setItem(OVERRIDE_STORAGE_KEY, JSON.stringify(localOverrides)); } catch {}
+    return true;
+  }
+
+  function saveReviewOverride(recordId) {
+    if (!applyReviewOverride(recordId)) return;
     renderAll();
     openRecord(recordId);
+  }
+
+  function saveReviewOverrideAndAdvance(recordId) {
+    const queue = filteredRecords(needsReview).map((r) => r.id);
+    if (!applyReviewOverride(recordId)) return;
+    renderAll();
+
+    const idx = queue.indexOf(recordId);
+    const rest = idx >= 0 ? queue.slice(idx + 1) : [];
+    const nextId = rest.find((id) => id !== recordId) || queue.find((id) => id !== recordId);
+
+    if (nextId) {
+      openRecord(nextId);
+    } else {
+      $('record-dialog').close();
+      showView('review');
+    }
   }
 
   function clearReviewOverride(recordId) {
@@ -386,7 +458,10 @@
     if (nav) showView(nav.dataset.view);
 
     const go = event.target.closest('[data-go]');
-    if (go) showView(go.dataset.go);
+    if (go) {
+      showView(go.dataset.go);
+      if (go.closest('#more-sheet')) $('more-sheet').close();
+    }
 
     const more = event.target.closest('[data-show-more]');
     if (more) {
@@ -397,10 +472,14 @@
     }
 
     const record = event.target.closest('[data-record-id]');
-    if (record && !event.target.closest('#save-review-override, #clear-review-override')) openRecord(record.dataset.recordId);
+    if (record && !event.target.closest('#save-review-override, #save-review-next, #clear-review-override')) openRecord(record.dataset.recordId);
 
     if (event.target.closest('#save-review-override')) {
       saveReviewOverride(event.target.closest('#save-review-override').dataset.recordId);
+    }
+
+    if (event.target.closest('#save-review-next')) {
+      saveReviewOverrideAndAdvance(event.target.closest('#save-review-next').dataset.recordId);
     }
 
     if (event.target.closest('#clear-review-override')) {
@@ -429,6 +508,22 @@
     const panel = $('filter-panel');
     panel.hidden = !panel.hidden;
     $('filter-button').setAttribute('aria-expanded', String(!panel.hidden));
+  });
+
+  $('nav-more')?.addEventListener('click', () => $('more-sheet').showModal());
+  $('more-sheet-close')?.addEventListener('click', () => $('more-sheet').close());
+
+  $('topic-search')?.addEventListener('input', (event) => {
+    state.topicQuery = event.target.value;
+    renderTopics();
+  });
+
+  $('topic-sort-toggle')?.addEventListener('click', () => {
+    state.topicSort = state.topicSort === 'count' ? 'alpha' : 'count';
+    const button = $('topic-sort-toggle');
+    button.dataset.sort = state.topicSort;
+    button.textContent = state.topicSort === 'count' ? 'Sort: Most records' : 'Sort: A–Z';
+    renderTopics();
   });
 
   $('search-input').addEventListener('input', (event) => {

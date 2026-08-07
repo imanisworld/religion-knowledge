@@ -22,7 +22,7 @@
         <span aria-hidden="true">⌕</span>
         <input id="search-input" type="search" placeholder="Search notes, topics, sources…" autocomplete="off">
       </label>
-      <button id="filter-button" class="filter-button" type="button" aria-expanded="false">Filters</button>
+      <button id="filter-button" class="filter-button" type="button" aria-expanded="false">Filters<span id="filter-count" class="filter-count" aria-hidden="true"></span></button>
     </section>
 
     <section id="filter-panel" class="filter-panel" hidden>
@@ -76,26 +76,48 @@
       </section>
 
       <section id="view-thoughts" class="view" data-title="My Thoughts"><div class="section-heading stacked"><div><p class="eyebrow">Proven user-origin material</p><h2>My Thoughts</h2></div><p class="muted">AI commentary is excluded unless it is opened through a related record.</p></div><div id="thoughts-list" class="card-list"></div></section>
-      <section id="view-topics" class="view" data-title="Topics"><div class="section-heading stacked"><div><p class="eyebrow">Across every document</p><h2>Topics</h2></div></div><div id="topics-list" class="topic-grid"></div></section>
+      <section id="view-topics" class="view" data-title="Topics">
+        <div class="section-heading stacked"><div><p class="eyebrow">Across every document</p><h2>Topics</h2></div></div>
+        <div class="topic-controls">
+          <label class="search-box topic-search-box">
+            <span aria-hidden="true">⌕</span>
+            <input id="topic-search" type="search" placeholder="Filter topics…" autocomplete="off">
+          </label>
+          <button id="topic-sort-toggle" class="secondary-button" type="button" data-sort="count">Sort: Most records</button>
+        </div>
+        <div id="topics-list" class="topic-grid"></div>
+      </section>
       <section id="view-questions" class="view" data-title="Questions"><div class="section-heading stacked"><div><p class="eyebrow">Open reasoning</p><h2>Questions</h2></div></div><div id="questions-list" class="card-list"></div></section>
       <section id="view-sources" class="view" data-title="Sources"><div class="section-heading stacked"><div><p class="eyebrow">Named evidence</p><h2>Sources</h2></div></div><div id="sources-list" class="card-list"></div></section>
       <section id="view-ai" class="view" data-title="AI Analysis"><div class="section-heading stacked"><div><p class="eyebrow">Never silently yours</p><h2>AI Analysis</h2></div></div><div class="segmented" role="tablist" aria-label="AI source"><button class="segment active" data-ai="CLAUDE" type="button">Claude</button><button class="segment" data-ai="CHATGPT" type="button">ChatGPT</button><button class="segment" data-ai="INFERENCE" type="button">Inference</button></div><div id="ai-list" class="card-list"></div></section>
       <section id="view-audits" class="view" data-title="Audits"><div class="section-heading stacked"><div><p class="eyebrow">What changed under scrutiny</p><h2>Audits & Corrections</h2></div></div><div id="audits-list" class="card-list"></div></section>
       <section id="view-compare" class="view" data-title="Compare"><div class="section-heading stacked"><div><p class="eyebrow">Chain of custody</p><h2>Compare</h2></div><p class="muted">Original words → AI interpretation → evidence → audit → current position.</p></div><div id="compare-list" class="compare-list"></div></section>
-      <section id="view-review" class="view" data-title="Review Queue"><div class="section-heading stacked"><div><p class="eyebrow">Do not guess</p><h2>Review Queue</h2></div><p class="muted">Mixed, ambiguous, unsupported, or parser-failed material belongs here.</p></div><div id="review-list" class="card-list"></div></section>
-      <section id="view-search" class="view" data-title="Search Results"><div class="section-heading stacked"><div><p class="eyebrow">Filtered corpus</p><h2>Search Results</h2></div></div><div id="search-results" class="card-list"></div></section>
+      <section id="view-review" class="view" data-title="Review Queue"><div class="section-heading stacked"><div><p class="eyebrow">Do not guess</p><h2>Review Queue</h2></div><p class="muted">Mixed, ambiguous, unsupported, or parser-failed material belongs here.</p><p id="review-progress" class="muted" role="status" aria-live="polite"></p></div><div id="review-list" class="card-list"></div></section>
+      <section id="view-search" class="view" data-title="Search Results"><div class="section-heading stacked"><div><p class="eyebrow">Filtered corpus</p><h2>Search Results</h2></div><p id="search-summary" class="muted" role="status" aria-live="polite"></p></div><div id="search-results" class="card-list"></div></section>
     </main>
 
     <nav class="bottom-nav" aria-label="Primary navigation">
       <button class="nav-item active" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
       <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Mine</small></button>
       <button class="nav-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
-      <button class="nav-item" type="button" data-view="audits"><span>✓</span><small>Audits</small></button>
       <button class="nav-item" type="button" data-view="review"><span>!</span><small>Review</small></button>
+      <button class="nav-item" type="button" id="nav-more" aria-haspopup="dialog" aria-controls="more-sheet"><span>⋯</span><small>More</small></button>
     </nav>
   </div>
 
   <dialog id="record-dialog" class="record-dialog"><div class="dialog-header"><div><p id="dialog-kicker" class="eyebrow"></p><h2 id="dialog-title">Record</h2></div><button id="dialog-close" class="icon-button" type="button" aria-label="Close record">×</button></div><div id="dialog-body"></div></dialog>
+
+  <dialog id="more-sheet" class="more-sheet" aria-label="More views">
+    <div class="dialog-header"><h2>More</h2><button id="more-sheet-close" class="icon-button" type="button" aria-label="Close">×</button></div>
+    <div class="more-sheet-body">
+      <button class="sheet-item" type="button" data-go="audits"><span>✓</span>Audits &amp; Corrections</button>
+      <button class="sheet-item" type="button" data-go="questions"><span>?</span>Questions</button>
+      <button class="sheet-item" type="button" data-go="sources"><span>§</span>Sources</button>
+      <button class="sheet-item" type="button" data-go="ai"><span>✦</span>AI Analysis</button>
+      <button class="sheet-item" type="button" data-go="compare"><span>⇄</span>Compare</button>
+      <button class="sheet-item" type="button" data-go="positions"><span>◆</span>Position History</button>
+    </div>
+  </dialog>
 
   <script src="../data/normalized/records.js"></script>
   <script src="../data/normalized/generated/records.master.js"></script>

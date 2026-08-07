@@ -93,7 +93,7 @@
 
   document.addEventListener('click', (event) => {
     if (event.target.closest('[data-go="positions"], [data-view="positions"]')) render();
-    if (event.target.closest('#save-review-override, #clear-review-override')) setTimeout(render, 0);
+    if (event.target.closest('#save-review-override, #save-review-next, #clear-review-override')) setTimeout(render, 0);
   });
 
   window.addEventListener('storage', render);
