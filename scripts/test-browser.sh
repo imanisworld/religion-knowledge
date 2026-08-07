@@ -72,6 +72,21 @@ if ! grep -Fq '<strong>650</strong><span>Review</span>' /tmp/religion-app-dom.ht
   exit 1
 fi
 
+if ! grep -Fq 'id="view-positions"' /tmp/religion-app-dom.html; then
+  echo "Position History view was not injected before app initialization" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'No explicit positions yet' /tmp/religion-app-dom.html; then
+  echo "Position History did not fail closed when no MY_POSITION records exist" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-go="positions"' /tmp/religion-app-dom.html; then
+  echo "Position History navigation control is missing" >&2
+  exit 1
+fi
+
 if ! grep -Fq 'data-original-source-link="true"' /tmp/religion-app-dom.html; then
   echo "Opening a record did not render an original-source link" >&2
   tail -100 /tmp/religion-app-dom.html >&2 || true
@@ -107,4 +122,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 source_link=%s\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 source_link=%s\n' "$SOURCE_HREF"
