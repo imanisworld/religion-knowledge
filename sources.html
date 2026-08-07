@@ -1,0 +1,673 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sources &amp; Primary Texts</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.55rem;font-size:.875rem}
+#toc a.lvl3{padding-left:1.4rem;font-size:.8rem}
+#toc a.lvl4{padding-left:1.4rem;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.02em;
+  color:#8E9C97;display:flex;align-items:center;gap:.4rem}
+#toc a.lvl4::before{content:"⚑";font-size:.75rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-overstated::before{color:var(--overstated)}
+#toc a.lvl4.st-collapses::before{color:#C05252}
+#toc a.lvl4.st-holds::before{color:#4E9970}
+#toc a.lvl4.st-new::before{color:#5FA9A5}
+#toc a.dim{opacity:.22}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{opacity:.16;pointer-events:none}
+h2{font-family:var(--f-display);font-size:1.92rem;font-weight:500;letter-spacing:-.02em;
+  line-height:1.14;margin:3.6rem 0 1.3rem;padding-top:1.6rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem;display:flex;gap:.7rem;align-items:baseline}
+h2 .num{font-family:var(--f-mono);font-size:.78rem;color:var(--accent);letter-spacing:.06em;
+  font-weight:500;flex:none;padding-top:.42rem}
+h3{font-family:var(--f-display);font-size:1.24rem;font-weight:600;letter-spacing:-.008em;
+  margin:2.3rem 0 .7rem;scroll-margin-top:4.5rem;display:flex;gap:.6rem;align-items:baseline}
+h3 .num{font-family:var(--f-mono);font-size:.7rem;color:var(--ink3);flex:none;padding-top:.2rem}
+p{margin:0 0 1.05rem;max-width:var(--measure)}
+ul,ol{max-width:var(--measure);padding-left:1.2rem;margin:0 0 1.15rem}
+li{margin-bottom:.45rem}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+
+/* ---------- audit apparatus ---------- */
+.audit{position:relative;background:var(--paper);border:1px solid var(--rule);
+  border-radius:5px;margin:1.5rem 0 2.4rem;overflow:hidden;max-width:var(--measure)}
+.audit::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--ink3)}
+.audit[data-status=overstated]::before{background:var(--overstated)}
+.audit[data-status=collapses]::before{background:var(--collapses)}
+.audit[data-status=holds]::before{background:var(--holds)}
+.audit[data-status=new]::before{background:var(--new)}
+.audit > summary{list-style:none;cursor:pointer;padding:1rem 1.3rem 1rem 1.5rem;
+  display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;transition:background .15s}
+.audit > summary::-webkit-details-marker{display:none}
+.audit > summary:hover{background:#F6F8F7}
+.audit > summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.siglum{font-size:.95rem;line-height:1.4;flex:none;color:var(--ink3)}
+.audit[data-status=overstated] .siglum{color:var(--overstated)}
+.audit[data-status=collapses] .siglum{color:var(--collapses)}
+.audit[data-status=holds] .siglum{color:var(--holds)}
+.audit[data-status=new] .siglum{color:var(--new)}
+.audit .atitle{flex:1;min-width:14rem;font-family:var(--f-display);font-size:1.02rem;
+  font-weight:600;line-height:1.3}
+.badge{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;
+  padding:.28rem .55rem;border-radius:99px;flex:none;font-weight:500;white-space:nowrap;
+  background:#EDEFEC;color:var(--ink2)}
+.badge.overstated{background:#FBF0DE;color:#7E4E11}
+.badge.collapses{background:#F9E6E6;color:#7A2222}
+.badge.holds{background:#E3F1E9;color:#1F4C38}
+.badge.new{background:var(--accent-soft);color:#134745}
+.stamp{font-family:var(--f-mono);font-size:.58rem;letter-spacing:.09em;color:var(--ink3);
+  flex:none;padding:.32rem .45rem;border:1px solid var(--rule);border-radius:3px;white-space:nowrap}
+.chev{flex:none;color:var(--ink3);font-size:.75rem;transition:transform .18s;margin-top:.28rem}
+.audit[open] .chev{transform:rotate(90deg)}
+.abody{padding:.2rem 1.5rem 1.35rem;border-top:1px solid var(--rule);margin-top:0}
+.abody > p:first-child{margin-top:1.1rem}
+.abody p{font-size:.925rem;margin-bottom:.9rem}
+.abody ul{font-size:.925rem}
+.abody em{color:var(--ink2)}
+
+/* field labels inside audits */
+.fld{display:block;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink3);margin:1.4rem 0 .3rem}
+.abody > p.hasfld{margin-top:0}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+.camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+
+/* cross-reference links */
+.xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
+  border-bottom:1px dotted currentColor;padding:0 .05em}
+.xref:hover{background:var(--accent-soft)}
+.gloss{border-bottom:1px dashed #B79A4E;cursor:help;position:relative}
+.gloss:hover,.gloss:focus{background:#FBF3D9;outline:none}
+.gloss .tip{position:absolute;left:0;top:calc(100% + 7px);width:min(21rem,78vw);
+  background:var(--ink);color:#E9EFEC;padding:.65rem .8rem;border-radius:5px;font-size:.8rem;
+  line-height:1.45;font-weight:400;font-style:normal;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .13s;box-shadow:0 6px 22px rgba(0,0,0,.24)}
+.gloss .tip b{display:block;font-family:var(--f-mono);font-size:.62rem;letter-spacing:.1em;
+  text-transform:uppercase;color:#8FBFBC;margin-bottom:.25rem}
+.gloss:hover .tip,.gloss:focus .tip{opacity:1}
+.gloss.flip .tip{left:auto;right:0}
+a.ext{color:var(--accent);font-weight:500;text-decoration:none;border-bottom:1px solid #A8CFCC;padding-bottom:1px}
+a.ext:hover{border-bottom-color:var(--accent);background:var(--accent-soft)}
+a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:super;opacity:.65}
+:target > .flashwrap,.flash{animation:flash 1.5s ease-out}
+@keyframes flash{0%,22%{background:#FBF0C9}100%{background:transparent}}
+
+/* related links */
+.related{margin:1.1rem 0 0;padding:.75rem 1rem;background:var(--accent-soft);
+  border-radius:4px;font-size:.83rem;max-width:var(--measure)}
+.related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:#134745;display:block;margin-bottom:.35rem}
+.related a{margin-right:.9rem;white-space:nowrap}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+.tbtn{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  padding:.42rem .7rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);
+  border-radius:3px;cursor:pointer;transition:.15s}
+.tbtn:hover{border-color:var(--accent);color:var(--accent)}
+.tbtn.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}
+th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
+td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:hover td{background:#F6F8F7}
+td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+h2 span.flagmark{color:var(--collapses)}
+#top{position:fixed;right:1.5rem;bottom:1.5rem;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);width:300px;transition:transform .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.35rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+</style></head><body>
+<button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">Sources &amp; Primary Texts</p>
+    <p class="docsub">What they say + links</p>
+    <div class="docswitch"><a href="master-notes.html">Master Notes</a><a href="field-guide.html">Field Guide</a><a href="history.html">History</a><a class="on" href="#">Sources</a><a href="other-side.html">Other Side</a><a href="translations.html">Translations</a><a href="glossary.html">Glossary</a></div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> Ancient Near Eastern Inscriptions</a>
+<a class="lvl3" href="#s1-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.1</span> The Merneptah Stele — c. 1208 BCE</a>
+<a class="lvl3" href="#s1-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.2</span> The Mesha Stele / Moabite Stone — c. 840 BCE</a>
+<a class="lvl3" href="#s1-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.3</span> The Tel Dan Stele — c. 840 BCE</a>
+<a class="lvl3" href="#s1-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.4</span> The Sennacherib Prism — 691 BCE</a>
+<a class="lvl2" href="#s2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2</span> Jewish Texts</a>
+<a class="lvl3" href="#s2-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.1</span> Sefaria — the whole Jewish library, free</a>
+<a class="lvl3" href="#s2-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.2</span> The Dead Sea Scrolls — discovered 1947</a>
+<a class="lvl3" href="#s2-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.3</span> Josephus — c. 37–100 CE</a>
+<a class="lvl2" href="#s3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3</span> Roman Sources</a>
+<a class="lvl3" href="#s3-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.1</span> Tacitus, Annals 15.44 — c. 115 CE</a>
+<a class="lvl3" href="#s3-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.2</span> Pliny the Younger, Letters 10.96 — c. 112 CE</a>
+<a class="lvl2" href="#s4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4</span> Christian Texts and Manuscripts</a>
+<a class="lvl3" href="#s4-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.1</span> Codex Sinaiticus — 4th century CE</a>
+<a class="lvl3" href="#s4-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.2</span> Early Christian Writings — the extracanonical corpus</a>
+<a class="lvl3" href="#s4-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.3</span> What to read in the New Testament itself, in this order</a>
+<a class="lvl2" href="#s5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">5</span> Islamic Sources</a>
+<a class="lvl2" href="#s6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6</span> Checking Yourself</a>
+<a class="lvl3" href="#s6-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6.1</span> History for Atheists</a>
+<a class="lvl3" href="#s6-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6.2</span> The standing rule</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <p class="lens">Primary Evidence — Read It Yourself</p>
+    <h1>Sources &amp; Primary Texts</h1>
+    <div class="meta"><span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="history.html">History</a></span></div>
+  </div>
+  <div id="tools"><span id="here"></span></div>
+  <div class="howto"><p><strong>Provenance.</strong> <strong>Written by:</strong> Claude, 7
+August 2026. Every link was checked. <strong>What each source says is
+documented.</strong> What it establishes and fails to establish is
+Claude’s reading and is marked.</p></div>
+  <div id="nores">No section matches that search.</div>
+  <section id="sec-intro">
+<p><em>What Each Source Actually Says — With Links</em></p>
+<blockquote>
+<p><strong>Who is saying what.</strong> Three markers run through all
+seven documents:</p>
+<ul>
+<li><strong><span class="mark doc">DOCUMENTED</span></strong> — a named scholar in a named
+publication. Checkable. If no name is attached, it is not this.</li>
+<li><strong><span class="mark inf">INFERENCE</span></strong> — reasoning built on documented facts
+but not itself found in any source. Claude’s analysis. Defensible, but
+nobody has published it, and it should never be cited as though someone
+had.</li>
+<li><strong><span class="mark you">YOURS</span></strong> — your own observation, from reading or
+live conversation. Recorded because it held up, not because it was
+agreeable.</li>
+</ul>
+<p><strong>The rule:</strong> anything marked <span class="mark inf">INFERENCE</span> is Claude
+reasoning. Treat it exactly as sceptically as you treat everything else
+here.</p>
+</blockquote>
+<blockquote>
+<p><strong>How to use this.</strong> Every entry gives you three things:
+what the source <em>is</em>, what it <em>actually says</em>, and what it
+<em>does and does not establish</em>. Links go to free, reputable full
+texts wherever they exist.</p>
+<p><strong>The rule that matters:</strong> never cite a source you have
+not opened. If you name Josephus in a conversation and cannot say which
+passage, you will be asked, and the answer decides whether the rest of
+your case is taken seriously.</p>
+</blockquote>
+</section><section id="sec-1"><h2 data-num="1" id="s1"><span class="num">§1</span>Ancient Near Eastern Inscriptions</h2>
+<p>These are the hard anchors. They are physical objects with dates, and
+they are not Jewish or Christian in origin, which is exactly what makes
+them useful.</p>
+<h3 data-num="1.1" id="s1-1"><span class="num">§1.1</span>The Merneptah Stele — c. 1208 BCE</h3>
+<p><strong>What it is.</strong> An Egyptian victory monument of Pharaoh
+Merneptah, granite, discovered by Flinders Petrie at Thebes in 1896, now
+in the Egyptian Museum in Cairo.</p>
+<p><strong>What it says.</strong> Mostly a victory account over the
+Libyans. <cite index="54-1">The last three of its 28 lines deal with a
+separate campaign in Canaan, and a majority of scholars translate a set
+of hieroglyphs in line 27 as “Israel.”</cite> The line claims Israel is
+laid waste and his seed is not.</p>
+<p><strong>What it establishes.</strong> <cite index="54-1">It is the
+earliest textual reference to Israel and the only one from ancient
+Egypt.</cite> Crucially, the hieroglyphic determiner marks Israel as a
+<em>people</em>, not a city-state or territory — a group without a fixed
+place, on the ground in Canaan by 1208 BCE.</p>
+<p><strong>What it does not establish.</strong> Nothing about an exodus,
+a conquest, or a covenant. An Egyptian king says he defeated a people
+called Israel. That is the whole content.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://bibledudes.com/biblical-studies/finds/merneptah-translation.php">Text
+and translation (Bible Dudes)</a> · <a target="_blank" rel="noopener" class="ext" href="https://en.wikipedia.org/wiki/Merneptah_Stele">Background
+(Wikipedia)</a></p>
+<h3 data-num="1.2" id="s1-2"><span class="num">§1.2</span>The Mesha Stele / Moabite Stone — c. 840 BCE</h3>
+<p><strong>What it is.</strong> <cite index="55-1">Basalt, about a meter
+tall, 34 surviving lines in the Moabite language, discovered 1868–70 in
+Jordan, now in the Louvre.</cite></p>
+<p><strong>What it says.</strong> <cite index="55-1">King Mesha of Moab
+records that Chemosh, the god of Moab, had been angry with his people
+and allowed them to be subjugated by the kingdom of Israel — and that
+Chemosh then returned, helped Mesha throw off the Israelite yoke, and
+restored Moab’s lands.</cite></p>
+<p><strong>Why this one is worth reading in full.</strong> <span class="mark inf">INFERENCE —
+the inscription’s content is documented; this structural comparison is
+Claude’s</span> The theology is <em>identical in structure</em> to the
+<span class="gloss" tabindex="0">Deuteronomistic history<span class="tip"><b>Deuteronomistic history</b>Joshua through 2 Kings, read as one work shaped by the theology of Deuteronomy.</span></span>: national god is angry, permits defeat by
+enemies, relents, delivers his people. Mesha is running the exact
+interpretive framework the biblical authors run. That is the argument.
+It is not a uniquely Israelite theology; it is standard Iron Age
+Levantine political theology, and a neighbouring king with a different
+god states it in the same terms.</p>
+<p><strong>What else it establishes.</strong> <cite index="55-1">It is
+the most extensive inscription ever recovered referring to the kingdom
+of Israel — the “House of Omri” — and it bears the earliest certain
+extrabiblical reference to YHWH.</cite></p>
+<p><strong>The believer’s use of it, stated fairly.</strong> Livius
+notes it directly: <cite index="60-1">in the nineteenth century many
+scholars had begun doubting the Bible’s reliability as a historical
+source, and the Mesha stela was seen as an important argument against
+those skeptics.</cite> It does corroborate the general situation of 2
+Kings 3. Concede that; the theology point is the stronger one
+anyway.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://www.livius.org/sources/content/anet/320-the-stela-of-mesha/">Full
+translation and commentary (Livius.org)</a></p>
+<h3 data-num="1.3" id="s1-3"><span class="num">§1.3</span>The Tel Dan Stele — c. 840 BCE</h3>
+<p><strong>What it is.</strong> An Aramaic victory inscription,
+discovered 1993–94, now in the Israel Museum.</p>
+<p><strong>What it says.</strong> An Aramaean king (probably Hazael of
+Damascus) claims victory over the king of Israel and the king of the
+“House of David.”</p>
+<p><strong>What it establishes.</strong> That within roughly 150 years
+of David’s supposed reign, a neighbouring hostile kingdom identified the
+southern dynasty by his name. This ended the serious <span class="gloss" tabindex="0">minimalist<span class="tip"><b>minimalist</b>A scholar who thinks very little of the Hebrew Bible's history is historically reliable.</span></span> argument
+that David was wholly legendary.</p>
+<p><strong>What it does not establish.</strong> Anything about the
+<em>scale</em> of his kingdom — which is where the actual scholarly
+fight is. See Historical Framework <a class="xref" href="#s2-3">§2.3</a>.</p>
+<p><strong>Handle with care.</strong> If you argue David never existed,
+this is the object that will be produced, and you will lose. Argue
+scale, not existence.</p>
+<h3 data-num="1.4" id="s1-4"><span class="num">§1.4</span>The Sennacherib Prism — 691 BCE</h3>
+<p><strong>What it is.</strong> <cite index="57-1">Three near-identical
+complete hexagonal clay prisms — the Taylor and Jerusalem Prisms (691
+BC) and the ISAC prism (689 BC) — plus at least eight fragmentary prisms
+in the British Museum.</cite> The Chicago copy is in the Institute for
+the Study of Ancient Cultures.</p>
+<p><strong>What it says.</strong> The Assyrian king’s own annals of his
+701 BCE campaign, describing the capture of Levantine cities and the
+siege of Jerusalem — with the famous line that he shut Hezekiah up like
+a bird in a cage.</p>
+<p><strong>What makes it exceptional.</strong> <cite index="57-1">It
+gives a different perspective on these events from the Books of Kings,
+and some passages in 2 Kings 18–19 agree with at least a few of the
+claims on the prism.</cite> The prism records tribute and the
+shutting-up, and does <strong>not</strong> claim Jerusalem was taken. 2
+Kings says the siege lifted. Two hostile sources, one event, compatible
+facts, incompatible explanations.</p>
+<p><strong>This is the best-corroborated event in the Hebrew
+Bible.</strong> <span class="mark inf">INFERENCE — a judgement about relative strength, not a
+quoted finding</span> Concede it immediately and without hedging. Doing so
+establishes that you follow evidence, which is what makes your other
+concessions demands credible.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://www.livius.org/sources/content/anet/287-the-sennacherib-prism/">Translation
+(Livius.org)</a> · <a target="_blank" rel="noopener" class="ext" href="https://en.wikipedia.org/wiki/Sennacherib's_Annals">Background
+(Wikipedia)</a></p><div class="related"><b>Connects to</b><a href="history.html#s2-2">History §2.2 the 701 BCE timeline</a><a href="history.html#s1-3">History §1.3 what archaeology proves</a></div>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>Jewish Texts</h2>
+<h3 data-num="2.1" id="s2-1"><span class="num">§2.1</span>Sefaria — the whole Jewish library, free</h3>
+<p><strong>What it is.</strong> <cite index="38-1">An open-source, free
+digital library of Jewish scriptural, theological, philosophical, legal,
+mystical, historical, and ethical texts, in English, Hebrew, and
+Yiddish.</cite> <cite index="40-1">The largest free library of Jewish
+texts online — <span class="gloss" tabindex="0">Torah<span class="tip"><b>Torah</b>The first five books — Genesis to Deuteronomy. Also means 'teaching' or 'law' generally.</span></span>, <span class="gloss" tabindex="0">Tanakh<span class="tip"><b>Tanakh</b>The Jewish Bible: Torah (law), Nevi'im (prophets), Ketuvim (writings). Same books as the Protestant Old Testament, different order.</span></span>, <span class="gloss" tabindex="0">Talmud<span class="tip"><b>Talmud</b>The vast rabbinic collection of law and debate, compiled roughly 200–600 CE.</span></span>, <span class="gloss" tabindex="0">Mishnah<span class="tip"><b>Mishnah</b>The earliest layer of rabbinic law, c. 200 CE. The Talmud is built around it.</span></span>, <span class="gloss" tabindex="0">Midrash<span class="tip"><b>midrash</b>Rabbinic interpretation that fills gaps and draws lessons from the biblical text.</span></span>, and
+commentaries.</cite></p>
+<p><strong>Why it is the single most useful link in this
+document.</strong> Every Hebrew text is displayed alongside the English,
+and every verse links to its commentary tradition — Rashi, Ramban, Ibn
+Ezra, and the Talmudic passages that cite it. When you want to know what
+a Hebrew word actually says, or what the rabbis did with a verse, this
+is where you go.</p>
+<p><strong>Specific things to look up here:</strong> - <em>Makkot</em>
+23b — R. Simlai’s 613 count, the whole basis for that number -
+<em>Makkot</em> 24a — the <span class="gloss" tabindex="0">gematria<span class="tip"><b>gematria</b>Assigning number values to Hebrew letters and reading meaning into the totals.</span></span> derivation (Torah = 611, plus two
+heard at Sinai) - Leviticus 18 and 19 in Hebrew, to see for yourself
+that no verse marks the moral/ceremonial boundary - Maimonides,
+<em>Sefer HaMitzvot</em> — the enumeration and the fourteen governing
+principles</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://www.sefaria.org/texts">Sefaria</a> · <a target="_blank" rel="noopener" class="ext" href="https://www.sefaria.org/The_Antiquities_of_the_Jews">Josephus on
+Sefaria</a></p>
+<h3 data-num="2.2" id="s2-2"><span class="num">§2.2</span>The Dead Sea Scrolls — discovered 1947</h3>
+<p><strong>What they are.</strong> Roughly a thousand manuscripts from
+Qumran, dating from about the third century BCE to the first century CE
+— a millennium older than the previously oldest Hebrew biblical
+manuscripts.</p>
+<p><strong>What they establish, and it cuts both ways.</strong></p>
+<p><em>For textual stability:</em> the Great Isaiah Scroll is
+substantially the same text as the medieval Masoretic Isaiah, across
+roughly a thousand years of copying. That is a genuinely striking result
+and apologists cite it correctly.</p>
+<p><em>For textual fluidity:</em> the scrolls also contain variant
+text-types, including readings agreeing with the <span class="gloss" tabindex="0">Septuagint<span class="tip"><b>Septuagint</b>The Greek translation of the Hebrew scriptures, made around 250 BCE. What most New Testament authors actually quote.</span></span> against the
+Masoretic text, and multiple divergent versions of some books (Jeremiah
+appears in a significantly shorter form). The picture is not one stable
+text but several competing text-traditions circulating simultaneously in
+the <span class="gloss" tabindex="0">Second Temple period<span class="tip"><b>Second Temple period</b>c. 516 BCE to 70 CE — between the rebuilding and the destruction of the Temple. When most distinctive first-century Jewish beliefs formed.</span></span>.</p>
+<p><strong>The honest summary</strong> <span class="mark inf">INFERENCE</span><strong>:</strong> the
+consonantal text was transmitted carefully once it stabilized — and it
+stabilized <em>late</em>, after a period of genuine plurality. Both
+halves are true and most people only ever hear one.</p>
+<p><strong>They also establish</strong> how varied Second Temple Judaism
+was: sectarian rules, <span class="gloss" tabindex="0">apocalyptic<span class="tip"><b>apocalyptic</b>A genre and worldview: the present age is corrupt, God will intervene catastrophically and soon. Not the same as 'apocalypse means disaster'.</span></span> literature, and community organization
+that appear nowhere in the Hebrew Bible. See Historical Framework
+§2.4.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://www.deadseascrolls.org.il/">Leon Levy Dead Sea
+Scrolls Digital Library</a> · <a target="_blank" rel="noopener" class="ext" href="http://dss.collections.imj.org.il/">Israel Museum digitized
+scrolls</a></p><div class="related"><b>Connects to</b><a href="history.html#s2-4">History §2.4 Second Temple period</a><a href="history.html#s4">History §4 manuscripts</a></div>
+<h3 data-num="2.3" id="s2-3"><span class="num">§2.3</span>Josephus — c. 37–100 CE</h3>
+<p><strong>What he is.</strong> A Jewish aristocrat and priest who
+commanded rebel forces in Galilee during the First Revolt, surrendered
+to the Romans, and then wrote history under Flavian patronage. That
+patronage matters: he is writing to explain the Jews to a Roman audience
+and to explain his own defection.</p>
+<p><strong>The two works that matter.</strong> <em>The Jewish War</em>
+(c. 75 CE) and <em>Antiquities of the Jews</em> (c. 93 CE).
+<cite index="35-1">Josephus published the Antiquities eighteen years
+after the War, in the thirteenth year of Domitian.</cite></p>
+<p><strong>The two Jesus passages.</strong></p>
+<p><em>Antiquities</em> 20.200 — the James reference. Mentions James,
+“the brother of Jesus who was called Christ.” <cite index="28-1">Widely
+accepted as authentic</cite> and the stronger of the two, precisely
+because it is incidental — Josephus is telling a story about a high
+priest overstepping his authority, and Jesus appears only to identify
+which James is meant.</p>
+<p><em>Antiquities</em> 18.63–64 — the <em><span class="gloss" tabindex="0">Testimonium Flavianum<span class="tip"><b>Testimonium Flavianum</b>The passage in Josephus describing Jesus. Partly altered by Christian copyists; how much is disputed.</span></span></em>.
+<cite index="28-1">Contains language, including explicit affirmation of
+the resurrection and messianic titles, that many scholars regard as
+later Christian <span class="gloss" tabindex="0">interpolation<span class="tip"><b>interpolation</b>Words inserted into a text by a later hand, presented as if original.</span></span>, while several recent scholars argue a
+substantial core describing a wise man executed by Pilate is
+original.</cite></p>
+<p><strong>Do not call it a forgery as though that were
+settled.</strong> <cite index="29-1">Ken Olson and Paul Hopper have
+argued for wholesale later insertion — solid scholarship by qualified
+people with no obvious agenda — but they remain a minority, while online
+<span class="gloss" tabindex="0">mythicism<span class="tip"><b>mythicism</b>The claim that Jesus never existed as a person. A fringe position among historians, including atheist ones.</span></span> treats “forgery” as hard fact rather than minority
+interpretation.</cite> The point against you is easy to look up.</p>
+<p><strong>One argument from silence worth knowing, from the other
+direction:</strong> <cite index="30-1">no form of the Testimonium is
+cited by Justin Martyr, Theophilus, Melito, Minucius Felix, Irenaeus,
+Clement of Alexandria, Julius Africanus, Tertullian, Hippolytus, Origen,
+Methodius, or Lactantius — all of whom show familiarity with
+Josephus.</cite> The counter-explanation is also worth knowing:
+<cite index="30-1">if the original text did nothing more than establish
+that Jesus existed, and nobody in the first centuries questioned that,
+there would be no occasion to quote it.</cite></p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0146">Antiquities,
+full text (Perseus)</a> · <a target="_blank" rel="noopener" class="ext" href="https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0148">The
+Jewish War (Perseus)</a> · <a target="_blank" rel="noopener" class="ext" href="http://www.earlychristianwritings.com/testimonium.html">The
+Testimonium debate, documented</a></p><div class="related"><b>Connects to</b><a href="history.html#s3">History §3 sources outside the NT</a><a href="history.html#s9">History §9 do not call it a forgery</a></div>
+</section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Roman Sources</h2>
+<h3 data-num="3.1" id="s3-1"><span class="num">§3.1</span>Tacitus, Annals 15.44 — c. 115 CE</h3>
+<p><strong>What it says.</strong> Reporting Nero’s scapegoating of
+Christians for the fire of Rome, Tacitus explains who they were:
+Christus, from whom the name derives, suffered the extreme penalty under
+Pontius Pilate during Tiberius’s reign, and the movement spread from
+Judea to Rome.</p>
+<p><strong>Why it carries weight.</strong> <cite index="28-1">Modern
+scholarship treats the reference as independent and hostile to
+Christianity, which strengthens its evidentiary value.</cite> Tacitus
+regards the movement as a destructive superstition. Hostile witnesses do
+not fabricate origin stories for groups they despise.</p>
+<p><strong>What it establishes.</strong> A man executed under Pilate, a
+movement named for him, spread to Rome by the 60s. Solid.</p>
+<p><strong>What it does not.</strong> Tacitus is writing ~85 years later
+and may be reporting what Christians in Rome said about themselves. It
+confirms what was believed by the early second century, not what
+happened in 30 CE. And note the honest limitation raised from the
+skeptic side: he is not an infallible source and the passage was
+transmitted by Christian scribes.</p>
+<h3 data-num="3.2" id="s3-2"><span class="num">§3.2</span>Pliny the Younger, Letters 10.96 — c. 112 CE</h3>
+<p><strong>What it says.</strong> A provincial governor writes to the
+emperor Trajan asking how to handle Christians: whether to punish the
+name itself, what to do with those who recant. He describes them meeting
+before dawn and singing to Christ as to a god.</p>
+<p><strong>Why it matters.</strong> It is administrative correspondence,
+not polemic and not apologetics. It establishes early second-century
+Christian worship practice from a completely disinterested source.</p>
+</section><section id="sec-4"><h2 data-num="4" id="s4"><span class="num">§4</span>Christian Texts and Manuscripts</h2>
+<h3 data-num="4.1" id="s4-1"><span class="num">§4.1</span>Codex Sinaiticus — 4th century CE</h3>
+<p><strong>What it is.</strong> <cite index="49-1">Handwritten over
+1,600 years ago, containing the Christian Bible in Greek, including the
+oldest complete copy of the New Testament.</cite> <cite index="50-1">Its
+fragments, scattered across four institutions, have been reunited
+digitally and made freely accessible.</cite></p>
+<p><strong>Why you should actually open it.</strong> You can see the
+manuscript evidence yourself rather than taking anyone’s word. Two
+things to look at:</p>
+<ul>
+<li><strong>Mark ends at 16:8</strong> — with the women fleeing and
+saying nothing. The longer ending (16:9–20), including the
+snake-handling and poison-drinking, is not there.</li>
+<li><strong>John 7:53–8:11</strong> — the woman caught in adultery — is
+absent.</li>
+</ul>
+<p>Both passages are in most printed Bibles. Being able to say <em>I
+have looked at the fourth-century manuscript and it is not there</em> is
+worth more than any secondary citation.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://www.codexsinaiticus.org/en/manuscript.aspx">Codex
+Sinaiticus (browse the manuscript)</a></p><div class="related"><b>Connects to</b><a href="history.html#s4">History §4 what manuscripts establish</a><a href="master-notes.html#s8">Master §8 John</a></div>
+<h3 data-num="4.2" id="s4-2"><span class="num">§4.2</span>Early Christian Writings — the extracanonical corpus</h3>
+<p><strong>What it is.</strong> A free archive of the non-canonical and
+sub-apostolic literature: the Didache, 1 Clement, the Epistle of
+Barnabas, the Shepherd of Hermas, the Gospel of Thomas, the Gospel of
+Peter, and the rest, with dating discussions and scholarly
+bibliography.</p>
+<p><strong>Why it matters for the <span class="gloss" tabindex="0">canon<span class="tip"><b>canon</b>The official list of books counted as scripture.</span></span> argument.</strong> Several of
+these were treated as scripture in some regions and read in churches. 1
+Clement and the Shepherd of Hermas appear in some early manuscript
+collections. The canon did not divide cleanly into “obviously scripture”
+and “obviously not” — that clarity is retrospective. See Historical
+Framework <a class="xref" href="#s5">§5</a>.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="http://www.earlychristianwritings.com/">Early Christian
+Writings</a></p>
+<h3 data-num="4.3" id="s4-3"><span class="num">§4.3</span>What to read in the New Testament itself, in this order</h3>
+<p>For understanding how the theology was built rather than how the
+story is told:</p>
+<ol type="1">
+<li><strong>1 Thessalonians</strong> (c. 50 CE) — the earliest Christian
+document that survives. Note what is <em>absent</em>: no virgin birth,
+no empty tomb narrative, no biography.</li>
+<li><strong>1 Corinthians 15:3–7</strong> — the pre-Pauline creed.
+Concede its early date. Note it lists appearances and does not mention
+an empty tomb.</li>
+<li><strong>Galatians 1–2</strong> — Paul’s own account of the Jerusalem
+conflict, then compare with Acts 15. See Master Notes §9.3.</li>
+<li><strong>Mark 16:1–8</strong> — the original ending.</li>
+<li><strong>John 1:1–18</strong> — the prologue, where the high
+<span class="gloss" tabindex="0">Christology<span class="tip"><b>Christology</b>The theology of who Jesus is. 'High' Christology treats him as divine; 'low' as human or exalted-but-created.</span></span> is explicit.</li>
+</ol>
+</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>Islamic Sources</h2>
+<p><strong>Quran.</strong> <a target="_blank" rel="noopener" class="ext" href="https://quran.com">quran.com</a>
+gives parallel Arabic and multiple English translations, with
+word-by-word breakdown. Compare at least two translations of any verse
+you intend to use; the divergences between Sahih International, Yusuf
+Ali, and Pickthall are frequently the whole argument.</p>
+<p><strong><span class="gloss" tabindex="0">Hadith<span class="tip"><b>hadith</b>Reports of Muhammad's sayings and actions, collected and graded for reliability.</span></span>.</strong> <a target="_blank" rel="noopener" class="ext" href="https://sunnah.com">sunnah.com</a>
+hosts the major collections — Bukhari, Muslim, Abu Dawud, Tirmidhi —
+with grading notation. The grading system itself is worth understanding:
+the tradition developed an explicit apparatus for rating transmission
+chains as sound, good, weak, or fabricated. That is a source-critical
+method internal to the tradition, and it is more developed than anything
+the Christian tradition applied to its own texts.</p>
+<p><strong>The comparison worth holding.</strong> The Quranic text was
+standardized under Uthman within about twenty years of Muhammad’s death
+— much tighter than the New Testament’s transmission, and Muslim
+apologists press this correctly. But the <em><span class="gloss" tabindex="0">sira<span class="tip"><b>sira</b>The traditional biographies of Muhammad, written 100–200 years after his death.</span></span></em> and hadith, which
+supply almost all biographical detail, were compiled one to two
+centuries later, a gap comparable to or worse than the Gospels’. Ibn
+Ishaq’s biography survives only through Ibn Hisham’s later edition.</p>
+</section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>Checking Yourself</h2>
+<h3 data-num="6.1" id="s6-1"><span class="num">§6.1</span>History for Atheists</h3>
+<p><strong>What it is.</strong> Tim O’Neill, an atheist, systematically
+debunking bad atheist history — the Nicaea myths, mythicism, the Dark
+Ages thesis, the Horus parallels, the Hypatia legend.</p>
+<p><strong>Why it is in this document.</strong> Cited approvingly at
+Historical Framework §9. If you are about to use a historical claim in
+an argument, check it here first. His work on the Testimonium is a model
+of how to state a position: name the minority scholars, credit their
+work, and then say plainly that they are a minority.</p>
+<p>→ <a target="_blank" rel="noopener" class="ext" href="https://historyforatheists.com/">History for
+Atheists</a></p><div class="related"><b>Connects to</b><a href="history.html#s9">History §9 bad skeptic history</a><a href="master-notes.html#s11">Master §11 the audit method</a></div>
+<h3 data-num="6.2" id="s6-2"><span class="num">§6.2</span>The standing rule</h3>
+<p>Three questions before any source enters an argument:</p>
+<ol type="1">
+<li><strong>Have I opened it?</strong> Not read about it — opened
+it.</li>
+<li><strong>How long between the event and the writing?</strong></li>
+<li><strong>Is this independent, or does it trace back to something I
+have already counted?</strong></li>
+</ol>
+<p>A source you cannot locate is not evidence. It is a rumour with a
+footnote.</p>
+</section>
+</main>
+<button id="top" aria-label="Back to top">↑</button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy */
+const heads=$$('h2[id],h3[id]');
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+/* audit toggles */
+let openAll=false;
+const ta=$('#toggleAudits'); if(ta) ta.addEventListener('click',e=>{
+  openAll=!openAll; $$('.audit').forEach(d=>d.open=openAll);
+  e.target.classList.toggle('on',openAll);
+  e.target.textContent=openAll?'Collapse all audits':'Expand all audits';
+});
+/* status filter */
+$$('.filt').forEach(b=>b.addEventListener('click',()=>{
+  const on=b.classList.toggle('on');
+  $$('.filt').forEach(o=>{if(o!==b)o.classList.remove('on')});
+  const st=b.dataset.st;
+  if(!on){sec.forEach(s=>s.classList.remove('dim'));return}
+  sec.forEach(s=>s.classList.toggle('dim',!s.querySelector(`.audit[data-status="${st}"]`)));
+  $$('.audit').forEach(d=>d.open=d.dataset.status===st);
+}));
+
+/* xref flash + open target audit */
+addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a)return;
+  const t=$(a.getAttribute('href')); if(!t)return;
+  const d=t.closest('details'); if(d)d.open=true;
+  const dd=t.matches('details')?t:null; if(dd)dd.open=true;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+});
+if(location.hash){const t=$(location.hash);const d=t&&t.closest('details');if(d)d.open=true;}
+
+$$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
+  const t=g.querySelector('.tip'); g.classList.remove('flip');
+  if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
+}));
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script></body></html>

@@ -1,0 +1,558 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Glossary</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.55rem;font-size:.875rem}
+#toc a.lvl3{padding-left:1.4rem;font-size:.8rem}
+#toc a.lvl4{padding-left:1.4rem;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.02em;
+  color:#8E9C97;display:flex;align-items:center;gap:.4rem}
+#toc a.lvl4::before{content:"⚑";font-size:.75rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-overstated::before{color:var(--overstated)}
+#toc a.lvl4.st-collapses::before{color:#C05252}
+#toc a.lvl4.st-holds::before{color:#4E9970}
+#toc a.lvl4.st-new::before{color:#5FA9A5}
+#toc a.dim{opacity:.22}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{opacity:.16;pointer-events:none}
+h2{font-family:var(--f-display);font-size:1.92rem;font-weight:500;letter-spacing:-.02em;
+  line-height:1.14;margin:3.6rem 0 1.3rem;padding-top:1.6rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem;display:flex;gap:.7rem;align-items:baseline}
+h2 .num{font-family:var(--f-mono);font-size:.78rem;color:var(--accent);letter-spacing:.06em;
+  font-weight:500;flex:none;padding-top:.42rem}
+h3{font-family:var(--f-display);font-size:1.24rem;font-weight:600;letter-spacing:-.008em;
+  margin:2.3rem 0 .7rem;scroll-margin-top:4.5rem;display:flex;gap:.6rem;align-items:baseline}
+h3 .num{font-family:var(--f-mono);font-size:.7rem;color:var(--ink3);flex:none;padding-top:.2rem}
+p{margin:0 0 1.05rem;max-width:var(--measure)}
+ul,ol{max-width:var(--measure);padding-left:1.2rem;margin:0 0 1.15rem}
+li{margin-bottom:.45rem}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+
+/* ---------- audit apparatus ---------- */
+.audit{position:relative;background:var(--paper);border:1px solid var(--rule);
+  border-radius:5px;margin:1.5rem 0 2.4rem;overflow:hidden;max-width:var(--measure)}
+.audit::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--ink3)}
+.audit[data-status=overstated]::before{background:var(--overstated)}
+.audit[data-status=collapses]::before{background:var(--collapses)}
+.audit[data-status=holds]::before{background:var(--holds)}
+.audit[data-status=new]::before{background:var(--new)}
+.audit > summary{list-style:none;cursor:pointer;padding:1rem 1.3rem 1rem 1.5rem;
+  display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;transition:background .15s}
+.audit > summary::-webkit-details-marker{display:none}
+.audit > summary:hover{background:#F6F8F7}
+.audit > summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.siglum{font-size:.95rem;line-height:1.4;flex:none;color:var(--ink3)}
+.audit[data-status=overstated] .siglum{color:var(--overstated)}
+.audit[data-status=collapses] .siglum{color:var(--collapses)}
+.audit[data-status=holds] .siglum{color:var(--holds)}
+.audit[data-status=new] .siglum{color:var(--new)}
+.audit .atitle{flex:1;min-width:14rem;font-family:var(--f-display);font-size:1.02rem;
+  font-weight:600;line-height:1.3}
+.badge{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;
+  padding:.28rem .55rem;border-radius:99px;flex:none;font-weight:500;white-space:nowrap;
+  background:#EDEFEC;color:var(--ink2)}
+.badge.overstated{background:#FBF0DE;color:#7E4E11}
+.badge.collapses{background:#F9E6E6;color:#7A2222}
+.badge.holds{background:#E3F1E9;color:#1F4C38}
+.badge.new{background:var(--accent-soft);color:#134745}
+.stamp{font-family:var(--f-mono);font-size:.58rem;letter-spacing:.09em;color:var(--ink3);
+  flex:none;padding:.32rem .45rem;border:1px solid var(--rule);border-radius:3px;white-space:nowrap}
+.chev{flex:none;color:var(--ink3);font-size:.75rem;transition:transform .18s;margin-top:.28rem}
+.audit[open] .chev{transform:rotate(90deg)}
+.abody{padding:.2rem 1.5rem 1.35rem;border-top:1px solid var(--rule);margin-top:0}
+.abody > p:first-child{margin-top:1.1rem}
+.abody p{font-size:.925rem;margin-bottom:.9rem}
+.abody ul{font-size:.925rem}
+.abody em{color:var(--ink2)}
+
+/* field labels inside audits */
+.fld{display:block;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink3);margin:1.4rem 0 .3rem}
+.abody > p.hasfld{margin-top:0}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+.camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+
+/* cross-reference links */
+.xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
+  border-bottom:1px dotted currentColor;padding:0 .05em}
+.xref:hover{background:var(--accent-soft)}
+.gloss{border-bottom:1px dashed #B79A4E;cursor:help;position:relative}
+.gloss:hover,.gloss:focus{background:#FBF3D9;outline:none}
+.gloss .tip{position:absolute;left:0;top:calc(100% + 7px);width:min(21rem,78vw);
+  background:var(--ink);color:#E9EFEC;padding:.65rem .8rem;border-radius:5px;font-size:.8rem;
+  line-height:1.45;font-weight:400;font-style:normal;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .13s;box-shadow:0 6px 22px rgba(0,0,0,.24)}
+.gloss .tip b{display:block;font-family:var(--f-mono);font-size:.62rem;letter-spacing:.1em;
+  text-transform:uppercase;color:#8FBFBC;margin-bottom:.25rem}
+.gloss:hover .tip,.gloss:focus .tip{opacity:1}
+.gloss.flip .tip{left:auto;right:0}
+a.ext{color:var(--accent);font-weight:500;text-decoration:none;border-bottom:1px solid #A8CFCC;padding-bottom:1px}
+a.ext:hover{border-bottom-color:var(--accent);background:var(--accent-soft)}
+a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:super;opacity:.65}
+:target > .flashwrap,.flash{animation:flash 1.5s ease-out}
+@keyframes flash{0%,22%{background:#FBF0C9}100%{background:transparent}}
+
+/* related links */
+.related{margin:1.1rem 0 0;padding:.75rem 1rem;background:var(--accent-soft);
+  border-radius:4px;font-size:.83rem;max-width:var(--measure)}
+.related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:#134745;display:block;margin-bottom:.35rem}
+.related a{margin-right:.9rem;white-space:nowrap}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+.tbtn{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  padding:.42rem .7rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);
+  border-radius:3px;cursor:pointer;transition:.15s}
+.tbtn:hover{border-color:var(--accent);color:var(--accent)}
+.tbtn.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}
+th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
+td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:hover td{background:#F6F8F7}
+td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+h2 span.flagmark{color:var(--collapses)}
+#top{position:fixed;right:1.5rem;bottom:1.5rem;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);width:300px;transition:transform .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.35rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+</style></head><body>
+<button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">Glossary</p>
+    <p class="docsub">Plain-English definitions</p>
+    <div class="docswitch"><a href="master-notes.html">Master Notes</a><a href="field-guide.html">Field Guide</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">Other Side</a><a href="translations.html">Translations</a><a class="on" href="#">Glossary</a></div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> Studying texts</a>
+<a class="lvl2" href="#s2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2</span> Translation</a>
+<a class="lvl2" href="#s3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3</span> Texts &amp; versions</a>
+<a class="lvl2" href="#s4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4</span> Who wrote what</a>
+<a class="lvl2" href="#s5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">5</span> Theology</a>
+<a class="lvl2" href="#s6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6</span> History &amp; archaeology</a>
+<a class="lvl2" href="#s7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">7</span> Contested specifics</a>
+<a class="lvl2" href="#s8"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8</span> Islamic sources</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <p class="lens">Every Technical Term, Explained</p>
+    <h1>Glossary</h1>
+    <div class="meta"><span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="master-notes.html">Master Notes</a></span></div>
+  </div>
+  <div id="tools"><span id="here"></span></div>
+  <div class="howto"><p><strong>Provenance.</strong> <strong>Written by:</strong> Claude.
+Plain-English definitions of standard field terms.</p></div>
+  <div id="nores">No section matches that search.</div>
+  <section id="sec-intro">
+<p><em>Every Technical Term, in Plain English</em></p>
+<blockquote>
+<p><strong>Who is saying what.</strong> Three markers run through all
+seven documents:</p>
+<ul>
+<li><strong><span class="mark doc">DOCUMENTED</span></strong> — a named scholar in a named
+publication. Checkable. If no name is attached, it is not this.</li>
+<li><strong><span class="mark inf">INFERENCE</span></strong> — reasoning built on documented facts
+but not itself found in any source. Claude’s analysis. Defensible, but
+nobody has published it, and it should never be cited as though someone
+had.</li>
+<li><strong><span class="mark you">YOURS</span></strong> — your own observation, from reading or
+live conversation. Recorded because it held up, not because it was
+agreeable.</li>
+</ul>
+<p><strong>The rule:</strong> anything marked <span class="mark inf">INFERENCE</span> is Claude
+reasoning. Treat it exactly as sceptically as you treat everything else
+here.</p>
+</blockquote>
+<blockquote>
+<p>These words show up throughout the other documents. Nothing here is
+hard once someone tells you what it means — most of it is field-specific
+shorthand, and knowing the word is not the same as knowing the idea.</p>
+<p>In the other documents, terms with a <strong>dotted
+underline</strong> show the definition when you hover or tap them. This
+page is the full list in one place.</p>
+</blockquote>
+</section><section id="sec-1"><h2 data-num="1" id="s1"><span class="num">§1</span>Studying texts</h2>
+<p><strong>textual criticism</strong> — Comparing surviving copies of a
+text to work out what the earliest version said. Not ‘criticism’ in the
+sense of attacking it.</p>
+<p><strong>source criticism</strong> — Working out what earlier written
+sources an author used.</p>
+<p><strong>form criticism</strong> — Studying the small units (sayings,
+miracle stories) and how they were shaped by oral retelling before being
+written down.</p>
+<p><strong>redaction</strong> — Editing. A redactor is an editor who
+reshaped an existing text.</p>
+<p><strong>redaction criticism</strong> — Studying what an editor
+changed, added, or cut — and what that reveals about their agenda.</p>
+<p><strong>exegesis</strong> — Drawing the meaning out of a text —
+reading what it says.</p>
+<p><strong>eisegesis</strong> — Reading your own meaning into a text.
+The opposite of exegesis, and always an accusation.</p>
+<p><strong>hermeneutics</strong> — The rules you use for interpreting a
+text. Your method, not your conclusion.</p>
+<p><strong>stylometry</strong> — Statistical analysis of writing style —
+word frequency, sentence length — used to test whether one person wrote
+two texts.</p>
+<p><strong>provenance</strong> — Where an object or text came from, and
+its chain of custody.</p>
+<p><strong>philology</strong> — Close study of language and word
+meanings in historical texts.</p>
+<p><strong>consensus</strong> — What most specialists in a field
+currently accept. Always ask: consensus among whom?</p>
+<p><strong>critical scholar</strong> — Someone studying the Bible as a
+historical document, without assuming it’s divinely inspired. Includes
+many believers.</p>
+<p><strong>minimalist</strong> — A scholar who thinks very little of the
+Hebrew Bible’s history is historically reliable.</p>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>Translation</h2>
+<p><strong>formal equivalence</strong> — Word-for-word translation.
+Follows the original sentence structure closely, even when it reads
+awkwardly.</p>
+<p><strong>functional equivalence</strong> — Thought-for-thought
+translation. Renders the meaning in natural English, which means someone
+already decided what it means.</p>
+<p><strong>dynamic equivalence</strong> — Older name for functional
+equivalence — thought-for-thought translation.</p>
+<p><strong>Textus Receptus</strong> — The 16th-century Greek New
+Testament based on a few late manuscripts. The basis of the KJV.</p>
+<p><strong>critical text</strong> — The modern reconstructed Greek New
+Testament, built by comparing all known manuscripts. Behind most modern
+translations.</p>
+<p><strong>Johannine Comma</strong> — The explicit Trinity wording at 1
+John 5:7-8. In the KJV; absent from every Greek manuscript before the
+14th century.</p>
+<p><strong>complementarian</strong> — The view that men and women have
+different God-given roles, with male authority in church and
+marriage.</p>
+<p><strong>almah</strong> — Hebrew for a young woman of marriageable
+age. Not the specific word for virgin, which is betulah.</p>
+<p><strong>arsenokoitai</strong> — A rare Greek compound in 1
+Corinthians 6:9, probably coined from the Greek of Leviticus 20:13. Its
+exact reference is debated.</p>
+<p><strong>Sheol</strong> — The Hebrew place of the dead — the grave. No
+fire, no torment. The KJV translates it ‘hell’, which misleads.</p>
+<p><strong>Targum</strong> — An ancient Aramaic translation-paraphrase
+of the Hebrew Bible.</p>
+</section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Texts &amp; versions</h2>
+<p><strong>Septuagint</strong> — The Greek translation of the Hebrew
+scriptures, made around 250 BCE. What most New Testament authors
+actually quote.</p>
+<p><strong>Masoretic Text</strong> — The standard Hebrew Bible text,
+preserved by Jewish scribes; our oldest complete copies are
+medieval.</p>
+<p><strong>Vulgate</strong> — Jerome’s Latin translation, c. 400 CE. The
+standard Bible in the West for over a thousand years.</p>
+<p><strong>Peshitta</strong> — The standard Syriac (Aramaic) Bible of
+the Eastern churches.</p>
+<p><strong>Torah</strong> — The first five books — Genesis to
+Deuteronomy. Also means ‘teaching’ or ‘law’ generally.</p>
+<p><strong>Pentateuch</strong> — Greek term for the same first five
+books.</p>
+<p><strong>Tanakh</strong> — The Jewish Bible: Torah (law), Nevi’im
+(prophets), Ketuvim (writings). Same books as the Protestant Old
+Testament, different order.</p>
+<p><strong>Talmud</strong> — The vast rabbinic collection of law and
+debate, compiled roughly 200–600 CE.</p>
+<p><strong>Mishnah</strong> — The earliest layer of rabbinic law, c. 200
+CE. The Talmud is built around it.</p>
+<p><strong>midrash</strong> — Rabbinic interpretation that fills gaps
+and draws lessons from the biblical text.</p>
+<p><strong>codex</strong> — A book with bound pages, as opposed to a
+scroll.</p>
+<p><strong>uncial</strong> — A manuscript written in all capital Greek
+letters. Generally the older ones.</p>
+<p><strong>minuscule</strong> — A manuscript in lowercase cursive Greek.
+Generally later, medieval.</p>
+<p><strong>papyrus</strong> — Writing material made from reed. The
+earliest New Testament fragments are papyri.</p>
+<p><strong>recension</strong> — An officially revised and standardized
+edition of a text.</p>
+<p><strong>interpolation</strong> — Words inserted into a text by a
+later hand, presented as if original.</p>
+<p><strong>canon</strong> — The official list of books counted as
+scripture.</p>
+<p><strong>apocryphal</strong> — Outside the canon. Not necessarily fake
+— just not included.</p>
+<p><strong>patristic</strong> — Relating to the Church Fathers, the
+Christian writers of roughly 100–500 CE.</p>
+</section><section id="sec-4"><h2 data-num="4" id="s4"><span class="num">§4</span>Who wrote what</h2>
+<p><strong>pseudepigraphy</strong> — Writing under a famous person’s
+name. Common in the ancient world; whether it counted as honest is
+disputed.</p>
+<p><strong>pseudonymous</strong> — Written under someone else’s name —
+not by the person it claims.</p>
+<p><strong>deutero-Pauline</strong> — ‘Second’ Paul. The letters
+attributed to Paul that most critical scholars think he didn’t
+write.</p>
+<p><strong>undisputed letters</strong> — The seven letters nearly all
+scholars accept Paul actually wrote: Romans, 1–2 Corinthians, Galatians,
+Philippians, 1 Thessalonians, Philemon.</p>
+<p><strong>Documentary Hypothesis</strong> — The theory that the Torah
+was woven together from four earlier written sources (labelled J, E, D,
+P).</p>
+<p><strong>neo-documentarian</strong> — A modern scholar who still
+defends a version of the four-source theory. Mostly North American and
+Israeli.</p>
+<p><strong>Synoptic Problem</strong> — The question of who copied whom
+among Matthew, Mark, and Luke.</p>
+<p><strong>Markan priority</strong> — The majority view that Mark was
+written first and Matthew and Luke used it.</p>
+</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>Theology</h2>
+<p><strong>eschatology</strong> — Beliefs about the end — death,
+judgement, the end of the world.</p>
+<p><strong>realized eschatology</strong> — The view that the promised
+end has already arrived in some sense — eternal life available now
+rather than later.</p>
+<p><strong>parousia</strong> — The second coming of Christ. Greek for
+‘arrival’ or ‘presence’.</p>
+<p><strong>apocalyptic</strong> — A genre and worldview: the present age
+is corrupt, God will intervene catastrophically and soon. Not the same
+as ‘apocalypse means disaster’.</p>
+<p><strong>kerygma</strong> — The core preached message of the earliest
+Christians — the basic outline repeated in sermons.</p>
+<p><strong>Christology</strong> — The theology of who Jesus is. ‘High’
+Christology treats him as divine; ‘low’ as human or
+exalted-but-created.</p>
+<p><strong>homoousios</strong> — Greek: ‘same substance’. The word
+Nicaea chose to say the Son is the same being as the Father.</p>
+<p><strong>Arianism</strong> — The view that the Son was created by the
+Father and therefore not co-eternal. The losing side at Nicaea.</p>
+<p><strong>theodicy</strong> — An argument defending God’s goodness
+given the existence of suffering.</p>
+<p><strong>skeptical theism</strong> — The reply that we shouldn’t
+expect to understand God’s reasons, so suffering isn’t evidence against
+God.</p>
+<p><strong>typology</strong> — Reading an Old Testament person or event
+as a preview of a New Testament one.</p>
+<p><strong>allegory</strong> — Reading a text as standing for something
+else entirely, beyond its plain sense.</p>
+<p><strong>quadriga</strong> — The medieval four-layer reading method:
+literal, allegorical, moral, and future/heavenly senses.</p>
+<p><strong>sensus plenior</strong> — ‘Fuller sense’. The claim that God
+intended a deeper meaning the human author didn’t know about.</p>
+<p><strong>accommodation</strong> — The idea that God spoke in terms the
+original audience could understand, even if inexact.</p>
+<p><strong>inerrancy</strong> — The doctrine that the Bible contains no
+errors of any kind, including historical and scientific.</p>
+<p><strong>dispensationalism</strong> — A Protestant system dividing
+history into eras with different rules. Popular in American
+evangelicalism.</p>
+<p><strong>covenant theology</strong> — A Protestant system organizing
+scripture around a series of covenants rather than eras.</p>
+<p><strong>proof text</strong> — A verse quoted to support a position,
+usually stripped of its context.</p>
+<p><strong>unfalsifiable</strong> — Structured so that no possible
+evidence could count against it. Usually a weakness, not a strength.</p>
+<p><strong>properly basic</strong> — A belief that’s rational to hold
+without arguing for it — like trusting your memory.</p>
+</section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>History &amp; archaeology</h2>
+<p><strong>stele</strong> — An upright stone slab with an inscription.
+Plural: stelae.</p>
+<p><strong>etiology</strong> — A story explaining why something exists
+or has its name — an origin story.</p>
+<p><strong>Deuteronomistic history</strong> — Joshua through 2 Kings,
+read as one work shaped by the theology of Deuteronomy.</p>
+<p><strong>Second Temple period</strong> — c. 516 BCE to 70 CE — between
+the rebuilding and the destruction of the Temple. When most distinctive
+first-century Jewish beliefs formed.</p>
+<p><strong>prefect</strong> — The Roman governor of a minor province.
+Pilate’s actual title.</p>
+<p><strong>Bronze Age collapse</strong> — The roughly 1200 BCE breakdown
+of palace civilizations across the eastern Mediterranean.</p>
+<p><strong>low chronology</strong> — Finkelstein’s downward redating of
+Israelite archaeological layers, which shrinks the united monarchy.</p>
+</section><section id="sec-7"><h2 data-num="7" id="s7"><span class="num">§7</span>Contested specifics</h2>
+<p><strong>Testimonium Flavianum</strong> — The passage in Josephus
+describing Jesus. Partly altered by Christian copyists; how much is
+disputed.</p>
+<p><strong>mythicism</strong> — The claim that Jesus never existed as a
+person. A fringe position among historians, including atheist ones.</p>
+<p><strong>Ioudaioi</strong> — The Greek word in John usually translated
+‘the Jews’. Whether it should be ‘Judeans’ is heavily contested.</p>
+<p><strong>gematria</strong> — Assigning number values to Hebrew letters
+and reading meaning into the totals.</p>
+<p><strong>mitzvot</strong> — Commandments. Singular: mitzvah.</p>
+<p><strong>eleph</strong> — The Hebrew word usually read as ‘thousand’,
+which some argue meant a clan or squad instead.</p>
+<p><strong>minimal facts</strong> — Habermas’s method: build a
+resurrection case only from claims most critical scholars grant.</p>
+</section><section id="sec-8"><h2 data-num="8" id="s8"><span class="num">§8</span>Islamic sources</h2>
+<p><strong>sira</strong> — The traditional biographies of Muhammad,
+written 100–200 years after his death.</p>
+<p><strong>hadith</strong> — Reports of Muhammad’s sayings and actions,
+collected and graded for reliability.</p>
+<p><strong>isnad</strong> — The chain of transmitters attached to a
+hadith, used to judge how reliable it is.</p>
+</section>
+</main>
+<button id="top" aria-label="Back to top">↑</button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy */
+const heads=$$('h2[id],h3[id]');
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+/* audit toggles */
+let openAll=false;
+const ta=$('#toggleAudits'); if(ta) ta.addEventListener('click',e=>{
+  openAll=!openAll; $$('.audit').forEach(d=>d.open=openAll);
+  e.target.classList.toggle('on',openAll);
+  e.target.textContent=openAll?'Collapse all audits':'Expand all audits';
+});
+/* status filter */
+$$('.filt').forEach(b=>b.addEventListener('click',()=>{
+  const on=b.classList.toggle('on');
+  $$('.filt').forEach(o=>{if(o!==b)o.classList.remove('on')});
+  const st=b.dataset.st;
+  if(!on){sec.forEach(s=>s.classList.remove('dim'));return}
+  sec.forEach(s=>s.classList.toggle('dim',!s.querySelector(`.audit[data-status="${st}"]`)));
+  $$('.audit').forEach(d=>d.open=d.dataset.status===st);
+}));
+
+/* xref flash + open target audit */
+addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a)return;
+  const t=$(a.getAttribute('href')); if(!t)return;
+  const d=t.closest('details'); if(d)d.open=true;
+  const dd=t.matches('details')?t:null; if(dd)dd.open=true;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+});
+if(location.hash){const t=$(location.hash);const d=t&&t.closest('details');if(d)d.open=true;}
+
+$$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
+  const t=g.querySelector('.tip'); g.classList.remove('flip');
+  if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
+}));
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script></body></html>

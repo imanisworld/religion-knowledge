@@ -1,0 +1,628 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Other Side</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.55rem;font-size:.875rem}
+#toc a.lvl3{padding-left:1.4rem;font-size:.8rem}
+#toc a.lvl4{padding-left:1.4rem;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.02em;
+  color:#8E9C97;display:flex;align-items:center;gap:.4rem}
+#toc a.lvl4::before{content:"⚑";font-size:.75rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-overstated::before{color:var(--overstated)}
+#toc a.lvl4.st-collapses::before{color:#C05252}
+#toc a.lvl4.st-holds::before{color:#4E9970}
+#toc a.lvl4.st-new::before{color:#5FA9A5}
+#toc a.dim{opacity:.22}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{opacity:.16;pointer-events:none}
+h2{font-family:var(--f-display);font-size:1.92rem;font-weight:500;letter-spacing:-.02em;
+  line-height:1.14;margin:3.6rem 0 1.3rem;padding-top:1.6rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem;display:flex;gap:.7rem;align-items:baseline}
+h2 .num{font-family:var(--f-mono);font-size:.78rem;color:var(--accent);letter-spacing:.06em;
+  font-weight:500;flex:none;padding-top:.42rem}
+h3{font-family:var(--f-display);font-size:1.24rem;font-weight:600;letter-spacing:-.008em;
+  margin:2.3rem 0 .7rem;scroll-margin-top:4.5rem;display:flex;gap:.6rem;align-items:baseline}
+h3 .num{font-family:var(--f-mono);font-size:.7rem;color:var(--ink3);flex:none;padding-top:.2rem}
+p{margin:0 0 1.05rem;max-width:var(--measure)}
+ul,ol{max-width:var(--measure);padding-left:1.2rem;margin:0 0 1.15rem}
+li{margin-bottom:.45rem}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+
+/* ---------- audit apparatus ---------- */
+.audit{position:relative;background:var(--paper);border:1px solid var(--rule);
+  border-radius:5px;margin:1.5rem 0 2.4rem;overflow:hidden;max-width:var(--measure)}
+.audit::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--ink3)}
+.audit[data-status=overstated]::before{background:var(--overstated)}
+.audit[data-status=collapses]::before{background:var(--collapses)}
+.audit[data-status=holds]::before{background:var(--holds)}
+.audit[data-status=new]::before{background:var(--new)}
+.audit > summary{list-style:none;cursor:pointer;padding:1rem 1.3rem 1rem 1.5rem;
+  display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;transition:background .15s}
+.audit > summary::-webkit-details-marker{display:none}
+.audit > summary:hover{background:#F6F8F7}
+.audit > summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.siglum{font-size:.95rem;line-height:1.4;flex:none;color:var(--ink3)}
+.audit[data-status=overstated] .siglum{color:var(--overstated)}
+.audit[data-status=collapses] .siglum{color:var(--collapses)}
+.audit[data-status=holds] .siglum{color:var(--holds)}
+.audit[data-status=new] .siglum{color:var(--new)}
+.audit .atitle{flex:1;min-width:14rem;font-family:var(--f-display);font-size:1.02rem;
+  font-weight:600;line-height:1.3}
+.badge{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;
+  padding:.28rem .55rem;border-radius:99px;flex:none;font-weight:500;white-space:nowrap;
+  background:#EDEFEC;color:var(--ink2)}
+.badge.overstated{background:#FBF0DE;color:#7E4E11}
+.badge.collapses{background:#F9E6E6;color:#7A2222}
+.badge.holds{background:#E3F1E9;color:#1F4C38}
+.badge.new{background:var(--accent-soft);color:#134745}
+.stamp{font-family:var(--f-mono);font-size:.58rem;letter-spacing:.09em;color:var(--ink3);
+  flex:none;padding:.32rem .45rem;border:1px solid var(--rule);border-radius:3px;white-space:nowrap}
+.chev{flex:none;color:var(--ink3);font-size:.75rem;transition:transform .18s;margin-top:.28rem}
+.audit[open] .chev{transform:rotate(90deg)}
+.abody{padding:.2rem 1.5rem 1.35rem;border-top:1px solid var(--rule);margin-top:0}
+.abody > p:first-child{margin-top:1.1rem}
+.abody p{font-size:.925rem;margin-bottom:.9rem}
+.abody ul{font-size:.925rem}
+.abody em{color:var(--ink2)}
+
+/* field labels inside audits */
+.fld{display:block;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink3);margin:1.4rem 0 .3rem}
+.abody > p.hasfld{margin-top:0}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+.camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+
+/* cross-reference links */
+.xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
+  border-bottom:1px dotted currentColor;padding:0 .05em}
+.xref:hover{background:var(--accent-soft)}
+.gloss{border-bottom:1px dashed #B79A4E;cursor:help;position:relative}
+.gloss:hover,.gloss:focus{background:#FBF3D9;outline:none}
+.gloss .tip{position:absolute;left:0;top:calc(100% + 7px);width:min(21rem,78vw);
+  background:var(--ink);color:#E9EFEC;padding:.65rem .8rem;border-radius:5px;font-size:.8rem;
+  line-height:1.45;font-weight:400;font-style:normal;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .13s;box-shadow:0 6px 22px rgba(0,0,0,.24)}
+.gloss .tip b{display:block;font-family:var(--f-mono);font-size:.62rem;letter-spacing:.1em;
+  text-transform:uppercase;color:#8FBFBC;margin-bottom:.25rem}
+.gloss:hover .tip,.gloss:focus .tip{opacity:1}
+.gloss.flip .tip{left:auto;right:0}
+a.ext{color:var(--accent);font-weight:500;text-decoration:none;border-bottom:1px solid #A8CFCC;padding-bottom:1px}
+a.ext:hover{border-bottom-color:var(--accent);background:var(--accent-soft)}
+a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:super;opacity:.65}
+:target > .flashwrap,.flash{animation:flash 1.5s ease-out}
+@keyframes flash{0%,22%{background:#FBF0C9}100%{background:transparent}}
+
+/* related links */
+.related{margin:1.1rem 0 0;padding:.75rem 1rem;background:var(--accent-soft);
+  border-radius:4px;font-size:.83rem;max-width:var(--measure)}
+.related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:#134745;display:block;margin-bottom:.35rem}
+.related a{margin-right:.9rem;white-space:nowrap}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+.tbtn{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  padding:.42rem .7rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);
+  border-radius:3px;cursor:pointer;transition:.15s}
+.tbtn:hover{border-color:var(--accent);color:var(--accent)}
+.tbtn.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}
+th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
+td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:hover td{background:#F6F8F7}
+td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+h2 span.flagmark{color:var(--collapses)}
+#top{position:fixed;right:1.5rem;bottom:1.5rem;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);width:300px;transition:transform .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.35rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+</style></head><body>
+<button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">The Other Side</p>
+    <p class="docsub">Theologians, apologists, hermeneutics</p>
+    <div class="docswitch"><a href="master-notes.html">Master Notes</a><a href="field-guide.html">Field Guide</a><a href="history.html">History</a><a href="sources.html">Sources</a><a class="on" href="#">Other Side</a><a href="translations.html">Translations</a><a href="glossary.html">Glossary</a></div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> Who Is Actually Worth Engaging</a>
+<a class="lvl3" href="#s1-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.1</span> Philosophers — the genuinely difficult tier</a>
+<a class="lvl3" href="#s1-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.2</span> Historians and biblical scholars who are also believers</a>
+<a class="lvl3" href="#s1-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.3</span> The apologetics tier — expect these, they are what you will actually meet</a>
+<a class="lvl3" href="#s1-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.4</span> Historic theologians worth knowing by name</a>
+<a class="lvl2" href="#s2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2</span> The Literal / Allegorical Problem — What Is Actually Happening</a>
+<a class="lvl3" href="#s2-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.1</span> The feeling is accurate, and here is why</a>
+<a class="lvl3" href="#s2-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.2</span> The named frameworks — learn these and the fog clears</a>
+<a class="lvl3" href="#s2-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.3</span> The genre point is legitimate — concede it</a>
+<a class="lvl3" href="#s2-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.4</span> The diagnostic question</a>
+<a class="lvl3" href="#s2-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.5</span> What this does and does not prove</a>
+<a class="lvl2" href="#s3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3</span> Rules for Engaging Well</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <p class="lens">Steelmanning the Believing Position</p>
+    <h1>The Other Side</h1>
+    <div class="meta"><span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="sources.html">Sources</a></span></div>
+  </div>
+  <div id="tools"><span id="here"></span></div>
+  <div class="howto"><p><strong>Provenance.</strong> <strong>Written by:</strong> Claude, 7
+August 2026. The scholars, positions, and hermeneutical frameworks are
+documented. <strong>The ranking by ‘hardest to answer’ is Claude’s
+judgement, not a scholarly consensus</strong> — a starting map, not a
+verdict.</p></div>
+  <div id="nores">No section matches that search.</div>
+  <section id="sec-intro">
+<p><em>Theologians, Apologists, and How the Literal/Allegorical Switch
+Actually Works</em></p>
+<blockquote>
+<p><strong>Who is saying what.</strong> Three markers run through all
+seven documents:</p>
+<ul>
+<li><strong><span class="mark doc">DOCUMENTED</span></strong> — a named scholar in a named
+publication. Checkable. If no name is attached, it is not this.</li>
+<li><strong><span class="mark inf">INFERENCE</span></strong> — reasoning built on documented facts
+but not itself found in any source. Claude’s analysis. Defensible, but
+nobody has published it, and it should never be cited as though someone
+had.</li>
+<li><strong><span class="mark you">YOURS</span></strong> — your own observation, from reading or
+live conversation. Recorded because it held up, not because it was
+agreeable.</li>
+</ul>
+<p><strong>The rule:</strong> anything marked <span class="mark inf">INFERENCE</span> is Claude
+reasoning. Treat it exactly as sceptically as you treat everything else
+here.</p>
+</blockquote>
+<blockquote>
+<p><strong>Why this document exists.</strong> Two problems, and they are
+connected.</p>
+<p><strong>First:</strong> most critique of religion engages the weakest
+available version. That is a waste. There are serious people on the
+believing side — philosophers who are genuinely hard to answer,
+historians who have found real things. Knowing which is which is what
+separates someone who can argue from someone who can only recite.</p>
+<p><strong>Second, and this is the harder one:</strong> the sense that a
+believer’s reading is “all over the place” — literal here, metaphor
+there, no visible rule. That feeling is accurate, and <a class="xref" href="#s2">§2</a> explains
+exactly what is happening. There are named, centuries-old frameworks
+governing it. They are real intellectual traditions. But almost nobody
+using them can state which one they are applying, and none of them
+specify <em>in advance</em> which passages get which treatment. That is
+the whole problem, and once you can name it, the disorientation
+stops.</p>
+</blockquote>
+</section><section id="sec-1"><h2 data-num="1" id="s1"><span class="num">§1</span>Who Is Actually Worth Engaging</h2>
+<p>Sorted by how hard they are to answer, not by how famous they are.
+<span class="mark inf">INFERENCE — this ranking is Claude’s judgement, not a survey of the
+field.</span> The gap between those two is large.</p>
+<h3 data-num="1.1" id="s1-1"><span class="num">§1.1</span>Philosophers — the genuinely difficult tier</h3>
+<p>These people are professional analytic philosophers publishing in
+secular journals. Do not go at them casually.</p>
+<p><strong>Alvin Plantinga</strong> [REFORMED EPISTEMOLOGY] —
+<em>Warranted Christian Belief</em>, <em>God and Other Minds</em>. His
+argument is not that God’s existence can be proved. It is that belief in
+God can be <strong><span class="gloss" tabindex="0">properly basic<span class="tip"><b>properly basic</b>A belief that's rational to hold without arguing for it — like trusting your memory.</span></span></strong> — rational without
+inferential argument, in the way belief in other minds or the
+reliability of memory is. He also formulated the free will defense,
+which is widely regarded as having defeated the <em>logical</em> problem
+of evil (the claim that God and evil are strictly incompatible). Note
+the precision: the <em>evidential</em> problem of evil survives, and
+that is where the real argument now happens.</p>
+<p><strong>Richard Swinburne</strong> [ANALYTIC, BAYESIAN] — <em>The
+Existence of God</em>. Builds a cumulative-case probabilistic argument.
+You cannot dismiss him without engaging Bayesian reasoning about priors,
+which most people cannot do.</p>
+<p><strong>Edward Feser</strong> [THOMIST] — <em>Aquinas</em>, <em>Five
+Proofs of the Existence of God</em>. His central complaint is worth
+internalizing: most atheist critiques of the cosmological argument
+attack a version Aquinas never made. Aquinas’s First Way is not
+“everything has a cause, so God” — it concerns <em>essentially
+ordered</em> causal series operating in the present moment, not a chain
+back through time. If you have ever said “then who created God,” Feser
+is the answer you will get, and it is a fair one against that
+formulation.</p>
+<p><strong>Eleonore Stump</strong> [CATHOLIC, ANALYTIC] — <em>Wandering
+in Darkness</em>. On suffering, engaging it through narrative rather
+than <span class="gloss" tabindex="0">theodicy<span class="tip"><b>theodicy</b>An argument defending God's goodness given the existence of suffering.</span></span>. Genuinely serious and rarely engaged by critics.</p>
+<p><strong>William Lane Craig</strong> <span class="camp">EVANGELICAL, philosopher</span> — the
+Kalām cosmological argument. Enormously influential and a formidable
+debater. He is also the softest target of this group: the Kalām’s second
+premise (that the universe began to exist) leans on contested cosmology,
+and his defense of the Canaanite conquest on divine command grounds is
+where most opponents concentrate fire.</p>
+<h3 data-num="1.2" id="s1-2"><span class="num">§1.2</span>Historians and biblical scholars who are also believers</h3>
+<p>This category surprises people. These are not apologists — they are
+working scholars publishing in the same journals as the critics, who
+happen to be Christians.</p>
+<p><strong>N.T. Wright</strong> [ANGLICAN, historian] — <em>The
+Resurrection of the Son of God</em>. The most substantial historical
+argument for the resurrection in print. His method is legitimate: he
+argues that neither Jewish nor pagan categories of the period predict a
+single individual bodily raised in the middle of history, so the belief
+requires explanation. Whether the explanation is the event is where you
+disagree — but the puzzle he sets is real.</p>
+<p><strong>Richard Bauckham</strong> [BRITISH, critical] — <em>Jesus and
+the Eyewitnesses</em>. Argues the Gospels preserve named eyewitness
+testimony rather than anonymous community tradition. Directly attacks
+the form-critical <span class="gloss" tabindex="0">consensus<span class="tip"><b>consensus</b>What most specialists in a field currently accept. Always ask: consensus among whom?</span></span>. Contested, taken seriously, not fringe.</p>
+<p><strong>Craig Keener</strong> <span class="camp">EVANGELICAL</span> — his Acts commentary
+runs to four volumes and is a standard reference used by scholars across
+the spectrum, including ones who reject his conclusions.</p>
+<p><strong>John Barton</strong> [ANGLICAN PRIEST, fully critical] —
+<em>A History of the Bible</em>. Demonstrates that critical scholarship
+and religious commitment are not mutually exclusive. The best
+single-volume introduction to how the Bible was actually formed, from
+someone who is both ordained and rigorous.</p>
+<p><strong>Dale Allison</strong> <span class="camp">CRITICAL, Christian</span> — writes with
+unusual honesty about what the evidence does and does not support,
+including where it undercuts his own tradition. <em>The Resurrection of
+Jesus: Apologetics, Polemics, History</em> is a model of intellectual
+integrity from a believer.</p>
+<p><strong>Peter Enns</strong> [PROGRESSIVE EVANGELICAL] — <em>The Bible
+Tells Me So</em>, <em>Inspiration and Incarnation</em>. Accepts
+essentially all the critical findings and argues the doctrine of
+inspiration must be revised to fit them rather than the reverse. Was
+pushed out of Westminster Theological Seminary for it. Useful because he
+concedes the data and relocates the argument.</p><div class="related"><b>Connects to</b><a href="history.html#s3">History §3 sources outside the NT</a><a href="master-notes.html#s6-1">Master §6 the Gospels</a></div>
+<h3 data-num="1.3" id="s1-3"><span class="num">§1.3</span>The apologetics tier — expect these, they are what you will actually meet</h3>
+<p><strong>Michael Licona</strong> <span class="camp">EVANGELICAL, historian</span> — <em>The
+Resurrection of Jesus: A New Historiographical Approach</em>. Serious
+methodological work. Notable for being attacked <em>by his own side</em>
+for suggesting Matthew 27:52–53 (the resurrected saints walking through
+Jerusalem) might be <span class="gloss" tabindex="0">apocalyptic<span class="tip"><b>apocalyptic</b>A genre and worldview: the present age is corrupt, God will intervene catastrophically and soon. Not the same as 'apocalypse means disaster'.</span></span> imagery — which tells you a great deal
+about the constraints inerrantists operate under.</p>
+<p><strong>Gary Habermas</strong> <span class="camp">EVANGELICAL</span> — the “<span class="gloss" tabindex="0">minimal facts<span class="tip"><b>minimal facts</b>Habermas's method: build a resurrection case only from claims most critical scholars grant.</span></span>”
+argument. Builds a case from a small set of claims he says the majority
+of critical scholars grant. Handle by examining whether each “fact” is
+granted in the form he states it.</p>
+<p><strong>Robert Gagnon</strong> <span class="camp">EVANGELICAL</span> — <em>The Bible and
+Homosexual Practice</em>. The most thorough conservative treatment; see
+Master Notes for where his redaction-criticism reversal is genuinely
+sharp.</p>
+<p><strong>James Hoffmeier</strong> <span class="camp">EVANGELICAL, Egyptologist</span> and
+<strong>K.A. Kitchen</strong> <span class="camp">EVANGELICAL, Egyptologist</span> — the
+strongest conservative case on the exodus, argued from Egyptological
+expertise rather than theology. See Master Notes §1.8 audit.</p>
+<p><strong>J. Warner Wallace, Frank Turek, Lee Strobel, Sean
+McDowell</strong> — the popular tier. Strobel’s <em>Case for Christ</em>
+is structured as journalism but interviews only people who already
+agree. This is the level most conversations actually happen at, and it
+is not where the strong arguments live. Do not let a win here convince
+you the position is defeated.</p><div class="related"><b>Connects to</b><a href="master-notes.html#s1-8">Master §1.8 Exodus audit — Hoffmeier</a><a href="history.html#s10">History §10 apologetic history</a></div>
+<h3 data-num="1.4" id="s1-4"><span class="num">§1.4</span>Historic theologians worth knowing by name</h3>
+<p><strong>Augustine</strong> (354–430) — original sin, the just war,
+and the position on Genesis that keeps getting rediscovered: he argued
+in <em>The Literal Meaning of Genesis</em> that Christians who make
+foolish claims about the natural world discredit scripture, and that the
+“days” need not be ordinary days.</p>
+<p><strong>Thomas Aquinas</strong> (1225–1274) — the tripartite division
+of the Law (moral / civil / ceremonial) that sorts which Old Testament
+commands still bind. Every believer uses it; almost none know it is
+his.</p>
+<p><strong>John Calvin</strong> (1509–1564) — <span class="gloss" tabindex="0">accommodation<span class="tip"><b>accommodation</b>The idea that God spoke in terms the original audience could understand, even if inexact.</span></span>: God speaks
+in terms adjusted to human capacity, “as nurses commonly do with
+infants.” This is the origin of most modern science-and-scripture
+harmonization.</p>
+<p><strong>Karl Barth</strong> (1886–1968) — the most important
+Protestant theologian of the twentieth century. Rejected liberal
+theology’s reduction of Christianity to ethics <em>and</em> rejected
+fundamentalist literalism. Scripture <em>becomes</em> the Word of God in
+the event of revelation rather than being it propositionally.</p>
+<p><strong>Rudolf Bultmann</strong> (1884–1976) — demythologization. A
+believing Lutheran who held that the miraculous framework is
+first-century mythology to be translated into existential terms.
+Included here because he shows the critical/believing line does not run
+where people assume.</p>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>The Literal / Allegorical Problem — What Is Actually Happening</h2>
+<p>This is the important section.</p>
+<h3 data-num="2.1" id="s2-1"><span class="num">§2.1</span>The feeling is accurate, and here is why</h3>
+<p>When a believer reads Genesis 1 as poetry, Jonah as parable, the
+conquest as complicated, and the resurrection as literal history, it
+feels arbitrary because <strong>no rule was stated</strong>. Each
+passage got a treatment, and the treatment was announced only after the
+passage was raised.</p>
+<p>The frameworks doing this work are real and old. Every one below is a
+legitimate intellectual tradition with centuries of development behind
+it. The problem is not that they exist. The problem is that <strong>none
+of them specifies in advance which passage gets which
+treatment</strong>, and most people using them cannot name which one
+they are using.</p>
+<h3 data-num="2.2" id="s2-2"><span class="num">§2.2</span>The named frameworks — learn these and the fog clears</h3>
+<p><strong>The <span class="gloss" tabindex="0">Quadriga<span class="tip"><b>quadriga</b>The medieval four-layer reading method: literal, allegorical, moral, and future/heavenly senses.</span></span> (fourfold sense).</strong> The dominant
+Christian method for roughly 1,700 years. <cite index="65-1">Four
+layers: the literal or historical, the tropological or moral, the
+allegorical or doctrinal, and the anagogical or
+ultimate/eschatological.</cite> <cite index="63-1">The allegorical layer
+includes <span class="gloss" tabindex="0">typology<span class="tip"><b>typology</b>Reading an Old Testament person or event as a preview of a New Testament one.</span></span> — events, persons, or statements seen as prefiguring
+later ones.</cite> Systematized by Origen and Bonaventure;
+<cite index="65-1">the fourfold pattern was grounded in an association
+Augustine and Gregory the Great had already made between faith, hope,
+and love and the meaning of the text.</cite></p>
+<p>Note what defenders themselves emphasize: <cite index="68-1">a proper
+understanding treats the literal sense as primary — the foundation and
+bedrock, since any hermeneutic that neglects grammar and history is
+immediately unmoored.</cite> That concession is useful to you. Even the
+tradition’s advocates hold that <span class="gloss" tabindex="0">allegory<span class="tip"><b>allegory</b>Reading a text as standing for something else entirely, beyond its plain sense.</span></span> is supposed to be <em>built
+on</em> the literal sense, not a substitute for it when the literal
+sense becomes inconvenient.</p>
+<p><strong>Typology.</strong> Old Testament persons and events prefigure
+New Testament ones — Jonah’s three days, the bronze serpent, the
+Passover lamb. <strong>Paul does this himself</strong> and says so:
+Galatians 4:24 describes Hagar and Sarah as <em>allegoroumena</em>,
+spoken allegorically. 1 Corinthians 10 reads the wilderness generation
+as written for later instruction. This is not a later imposition on the
+text; the New Testament authors are already doing it.</p>
+<p><strong>Accommodation.</strong> God communicates in terms the
+original audience could grasp. Calvin’s formulation; Augustine’s
+earlier. Does most of the heavy lifting on cosmology and science.
+Reasonable in principle — and <span class="gloss" tabindex="0">unfalsifiable<span class="tip"><b>unfalsifiable</b>Structured so that no possible evidence could count against it. Usually a weakness, not a strength.</span></span> in practice, because any
+error becomes accommodation to the audience’s limits.</p>
+<p><strong><span class="gloss" tabindex="0">Sensus plenior<span class="tip"><b>sensus plenior</b>'Fuller sense'. The claim that God intended a deeper meaning the human author didn't know about.</span></span>.</strong> A fuller meaning intended by God
+that the human author did not know he was writing.
+<cite index="67-1">Used when later scripture refers to earlier scripture
+in ways that do not simply repeat the literal or original sense —
+especially where New Testament authors read the Old Testament as
+fulfilled in Christ, on the claim that they interpreted correctly and
+never contradicted the original meaning.</cite> This is the framework
+covering Isaiah 7:14. The last clause is the load-bearing one and it is
+an assertion, not a finding.</p>
+<p><strong>Progressive revelation.</strong> Later revelation clarifies
+or supersedes earlier. Absorbs Old Testament violence and the
+abandonment of the food and purity laws.</p>
+<p><strong>The tripartite division.</strong> Aquinas: moral law binds
+forever, civil law expired with the polity, ceremonial law was fulfilled
+in Christ. This is the machinery behind keeping Leviticus 18:22 and
+dropping Leviticus 19:19. <strong>It is not in the text.</strong> The
+text sorts nothing.</p>
+<p><strong><span class="gloss" tabindex="0">Covenant theology<span class="tip"><b>covenant theology</b>A Protestant system organizing scripture around a series of covenants rather than eras.</span></span> vs. <span class="gloss" tabindex="0">dispensationalism<span class="tip"><b>dispensationalism</b>A Protestant system dividing history into eras with different rules. Popular in American evangelicalism.</span></span>.</strong> The two
+major Protestant systems for organizing which parts apply now. Most
+believers are operating one of them unknowingly, absorbed from a
+tradition.</p>
+<p><strong>Analogy of faith.</strong> Unclear passages interpreted by
+clear ones. Sounds like sound method. In practice it means passages that
+conflict with settled doctrine get read in light of passages that
+support it — which is circular, and the circularity is invisible from
+inside.</p><div class="related"><b>Connects to</b><a href="master-notes.html#s1-5">Master §1.5 selective law-keeping</a><a href="master-notes.html#s2">Master §2 translation issues</a><a href="field-guide.html#s10">Field Guide §10 adding your own understanding</a></div>
+<h3 data-num="2.3" id="s2-3"><span class="num">§2.3</span>The genre point is legitimate — concede it</h3>
+<p>Do not attack allegorical reading as such. It is the position of
+critical scholarship too.</p>
+<p>Genesis 1 <em>is</em> ancient Near Eastern cosmology, not a science
+text — that is what Assyriologists say, not just theologians. Job
+<em>is</em> a wisdom dialogue, not a transcript. Psalms <em>are</em>
+poetry. Revelation <em>is</em> apocalyptic, a genre with conventions.
+Reading these as literal history is a <em>misreading</em>, and the
+believer who declines to do so is right.</p>
+<p><strong>The distinction that matters</strong>
+<span class="mark inf">INFERENCE</span><strong>:</strong> genre is a property of the text,
+determinable from its structure, its ancient parallels, and its own
+signals. A framework applied because a reading became uncomfortable is a
+different operation wearing the same clothes.</p>
+<h3 data-num="2.4" id="s2-4"><span class="num">§2.4</span>The diagnostic question</h3>
+<p><strong>“What’s your rule — stated before we look at the
+passage?”</strong></p>
+<p>This is the whole thing. A rule stated in advance is a real method:
+it makes predictions, it can produce results you dislike, it can be
+wrong. A rule produced after the difficulty appears is not a method, it
+is a justification.</p>
+<p>Follow-ups, in order:</p>
+<ol type="1">
+<li><em>Does your rule ever produce a conclusion you don’t like?</em> A
+hermeneutic that always vindicates prior belief is not reading the
+text.</li>
+<li><em>Which passages does it commit you to reading literally, that
+you’d rather not?</em></li>
+<li><em>Where’s the boundary?</em> Leviticus 19 puts “love your neighbor
+as yourself” nine verses from “don’t wear wool and linen together,” with
+identical divine attribution. Which verse is the line, and what marks
+it?</li>
+<li><em>Would that rule have been available to a first-century
+reader?</em></li>
+</ol>
+<p>Question 3 has no answer. Aquinas’s categories are not in the text,
+and no verse announces its own tier.</p><div class="related"><b>Connects to</b><a href="master-notes.html#s1-5">Master §1.5 the same structural point</a><a href="field-guide.html#s1-2">Field Guide §1.2 circular reasoning</a></div>
+<h3 data-num="2.5" id="s2-5"><span class="num">§2.5</span>What this does and does not prove</h3>
+<p><strong>It does not prove there is no God</strong>, and claiming it
+does is overreach. Interpretive frameworks being human is exactly what
+you would expect even if the text were divine, because the readers are
+human regardless.</p>
+<p><strong>What it does establish</strong> <span class="mark inf">INFERENCE</span> is narrower and
+much harder to escape: whatever the text’s origin, <em>its application
+is a human act</em>, performed by people using unstated sorting rules
+that reliably preserve what they already believed. The question stops
+being “what does the Bible say” and becomes “who decided which parts
+count, and what were they protecting.”</p>
+<p>That is the same structural finding as the audit log in the Master
+Notes: Maimonides needed fourteen principles before he could count to
+613, Aquinas needed three categories to sort Leviticus, Paul needed the
+ox to be about apostles. <strong>The list never sorts itself.</strong>
+Someone always sorts it, and the sorter’s interests are visible in the
+result.</p>
+</section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Rules for Engaging Well</h2>
+<p><strong>Engage the strongest version.</strong> If you can only beat
+Turek, you have not beaten the position. Plantinga is the position.</p>
+<p><strong>Concede fast and visibly.</strong> Where they are right —
+Nicaea did not invent the <span class="gloss" tabindex="0">canon<span class="tip"><b>canon</b>The official list of books counted as scripture.</span></span>, the manuscript numbers are real,
+Genesis 1 is not a science text, the 1 Corinthians 15 creed is early —
+say so immediately. Every concession makes your unconceded points cost
+more.</p>
+<p><strong>Separate the historical claim from the theological one, every
+time.</strong> That a Galilean preacher was crucified under Pilate is
+well supported. That he rose is not a historical claim in the same
+sense, and collapsing the two is how both sides get confused.</p>
+<p><strong>Do not confuse a bad advocate with a bad argument.</strong>
+Most conversations happen at the popular level. Winning there tells you
+about the person, not the position.</p>
+<p><strong>Ask for the rule before the passage.</strong> <a class="xref" href="#s2-4">§2.4</a>. It is the
+single most useful move in this entire document, and it works because it
+asks for something the frameworks cannot supply.</p><div class="related"><b>Connects to</b><a href="history.html#s11">History §11 losing gracefully</a><a href="master-notes.html#s11">Master §11 audit method</a></div>
+</section>
+</main>
+<button id="top" aria-label="Back to top">↑</button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy */
+const heads=$$('h2[id],h3[id]');
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+/* audit toggles */
+let openAll=false;
+const ta=$('#toggleAudits'); if(ta) ta.addEventListener('click',e=>{
+  openAll=!openAll; $$('.audit').forEach(d=>d.open=openAll);
+  e.target.classList.toggle('on',openAll);
+  e.target.textContent=openAll?'Collapse all audits':'Expand all audits';
+});
+/* status filter */
+$$('.filt').forEach(b=>b.addEventListener('click',()=>{
+  const on=b.classList.toggle('on');
+  $$('.filt').forEach(o=>{if(o!==b)o.classList.remove('on')});
+  const st=b.dataset.st;
+  if(!on){sec.forEach(s=>s.classList.remove('dim'));return}
+  sec.forEach(s=>s.classList.toggle('dim',!s.querySelector(`.audit[data-status="${st}"]`)));
+  $$('.audit').forEach(d=>d.open=d.dataset.status===st);
+}));
+
+/* xref flash + open target audit */
+addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a)return;
+  const t=$(a.getAttribute('href')); if(!t)return;
+  const d=t.closest('details'); if(d)d.open=true;
+  const dd=t.matches('details')?t:null; if(dd)dd.open=true;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+});
+if(location.hash){const t=$(location.hash);const d=t&&t.closest('details');if(d)d.open=true;}
+
+$$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
+  const t=g.querySelector('.tip'); g.classList.remove('flip');
+  if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
+}));
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script></body></html>

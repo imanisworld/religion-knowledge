@@ -1,0 +1,1064 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Historical Framework</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.55rem;font-size:.875rem}
+#toc a.lvl3{padding-left:1.4rem;font-size:.8rem}
+#toc a.lvl4{padding-left:1.4rem;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.02em;
+  color:#8E9C97;display:flex;align-items:center;gap:.4rem}
+#toc a.lvl4::before{content:"⚑";font-size:.75rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-overstated::before{color:var(--overstated)}
+#toc a.lvl4.st-collapses::before{color:#C05252}
+#toc a.lvl4.st-holds::before{color:#4E9970}
+#toc a.lvl4.st-new::before{color:#5FA9A5}
+#toc a.dim{opacity:.22}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{opacity:.16;pointer-events:none}
+h2{font-family:var(--f-display);font-size:1.92rem;font-weight:500;letter-spacing:-.02em;
+  line-height:1.14;margin:3.6rem 0 1.3rem;padding-top:1.6rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem;display:flex;gap:.7rem;align-items:baseline}
+h2 .num{font-family:var(--f-mono);font-size:.78rem;color:var(--accent);letter-spacing:.06em;
+  font-weight:500;flex:none;padding-top:.42rem}
+h3{font-family:var(--f-display);font-size:1.24rem;font-weight:600;letter-spacing:-.008em;
+  margin:2.3rem 0 .7rem;scroll-margin-top:4.5rem;display:flex;gap:.6rem;align-items:baseline}
+h3 .num{font-family:var(--f-mono);font-size:.7rem;color:var(--ink3);flex:none;padding-top:.2rem}
+p{margin:0 0 1.05rem;max-width:var(--measure)}
+ul,ol{max-width:var(--measure);padding-left:1.2rem;margin:0 0 1.15rem}
+li{margin-bottom:.45rem}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+
+/* ---------- audit apparatus ---------- */
+.audit{position:relative;background:var(--paper);border:1px solid var(--rule);
+  border-radius:5px;margin:1.5rem 0 2.4rem;overflow:hidden;max-width:var(--measure)}
+.audit::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--ink3)}
+.audit[data-status=overstated]::before{background:var(--overstated)}
+.audit[data-status=collapses]::before{background:var(--collapses)}
+.audit[data-status=holds]::before{background:var(--holds)}
+.audit[data-status=new]::before{background:var(--new)}
+.audit > summary{list-style:none;cursor:pointer;padding:1rem 1.3rem 1rem 1.5rem;
+  display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;transition:background .15s}
+.audit > summary::-webkit-details-marker{display:none}
+.audit > summary:hover{background:#F6F8F7}
+.audit > summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.siglum{font-size:.95rem;line-height:1.4;flex:none;color:var(--ink3)}
+.audit[data-status=overstated] .siglum{color:var(--overstated)}
+.audit[data-status=collapses] .siglum{color:var(--collapses)}
+.audit[data-status=holds] .siglum{color:var(--holds)}
+.audit[data-status=new] .siglum{color:var(--new)}
+.audit .atitle{flex:1;min-width:14rem;font-family:var(--f-display);font-size:1.02rem;
+  font-weight:600;line-height:1.3}
+.badge{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;
+  padding:.28rem .55rem;border-radius:99px;flex:none;font-weight:500;white-space:nowrap;
+  background:#EDEFEC;color:var(--ink2)}
+.badge.overstated{background:#FBF0DE;color:#7E4E11}
+.badge.collapses{background:#F9E6E6;color:#7A2222}
+.badge.holds{background:#E3F1E9;color:#1F4C38}
+.badge.new{background:var(--accent-soft);color:#134745}
+.stamp{font-family:var(--f-mono);font-size:.58rem;letter-spacing:.09em;color:var(--ink3);
+  flex:none;padding:.32rem .45rem;border:1px solid var(--rule);border-radius:3px;white-space:nowrap}
+.chev{flex:none;color:var(--ink3);font-size:.75rem;transition:transform .18s;margin-top:.28rem}
+.audit[open] .chev{transform:rotate(90deg)}
+.abody{padding:.2rem 1.5rem 1.35rem;border-top:1px solid var(--rule);margin-top:0}
+.abody > p:first-child{margin-top:1.1rem}
+.abody p{font-size:.925rem;margin-bottom:.9rem}
+.abody ul{font-size:.925rem}
+.abody em{color:var(--ink2)}
+
+/* field labels inside audits */
+.fld{display:block;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink3);margin:1.4rem 0 .3rem}
+.abody > p.hasfld{margin-top:0}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+.camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+
+/* cross-reference links */
+.xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
+  border-bottom:1px dotted currentColor;padding:0 .05em}
+.xref:hover{background:var(--accent-soft)}
+.gloss{border-bottom:1px dashed #B79A4E;cursor:help;position:relative}
+.gloss:hover,.gloss:focus{background:#FBF3D9;outline:none}
+.gloss .tip{position:absolute;left:0;top:calc(100% + 7px);width:min(21rem,78vw);
+  background:var(--ink);color:#E9EFEC;padding:.65rem .8rem;border-radius:5px;font-size:.8rem;
+  line-height:1.45;font-weight:400;font-style:normal;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .13s;box-shadow:0 6px 22px rgba(0,0,0,.24)}
+.gloss .tip b{display:block;font-family:var(--f-mono);font-size:.62rem;letter-spacing:.1em;
+  text-transform:uppercase;color:#8FBFBC;margin-bottom:.25rem}
+.gloss:hover .tip,.gloss:focus .tip{opacity:1}
+.gloss.flip .tip{left:auto;right:0}
+a.ext{color:var(--accent);font-weight:500;text-decoration:none;border-bottom:1px solid #A8CFCC;padding-bottom:1px}
+a.ext:hover{border-bottom-color:var(--accent);background:var(--accent-soft)}
+a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:super;opacity:.65}
+:target > .flashwrap,.flash{animation:flash 1.5s ease-out}
+@keyframes flash{0%,22%{background:#FBF0C9}100%{background:transparent}}
+
+/* related links */
+.related{margin:1.1rem 0 0;padding:.75rem 1rem;background:var(--accent-soft);
+  border-radius:4px;font-size:.83rem;max-width:var(--measure)}
+.related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:#134745;display:block;margin-bottom:.35rem}
+.related a{margin-right:.9rem;white-space:nowrap}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+.tbtn{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  padding:.42rem .7rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);
+  border-radius:3px;cursor:pointer;transition:.15s}
+.tbtn:hover{border-color:var(--accent);color:var(--accent)}
+.tbtn.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}
+th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
+td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:hover td{background:#F6F8F7}
+td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+h2 span.flagmark{color:var(--collapses)}
+#top{position:fixed;right:1.5rem;bottom:1.5rem;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);width:300px;transition:transform .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.35rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+</style></head><body>
+<button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">Historical Framework</p>
+    <p class="docsub">Chronology &amp; evidence</p>
+    <div class="docswitch"><a href="master-notes.html">Master Notes</a><a href="field-guide.html">Field Guide</a><a class="on" href="#">History</a><a href="sources.html">Sources</a><a href="other-side.html">Other Side</a><a href="translations.html">Translations</a><a href="glossary.html">Glossary</a></div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> How Historical Evidence Actually Works</a>
+<a class="lvl3" href="#s1-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.1</span> The four evidence classes</a>
+<a class="lvl3" href="#s1-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.2</span> The three questions that resolve most disputes</a>
+<a class="lvl3" href="#s1-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.3</span> What “confirmed by archaeology” can and cannot mean</a>
+<a class="lvl2" href="#s2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2</span> The Chronological Spine</a>
+<a class="lvl3" href="#s2-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.1</span> Bronze Age and the emergence of Israel</a>
+<a class="lvl3" href="#s2-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.2</span> Monarchy, Assyria, Babylon</a>
+<a class="lvl3" href="#s2-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.3</span> The one live fight: how big was David’s kingdom?</a>
+<a class="lvl3" href="#s2-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.4</span> The gap nobody teaches: Second Temple period</a>
+<a class="lvl3" href="#s2-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2.5</span> Roman Judea into the Christian era</a>
+<a class="lvl2" href="#s3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3</span> Sources Outside the New Testament</a>
+<a class="lvl2" href="#s4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4</span> Manuscripts and Transmission</a>
+<a class="lvl2" href="#s5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">5</span> How the Canon Was Actually Formed</a>
+<a class="lvl2" href="#s6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6</span> Islam — Minimal Parallel Timeline</a>
+<a class="lvl2" href="#s7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">7</span> Constantine and Nicaea — Get This Right</a>
+<a class="lvl2" href="#s8"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8</span> Christianity and the Roman Empire</a>
+<a class="lvl2" href="#s9"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">9</span> ⚑ BAD SKEPTIC HISTORY — Stop Using These</a>
+<a class="lvl2" href="#s10"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">10</span> ⚑ APOLOGETIC HISTORY — What to Expect and How to Answer</a>
+<a class="lvl2" href="#s11"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">11</span> Losing Gracefully — The Live-Conversation Move</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <p class="lens">The Backbone — Dates, Evidence, Bad History</p>
+    <h1>Historical Framework</h1>
+    <div class="meta"><span><b>Source</b>ESV + audiobook</span><span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="master-notes.html">Master Notes</a></span></div>
+  </div>
+  <div id="tools"><span id="here"></span></div>
+  <div class="howto"><p><strong>Provenance.</strong> <strong>Written by:</strong> Claude, 7
+August 2026, verified by search. <strong>Nothing here is your prior
+work.</strong> The dates and events are documented and standard; the
+<em>framing</em> — especially which arguments to drop and why — is
+Claude’s judgement and marked where it matters.</p></div>
+  <div id="nores">No section matches that search.</div>
+  <section id="sec-intro">
+<p><em>The Backbone — Chronology, Evidence, and Bad History on Both
+Sides</em></p>
+<blockquote>
+<p><strong>Who is saying what.</strong> Three markers run through all
+seven documents:</p>
+<ul>
+<li><strong><span class="mark doc">DOCUMENTED</span></strong> — a named scholar in a named
+publication. Checkable. If no name is attached, it is not this.</li>
+<li><strong><span class="mark inf">INFERENCE</span></strong> — reasoning built on documented facts
+but not itself found in any source. Claude’s analysis. Defensible, but
+nobody has published it, and it should never be cited as though someone
+had.</li>
+<li><strong><span class="mark you">YOURS</span></strong> — your own observation, from reading or
+live conversation. Recorded because it held up, not because it was
+agreeable.</li>
+</ul>
+<p><strong>The rule:</strong> anything marked <span class="mark inf">INFERENCE</span> is Claude
+reasoning. Treat it exactly as sceptically as you treat everything else
+here.</p>
+</blockquote>
+<blockquote>
+<p><strong>Why this document exists.</strong> Getting outgunned on
+history is not a knowledge problem, it is a <em>structure</em> problem.
+Someone who has a chronological spine in their head can place any new
+fact on it instantly. Someone who has facts without a spine gets buried.
+This document is the spine.</p>
+<p><strong>The hardest rule in here:</strong> the fastest way to lose a
+history argument is to deploy popular skeptic claims that are not true.
+<a class="xref" href="#s9">§9</a> lists them. Read <a class="xref" href="#s9">§9</a> before you read anything else. Most people who
+“lost to history” lost because they were carrying bad ammunition, not
+because the other side was right.</p>
+</blockquote>
+</section><section id="sec-1"><h2 data-num="1" id="s1"><span class="num">§1</span>How Historical Evidence Actually Works</h2>
+<p>Before any dates, the categories. Most bad arguments — on both sides
+— are category errors.</p>
+<h3 data-num="1.1" id="s1-1"><span class="num">§1.1</span>The four evidence classes</h3>
+<p><strong>Contemporary documentary.</strong> Written at the time by
+someone with access. Assyrian royal annals, Egyptian stelae, Babylonian
+chronicles, Roman administrative records, papyri, inscriptions.
+Strongest class, but never neutral — royal annals are propaganda and
+never record defeats.</p>
+<p><strong>Archaeological.</strong> Material remains: settlement
+patterns, destruction layers, pottery sequence, epigraphy, burials.
+Excellent for <em>populations, economies, and settings</em>. Poor for
+<em>events and individuals</em> unless something is inscribed.
+Archaeology can tell you a city burned; it usually cannot tell you who
+burned it or why.</p>
+<p><strong>Later literary.</strong> Written generations after, drawing
+on tradition. Most of the Bible. Most of Livy. Most of everything from
+antiquity. Not worthless — but the gap between event and writing is the
+single most important number to ask for.</p>
+<p><strong>Reception and transmission.</strong> What later people did
+with the text. Tells you about the later people. Tells you almost
+nothing about the events described.</p>
+<h3 data-num="1.2" id="s1-2"><span class="num">§1.2</span>The three questions that resolve most disputes</h3>
+<ol type="1">
+<li><strong>How long between the event and the writing?</strong></li>
+<li><strong>What did the writer have access to, and what were they
+trying to accomplish?</strong></li>
+<li><strong>Is there anything independent, or does all of it trace back
+to one source?</strong></li>
+</ol>
+<p>That third one does the most work. Five sources that all copy one
+source are one source. This is why “we have multiple attestations” is
+often weaker than it sounds — and why Tacitus matters more than a fifth
+Gospel would.</p>
+<h3 data-num="1.3" id="s1-3"><span class="num">§1.3</span>What “confirmed by archaeology” can and cannot mean</h3>
+<p>Archaeology routinely confirms that biblical texts know their
+<strong>setting</strong> — real cities, real officials, real customs,
+real titles. This is genuine and should be conceded without
+hesitation.</p>
+<p>It is a separate question whether the <strong>events</strong>
+happened. A novel set in 1920s Chicago that gets the streets, mayors,
+and streetcar fares right is still a novel. Confirming the backdrop is
+not confirming the plot.</p>
+<p><strong>Use this line:</strong> <em>“That confirms the author knew
+the world. It doesn’t confirm the story.”</em></p>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>The Chronological Spine</h2>
+<p>Memorize this and you can place anything. Dates before roughly 900
+BCE are approximate and contested; from the Assyrian period onward,
+chronology is firm because it is anchored to dated eclipses and king
+lists.</p>
+<h3 data-num="2.1" id="s2-1"><span class="num">§2.1</span>Bronze Age and the emergence of Israel</h3>
+<table>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Event</th>
+<th>Evidence status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>c. 1550–1200 BCE</td>
+<td>Egyptian New Kingdom controls Canaan</td>
+<td>Firm — Egyptian records, Amarna letters</td>
+</tr>
+<tr class="even">
+<td>c. 1200 BCE</td>
+<td>Late <span class="gloss" tabindex="0">Bronze Age collapse<span class="tip"><b>Bronze Age collapse</b>The roughly 1200 BCE breakdown of palace civilizations across the eastern Mediterranean.</span></span>; palace civilizations fall across the
+eastern Mediterranean</td>
+<td>Firm — destruction layers everywhere</td>
+</tr>
+<tr class="odd">
+<td>c. 1208 BCE</td>
+<td><strong>Merneptah <span class="gloss" tabindex="0">Stele<span class="tip"><b>stele</b>An upright stone slab with an inscription. Plural: stelae.</span></span></strong> — earliest extrabiblical mention of
+“Israel,” as a people, not a place</td>
+<td>Firm — the object exists</td>
+</tr>
+<tr class="even">
+<td>c. 1200–1000 BCE</td>
+<td>Highland settlement in Canaan: hundreds of small unwalled
+villages</td>
+<td>Firm — survey archaeology</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What this means.</strong> The people called Israel are on the
+ground by 1208 BCE. The archaeological picture of their emergence looks
+like <em>gradual settlement of Canaanite highlands</em>, not conquest
+from outside. There is no destruction horizon matching the Joshua
+conquest, and the material culture is continuous with Canaanite culture
+— same pottery, same houses, same language family. The distinguishing
+marker is negative: an absence of pig bones.</p>
+<h3 data-num="2.2" id="s2-2"><span class="num">§2.2</span>Monarchy, Assyria, Babylon</h3>
+<table>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Event</th>
+<th>Evidence status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>c. 1000 BCE</td>
+<td>Traditional date for David</td>
+<td><strong>Contested.</strong> See <a class="xref" href="#s2-3">§2.3</a></td>
+</tr>
+<tr class="even">
+<td>c. 840 BCE</td>
+<td><strong>Tel Dan Stele</strong> — Aramaic inscription referring to
+the “House of David”</td>
+<td>Firm — the inscription exists</td>
+</tr>
+<tr class="odd">
+<td>c. 840 BCE</td>
+<td><strong>Mesha Stele</strong> — Moabite king records war with Israel;
+names YHWH</td>
+<td>Firm</td>
+</tr>
+<tr class="even">
+<td>722 BCE</td>
+<td>Assyria destroys the northern kingdom of Israel; deportations</td>
+<td>Firm — Assyrian annals + biblical</td>
+</tr>
+<tr class="odd">
+<td>701 BCE</td>
+<td><strong>Sennacherib besieges Jerusalem</strong></td>
+<td>Firm — Sennacherib’s Prism, Lachish reliefs, 2 Kings 18–19</td>
+</tr>
+<tr class="even">
+<td>c. 622 BCE</td>
+<td>Josiah’s reform; “book of the law” found in the Temple</td>
+<td>Biblical only</td>
+</tr>
+<tr class="odd">
+<td>597 BCE</td>
+<td>First Babylonian deportation</td>
+<td>Firm — Babylonian Chronicles</td>
+</tr>
+<tr class="even">
+<td>586 BCE</td>
+<td>Jerusalem falls; First Temple destroyed</td>
+<td>Firm</td>
+</tr>
+<tr class="odd">
+<td>539 BCE</td>
+<td>Cyrus takes Babylon; <strong>Cyrus Cylinder</strong> records his
+repatriation policy</td>
+<td>Firm</td>
+</tr>
+<tr class="even">
+<td>c. 516 BCE</td>
+<td>Second Temple completed</td>
+<td>Reasonably firm</td>
+</tr>
+</tbody>
+</table>
+<p><strong>The 701 BCE case is worth knowing cold.</strong> It is the
+best example of independent convergence in the Hebrew Bible.
+Sennacherib’s own annals describe shutting Hezekiah up “like a bird in a
+cage” — and conspicuously do not claim to have taken Jerusalem. 2 Kings
+says the siege lifted. Two hostile sources, one event, compatible
+accounts, different explanations. This is what real historical
+corroboration looks like, and it is rare.</p>
+<p><strong>Concede this one freely.</strong> It costs nothing and it
+demonstrates you are arguing from evidence rather than from a
+conclusion.</p>
+<h3 data-num="2.3" id="s2-3"><span class="num">§2.3</span>The one live fight: how big was David’s kingdom?</h3>
+<p>Not <em>whether David existed</em> — the Tel Dan Stele settled that a
+dynasty traced itself to a David within about 150 years of his supposed
+reign. The fight is over <strong>scale</strong>.</p>
+<ul>
+<li><strong>Israel Finkelstein</strong> (Tel Aviv) <span class="camp">CRITICAL, “low
+chronology”</span>: 10th-century Jerusalem was a modest highland town; the
+united monarchy as described is a retrojection from the 7th
+century.</li>
+<li><strong>Amihai Mazar</strong> <span class="camp">CRITICAL, “modified conventional
+chronology”</span>: a middle position — a real but smaller polity.</li>
+<li><strong>William Dever</strong> <span class="camp">CRITICAL, anti-minimalist</span>: attacks
+the minimalists hard while rejecting biblical literalism.</li>
+<li><strong>Yosef Garfinkel</strong> <span class="camp">CONSERVATIVE-LEANING</span>: Khirbet
+Qeiyafa, a fortified site radiocarbon-dated near 1000 BCE, shows more
+state formation than minimalists allow.</li>
+</ul>
+<p><strong>Correct position</strong> <span class="mark inf">INFERENCE — Claude’s read of where
+the evidence lands between the named camps above</span><strong>:</strong> a
+David existed and founded a dynasty. The empire described in
+Samuel–Kings is not archaeologically supported at that scale. Both
+halves matter — dropping the first half is how you get caught out.</p>
+<h3 data-num="2.4" id="s2-4"><span class="num">§2.4</span>The gap nobody teaches: Second Temple period</h3>
+<p>This is where the biggest advantage sits, because most believers have
+a blank between Malachi and Matthew, and almost everything distinctive
+about first-century Judaism was formed in it.</p>
+<table>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>333–332 BCE</td>
+<td>Alexander conquers the Levant. Greek becomes the administrative and
+elite language.</td>
+</tr>
+<tr class="even">
+<td>c. 250 BCE</td>
+<td><strong><span class="gloss" tabindex="0">Septuagint<span class="tip"><b>Septuagint</b>The Greek translation of the Hebrew scriptures, made around 250 BCE. What most New Testament authors actually quote.</span></span></strong> — Hebrew scriptures translated into
+Greek in Alexandria</td>
+</tr>
+<tr class="odd">
+<td>175–164 BCE</td>
+<td>Antiochus IV Epiphanes; Temple desecrated; Hellenization crisis</td>
+</tr>
+<tr class="even">
+<td>167–160 BCE</td>
+<td><strong>Maccabean revolt</strong></td>
+</tr>
+<tr class="odd">
+<td>140–63 BCE</td>
+<td>Hasmonean independent Jewish state</td>
+</tr>
+<tr class="even">
+<td>63 BCE</td>
+<td><strong>Pompey takes Jerusalem.</strong> Rome arrives.</td>
+</tr>
+<tr class="odd">
+<td>37–4 BCE</td>
+<td>Herod the Great; massive Temple expansion</td>
+</tr>
+<tr class="even">
+<td>6 CE</td>
+<td>Judea becomes a Roman province under direct rule</td>
+</tr>
+</tbody>
+</table>
+<p><strong>What formed in this window, and why it matters:</strong></p>
+<ul>
+<li><strong><span class="gloss" tabindex="0">Apocalyptic<span class="tip"><b>apocalyptic</b>A genre and worldview: the present age is corrupt, God will intervene catastrophically and soon. Not the same as 'apocalypse means disaster'.</span></span> literature and the resurrection of the
+dead.</strong> Largely absent from earlier Hebrew scripture, fully
+developed by the first century. Daniel — the latest book in the Hebrew
+Bible, written during the Antiochus crisis around 165 BCE — is the
+pivot.</li>
+<li><strong>Angelology and a developed Satan figure.</strong> The
+adversary of Job is a functionary in the divine court. The cosmic devil
+is Second Temple and later.</li>
+<li><strong>Messianic expectation</strong> in its first-century
+form.</li>
+<li><strong>The sects:</strong> Pharisees, Sadducees, Essenes, Zealots.
+None of them exist in the Old Testament.</li>
+<li><strong>Synagogue, scribal culture, and <span class="gloss" tabindex="0">Torah<span class="tip"><b>Torah</b>The first five books — Genesis to Deuteronomy. Also means 'teaching' or 'law' generally.</span></span> study</strong> as the
+center of religious life.</li>
+<li><strong>The Septuagint</strong>, which is what the New Testament
+authors quote — including Isaiah 7:14’s <em>parthenos</em>.</li>
+</ul>
+<p><strong>Debate application:</strong> if someone insists their
+theology comes straight from the Bible, ask where hell, Satan, angels,
+and resurrection came from — and then ask why those concepts are missing
+from the Torah and appear fully formed by the first century. The answer
+is four centuries of history they were never taught.</p><div class="related"><b>Connects to</b><a href="master-notes.html#s5-4">Master §5.4 damnation escalation</a><a href="field-guide.html#s9-2">Field Guide §9.2 hell</a></div>
+<h3 data-num="2.5" id="s2-5"><span class="num">§2.5</span>Roman Judea into the Christian era</h3>
+<table>
+<colgroup>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+<col style="width: 33%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Event</th>
+<th>Evidence status</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>26–36 CE</td>
+<td><strong>Pontius Pilate</strong>, <span class="gloss" tabindex="0">prefect<span class="tip"><b>prefect</b>The Roman governor of a minor province. Pilate's actual title.</span></span> of Judea</td>
+<td>Firm — Pilate Stone, Caesarea, found 1961; Josephus; Philo</td>
+</tr>
+<tr class="even">
+<td>c. 30–33 CE</td>
+<td>Crucifixion of Jesus</td>
+<td>Best-attested single fact about him</td>
+</tr>
+<tr class="odd">
+<td>c. 50–60 CE</td>
+<td><strong>Paul’s <span class="gloss" tabindex="0">undisputed letters<span class="tip"><b>undisputed letters</b>The seven letters nearly all scholars accept Paul actually wrote: Romans, 1–2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon.</span></span></strong> — earliest Christian
+writings</td>
+<td>Firm</td>
+</tr>
+<tr class="even">
+<td>66–73 CE</td>
+<td>First Jewish Revolt</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><strong>70 CE</strong></td>
+<td><strong>Jerusalem sacked, Second Temple destroyed</strong></td>
+<td>Firm — Josephus, Arch of Titus</td>
+</tr>
+<tr class="even">
+<td>c. 70–100 CE</td>
+<td>Gospels written</td>
+<td>Standard critical dating</td>
+</tr>
+<tr class="odd">
+<td>132–135 CE</td>
+<td>Bar Kokhba revolt; Jews barred from Jerusalem</td>
+<td>Firm</td>
+</tr>
+<tr class="even">
+<td>313 CE</td>
+<td>Edict of Milan — Christianity legalized</td>
+<td>Firm</td>
+</tr>
+<tr class="odd">
+<td>325 CE</td>
+<td><strong>Council of Nicaea</strong></td>
+<td>Firm — see <a class="xref" href="#s7">§7</a></td>
+</tr>
+<tr class="even">
+<td>380 CE</td>
+<td>Edict of Thessalonica — Christianity becomes the state religion
+under Theodosius</td>
+<td>Firm</td>
+</tr>
+<tr class="odd">
+<td>393 / 397 CE</td>
+<td>Councils of Hippo and Carthage list canonical books</td>
+<td>Firm</td>
+</tr>
+</tbody>
+</table>
+<p><strong>70 CE is the hinge.</strong> Every Gospel is written around
+or after the destruction of the Temple. Judaism and Christianity both
+reorganize around its absence — rabbinic Judaism replacing sacrifice
+with study and prayer, Christianity reading the destruction as
+vindication. Any reading of the Gospels that ignores 70 CE is missing
+the environment they were composed in.</p>
+</section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Sources Outside the New Testament</h2>
+<p>Handle this precisely. It is where overconfident skeptics get
+destroyed.</p>
+<p><strong>Tacitus,</strong> <em>Annals</em> 15.44, c. 115 CE. Records
+that Christus was executed under Pilate during Tiberius’s reign and that
+the movement spread from Judea to Rome. <cite index="28-1">Modern
+scholarship treats the reference as independent and hostile to
+Christianity, which strengthens its evidentiary weight.</cite> Hostile
+witnesses do not invent flattering origins for people they despise.</p>
+<p><strong>Josephus,</strong> two passages. The James reference
+(<em>Antiquities</em> 20.200) mentions James, “the brother of Jesus who
+was called Christ,” and <cite index="28-1">is widely accepted as
+authentic.</cite> The longer <em><span class="gloss" tabindex="0">Testimonium Flavianum<span class="tip"><b>Testimonium Flavianum</b>The passage in Josephus describing Jesus. Partly altered by Christian copyists; how much is disputed.</span></span></em>
+(<em>Antiquities</em> 18.63–64) <cite index="28-1">contains language —
+explicit affirmation of the resurrection and messianic titles — that
+many scholars regard as later Christian <span class="gloss" tabindex="0">interpolation<span class="tip"><b>interpolation</b>Words inserted into a text by a later hand, presented as if original.</span></span>, while a
+substantial core describing a wise man executed by Pilate is argued by
+several recent scholars to be original.</cite></p>
+<p><strong>Do not say the Testimonium is a forgery as though it were
+established.</strong> Tim O’Neill [ATHEIST, History for Atheists]
+documents this precisely: <cite index="29-1">Ken Olson and Paul Hopper
+have argued the passage is a wholesale later insertion rather than a
+Josephan text with Christian additions — solid work by qualified
+scholars with no obvious agenda — but they remain in the minority, while
+the idea that the Testimonium is a “forgery” has become almost an
+article of faith among online <span class="gloss" tabindex="0">mythicism<span class="tip"><b>mythicism</b>The claim that Jesus never existed as a person. A fringe position among historians, including atheist ones.</span></span> enthusiasts, stated as hard fact
+rather than as a minority interpretation.</cite></p>
+<p><strong>Also:</strong> Pliny the Younger (c. 112 CE, administrative
+correspondence on how to handle Christians), Suetonius, Lucian, and
+later Talmudic references. <cite index="28-1">Individually limited,
+together they establish that early Christians worshipped a crucified
+founder, that Roman officials knew of them, and that Jewish polemicists
+recognized Jesus-centered factions.</cite></p>
+<p><strong>What this evidence establishes:</strong> a Galilean Jewish
+teacher was executed by Roman authority under Pilate, and a movement
+formed around him that spread fast. That is well supported.</p>
+<p><strong>What it does not establish:</strong> anything about miracles,
+resurrection, virgin birth, or divinity. Those are theological claims,
+and no external source corroborates them. Keep the two separate and you
+cannot be trapped.</p><div class="related"><b>Connects to</b><a href="master-notes.html#s6-1">Master §6 the Gospels themselves</a><a href="#s9">§9 mythicism — do not use it</a></div>
+</section><section id="sec-4"><h2 data-num="4" id="s4"><span class="num">§4</span>Manuscripts and Transmission</h2>
+<p>The manuscript argument is the most common apologetic move and the
+most commonly mishandled from both sides.</p>
+<p><strong>The claim you will hear:</strong> roughly 5,800 Greek New
+Testament manuscripts, plus about 10,000 Latin and thousands more in
+other languages — more than any other ancient work by orders of
+magnitude, so the New Testament is the best-attested text from
+antiquity.</p>
+<p><strong>The factual part is true.</strong> Do not dispute the
+numbers; you will lose. Homer is the nearest comparison and it is not
+close.</p>
+<p><strong>What the numbers actually establish:</strong> that we can
+reconstruct the <em>second- to fourth-century</em> text with high
+confidence. That is a real achievement and worth conceding.</p>
+<p><strong>What they do not establish, and this is the whole
+answer:</strong></p>
+<ol type="1">
+<li><strong>Quantity measures copying, not accuracy.</strong>
+Christianity became the state religion of an empire with scriptoria. The
+number reflects institutional power over fourteen centuries. It is a
+measure of the religion’s success, not of the text’s truth.</li>
+<li><strong>The gap is where the damage happens.</strong> The earliest
+substantial manuscripts are second- and third-century; the events are
+first-century. Manuscripts cannot reach behind the earliest copy.
+Reconstructing the second-century text is not reconstructing an
+original.</li>
+<li><strong>Most manuscripts are late and derivative.</strong> The
+overwhelming majority are medieval minuscules copied from copies. Five
+thousand descendants of one exemplar is still one line of evidence.</li>
+<li><strong>We know substantial passages were added,</strong> because
+the manuscripts themselves show it: the longer ending of Mark (16:9–20),
+the woman caught in adultery (John 7:53–8:11), the <span class="gloss" tabindex="0">Johannine Comma<span class="tip"><b>Johannine Comma</b>The explicit Trinity wording at 1 John 5:7-8. In the KJV; absent from every Greek manuscript before the 14th century.</span></span> (1
+John 5:7–8). Modern critical editions bracket or footnote all three. The
+manuscript tradition is not merely evidence <em>for</em> the text — it
+is the evidence <em>that the text changed</em>.</li>
+<li><strong>Reconstructing the words is not establishing the
+events.</strong> Even a perfectly transmitted text is a perfectly
+transmitted first-century claim.</li>
+</ol>
+<p><strong>Use this line:</strong> <em>“I agree we can reconstruct what
+the second-century text said. That’s the part I’m not disputing. What
+I’m asking about is the sixty years before that, which no manuscript can
+reach.”</em></p>
+</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>How the Canon Was Actually Formed</h2>
+<p>Slow, contested, regional, and never decided by a single vote.</p>
+<ul>
+<li><strong>c. 140 CE — Marcion</strong> produces the first known <span class="gloss" tabindex="0">canon<span class="tip"><b>canon</b>The official list of books counted as scripture.</span></span>:
+an edited Luke plus ten Pauline letters, rejecting the Hebrew scriptures
+entirely. Declared heretical. His challenge probably accelerated
+everyone else’s list-making.</li>
+<li><strong>c. 180 CE — Irenaeus</strong> argues for exactly four
+Gospels, on the reasoning that there are four winds and four corners of
+the earth. That is the actual argument in <em>Against
+Heresies</em>.</li>
+<li><strong>c. 170–200 CE — the Muratorian Fragment</strong>, the
+earliest surviving list, already close to the final shape but not
+identical.</li>
+<li><strong>Third century</strong> — Origen and Eusebius classify books
+as accepted, disputed, or spurious. Hebrews, James, 2 Peter, 2–3 John,
+Jude, and Revelation sit in the disputed column for a long time.</li>
+<li><strong>367 CE — Athanasius’s 39th Festal Letter</strong> is the
+first surviving list matching the 27-book New Testament exactly.</li>
+<li><strong>393 / 397 CE — Hippo and Carthage</strong> ratify regional
+lists.</li>
+<li><strong>The Eastern churches never fully converged.</strong> The
+Ethiopian Orthodox canon is larger. The Syriac <span class="gloss" tabindex="0">Peshitta<span class="tip"><b>Peshitta</b>The standard Syriac (Aramaic) Bible of the Eastern churches.</span></span> long omitted
+several books. Catholic, Protestant, and Orthodox Old Testaments still
+differ.</li>
+</ul>
+<p><strong>The honest critical point</strong> is not that a conspiracy
+picked the books. It is that <strong>the process was human, political,
+and contested for three centuries</strong>, that the criteria (apostolic
+origin, orthodoxy, widespread use) were applied by people who already
+held the positions the criteria selected for, and that there is still no
+single Christian canon today.</p>
+<p>That argument is stronger than the conspiracy version because it is
+true and cannot be refuted by a historian.</p><div class="related"><b>Connects to</b><a href="master-notes.html#s5-2">Master §5.2 key structural facts</a><a href="#s7">§7 what Nicaea did not do</a></div>
+</section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>Islam — Minimal Parallel Timeline</h2>
+<p>For comparative work, the same evidentiary standards apply.</p>
+<table>
+<colgroup>
+<col style="width: 50%"/>
+<col style="width: 50%"/>
+</colgroup>
+<thead>
+<tr class="header">
+<th>Date</th>
+<th>Event</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>c. 570–632 CE</td>
+<td>Muhammad</td>
+</tr>
+<tr class="even">
+<td>610 CE</td>
+<td>Traditional date of the first revelation</td>
+</tr>
+<tr class="odd">
+<td>622 CE</td>
+<td>Hijra to Medina — year 1 of the Islamic calendar</td>
+</tr>
+<tr class="even">
+<td>632 CE</td>
+<td>Death of Muhammad; succession crisis begins</td>
+</tr>
+<tr class="odd">
+<td>c. 650 CE</td>
+<td>Uthmanic <span class="gloss" tabindex="0">recension<span class="tip"><b>recension</b>An officially revised and standardized edition of a text.</span></span> — a standardized Quranic text; variant codices
+reportedly destroyed</td>
+</tr>
+<tr class="even">
+<td>8th–9th c.</td>
+<td><span class="gloss" tabindex="0">Hadith<span class="tip"><b>hadith</b>Reports of Muhammad's sayings and actions, collected and graded for reliability.</span></span> collections compiled; <em><span class="gloss" tabindex="0">sira<span class="tip"><b>sira</b>The traditional biographies of Muhammad, written 100–200 years after his death.</span></span></em> biographies written</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Structural comparison worth holding:</strong> the Quran was
+standardized far closer to its origin than the New Testament was — a
+real point in its favor on transmission, and one Muslim apologists press
+hard. But the <em>sira</em> and hadith, which supply nearly all
+biographical detail about Muhammad, were written down one to two
+centuries later — a gap comparable to or worse than the Gospels’. Ibn
+Ishaq’s biography survives only in Ibn Hisham’s later edition.</p>
+<p><strong>The symmetry to note:</strong> each tradition applies
+rigorous <span class="gloss" tabindex="0">source criticism<span class="tip"><b>source criticism</b>Working out what earlier written sources an author used.</span></span> to the other’s texts and not to its own. That
+observation is more useful than any individual fact.</p>
+</section><section id="sec-7"><h2 data-num="7" id="s7"><span class="num">§7</span>Constantine and Nicaea — Get This Right</h2>
+<p>This is the single most common place where a skeptic gets destroyed
+in live conversation, because the popular version is false and the
+correction is easy to look up.</p>
+<p><strong>What Nicaea (325 CE) actually did:</strong>
+<cite index="23-1">its key purpose was resolving the Arian controversy
+over the status of Jesus as God the Son in relation to God the Father,
+producing the Nicene Creed that became the basis for later
+Christological formulations.</cite> It also set a common date for Easter
+and issued disciplinary canons.</p>
+<p><strong>What it did not do:</strong> <cite index="23-1">the council
+did not vote on or even discuss the biblical canon — which books counted
+as scripture, which were useful but not scriptural, and which were
+heretical.</cite> <cite index="20-1">There is not a shred of evidence
+that the canon was raised at Nicaea at all.</cite></p>
+<p><strong>Where the myth comes from,</strong> because knowing this is
+what turns a defeat into a win: <cite index="22-1">a late-ninth-century
+Greek manuscript, the <em>Synodicon Vetus</em>, claims that at Nicaea
+the canonical books were miraculously separated from the spurious ones
+by being placed on an altar, with the inspired works found on top after
+prayer. That account was later picked up by Voltaire in the eighteenth
+century</cite> and reached mass culture through <em>The Da Vinci
+Code</em>.</p>
+<p><strong>It did not invent Jesus’s divinity either.</strong> High
+<span class="gloss" tabindex="0">Christology<span class="tip"><b>Christology</b>The theology of who Jesus is. 'High' Christology treats him as divine; 'low' as human or exalted-but-created.</span></span> is already present in Paul (Philippians 2, 1 Corinthians
+8:6) in the 50s CE and in John’s prologue around 90–100 CE. The vote at
+Nicaea was on <em>how</em> to formulate a divinity that was already the
+majority position — the dispute was whether the Son was of the same
+substance (<em><span class="gloss" tabindex="0">homoousios<span class="tip"><b>homoousios</b>Greek: 'same substance'. The word Nicaea chose to say the Son is the same being as the Father.</span></span></em>) or a created being, not whether he was
+divine at all.</p>
+<p><strong>What is legitimately damning, and use this instead</strong>
+<span class="mark inf">INFERENCE — the facts are documented; the judgement that this is the
+stronger argument is Claude’s</span><strong>:</strong> Constantine convened
+the council, presided over a theological dispute he was not qualified to
+judge, and then used imperial power to enforce the outcome and exile the
+losers. Doctrine settled by a majority of bishops under an emperor’s
+political pressure is still doctrine settled by politics. <strong>The
+true version is the stronger argument.</strong> You do not need the
+myth.</p><div class="related"><b>Connects to</b><a href="#s9">§9 the myth version to avoid</a><a href="field-guide.html#s13">Field Guide §13 the Trinity</a></div>
+</section><section id="sec-8"><h2 data-num="8" id="s8"><span class="num">§8</span>Christianity and the Roman Empire</h2>
+<ul>
+<li><strong>313 CE</strong> — Edict of Milan legalizes Christianity. It
+does not make it the state religion.</li>
+<li><strong>325 CE</strong> — Nicaea.</li>
+<li><strong>380 CE</strong> — Edict of Thessalonica under Theodosius
+makes Nicene Christianity the state religion.</li>
+<li><strong>391–392 CE</strong> — Theodosius bans public pagan
+sacrifice; temples close.</li>
+</ul>
+<p><strong>The mechanism worth naming</strong> <span class="mark inf">INFERENCE — the dates
+are documented; the framing is Claude’s</span><strong>:</strong> in under
+eighty years Christianity moved from persecuted minority to persecuting
+majority, and the persecuted-to-persecutor transition took about one
+generation after acquiring state power. That is a claim about
+institutions and power, it is fully documented, and it does not require
+any conspiracy.</p>
+<p><strong>Pre-Constantine persecution was real but sporadic</strong> —
+mostly localized, with empire-wide efforts under Decius (250) and
+Diocletian (303–311). Popular accounts overstate both its continuity and
+its death toll. Do not inflate it; you will be corrected, and there is
+no need.</p>
+</section><section id="sec-9"><h2 data-num="9" id="s9"><span class="num">§9</span>⚑ BAD SKEPTIC HISTORY — Stop Using These</h2>
+<p><strong>Read this section first.</strong> These claims circulate
+widely, feel powerful, and are false or badly overstated. Deploying one
+hands your opponent an easy, verifiable win and discredits everything
+true you said before it. Every item below is rejected by secular
+historians, not by apologists.</p>
+<p><strong>“Constantine created the Bible / Nicaea voted on Jesus’s
+divinity.”</strong> False. See <a class="xref" href="#s7">§7</a>. Traces to a ninth-century manuscript
+via Voltaire and Dan Brown.</p>
+<p><strong>“Jesus never existed.”</strong> Mythicism is a fringe
+position among historians, including atheist and agnostic ones — Bart
+Ehrman <span class="camp">CRITICAL, agnostic</span> and the late Maurice Casey <span class="camp">CRITICAL,
+secular</span> both wrote book-length refutations of it. Richard Carrier is
+its main credentialed defender and has not persuaded the field. You do
+not need mythicism; a historical Jesus who was an apocalyptic Jewish
+preacher executed by Rome is <em>more</em> corrosive to orthodox
+theology than an invented one, because it puts the burden on explaining
+how that figure became God.</p>
+<p><strong>“Jesus is a copy of Horus / Mithras / Dionysus /
+Krishna.”</strong> Almost entirely fabricated. The specific parallels —
+Horus born of a virgin on December 25th with twelve disciples, crucified
+and resurrected — are not in any Egyptian source. This traces to Gerald
+Massey (19th c.) and <em>Zeitgeist</em> (2007). Egyptologists reject it
+flatly. <strong>This is the single fastest way to lose an argument to
+anyone who has read a real source.</strong></p>
+<p><strong>“The Church caused the Dark Ages and suppressed
+science.”</strong> The conflict thesis, from Draper (1874) and White
+(1896), has been abandoned by historians of science. Medieval
+universities were church institutions; Copernicus was a canon; Aquinas
+built on Aristotle. Real critiques of religious interference exist and
+are specific — make those instead.</p>
+<p><strong>“Christians burned the Library of Alexandria.”</strong> It
+declined over centuries through multiple causes. The dramatic
+single-destruction story is not supported.</p>
+<p><strong>“Hypatia was murdered for defending science.”</strong> She
+was killed in 415 CE in a factional political conflict in Alexandria.
+Real, ugly, and not about science. The <em>Agora</em> version is
+fiction.</p>
+<p><strong>“Christmas is just Saturnalia / Sol Invictus.”</strong>
+Contested and weaker than usually claimed. The Sol Invictus festival on
+December 25th may be <em>later</em> than the Christian date, not
+earlier.</p>
+<p><strong>“The Bible is like a game of telephone — copied so many times
+it’s meaningless.”</strong> Wrong model. <span class="gloss" tabindex="0">Textual criticism<span class="tip"><b>textual criticism</b>Comparing surviving copies of a text to work out what the earliest version said. Not 'criticism' in the sense of attacking it.</span></span> works by
+comparing surviving copies, and errors in independent lines can be
+detected and corrected precisely because there are many manuscripts. Use
+the argument in <a class="xref" href="#s4">§4</a> instead: the reconstruction is real but only reaches
+the second century.</p>
+<p><strong>“Nicaea removed reincarnation from the Bible.”</strong> No
+evidence. Origen’s speculations on pre-existence were condemned at
+Constantinople in 553, not Nicaea, and never appeared in canonical
+texts.</p>
+<p><strong>The resource:</strong> Tim O’Neill’s <strong>History for
+Atheists</strong> is an atheist site devoted entirely to debunking bad
+atheist history. If you are going to use a historical claim in an
+argument, check it there first. Using a source hostile to your own
+side’s sloppiness is what makes the rest of your case credible.</p><div class="related"><b>Connects to</b><a href="#s10">§10 the other side's bad history</a><a href="#s11">§11 what to do when outgunned</a><a href="master-notes.html#s11">Master §11 the audit method</a></div>
+</section><section id="sec-10"><h2 data-num="10" id="s10"><span class="num">§10</span>⚑ APOLOGETIC HISTORY — What to Expect and How to Answer</h2>
+<p><strong>“5,800 manuscripts.”</strong> True. See <a class="xref" href="#s4">§4</a>. Concede the
+number, contest the inference.</p>
+<p><strong>“The 1 Corinthians 15:3–7 creed dates to within a few years
+of the crucifixion.”</strong> The early-creed identification is real and
+mainstream — the formulaic language and Paul’s handing-on vocabulary
+mark it as pre-Pauline material, plausibly from the 30s. <strong>Concede
+it.</strong> Then note precisely what it establishes: that people
+believed in a resurrection appearance very early. Early belief is not
+evidence of the event believed in. Movements generate rapid conviction
+routinely; the question is what produced it.</p>
+<p><strong>“The apostles died for what they saw — nobody dies for a
+known lie.”</strong> The martyrdom traditions are late, mostly from
+<span class="gloss" tabindex="0">apocryphal<span class="tip"><b>apocryphal</b>Outside the canon. Not necessarily fake — just not included.</span></span> Acts of the second century and later, and reliable evidence
+exists for almost none of the individual deaths. Even granting the
+premise: people die for sincerely held beliefs constantly, across every
+religion, which shows sincerity, not accuracy.</p>
+<p><strong>“Archaeology has confirmed the Bible.”</strong> It has
+confirmed the setting repeatedly. See <a class="xref" href="#s1-3">§1.3</a>. Ask which specific event,
+then ask what the evidence would look like if it were only the setting
+that was accurate.</p>
+<p><strong>“The Hittites were thought mythical until archaeology proved
+the Bible right.”</strong> Overstated, and it is an argument from one
+past vindication to unlimited future credit. The same reasoning would
+have vindicated the conquest of Jericho, which the archaeology did not
+support.</p>
+<p><strong>“Christianity ended slavery.”</strong> Abolition was driven
+substantially by Christians — Wilberforce, the Quakers — and that is
+real. So was the biblical defense of slavery, using Colossians 3:22 and
+Ephesians 6:5, for eighteen centuries prior. The text supported both
+sides, which is the actual point. See Master Notes §6.5 for the
+disputed-letter dimension, which sharpens this considerably.</p>
+<p><strong>“The Crusades were defensive.”</strong> Partly defensible for
+the First Crusade in context of Seljuk expansion; not defensible for the
+Fourth, which sacked Christian Constantinople. Do not accept the framing
+wholesale and do not reject it wholesale.</p><div class="related"><b>Connects to</b><a href="#s4">§4 the manuscript answer</a><a href="master-notes.html#s6-5">Master §6.5 slavery in disputed letters</a></div>
+</section><section id="sec-11"><h2 data-num="11" id="s11"><span class="num">§11</span>Losing Gracefully — The Live-Conversation Move</h2>
+<p>You will meet someone who knows more history than you. This will keep
+happening; the field is enormous.</p>
+<p><strong>The move:</strong> <em>“I don’t know that one. Where can I
+read it?”</em></p>
+<p>This costs nothing and does three things at once. It is honest. It
+makes any later concession from them harder to refuse, because you have
+modeled it. And it prevents the failure mode that actually loses
+arguments — defending a claim you are not sure of, getting refuted on
+it, and having every earlier point retroactively discredited.</p>
+<p><strong>The principle underneath</strong>
+<span class="mark inf">INFERENCE</span><strong>:</strong> one confidently stated wrong fact costs
+more than ten unstated right ones. This is the same lesson as the audit
+log in the Master Notes, applied in real time.</p>
+<p><strong>And the position that requires no history at all</strong> is
+still the strongest thing available: Leviticus 19 puts “love your
+neighbor as yourself” nine verses from “don’t wear wool and linen
+together,” with identical divine attribution. Nothing in the text marks
+the boundary. Every scheme for sorting them comes from outside the text.
+That argument cannot be outflanked by someone with better dates.</p>
+<p><em>Living document — verify before deploying. Claims here are
+checked as of August 2026 but this is a summary, not a source.</em></p>
+</section>
+</main>
+<button id="top" aria-label="Back to top">↑</button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy */
+const heads=$$('h2[id],h3[id]');
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+/* audit toggles */
+let openAll=false;
+const ta=$('#toggleAudits'); if(ta) ta.addEventListener('click',e=>{
+  openAll=!openAll; $$('.audit').forEach(d=>d.open=openAll);
+  e.target.classList.toggle('on',openAll);
+  e.target.textContent=openAll?'Collapse all audits':'Expand all audits';
+});
+/* status filter */
+$$('.filt').forEach(b=>b.addEventListener('click',()=>{
+  const on=b.classList.toggle('on');
+  $$('.filt').forEach(o=>{if(o!==b)o.classList.remove('on')});
+  const st=b.dataset.st;
+  if(!on){sec.forEach(s=>s.classList.remove('dim'));return}
+  sec.forEach(s=>s.classList.toggle('dim',!s.querySelector(`.audit[data-status="${st}"]`)));
+  $$('.audit').forEach(d=>d.open=d.dataset.status===st);
+}));
+
+/* xref flash + open target audit */
+addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a)return;
+  const t=$(a.getAttribute('href')); if(!t)return;
+  const d=t.closest('details'); if(d)d.open=true;
+  const dd=t.matches('details')?t:null; if(dd)dd.open=true;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+});
+if(location.hash){const t=$(location.hash);const d=t&&t.closest('details');if(d)d.open=true;}
+
+$$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
+  const t=g.querySelector('.tip'); g.classList.remove('flip');
+  if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
+}));
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script></body></html>
