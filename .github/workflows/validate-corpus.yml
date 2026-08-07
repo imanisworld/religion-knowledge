@@ -58,6 +58,12 @@ jobs:
       - name: Render app in phone-sized Chromium
         run: bash scripts/test-browser.sh
 
+      - name: Build standalone bundle
+        run: npm run build:standalone
+
+      - name: Verify committed standalone bundle matches build output
+        run: git diff --exit-code -- dist/religion-knowledge-standalone.html
+
       - name: Preserve generated records for private review
         uses: actions/upload-artifact@v4
         with:

@@ -6,6 +6,10 @@
   function safeSourceHref(sourceFile) {
     if (typeof sourceFile !== 'string') return null;
     if (!/^[A-Za-z0-9_.-]+\.md$/.test(sourceFile)) return null;
+    const embeddedSources = window.RELIGION_KNOWLEDGE_SOURCE_URIS && typeof window.RELIGION_KNOWLEDGE_SOURCE_URIS === 'object'
+      ? window.RELIGION_KNOWLEDGE_SOURCE_URIS
+      : null;
+    if (embeddedSources && embeddedSources[sourceFile]) return embeddedSources[sourceFile];
     return `../${encodeURIComponent(sourceFile)}`;
   }
 

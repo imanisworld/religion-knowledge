@@ -27,10 +27,14 @@
   library.id = 'source-library';
   library.setAttribute('aria-label', 'Canonical source documents');
 
+  const embeddedSources = window.RELIGION_KNOWLEDGE_SOURCE_URIS && typeof window.RELIGION_KNOWLEDGE_SOURCE_URIS === 'object'
+    ? window.RELIGION_KNOWLEDGE_SOURCE_URIS
+    : null;
+
   const cards = canonical.map(([file, title]) => {
     const fileRecords = records.filter((record) => record.source_file === file);
     const review = fileRecords.filter((record) => record.review_required || record.provenance_type === 'REVIEW_REQUIRED').length;
-    const href = `../${encodeURIComponent(file)}`;
+    const href = (embeddedSources && embeddedSources[file]) || `../${encodeURIComponent(file)}`;
     return `
       <article class="record-card source-library-card" data-source-library-file="${escapeHtml(file)}">
         <div class="record-meta"><span class="badge source">CANONICAL SOURCE</span></div>
