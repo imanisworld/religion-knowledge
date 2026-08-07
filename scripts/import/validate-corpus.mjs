@@ -4,7 +4,7 @@ import crypto from 'node:crypto';
 import { parseMarkdown, PARSER_VERSION } from './parse-markdown.mjs';
 
 const root = process.cwd();
-const excludedMarkdown = new Set(['README.md']);
+const excludedMarkdown = new Set(['README.md', 'CLAUDE.md']);
 const rootFiles = fs.readdirSync(root, { withFileTypes: true })
   .filter((entry) => entry.isFile())
   .map((entry) => entry.name)

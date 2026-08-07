@@ -173,6 +173,17 @@ p { line-height: 1.55; }
   font-weight: 700;
 }
 
+.secondary-button.needs-backup { border-color: var(--warning); }
+.secondary-button.needs-backup::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 8px;
+  border-radius: 50%;
+  background: var(--warning);
+}
+
 .filter-button {
   display: inline-flex;
   align-items: center;
@@ -262,6 +273,39 @@ p { line-height: 1.55; }
 }
 .stat-card strong { display: block; font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; }
 .stat-card span { display: block; margin-top: 2px; color: var(--subtle); font-family: var(--f-mono); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+button.stat-card { text-align: left; cursor: pointer; }
+button.stat-card:hover,
+button.stat-card:focus-visible { border-color: var(--accent); }
+
+.continue-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-color: var(--accent);
+}
+.continue-card h2 { margin-bottom: 6px; }
+.continue-card p:last-child { color: var(--accent); font-weight: 600; }
+.continue-card:hover,
+.continue-card:focus-visible { box-shadow: 0 12px 36px rgba(31,94,91,.18); }
+
+.topic-chip-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.topic-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  padding: 0 15px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  font-size: .9rem;
+}
+.topic-chip span { color: var(--subtle); font-family: var(--f-mono); font-size: .7rem; }
+.topic-chip:hover,
+.topic-chip:focus-visible { border-color: var(--accent); color: var(--accent); }
 
 .section-block { margin: 24px 0; }
 .section-heading {
@@ -315,7 +359,11 @@ p { line-height: 1.55; }
   text-transform: uppercase;
 }
 .badge.mine { background: var(--mark-you-bg); color: var(--mark-you-text); border-color: var(--mark-you-border); }
-.badge.review { color: var(--warning); }
+.badge.review {
+  background: color-mix(in srgb, var(--warning) 14%, var(--panel-2));
+  color: var(--warning);
+  border-color: color-mix(in srgb, var(--warning) 45%, var(--line));
+}
 .badge.source { background: var(--mark-doc-bg); color: var(--mark-doc-text); border-color: var(--mark-doc-border); }
 .badge.ai { background: var(--mark-inf-bg); color: var(--mark-inf-text); border-color: var(--mark-inf-border); }
 
@@ -479,11 +527,61 @@ p { line-height: 1.55; }
 #review-progress,
 #search-summary { margin-top: 4px; }
 
+.side-nav { display: none; }
+
 @media (min-width: 720px) {
   .app-shell { padding-left: 24px; padding-right: 24px; }
   .stats-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
   .topic-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
   .filter-panel { grid-template-columns: 1fr 1fr auto; align-items: end; }
+}
+
+/* Desktop: persistent sidebar navigation replaces the phone tab bar, and the
+   extra width goes to real columns instead of stretched phone cards. */
+@media (min-width: 1024px) {
+  .app-shell {
+    width: min(100%, 1280px);
+    display: grid;
+    grid-template-columns: 220px minmax(0, 1fr);
+    column-gap: 32px;
+    align-items: start;
+    padding-bottom: 32px;
+  }
+
+  .side-nav {
+    display: grid;
+    gap: 4px;
+    grid-column: 1;
+    grid-row: 1 / span 4;
+    position: sticky;
+    top: 16px;
+    padding-top: 74px;
+  }
+  .side-item {
+    grid-template-columns: 26px 1fr;
+    display: grid;
+    justify-items: start;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 12px;
+    text-align: left;
+  }
+  .side-item span { font-size: 1rem; }
+  .side-item small { font-size: .84rem; font-weight: 650; }
+
+  .topbar,
+  .search-strip,
+  .filter-panel,
+  main { grid-column: 2; }
+
+  .bottom-nav { display: none; }
+
+  .card-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .compare-list { grid-template-columns: 1fr; }
+  .topic-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
+  .stats-grid { grid-template-columns: repeat(5, minmax(0,1fr)); }
+  .record-dialog { width: min(calc(100% - 48px), 840px); }
+  .hero-card { max-width: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -494,6 +592,18 @@ p { line-height: 1.55; }
 </head>
 <body>
   <div class="app-shell">
+    <nav class="side-nav" aria-label="Primary navigation">
+      <button class="nav-item side-item" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
+      <button class="nav-item side-item" type="button" data-view="thoughts"><span>✎</span><small>My Thoughts</small></button>
+      <button class="nav-item side-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
+      <button class="nav-item side-item" type="button" data-view="questions"><span>?</span><small>Questions</small></button>
+      <button class="nav-item side-item" type="button" data-view="sources"><span>§</span><small>Sources</small></button>
+      <button class="nav-item side-item" type="button" data-view="ai"><span>✦</span><small>AI Analysis</small></button>
+      <button class="nav-item side-item" type="button" data-view="audits"><span>✓</span><small>Audits</small></button>
+      <button class="nav-item side-item" type="button" data-view="compare"><span>⇄</span><small>Compare</small></button>
+      <button class="nav-item side-item" type="button" data-view="positions"><span>◆</span><small>Position History</small></button>
+      <button class="nav-item side-item" type="button" data-view="review"><span>!</span><small>Review Queue</small></button>
+    </nav>
     <header class="topbar">
       <div>
         <p class="eyebrow">Religion Knowledge</p>
@@ -515,14 +625,18 @@ p { line-height: 1.55; }
         Provenance
         <select id="provenance-filter">
           <option value="ALL">All</option>
-          <option value="MY_WORDS">My words</option>
-          <option value="MY_POSITION">My position</option>
-          <option value="MY_QUESTION">My question</option>
-          <option value="CLAUDE">Claude</option>
-          <option value="CHATGPT">ChatGPT</option>
+          <optgroup label="Mine">
+            <option value="MY_WORDS">My words</option>
+            <option value="MY_POSITION">My position</option>
+            <option value="MY_QUESTION">My question</option>
+          </optgroup>
+          <optgroup label="AI Analysis">
+            <option value="CLAUDE">Claude</option>
+            <option value="CHATGPT">ChatGPT</option>
+            <option value="INFERENCE">Inference</option>
+          </optgroup>
           <option value="SOURCE">Source</option>
-          <option value="INFERENCE">Inference</option>
-          <option value="REVIEW_REQUIRED">Review required</option>
+          <option value="REVIEW_REQUIRED">Needs review</option>
         </select>
       </label>
       <label>
@@ -547,14 +661,19 @@ p { line-height: 1.55; }
 
     <main id="main-content" tabindex="-1">
       <section id="view-home" class="view active" data-title="Home">
-        <div class="hero-card">
-          <p class="eyebrow">Traceable research</p>
-          <h2>Keep your thinking separate from AI interpretation.</h2>
-          <p>Every normalized item should retain who said it, how it was represented, and where it came from.</p>
-        </div>
+        <div id="home-lead"></div>
         <div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div>
         <section class="section-block">
-          <div class="section-heading"><h2>Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <div class="section-heading"><h2>What am I studying?</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
+          <div id="home-topics" class="topic-chip-row"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-questions-heading">Open questions</h2><button class="text-button" type="button" data-go="questions">All questions</button></div>
+          <div id="home-questions-list" class="card-list"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-review-heading">Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <p id="home-backup-status" class="muted" hidden></p>
           <div id="home-review-list" class="card-list"></div>
         </section>
         <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>
@@ -583,7 +702,7 @@ p { line-height: 1.55; }
 
     <nav class="bottom-nav" aria-label="Primary navigation">
       <button class="nav-item active" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
-      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Mine</small></button>
+      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Thoughts</small></button>
       <button class="nav-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
       <button class="nav-item" type="button" data-view="review"><span>!</span><small>Review</small></button>
       <button class="nav-item" type="button" id="nav-more" aria-haspopup="dialog" aria-controls="more-sheet"><span>⋯</span><small>More</small></button>
@@ -40944,6 +41063,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     : {};
 
   const OVERRIDE_STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const RESUME_STORAGE_KEY = 'religion-knowledge-resume-v1';
   const LIST_PAGE_SIZE = 60;
   const ALLOWED_OVERRIDE_TYPES = [
     'MY_WORDS',
@@ -41022,10 +41142,166 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   };
 
   const MORE_SHEET_VIEWS = ['audits', 'questions', 'sources', 'ai', 'compare', 'positions'];
+  const VIEW_NAMES = ['home', 'thoughts', 'topics', 'questions', 'sources', 'ai', 'audits', 'compare', 'positions', 'review', 'search'];
 
   const $ = (id) => document.getElementById(id);
   const views = [...document.querySelectorAll('.view')];
   const navItems = [...document.querySelectorAll('.nav-item')];
+
+  // --- Hash routing -------------------------------------------------------
+  // Views, search/filter state, and open records are mirrored into
+  // location.hash so they are bookmarkable and survive reloads. Everything
+  // degrades to a no-op where the environment disallows it (some file://
+  // webviews reject history calls) — the app then behaves exactly as before.
+  let openRecordId = null;
+  let syncingHash = false;
+  let routerClosing = false;
+
+  function hashForState() {
+    if (openRecordId) return `#/record/${encodeURIComponent(openRecordId)}`;
+    if (state.view === 'search') {
+      const params = new URLSearchParams();
+      if (state.query.trim()) params.set('q', state.query.trim());
+      if (state.provenance !== 'ALL') params.set('prov', state.provenance);
+      if (state.type !== 'ALL') params.set('type', state.type);
+      const encoded = params.toString();
+      return encoded ? `#/search?${encoded}` : '#/search';
+    }
+    if (state.view === 'ai' && state.aiSource !== 'CLAUDE') return `#/ai?src=${encodeURIComponent(state.aiSource)}`;
+    return `#/${state.view}`;
+  }
+
+  function writeHash(hash, push) {
+    if (location.hash === hash) return;
+    syncingHash = true;
+    try {
+      if (push) history.pushState(null, '', hash);
+      else history.replaceState(null, '', hash);
+    } catch {
+      try { location.replace(hash); } catch { /* immutable environment — skip */ }
+    }
+    // hashchange only fires for location.* writes, and asynchronously; clear
+    // the guard on the next tick either way.
+    setTimeout(() => { syncingHash = false; }, 0);
+  }
+
+  function syncHash(options = {}) {
+    writeHash(hashForState(), Boolean(options.push));
+    saveResumeState();
+  }
+
+  function saveResumeState() {
+    try {
+      const record = openRecordId ? baseRecords.find((r) => r.id === openRecordId) : null;
+      const active = document.querySelector(`#view-${state.view}`);
+      const recordTitle = record ? String(record.title || record.text || '').trim() : '';
+      localStorage.setItem(RESUME_STORAGE_KEY, JSON.stringify({
+        hash: hashForState(),
+        view: state.view,
+        viewTitle: active?.dataset.title || 'Home',
+        recordId: openRecordId,
+        recordTitle: recordTitle ? (recordTitle.length > 80 ? `${recordTitle.slice(0, 77)}…` : recordTitle) : null,
+        updated_at: new Date().toISOString(),
+      }));
+    } catch { /* private mode / storage denied — resume simply stays off */ }
+  }
+
+  function loadResumeState() {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(RESUME_STORAGE_KEY) || 'null');
+      return parsed && typeof parsed === 'object' && typeof parsed.hash === 'string' ? parsed : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function parseHash(raw) {
+    if (typeof raw !== 'string' || !raw.startsWith('#/')) return null;
+    const [path, queryString] = raw.slice(2).split('?');
+    const params = new URLSearchParams(queryString || '');
+    const [head, ...rest] = path.split('/');
+    if (head === 'record' && rest.length) return { kind: 'record', id: decodeURIComponent(rest.join('/')) };
+    if (head === 'topic' && rest.length) return { kind: 'topic', topic: decodeURIComponent(rest.join('/')) };
+    if (head === 'search') {
+      return {
+        kind: 'search',
+        query: params.get('q') || '',
+        provenance: params.get('prov') || 'ALL',
+        type: params.get('type') || 'ALL',
+      };
+    }
+    if (VIEW_NAMES.includes(head)) return { kind: 'view', view: head, aiSource: params.get('src') || null };
+    return null;
+  }
+
+  function closeDialogFromRouter() {
+    const dialog = $('record-dialog');
+    if (dialog?.open) {
+      routerClosing = true;
+      dialog.close();
+      routerClosing = false;
+    }
+    openRecordId = null;
+  }
+
+  function applyFilterState(query, provenance, type) {
+    state.query = query;
+    state.provenance = ALLOWED_OVERRIDE_TYPES.includes(provenance) || provenance === 'ALL' ? provenance : 'ALL';
+    state.type = type;
+    resetListLimits();
+    const search = $('search-input');
+    if (search) search.value = state.query;
+    const provSelect = $('provenance-filter');
+    if (provSelect) provSelect.value = state.provenance;
+    const typeSelect = $('type-filter');
+    if (typeSelect && [...typeSelect.options].some((o) => o.value === state.type)) typeSelect.value = state.type;
+    else state.type = 'ALL';
+  }
+
+  function route() {
+    try {
+      const parsed = parseHash(location.hash);
+      if (!parsed) {
+        closeDialogFromRouter();
+        showView('home', { silent: true });
+        syncHash();
+        return;
+      }
+      if (parsed.kind === 'record') {
+        const exists = baseRecords.some((r) => r.id === parsed.id);
+        if (!exists) {
+          closeDialogFromRouter();
+          showView('home', { silent: true });
+          syncHash();
+          return;
+        }
+        openRecord(parsed.id, { silent: true });
+        return;
+      }
+      closeDialogFromRouter();
+      if (parsed.kind === 'topic') {
+        applyFilterState(parsed.topic, 'ALL', 'ALL');
+        renderAll();
+        showView('search', { silent: true });
+        return;
+      }
+      if (parsed.kind === 'search') {
+        applyFilterState(parsed.query, parsed.provenance, parsed.type);
+        renderAll();
+        showView('search', { silent: true });
+        return;
+      }
+      if (parsed.view === 'ai' && parsed.aiSource && ['CLAUDE', 'CHATGPT', 'INFERENCE'].includes(parsed.aiSource)) {
+        state.aiSource = parsed.aiSource;
+        document.querySelectorAll('[data-ai]').forEach((button) => button.classList.toggle('active', button.dataset.ai === parsed.aiSource));
+        renderAI();
+      }
+      showView(parsed.view, { silent: true });
+    } catch {
+      showView('home', { silent: true });
+    }
+  }
+  // ------------------------------------------------------------------------
 
   function escapeHtml(value) {
     return String(value ?? '')
@@ -41047,6 +41323,22 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   function label(value) {
     return String(value ?? '').replaceAll('_', ' ');
   }
+
+  // Badge copy only — the dialog's detail rows keep the raw enum labels,
+  // since that surface is the attribution audit trail.
+  function badgeText(provenance) {
+    return provenance === 'REVIEW_REQUIRED' ? 'NEEDS REVIEW' : label(provenance);
+  }
+
+  const DOC_TITLES = {
+    'Bible_Deep_Dive_Master_Notes.md': 'Master Notes',
+    'Field_Guide_Conversation_Reference.md': 'Field Guide',
+    'Glossary.md': 'Glossary',
+    'Historical_Framework.md': 'Historical Framework',
+    'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',
+    'The_Other_Side.md': 'The Other Side',
+    'Translations.md': 'Translations',
+  };
 
   function resetListLimits() {
     state.listLimits = {};
@@ -41080,21 +41372,26 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   function card(record) {
     const title = record.title || record.text || 'Untitled record';
     const preview = record.text || record.raw_text || '';
-    const badges = [record.provenance_type, record.representation_type, record.record_type]
-      .filter(Boolean)
-      .map((item, index) => {
-        const cls = index === 0 ? badgeClass(record.provenance_type) : '';
-        return `<span class="badge ${cls}">${escapeHtml(label(item))}</span>`;
-      })
-      .join('');
-    const overrideBadge = record.override_applied ? '<span class="badge">MANUAL REVIEW</span>' : '';
+    // Card faces stay lean: provenance (the at-a-glance fact), record type
+    // only when it says more than the default OBSERVATION, and a REVIEWED
+    // stamp for overridden records. Representation and full attribution
+    // detail live in the record dialog.
+    const badges = [`<span class="badge ${badgeClass(record.provenance_type)}">${escapeHtml(badgeText(record.provenance_type))}</span>`];
+    if (record.record_type && record.record_type !== 'OBSERVATION') {
+      badges.push(`<span class="badge">${escapeHtml(label(record.record_type))}</span>`);
+    }
+    if (record.override_applied) badges.push('<span class="badge">REVIEWED</span>');
+
+    const docTitle = DOC_TITLES[record.source_file] || record.source_file || '';
+    const sectionParts = typeof record.source_section === 'string' ? record.source_section.split(' > ') : [];
+    const sectionLeaf = sectionParts.length > 1 ? sectionParts[sectionParts.length - 1] : '';
 
     return `
       <button class="record-card" type="button" data-record-id="${escapeHtml(record.id)}">
-        <div class="record-meta">${badges}${overrideBadge}</div>
+        <div class="record-meta">${badges.join('')}</div>
         <h3>${escapeHtml(title.length > 110 ? `${title.slice(0, 107)}…` : title)}</h3>
         ${preview && preview !== title ? `<p>${escapeHtml(preview.length > 220 ? `${preview.slice(0, 217)}…` : preview)}</p>` : ''}
-        ${record.source_file ? `<p class="record-source">${escapeHtml(record.source_file)}${record.source_section ? ` · ${escapeHtml(record.source_section)}` : ''}</p>` : ''}
+        ${record.source_file ? `<p class="record-source">${escapeHtml(docTitle)}${sectionLeaf ? ` · ${escapeHtml(sectionLeaf)}` : ''}</p>` : ''}
       </button>`;
   }
 
@@ -41130,27 +41427,81 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     const audits = records.filter((r) => ['AUDIT', 'AUDIT_NOTE', 'AUDIT_STATUS', 'CORRECTION', 'AUDIT_SURVIVAL', 'AUDIT_REASONING'].includes(r.record_type)).length;
     const sources = records.filter((r) => r.provenance_type === 'SOURCE').length;
     const stats = [
-      ['Records', records.length],
-      ['Provably mine', mine],
-      ['Audits', audits],
-      ['Review', review],
-      ['Sources', sources],
+      ['Records', records.length, 'search'],
+      ['My thoughts', mine, 'thoughts'],
+      ['Audits', audits, 'audits'],
+      ['Review', review, 'review'],
+      ['Sources', sources, 'sources'],
     ];
 
-    $('stats-grid').innerHTML = stats.map(([name, count]) => `
-      <div class="stat-card"><strong>${count}</strong><span>${escapeHtml(name)}</span></div>
+    $('stats-grid').innerHTML = stats.map(([name, count, target]) => `
+      <button class="stat-card" type="button" data-go="${escapeHtml(target)}"><strong>${count}</strong><span>${escapeHtml(name)}</span></button>
     `).join('');
+  }
+
+  function renderHomeLead() {
+    const lead = $('home-lead');
+    if (!lead) return;
+    const resume = loadResumeState();
+    if (resume && resume.hash && resume.hash !== '#/home') {
+      const title = resume.recordTitle || resume.viewTitle || 'Where you left off';
+      const context = resume.recordTitle ? `Record · ${resume.viewTitle || 'Home'}` : (resume.viewTitle || '');
+      lead.innerHTML = `
+        <a class="hero-card continue-card" href="${escapeHtml(resume.hash)}">
+          <p class="eyebrow">Continue where you left off</p>
+          <h2>${escapeHtml(title)}</h2>
+          <p>${escapeHtml(context)} →</p>
+        </a>`;
+    } else {
+      lead.innerHTML = `
+        <div class="hero-card">
+          <p class="eyebrow">Traceable research</p>
+          <h2>Keep your thinking separate from AI interpretation.</h2>
+          <p>Every record keeps who said it, how it was represented, and where it came from.</p>
+        </div>`;
+    }
+  }
+
+  function topicCounts(records) {
+    const counts = new Map();
+    records.forEach((record) => {
+      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
+    });
+    return counts;
+  }
+
+  function renderHomeTopics() {
+    const target = $('home-topics');
+    if (!target) return;
+    const top = [...topicCounts(currentRecords()).entries()]
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .slice(0, 6);
+    target.innerHTML = top.length
+      ? top.map(([topic, count]) => `<a class="topic-chip" href="#/topic/${encodeURIComponent(topic)}">${escapeHtml(topic)}<span>${count}</span></a>`).join('')
+      : emptyState('No topics yet', 'Topic metadata appears after corpus normalization.');
+  }
+
+  function renderHomeQuestions() {
+    const questions = currentRecords().filter((r) => r.provenance_type === 'MY_QUESTION' || r.record_type === 'QUESTION');
+    const heading = $('home-questions-heading');
+    if (heading) heading.textContent = questions.length ? `Open questions · ${questions.length}` : 'Open questions';
+    renderList('home-questions-list', questions.slice(0, 3), 'No questions normalized yet', 'Questions appear here as the corpus grows.', { unbounded: true });
   }
 
   function renderHome() {
     const records = currentRecords();
-    const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').slice(0, 4);
+    const reviewAll = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED');
     const recent = [...records]
       .sort((a, b) => String(b.original_date || '').localeCompare(String(a.original_date || '')))
-      .slice(0, 6);
+      .slice(0, 3);
 
+    renderHomeLead();
     renderStats();
-    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
+    renderHomeTopics();
+    renderHomeQuestions();
+    const reviewHeading = $('home-review-heading');
+    if (reviewHeading) reviewHeading.textContent = reviewAll.length ? `Needs attention · ${reviewAll.length}` : 'Needs attention';
+    renderList('home-review-list', reviewAll.slice(0, 4), 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
     renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.', { unbounded: true });
   }
 
@@ -41207,11 +41558,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   }
 
   function renderTopics() {
-    const counts = new Map();
-    filteredRecords().forEach((record) => {
-      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
-    });
-    let topics = [...counts.entries()];
+    let topics = [...topicCounts(filteredRecords()).entries()];
     const topicQuery = state.topicQuery.trim().toLowerCase();
     if (topicQuery) topics = topics.filter(([topic]) => topic.toLowerCase().includes(topicQuery));
     topics = state.topicSort === 'alpha'
@@ -41238,7 +41585,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   function renderCompare() {
     const chains = buildChains();
     $('compare-list').innerHTML = chains.length
-      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(label(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
+      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(badgeText(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(DOC_TITLES[item.source_file] || item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
       : emptyState('No comparison chains yet', 'Comparison requires source-backed relationships between original words, AI interpretation, evidence, audits, and later positions.');
   }
 
@@ -41277,7 +41624,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     renderFilterBadge();
   }
 
-  function showView(name) {
+  function showView(name, options = {}) {
     state.view = name;
     views.forEach((view) => view.classList.toggle('active', view.id === `view-${name}`));
     navItems.forEach((item) => item.classList.toggle('active', item.dataset.view === name));
@@ -41287,6 +41634,10 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     $('page-title').textContent = active?.dataset.title || 'Religion Knowledge';
     $('main-content').focus({ preventScroll: true });
     window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (!options.silent) {
+      openRecordId = null;
+      syncHash({ push: true });
+    }
   }
 
   function reviewControls(record) {
@@ -41314,7 +41665,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
       </section>`;
   }
 
-  function openRecord(id) {
+  function openRecord(id, options = {}) {
     const base = baseRecords.find((r) => r.id === id);
     if (!base) return;
     const record = effectiveRecord(base);
@@ -41339,7 +41690,10 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
 
     const override = getOverride(record.id);
     if (override?.note) $('review-note').value = override.note;
-    $('record-dialog').showModal();
+    const dialog = $('record-dialog');
+    if (!dialog.open) dialog.showModal();
+    openRecordId = id;
+    syncHash({ push: !options.silent && location.hash !== `#/record/${encodeURIComponent(id)}` });
   }
 
   function applyReviewOverride(recordId) {
@@ -41467,22 +41821,35 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     state.query = event.target.value;
     state.listLimits['search-results'] = LIST_PAGE_SIZE;
     renderSearch();
-    if (state.query.trim()) showView('search');
-    else if (state.view === 'search') showView('home');
+    // Typing must not spam browser history: navigate silently and mirror the
+    // hash with replace instead of push.
+    if (state.query.trim()) {
+      showView('search', { silent: true });
+      openRecordId = null;
+      syncHash();
+    } else if (state.view === 'search') {
+      showView('home', { silent: true });
+      openRecordId = null;
+      syncHash();
+    }
   });
 
   $('provenance-filter').addEventListener('change', (event) => {
     state.provenance = event.target.value;
     resetListLimits();
     renderAll();
-    showView('search');
+    showView('search', { silent: true });
+    openRecordId = null;
+    syncHash();
   });
 
   $('type-filter').addEventListener('change', (event) => {
     state.type = event.target.value;
     resetListLimits();
     renderAll();
-    showView('search');
+    showView('search', { silent: true });
+    openRecordId = null;
+    syncHash();
   });
 
   $('clear-filters').addEventListener('click', () => {
@@ -41506,13 +41873,24 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
 
   $('dialog-close').addEventListener('click', () => $('record-dialog').close());
 
+  $('record-dialog').addEventListener('close', () => {
+    if (routerClosing) return;
+    openRecordId = null;
+    syncHash();
+  });
+
+  window.addEventListener('hashchange', () => {
+    if (syncingHash) return;
+    route();
+  });
+
   try {
     const saved = localStorage.getItem('religion-knowledge-theme');
     if (saved) document.documentElement.dataset.theme = saved;
   } catch {}
 
   renderAll();
-  showView('home');
+  route();
 })();
 </script>
   <script>
@@ -41539,10 +41917,28 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     return (embeddedSources && embeddedSources[sourceFile]) || null;
   }
 
-  function safeSourceHref(sourceFile) {
+  // Reader headings carry id="s<num>" anchors (dots as dashes: "3.2" → "s3-2").
+  // The record's source_section breadcrumb ends in the most specific section;
+  // audit sub-blocks have no leading numeral, so walk backwards to the nearest
+  // numbered ancestor. No numeral anywhere → '' (link to the reader top).
+  function sectionAnchor(sourceSection) {
+    if (typeof sourceSection !== 'string') return '';
+    const segments = sourceSection.split(' > ');
+    for (let i = segments.length - 1; i >= 0; i -= 1) {
+      const match = segments[i].match(/^\s*(\d+(?:\.\d+)*)[.)]?\s/);
+      if (match) return `#s${match[1].replaceAll('.', '-')}`;
+    }
+    return '';
+  }
+
+  function safeSourceHref(sourceFile, sourceSection) {
     if (typeof sourceFile !== 'string') return null;
     if (!/^[A-Za-z0-9_.-]+\.md$/.test(sourceFile)) return null;
-    return embeddedHref(sourceFile) || `../${encodeURIComponent(READERS[sourceFile] || sourceFile)}`;
+    const embedded = embeddedHref(sourceFile);
+    if (embedded) return embedded;
+    const reader = READERS[sourceFile];
+    const anchor = reader ? sectionAnchor(sourceSection) : '';
+    return `../${encodeURIComponent(reader || sourceFile)}${anchor}`;
   }
 
   function addOriginalSourceLink(recordId) {
@@ -41550,7 +41946,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     const body = document.getElementById('dialog-body');
     if (!record || !body || body.querySelector('[data-original-source-link]')) return;
 
-    const href = safeSourceHref(record.source_file);
+    const href = safeSourceHref(record.source_file, record.source_section);
     if (!href) return;
 
     const section = document.createElement('section');
@@ -41570,9 +41966,14 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     link.rel = 'noopener';
     link.className = 'secondary-button original-source-link';
     link.dataset.originalSourceLink = 'true';
+    const anchor = !embeddedHref(record.source_file) && READERS[record.source_file]
+      ? sectionAnchor(record.source_section)
+      : '';
     link.textContent = embeddedHref(record.source_file)
       ? 'Open source (offline copy)'
-      : (READERS[record.source_file] ? 'Open reader' : 'Open original source');
+      : (READERS[record.source_file]
+        ? (anchor ? `Open reader · §${anchor.slice(2).replaceAll('-', '.')}` : 'Open reader')
+        : 'Open original source');
 
     section.append(title, detail, link);
     const editor = body.querySelector('.review-editor');
@@ -41594,6 +41995,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
 /* review-backup.js */
 (() => {
   const STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const META_KEY = 'religion-knowledge-review-backup-meta-v1';
   const BACKUP_VERSION = 1;
   const ALLOWED = new Set([
     'MY_WORDS', 'MY_POSITION', 'MY_QUESTION', 'CLAUDE',
@@ -41607,6 +42009,95 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     } catch {
       return {};
     }
+  }
+
+  function readMeta() {
+    try {
+      const value = JSON.parse(localStorage.getItem(META_KEY) || 'null');
+      return value && typeof value === 'object' ? value : { last_exported_at: null };
+    } catch {
+      return { last_exported_at: null };
+    }
+  }
+
+  function writeMeta(meta) {
+    try { localStorage.setItem(META_KEY, JSON.stringify(meta)); } catch {}
+  }
+
+  // Decisions that exist only in this browser: never exported, or saved/edited
+  // since the last export. These are the ones lost if the browser data goes.
+  function unexportedCount() {
+    const overrides = readOverrides();
+    const lastExport = readMeta().last_exported_at;
+    const ids = Object.keys(overrides);
+    if (!ids.length) return 0;
+    if (!lastExport) return ids.length;
+    return ids.filter((id) => {
+      const updated = overrides[id]?.updated_at;
+      return !updated || updated > lastExport;
+    }).length;
+  }
+
+  function renderBackupStatus() {
+    const total = Object.keys(readOverrides()).length;
+    const unexported = unexportedCount();
+    const lastExport = readMeta().last_exported_at;
+
+    const status = document.getElementById('review-backup-status');
+    if (status && !status.dataset.transient) {
+      if (unexported > 0) {
+        status.textContent = `${unexported} review decision${unexported === 1 ? '' : 's'} exist${unexported === 1 ? 's' : ''} only in this browser — export a backup.`;
+      } else if (total > 0 && lastExport) {
+        status.textContent = `All ${total} review decision${total === 1 ? '' : 's'} backed up (last export ${lastExport.slice(0, 10)}).`;
+      } else {
+        status.textContent = '';
+      }
+    }
+
+    const homeStatus = document.getElementById('home-backup-status');
+    if (homeStatus) {
+      if (unexported > 0) {
+        homeStatus.textContent = `${unexported} review decision${unexported === 1 ? '' : 's'} exist only in this browser. Export a backup from the Review Queue.`;
+        homeStatus.hidden = false;
+      } else {
+        homeStatus.textContent = '';
+        homeStatus.hidden = true;
+      }
+    }
+
+    const exportButton = document.getElementById('export-review-backup');
+    if (exportButton) exportButton.classList.toggle('needs-backup', unexported > 0);
+  }
+
+  function exportBackup() {
+    const overrides = readOverrides();
+    const exportedAt = new Date().toISOString();
+    const payload = {
+      schema: 'religion-knowledge-review-backup',
+      version: BACKUP_VERSION,
+      exported_at: exportedAt,
+      overrides,
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
+    const url = URL.createObjectURL(blob);
+    const link = document.createElement('a');
+    link.href = url;
+    link.download = `religion-review-backup-${exportedAt.slice(0, 10)}.json`;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    URL.revokeObjectURL(url);
+    writeMeta({ last_exported_at: exportedAt });
+    const status = document.getElementById('review-backup-status');
+    if (status) {
+      status.dataset.transient = 'true';
+      status.textContent = `Exported ${Object.keys(overrides).length} review decision${Object.keys(overrides).length === 1 ? '' : 's'} · just now.`;
+      setTimeout(() => {
+        delete status.dataset.transient;
+        renderBackupStatus();
+      }, 4000);
+    }
+    renderBackupStatus();
   }
 
   function validateOverrides(candidate) {
@@ -41638,24 +42129,6 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     return cleaned;
   }
 
-  function exportBackup() {
-    const payload = {
-      schema: 'religion-knowledge-review-backup',
-      version: BACKUP_VERSION,
-      exported_at: new Date().toISOString(),
-      overrides: readOverrides(),
-    };
-    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' });
-    const url = URL.createObjectURL(blob);
-    const link = document.createElement('a');
-    link.href = url;
-    link.download = `religion-review-backup-${new Date().toISOString().slice(0, 10)}.json`;
-    document.body.appendChild(link);
-    link.click();
-    link.remove();
-    URL.revokeObjectURL(url);
-  }
-
   async function importBackup(file) {
     if (!file) return;
     const payload = JSON.parse(await file.text());
@@ -41663,6 +42136,17 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
       throw new Error('Unsupported review-backup format.');
     }
     const overrides = validateOverrides(payload.overrides);
+
+    const current = readOverrides();
+    const currentCount = Object.keys(current).length;
+    const incomingCount = Object.keys(overrides).length;
+    if (currentCount > 0 && JSON.stringify(current) !== JSON.stringify(overrides)) {
+      const proceed = window.confirm(
+        `Replace ${currentCount} local review decision${currentCount === 1 ? '' : 's'} with ${incomingCount} from this backup? Your current local decisions will be overwritten.`
+      );
+      if (!proceed) throw new Error('import cancelled — nothing was changed.');
+    }
+
     localStorage.setItem(STORAGE_KEY, JSON.stringify(overrides));
     location.reload();
   }
@@ -41703,6 +42187,17 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
       event.target.value = '';
     }
   });
+
+  // Recompute whenever a review decision is saved or cleared (same targets the
+  // rest of the app watches), and when another tab changes storage.
+  document.addEventListener('click', (event) => {
+    if (event.target.closest('#save-review-override, #save-review-next, #clear-review-override')) {
+      setTimeout(renderBackupStatus, 0);
+    }
+  });
+  window.addEventListener('storage', renderBackupStatus);
+
+  renderBackupStatus();
 })();
 
 </script>

@@ -30,7 +30,7 @@ body{margin:0;overflow-x:hidden;background:var(--ground);color:var(--ink);font-f
   color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
 #rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
   text-transform:uppercase;color:#7F8D88}
-.docswitch{display:flex;gap:.4rem;margin-top:.85rem}
+.docswitch{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.85rem}
 .docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
   letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
   text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
@@ -199,8 +199,8 @@ h2 span.flagmark{color:var(--collapses)}
 
 @media(max-width:1080px){
   :root{--rail:0px}
-  #rail{transform:translateX(-100%);width:300px;transition:transform .22s;inset:0 auto 0 0}
-  #rail.open{transform:none;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  #rail{transform:translateX(-100%);visibility:hidden;width:300px;transition:transform .22s,visibility .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;visibility:visible;box-shadow:0 0 40px rgba(0,0,0,.3)}
   main{padding:0 1.35rem 6rem;max-width:none}
   #menu{display:block!important}
   #progress{left:0}
@@ -215,7 +215,7 @@ h2 span.flagmark{color:var(--collapses)}
   <header>
     <p class="doctitle">Historical Framework</p>
     <p class="docsub">Chronology &amp; evidence</p>
-    <div class="docswitch"><a href="master-notes.html">Master Notes</a><a href="field-guide.html">Field Guide</a><a class="on" href="#">History</a><a href="sources.html">Sources</a><a href="other-side.html">Other Side</a><a href="translations.html">Translations</a><a href="glossary.html">Glossary</a></div>
+    <div class="docswitch"><a class="app-link" href="app/" title="Open the knowledge app">App</a><a href="master-notes.html">Master Notes</a><a href="field-guide.html">Field Guide</a><a class="on" href="#">History</a><a href="sources.html">Sources</a><a href="other-side.html">Other Side</a><a href="translations.html">Translations</a><a href="glossary.html">Glossary</a></div>
   </header>
   <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
   <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> How Historical Evidence Actually Works</a>

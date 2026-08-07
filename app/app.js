@@ -7,6 +7,7 @@
     : {};
 
   const OVERRIDE_STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const RESUME_STORAGE_KEY = 'religion-knowledge-resume-v1';
   const LIST_PAGE_SIZE = 60;
   const ALLOWED_OVERRIDE_TYPES = [
     'MY_WORDS',
@@ -85,10 +86,166 @@
   };
 
   const MORE_SHEET_VIEWS = ['audits', 'questions', 'sources', 'ai', 'compare', 'positions'];
+  const VIEW_NAMES = ['home', 'thoughts', 'topics', 'questions', 'sources', 'ai', 'audits', 'compare', 'positions', 'review', 'search'];
 
   const $ = (id) => document.getElementById(id);
   const views = [...document.querySelectorAll('.view')];
   const navItems = [...document.querySelectorAll('.nav-item')];
+
+  // --- Hash routing -------------------------------------------------------
+  // Views, search/filter state, and open records are mirrored into
+  // location.hash so they are bookmarkable and survive reloads. Everything
+  // degrades to a no-op where the environment disallows it (some file://
+  // webviews reject history calls) — the app then behaves exactly as before.
+  let openRecordId = null;
+  let syncingHash = false;
+  let routerClosing = false;
+
+  function hashForState() {
+    if (openRecordId) return `#/record/${encodeURIComponent(openRecordId)}`;
+    if (state.view === 'search') {
+      const params = new URLSearchParams();
+      if (state.query.trim()) params.set('q', state.query.trim());
+      if (state.provenance !== 'ALL') params.set('prov', state.provenance);
+      if (state.type !== 'ALL') params.set('type', state.type);
+      const encoded = params.toString();
+      return encoded ? `#/search?${encoded}` : '#/search';
+    }
+    if (state.view === 'ai' && state.aiSource !== 'CLAUDE') return `#/ai?src=${encodeURIComponent(state.aiSource)}`;
+    return `#/${state.view}`;
+  }
+
+  function writeHash(hash, push) {
+    if (location.hash === hash) return;
+    syncingHash = true;
+    try {
+      if (push) history.pushState(null, '', hash);
+      else history.replaceState(null, '', hash);
+    } catch {
+      try { location.replace(hash); } catch { /* immutable environment — skip */ }
+    }
+    // hashchange only fires for location.* writes, and asynchronously; clear
+    // the guard on the next tick either way.
+    setTimeout(() => { syncingHash = false; }, 0);
+  }
+
+  function syncHash(options = {}) {
+    writeHash(hashForState(), Boolean(options.push));
+    saveResumeState();
+  }
+
+  function saveResumeState() {
+    try {
+      const record = openRecordId ? baseRecords.find((r) => r.id === openRecordId) : null;
+      const active = document.querySelector(`#view-${state.view}`);
+      const recordTitle = record ? String(record.title || record.text || '').trim() : '';
+      localStorage.setItem(RESUME_STORAGE_KEY, JSON.stringify({
+        hash: hashForState(),
+        view: state.view,
+        viewTitle: active?.dataset.title || 'Home',
+        recordId: openRecordId,
+        recordTitle: recordTitle ? (recordTitle.length > 80 ? `${recordTitle.slice(0, 77)}…` : recordTitle) : null,
+        updated_at: new Date().toISOString(),
+      }));
+    } catch { /* private mode / storage denied — resume simply stays off */ }
+  }
+
+  function loadResumeState() {
+    try {
+      const parsed = JSON.parse(localStorage.getItem(RESUME_STORAGE_KEY) || 'null');
+      return parsed && typeof parsed === 'object' && typeof parsed.hash === 'string' ? parsed : null;
+    } catch {
+      return null;
+    }
+  }
+
+  function parseHash(raw) {
+    if (typeof raw !== 'string' || !raw.startsWith('#/')) return null;
+    const [path, queryString] = raw.slice(2).split('?');
+    const params = new URLSearchParams(queryString || '');
+    const [head, ...rest] = path.split('/');
+    if (head === 'record' && rest.length) return { kind: 'record', id: decodeURIComponent(rest.join('/')) };
+    if (head === 'topic' && rest.length) return { kind: 'topic', topic: decodeURIComponent(rest.join('/')) };
+    if (head === 'search') {
+      return {
+        kind: 'search',
+        query: params.get('q') || '',
+        provenance: params.get('prov') || 'ALL',
+        type: params.get('type') || 'ALL',
+      };
+    }
+    if (VIEW_NAMES.includes(head)) return { kind: 'view', view: head, aiSource: params.get('src') || null };
+    return null;
+  }
+
+  function closeDialogFromRouter() {
+    const dialog = $('record-dialog');
+    if (dialog?.open) {
+      routerClosing = true;
+      dialog.close();
+      routerClosing = false;
+    }
+    openRecordId = null;
+  }
+
+  function applyFilterState(query, provenance, type) {
+    state.query = query;
+    state.provenance = ALLOWED_OVERRIDE_TYPES.includes(provenance) || provenance === 'ALL' ? provenance : 'ALL';
+    state.type = type;
+    resetListLimits();
+    const search = $('search-input');
+    if (search) search.value = state.query;
+    const provSelect = $('provenance-filter');
+    if (provSelect) provSelect.value = state.provenance;
+    const typeSelect = $('type-filter');
+    if (typeSelect && [...typeSelect.options].some((o) => o.value === state.type)) typeSelect.value = state.type;
+    else state.type = 'ALL';
+  }
+
+  function route() {
+    try {
+      const parsed = parseHash(location.hash);
+      if (!parsed) {
+        closeDialogFromRouter();
+        showView('home', { silent: true });
+        syncHash();
+        return;
+      }
+      if (parsed.kind === 'record') {
+        const exists = baseRecords.some((r) => r.id === parsed.id);
+        if (!exists) {
+          closeDialogFromRouter();
+          showView('home', { silent: true });
+          syncHash();
+          return;
+        }
+        openRecord(parsed.id, { silent: true });
+        return;
+      }
+      closeDialogFromRouter();
+      if (parsed.kind === 'topic') {
+        applyFilterState(parsed.topic, 'ALL', 'ALL');
+        renderAll();
+        showView('search', { silent: true });
+        return;
+      }
+      if (parsed.kind === 'search') {
+        applyFilterState(parsed.query, parsed.provenance, parsed.type);
+        renderAll();
+        showView('search', { silent: true });
+        return;
+      }
+      if (parsed.view === 'ai' && parsed.aiSource && ['CLAUDE', 'CHATGPT', 'INFERENCE'].includes(parsed.aiSource)) {
+        state.aiSource = parsed.aiSource;
+        document.querySelectorAll('[data-ai]').forEach((button) => button.classList.toggle('active', button.dataset.ai === parsed.aiSource));
+        renderAI();
+      }
+      showView(parsed.view, { silent: true });
+    } catch {
+      showView('home', { silent: true });
+    }
+  }
+  // ------------------------------------------------------------------------
 
   function escapeHtml(value) {
     return String(value ?? '')
@@ -110,6 +267,22 @@
   function label(value) {
     return String(value ?? '').replaceAll('_', ' ');
   }
+
+  // Badge copy only — the dialog's detail rows keep the raw enum labels,
+  // since that surface is the attribution audit trail.
+  function badgeText(provenance) {
+    return provenance === 'REVIEW_REQUIRED' ? 'NEEDS REVIEW' : label(provenance);
+  }
+
+  const DOC_TITLES = {
+    'Bible_Deep_Dive_Master_Notes.md': 'Master Notes',
+    'Field_Guide_Conversation_Reference.md': 'Field Guide',
+    'Glossary.md': 'Glossary',
+    'Historical_Framework.md': 'Historical Framework',
+    'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',
+    'The_Other_Side.md': 'The Other Side',
+    'Translations.md': 'Translations',
+  };
 
   function resetListLimits() {
     state.listLimits = {};
@@ -143,21 +316,26 @@
   function card(record) {
     const title = record.title || record.text || 'Untitled record';
     const preview = record.text || record.raw_text || '';
-    const badges = [record.provenance_type, record.representation_type, record.record_type]
-      .filter(Boolean)
-      .map((item, index) => {
-        const cls = index === 0 ? badgeClass(record.provenance_type) : '';
-        return `<span class="badge ${cls}">${escapeHtml(label(item))}</span>`;
-      })
-      .join('');
-    const overrideBadge = record.override_applied ? '<span class="badge">MANUAL REVIEW</span>' : '';
+    // Card faces stay lean: provenance (the at-a-glance fact), record type
+    // only when it says more than the default OBSERVATION, and a REVIEWED
+    // stamp for overridden records. Representation and full attribution
+    // detail live in the record dialog.
+    const badges = [`<span class="badge ${badgeClass(record.provenance_type)}">${escapeHtml(badgeText(record.provenance_type))}</span>`];
+    if (record.record_type && record.record_type !== 'OBSERVATION') {
+      badges.push(`<span class="badge">${escapeHtml(label(record.record_type))}</span>`);
+    }
+    if (record.override_applied) badges.push('<span class="badge">REVIEWED</span>');
+
+    const docTitle = DOC_TITLES[record.source_file] || record.source_file || '';
+    const sectionParts = typeof record.source_section === 'string' ? record.source_section.split(' > ') : [];
+    const sectionLeaf = sectionParts.length > 1 ? sectionParts[sectionParts.length - 1] : '';
 
     return `
       <button class="record-card" type="button" data-record-id="${escapeHtml(record.id)}">
-        <div class="record-meta">${badges}${overrideBadge}</div>
+        <div class="record-meta">${badges.join('')}</div>
         <h3>${escapeHtml(title.length > 110 ? `${title.slice(0, 107)}…` : title)}</h3>
         ${preview && preview !== title ? `<p>${escapeHtml(preview.length > 220 ? `${preview.slice(0, 217)}…` : preview)}</p>` : ''}
-        ${record.source_file ? `<p class="record-source">${escapeHtml(record.source_file)}${record.source_section ? ` · ${escapeHtml(record.source_section)}` : ''}</p>` : ''}
+        ${record.source_file ? `<p class="record-source">${escapeHtml(docTitle)}${sectionLeaf ? ` · ${escapeHtml(sectionLeaf)}` : ''}</p>` : ''}
       </button>`;
   }
 
@@ -193,27 +371,81 @@
     const audits = records.filter((r) => ['AUDIT', 'AUDIT_NOTE', 'AUDIT_STATUS', 'CORRECTION', 'AUDIT_SURVIVAL', 'AUDIT_REASONING'].includes(r.record_type)).length;
     const sources = records.filter((r) => r.provenance_type === 'SOURCE').length;
     const stats = [
-      ['Records', records.length],
-      ['Provably mine', mine],
-      ['Audits', audits],
-      ['Review', review],
-      ['Sources', sources],
+      ['Records', records.length, 'search'],
+      ['My thoughts', mine, 'thoughts'],
+      ['Audits', audits, 'audits'],
+      ['Review', review, 'review'],
+      ['Sources', sources, 'sources'],
     ];
 
-    $('stats-grid').innerHTML = stats.map(([name, count]) => `
-      <div class="stat-card"><strong>${count}</strong><span>${escapeHtml(name)}</span></div>
+    $('stats-grid').innerHTML = stats.map(([name, count, target]) => `
+      <button class="stat-card" type="button" data-go="${escapeHtml(target)}"><strong>${count}</strong><span>${escapeHtml(name)}</span></button>
     `).join('');
+  }
+
+  function renderHomeLead() {
+    const lead = $('home-lead');
+    if (!lead) return;
+    const resume = loadResumeState();
+    if (resume && resume.hash && resume.hash !== '#/home') {
+      const title = resume.recordTitle || resume.viewTitle || 'Where you left off';
+      const context = resume.recordTitle ? `Record · ${resume.viewTitle || 'Home'}` : (resume.viewTitle || '');
+      lead.innerHTML = `
+        <a class="hero-card continue-card" href="${escapeHtml(resume.hash)}">
+          <p class="eyebrow">Continue where you left off</p>
+          <h2>${escapeHtml(title)}</h2>
+          <p>${escapeHtml(context)} →</p>
+        </a>`;
+    } else {
+      lead.innerHTML = `
+        <div class="hero-card">
+          <p class="eyebrow">Traceable research</p>
+          <h2>Keep your thinking separate from AI interpretation.</h2>
+          <p>Every record keeps who said it, how it was represented, and where it came from.</p>
+        </div>`;
+    }
+  }
+
+  function topicCounts(records) {
+    const counts = new Map();
+    records.forEach((record) => {
+      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
+    });
+    return counts;
+  }
+
+  function renderHomeTopics() {
+    const target = $('home-topics');
+    if (!target) return;
+    const top = [...topicCounts(currentRecords()).entries()]
+      .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+      .slice(0, 6);
+    target.innerHTML = top.length
+      ? top.map(([topic, count]) => `<a class="topic-chip" href="#/topic/${encodeURIComponent(topic)}">${escapeHtml(topic)}<span>${count}</span></a>`).join('')
+      : emptyState('No topics yet', 'Topic metadata appears after corpus normalization.');
+  }
+
+  function renderHomeQuestions() {
+    const questions = currentRecords().filter((r) => r.provenance_type === 'MY_QUESTION' || r.record_type === 'QUESTION');
+    const heading = $('home-questions-heading');
+    if (heading) heading.textContent = questions.length ? `Open questions · ${questions.length}` : 'Open questions';
+    renderList('home-questions-list', questions.slice(0, 3), 'No questions normalized yet', 'Questions appear here as the corpus grows.', { unbounded: true });
   }
 
   function renderHome() {
     const records = currentRecords();
-    const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').slice(0, 4);
+    const reviewAll = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED');
     const recent = [...records]
       .sort((a, b) => String(b.original_date || '').localeCompare(String(a.original_date || '')))
-      .slice(0, 6);
+      .slice(0, 3);
 
+    renderHomeLead();
     renderStats();
-    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
+    renderHomeTopics();
+    renderHomeQuestions();
+    const reviewHeading = $('home-review-heading');
+    if (reviewHeading) reviewHeading.textContent = reviewAll.length ? `Needs attention · ${reviewAll.length}` : 'Needs attention';
+    renderList('home-review-list', reviewAll.slice(0, 4), 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
     renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.', { unbounded: true });
   }
 
@@ -270,11 +502,7 @@
   }
 
   function renderTopics() {
-    const counts = new Map();
-    filteredRecords().forEach((record) => {
-      (record.topics || []).forEach((topic) => counts.set(topic, (counts.get(topic) || 0) + 1));
-    });
-    let topics = [...counts.entries()];
+    let topics = [...topicCounts(filteredRecords()).entries()];
     const topicQuery = state.topicQuery.trim().toLowerCase();
     if (topicQuery) topics = topics.filter(([topic]) => topic.toLowerCase().includes(topicQuery));
     topics = state.topicSort === 'alpha'
@@ -301,7 +529,7 @@
   function renderCompare() {
     const chains = buildChains();
     $('compare-list').innerHTML = chains.length
-      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(label(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
+      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(badgeText(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(DOC_TITLES[item.source_file] || item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
       : emptyState('No comparison chains yet', 'Comparison requires source-backed relationships between original words, AI interpretation, evidence, audits, and later positions.');
   }
 
@@ -340,7 +568,7 @@
     renderFilterBadge();
   }
 
-  function showView(name) {
+  function showView(name, options = {}) {
     state.view = name;
     views.forEach((view) => view.classList.toggle('active', view.id === `view-${name}`));
     navItems.forEach((item) => item.classList.toggle('active', item.dataset.view === name));
@@ -350,6 +578,10 @@
     $('page-title').textContent = active?.dataset.title || 'Religion Knowledge';
     $('main-content').focus({ preventScroll: true });
     window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (!options.silent) {
+      openRecordId = null;
+      syncHash({ push: true });
+    }
   }
 
   function reviewControls(record) {
@@ -377,7 +609,7 @@
       </section>`;
   }
 
-  function openRecord(id) {
+  function openRecord(id, options = {}) {
     const base = baseRecords.find((r) => r.id === id);
     if (!base) return;
     const record = effectiveRecord(base);
@@ -402,7 +634,10 @@
 
     const override = getOverride(record.id);
     if (override?.note) $('review-note').value = override.note;
-    $('record-dialog').showModal();
+    const dialog = $('record-dialog');
+    if (!dialog.open) dialog.showModal();
+    openRecordId = id;
+    syncHash({ push: !options.silent && location.hash !== `#/record/${encodeURIComponent(id)}` });
   }
 
   function applyReviewOverride(recordId) {
@@ -530,22 +765,35 @@
     state.query = event.target.value;
     state.listLimits['search-results'] = LIST_PAGE_SIZE;
     renderSearch();
-    if (state.query.trim()) showView('search');
-    else if (state.view === 'search') showView('home');
+    // Typing must not spam browser history: navigate silently and mirror the
+    // hash with replace instead of push.
+    if (state.query.trim()) {
+      showView('search', { silent: true });
+      openRecordId = null;
+      syncHash();
+    } else if (state.view === 'search') {
+      showView('home', { silent: true });
+      openRecordId = null;
+      syncHash();
+    }
   });
 
   $('provenance-filter').addEventListener('change', (event) => {
     state.provenance = event.target.value;
     resetListLimits();
     renderAll();
-    showView('search');
+    showView('search', { silent: true });
+    openRecordId = null;
+    syncHash();
   });
 
   $('type-filter').addEventListener('change', (event) => {
     state.type = event.target.value;
     resetListLimits();
     renderAll();
-    showView('search');
+    showView('search', { silent: true });
+    openRecordId = null;
+    syncHash();
   });
 
   $('clear-filters').addEventListener('click', () => {
@@ -569,11 +817,22 @@
 
   $('dialog-close').addEventListener('click', () => $('record-dialog').close());
 
+  $('record-dialog').addEventListener('close', () => {
+    if (routerClosing) return;
+    openRecordId = null;
+    syncHash();
+  });
+
+  window.addEventListener('hashchange', () => {
+    if (syncingHash) return;
+    route();
+  });
+
   try {
     const saved = localStorage.getItem('religion-knowledge-theme');
     if (saved) document.documentElement.dataset.theme = saved;
   } catch {}
 
   renderAll();
-  showView('home');
+  route();
 })();

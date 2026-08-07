@@ -152,6 +152,17 @@ p { line-height: 1.55; }
   font-weight: 700;
 }
 
+.secondary-button.needs-backup { border-color: var(--warning); }
+.secondary-button.needs-backup::after {
+  content: "";
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  margin-left: 8px;
+  border-radius: 50%;
+  background: var(--warning);
+}
+
 .filter-button {
   display: inline-flex;
   align-items: center;
@@ -241,6 +252,39 @@ p { line-height: 1.55; }
 }
 .stat-card strong { display: block; font-family: var(--f-display); font-size: 1.6rem; font-weight: 500; }
 .stat-card span { display: block; margin-top: 2px; color: var(--subtle); font-family: var(--f-mono); font-size: .66rem; font-weight: 600; letter-spacing: .1em; text-transform: uppercase; }
+button.stat-card { text-align: left; cursor: pointer; }
+button.stat-card:hover,
+button.stat-card:focus-visible { border-color: var(--accent); }
+
+.continue-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-color: var(--accent);
+}
+.continue-card h2 { margin-bottom: 6px; }
+.continue-card p:last-child { color: var(--accent); font-weight: 600; }
+.continue-card:hover,
+.continue-card:focus-visible { box-shadow: 0 12px 36px rgba(31,94,91,.18); }
+
+.topic-chip-row { display: flex; flex-wrap: wrap; gap: 8px; }
+.topic-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 42px;
+  padding: 0 15px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  text-decoration: none;
+  color: var(--text);
+  font-weight: 600;
+  font-size: .9rem;
+}
+.topic-chip span { color: var(--subtle); font-family: var(--f-mono); font-size: .7rem; }
+.topic-chip:hover,
+.topic-chip:focus-visible { border-color: var(--accent); color: var(--accent); }
 
 .section-block { margin: 24px 0; }
 .section-heading {
@@ -294,7 +338,11 @@ p { line-height: 1.55; }
   text-transform: uppercase;
 }
 .badge.mine { background: var(--mark-you-bg); color: var(--mark-you-text); border-color: var(--mark-you-border); }
-.badge.review { color: var(--warning); }
+.badge.review {
+  background: color-mix(in srgb, var(--warning) 14%, var(--panel-2));
+  color: var(--warning);
+  border-color: color-mix(in srgb, var(--warning) 45%, var(--line));
+}
 .badge.source { background: var(--mark-doc-bg); color: var(--mark-doc-text); border-color: var(--mark-doc-border); }
 .badge.ai { background: var(--mark-inf-bg); color: var(--mark-inf-text); border-color: var(--mark-inf-border); }
 
@@ -458,11 +506,61 @@ p { line-height: 1.55; }
 #review-progress,
 #search-summary { margin-top: 4px; }
 
+.side-nav { display: none; }
+
 @media (min-width: 720px) {
   .app-shell { padding-left: 24px; padding-right: 24px; }
   .stats-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
   .topic-grid { grid-template-columns: repeat(3, minmax(0,1fr)); }
   .filter-panel { grid-template-columns: 1fr 1fr auto; align-items: end; }
+}
+
+/* Desktop: persistent sidebar navigation replaces the phone tab bar, and the
+   extra width goes to real columns instead of stretched phone cards. */
+@media (min-width: 1024px) {
+  .app-shell {
+    width: min(100%, 1280px);
+    display: grid;
+    grid-template-columns: 220px minmax(0, 1fr);
+    column-gap: 32px;
+    align-items: start;
+    padding-bottom: 32px;
+  }
+
+  .side-nav {
+    display: grid;
+    gap: 4px;
+    grid-column: 1;
+    grid-row: 1 / span 4;
+    position: sticky;
+    top: 16px;
+    padding-top: 74px;
+  }
+  .side-item {
+    grid-template-columns: 26px 1fr;
+    display: grid;
+    justify-items: start;
+    align-items: center;
+    min-height: 44px;
+    padding: 0 12px;
+    text-align: left;
+  }
+  .side-item span { font-size: 1rem; }
+  .side-item small { font-size: .84rem; font-weight: 650; }
+
+  .topbar,
+  .search-strip,
+  .filter-panel,
+  main { grid-column: 2; }
+
+  .bottom-nav { display: none; }
+
+  .card-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .compare-list { grid-template-columns: 1fr; }
+  .topic-grid { grid-template-columns: repeat(4, minmax(0,1fr)); }
+  .stats-grid { grid-template-columns: repeat(5, minmax(0,1fr)); }
+  .record-dialog { width: min(calc(100% - 48px), 840px); }
+  .hero-card { max-width: none; }
 }
 
 @media (prefers-reduced-motion: reduce) {

@@ -5,6 +5,8 @@
   "scripts": {
     "test": "node --test",
     "generate-records": "node scripts/import/generate-records.mjs --output-dir data/normalized/generated",
-    "build:standalone": "node scripts/build-standalone.mjs --output dist/religion-knowledge-standalone.html"
+    "build:standalone": "node scripts/build-standalone.mjs --output dist/religion-knowledge-standalone.html",
+    "build:reader-site": "node scripts/build-reader-site.mjs --output dist/reader-site",
+    "deploy:reader-site": "wrangler deploy"
   }
 }

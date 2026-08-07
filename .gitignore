@@ -20,3 +20,8 @@ tmp/
 
 # Generated import outputs that have not been reviewed
 imports/staging/
+
+# Cloudflare Pages/Workers deploy staging (rebuilt from the committed *.html readers
+# via `npm run build:reader-site` — plain copies, nothing to review or commit)
+dist/reader-site/
+.wrangler/

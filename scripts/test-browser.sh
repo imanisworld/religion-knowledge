@@ -20,6 +20,16 @@ from pathlib import Path
 source = Path('app/index.html').read_text(encoding='utf-8')
 injection = '''<script>
 setTimeout(() => {
+  // Clean profile: Home leads with the hero fallback (no resume data yet),
+  // and the study/questions blocks render.
+  const heroFallback = document.querySelector('#home-lead .hero-card');
+  const noContinue = !document.querySelector('#home-lead .continue-card');
+  const topicChips = document.querySelectorAll('#home-topics .topic-chip').length;
+  const questionCards = document.querySelectorAll('#home-questions-list .record-card').length;
+  if (heroFallback && noContinue && topicChips > 0 && questionCards > 0) {
+    document.body.dataset.homeClean = 'pass';
+  }
+
   const firstRecord = document.querySelector('[data-record-id]');
   if (firstRecord) firstRecord.click();
   const browse = document.querySelector('[data-browse-source="Glossary.md"]');
@@ -111,6 +121,41 @@ setTimeout(() => {
                       document.body.dataset.reviewSaveNext = 'pass';
                     }
                     document.getElementById('dialog-close')?.click();
+
+                    // Reader section anchors: a Master Notes record with a numbered
+                    // section must render an "Open reader" link that targets the
+                    // reader's #s<num> anchor, not the document top.
+                    const anchorSearch = document.getElementById('search-input');
+                    if (anchorSearch) {
+                      anchorSearch.value = 'Jeremiah';
+                      anchorSearch.dispatchEvent(new Event('input', { bubbles: true }));
+                    }
+                    setTimeout(() => {
+                      document.querySelector('#search-results [data-record-id]')?.click();
+                      // Hash routing: openRecord writes the deep link synchronously
+                      // during the click, so check in the same tick (later ticks can
+                      // race other hash writers under virtual time).
+                      if (location.hash.startsWith('#/record/')) {
+                        document.body.dataset.recordHash = 'pass';
+                      }
+                      setTimeout(() => {
+                        const readerLink = document.querySelector('#dialog-body [data-original-source-link]');
+                        document.body.dataset.readerAnchorHref = readerLink?.getAttribute('href') || 'missing';
+
+                        // Navigating by hash must switch views even with the
+                        // record dialog still open.
+                        location.hash = '#/audits';
+                        setTimeout(() => {
+                          setTimeout(() => {
+                            const auditsActive = document.getElementById('view-audits')?.classList.contains('active');
+                            const dialogClosed = !document.getElementById('record-dialog')?.hasAttribute('open');
+                            if (auditsActive && dialogClosed) {
+                              document.body.dataset.hashRoute = 'pass';
+                            }
+                          }, 0);
+                        }, 0);
+                      }, 0);
+                    }, 0);
                   }, 0);
                 }, 0);
               }, 0);
@@ -269,9 +314,60 @@ if [[ -z "$SOURCE_HREF" ]]; then
   exit 1
 fi
 
-SOURCE_URL="http://127.0.0.1:8765/app/$SOURCE_HREF"
+SOURCE_URL="http://127.0.0.1:8765/app/${SOURCE_HREF%%#*}"
 if ! curl -fsS "$SOURCE_URL" >/dev/null; then
   echo "Rendered original-source link does not resolve: $SOURCE_HREF" >&2
+  exit 1
+fi
+
+READER_ANCHOR_HREF="$(grep -o 'data-reader-anchor-href="[^"]*"' /tmp/religion-app-dom.html | head -1 | sed 's/^data-reader-anchor-href="//; s/"$//')"
+if [[ ! "$READER_ANCHOR_HREF" =~ master-notes\.html#s[0-9-]+$ ]]; then
+  echo "Master Notes record did not render a section-anchored reader link (got: $READER_ANCHOR_HREF)" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'class="app-link"' master-notes.html; then
+  echo "Reader docswitch is missing the App link back to the knowledge app" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-record-hash="pass"' /tmp/religion-app-dom.html; then
+  echo "Opening a record did not write a #/record/ deep link into the URL" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-hash-route="pass"' /tmp/religion-app-dom.html; then
+  echo "Setting location.hash did not route to the target view (or the dialog stayed open)" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-home-clean="pass"' /tmp/religion-app-dom.html; then
+  echo "Home did not render the clean-profile lead (hero fallback, topic chips, open questions)" >&2
+  exit 1
+fi
+
+if ! grep -Fq '<optgroup label="AI Analysis">' /tmp/religion-app-dom.html; then
+  echo "Provenance filter is missing its grouped options" >&2
+  exit 1
+fi
+
+if grep -Eq '<span class="badge [a-z]*">(VERBATIM|PARAPHRASE|SUMMARY)</span>' /tmp/religion-app-dom.html; then
+  echo "Card faces still show representation-type badges (dialog-only now)" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'id="home-backup-status"' /tmp/religion-app-dom.html; then
+  echo "Home backup-status placeholder is missing" >&2
+  exit 1
+fi
+
+if grep -Fq 'exist only in this browser' /tmp/religion-app-dom.html; then
+  echo "Clean profile should not warn about unexported review decisions" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'class="side-nav"' /tmp/religion-app-dom.html; then
+  echo "Desktop sidebar navigation markup is missing" >&2
   exit 1
 fi
 

@@ -12,6 +12,18 @@
 </head>
 <body>
   <div class="app-shell">
+    <nav class="side-nav" aria-label="Primary navigation">
+      <button class="nav-item side-item" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
+      <button class="nav-item side-item" type="button" data-view="thoughts"><span>✎</span><small>My Thoughts</small></button>
+      <button class="nav-item side-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
+      <button class="nav-item side-item" type="button" data-view="questions"><span>?</span><small>Questions</small></button>
+      <button class="nav-item side-item" type="button" data-view="sources"><span>§</span><small>Sources</small></button>
+      <button class="nav-item side-item" type="button" data-view="ai"><span>✦</span><small>AI Analysis</small></button>
+      <button class="nav-item side-item" type="button" data-view="audits"><span>✓</span><small>Audits</small></button>
+      <button class="nav-item side-item" type="button" data-view="compare"><span>⇄</span><small>Compare</small></button>
+      <button class="nav-item side-item" type="button" data-view="positions"><span>◆</span><small>Position History</small></button>
+      <button class="nav-item side-item" type="button" data-view="review"><span>!</span><small>Review Queue</small></button>
+    </nav>
     <header class="topbar">
       <div>
         <p class="eyebrow">Religion Knowledge</p>
@@ -33,14 +45,18 @@
         Provenance
         <select id="provenance-filter">
           <option value="ALL">All</option>
-          <option value="MY_WORDS">My words</option>
-          <option value="MY_POSITION">My position</option>
-          <option value="MY_QUESTION">My question</option>
-          <option value="CLAUDE">Claude</option>
-          <option value="CHATGPT">ChatGPT</option>
+          <optgroup label="Mine">
+            <option value="MY_WORDS">My words</option>
+            <option value="MY_POSITION">My position</option>
+            <option value="MY_QUESTION">My question</option>
+          </optgroup>
+          <optgroup label="AI Analysis">
+            <option value="CLAUDE">Claude</option>
+            <option value="CHATGPT">ChatGPT</option>
+            <option value="INFERENCE">Inference</option>
+          </optgroup>
           <option value="SOURCE">Source</option>
-          <option value="INFERENCE">Inference</option>
-          <option value="REVIEW_REQUIRED">Review required</option>
+          <option value="REVIEW_REQUIRED">Needs review</option>
         </select>
       </label>
       <label>
@@ -65,14 +81,19 @@
 
     <main id="main-content" tabindex="-1">
       <section id="view-home" class="view active" data-title="Home">
-        <div class="hero-card">
-          <p class="eyebrow">Traceable research</p>
-          <h2>Keep your thinking separate from AI interpretation.</h2>
-          <p>Every normalized item should retain who said it, how it was represented, and where it came from.</p>
-        </div>
+        <div id="home-lead"></div>
         <div id="stats-grid" class="stats-grid" aria-label="Knowledge base summary"></div>
         <section class="section-block">
-          <div class="section-heading"><h2>Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <div class="section-heading"><h2>What am I studying?</h2><button class="text-button" type="button" data-go="topics">All topics</button></div>
+          <div id="home-topics" class="topic-chip-row"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-questions-heading">Open questions</h2><button class="text-button" type="button" data-go="questions">All questions</button></div>
+          <div id="home-questions-list" class="card-list"></div>
+        </section>
+        <section class="section-block">
+          <div class="section-heading"><h2 id="home-review-heading">Needs attention</h2><button class="text-button" type="button" data-go="review">Open review queue</button></div>
+          <p id="home-backup-status" class="muted" hidden></p>
           <div id="home-review-list" class="card-list"></div>
         </section>
         <section class="section-block"><div class="section-heading"><h2>Recent records</h2></div><div id="recent-list" class="card-list"></div></section>
@@ -101,7 +122,7 @@
 
     <nav class="bottom-nav" aria-label="Primary navigation">
       <button class="nav-item active" type="button" data-view="home"><span>⌂</span><small>Home</small></button>
-      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Mine</small></button>
+      <button class="nav-item" type="button" data-view="thoughts"><span>✎</span><small>Thoughts</small></button>
       <button class="nav-item" type="button" data-view="topics"><span>⌗</span><small>Topics</small></button>
       <button class="nav-item" type="button" data-view="review"><span>!</span><small>Review</small></button>
       <button class="nav-item" type="button" id="nav-more" aria-haspopup="dialog" aria-controls="more-sheet"><span>⋯</span><small>More</small></button>
