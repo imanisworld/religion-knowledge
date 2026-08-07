@@ -30,6 +30,95 @@ setTimeout(() => {
     if (search?.value === 'Glossary.md' && title?.textContent === 'Search Results') {
       document.body.dataset.sourceBrowseSmoke = 'pass';
     }
+
+    // Mobile nav "More" sheet: opens, navigates, and closes without a page reload.
+    document.getElementById('nav-more')?.click();
+    setTimeout(() => {
+      if (document.getElementById('more-sheet')?.hasAttribute('open')) {
+        document.body.dataset.moreSheetOpen = 'pass';
+      }
+      document.querySelector('#more-sheet [data-go="compare"]')?.click();
+      setTimeout(() => {
+        const compareActive = document.getElementById('view-compare')?.classList.contains('active');
+        const sheetClosed = !document.getElementById('more-sheet')?.hasAttribute('open');
+        if (compareActive && sheetClosed && title?.textContent === 'Compare') {
+          document.body.dataset.moreSheetNav = 'pass';
+        }
+
+        // Filter badge reflects active filter count, then resets.
+        const provenanceFilter = document.getElementById('provenance-filter');
+        if (provenanceFilter) {
+          provenanceFilter.value = 'SOURCE';
+          provenanceFilter.dispatchEvent(new Event('change', { bubbles: true }));
+        }
+        setTimeout(() => {
+          const filterButton = document.getElementById('filter-button');
+          const filterCount = document.getElementById('filter-count');
+          if (filterButton?.classList.contains('has-filters') && filterCount?.textContent === '1') {
+            document.body.dataset.filterBadge = 'pass';
+          }
+          if (provenanceFilter) {
+            provenanceFilter.value = 'ALL';
+            provenanceFilter.dispatchEvent(new Event('change', { bubbles: true }));
+          }
+
+          // Search Results shows a live result count.
+          const searchInput = document.getElementById('search-input');
+          if (searchInput) {
+            searchInput.value = 'glossary';
+            searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+          }
+          setTimeout(() => {
+            const summary = document.getElementById('search-summary')?.textContent || '';
+            if (/result/.test(summary) && summary.includes('glossary')) {
+              document.body.dataset.searchSummary = 'pass';
+            }
+            if (searchInput) {
+              searchInput.value = '';
+              searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+            }
+
+            // Topics view can be filtered by name and fails closed to an empty state.
+            document.querySelector('[data-view="topics"]')?.click();
+            setTimeout(() => {
+              const topicSearch = document.getElementById('topic-search');
+              if (topicSearch) {
+                topicSearch.value = 'zzz-no-such-topic-zzz';
+                topicSearch.dispatchEvent(new Event('input', { bubbles: true }));
+              }
+              setTimeout(() => {
+                const topicsList = document.getElementById('topics-list')?.textContent || '';
+                if (topicsList.includes('No topics match your filter')) {
+                  document.body.dataset.topicSearch = 'pass';
+                }
+                if (topicSearch) {
+                  topicSearch.value = '';
+                  topicSearch.dispatchEvent(new Event('input', { bubbles: true }));
+                }
+
+                // Review Queue: progress line and the "Save & review next" control both
+                // render on a queued record, without actually mutating any attribution
+                // (that would change the committed review count checked below).
+                document.querySelector('[data-view="review"]')?.click();
+                setTimeout(() => {
+                  const progressBefore = document.getElementById('review-progress')?.textContent || '';
+                  if (/awaiting review/.test(progressBefore)) {
+                    document.body.dataset.reviewProgress = 'pass';
+                  }
+                  document.querySelector('#review-list [data-record-id]')?.click();
+                  setTimeout(() => {
+                    if (document.getElementById('save-review-next')) {
+                      document.body.dataset.reviewSaveNext = 'pass';
+                    }
+                    document.getElementById('dialog-close')?.click();
+                  }, 0);
+                }, 0);
+              }, 0);
+            }, 0);
+          }, 0);
+        }, 0);
+      }, 0);
+    }, 0);
   }, 0);
 }, 0);
 </script>'''
@@ -122,6 +211,41 @@ if ! grep -Fq 'data-source-browse-smoke="pass"' /tmp/religion-app-dom.html; then
   exit 1
 fi
 
+if ! grep -Fq 'data-more-sheet-open="pass"' /tmp/religion-app-dom.html; then
+  echo "Tapping the More nav item did not open the overflow sheet" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-more-sheet-nav="pass"' /tmp/religion-app-dom.html; then
+  echo "Choosing a More sheet item did not navigate and close the sheet" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-filter-badge="pass"' /tmp/religion-app-dom.html; then
+  echo "Filter button did not show an active-filter count badge" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-search-summary="pass"' /tmp/religion-app-dom.html; then
+  echo "Search Results did not show a live result count" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-topic-search="pass"' /tmp/religion-app-dom.html; then
+  echo "Topic search did not fail closed to an empty state for an unmatched query" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-review-progress="pass"' /tmp/religion-app-dom.html; then
+  echo "Review Queue progress line is missing" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-review-save-next="pass"' /tmp/religion-app-dom.html; then
+  echo "Review Queue \"Save & review next\" control is missing" >&2
+  exit 1
+fi
+
 if ! grep -Fq 'data-original-source-link="true"' /tmp/religion-app-dom.html; then
   echo "Opening a record did not render an original-source link" >&2
   tail -100 /tmp/religion-app-dom.html >&2 || true
@@ -157,4 +281,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 review_backup=present source_library=7 source_browse=Glossary.md source_link=%s\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 review_backup=present source_library=7 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"

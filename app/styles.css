@@ -139,6 +139,30 @@ p { line-height: 1.55; }
   font-weight: 700;
 }
 
+.filter-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  white-space: nowrap;
+}
+
+.filter-count {
+  display: none;
+  min-width: 19px;
+  height: 19px;
+  padding: 0 5px;
+  border-radius: 999px;
+  background: var(--accent);
+  color: #fff;
+  font-size: .68rem;
+  font-weight: 800;
+  align-items: center;
+  justify-content: center;
+}
+
+.filter-button.has-filters .filter-count { display: inline-flex; }
+.filter-button.has-filters { border-color: var(--accent); color: var(--accent); }
+
 .filter-panel {
   display: grid;
   gap: 12px;
@@ -264,6 +288,16 @@ p { line-height: 1.55; }
 .record-card p { margin: 0; color: var(--muted); }
 .record-source { margin-top: 10px !important; font-size: .78rem; }
 
+.topic-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+.topic-search-box { flex: 1 1 200px; }
+.topic-search-box input { min-width: 0; }
+#topic-sort-toggle { flex: 0 0 auto; }
+
 .topic-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0,1fr));
@@ -375,6 +409,40 @@ p { line-height: 1.55; }
 .detail-row { padding: 12px; border-radius: 12px; background: var(--panel-2); }
 .detail-row strong { display: block; font-size: .75rem; color: var(--muted); margin-bottom: 4px; }
 .raw-text { white-space: pre-wrap; line-height: 1.55; }
+
+.more-sheet {
+  width: min(100%, 520px);
+  max-height: min(80dvh, 640px);
+  margin: auto auto max(8px, env(safe-area-inset-bottom)) auto;
+  padding: 0;
+  border: 1px solid var(--line);
+  border-radius: 22px 22px 18px 18px;
+  background: var(--panel);
+  color: var(--text);
+  box-shadow: var(--shadow);
+}
+.more-sheet::backdrop { background: rgba(0,0,0,.42); backdrop-filter: blur(2px); }
+.more-sheet-body {
+  display: grid;
+  gap: 6px;
+  padding: 8px 12px 16px;
+}
+.sheet-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  min-height: 52px;
+  padding: 0 12px;
+  border-radius: 14px;
+  text-align: left;
+  font-weight: 700;
+}
+.sheet-item:hover,
+.sheet-item:focus-visible { background: var(--panel-2); }
+.sheet-item span { font-size: 1.15rem; width: 22px; text-align: center; }
+
+#review-progress,
+#search-summary { margin-top: 4px; }
 
 @media (min-width: 720px) {
   .app-shell { padding-left: 24px; padding-right: 24px; }
