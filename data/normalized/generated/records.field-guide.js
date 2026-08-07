@@ -3113,9 +3113,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_0e4872895b3a9baa759f",
-    "text": "•  Canon selected by human councils: Nicaea 325 CE, Carthage 397 CE — not divine transmission.",
-    "raw_text": "•  Canon selected by human councils: Nicaea 325 CE, Carthage 397 CE — not divine transmission.",
+    "id": "rk_e9f275247977a3f47138",
+    "text": "•  Canon selected by human councils over a contested, centuries-long process — Hippo (393 CE) and Carthage (397 CE) ratified regional lists; Athanasius's list (367 CE) is the earliest surviving match to the 27-book NT. ⟨CORRECTED 7 Aug 2026: Nicaea (325 CE) did NOT address the canon — see History §7. Citing it here contradicted our own Historical Framework and is exactly the kind of easily-checked error that costs credibility mid-argument.⟩ Not divine transmission, whichever council is named.",
+    "raw_text": "•  Canon selected by human councils over a contested, centuries-long process — Hippo (393 CE) and Carthage (397 CE) ratified regional lists; Athanasius's list (367 CE) is the earliest surviving match to the 27-book NT. ⟨CORRECTED 7 Aug 2026: Nicaea (325 CE) did NOT address the canon — see History §7. Citing it here contradicted our own Historical Framework and is exactly the kind of easily-checked error that costs credibility mid-argument.⟩ Not divine transmission, whichever council is named.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -3144,9 +3144,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_a9d8c28a523a8631b72d",
-    "text": "•  Mark's original ending: women flee the tomb, say nothing to anyone (16:8). Resurrection appearances added by later scribes. Not in oldest manuscripts.",
-    "raw_text": "•  Mark's original ending: women flee the tomb, say nothing to anyone (16:8). Resurrection appearances added by later scribes. Not in oldest manuscripts.",
+    "id": "rk_cf40499821130337552f",
+    "text": "•  Mark's original ending (16:1–8): the tomb is empty, a young man announces \"he has been raised,\" and a Galilee appearance is promised — but the women flee and say nothing to anyone, and no appearance is narrated. ⟨CORRECTED 7 Aug 2026⟩ Do not say Mark \"lacks a resurrection claim\" — it makes one explicitly, it just never shows it happening. The longer ending (16:9–20), with the narrated appearances, is a later scribal addition — absent from the earliest complete Greek manuscripts.",
+    "raw_text": "•  Mark's original ending (16:1–8): the tomb is empty, a young man announces \"he has been raised,\" and a Galilee appearance is promised — but the women flee and say nothing to anyone, and no appearance is narrated. ⟨CORRECTED 7 Aug 2026⟩ Do not say Mark \"lacks a resurrection claim\" — it makes one explicitly, it just never shows it happening. The longer ending (16:9–20), with the narrated appearances, is a later scribal addition — absent from the earliest complete Greek manuscripts.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9857,9 +9857,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b5841fc3a1561721fa65",
-    "text": "•  The \"man-made\" dismissal proves too much: the canon of the Bible was selected by human councils (Nicaea 325 CE, Carthage 397 CE). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.",
-    "raw_text": "•  The \"man-made\" dismissal proves too much: the canon of the Bible was selected by human councils (Nicaea 325 CE, Carthage 397 CE). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.",
+    "id": "rk_5809932e9dc6c782830a",
+    "text": "•  The \"man-made\" dismissal proves too much: the canon of the Bible was selected by human councils (Hippo 393 CE, Carthage 397 CE — not Nicaea, which addressed Christology, not canon; see History §7). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.",
+    "raw_text": "•  The \"man-made\" dismissal proves too much: the canon of the Bible was selected by human councils (Hippo 393 CE, Carthage 397 CE — not Nicaea, which addressed Christology, not canon; see History §7). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,

@@ -231,9 +231,9 @@ Live field reference for real conversations. Each entry covers: (1) the claim as
 
 •  Circular: "The Bible is true because it is God's word" — "How do you know?" — "Because the Bible says so."
 
-•  Canon selected by human councils: Nicaea 325 CE, Carthage 397 CE — not divine transmission.
+•  Canon selected by human councils over a contested, centuries-long process — Hippo (393 CE) and Carthage (397 CE) ratified regional lists; Athanasius's list (367 CE) is the earliest surviving match to the 27-book NT. ⟨CORRECTED 7 Aug 2026: Nicaea (325 CE) did NOT address the canon — see History §7. Citing it here contradicted our own Historical Framework and is exactly the kind of easily-checked error that costs credibility mid-argument.⟩ Not divine transmission, whichever council is named.
 
-•  Mark's original ending: women flee the tomb, say nothing to anyone (16:8). Resurrection appearances added by later scribes. Not in oldest manuscripts.
+•  Mark's original ending (16:1–8): the tomb is empty, a young man announces "he has been raised," and a Galilee appearance is promised — but the women flee and say nothing to anyone, and no appearance is narrated. ⟨CORRECTED 7 Aug 2026⟩ Do not say Mark "lacks a resurrection claim" — it makes one explicitly, it just never shows it happening. The longer ending (16:9–20), with the narrated appearances, is a later scribal addition — absent from the earliest complete Greek manuscripts.
 
 •  Modern Bible versions are vehicles for doctrinal change. Ancient alterations accepted by populations with no access to comparison texts and no literacy.
 
@@ -727,7 +727,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  Humanism has a track record: the Universal Declaration of Human Rights (1948), the abolition movement, secular democratic law. These have measurably reduced suffering across populations.
 
-•  The "man-made" dismissal proves too much: the canon of the Bible was selected by human councils (Nicaea 325 CE, Carthage 397 CE). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.
+•  The "man-made" dismissal proves too much: the canon of the Bible was selected by human councils (Hippo 393 CE, Carthage 397 CE — not Nicaea, which addressed Christology, not canon; see History §7). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.
 
 **The actual distinction humanism claims:**
 
