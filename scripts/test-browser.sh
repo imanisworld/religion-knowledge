@@ -125,6 +125,23 @@ setTimeout(() => {
                       setTimeout(() => {
                         const readerLink = document.querySelector('#dialog-body [data-original-source-link]');
                         document.body.dataset.readerAnchorHref = readerLink?.getAttribute('href') || 'missing';
+
+                        // Hash routing: opening a record must put a deep link in
+                        // the URL; navigating by hash must switch views even with
+                        // the record dialog still open.
+                        if (location.hash.startsWith('#/record/')) {
+                          document.body.dataset.recordHash = 'pass';
+                        }
+                        location.hash = '#/audits';
+                        setTimeout(() => {
+                          setTimeout(() => {
+                            const auditsActive = document.getElementById('view-audits')?.classList.contains('active');
+                            const dialogClosed = !document.getElementById('record-dialog')?.hasAttribute('open');
+                            if (auditsActive && dialogClosed) {
+                              document.body.dataset.hashRoute = 'pass';
+                            }
+                          }, 0);
+                        }, 0);
                       }, 0);
                     }, 0);
                   }, 0);
@@ -299,6 +316,16 @@ fi
 
 if ! grep -Fq 'class="app-link"' master-notes.html; then
   echo "Reader docswitch is missing the App link back to the knowledge app" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-record-hash="pass"' /tmp/religion-app-dom.html; then
+  echo "Opening a record did not write a #/record/ deep link into the URL" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-hash-route="pass"' /tmp/religion-app-dom.html; then
+  echo "Setting location.hash did not route to the target view (or the dialog stayed open)" >&2
   exit 1
 fi
 

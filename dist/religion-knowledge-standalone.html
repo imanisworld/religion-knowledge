@@ -41022,10 +41022,146 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   };
 
   const MORE_SHEET_VIEWS = ['audits', 'questions', 'sources', 'ai', 'compare', 'positions'];
+  const VIEW_NAMES = ['home', 'thoughts', 'topics', 'questions', 'sources', 'ai', 'audits', 'compare', 'positions', 'review', 'search'];
 
   const $ = (id) => document.getElementById(id);
   const views = [...document.querySelectorAll('.view')];
   const navItems = [...document.querySelectorAll('.nav-item')];
+
+  // --- Hash routing -------------------------------------------------------
+  // Views, search/filter state, and open records are mirrored into
+  // location.hash so they are bookmarkable and survive reloads. Everything
+  // degrades to a no-op where the environment disallows it (some file://
+  // webviews reject history calls) — the app then behaves exactly as before.
+  let openRecordId = null;
+  let syncingHash = false;
+  let routerClosing = false;
+
+  function hashForState() {
+    if (openRecordId) return `#/record/${encodeURIComponent(openRecordId)}`;
+    if (state.view === 'search') {
+      const params = new URLSearchParams();
+      if (state.query.trim()) params.set('q', state.query.trim());
+      if (state.provenance !== 'ALL') params.set('prov', state.provenance);
+      if (state.type !== 'ALL') params.set('type', state.type);
+      const encoded = params.toString();
+      return encoded ? `#/search?${encoded}` : '#/search';
+    }
+    if (state.view === 'ai' && state.aiSource !== 'CLAUDE') return `#/ai?src=${encodeURIComponent(state.aiSource)}`;
+    return `#/${state.view}`;
+  }
+
+  function writeHash(hash, push) {
+    if (location.hash === hash) return;
+    syncingHash = true;
+    try {
+      if (push) history.pushState(null, '', hash);
+      else history.replaceState(null, '', hash);
+    } catch {
+      try { location.replace(hash); } catch { /* immutable environment — skip */ }
+    }
+    // hashchange only fires for location.* writes, and asynchronously; clear
+    // the guard on the next tick either way.
+    setTimeout(() => { syncingHash = false; }, 0);
+  }
+
+  function syncHash(options = {}) {
+    writeHash(hashForState(), Boolean(options.push));
+    saveResumeState();
+  }
+
+  function saveResumeState() {
+    // Populated in a later change; kept as a seam so syncHash stays the only
+    // navigation-tracking call site.
+  }
+
+  function parseHash(raw) {
+    if (typeof raw !== 'string' || !raw.startsWith('#/')) return null;
+    const [path, queryString] = raw.slice(2).split('?');
+    const params = new URLSearchParams(queryString || '');
+    const [head, ...rest] = path.split('/');
+    if (head === 'record' && rest.length) return { kind: 'record', id: decodeURIComponent(rest.join('/')) };
+    if (head === 'topic' && rest.length) return { kind: 'topic', topic: decodeURIComponent(rest.join('/')) };
+    if (head === 'search') {
+      return {
+        kind: 'search',
+        query: params.get('q') || '',
+        provenance: params.get('prov') || 'ALL',
+        type: params.get('type') || 'ALL',
+      };
+    }
+    if (VIEW_NAMES.includes(head)) return { kind: 'view', view: head, aiSource: params.get('src') || null };
+    return null;
+  }
+
+  function closeDialogFromRouter() {
+    const dialog = $('record-dialog');
+    if (dialog?.open) {
+      routerClosing = true;
+      dialog.close();
+      routerClosing = false;
+    }
+    openRecordId = null;
+  }
+
+  function applyFilterState(query, provenance, type) {
+    state.query = query;
+    state.provenance = ALLOWED_OVERRIDE_TYPES.includes(provenance) || provenance === 'ALL' ? provenance : 'ALL';
+    state.type = type;
+    resetListLimits();
+    const search = $('search-input');
+    if (search) search.value = state.query;
+    const provSelect = $('provenance-filter');
+    if (provSelect) provSelect.value = state.provenance;
+    const typeSelect = $('type-filter');
+    if (typeSelect && [...typeSelect.options].some((o) => o.value === state.type)) typeSelect.value = state.type;
+    else state.type = 'ALL';
+  }
+
+  function route() {
+    try {
+      const parsed = parseHash(location.hash);
+      if (!parsed) {
+        closeDialogFromRouter();
+        showView('home', { silent: true });
+        syncHash();
+        return;
+      }
+      if (parsed.kind === 'record') {
+        const exists = baseRecords.some((r) => r.id === parsed.id);
+        if (!exists) {
+          closeDialogFromRouter();
+          showView('home', { silent: true });
+          syncHash();
+          return;
+        }
+        openRecord(parsed.id, { silent: true });
+        return;
+      }
+      closeDialogFromRouter();
+      if (parsed.kind === 'topic') {
+        applyFilterState(parsed.topic, 'ALL', 'ALL');
+        renderAll();
+        showView('search', { silent: true });
+        return;
+      }
+      if (parsed.kind === 'search') {
+        applyFilterState(parsed.query, parsed.provenance, parsed.type);
+        renderAll();
+        showView('search', { silent: true });
+        return;
+      }
+      if (parsed.view === 'ai' && parsed.aiSource && ['CLAUDE', 'CHATGPT', 'INFERENCE'].includes(parsed.aiSource)) {
+        state.aiSource = parsed.aiSource;
+        document.querySelectorAll('[data-ai]').forEach((button) => button.classList.toggle('active', button.dataset.ai === parsed.aiSource));
+        renderAI();
+      }
+      showView(parsed.view, { silent: true });
+    } catch {
+      showView('home', { silent: true });
+    }
+  }
+  // ------------------------------------------------------------------------
 
   function escapeHtml(value) {
     return String(value ?? '')
@@ -41277,7 +41413,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     renderFilterBadge();
   }
 
-  function showView(name) {
+  function showView(name, options = {}) {
     state.view = name;
     views.forEach((view) => view.classList.toggle('active', view.id === `view-${name}`));
     navItems.forEach((item) => item.classList.toggle('active', item.dataset.view === name));
@@ -41287,6 +41423,10 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     $('page-title').textContent = active?.dataset.title || 'Religion Knowledge';
     $('main-content').focus({ preventScroll: true });
     window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (!options.silent) {
+      openRecordId = null;
+      syncHash({ push: true });
+    }
   }
 
   function reviewControls(record) {
@@ -41314,7 +41454,7 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
       </section>`;
   }
 
-  function openRecord(id) {
+  function openRecord(id, options = {}) {
     const base = baseRecords.find((r) => r.id === id);
     if (!base) return;
     const record = effectiveRecord(base);
@@ -41339,7 +41479,10 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
 
     const override = getOverride(record.id);
     if (override?.note) $('review-note').value = override.note;
-    $('record-dialog').showModal();
+    const dialog = $('record-dialog');
+    if (!dialog.open) dialog.showModal();
+    openRecordId = id;
+    syncHash({ push: !options.silent && location.hash !== `#/record/${encodeURIComponent(id)}` });
   }
 
   function applyReviewOverride(recordId) {
@@ -41467,22 +41610,35 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
     state.query = event.target.value;
     state.listLimits['search-results'] = LIST_PAGE_SIZE;
     renderSearch();
-    if (state.query.trim()) showView('search');
-    else if (state.view === 'search') showView('home');
+    // Typing must not spam browser history: navigate silently and mirror the
+    // hash with replace instead of push.
+    if (state.query.trim()) {
+      showView('search', { silent: true });
+      openRecordId = null;
+      syncHash();
+    } else if (state.view === 'search') {
+      showView('home', { silent: true });
+      openRecordId = null;
+      syncHash();
+    }
   });
 
   $('provenance-filter').addEventListener('change', (event) => {
     state.provenance = event.target.value;
     resetListLimits();
     renderAll();
-    showView('search');
+    showView('search', { silent: true });
+    openRecordId = null;
+    syncHash();
   });
 
   $('type-filter').addEventListener('change', (event) => {
     state.type = event.target.value;
     resetListLimits();
     renderAll();
-    showView('search');
+    showView('search', { silent: true });
+    openRecordId = null;
+    syncHash();
   });
 
   $('clear-filters').addEventListener('click', () => {
@@ -41506,13 +41662,24 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
 
   $('dialog-close').addEventListener('click', () => $('record-dialog').close());
 
+  $('record-dialog').addEventListener('close', () => {
+    if (routerClosing) return;
+    openRecordId = null;
+    syncHash();
+  });
+
+  window.addEventListener('hashchange', () => {
+    if (syncingHash) return;
+    route();
+  });
+
   try {
     const saved = localStorage.getItem('religion-knowledge-theme');
     if (saved) document.documentElement.dataset.theme = saved;
   } catch {}
 
   renderAll();
-  showView('home');
+  route();
 })();
 </script>
   <script>
