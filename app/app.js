@@ -7,6 +7,7 @@
     : {};
 
   const OVERRIDE_STORAGE_KEY = 'religion-knowledge-provenance-overrides-v1';
+  const LIST_PAGE_SIZE = 60;
   const ALLOWED_OVERRIDE_TYPES = [
     'MY_WORDS',
     'MY_POSITION',
@@ -78,6 +79,7 @@
     provenance: 'ALL',
     type: 'ALL',
     aiSource: 'CLAUDE',
+    listLimits: {},
   };
 
   const $ = (id) => document.getElementById(id);
@@ -103,6 +105,10 @@
 
   function label(value) {
     return String(value ?? '').replaceAll('_', ' ');
+  }
+
+  function resetListLimits() {
+    state.listLimits = {};
   }
 
   function matchesFilters(record) {
@@ -155,19 +161,32 @@
     return `<div class="empty-state"><strong>${escapeHtml(title)}</strong>${escapeHtml(body)}</div>`;
   }
 
-  function renderList(targetId, items, emptyTitle, emptyBody) {
+  function renderList(targetId, items, emptyTitle, emptyBody, options = {}) {
     const target = $(targetId);
     if (!target) return;
-    target.innerHTML = items.length
-      ? items.map(card).join('')
-      : emptyState(emptyTitle, emptyBody);
+    if (!items.length) {
+      target.innerHTML = emptyState(emptyTitle, emptyBody);
+      return;
+    }
+
+    const unbounded = Boolean(options.unbounded);
+    const limit = unbounded ? items.length : (state.listLimits[targetId] || LIST_PAGE_SIZE);
+    const visible = items.slice(0, limit);
+    const remaining = items.length - visible.length;
+    const footer = remaining > 0
+      ? `<div class="list-more"><p class="muted">Showing ${visible.length} of ${items.length}</p><button class="secondary-button" type="button" data-show-more="${escapeHtml(targetId)}">Show ${Math.min(LIST_PAGE_SIZE, remaining)} more</button></div>`
+      : items.length > LIST_PAGE_SIZE && !unbounded
+        ? `<div class="list-more"><p class="muted">Showing all ${items.length}</p></div>`
+        : '';
+
+    target.innerHTML = visible.map(card).join('') + footer;
   }
 
   function renderStats() {
     const records = currentRecords();
     const review = records.filter((r) => r.review_required || r.provenance_type === 'REVIEW_REQUIRED').length;
     const mine = records.filter((r) => ['MY_WORDS', 'MY_POSITION', 'MY_QUESTION'].includes(r.provenance_type)).length;
-    const audits = records.filter((r) => ['AUDIT', 'CORRECTION'].includes(r.record_type)).length;
+    const audits = records.filter((r) => ['AUDIT', 'AUDIT_NOTE', 'AUDIT_STATUS', 'CORRECTION', 'AUDIT_SURVIVAL', 'AUDIT_REASONING'].includes(r.record_type)).length;
     const sources = records.filter((r) => r.provenance_type === 'SOURCE').length;
     const stats = [
       ['Records', records.length],
@@ -190,8 +209,8 @@
       .slice(0, 6);
 
     renderStats();
-    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.');
-    renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.');
+    renderList('home-review-list', review, 'Nothing needs review', 'Uncertain attribution stays here until it is explicitly reviewed.', { unbounded: true });
+    renderList('recent-list', recent, 'No normalized records yet', 'The source corpus is preserved in Git.', { unbounded: true });
   }
 
   function renderThoughts() {
@@ -253,7 +272,7 @@
   function renderCompare() {
     const chains = buildChains();
     $('compare-list').innerHTML = chains.length
-      ? chains.map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(label(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
+      ? chains.slice(0, LIST_PAGE_SIZE).map((chain) => `<article class="compare-chain">${chain.map((item) => `<div class="compare-step"><div class="record-meta"><span class="badge ${badgeClass(item.provenance_type)}">${escapeHtml(label(item.provenance_type))}</span></div><strong>${escapeHtml(item.text || item.raw_text || item.id)}</strong>${item.source_file ? `<p class="record-source">${escapeHtml(item.source_file)}</p>` : ''}</div>`).join('')}</article>`).join('')
       : emptyState('No comparison chains yet', 'Comparison requires source-backed relationships between original words, AI interpretation, evidence, audits, and later positions.');
   }
 
@@ -369,6 +388,14 @@
     const go = event.target.closest('[data-go]');
     if (go) showView(go.dataset.go);
 
+    const more = event.target.closest('[data-show-more]');
+    if (more) {
+      const targetId = more.dataset.showMore;
+      state.listLimits[targetId] = (state.listLimits[targetId] || LIST_PAGE_SIZE) + LIST_PAGE_SIZE;
+      renderAll();
+      return;
+    }
+
     const record = event.target.closest('[data-record-id]');
     if (record && !event.target.closest('#save-review-override, #clear-review-override')) openRecord(record.dataset.recordId);
 
@@ -383,6 +410,7 @@
     const ai = event.target.closest('[data-ai]');
     if (ai) {
       state.aiSource = ai.dataset.ai;
+      state.listLimits['ai-list'] = LIST_PAGE_SIZE;
       document.querySelectorAll('[data-ai]').forEach((button) => button.classList.toggle('active', button === ai));
       renderAI();
     }
@@ -390,6 +418,7 @@
     const topic = event.target.closest('[data-topic]');
     if (topic) {
       state.query = topic.dataset.topic;
+      resetListLimits();
       $('search-input').value = state.query;
       renderSearch();
       showView('search');
@@ -404,6 +433,7 @@
 
   $('search-input').addEventListener('input', (event) => {
     state.query = event.target.value;
+    state.listLimits['search-results'] = LIST_PAGE_SIZE;
     renderSearch();
     if (state.query.trim()) showView('search');
     else if (state.view === 'search') showView('home');
@@ -411,12 +441,14 @@
 
   $('provenance-filter').addEventListener('change', (event) => {
     state.provenance = event.target.value;
+    resetListLimits();
     renderAll();
     showView('search');
   });
 
   $('type-filter').addEventListener('change', (event) => {
     state.type = event.target.value;
+    resetListLimits();
     renderAll();
     showView('search');
   });
@@ -425,6 +457,7 @@
     state.query = '';
     state.provenance = 'ALL';
     state.type = 'ALL';
+    resetListLimits();
     $('search-input').value = '';
     $('provenance-filter').value = 'ALL';
     $('type-filter').value = 'ALL';
