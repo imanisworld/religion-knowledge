@@ -30,7 +30,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 | 2 | **Field Guide** | Live-conversation material — talking points, responses, deflection handling |
 | 3 | **Historical Framework** | The chronological spine, how evidence works, and bad history on both sides |
 | 4 | **Sources & Primary Texts** | What each primary source says, with links to free full texts |
-| 5 | **The Other Side** | Theologians and apologists worth engaging, plus how the literal/allegorical switch works |
+| 5 | **The Strongest Case** | Theologians and apologists worth engaging, plus how the literal/allegorical switch works |
 | 6 | **Translations** | Translation philosophies, committee bias, and where versions diverge |
 | 7 | **Glossary** | Every technical term in plain English |
 

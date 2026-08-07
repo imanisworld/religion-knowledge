@@ -1,4 +1,4 @@
-# The Other Side
+# The Strongest Case
 
 *Theologians, Apologists, and How the Literal/Allegorical Switch Actually Works*
 

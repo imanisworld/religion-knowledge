@@ -11,7 +11,7 @@
     ['Glossary.md', 'Glossary', 'glossary.html'],
     ['Historical_Framework.md', 'Historical Framework', 'history.html'],
     ['Sources_and_Primary_Texts.md', 'Sources & Primary Texts', 'sources.html'],
-    ['The_Other_Side.md', 'The Other Side', 'other-side.html'],
+    ['The_Other_Side.md', 'The Strongest Case', 'other-side.html'],
     ['Translations.md', 'Translations', 'translations.html'],
   ];
 

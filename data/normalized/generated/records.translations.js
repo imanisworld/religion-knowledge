@@ -34,9 +34,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.2"
   },
   {
-    "id": "rk_b46bd18661c534b94b28",
-    "text": "Companion to: Master Notes · Field Guide · History · Sources · Other Side · Glossary\nLast updated: 7 August 2026",
-    "raw_text": "**Companion to:** Master Notes · Field Guide · History · Sources · Other Side · Glossary\n**Last updated:** 7 August 2026",
+    "id": "rk_6885a349260889d87761",
+    "text": "Companion to: Master Notes · Field Guide · History · Sources · The Strongest Case · Glossary\nLast updated: 7 August 2026",
+    "raw_text": "**Companion to:** Master Notes · Field Guide · History · Sources · The Strongest Case · Glossary\n**Last updated:** 7 August 2026",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
