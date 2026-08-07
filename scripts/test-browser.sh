@@ -87,6 +87,21 @@ if ! grep -Fq 'data-go="positions"' /tmp/religion-app-dom.html; then
   exit 1
 fi
 
+if ! grep -Fq 'id="export-review-backup"' /tmp/religion-app-dom.html; then
+  echo "Review backup export control is missing" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'id="import-review-backup"' /tmp/religion-app-dom.html; then
+  echo "Review backup import control is missing" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'Original notes and parser output are never included or rewritten.' /tmp/religion-app-dom.html; then
+  echo "Review backup safety notice is missing" >&2
+  exit 1
+fi
+
 if ! grep -Fq 'data-original-source-link="true"' /tmp/religion-app-dom.html; then
   echo "Opening a record did not render an original-source link" >&2
   tail -100 /tmp/religion-app-dom.html >&2 || true
@@ -122,4 +137,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 source_link=%s\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 review_backup=present source_link=%s\n' "$SOURCE_HREF"
