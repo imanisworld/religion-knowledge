@@ -24,6 +24,12 @@ jobs:
       - name: Show runtime
         run: node --version
 
+      - name: Check app JavaScript syntax
+        run: |
+          node --check app/app.js
+          node --check data/normalized/records.js
+          node --check data/review/overrides.js
+
       - name: Run parser unit tests
         run: node --test tests/parser.test.mjs
 
