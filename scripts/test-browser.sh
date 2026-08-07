@@ -22,6 +22,15 @@ injection = '''<script>
 setTimeout(() => {
   const firstRecord = document.querySelector('[data-record-id]');
   if (firstRecord) firstRecord.click();
+  const browse = document.querySelector('[data-browse-source="Glossary.md"]');
+  if (browse) browse.click();
+  setTimeout(() => {
+    const search = document.getElementById('search-input');
+    const title = document.getElementById('page-title');
+    if (search?.value === 'Glossary.md' && title?.textContent === 'Search Results') {
+      document.body.dataset.sourceBrowseSmoke = 'pass';
+    }
+  }, 0);
 }, 0);
 </script>'''
 if '</body>' not in source:
@@ -102,6 +111,17 @@ if ! grep -Fq 'Original notes and parser output are never included or rewritten.
   exit 1
 fi
 
+SOURCE_LIBRARY_COUNT="$(grep -o 'data-source-library-file=' /tmp/religion-app-dom.html | wc -l | tr -d ' ')"
+if [[ "$SOURCE_LIBRARY_COUNT" != "7" ]]; then
+  echo "Expected 7 canonical source library cards, found $SOURCE_LIBRARY_COUNT" >&2
+  exit 1
+fi
+
+if ! grep -Fq 'data-source-browse-smoke="pass"' /tmp/religion-app-dom.html; then
+  echo "Browse records did not switch to exact-source Search Results" >&2
+  exit 1
+fi
+
 if ! grep -Fq 'data-original-source-link="true"' /tmp/religion-app-dom.html; then
   echo "Opening a record did not render an original-source link" >&2
   tail -100 /tmp/religion-app-dom.html >&2 || true
@@ -137,4 +157,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 review_backup=present source_link=%s\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1198 review=650 positions=0 review_backup=present source_library=7 source_browse=Glossary.md source_link=%s\n' "$SOURCE_HREF"
