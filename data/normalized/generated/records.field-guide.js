@@ -88,9 +88,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_4d1c8af690fe43ebaa78",
-    "text": "Provenance. Written by: you and Claude together across sessions. §1–§17 predate this marking convention and are genuinely mixed — no longer cleanly separable after the fact. The fieldwork observations at §7 are yours. The §19 timeline and §8 method are Claude's compilation from named sources.",
-    "raw_text": "> **Provenance.** **Written by:** you and Claude together across sessions. §1–§17 predate this marking convention and are genuinely mixed — no longer cleanly separable after the fact. The fieldwork observations at §7 are yours. The §19 timeline and §8 method are Claude's compilation from named sources.",
+    "id": "rk_71d30a8d175947670892",
+    "text": "Provenance. Written by: you and Claude together across sessions. §1–§17 predate this marking convention and are genuinely mixed — no longer cleanly separable after the fact. The fieldwork observations at §7 are yours. The reading timeline and survey method moved to Method & Reference on 10 August 2026 — they were never observations about scripture, and didn't belong filed alongside them.",
+    "raw_text": "> **Provenance.** **Written by:** you and Claude together across sessions. §1–§17 predate this marking convention and are genuinely mixed — no longer cleanly separable after the fact. The fieldwork observations at §7 are yours. The reading timeline and survey method moved to Method & Reference on 10 August 2026 — they were never observations about scripture, and didn't belong filed alongside them.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -172,9 +172,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2d52640d0a9e2cc28c1a",
-    "text": "Audited August 2026. Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n\nCompanion documents: Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
-    "raw_text": "> **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method is at §8.1; what has not yet been checked is at §8.2.\n>\n> **Companion documents:** Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Glossary (plain-English definitions).",
+    "id": "rk_22b9f30e9eed2426bf52",
+    "text": "Audited August 2026. Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method and what has not yet been checked are at Method & Reference §1–§3.\n\nCompanion documents: Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Method & Reference (survey method, audit queue, reading timeline) · Glossary (plain-English definitions).",
+    "raw_text": "> **Audited August 2026.** Corrections are filed inline beneath the claims they revise, marked ⚑. Nothing has been deleted — you can see what was originally recorded, what survived, and why. Two claims in this document failed audit: §4.1 (only two innate fears — collapses) and part of §3.1 (the Children's Crusade — drop it). Both have rebuilt replacement lines. The standing method and what has not yet been checked are at Method & Reference §1–§3.\n>\n> **Companion documents:** Study Notes (findings) · Historical Framework (dates and evidence) · Sources (primary texts with links) · The Strongest Case (theologians, apologists, hermeneutics) · Translations (which Bible and why) · Method & Reference (survey method, audit queue, reading timeline) · Glossary (plain-English definitions).",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -255,7 +255,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -286,7 +286,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -317,7 +317,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -348,7 +348,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -379,7 +379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -410,7 +410,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -441,7 +441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -472,7 +472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -503,7 +503,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -534,7 +534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -565,7 +565,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -596,7 +596,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -627,7 +627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -658,7 +658,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -689,7 +689,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -720,7 +720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -751,7 +751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -782,7 +782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -813,7 +813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -844,7 +844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -875,7 +875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -906,7 +906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -937,7 +937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -968,7 +968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -999,7 +999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1030,7 +1030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1061,7 +1061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1092,7 +1092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1123,7 +1123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1154,7 +1154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1185,7 +1185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1216,7 +1216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1247,7 +1247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1278,7 +1278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1309,7 +1309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1340,7 +1340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1371,7 +1371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1402,7 +1402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1433,7 +1433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1464,7 +1464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1495,7 +1495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1526,7 +1526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1557,7 +1557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1588,7 +1588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1619,7 +1619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1650,7 +1650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1681,7 +1681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1712,7 +1712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1743,7 +1743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1774,7 +1774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1805,7 +1805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1836,7 +1836,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1867,7 +1867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1898,7 +1898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1929,7 +1929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1960,7 +1960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -1991,7 +1991,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2022,7 +2022,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2053,7 +2053,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2084,7 +2084,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2115,7 +2115,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2146,7 +2146,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2177,7 +2177,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2208,7 +2208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2239,7 +2239,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2270,7 +2270,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2301,7 +2301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2332,7 +2332,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2363,7 +2363,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2394,7 +2394,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2425,7 +2425,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2456,7 +2456,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2487,7 +2487,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2518,7 +2518,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2549,7 +2549,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2580,7 +2580,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2611,7 +2611,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2642,7 +2642,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2673,7 +2673,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2704,7 +2704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2735,7 +2735,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2766,7 +2766,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2797,7 +2797,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2828,7 +2828,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2859,7 +2859,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2890,7 +2890,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2921,7 +2921,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2952,7 +2952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -2983,7 +2983,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3014,7 +3014,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3045,7 +3045,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3076,7 +3076,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3107,7 +3107,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3138,7 +3138,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3169,7 +3169,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3200,7 +3200,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3231,7 +3231,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3262,7 +3262,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3293,7 +3293,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3324,7 +3324,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3355,7 +3355,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3386,7 +3386,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3417,7 +3417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3448,7 +3448,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3479,7 +3479,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3510,7 +3510,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3541,7 +3541,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3572,7 +3572,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3603,7 +3603,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3634,7 +3634,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3665,7 +3665,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3696,7 +3696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3727,7 +3727,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3758,7 +3758,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3789,7 +3789,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3820,7 +3820,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3851,7 +3851,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -3882,7 +3882,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4425,7 +4425,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4456,7 +4456,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4487,7 +4487,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4518,7 +4518,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4549,7 +4549,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4580,7 +4580,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4611,7 +4611,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4642,7 +4642,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4673,7 +4673,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -4704,7 +4704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5599,7 +5599,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5630,7 +5630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5661,7 +5661,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5692,7 +5692,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5723,7 +5723,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5754,7 +5754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5785,7 +5785,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5816,7 +5816,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5847,7 +5847,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5878,7 +5878,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5909,7 +5909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5940,7 +5940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -5971,7 +5971,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6002,7 +6002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6033,7 +6033,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6064,7 +6064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6095,7 +6095,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6126,7 +6126,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6157,7 +6157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6188,7 +6188,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6219,7 +6219,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6250,7 +6250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6281,7 +6281,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6312,7 +6312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6343,7 +6343,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6374,7 +6374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6405,7 +6405,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6436,7 +6436,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6467,7 +6467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6498,7 +6498,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6529,7 +6529,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6560,7 +6560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6591,7 +6591,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6622,7 +6622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6746,7 +6746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6777,7 +6777,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6808,7 +6808,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6839,7 +6839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6870,7 +6870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6901,7 +6901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6932,7 +6932,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6963,7 +6963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -6994,7 +6994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7025,7 +7025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7056,7 +7056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7087,7 +7087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7118,7 +7118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7149,7 +7149,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7180,7 +7180,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7211,7 +7211,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7242,7 +7242,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7273,7 +7273,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7304,7 +7304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7335,7 +7335,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7366,7 +7366,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7397,7 +7397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7428,7 +7428,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7459,7 +7459,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7490,7 +7490,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7521,7 +7521,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7552,7 +7552,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7583,7 +7583,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7614,7 +7614,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7645,7 +7645,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7676,7 +7676,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7707,7 +7707,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7738,7 +7738,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7769,7 +7769,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7800,7 +7800,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7831,7 +7831,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7862,7 +7862,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7893,7 +7893,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7924,7 +7924,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7955,7 +7955,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -7986,7 +7986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8017,7 +8017,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8048,7 +8048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8079,7 +8079,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8110,7 +8110,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8141,7 +8141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8172,7 +8172,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8203,7 +8203,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8234,7 +8234,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8265,7 +8265,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8296,7 +8296,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8327,7 +8327,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8358,7 +8358,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8389,7 +8389,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8420,7 +8420,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8451,7 +8451,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8482,7 +8482,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8513,7 +8513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8544,7 +8544,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8575,7 +8575,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8606,7 +8606,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8637,7 +8637,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8668,7 +8668,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8699,7 +8699,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8730,7 +8730,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8761,7 +8761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8792,7 +8792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8823,7 +8823,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8854,7 +8854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8885,7 +8885,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8916,7 +8916,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8946,7 +8946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -8976,7 +8976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9006,7 +9006,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9036,7 +9036,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9066,7 +9066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9096,7 +9096,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9126,7 +9126,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9156,7 +9156,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9186,7 +9186,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9216,7 +9216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9246,7 +9246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9276,7 +9276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9306,7 +9306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9336,7 +9336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9366,7 +9366,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9396,7 +9396,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9426,7 +9426,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9456,7 +9456,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9486,7 +9486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9516,7 +9516,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9546,7 +9546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9576,7 +9576,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9606,7 +9606,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9636,7 +9636,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9666,7 +9666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9696,7 +9696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9727,7 +9727,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9758,7 +9758,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9789,7 +9789,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9820,7 +9820,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9851,7 +9851,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9882,7 +9882,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9913,7 +9913,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9944,7 +9944,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -9975,7 +9975,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10006,7 +10006,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10037,7 +10037,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10068,7 +10068,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10099,7 +10099,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10130,7 +10130,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10161,7 +10161,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10192,7 +10192,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10223,7 +10223,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10254,7 +10254,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10285,7 +10285,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10316,7 +10316,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10347,7 +10347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10378,7 +10378,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10409,7 +10409,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10440,7 +10440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10471,7 +10471,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10502,7 +10502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10533,7 +10533,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10564,7 +10564,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10595,7 +10595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10626,7 +10626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10657,7 +10657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10688,7 +10688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10719,7 +10719,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10749,7 +10749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10780,7 +10780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10811,7 +10811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10842,7 +10842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10873,7 +10873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10904,7 +10904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10935,7 +10935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10966,7 +10966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -10997,7 +10997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11028,7 +11028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11059,7 +11059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11090,7 +11090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11121,7 +11121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11152,7 +11152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11183,7 +11183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11214,7 +11214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11245,7 +11245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11276,7 +11276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11307,7 +11307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11338,7 +11338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11369,7 +11369,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11400,7 +11400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11431,7 +11431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11462,7 +11462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11493,7 +11493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11524,7 +11524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11555,7 +11555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11586,7 +11586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11617,7 +11617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11648,7 +11648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11679,7 +11679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11710,7 +11710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11741,7 +11741,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11772,7 +11772,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11803,7 +11803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11834,7 +11834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11865,7 +11865,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11896,7 +11896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11927,7 +11927,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11958,7 +11958,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -11989,7 +11989,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12020,7 +12020,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12051,7 +12051,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12082,7 +12082,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12113,7 +12113,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12144,7 +12144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12175,7 +12175,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12206,7 +12206,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12236,7 +12236,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12267,7 +12267,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12298,7 +12298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12329,7 +12329,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12360,7 +12360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12391,7 +12391,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12422,7 +12422,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12453,7 +12453,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12484,7 +12484,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12515,7 +12515,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12546,7 +12546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12577,7 +12577,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12608,7 +12608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12639,7 +12639,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12670,7 +12670,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12701,7 +12701,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12732,7 +12732,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12763,7 +12763,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12794,7 +12794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12825,7 +12825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12856,7 +12856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12887,7 +12887,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12918,7 +12918,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12949,7 +12949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -12980,7 +12980,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13011,7 +13011,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13042,7 +13042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13073,7 +13073,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13104,7 +13104,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13135,7 +13135,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13166,7 +13166,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13197,7 +13197,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13228,7 +13228,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13259,7 +13259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13290,7 +13290,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13321,7 +13321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13352,7 +13352,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13383,7 +13383,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13414,7 +13414,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13445,7 +13445,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13476,7 +13476,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13507,7 +13507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13538,7 +13538,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13569,7 +13569,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13600,7 +13600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13631,7 +13631,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13662,7 +13662,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13693,7 +13693,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13724,7 +13724,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13755,7 +13755,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13786,7 +13786,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13817,7 +13817,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13848,7 +13848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13879,7 +13879,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13909,7 +13909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13940,7 +13940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -13971,7 +13971,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14002,7 +14002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14033,7 +14033,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14064,7 +14064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14095,7 +14095,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14126,7 +14126,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14157,7 +14157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14188,7 +14188,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14219,7 +14219,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14250,7 +14250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14281,7 +14281,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14312,7 +14312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14343,7 +14343,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14374,7 +14374,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14405,7 +14405,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14436,7 +14436,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14467,7 +14467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14498,7 +14498,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14529,7 +14529,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14560,7 +14560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14591,7 +14591,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14622,7 +14622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14653,7 +14653,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14684,7 +14684,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14715,7 +14715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14746,7 +14746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14777,7 +14777,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14808,7 +14808,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14839,7 +14839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14870,7 +14870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14901,7 +14901,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14932,7 +14932,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14963,7 +14963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -14994,7 +14994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15025,7 +15025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15056,7 +15056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15087,7 +15087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15118,7 +15118,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15149,7 +15149,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15180,7 +15180,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15211,7 +15211,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15242,7 +15242,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15273,7 +15273,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15304,7 +15304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15335,7 +15335,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15366,7 +15366,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15397,7 +15397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15428,7 +15428,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15459,7 +15459,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15490,7 +15490,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15521,7 +15521,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15552,7 +15552,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15583,7 +15583,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15614,7 +15614,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15645,7 +15645,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15676,7 +15676,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15707,7 +15707,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15738,7 +15738,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15769,7 +15769,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15800,7 +15800,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15831,7 +15831,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15862,7 +15862,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15893,7 +15893,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15924,7 +15924,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15955,7 +15955,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -15986,7 +15986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16017,7 +16017,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16048,7 +16048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16079,7 +16079,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16110,7 +16110,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16141,7 +16141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16172,7 +16172,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16203,7 +16203,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16234,7 +16234,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16265,7 +16265,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16296,7 +16296,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16327,7 +16327,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16358,7 +16358,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16389,7 +16389,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16420,7 +16420,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16451,7 +16451,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16482,7 +16482,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16513,7 +16513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16544,7 +16544,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16575,7 +16575,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16606,7 +16606,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16637,7 +16637,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16668,7 +16668,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16699,7 +16699,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16730,7 +16730,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16761,7 +16761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16792,7 +16792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16823,7 +16823,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16854,7 +16854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16885,7 +16885,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16916,7 +16916,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16947,7 +16947,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -16977,7 +16977,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17008,7 +17008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17039,7 +17039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17070,7 +17070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17101,7 +17101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17132,7 +17132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17163,7 +17163,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17194,7 +17194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17225,7 +17225,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17256,7 +17256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17287,7 +17287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17318,7 +17318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17349,7 +17349,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17380,7 +17380,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17411,7 +17411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17442,7 +17442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17473,7 +17473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17504,7 +17504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17535,7 +17535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17566,7 +17566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17597,7 +17597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17628,7 +17628,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17659,7 +17659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17690,7 +17690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17721,7 +17721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17752,7 +17752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17783,7 +17783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17814,7 +17814,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17845,7 +17845,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17875,7 +17875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17906,7 +17906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17937,7 +17937,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17968,7 +17968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -17999,7 +17999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18030,7 +18030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18061,7 +18061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18092,7 +18092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18123,7 +18123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18154,7 +18154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18185,7 +18185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18216,7 +18216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18247,7 +18247,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18278,7 +18278,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18309,7 +18309,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18340,7 +18340,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18371,7 +18371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18402,7 +18402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18433,7 +18433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18464,7 +18464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18495,7 +18495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18526,7 +18526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18557,7 +18557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18588,7 +18588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18619,7 +18619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18650,7 +18650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18681,7 +18681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18712,7 +18712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18743,7 +18743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18774,7 +18774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18805,7 +18805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18836,7 +18836,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18867,7 +18867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18898,7 +18898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18929,7 +18929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18960,7 +18960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -18991,7 +18991,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19022,7 +19022,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19053,7 +19053,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19084,7 +19084,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19115,7 +19115,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19146,7 +19146,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19177,7 +19177,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19208,7 +19208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19239,7 +19239,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions."
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": true,
     "parser_version": "1.1.3"
@@ -19608,1278 +19608,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Observations provenance does not deterministically assign this section to one speaker."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_4049df350da4f6eddcf2",
-    "text": "Compressed from Historical Framework §2. This version is for grabbing fast, not for reading through. Dates before roughly 900 BCE are approximate; from the Assyrian period on, chronology is firm — anchored to dated eclipses and king lists.",
-    "raw_text": "*Compressed from Historical Framework §2. This version is for grabbing fast, not for reading through. Dates before roughly 900 BCE are approximate; from the Assyrian period on, chronology is firm — anchored to dated eclipses and king lists.*",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-    "source_reference": "paragraph:634",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_d33920ce4f732704e8ae",
-    "text": "| Date | Event |\n|---|---|\n| c. 1208 BCE | Merneptah Stele — first extrabiblical mention of Israel, as a people not a place |\n| c. 1200–1000 | Highland settlement in Canaan — gradual, no conquest layer |\n| c. 1000 | Traditional date for David — existence firm, scale disputed |\n| c. 840 | Tel Dan Stele (\"House of David\") and Mesha Stele (earliest extrabiblical YHWH) |\n| 722 | Assyria destroys the northern kingdom |\n| 701 | Sennacherib besieges Jerusalem — best-corroborated event in the Hebrew Bible |\n| c. 622 | Josiah's reform; \"book of the law\" found in the Temple |\n| 586 | Jerusalem falls; First Temple destroyed; exile |\n| 539 | Cyrus takes Babylon |\n| c. 516 | Second Temple completed |",
-    "raw_text": "| Date | Event |\n|---|---|\n| c. 1208 BCE | Merneptah Stele — first extrabiblical mention of Israel, as a people not a place |\n| c. 1200–1000 | Highland settlement in Canaan — gradual, no conquest layer |\n| c. 1000 | Traditional date for David — **existence firm, scale disputed** |\n| c. 840 | Tel Dan Stele (\"House of David\") and Mesha Stele (earliest extrabiblical YHWH) |\n| 722 | Assyria destroys the northern kingdom |\n| 701 | Sennacherib besieges Jerusalem — **best-corroborated event in the Hebrew Bible** |\n| c. 622 | Josiah's reform; \"book of the law\" found in the Temple |\n| 586 | Jerusalem falls; First Temple destroyed; exile |\n| 539 | Cyrus takes Babylon |\n| c. 516 | Second Temple completed |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.1 Before and during the kingdoms"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.1 Before and during the kingdoms",
-    "source_reference": "paragraph:635",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_32c13a5a7a9c2361a28a",
-    "text": "Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.",
-    "raw_text": "*Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.*",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.2 The Second Temple period between the Testaments"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
-    "source_reference": "paragraph:636",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_fc93876563869e7252dc",
-    "text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant; Greek becomes the elite language |\n| c. 250 | Septuagint — Hebrew scriptures translated into Greek |\n| c. 165 | Daniel written — latest book in the Hebrew Bible |\n| 167–160 | Maccabean revolt |\n| 63 | Pompey takes Jerusalem — Rome arrives |\n| 37–4 | Herod the Great; Temple expansion |",
-    "raw_text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant; Greek becomes the elite language |\n| c. 250 | Septuagint — Hebrew scriptures translated into Greek |\n| c. 165 | **Daniel written** — latest book in the Hebrew Bible |\n| 167–160 | Maccabean revolt |\n| 63 | Pompey takes Jerusalem — Rome arrives |\n| 37–4 | Herod the Great; Temple expansion |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.2 The Second Temple period between the Testaments"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
-    "source_reference": "paragraph:637",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_0071ffffd26194ba7801",
-    "text": "What forms in this window: resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. None of it is in the Torah.",
-    "raw_text": "**What forms in this window:** resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. **None of it is in the Torah.**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.2 The Second Temple period between the Testaments"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.2 The Second Temple period between the Testaments",
-    "source_reference": "paragraph:638",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_fe76c2c4bef6dcefa61c",
-    "text": "| Date | Event |\n|---|---|\n| 6 CE | Judea becomes a Roman province |\n| 26–36 | Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961 |\n| c. 30–33 | Crucifixion |\n| c. 50–60 | Paul's undisputed letters — the earliest Christian writings that survive |\n| 66–73 | First Jewish Revolt |\n| 70 | Jerusalem sacked, Second Temple destroyed — the hinge |\n| c. 70 | Mark |\n| c. 80–85 | Matthew and Luke |\n| c. 90–100 | John |\n| c. 95 | Revelation |\n| 132–135 | Bar Kokhba revolt; Jews barred from Jerusalem |",
-    "raw_text": "| Date | Event |\n|---|---|\n| 6 CE | Judea becomes a Roman province |\n| 26–36 | Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961 |\n| c. 30–33 | Crucifixion |\n| **c. 50–60** | **Paul's undisputed letters — the earliest Christian writings that survive** |\n| 66–73 | First Jewish Revolt |\n| **70** | **Jerusalem sacked, Second Temple destroyed — the hinge** |\n| c. 70 | Mark |\n| c. 80–85 | Matthew and Luke |\n| c. 90–100 | John |\n| c. 95 | Revelation |\n| 132–135 | Bar Kokhba revolt; Jews barred from Jerusalem |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.3 Jesus and the New Testament"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.3 Jesus and the New Testament",
-    "source_reference": "paragraph:639",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_616d46245c47650f7810",
-    "text": "| Date | Event |\n|---|---|\n| c. 112 | Pliny the Younger's letter — earliest outside description of Christian worship |\n| c. 115 | Tacitus on Christus executed under Pilate |\n| c. 140 | Marcion's canon — the first known list, declared heretical |\n| c. 180 | Irenaeus argues for exactly four Gospels |\n| 313 | Edict of Milan — Christianity legalised |\n| 325 | Nicaea — Arian controversy and the Nicene Creed. NOT the canon. |\n| 367 | Athanasius's 39th Festal Letter — first surviving list matching the 27-book NT |\n| 380 | Edict of Thessalonica — Christianity becomes the state religion |\n| 393 / 397 | Hippo and Carthage ratify regional canon lists |",
-    "raw_text": "| Date | Event |\n|---|---|\n| c. 112 | Pliny the Younger's letter — earliest outside description of Christian worship |\n| c. 115 | Tacitus on Christus executed under Pilate |\n| c. 140 | Marcion's canon — the first known list, declared heretical |\n| c. 180 | Irenaeus argues for exactly four Gospels |\n| 313 | Edict of Milan — Christianity legalised |\n| **325** | **Nicaea — Arian controversy and the Nicene Creed. NOT the canon.** |\n| 367 | Athanasius's 39th Festal Letter — first surviving list matching the 27-book NT |\n| 380 | Edict of Thessalonica — Christianity becomes the state religion |\n| 393 / 397 | Hippo and Carthage ratify regional canon lists |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.4 How the church and the canon formed"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.4 How the church and the canon formed",
-    "source_reference": "paragraph:640",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_258db163918713f0a21a",
-    "text": "| Date | Event |\n|---|---|\n| c. 570–632 | Muhammad |\n| 610 | Traditional date of first revelation |\n| 622 | Hijra — year 1 of the Islamic calendar |\n| c. 650 | Uthmanic recension — standardized Quranic text |\n| 8th–9th c. | Hadith collections and sira biographies written down |",
-    "raw_text": "| Date | Event |\n|---|---|\n| c. 570–632 | Muhammad |\n| 610 | Traditional date of first revelation |\n| 622 | Hijra — year 1 of the Islamic calendar |\n| c. 650 | Uthmanic recension — standardized Quranic text |\n| 8th–9th c. | Hadith collections and *sira* biographies written down |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.5 Islam"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.5 Islam",
-    "source_reference": "paragraph:641",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_6460cf298de8d6b40bd6",
-    "text": "| Date | Version |\n|---|---|\n| 1382 | Wycliffe — first complete English Bible |\n| 1526 | Tyndale New Testament — Tyndale executed 1536 |\n| 1611 | King James Version (Textus Receptus base) |\n| 1901 / 1952 | ASV / RSV — the RSV's \"young woman\" at Isaiah 7:14 gets copies publicly burned |\n| 1978 / 2011 | NIV |\n| 2001 | ESV |\n| 2021 | NRSVue — current academic standard |",
-    "raw_text": "| Date | Version |\n|---|---|\n| 1382 | Wycliffe — first complete English Bible |\n| 1526 | Tyndale New Testament — Tyndale executed 1536 |\n| 1611 | King James Version (*Textus Receptus* base) |\n| 1901 / 1952 | ASV / RSV — the RSV's \"young woman\" at Isaiah 7:14 gets copies publicly burned |\n| 1978 / 2011 | NIV |\n| 2001 | ESV |\n| 2021 | NRSVue — current academic standard |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.6 English Bibles"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.6 English Bibles",
-    "source_reference": "paragraph:642",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_6ac8b6dada99171b320b",
-    "text": "These are the figures to have ready. Every one is a gap between event and writing, which is the single most important number in any source discussion.",
-    "raw_text": "These are the figures to have ready. Every one is a *gap between event and writing*, which is the single most important number in any source discussion.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.7 Source gaps — key intervals to remember"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
-    "source_reference": "paragraph:643",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_bf60defb6af75427a9e0",
-    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
-    "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.7 Source gaps — key intervals to remember"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
-    "source_reference": "paragraph:644",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_af5981bfd4b842194de7",
-    "text": "Reference question: \"How long between the event and the writing?\" Apply it to every source, in every tradition, including the ones you agree with.",
-    "raw_text": "**Reference question:** *\"How long between the event and the writing?\"* Apply it to every source, in every tradition, including the ones you agree with.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.7 Source gaps — key intervals to remember"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.7 Source gaps — key intervals to remember",
-    "source_reference": "paragraph:645",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_cdcdf268ea337744eedd",
-    "text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (Paul and Palestinian Judaism, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
-    "raw_text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (*Paul and Palestinian Judaism*, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.8 New Perspective on Paul — who to read"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.8 New Perspective on Paul — who to read",
-    "source_reference": "paragraph:646",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_b8d8fad51894e876b9f9",
-    "text": "Stephen Westerholm [EVANGELICAL], Perspectives Old and New on Paul: The Lutheran Paul and His Critics (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.",
-    "raw_text": "Stephen Westerholm [EVANGELICAL], *Perspectives Old and New on Paul: The Lutheran Paul and His Critics* (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.8 New Perspective on Paul — who to read"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.8 New Perspective on Paul — who to read",
-    "source_reference": "paragraph:647",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_b7b76fc241baf0251d0f",
-    "text": "Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.",
-    "raw_text": "Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], *Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective* (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.8 New Perspective on Paul — who to read"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.8 New Perspective on Paul — who to read",
-    "source_reference": "paragraph:648",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_032b82546205df201d16",
-    "text": "Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.",
-    "raw_text": "Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.8 New Perspective on Paul — who to read"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.8 New Perspective on Paul — who to read",
-    "source_reference": "paragraph:649",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_b9ac043ec00406a14001",
-    "text": "Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
-    "raw_text": "**Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION",
-      "19.8 New Perspective on Paul — who to read"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION > 19.8 New Perspective on Paul — who to read",
-    "source_reference": "paragraph:650",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_a38c719aa9a18723bd2e",
-    "text": "•  Scholarly claims and personal inference must always be distinguished. Label which is which.",
-    "raw_text": "•  Scholarly claims and personal inference must always be distinguished. Label which is which.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES",
-    "source_reference": "paragraph:651",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_d12392868da6fd5c2975",
-    "text": "•  Sources from multiple perspectives are included by design. The goal is to understand the strongest version of each position and the evidence for and against it.",
-    "raw_text": "•  Sources from multiple perspectives are included by design. The goal is to understand the strongest version of each position and the evidence for and against it.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES",
-    "source_reference": "paragraph:652",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_24435a6f91d0cf3cf9df",
-    "text": "•  When a claim cannot be sourced, it is labeled as inference or observation until verified.",
-    "raw_text": "•  When a claim cannot be sourced, it is labeled as inference or observation until verified.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES",
-    "source_reference": "paragraph:653",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_c0ce25c6252b2152f682",
-    "text": "•  All entries are living — add corrections, reversals, and new observations as they come.",
-    "raw_text": "•  All entries are living — add corrections, reversals, and new observations as they come.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES",
-    "source_reference": "paragraph:654",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_a62dd790119e02b8f7ef",
-    "text": "Applied to every contested passage from here forward, and retroactively to everything above:",
-    "raw_text": "Applied to every contested passage from here forward, and retroactively to everything above:",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
-    "source_reference": "paragraph:655",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_0d86fc5fa29cd7220fb1",
-    "text": "1. Name the scholars and the publications. Not \"some scholars argue.\" Author, title, journal, year.\n2. Label the camp. Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. Verify by search, not memory. Recall produces confident summaries of positions that do not exist.\n4. Strongest case for each side, including the traditional one.\n5. Documented vs. inferred, marked every time. \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. State a conclusion with reasoning. A survey that refuses to land is not an answer.\n7. Correct overreach openly. Then stop hedging.",
-    "raw_text": "1. **Name the scholars and the publications.** Not \"some scholars argue.\" Author, title, journal, year.\n2. **Label the camp.** Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. **Verify by search, not memory.** Recall produces confident summaries of positions that do not exist.\n4. **Strongest case for each side, including the traditional one.**\n5. **Documented vs. inferred, marked every time.** \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. **State a conclusion with reasoning.** A survey that refuses to land is not an answer.\n7. **Correct overreach openly.** Then stop hedging.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
-    "source_reference": "paragraph:656",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_0ea8ad336b6333d6e394",
-    "text": "Entry format: AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
-    "raw_text": "**Entry format:** AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
-    "source_reference": "paragraph:657",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_99fa356e5b5b5a5a2243",
-    "text": "Use note: do not present an unaudited claim as settled. The queue at §8.2 lists what has not been checked.",
-    "raw_text": "**Use note:** do not present an unaudited claim as settled. The queue at §8.2 lists what has not been checked.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.1 Scholarly Survey Method (mirrored from Study Notes §11)"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.1 Scholarly Survey Method (mirrored from Study Notes §11)",
-    "source_reference": "paragraph:658",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_5b7f71308c47d6bbbd33",
-    "text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — the popular skeptic version is false |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
-    "raw_text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — **the popular skeptic version is false** |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.2 Where to Look While Reading or in Conversation"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look While Reading or in Conversation",
-    "source_reference": "paragraph:659",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_abc1bcadbe093161265d",
-    "text": "Standing rule from Sources §6.2: never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.",
-    "raw_text": "**Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.2 Where to Look While Reading or in Conversation"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.2 Where to Look While Reading or in Conversation",
-    "source_reference": "paragraph:660",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_8a4765e1a69ca3a4e71a",
-    "text": "Ranked by verification priority. Not yet audited.",
-    "raw_text": "Ranked by verification priority. Not yet audited.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:661",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_4bd828c1c15021210077",
-    "text": "Highest exposure",
-    "raw_text": "**Highest exposure**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:662",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_38d8b4c26836ae5f2c40",
-    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n\"John is textually antisemitic\" — recorded at §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
-    "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at §8.6 as settled. Probably is not.\n- **\"John is textually antisemitic\"** — recorded at §8.5. The *Ioudaioi* translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:663",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_cf74921fca3f1a4c4c73",
-    "text": "Medium exposure",
-    "raw_text": "**Medium exposure**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:664",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_f5567d78715661e2b83b",
-    "text": "Acts speeches as fictional constructions (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\nLuke softening Roman culpability (§6.3) — defensible, with real pushback.\nDeutero-Pauline pseudonymity (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
-    "raw_text": "- **Acts speeches as fictional constructions** (§9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- **Luke softening Roman culpability** (§6.3) — defensible, with real pushback.\n- **Deutero-Pauline pseudonymity** (§6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:665",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_29e15936290cdbded6e5",
-    "text": "Low exposure — expected to survive",
-    "raw_text": "**Low exposure — expected to survive**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:666",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_04c37a828ab6a7486bc8",
-    "text": "Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\nGalatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\nMatthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\nIsaiah 7:14 almah/parthenos (§2). Expected to hold, but the traditional counterargument has not been recorded.\nHa-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
-    "raw_text": "- Markan priority (§6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (§9.3). Real; degree argued.\n- Matthew's use of prophecy (§6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 *almah*/*parthenos* (§2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3, §2). Expected to hold.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:667",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_dd58b8fe74e0fb976207",
-    "text": "Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
-    "raw_text": "*Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified",
-    "source_reference": "paragraph:668",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_a84ad900032e3c0a543e",
-    "text": "Corrected: §3.1 Crusades (partial — Children's Crusade dropped, defensive framing nuanced) · §4.1 Innate fear (collapsed, rebuilt).",
-    "raw_text": "**Corrected:** §3.1 Crusades (partial — Children's Crusade dropped, defensive framing nuanced) · §4.1 Innate fear (collapsed, rebuilt).",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
-    "source_reference": "paragraph:669",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_f92a3d2c6e10c1f35866",
-    "text": "Verified elsewhere: §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
-    "raw_text": "**Verified elsewhere:** §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). §4.2 Epley et al. — the PNAS citation is sound.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
-    "source_reference": "paragraph:670",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_f599e78dfba3ee3f23e2",
-    "text": "Not yet audited in this document. Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
-    "raw_text": "**Not yet audited in this document.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §13 Trinity · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
-    "source_reference": "paragraph:671",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_110bba9e2f67c0ec0f2a",
-    "text": "Two flagged for early attention when the audit resumes:",
-    "raw_text": "**Two flagged for early attention when the audit resumes:**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
-    "source_reference": "paragraph:672",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_3c83826a16befc863f9c",
-    "text": "§12.8 John 8:44 — use anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.\n§13 Trinity / Nicaea — verify against Historical Framework §7. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns imperial enforcement of a theological outcome and the exile of dissenters.",
-    "raw_text": "- **§12.8 John 8:44** — use **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.\n- **§13 Trinity / Nicaea** — verify against Historical Framework §7. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns imperial enforcement of a theological outcome and the exile of dissenters.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
-    "source_reference": "paragraph:673",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
-    "parser_version": "1.1.3"
-  },
-  {
-    "id": "rk_141fc9a513d8932b5f9b",
-    "text": "Living document — update as reading and conversations progress",
-    "raw_text": "*Living document — update as reading and conversations progress*",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "8. STANDING METHODOLOGICAL NOTES",
-      "8.3 Open Audit Queue — Claims Not Yet Verified",
-      "8.4 Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "8. STANDING METHODOLOGICAL NOTES > 8.3 Open Audit Queue — Claims Not Yet Verified > 8.4 Observations Audit Status",
-    "source_reference": "paragraph:674",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources."
-    },
-    "review_required": false,
     "parser_version": "1.1.3"
   }
 ]);

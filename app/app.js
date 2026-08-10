@@ -279,6 +279,7 @@
     'Field_Guide_Conversation_Reference.md': 'Observations',
     'Glossary.md': 'Glossary',
     'Historical_Framework.md': 'Historical Framework',
+    'Method_and_Reference.md': 'Method & Reference',
     'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',
     'The_Other_Side.md': 'The Strongest Case',
     'Translations.md': 'Translations',

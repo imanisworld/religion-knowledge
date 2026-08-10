@@ -91,14 +91,19 @@ test('Observations mixed sections remain REVIEW_REQUIRED', () => {
   assert.equal(out.records[0].review_required, true);
 });
 
-test('Observations section 8 defaults to Claude compilation', () => {
-  const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 8. METHOD\n\nCompiled method.' });
+test('Method and Reference document defaults to Claude compilation', () => {
+  const out = parseMarkdown({ sourceFile: 'Method_and_Reference.md', content: '# 1. METHOD\n\nCompiled method.' });
   assert.equal(out.records[0].provenance_type, 'CLAUDE');
   assert.equal(out.records[0].representation_type, 'SUMMARY');
 });
 
+test('Observations section 8 no longer exists as a special case (moved to Method and Reference)', () => {
+  const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 8. SOMETHING ELSE\n\nUnmarked paragraph.' });
+  assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
+});
+
 test('Claude-authored reference docs use explicit document provenance', () => {
-  for (const sourceFile of ['Glossary.md', 'Historical_Framework.md', 'The_Other_Side.md', 'Translations.md']) {
+  for (const sourceFile of ['Glossary.md', 'Historical_Framework.md', 'Method_and_Reference.md', 'The_Other_Side.md', 'Translations.md']) {
     const out = parseMarkdown({ sourceFile, content: '# Topic\n\nUnmarked paragraph.' });
     assert.equal(out.records[0].provenance_type, 'CLAUDE', sourceFile);
     assert.equal(out.records[0].representation_type, 'SUMMARY', sourceFile);

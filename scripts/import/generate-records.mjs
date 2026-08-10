@@ -8,6 +8,7 @@ const CANONICAL_FILES = [
   ['Field_Guide_Conversation_Reference.md', 'records.field-guide.js'],
   ['Glossary.md', 'records.glossary.js'],
   ['Historical_Framework.md', 'records.history.js'],
+  ['Method_and_Reference.md', 'records.method-reference.js'],
   ['Sources_and_Primary_Texts.md', 'records.sources.js'],
   ['The_Other_Side.md', 'records.other-side.js'],
   ['Translations.md', 'records.translations.js'],
