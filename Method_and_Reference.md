@@ -81,13 +81,11 @@ All section numbers below refer to Observations (`Field_Guide_Conversation_Refer
 
 **Verified elsewhere:** Observations §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). Observations §4.2 Epley et al. — the PNAS citation is sound.
 
-**Not yet audited in Observations.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 "don't add your own understanding" · §11 moral frameworks · §12 key verses · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.
+**Not yet audited in Observations.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 "don't add your own understanding" · §11 moral frameworks · §12 key verses (except §12.8, see below) · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.
 
 **§13 Trinity — audited 10 Aug 2026.** The Nicaea/canon mixup was corrected earlier (7 Aug 2026). A full scholarly-survey pass on the rest of the section followed: four `⚑ AUDIT` blocks now sit inline in `Field_Guide_Conversation_Reference.md` — §13.2 adoptionism-in-Mark (overstated, corrected), §13.3 Nicaea attendance/dissent numbers (holds, strengthened with real figures against the "318 bishops" legend), §13.4 the doctrine's logical tensions (overstated by omission — the traditional/Chalcedonian answers were missing and are now supplied), and §13.5 where high Christology comes from (overstated — the late-Hellenistic-import thesis was presented as settled when Hurtado and Bauckham's early-high-Christology case is the mainstream challenger, not a fringe defense). §13.1's list of unity-vs-subordination proof texts was left as a plain citation list, not audited as a contestable claim.
 
-**One item still flagged for early attention:**
-
-- **Observations §12.8 John 8:44** — use **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.
+**§12.8 John 8:44 — audited 10 Aug 2026, the last item on the original two-item early-attention list.** Terminology corrected to **anti-Jewish**, not antisemitic (a modern racial category dating from 1879; anachronistic applied to a first-century text). The synagogue-expulsion (Martyn's *aposynagogos*) explanation is flagged as a contested reconstruction, not settled background — Reinhartz critiques it directly. The "Judeans" translation is explicitly rejected as a fix, per the same Reinhartz/Levine/Crossley sourcing already established at Study Notes §8.5. Reception history stands as the strongest form of the claim and needs no theory of authorial intent. Both items originally flagged for early attention (§12.8, §13) are now closed — Task 2's audit queue moves to the remaining unaudited sections listed above, with no further items singled out for priority.
 
 ## 5. Quick Timeline — Dates for Reading and Conversation
 
