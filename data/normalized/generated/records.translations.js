@@ -124,9 +124,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f68c0d1cca34e8a80e5b",
-    "text": "The short version. There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n\nYou are reading the ESV. That is a fine choice and you should keep it as your main read. But it is a conservative translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
-    "raw_text": "> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n>\n> **You are reading the ESV.** That is a fine choice and you should keep it as your main read. But it is a *conservative* translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
+    "id": "rk_c5cc489b522c81ba7a49",
+    "text": "The short version. There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is often the entire argument.\n\nYou are reading the ESV. That is a fine choice and you should keep it as your main read. But it is a conservative translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
+    "raw_text": "> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is often the entire argument.\n>\n> **You are reading the ESV.** That is a fine choice and you should keep it as your main read. But it is a *conservative* translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -278,9 +278,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_18a4fb582293f54a303e",
-    "text": "The trap in both directions. Formal equivalence is not more accurate; it is more literal, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is not looser; it is more decided. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
-    "raw_text": "**The trap in both directions.** Formal equivalence is not more accurate; it is more *literal*, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is not looser; it is more *decided*. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
+    "id": "rk_bd47700139f5c3ac4aab",
+    "text": "The trap in both directions. Formal equivalence is more literal, not more accurate, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is more decided, not looser. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
+    "raw_text": "**The trap in both directions.** Formal equivalence is more *literal*, not more accurate, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is more *decided*, not looser. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -371,9 +371,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d406214e25b754596069",
-    "text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. These are not deletions — they are additions that were later identified. See Sources §4.1; you can look at Codex Sinaiticus yourself.",
-    "raw_text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. **These are not deletions — they are additions that were later identified.** See Sources §4.1; you can look at Codex Sinaiticus yourself.",
+    "id": "rk_20ee51d53d93b26dfa2b",
+    "text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. These are additions that were later identified, not deletions. See Sources §4.1; you can look at Codex Sinaiticus yourself.",
+    "raw_text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. **These are additions that were later identified, not deletions.** See Sources §4.1; you can look at Codex Sinaiticus yourself.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1301,9 +1301,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9588f565e6e68e393f53",
-    "text": "The standing question, which works on any verse: Which translation are you using, and what do the others say? It is not a gotcha. It is the fastest way to find out whether a disagreement is about the text or about English.",
-    "raw_text": "**The standing question, which works on any verse:** *Which translation are you using, and what do the others say?* It is not a gotcha. It is the fastest way to find out whether a disagreement is about the text or about English.",
+    "id": "rk_af84d089d06d1133b119",
+    "text": "The standing question, which works on any verse: Which translation are you using, and what do the others say? It's the fastest way to find out whether a disagreement is about the text or about English.",
+    "raw_text": "**The standing question, which works on any verse:** *Which translation are you using, and what do the others say?* It's the fastest way to find out whether a disagreement is about the text or about English.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",

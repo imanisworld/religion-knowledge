@@ -30,7 +30,7 @@ Organized by field and level of scholarly engagement rather than fame. ⟨INFERE
 
 These are professional analytic philosophers whose work appears in secular academic venues and merits careful reading.
 
-**Alvin Plantinga** [REFORMED EPISTEMOLOGY] — *Warranted Christian Belief*, *God and Other Minds*. His argument is not that God's existence can be proved. It is that belief in God can be **properly basic** — rational without inferential argument, in the way belief in other minds or the reliability of memory is. He also formulated the free will defense, which is widely regarded as having defeated the *logical* problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the *evidential* problem of evil survives, and that is where the real argument now happens.
+**Alvin Plantinga** [REFORMED EPISTEMOLOGY] — *Warranted Christian Belief*, *God and Other Minds*. His argument is that belief in God can be **properly basic** — rational without inferential argument, in the way belief in other minds or the reliability of memory is — not that God's existence can be proved. He also formulated the free will defense, which is widely regarded as having defeated the *logical* problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the *evidential* problem of evil survives, and that is where the real argument now happens.
 
 **Richard Swinburne** [ANALYTIC, BAYESIAN] — *The Existence of God*. Builds a cumulative-case probabilistic argument. You cannot dismiss him without engaging Bayesian reasoning about priors, which most people cannot do.
 
@@ -42,7 +42,7 @@ These are professional analytic philosophers whose work appears in secular acade
 
 ### 1.2 Historians and biblical scholars who are also believers
 
-This category surprises people. These are not apologists — they are working scholars publishing in the same journals as the critics, who happen to be Christians.
+This category surprises people. These are working scholars publishing in the same journals as the critics, who happen to be Christians — not apologists.
 
 **N.T. Wright** [ANGLICAN, historian] — *The Resurrection of the Son of God*. The most substantial historical argument for the resurrection in print. His method is legitimate: he argues that neither Jewish nor pagan categories of the period predict a single individual bodily raised in the middle of history, so the belief requires explanation. Whether the explanation is the event is where you disagree — but the puzzle he sets is real.
 
@@ -122,7 +122,7 @@ Genesis 1 *is* ancient Near Eastern cosmology, not a science text — that is wh
 
 **"What's your rule — stated before we look at the passage?"**
 
-This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is not a method, it is a justification.
+This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is a justification, not a method.
 
 Follow-ups, in order:
 

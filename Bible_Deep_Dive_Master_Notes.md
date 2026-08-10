@@ -72,7 +72,7 @@ Job challenges the idea that suffering proves guilt. God answers with power and 
 
 ### 1.4 Moral discomfort is constant
 
-Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These aren't fringe passages — they're central to the theology.
+Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.
 
 ### 1.5 Selective law-keeping exposes human power
 
@@ -144,7 +144,7 @@ Worse than the dating error: the original claim implied a consensus that does no
 
 **Traditional case at full strength:** James K. Hoffmeier [CONSERVATIVE-EVANGELICAL, Egyptologist], *Israel in Egypt* (Oxford 1997) and *Ancient Israel in Sinai* (Oxford 2005). His strongest move is literary, not archaeological — Egyptian names, titles, and geography in the text that become hard to explain if composed after the New Kingdom, i.e. that a 6th-century Judahite scribe had no plausible access to. He also notes that Egyptologists and ANE specialists tend to be less skeptical of the text than biblical scholars are. Note he is **not** a maximalist: he takes a 13th-century date and is attacked from the right by Bryant Wood [CONSERVATIVE-EVANGELICAL, 1446 BC date, *JETS* 50/2] for delivering less evidence than promised. Archaeological counter to Finkelstein: radiocarbon dating and Khirbet Qeiyafa (fortress c. 1000 BCE) showing urban complexity inconsistent with low-chronology timelines.
 
-**What survives, strongly:** "Identity-forming literature" is not a fringe reading — it is the mainstream critical frame. Finkelstein treats the Exodus as a **charter myth**, blending faint memories of Semitic labor in Egypt with invented etiology, unsupported by Canaanite settlement patterns showing no influx around 1400 or 1200 BCE. William Dever [CRITICAL, archaeologist, anti-minimalist] points to anachronisms — Philistines (arriving only after 1200 BCE) and domesticated camels (not reliably attested before the 10th century) — indicating Iron Age or later redaction.
+**What survives, strongly:** "Identity-forming literature" is the mainstream critical frame, not a fringe reading. Finkelstein treats the Exodus as a **charter myth**, blending faint memories of Semitic labor in Egypt with invented etiology, unsupported by Canaanite settlement patterns showing no influx around 1400 or 1200 BCE. William Dever [CRITICAL, archaeologist, anti-minimalist] points to anachronisms — Philistines (arriving only after 1200 BCE) and domesticated camels (not reliably attested before the 10th century) — indicating Iron Age or later redaction.
 
 **CORRECTED:** *The Exodus narrative is a composite text assembled over centuries, with decisive shaping somewhere between the 7th century and the Persian period, functioning as origin literature for a community defining itself — not as a report of the events it describes. Which stage did the decisive work is genuinely unsettled, and the two main scholarly schools disagree on method, not merely dates.*
 
@@ -276,7 +276,7 @@ Critical to keep straight: most of the 21-proposal disagreement is about **ratio
 
 ### 5.1 What the NT is doing structurally
 
-The NT is not a continuation of the OT story. It is a reinterpretation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.
+The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.
 
 ### 5.2 Key structural facts
 
@@ -319,7 +319,7 @@ Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus s
 **The minority case, named and dated, because it is real scholarship, not fringe apologetics** ⟨noting camps carefully here, since this issue cuts across the usual critical/conservative line⟩**:**
 
 - **The Griesbach (Two-Gospel) Hypothesis** — J.J. Griesbach, 1776, revived forcefully by **William R. Farmer** [CRITICAL, not evangelical — this is worth flagging since the instinct is to assume minority Synoptic positions are conservative apologetics], *The Synoptic Problem: A Critical Analysis* (1964). Argues Matthew was written first, Luke used Matthew, and Mark wrote last, conflating both into a shorter summary. Farmer's specific charge, and it should be represented fairly: he argued the triumph of Markan priority in the 19th–20th century was driven by *theological* preference (a shorter, less doctrinally developed Gospel was more attractive to a certain kind of Protestant historical-critical scholarship) rather than by decisive textual evidence — a methodological critique, not a conservative one.
-- **The Farrer Hypothesis** (Farrer–Goulder–Goodacre) — associated most recently with **Mark Goodacre** [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used *both* Mark and Matthew directly, eliminating the need to posit a hypothetical lost source ("Q") to explain material shared by Matthew and Luke but absent from Mark. This is not a challenge to Markan priority itself — it's a challenge to the *two-source* hypothesis specifically, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.
+- **The Farrer Hypothesis** (Farrer–Goulder–Goodacre) — associated most recently with **Mark Goodacre** [CRITICAL, Duke University], a serious, currently active scholar. Agrees Mark was first, but argues Luke used *both* Mark and Matthew directly, eliminating the need to posit a hypothetical lost source ("Q") to explain material shared by Matthew and Luke but absent from Mark. This challenges the *two-source* hypothesis specifically, not Markan priority itself, and it has gained real traction because it's a simpler model (no lost document required) explaining the same data.
 - **The Augustinian Hypothesis** — the traditional canonical-order view (Matthew first, used by Mark, used by Luke), the dominant position for over a millennium before 19th-century criticism, now held by very few scholars.
 
 **What actually moved recently, and it's worth being precise:** the *Q hypothesis* — the theorized lost sayings-source explaining material common to Matthew and Luke but not Mark — is under more serious and more recent pressure than Markan priority itself. Goodacre's challenge is specifically to Q, not to Mark's priority. Do not conflate "some scholars doubt Q" with "some scholars doubt Mark was first" — these are different claims, and only the second is what your notes actually assert.
@@ -374,7 +374,7 @@ Gentile audience. Emphasizes mercy and the poor. Softens some of the harder edge
 
 **AUDIT**
 
-The trajectory across the Synoptics plus John is a real, frequently observed pattern: Pilate grows more reluctant and more explicitly declares Jesus innocent as the Gospels get later, while Jewish authorities and "the crowd" carry more of the narrative weight. This is not fringe — it is standard redaction-critical observation, traceable through commentaries from **Raymond Brown** [CRITICAL, Catholic] and **Joseph Fitzmyer** [CRITICAL, Catholic, author of the standard Anchor Bible Luke commentary] on down.
+The trajectory across the Synoptics plus John is a real, frequently observed pattern: Pilate grows more reluctant and more explicitly declares Jesus innocent as the Gospels get later, while Jewish authorities and "the crowd" carry more of the narrative weight. This is standard redaction-critical observation, not fringe, traceable through commentaries from **Raymond Brown** [CRITICAL, Catholic] and **Joseph Fitzmyer** [CRITICAL, Catholic, author of the standard Anchor Bible Luke commentary] on down.
 
 **Luke specifically, and this is the sharper point than a general "softening":** Luke has Pilate declare Jesus innocent **three separate times** (23:4, 23:14–15, 23:22) — more explicitly and more repeatedly than Mark or Matthew. Luke also inserts a scene found in no other Gospel: Pilate sends Jesus to Herod Antipas, who likewise finds no fault (23:6–12). The effect is cumulative: by the time of the crucifixion, two Roman/client authorities have independently declared Jesus innocent, and the crowd's demand overrides both.
 
@@ -398,7 +398,7 @@ Latest written (~90-100 CE). Most theologically developed. Opens with 'In the be
 
 ### 6.5 Then Paul's Letters
 
-Where Christian theology is actually constructed. Paul never met Jesus. His letters predate the Gospels. He is building a theological system, not reporting events. The tension between 'there is neither slave nor free' (Galatians 3:28) and 'slaves obey your masters' (Colossians 3:22, Ephesians 6:5) in the Pauline corpus is not a minor contradiction — it is the structural contradiction that made the Bible usable for both slavery's justification and its resistance.
+Where Christian theology is actually constructed. Paul never met Jesus. His letters predate the Gospels. He is building a theological system, not reporting events. The tension between 'there is neither slave nor free' (Galatians 3:28) and 'slaves obey your masters' (Colossians 3:22, Ephesians 6:5) in the Pauline corpus is the structural contradiction that made the Bible usable for both slavery's justification and its resistance, not a minor one.
 
 #### ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One
 
@@ -582,7 +582,7 @@ Acts makes Peter and Paul look like they broadly agree, minor friction smoothed 
 
 3. **Galatians was written *before* the Acts 15 council took place** — meaning there is no contradiction because the events described are chronologically prior to it. This is a serious minority position, not a fringe harmonization: it explains why Paul never cites the Acts 15 decree in Galatians (it hadn't happened yet), and it explains why the circumcision controversy in Galatians reads as live and unresolved rather than settled.
 
-**Second — and this is the more useful point than adjudicating which position is correct** ⟨INFERENCE⟩**:** even under Keener's own same-event position, the strongest version of the contradiction survives, because it isn't really about which meeting is being described. It's this: **Galatians 2:6, in Paul's own words, states that the Jerusalem leadership "added nothing" to his gospel** — a direct, first-person claim of full apostolic independence. Acts 15:19–29, by contrast, has James issue a formal, binding decree (abstain from food sacrificed to idols, from blood, from what is strangled, and from sexual immorality) that Gentile believers are required to follow. **That is Jerusalem adding something, delivered as institutional authority — the very thing Paul's own letter says did not happen.** This is not a scheduling discrepancy. It's Paul's eyewitness account of his own authority directly conflicting with Luke's account of what the meeting produced.
+**Second — and this is the more useful point than adjudicating which position is correct** ⟨INFERENCE⟩**:** even under Keener's own same-event position, the strongest version of the contradiction survives, because it isn't really about which meeting is being described. It's this: **Galatians 2:6, in Paul's own words, states that the Jerusalem leadership "added nothing" to his gospel** — a direct, first-person claim of full apostolic independence. Acts 15:19–29, by contrast, has James issue a formal, binding decree (abstain from food sacrificed to idols, from blood, from what is strangled, and from sexual immorality) that Gentile believers are required to follow. **That is Jerusalem adding something, delivered as institutional authority — the very thing Paul's own letter says did not happen.** It's Paul's eyewitness account of his own authority directly conflicting with Luke's account of what the meeting produced — not a scheduling discrepancy.
 
 **This reframes what to actually argue.** Whether it's one meeting or two barely matters if the theological content of what happened at "the" meeting is described in mutually exclusive ways by a participant and a later historian.
 
@@ -640,7 +640,7 @@ Fourteen years later (2:1), a second visit — this is the material already audi
 
 ### 9.5.2 The theological stakes — a question to track before Romans
 
-The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is not measured theological prose. It is Paul at his angriest, writing to a congregation he believes is being taken from him.
+The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.
 
 **This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:**
 

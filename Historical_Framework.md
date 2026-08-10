@@ -185,7 +185,7 @@ The manuscript argument is the most common apologetic move and the most commonly
 1. **Quantity measures copying, not accuracy.** Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.
 2. **The gap is where the damage happens.** The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.
 3. **Most manuscripts are late and derivative.** The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.
-4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence *for* the text — it is the evidence *that the text changed*.
+4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is the evidence *that the text changed*, not merely evidence *for* the text.
 5. **Reconstructing the words is not establishing the events.** Even a perfectly transmitted text is a perfectly transmitted first-century claim.
 
 **Concise formulation:** *"We can reconstruct what the second-century text said with considerable confidence. A separate question concerns the earlier decades that no surviving manuscript can directly reach."*
@@ -202,7 +202,7 @@ Slow, contested, regional, and never decided by a single vote.
 - **393 / 397 CE — Hippo and Carthage** ratify regional lists.
 - **The Eastern churches never fully converged.** The Ethiopian Orthodox canon is larger. The Syriac Peshitta long omitted several books. Catholic, Protestant, and Orthodox Old Testaments still differ.
 
-**The honest critical point** is not that a conspiracy picked the books. It is that **the process was human, political, and contested for three centuries**, that the criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and that there is still no single Christian canon today.
+**The honest critical point:** **the process was human, political, and contested for three centuries** — not a conspiracy that picked the books. The criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and there is still no single Christian canon today.
 
 That argument is stronger than the conspiracy version because it is true and cannot be refuted by a historian.
 
@@ -352,7 +352,7 @@ Across the major early Christian writers — men and women, across the centuries
 
 [CRITICAL, revisionist] This is contested, not settled. H.E.W. Turner, *The Pattern of Christian Truth* (Bampton Lectures, 1954), argued for substantially more doctrinal continuity than Bauer credited, pointing to the Rule of Faith rooted in early baptismal formulae as a stabilizing structure that predates the heresiological boundary-drawing Bauer emphasized. Thomas A. Robinson, *The Bauer Thesis Examined: The Geography of Heresy in the Early Christian Church* (1988), re-examined Bauer's regional evidence directly and concluded the surviving sub-apostolic sources are too thin to support the claim that heresy was chronologically and numerically prior in Edessa or Egypt; Colin H. Roberts separately showed the bulk of surviving early Egyptian Christian manuscripts are not heterodox, cutting against Bauer's Egypt claim specifically.
 
-**Why this matters for the roster below** ⟨INFERENCE⟩**:** "Church Father" is not a neutral description of who taught first or best — it is a label Christianity applied after the fact to the winning side of disputes it was still having while these people were alive. That doesn't make the label meaningless — the people below really did shape what became mainstream Christianity — but the category itself already encodes who won, worth remembering whenever a claim is framed as "the Fathers taught X."
+**Why this matters for the roster below** ⟨INFERENCE⟩**:** "Church Father" is a label Christianity applied after the fact to the winning side of disputes it was still having while these people were alive — not a neutral description of who taught first or best. That doesn't make the label meaningless — the people below really did shape what became mainstream Christianity — but the category itself already encodes who won, worth remembering whenever a claim is framed as "the Fathers taught X."
 
 ### 12.5 Reference roster
 

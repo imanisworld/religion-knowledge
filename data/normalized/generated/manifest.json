@@ -27,13 +27,13 @@
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
       "records": 263,
-      "size_bytes": 479466
+      "size_bytes": 479284
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
       "records": 664,
-      "size_bytes": 905149
+      "size_bytes": 905023
     },
     {
       "source_file": "Glossary.md",
@@ -45,25 +45,25 @@
       "source_file": "Historical_Framework.md",
       "file": "records.history.js",
       "records": 110,
-      "size_bytes": 202807
+      "size_bytes": 202737
     },
     {
       "source_file": "Sources_and_Primary_Texts.md",
       "file": "records.sources.js",
       "records": 71,
-      "size_bytes": 112298
+      "size_bytes": 112264
     },
     {
       "source_file": "The_Other_Side.md",
       "file": "records.other-side.js",
       "records": 57,
-      "size_bytes": 92471
+      "size_bytes": 92435
     },
     {
       "source_file": "Translations.md",
       "file": "records.translations.js",
       "records": 43,
-      "size_bytes": 64019
+      "size_bytes": 63887
     }
   ]
 }
