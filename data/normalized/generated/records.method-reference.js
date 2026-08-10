@@ -651,9 +651,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7d4b313a38afe28d85e2",
-    "text": "Not yet audited in Observations. Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
-    "raw_text": "**Not yet audited in Observations.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
+    "id": "rk_ca1c97c6309c8ac0bbf9",
+    "text": "Not yet audited in Observations. Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses (except §12.8, see below) · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
+    "raw_text": "**Not yet audited in Observations.** Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 \"don't add your own understanding\" · §11 moral frameworks · §12 key verses (except §12.8, see below) · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -713,9 +713,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_83bea488466d0b0fe78a",
-    "text": "One item still flagged for early attention:",
-    "raw_text": "**One item still flagged for early attention:**",
+    "id": "rk_5a605f24a96a687fc67a",
+    "text": "§12.8 John 8:44 — audited 10 Aug 2026, the last item on the original two-item early-attention list. Terminology corrected to anti-Jewish, not antisemitic (a modern racial category dating from 1879; anachronistic applied to a first-century text). The synagogue-expulsion (Martyn's aposynagogos) explanation is flagged as a contested reconstruction, not settled background — Reinhartz critiques it directly. The \"Judeans\" translation is explicitly rejected as a fix, per the same Reinhartz/Levine/Crossley sourcing already established at Study Notes §8.5. Reception history stands as the strongest form of the claim and needs no theory of authorial intent. Both items originally flagged for early attention (§12.8, §13) are now closed — Task 2's audit queue moves to the remaining unaudited sections listed above, with no further items singled out for priority.",
+    "raw_text": "**§12.8 John 8:44 — audited 10 Aug 2026, the last item on the original two-item early-attention list.** Terminology corrected to **anti-Jewish**, not antisemitic (a modern racial category dating from 1879; anachronistic applied to a first-century text). The synagogue-expulsion (Martyn's *aposynagogos*) explanation is flagged as a contested reconstruction, not settled background — Reinhartz critiques it directly. The \"Judeans\" translation is explicitly rejected as a fix, per the same Reinhartz/Levine/Crossley sourcing already established at Study Notes §8.5. Reception history stands as the strongest form of the claim and needs no theory of authorial intent. Both items originally flagged for early attention (§12.8, §13) are now closed — Task 2's audit queue moves to the remaining unaudited sections listed above, with no further items singled out for priority.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -744,38 +744,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bef4822155fa105df7e2",
-    "text": "Observations §12.8 John 8:44 — use anti-Jewish, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.",
-    "raw_text": "- **Observations §12.8 John 8:44** — use **anti-Jewish**, not antisemitic. Antisemitism is a modern racial category dating from 1879; applying it to a first-century text is anachronistic. Reception history remains important without requiring a conclusion about authorial intent. See Study Notes §8.5 audit.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Method & Reference",
-      "4. Observations Audit Status"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 4. Observations Audit Status",
-    "source_reference": "paragraph:25",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "DOCUMENT_DEFAULT",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_c4d1cfc41bffdfb428c3",
+    "id": "rk_67a0701551e49bc3abff",
     "text": "Compressed from Historical Framework §2. This version is for grabbing fast, not for reading through. Dates before roughly 900 BCE are approximate; from the Assyrian period on, chronology is firm — anchored to dated eclipses and king lists.",
     "raw_text": "*Compressed from Historical Framework §2. This version is for grabbing fast, not for reading through. Dates before roughly 900 BCE are approximate; from the Assyrian period on, chronology is firm — anchored to dated eclipses and king lists.*",
     "provenance_type": "CLAUDE",
@@ -792,7 +761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation",
-    "source_reference": "paragraph:26",
+    "source_reference": "paragraph:25",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -806,7 +775,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1fb7127a89a68bb70602",
+    "id": "rk_3b6d4ab7c9776f837d81",
     "text": "| Date | Event |\n|---|---|\n| c. 1208 BCE | Merneptah Stele — first extrabiblical mention of Israel, as a people not a place |\n| c. 1200–1000 | Highland settlement in Canaan — gradual, no conquest layer |\n| c. 1000 | Traditional date for David — existence firm, scale disputed |\n| c. 840 | Tel Dan Stele (\"House of David\") and Mesha Stele (earliest extrabiblical YHWH) |\n| 722 | Assyria destroys the northern kingdom |\n| 701 | Sennacherib besieges Jerusalem — best-corroborated event in the Hebrew Bible |\n| c. 622 | Josiah's reform; \"book of the law\" found in the Temple |\n| 586 | Jerusalem falls; First Temple destroyed; exile |\n| 539 | Cyrus takes Babylon |\n| c. 516 | Second Temple completed |",
     "raw_text": "| Date | Event |\n|---|---|\n| c. 1208 BCE | Merneptah Stele — first extrabiblical mention of Israel, as a people not a place |\n| c. 1200–1000 | Highland settlement in Canaan — gradual, no conquest layer |\n| c. 1000 | Traditional date for David — **existence firm, scale disputed** |\n| c. 840 | Tel Dan Stele (\"House of David\") and Mesha Stele (earliest extrabiblical YHWH) |\n| 722 | Assyria destroys the northern kingdom |\n| 701 | Sennacherib besieges Jerusalem — **best-corroborated event in the Hebrew Bible** |\n| c. 622 | Josiah's reform; \"book of the law\" found in the Temple |\n| 586 | Jerusalem falls; First Temple destroyed; exile |\n| 539 | Cyrus takes Babylon |\n| c. 516 | Second Temple completed |",
     "provenance_type": "CLAUDE",
@@ -824,6 +793,38 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.1 Before and during the kingdoms",
+    "source_reference": "paragraph:26",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f468bbcea5a6a297aa5a",
+    "text": "Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.",
+    "raw_text": "*Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.*",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "5. Quick Timeline — Dates for Reading and Conversation",
+      "5.2 The Second Temple period between the Testaments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.2 The Second Temple period between the Testaments",
     "source_reference": "paragraph:27",
     "parent_id": null,
     "related_ids": [],
@@ -838,9 +839,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3bf76c7c47a3bf7d3995",
-    "text": "Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.",
-    "raw_text": "*Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.*",
+    "id": "rk_8029d102016b93b96dd8",
+    "text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant; Greek becomes the elite language |\n| c. 250 | Septuagint — Hebrew scriptures translated into Greek |\n| c. 165 | Daniel written — latest book in the Hebrew Bible |\n| 167–160 | Maccabean revolt |\n| 63 | Pompey takes Jerusalem — Rome arrives |\n| 37–4 | Herod the Great; Temple expansion |",
+    "raw_text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant; Greek becomes the elite language |\n| c. 250 | Septuagint — Hebrew scriptures translated into Greek |\n| c. 165 | **Daniel written** — latest book in the Hebrew Bible |\n| 167–160 | Maccabean revolt |\n| 63 | Pompey takes Jerusalem — Rome arrives |\n| 37–4 | Herod the Great; Temple expansion |",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -870,9 +871,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_32d00dd0fc753d2321bf",
-    "text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant; Greek becomes the elite language |\n| c. 250 | Septuagint — Hebrew scriptures translated into Greek |\n| c. 165 | Daniel written — latest book in the Hebrew Bible |\n| 167–160 | Maccabean revolt |\n| 63 | Pompey takes Jerusalem — Rome arrives |\n| 37–4 | Herod the Great; Temple expansion |",
-    "raw_text": "| Date | Event |\n|---|---|\n| 333–332 BCE | Alexander conquers the Levant; Greek becomes the elite language |\n| c. 250 | Septuagint — Hebrew scriptures translated into Greek |\n| c. 165 | **Daniel written** — latest book in the Hebrew Bible |\n| 167–160 | Maccabean revolt |\n| 63 | Pompey takes Jerusalem — Rome arrives |\n| 37–4 | Herod the Great; Temple expansion |",
+    "id": "rk_53524aa8265cef6571af",
+    "text": "What forms in this window: resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. None of it is in the Torah.",
+    "raw_text": "**What forms in this window:** resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. **None of it is in the Torah.**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -902,39 +903,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1cdf61b50598ea23853e",
-    "text": "What forms in this window: resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. None of it is in the Torah.",
-    "raw_text": "**What forms in this window:** resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. **None of it is in the Torah.**",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Method & Reference",
-      "5. Quick Timeline — Dates for Reading and Conversation",
-      "5.2 The Second Temple period between the Testaments"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.2 The Second Temple period between the Testaments",
-    "source_reference": "paragraph:30",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "DOCUMENT_DEFAULT",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_dae5b12ca445b0453e6e",
+    "id": "rk_c501922774f9d260333b",
     "text": "| Date | Event |\n|---|---|\n| 6 CE | Judea becomes a Roman province |\n| 26–36 | Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961 |\n| c. 30–33 | Crucifixion |\n| c. 50–60 | Paul's undisputed letters — the earliest Christian writings that survive |\n| 66–73 | First Jewish Revolt |\n| 70 | Jerusalem sacked, Second Temple destroyed — the hinge |\n| c. 70 | Mark |\n| c. 80–85 | Matthew and Luke |\n| c. 90–100 | John |\n| c. 95 | Revelation |\n| 132–135 | Bar Kokhba revolt; Jews barred from Jerusalem |",
     "raw_text": "| Date | Event |\n|---|---|\n| 6 CE | Judea becomes a Roman province |\n| 26–36 | Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961 |\n| c. 30–33 | Crucifixion |\n| **c. 50–60** | **Paul's undisputed letters — the earliest Christian writings that survive** |\n| 66–73 | First Jewish Revolt |\n| **70** | **Jerusalem sacked, Second Temple destroyed — the hinge** |\n| c. 70 | Mark |\n| c. 80–85 | Matthew and Luke |\n| c. 90–100 | John |\n| c. 95 | Revelation |\n| 132–135 | Bar Kokhba revolt; Jews barred from Jerusalem |",
     "provenance_type": "CLAUDE",
@@ -952,7 +921,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.3 Jesus and the New Testament",
-    "source_reference": "paragraph:31",
+    "source_reference": "paragraph:30",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -966,7 +935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0aed671a623888d9cba7",
+    "id": "rk_832be7d898503d1ffc0d",
     "text": "| Date | Event |\n|---|---|\n| c. 112 | Pliny the Younger's letter — earliest outside description of Christian worship |\n| c. 115 | Tacitus on Christus executed under Pilate |\n| c. 140 | Marcion's canon — the first known list, declared heretical |\n| c. 180 | Irenaeus argues for exactly four Gospels |\n| 313 | Edict of Milan — Christianity legalised |\n| 325 | Nicaea — Arian controversy and the Nicene Creed. NOT the canon. |\n| 367 | Athanasius's 39th Festal Letter — first surviving list matching the 27-book NT |\n| 380 | Edict of Thessalonica — Christianity becomes the state religion |\n| 393 / 397 | Hippo and Carthage ratify regional canon lists |",
     "raw_text": "| Date | Event |\n|---|---|\n| c. 112 | Pliny the Younger's letter — earliest outside description of Christian worship |\n| c. 115 | Tacitus on Christus executed under Pilate |\n| c. 140 | Marcion's canon — the first known list, declared heretical |\n| c. 180 | Irenaeus argues for exactly four Gospels |\n| 313 | Edict of Milan — Christianity legalised |\n| **325** | **Nicaea — Arian controversy and the Nicene Creed. NOT the canon.** |\n| 367 | Athanasius's 39th Festal Letter — first surviving list matching the 27-book NT |\n| 380 | Edict of Thessalonica — Christianity becomes the state religion |\n| 393 / 397 | Hippo and Carthage ratify regional canon lists |",
     "provenance_type": "CLAUDE",
@@ -984,7 +953,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.4 How the church and the canon formed",
-    "source_reference": "paragraph:32",
+    "source_reference": "paragraph:31",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -998,7 +967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d577897caf3eeb36400b",
+    "id": "rk_59da2312f4c1a5d956c0",
     "text": "| Date | Event |\n|---|---|\n| c. 570–632 | Muhammad |\n| 610 | Traditional date of first revelation |\n| 622 | Hijra — year 1 of the Islamic calendar |\n| c. 650 | Uthmanic recension — standardized Quranic text |\n| 8th–9th c. | Hadith collections and sira biographies written down |",
     "raw_text": "| Date | Event |\n|---|---|\n| c. 570–632 | Muhammad |\n| 610 | Traditional date of first revelation |\n| 622 | Hijra — year 1 of the Islamic calendar |\n| c. 650 | Uthmanic recension — standardized Quranic text |\n| 8th–9th c. | Hadith collections and *sira* biographies written down |",
     "provenance_type": "CLAUDE",
@@ -1016,7 +985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.5 Islam",
-    "source_reference": "paragraph:33",
+    "source_reference": "paragraph:32",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1030,7 +999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_35ee1dc83e768a5e24bd",
+    "id": "rk_0aa85a997e3a649dae36",
     "text": "| Date | Version |\n|---|---|\n| 1382 | Wycliffe — first complete English Bible |\n| 1526 | Tyndale New Testament — Tyndale executed 1536 |\n| 1611 | King James Version (Textus Receptus base) |\n| 1901 / 1952 | ASV / RSV — the RSV's \"young woman\" at Isaiah 7:14 gets copies publicly burned |\n| 1978 / 2011 | NIV |\n| 2001 | ESV |\n| 2021 | NRSVue — current academic standard |",
     "raw_text": "| Date | Version |\n|---|---|\n| 1382 | Wycliffe — first complete English Bible |\n| 1526 | Tyndale New Testament — Tyndale executed 1536 |\n| 1611 | King James Version (*Textus Receptus* base) |\n| 1901 / 1952 | ASV / RSV — the RSV's \"young woman\" at Isaiah 7:14 gets copies publicly burned |\n| 1978 / 2011 | NIV |\n| 2001 | ESV |\n| 2021 | NRSVue — current academic standard |",
     "provenance_type": "CLAUDE",
@@ -1048,6 +1017,38 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.6 English Bibles",
+    "source_reference": "paragraph:33",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_53e9cf93e019cc7b333a",
+    "text": "These are the figures to have ready. Every one is a gap between event and writing, which is the single most important number in any source discussion.",
+    "raw_text": "These are the figures to have ready. Every one is a *gap between event and writing*, which is the single most important number in any source discussion.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "5. Quick Timeline — Dates for Reading and Conversation",
+      "5.7 Source gaps — key intervals to remember"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.7 Source gaps — key intervals to remember",
     "source_reference": "paragraph:34",
     "parent_id": null,
     "related_ids": [],
@@ -1062,9 +1063,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_223700392e7f15c6819e",
-    "text": "These are the figures to have ready. Every one is a gap between event and writing, which is the single most important number in any source discussion.",
-    "raw_text": "These are the figures to have ready. Every one is a *gap between event and writing*, which is the single most important number in any source discussion.",
+    "id": "rk_40c16ba96af62e0b91eb",
+    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
+    "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1094,9 +1095,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cb3813a291ddb3a6166f",
-    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
-    "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
+    "id": "rk_b0e6c2915d1e5b89fc60",
+    "text": "Reference question: \"How long between the event and the writing?\" Apply it to every source, in every tradition, including the ones you agree with.",
+    "raw_text": "**Reference question:** *\"How long between the event and the writing?\"* Apply it to every source, in every tradition, including the ones you agree with.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1126,16 +1127,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_411074b81f18adc86c71",
-    "text": "Reference question: \"How long between the event and the writing?\" Apply it to every source, in every tradition, including the ones you agree with.",
-    "raw_text": "**Reference question:** *\"How long between the event and the writing?\"* Apply it to every source, in every tradition, including the ones you agree with.",
+    "id": "rk_6221a026608b17aad76b",
+    "text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (Paul and Palestinian Judaism, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
+    "raw_text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (*Paul and Palestinian Judaism*, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
       "5. Quick Timeline — Dates for Reading and Conversation",
-      "5.7 Source gaps — key intervals to remember"
+      "5.8 New Perspective on Paul — who to read"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1143,7 +1144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.7 Source gaps — key intervals to remember",
+    "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.8 New Perspective on Paul — who to read",
     "source_reference": "paragraph:37",
     "parent_id": null,
     "related_ids": [],
@@ -1158,9 +1159,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fdff3bcf0eac7aed969c",
-    "text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (Paul and Palestinian Judaism, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
-    "raw_text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (*Paul and Palestinian Judaism*, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
+    "id": "rk_264cb91c7827af1ced0d",
+    "text": "Stephen Westerholm [EVANGELICAL], Perspectives Old and New on Paul: The Lutheran Paul and His Critics (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.",
+    "raw_text": "Stephen Westerholm [EVANGELICAL], *Perspectives Old and New on Paul: The Lutheran Paul and His Critics* (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1190,9 +1191,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_54755de674a6e3600315",
-    "text": "Stephen Westerholm [EVANGELICAL], Perspectives Old and New on Paul: The Lutheran Paul and His Critics (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.",
-    "raw_text": "Stephen Westerholm [EVANGELICAL], *Perspectives Old and New on Paul: The Lutheran Paul and His Critics* (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.",
+    "id": "rk_3967f231196e4900a2f5",
+    "text": "Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.",
+    "raw_text": "Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], *Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective* (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1222,9 +1223,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_620bc72922e68b797516",
-    "text": "Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.",
-    "raw_text": "Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], *Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective* (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.",
+    "id": "rk_537f80ba0cf18f3966f7",
+    "text": "Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.",
+    "raw_text": "Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1254,9 +1255,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d9be17ea96966dfd78a",
-    "text": "Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.",
-    "raw_text": "Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.",
+    "id": "rk_8c89f5c42a4a61ef2423",
+    "text": "Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
+    "raw_text": "**Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1286,9 +1287,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f1d5aa16df0e9ecffd8a",
-    "text": "Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
-    "raw_text": "**Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
+    "id": "rk_14c03673937f022865a6",
+    "text": "Living document — update as reading and conversations progress",
+    "raw_text": "*Living document — update as reading and conversations progress*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1318,16 +1319,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ca079106e5c53afd1c87",
-    "text": "Living document — update as reading and conversations progress",
-    "raw_text": "*Living document — update as reading and conversations progress*",
+    "id": "rk_d3d8ad38ae19540ca50a",
+    "text": "Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.",
+    "raw_text": "Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "5. Quick Timeline — Dates for Reading and Conversation",
-      "5.8 New Perspective on Paul — who to read"
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1335,7 +1335,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 5. Quick Timeline — Dates for Reading and Conversation > 5.8 New Perspective on Paul — who to read",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
     "source_reference": "paragraph:43",
     "parent_id": null,
     "related_ids": [],
@@ -1350,9 +1350,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_28ac854522b61d058e42",
-    "text": "Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.",
-    "raw_text": "Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.",
+    "id": "rk_1154ead1503a14398e18",
+    "text": "1. TEXT — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.\n2. INTERPRETATION — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.\n3. HISTORY — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.\n4. DOCTRINE — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.",
+    "raw_text": "1. **TEXT** — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.\n2. **INTERPRETATION** — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.\n3. **HISTORY** — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.\n4. **DOCTRINE** — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1381,9 +1381,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_61335b02fb40c395f6cd",
-    "text": "1. TEXT — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.\n2. INTERPRETATION — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.\n3. HISTORY — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.\n4. DOCTRINE — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.",
-    "raw_text": "1. **TEXT** — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.\n2. **INTERPRETATION** — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.\n3. **HISTORY** — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.\n4. **DOCTRINE** — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.",
+    "id": "rk_67b1b5662fb7e79d0da7",
+    "text": "Why this matters: the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.",
+    "raw_text": "**Why this matters:** the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1412,9 +1412,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c33404fcabd30c02ee88",
-    "text": "Why this matters: the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.",
-    "raw_text": "**Why this matters:** the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.",
+    "id": "rk_21d5d36c15bd5e46b0a6",
+    "text": "Worked example — the Trinity (Observations §13, Historical Framework §7):",
+    "raw_text": "**Worked example — the Trinity** (Observations §13, Historical Framework §7):",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1443,9 +1443,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_244a83724a1222a8990a",
-    "text": "Worked example — the Trinity (Observations §13, Historical Framework §7):",
-    "raw_text": "**Worked example — the Trinity** (Observations §13, Historical Framework §7):",
+    "id": "rk_cd7b27ec6c2adaf21706",
+    "text": "TEXT: the word \"Trinity\" appears in no biblical manuscript. Not disputed.\nINTERPRETATION: John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.\nHISTORY: proto-trinitarian formulas and \"fully God, fully man\" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.\nDOCTRINE: Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.",
+    "raw_text": "- **TEXT:** the word \"Trinity\" appears in no biblical manuscript. Not disputed.\n- **INTERPRETATION:** John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.\n- **HISTORY:** proto-trinitarian formulas and \"fully God, fully man\" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.\n- **DOCTRINE:** Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1474,9 +1474,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_151c0d6b5a010c6cbe7c",
-    "text": "TEXT: the word \"Trinity\" appears in no biblical manuscript. Not disputed.\nINTERPRETATION: John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.\nHISTORY: proto-trinitarian formulas and \"fully God, fully man\" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.\nDOCTRINE: Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.",
-    "raw_text": "- **TEXT:** the word \"Trinity\" appears in no biblical manuscript. Not disputed.\n- **INTERPRETATION:** John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.\n- **HISTORY:** proto-trinitarian formulas and \"fully God, fully man\" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.\n- **DOCTRINE:** Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.",
+    "id": "rk_81e0a80e9f533da03515",
+    "text": "Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.",
+    "raw_text": "Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1505,38 +1505,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_09c077aa48b228991173",
-    "text": "Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.",
-    "raw_text": "Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
-    "speaker": "Claude",
-    "topics": [
-      "Method & Reference",
-      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
-    "source_reference": "paragraph:49",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "DOCUMENT_DEFAULT",
-    "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_984cc3ea97768eb15ad3",
+    "id": "rk_1c0502ad8a38a1e94c02",
     "text": "Use note: apply this going forward, as a lens for new entries and audits, not as a retroactive re-tag of the corpus's existing records. When auditing an existing claim (§1), identify which tier it is actually making a claim at before verifying it — a claim can be right at one tier and overstated at another.",
     "raw_text": "**Use note:** apply this going forward, as a lens for new entries and audits, not as a retroactive re-tag of the corpus's existing records. When auditing an existing claim (§1), identify which tier it is actually making a claim at before verifying it — a claim can be right at one tier and overstated at another.",
     "provenance_type": "CLAUDE",
@@ -1553,7 +1522,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Method_and_Reference.md",
     "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
-    "source_reference": "paragraph:50",
+    "source_reference": "paragraph:49",
     "parent_id": null,
     "related_ids": [],
     "tags": [],

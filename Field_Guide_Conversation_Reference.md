@@ -859,6 +859,36 @@ Verses are listed by reference only — look them up in the ESV or any translati
 
 **Reference: **John 8:31-59. Note who John identifies as "the Jews" throughout the Gospel — a category treated as separate from and opposed to Jesus, despite Jesus being Jewish.
 
+#### ⚑ AUDIT — John 8:44 and "Antisemitism"
+
+`CHECKED 10 AUG 2026`
+
+**AS RECORDED:** "This is a wounded community's anger written into Jesus's mouth, then used for centuries as theological justification for Christian antisemitism, pogroms, and the cultural conditions enabling the Holocaust." (§12.8)
+
+**STATUS: Overstated on terminology and on the explanatory mechanism. The reception-history claim holds, and holds strongly — it doesn't need the parts that don't survive.**
+
+**AUDIT**
+
+**This exact claim was already run through a full survey at Study Notes §8.5 ("John Is Textually Antisemitic," CHECKED 7 Aug 2026) — full citation trail there. Two corrections carry over directly.**
+
+**Terminology: use anti-Jewish, not antisemitic.** Antisemitism is a modern racial category — the word itself dates to 1879 — and applying it to a first-century intra-Jewish text is anachronistic, the same category error as reading "homosexuality" into Leviticus. Using it invites a correction that discredits the surrounding argument before the real point — the reception history — gets a hearing.
+
+**The synagogue-expulsion explanation is a contested hypothesis presented here as settled background.** "Written after John's community was expelled from synagogues... a wounded community's anger written into Jesus's mouth" leans on J. Louis Martyn's two-level-drama reconstruction of *aposynagogos*. **Adele Reinhartz** [JEWISH CRITICAL] has critiqued that framework directly — it explains the text's tone plausibly, but it is not established fact, and shouldn't read as one.
+
+**The obvious-looking fix — translating *Ioudaioi* as "Judeans" instead of "Jews" — is not the correction, and is worse than the original.** Reinhartz and **Amy-Jill Levine** [JEWISH CRITICAL] both defend "Jews" as accurate and warn that "Judeans" erases the continuity between ancient and modern Jewish identity. **James Crossley** [CRITICAL] traces the "Judeans" move to its endpoint: an argument that it's anachronistic to identify any modern Jews with John's *Ioudaioi* at all — precisely the erasure Reinhartz and Levine flagged. Don't reach for it as a "safer" word.
+
+**The strongest counter-case, which the original entry doesn't include:** most scholars read this as intra-Jewish sectarian polemic, not out-group hostility — a family argument, read for two millennia by outsiders cheering one side. Reinhartz notes John uses *Ioudaioi* interchangeably with "Pharisees," sometimes in the same passage, meaning John was not gesturing at Jews generally. John repeatedly signals Jesus's own Jewishness (his body is prepared for burial by Jewish custom, 19:40). **Wesley Howard-Brook** argues John is calling its audience back to the covenant, not away from it.
+
+**What is not in dispute, and is the actual strongest form of the point:** the reception history is real and doesn't require resolving any of the above. Whatever this text's author meant, John 8:44 functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to. That claim needs no theory of authorial intent to stand.
+
+**CORRECTED:** *John's Gospel contains sharply anti-Jewish rhetoric, of which 8:44 is the extreme case, and its reception history as a resource for Christian anti-Judaism is documented and severe — that claim stands without qualification. What doesn't survive as stated: calling it "antisemitism" (an anachronistic modern racial category) and presenting the synagogue-expulsion explanation as settled fact rather than Martyn's contested reconstruction. The leading Jewish scholars in this debate (Reinhartz, Levine) defend translating* Ioudaioi *as "Jews" and warn that "Judeans" — the translation that looks like the fix — has been used to sever modern Jews from the text entirely. Most scholars read the polemic as intra-Jewish, not a hostile out-group construction.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the reception history is genuinely appalling, and that makes it easy to read the effect back into the author's intent and to reach for the word that names the horror directly. But a text can be catastrophic in its consequences without its author having written what later readers made of it — and "antisemitism" imports a 19th-century racial framework the text itself doesn't use. Keep the reception-history claim, which is airtight, separate from the authorial-intent and terminology claims, which are not.
+
+**Reading and conversation note:** this is one of the few places where the strongest version of the argument doesn't need to establish intent at all. Ask what it means that a text has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to — that question doesn't depend on knowing what John's author meant by it.
+
+---
+
 ## 12.9 Proverbs 3:5
 
 **Commonly used for: **"Do not lean on your own understanding" — to shut down critical thinking or questioning of the Bible.
