@@ -146,6 +146,8 @@ Each gets the full method above. Expect some to survive intact — record that o
 
 > **Status note (7 Aug 2026):** the §13 Nicaea/canon mixup has since been corrected in `Field_Guide_Conversation_Reference.md`. §12.8 (John 8:44) is still open.
 
+> **Status note (10 Aug 2026):** the rest of §13 has since been run through a full scholarly-survey audit — four `#### ⚑ AUDIT` blocks inserted at §13.2 (adoptionism-in-Mark: overstated, corrected), §13.3 (Nicaea attendance/dissent numbers: holds, strengthened with real figures), §13.4 (logical questions: overstated by omission — traditional/Chalcedonian answers were missing and are now supplied), and §13.5 (where high Christology comes from: overstated — the late-Hellenistic-import thesis was stated as settled when Hurtado/Bauckham's early-high-Christology case is the mainstream challenger). §12.8 (John 8:44) remains the only item still open on this task.
+
 ### Task 3 — retroactive attribution
 
 `Bible_Deep_Dive_Master_Notes.md §0–§9` and `Field_Guide_Conversation_Reference.md §1–§17` predate the marker convention and are a genuine mix of the owner's notes and Claude's earlier framing. Both documents say so at the top.
