@@ -8,6 +8,7 @@ const READERS = [
   ['sources.html', 'Sources & Primary Texts', 'Named scholars, publications, and primary-text citations.'],
   ['other-side.html', 'The Strongest Case', 'The strongest traditional and apologetic cases, stated fairly.'],
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
+  ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
 ];
 
@@ -35,6 +36,7 @@ const CANONICAL_SOURCES = [
   'Field_Guide_Conversation_Reference.md',
   'Glossary.md',
   'Historical_Framework.md',
+  'Method_and_Reference.md',
   'Sources_and_Primary_Texts.md',
   'The_Other_Side.md',
   'Translations.md',
@@ -95,7 +97,7 @@ main > p{color:var(--ink2);margin:0 0 2rem;max-width:60ch}
 </head><body>
 <main>
   <h1>Bible Deep Dive</h1>
-  <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Seven cross-linked documents.</p>
+  <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Eight cross-linked documents.</p>
   <a class="app-card" href="app/">
     <h2>Open the app</h2>
     <p>Browse every record with provenance intact — search, topics, questions, audits, and the review queue.</p>
