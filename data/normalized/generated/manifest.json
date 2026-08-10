@@ -1,17 +1,17 @@
 {
   "parser_version": "1.1.3",
-  "canonical_files": 7,
-  "records": 1314,
+  "canonical_files": 8,
+  "records": 1315,
   "warnings": 7,
-  "review_required": 666,
+  "review_required": 667,
   "provenance_counts": {
     "MY_WORDS": 24,
-    "REVIEW_REQUIRED": 666,
+    "REVIEW_REQUIRED": 667,
     "SOURCE": 197,
     "CLAUDE": 427
   },
   "record_type_counts": {
-    "OBSERVATION": 991,
+    "OBSERVATION": 992,
     "POSITION": 1,
     "AUDIT_NOTE": 157,
     "CLAIM": 10,
@@ -32,8 +32,8 @@
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
-      "records": 674,
-      "size_bytes": 921208
+      "records": 633,
+      "size_bytes": 895675
     },
     {
       "source_file": "Glossary.md",
@@ -46,6 +46,12 @@
       "file": "records.history.js",
       "records": 110,
       "size_bytes": 202737
+    },
+    {
+      "source_file": "Method_and_Reference.md",
+      "file": "records.method-reference.js",
+      "records": 42,
+      "size_bytes": 71721
     },
     {
       "source_file": "Sources_and_Primary_Texts.md",

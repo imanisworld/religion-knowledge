@@ -8,6 +8,7 @@
     'Field_Guide_Conversation_Reference.md': 'field-guide.html',
     'Glossary.md': 'glossary.html',
     'Historical_Framework.md': 'history.html',
+    'Method_and_Reference.md': 'method-reference.html',
     'Sources_and_Primary_Texts.md': 'sources.html',
     'The_Other_Side.md': 'other-side.html',
     'Translations.md': 'translations.html',

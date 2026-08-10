@@ -202,11 +202,8 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
     if (major === 7) {
       return userDocumentDefault('Observations provenance explicitly states the fieldwork observations at §7 are the user\'s.');
     }
-    if (major === 8 || major === 19) {
-      return claudeDocumentDefault('Observations provenance explicitly states §8 method and §19 timeline are Claude compilations from named sources.');
-    }
     if (Number.isFinite(major) && major >= 1 && major <= 17) {
-      return reviewRequired('Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 and §8 stated exceptions.');
+      return reviewRequired('Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)');
     }
     return reviewRequired('Observations provenance does not deterministically assign this section to one speaker.');
   }
@@ -217,6 +214,10 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
 
   if (sourceFile === 'Historical_Framework.md') {
     return claudeDocumentDefault('Historical Framework provenance explicitly states: Written by Claude; nothing here is the user\'s prior work.');
+  }
+
+  if (sourceFile === 'Method_and_Reference.md') {
+    return claudeDocumentDefault('Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026.');
   }
 
   if (sourceFile === 'Sources_and_Primary_Texts.md') {

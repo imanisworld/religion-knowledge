@@ -6,6 +6,7 @@ const chunkFiles = [
   'data/normalized/generated/records.field-guide.js',
   'data/normalized/generated/records.glossary.js',
   'data/normalized/generated/records.history.js',
+  'data/normalized/generated/records.method-reference.js',
   'data/normalized/generated/records.sources.js',
   'data/normalized/generated/records.other-side.js',
   'data/normalized/generated/records.translations.js',
