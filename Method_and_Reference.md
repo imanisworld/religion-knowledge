@@ -202,3 +202,25 @@ Neither is neutral. Both are serious, methodologically rigorous participants on 
 **Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.
 
 *Living document — update as reading and conversations progress*
+
+## 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine
+
+Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.
+
+1. **TEXT** — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.
+2. **INTERPRETATION** — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.
+3. **HISTORY** — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.
+4. **DOCTRINE** — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.
+
+**Why this matters:** the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.
+
+**Worked example — the Trinity** (Observations §13, Historical Framework §7):
+
+- **TEXT:** the word "Trinity" appears in no biblical manuscript. Not disputed.
+- **INTERPRETATION:** John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.
+- **HISTORY:** proto-trinitarian formulas and "fully God, fully man" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.
+- **DOCTRINE:** Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.
+
+Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.
+
+**Use note:** apply this going forward, as a lens for new entries and audits, not as a retroactive re-tag of the corpus's existing records. When auditing an existing claim (§1), identify which tier it is actually making a claim at before verifying it — a claim can be right at one tier and overstated at another.
