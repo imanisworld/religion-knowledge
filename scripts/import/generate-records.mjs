@@ -2,7 +2,10 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { parseMarkdown, PARSER_VERSION } from './parse-markdown.mjs';
 
-const MAX_CHUNK_BYTES = 950_000;
+// Field_Guide_Conversation_Reference.md's §13 audit pass (10 Aug 2026) pushed
+// its chunk to ~981KB; bumped with modest headroom rather than trimming
+// sourced audit content to fit an arbitrary budget.
+const MAX_CHUNK_BYTES = 1_050_000;
 const CANONICAL_FILES = [
   ['Bible_Deep_Dive_Master_Notes.md', 'records.master.js'],
   ['Field_Guide_Conversation_Reference.md', 'records.field-guide.js'],
