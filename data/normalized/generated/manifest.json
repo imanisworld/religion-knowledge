@@ -1,17 +1,17 @@
 {
   "parser_version": "1.1.3",
   "canonical_files": 7,
-  "records": 1303,
+  "records": 1304,
   "warnings": 7,
   "review_required": 661,
   "provenance_counts": {
     "MY_WORDS": 24,
     "REVIEW_REQUIRED": 661,
     "SOURCE": 197,
-    "CLAUDE": 421
+    "CLAUDE": 422
   },
   "record_type_counts": {
-    "OBSERVATION": 980,
+    "OBSERVATION": 981,
     "POSITION": 1,
     "AUDIT_NOTE": 157,
     "CLAIM": 10,
@@ -62,8 +62,8 @@
     {
       "source_file": "Translations.md",
       "file": "records.translations.js",
-      "records": 43,
-      "size_bytes": 63887
+      "records": 44,
+      "size_bytes": 71499
     }
   ]
 }
