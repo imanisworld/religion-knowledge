@@ -3,9 +3,9 @@
 *Which Bible You Read Is Already an Interpretation*
 
 **Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Glossary
-**Last updated:** 7 August 2026
+**Last updated:** 10 August 2026
 
-> **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements.
+> **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements. Updated 10 August 2026 for a switch in primary translation from ESV to NRSVue (§6); the new NRSVue-specific claims added at that time were independently re-verified by search, not carried over from the earlier ESV-primary draft.
 
 > **Who is saying what.** Three markers run through all seven documents:
 >
@@ -18,7 +18,7 @@
 
 > **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is often the entire argument.
 >
-> **You are reading the ESV.** That is a fine choice and you should keep it as your main read. But it is a *conservative* translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.
+> **You started on the ESV, then switched to NRSVue.** Both stay in this document. The ESV case at §4 is unchanged and still the clearest documented example in this corpus of a translation committee's theology showing up in the English — including the part where they announced a change was permanent forever, then reversed it twice. §6 explains what the switch does and doesn't affect: none of the corpus's audited analytical claims (Isaiah 7:14, Sheol, Ioudaioi, etc.) run through any one English translation — they're built from the Hebrew/Greek and named scholarship. Translation choice only does work at the specific verses logged in §5.
 
 ## 1. The Two Philosophies
 
@@ -47,7 +47,7 @@ This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only ex
 
 ## 3. The Ones Worth Owning
 
-**NRSVue** — the academic standard. Produced by an ecumenical committee including Protestant, Catholic, Orthodox, and Jewish scholars. Used in most university and seminary settings. Gender-inclusive where the underlying word is inclusive (*adelphoi* rendered "brothers and sisters" when a mixed group is meant). Footnotes textual variants generously. **This is the one to read alongside your ESV.** Where the two disagree, you have found something worth looking into.
+**NRSVue** — the academic standard, and your primary translation now. Commissioned by the National Council of Churches, directed by the Society of Biblical Literature, whose stated aim was translation and review teams "ecumenical and interfaith in composition" (Baptist News Global, *After 30 Years, the NRSV Gets an Update*, 2021). Ecumenical Protestant/Catholic/Orthodox participation is well documented; ⟨INFERENCE⟩ the exact scale of Jewish scholarly participation on the Old Testament section is not confirmed here and shouldn't be overstated. Used in most university and seminary settings, and the version most secondary scholarship actually quotes. Gender-inclusive for generic human referents only — *adelphoi* rendered "brothers and sisters" when a mixed group is meant — never for God-language, which both NRSV and NRSVue retain as traditionally masculine (Bruce Metzger, "To the Reader," NRSV preface, 1989/2021). Footnotes textual variants generously. **Keep the ESV as your check at the points logged in §5** — where the two disagree, you have found something worth looking into.
 
 **NET Bible** — free online, and the single most useful study tool in existence: over 60,000 translators' notes explaining *why* each choice was made, including the arguments they rejected. It shows you the decision instead of handing you the result.
 
@@ -59,11 +59,11 @@ This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only ex
 
 **Avoid for study:** The Passion Translation (one man's expansion, widely rejected by scholars, not a translation), the New World Translation (Jehovah's Witnesses; John 1:1 rendered "a god" to fit doctrine), the Amplified (pads verses with every possible meaning at once, letting you pick the one you wanted).
 
-## 4. The ESV Case — Why Your Own Translation Is Worth Knowing
+## 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text
 
-Not to talk you out of it. To show you what a translation committee is.
+The clearest documented case in this corpus, kept regardless of which translation is primary.
 
-**Background.** The ESV (2001, Crossway) is a revision of the RSV, produced by a conservative evangelical committee. It is openly complementarian — the theological position that men and women have different God-ordained roles. The committee had no women on it.
+**Background.** The ESV (2001, Crossway) is a revision of the RSV, produced by a conservative evangelical committee. It is openly complementarian — the theological position that men and women have different God-ordained roles. The committee had no women on it — historian Kristin Kobes Du Mez (Calvin University; author, *Jesus and John Wayne*, 2020) reviewed the ESV's published 15-member Oversight Committee and roughly 50-name Review Scholars roster and found no women on either (*An Open Letter to the ESV Translation Committee*, The Anxious Bench, Patheos, Sept. 2016) [CRITICAL], independently corroborated by Marg Mowczko's separate roster analysis (*Female Bible Translators*, margmowczko.com).
 
 **Genesis 3:16 — the full arc, and it is remarkable.**
 
@@ -91,13 +91,13 @@ Check these in ESV, NRSVue, NIV, and JPS side by side. This is the highest-value
 
 **Isaiah 7:14 — *almah*.** "Virgin" (ESV, NIV, KJV) vs. "young woman" (NRSV, RSV, JPS). The Hebrew *almah* means a young woman of marriageable age; Hebrew has a specific word for virgin, *betulah*, and it is not used here. The Septuagint rendered it *parthenos*, which does carry "virgin," and Matthew quotes the Greek. When the RSV printed "young woman" in 1952, copies were publicly burned. **The scholarly reading is not controversial; the theological stakes are.**
 
-**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: "men who practice homosexuality" (collapsing both words into one). NRSVue: renders them separately. KJV: "effeminate" and "abusers of themselves with mankind." The RSV in 1946 was the first major English Bible to use the word "homosexuals" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: "homosexual" is a 19th-century category imported into a text that has no such word.
+**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: "men who practice homosexuality" (collapsing both words into one). NRSVue (2021 update): "male prostitutes, men who engage in illicit sex," footnoted "meaning of Gk uncertain" — a deliberate move away from the older NRSV's "male prostitutes, sodomites," criticized by The Gospel Coalition [CONSERVATIVE-EVANGELICAL] as a step back from clarity rather than toward it, 2021. KJV: "effeminate" and "abusers of themselves with mankind." The RSV in 1946 was the first major English Bible to use the word "homosexuals" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: "homosexual" is a 19th-century category imported into a text that has no such word.
 
 **Romans 16:7 — Junia.** "Well known *to* the apostles" (ESV) vs. "prominent *among* the apostles" (NRSV). One preposition decides whether a woman was an apostle. Also worth knowing: for centuries the name was printed as the masculine "Junias," a man who appears nowhere else in Greek literature. Modern editions have restored Junia.
 
 **1 Timothy 3:2 — "husband of one wife."** Literal Greek, and it appears to exclude women from oversight. NRSVue: "married only once," which reads it as about remarriage rather than gender. Both are defensible from the Greek. That is the point.
 
-**Philippians 2:6.** Whether Christ did not consider equality with God "a thing to be grasped" (something he lacked and might seize) or "something to be exploited" (something he had and declined to use). Opposite Christologies, one Greek word, *harpagmos*.
+**Philippians 2:6.** Whether Christ did not consider equality with God "a thing to be grasped" (something he lacked and might seize) or "something to be exploited" (something he had and declined to use). Opposite Christologies, one Greek word, *harpagmos*. NRSVue's "exploited" reading follows R.W. Hoover's philological case that *harpagmos* means using something already possessed to one's advantage, not seizing something not yet held (*The Harpagmos Enigma: A Philological Solution*, *Harvard Theological Review* 64, 1971) — the ESV's older "a thing to be grasped" reflects the pre-1971 reading it revised from.
 
 **Leviticus 18:22.** NLT: "Do not practice homosexuality." An orientation category the authors could not have held, inserted into the text. Compare ESV and NRSVue, which stay closer to the Hebrew idiom.
 
@@ -107,9 +107,11 @@ Check these in ESV, NRSVue, NIV, and JPS side by side. This is the highest-value
 
 ## 6. How to Actually Use This
 
-**Keep the ESV as your main read.** Switching now would cost continuity for little gain, and formal equivalence is the right kind of translation for what you are doing.
+**NRSVue is now your main read**, as of 10 August 2026. Both translations sit on the same side of §1's line — NRSVue's own preface commits to being "as literal as possible, as free as necessary" and calls the result "essentially a literal translation" (Bruce Metzger, "To the Reader," 1989/2021), not a swing toward dynamic equivalence. The practical reason to switch: NRSVue is what critical scholarship and university religion departments actually cite, so quotations you meet in secondary sources will usually match its phrasing, not the ESV's.
 
-**Add the NRSVue as your check.** Read anything contested in both. Where they diverge, something is happening.
+**Keep the ESV as your check**, specifically at the points already logged in §5 — Genesis 3:16, 1 Corinthians 6:9, Romans 16:7 (Junia), 1 Timothy 3:2, Philippians 2:6. Those are the verses where a committee's theological commitments visibly shape the English. Read them in both; where they diverge, something is happening.
+
+**What doesn't change:** every audited claim already in Master Notes and the Field Guide runs on the Hebrew/Greek text and named scholarship — Isaiah 7:14's *almah*/*betulah* distinction, the *Ioudaioi* question, Sheol — not on which English Bible sits on your desk. Switching primaries doesn't require revisiting any of it.
 
 **Use the NET Bible when you want to know why.** Its notes show the argument, not just the outcome.
 
