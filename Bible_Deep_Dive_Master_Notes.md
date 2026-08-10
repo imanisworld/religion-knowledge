@@ -38,7 +38,7 @@ Not arguing for or against God. Evaluating moral coherence, justice framework, c
 
 ### 1.2 Early Israelite religion is transactional
 
-Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. When exile happens (586 BCE), the model breaks and theology must evolve to explain why faithfulness didn't prevent catastrophe.
+Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.
 
 ### 1.3 Job exposes flaws of that model
 

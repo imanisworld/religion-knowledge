@@ -310,9 +310,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_e9440149729e77ea34f3",
-    "text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. When exile happens (586 BCE), the model breaks and theology must evolve to explain why faithfulness didn't prevent catastrophe.",
-    "raw_text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. When exile happens (586 BCE), the model breaks and theology must evolve to explain why faithfulness didn't prevent catastrophe.",
+    "id": "rk_a01d0bf90c5a6d54494c",
+    "text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.",
+    "raw_text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
