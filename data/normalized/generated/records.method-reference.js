@@ -1317,5 +1317,222 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     },
     "review_required": false,
     "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_d3d8ad38ae19540ca50a",
+    "text": "Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.",
+    "raw_text": "Most disputes in this corpus collapse when these four questions get separated. Most disputes get invented when they don't.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:43",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_1154ead1503a14398e18",
+    "text": "1. TEXT — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.\n2. INTERPRETATION — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.\n3. HISTORY — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.\n4. DOCTRINE — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.",
+    "raw_text": "1. **TEXT** — What does the earliest recoverable text actually say? A manuscript question, answered by textual criticism, not theology.\n2. **INTERPRETATION** — What conclusions can reasonably be drawn from that text? A hermeneutical question. More than one interpretation can be reasonable from the same text — camp-labeling (§1) applies here, not at TEXT.\n3. **HISTORY** — When did a particular interpretation first appear in the historical record? A dating question, answered from primary sources, not from how old an idea feels.\n4. **DOCTRINE** — When did a church or institution formally require that interpretation? An institutional-power question, not a textual or historical one.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:44",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_67b1b5662fb7e79d0da7",
+    "text": "Why this matters: the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.",
+    "raw_text": "**Why this matters:** the most common move in these debates is arguing at one level while citing evidence from another — using a doctrine's age to argue a text's meaning, or an interpretation's early appearance to argue it was the only one available.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:45",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_21d5d36c15bd5e46b0a6",
+    "text": "Worked example — the Trinity (Observations §13, Historical Framework §7):",
+    "raw_text": "**Worked example — the Trinity** (Observations §13, Historical Framework §7):",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:46",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_cd7b27ec6c2adaf21706",
+    "text": "TEXT: the word \"Trinity\" appears in no biblical manuscript. Not disputed.\nINTERPRETATION: John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.\nHISTORY: proto-trinitarian formulas and \"fully God, fully man\" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.\nDOCTRINE: Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.",
+    "raw_text": "- **TEXT:** the word \"Trinity\" appears in no biblical manuscript. Not disputed.\n- **INTERPRETATION:** John 1:1, Philippians 2:6, and similar texts support — not require — a high Christology reading. Other readings of the same texts are defensible.\n- **HISTORY:** proto-trinitarian formulas and \"fully God, fully man\" language appear in 2nd–3rd-century writers (Irenaeus, Tertullian), well before Nicaea, without creedal uniformity.\n- **DOCTRINE:** Nicaea (325) and Chalcedon (451) are when a specific, enforced doctrinal statement exists — not when the idea was invented, but when it became institutionally mandatory, with real consequences for dissent.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:47",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_81e0a80e9f533da03515",
+    "text": "Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.",
+    "raw_text": "Four different questions, four different kinds of evidence, four different answers. Treating any one as settling another is the error — not the tier itself.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:48",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
+  },
+  {
+    "id": "rk_1c0502ad8a38a1e94c02",
+    "text": "Use note: apply this going forward, as a lens for new entries and audits, not as a retroactive re-tag of the corpus's existing records. When auditing an existing claim (§1), identify which tier it is actually making a claim at before verifying it — a claim can be right at one tier and overstated at another.",
+    "raw_text": "**Use note:** apply this going forward, as a lens for new entries and audits, not as a retroactive re-tag of the corpus's existing records. When auditing an existing claim (§1), identify which tier it is actually making a claim at before verifying it — a claim can be right at one tier and overstated at another.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Method & Reference",
+      "6. Four Levels of a Claim — Text, Interpretation, History, Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Method_and_Reference.md",
+    "source_section": "Method & Reference > 6. Four Levels of a Claim — Text, Interpretation, History, Doctrine",
+    "source_reference": "paragraph:49",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
+    },
+    "review_required": false,
+    "parser_version": "1.1.3"
   }
 ]);
