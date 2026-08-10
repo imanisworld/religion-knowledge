@@ -661,7 +661,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 # 10. "DON'T ADD YOUR OWN UNDERSTANDING" — AN INTERPRETIVE TENSION
 
-**The verse: **Proverbs 3:5 — "Trust in the Lord with all your heart, and do not lean on your own understanding." (ESV)
+**The verse: **Proverbs 3:5 — "Trust in the Lord with all your heart, and do not lean on your own understanding." (ESV) NRSVue: "do not rely on your own insight" — same argument either way; the wording changes, not the interpretive move being critiqued below.
 
 **How it is used: **To shut down critical analysis, questioning, or skepticism of the Bible. Implies that intellectual engagement with the text is sinful pride or faithlessness.
 

@@ -8922,9 +8922,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_69d57daed8cfcf43d086",
-    "text": "The verse: Proverbs 3:5 — \"Trust in the Lord with all your heart, and do not lean on your own understanding.\" (ESV)",
-    "raw_text": "**The verse: **Proverbs 3:5 — \"Trust in the Lord with all your heart, and do not lean on your own understanding.\" (ESV)",
+    "id": "rk_bd4d772c27ad1b5a7d45",
+    "text": "The verse: Proverbs 3:5 — \"Trust in the Lord with all your heart, and do not lean on your own understanding.\" (ESV) NRSVue: \"do not rely on your own insight\" — same argument either way; the wording changes, not the interpretive move being critiqued below.",
+    "raw_text": "**The verse: **Proverbs 3:5 — \"Trust in the Lord with all your heart, and do not lean on your own understanding.\" (ESV) NRSVue: \"do not rely on your own insight\" — same argument either way; the wording changes, not the interpretive move being critiqued below.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
