@@ -1,6 +1,6 @@
 import crypto from 'node:crypto';
 
-export const PARSER_VERSION = '1.1.3';
+export const PARSER_VERSION = '1.2.0';
 
 const PROVENANCE = Object.freeze({
   MY_WORDS: 'MY_WORDS',
@@ -11,6 +11,7 @@ const PROVENANCE = Object.freeze({
   SOURCE: 'SOURCE',
   INFERENCE: 'INFERENCE',
   REVIEW_REQUIRED: 'REVIEW_REQUIRED',
+  PRE_CONVENTION: 'PRE_CONVENTION',
 });
 
 function cleanInlineMarkdown(text) {
@@ -167,11 +168,14 @@ function reviewRequired(value) {
 }
 
 function claudeDocumentDefault(value) {
+  // PROVEN means a specific, per-record marker or rule established this claim.
+  // A document-level default is an inherited header assertion, not per-record
+  // proof, even when the assertion itself is true — keep the two distinct.
   return {
     provenance_type: PROVENANCE.CLAUDE,
     representation_type: 'SUMMARY',
     speaker: 'Claude',
-    attribution_confidence: 'PROVEN',
+    attribution_confidence: 'DOCUMENT_DEFAULT',
     attribution_evidence: { method: 'document_provenance', value },
     review_required: false,
   };
@@ -182,8 +186,23 @@ function userDocumentDefault(value) {
     provenance_type: PROVENANCE.MY_WORDS,
     representation_type: 'VERBATIM',
     speaker: 'user',
-    attribution_confidence: 'PROVEN',
+    attribution_confidence: 'DOCUMENT_DEFAULT',
     attribution_evidence: { method: 'document_provenance', value },
+    review_required: false,
+  };
+}
+
+// A span the document's own provenance note declares genuinely mixed and no
+// longer separable (Master Notes §0-9, Observations §1-17 minus §7). Distinct
+// from REVIEW_REQUIRED: nothing here is actionable, so it must not carry the
+// same "needs review" flag as content that simply lacks a marker.
+function preConventionDefault(value) {
+  return {
+    provenance_type: PROVENANCE.PRE_CONVENTION,
+    representation_type: 'VERBATIM',
+    speaker: null,
+    attribution_confidence: 'UNKNOWN',
+    attribution_evidence: { method: 'document_warning', value },
     review_required: false,
   };
 }
@@ -193,9 +212,12 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
 
   if (sourceFile === 'Bible_Deep_Dive_Master_Notes.md') {
     if (Number.isFinite(major) && major >= 0 && major <= 9) {
-      return reviewRequired('Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable.');
+      return preConventionDefault('Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable.');
     }
-    return userDocumentDefault('Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed.');
+    // The document's own provenance note promises everything past §9 is
+    // marked. Unmarked content here is a broken promise, not evidence of
+    // authorship — it must not be silently assumed to be the user's words.
+    return reviewRequired('Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed.');
   }
 
   if (sourceFile === 'Field_Guide_Conversation_Reference.md') {
@@ -203,9 +225,9 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
       return userDocumentDefault('Observations provenance explicitly states the fieldwork observations at §7 are the user\'s.');
     }
     if (Number.isFinite(major) && major >= 1 && major <= 17) {
-      return reviewRequired('Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)');
+      return preConventionDefault('Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)');
     }
-    return reviewRequired('Observations provenance does not deterministically assign this section to one speaker.');
+    return reviewRequired('Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span.');
   }
 
   if (sourceFile === 'Glossary.md') {

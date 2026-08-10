@@ -65,28 +65,41 @@ test('multiline unordered list markers are cleaned on every line', () => {
   assert.equal(out.records[0].text, 'First item\nSecond item\nNested item');
 });
 
-test('legacy Study Notes sections 0-9 fail closed to REVIEW_REQUIRED', () => {
+test('legacy Study Notes sections 0-9 are declared PRE_CONVENTION, not actionable', () => {
   const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 1. Big Framework\n\n### 1.1 Claim\n\nThis predates provenance convention.' });
-  assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
-  assert.equal(out.records[0].review_required, true);
+  assert.equal(out.records[0].provenance_type, 'PRE_CONVENTION');
+  assert.equal(out.records[0].review_required, false);
   assert.match(out.records[0].attribution_evidence.value, /mixed/i);
 });
 
-test('post-legacy Study Notes defaults to user-authored text', () => {
-  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 10. Current Notes\n\nThis is later user-authored material.' });
-  assert.equal(out.records[0].provenance_type, 'MY_WORDS');
-  assert.equal(out.records[0].review_required, false);
-  assert.equal(out.records[0].attribution_evidence.method, 'document_provenance');
+test('post-legacy Study Notes with no marker fails closed to REVIEW_REQUIRED, not silently MY_WORDS', () => {
+  // Regression test: documentDefaultInfo() used to assume unmarked §10+ prose
+  // was the user's own words (PROVEN, no review). That default document
+  // provenance note promises everything past §9 is marked, so an unmarked
+  // paragraph here is a broken promise, not evidence of authorship — it must
+  // fail closed the same as any other unattributable claim.
+  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 10. Current Notes\n\nThis has no marker.' });
+  assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
+  assert.equal(out.records[0].review_required, true);
+  assert.equal(out.records[0].attribution_confidence, 'UNKNOWN');
 });
 
-test('Observations section 7 defaults to user-authored fieldwork', () => {
+test('Observations section 7 defaults to user-authored fieldwork, confidence is a document default not proof', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 7. FIELDWORK\n\nObserved in live conversation.' });
   assert.equal(out.records[0].provenance_type, 'MY_WORDS');
   assert.equal(out.records[0].review_required, false);
+  assert.equal(out.records[0].attribution_confidence, 'DOCUMENT_DEFAULT');
+  assert.equal(out.records[0].attribution_evidence.method, 'document_provenance');
 });
 
-test('Observations mixed sections remain REVIEW_REQUIRED', () => {
+test('Observations §1-17 mixed sections are declared PRE_CONVENTION, not actionable', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 3. HISTORY\n\nOld mixed material.' });
+  assert.equal(out.records[0].provenance_type, 'PRE_CONVENTION');
+  assert.equal(out.records[0].review_required, false);
+});
+
+test('Observations content past §17 with no marker fails closed to REVIEW_REQUIRED, distinct from the declared PRE_CONVENTION span', () => {
+  const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 20. SOMETHING NEW\n\nUnmarked paragraph.' });
   assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
   assert.equal(out.records[0].review_required, true);
 });
@@ -97,17 +110,18 @@ test('Method and Reference document defaults to Claude compilation', () => {
   assert.equal(out.records[0].representation_type, 'SUMMARY');
 });
 
-test('Observations section 8 no longer exists as a special case (moved to Method and Reference)', () => {
+test('Observations section 8 no longer exists as a special case (moved to Method and Reference), falls into the general §1-17 PRE_CONVENTION rule', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# 8. SOMETHING ELSE\n\nUnmarked paragraph.' });
-  assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
+  assert.equal(out.records[0].provenance_type, 'PRE_CONVENTION');
 });
 
-test('Claude-authored reference docs use explicit document provenance', () => {
+test('Claude-authored reference docs use explicit document provenance, confidence is a document default not proof', () => {
   for (const sourceFile of ['Glossary.md', 'Historical_Framework.md', 'Method_and_Reference.md', 'The_Other_Side.md', 'Translations.md']) {
     const out = parseMarkdown({ sourceFile, content: '# Topic\n\nUnmarked paragraph.' });
     assert.equal(out.records[0].provenance_type, 'CLAUDE', sourceFile);
     assert.equal(out.records[0].representation_type, 'SUMMARY', sourceFile);
     assert.equal(out.records[0].review_required, false, sourceFile);
+    assert.equal(out.records[0].attribution_confidence, 'DOCUMENT_DEFAULT', sourceFile);
   }
 });
 
@@ -145,11 +159,18 @@ test('unknown document outside deterministic rules fails closed', () => {
   assert.equal(out.records[0].review_required, true);
 });
 
-test('user-authored question becomes MY_QUESTION and OPEN', () => {
-  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 10. Questions\n\nWhich translation are you using?' });
+test('explicitly marked user question becomes MY_QUESTION and OPEN', () => {
+  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 10. Questions\n\n⟨YOURS⟩ Which translation are you using?' });
   assert.equal(out.records[0].record_type, 'QUESTION');
   assert.equal(out.records[0].status, 'OPEN');
   assert.equal(out.records[0].provenance_type, 'MY_QUESTION');
+});
+
+test('unmarked question past §9 stays REVIEW_REQUIRED — record_type is QUESTION/OPEN, but a "?" is not proof of authorship', () => {
+  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content: '## 10. Questions\n\nWhich translation are you using?' });
+  assert.equal(out.records[0].record_type, 'QUESTION');
+  assert.equal(out.records[0].status, 'OPEN');
+  assert.equal(out.records[0].provenance_type, 'REVIEW_REQUIRED');
 });
 
 test('IDs are deterministic', () => {

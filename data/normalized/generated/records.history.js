@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Historical_Framework.md
-// Parser version: 1.1.3
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -25,13 +25,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_af12f6003727e2f92692",
@@ -55,13 +55,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c79d2aab57328f96b529",
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_92ac79dcde94842e87da",
@@ -121,7 +121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd140a8bfb0d046519f9",
@@ -145,13 +145,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ee061b50e9a04fa2f80f",
@@ -176,13 +176,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2c98329e624dfd7ec6c5",
@@ -208,13 +208,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2a62d77b185227542ce",
@@ -240,13 +240,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_56d94fce39640f5af6f7",
@@ -272,13 +272,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c85168449413ef4d346d",
@@ -304,13 +304,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_be0e188cf5cbeea263fa",
@@ -336,13 +336,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c8609a6fa7a759339304",
@@ -368,13 +368,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4a6e9ac065430547411c",
@@ -400,13 +400,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a36ebf892167cdc9c43c",
@@ -438,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — an analogy that clarifies the distinction, not evidence about any particular text.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1dd38057d1d31e722a40",
@@ -464,13 +464,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cacba49519dfb2671a82",
@@ -495,13 +495,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_61f8562a75e77f80f930",
@@ -527,13 +527,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c71eb77709e5cedd7153",
@@ -559,13 +559,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a113116991054d6c2579",
@@ -591,13 +591,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4d87d65cc5f5d7e95783",
@@ -623,13 +623,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90bc067153d9735155a9",
@@ -655,13 +655,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fcec9cb346d61712c40e",
@@ -687,13 +687,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_40defc592b6a7fe8eb28",
@@ -725,7 +725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_96ee3d5ce610ee8793fd",
@@ -751,13 +751,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_487877df76d43c47f721",
@@ -783,13 +783,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a6ed4b90ea8465f413ee",
@@ -815,13 +815,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9da1fabe3ee5fc931c46",
@@ -847,13 +847,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b260cbcc650d519ba6fa",
@@ -879,13 +879,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_28aca2766e75d4e3ea81",
@@ -917,7 +917,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_faa32efd5ea2e5b7badc",
@@ -943,13 +943,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e889af4cc18ce54806e0",
@@ -975,13 +975,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cebe709fcdf47f176fb6",
@@ -1007,13 +1007,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11339f4a41d160998ab4",
@@ -1039,13 +1039,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e632fca75dc832a9ef49",
@@ -1071,13 +1071,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_01c89cc8ce632743e230",
@@ -1103,13 +1103,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_517924cda15284609eb4",
@@ -1135,13 +1135,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b4bb6fa0bc52252de581",
@@ -1166,13 +1166,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0dbacb08b5739a74e9f3",
@@ -1197,13 +1197,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0c6b68424c43f1b5c65b",
@@ -1228,13 +1228,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_493b39b1c7664019c51c",
@@ -1259,13 +1259,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b514cc96c3d8b5fda7e3",
@@ -1290,13 +1290,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0cc8db9d14636bf7c4af",
@@ -1321,13 +1321,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8111c9b87c2151385e40",
@@ -1352,13 +1352,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_adbca0b53e5beab6f11e",
@@ -1383,13 +1383,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8619a927bb037557df9f",
@@ -1414,13 +1414,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a9a369f4b30d6db280ea",
@@ -1445,13 +1445,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_27258af0269cb9296e49",
@@ -1476,13 +1476,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_67a18a8e2cedd00cb52f",
@@ -1513,7 +1513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_582185b4d3e95b2173fa",
@@ -1538,13 +1538,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_59f91c5a2afb2c54d924",
@@ -1569,13 +1569,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ced0499a2e14dde54327",
@@ -1600,13 +1600,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_33add543e8078d1345cc",
@@ -1631,13 +1631,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3cd13f6f6884317ed806",
@@ -1662,13 +1662,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b7a411ab556dd979df86",
@@ -1693,13 +1693,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d2c38bcd1d4612ac5b77",
@@ -1724,13 +1724,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_259947bc4c9dfac6bf06",
@@ -1755,13 +1755,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fe9370505dc7f51bcab7",
@@ -1786,13 +1786,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_45bf76a03213a8ec44e7",
@@ -1817,13 +1817,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2a618771bc4bf4a29c7",
@@ -1848,13 +1848,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9391ea4602b498dd801b",
@@ -1879,13 +1879,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_acfd9f704147d98d4353",
@@ -1910,13 +1910,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_23281eb7bc8aa2ffd188",
@@ -1941,13 +1941,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f9b9093fad2c91469c99",
@@ -1972,13 +1972,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ebd59af27bd5a82eb1fa",
@@ -2003,13 +2003,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c93ac44b0163f0117e09",
@@ -2040,7 +2040,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the facts are documented; the judgement is Claude's⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc6a863240790825d7e0",
@@ -2065,13 +2065,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4dd83b84fcb8614cd823",
@@ -2096,13 +2096,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b9697f9c577444a609e1",
@@ -2127,13 +2127,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_83c65764effc2a0ec618",
@@ -2164,7 +2164,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the dates are documented; the framing is Claude's⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11fd16180a815e0cebb2",
@@ -2189,13 +2189,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e3ea68bab81c493e5ec0",
@@ -2220,13 +2220,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7ba91b9aa077eb7c8c84",
@@ -2251,13 +2251,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_594b57009eaa7a75ecfc",
@@ -2282,13 +2282,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5b3d098f8506ab92c625",
@@ -2313,13 +2313,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0fff10631bd966bfa6aa",
@@ -2344,13 +2344,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2532d9ea8c534f6641c",
@@ -2375,13 +2375,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_516101bac5a3bb9a369b",
@@ -2406,13 +2406,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_63bd5534ab2bb1eb6f99",
@@ -2437,13 +2437,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_283ce62e721ba5b899dd",
@@ -2468,13 +2468,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2b5a2e55be2b2c14f3f4",
@@ -2499,13 +2499,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_642910ad925b8a2b7578",
@@ -2530,13 +2530,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c6b49386c0e36037964",
@@ -2561,13 +2561,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_68d71162d041e992d7e8",
@@ -2592,13 +2592,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6c4b04dd25aea17b62c4",
@@ -2623,13 +2623,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9d82cdbd3c4c5e9a457e",
@@ -2654,13 +2654,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0f7958b1718e17cdf5e7",
@@ -2685,13 +2685,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7f412088fb1b32a3a5cb",
@@ -2716,13 +2716,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e1779ae3dde7a004bee8",
@@ -2747,13 +2747,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_799cf2a9230c2fb6f675",
@@ -2778,13 +2778,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ccbd3495b278c27b44f9",
@@ -2809,13 +2809,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_840cc52956e8280a59ae",
@@ -2840,13 +2840,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4ded8d83d7f10d16113c",
@@ -2877,7 +2877,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4bdacb8c1fdee2da0027",
@@ -2902,13 +2902,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e90caa97d28158557fe5",
@@ -2934,13 +2934,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e533988256d46eb6e7ab",
@@ -2966,13 +2966,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_77a6cb3d9024683e1da2",
@@ -2998,13 +2998,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bc328e216451c3d418cb",
@@ -3030,13 +3030,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8a6ae239c35ae643a47a",
@@ -3062,13 +3062,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_363c003439fffe859282",
@@ -3100,7 +3100,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the three positions are documented; the \"not settled\" framing is Claude's synthesis of the disagreement between them⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2084a799c73c98eec8fa",
@@ -3126,13 +3126,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4d716505ee5f2e9d821b",
@@ -3158,13 +3158,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9651cdce1684111e8f32",
@@ -3196,7 +3196,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4e54deadac9f283946e5",
@@ -3222,13 +3222,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_78854cf8e982028d5664",
@@ -3254,13 +3254,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5cdca283b1d9dd5e6eca",
@@ -3286,13 +3286,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_064b3bd7b81a8d151362",
@@ -3318,13 +3318,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8f6ea760053b5b812d21",
@@ -3350,13 +3350,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_74825c81dfefb3b300fe",
@@ -3382,13 +3382,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_881f2fcb688cf4cb4f56",
@@ -3420,7 +3420,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a54075a380a35d721b2c",
@@ -3446,12 +3446,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   }
 ]);

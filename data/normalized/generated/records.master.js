@@ -1,15 +1,15 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Bible_Deep_Dive_Master_Notes.md
-// Parser version: 1.1.3
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
     "id": "rk_1861c40b7b34109eb780",
     "text": "Critical / Historical / Moral Lens",
     "raw_text": "*Critical / Historical / Moral Lens*",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes"
     ],
@@ -25,21 +25,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2c3ddabec9d98966a943",
     "text": "Reading: ESV + Audiobook\nLast updated: 7 August 2026",
     "raw_text": "**Reading:** ESV + Audiobook\n**Last updated:** 7 August 2026",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes"
     ],
@@ -55,21 +55,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9df7867de4fc0e88c8f0",
     "text": "Provenance. Written by: you, across the reading. Audits added by: Claude, with sources named. Honest limitation: §0–§9 predate this convention and are a genuine mix — your reading notes and Claude's earlier framing, no longer cleanly separable after the fact. Do not assume a claim in those sections is sourced unless a name is attached. Everything from the audit sections onward is marked.",
     "raw_text": "> **Provenance.** **Written by:** you, across the reading. **Audits added by:** Claude, with sources named. **Honest limitation:** §0–§9 predate this convention and are a genuine mix — your reading notes and Claude's earlier framing, no longer cleanly separable after the fact. Do not assume a claim in those sections is sourced unless a name is attached. Everything from the audit sections onward is marked.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes"
     ],
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7f945dfe4194aa1e0ae5",
@@ -121,15 +121,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b30ac6a0e0aa4b12a934",
     "text": "How to read this document. Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits directly beneath it, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n\nScope: this document holds findings, textual analysis, and what the reading has established. Quick-reference observations, common claims, contextual notes, and questions live in the Observations: Live Conversation Reference.",
     "raw_text": "> **How to read this document.** Original claims are preserved exactly as first recorded. Where later scrutiny revised a claim, the audit sits **directly beneath it**, marked ⚑. Nothing has been overwritten — you can see what was claimed, what survived, and why the original looked right. Method and outstanding queue are at §11.\n>\n> **Scope:** this document holds findings, textual analysis, and what the reading has established. Quick-reference observations, common claims, contextual notes, and questions live in the **Observations: Live Conversation Reference**.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes"
     ],
@@ -145,19 +145,19 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f05631f3eb0a751d489a",
     "text": "Reading the Bible as historical/political literature, not devotional text. The goal is to understand: what the text actually says, who wrote it and why, what worldview it assumes, what moral system it promotes, and why people follow it literally.",
     "raw_text": "Reading the Bible as historical/political literature, not devotional text. The goal is to understand: what the text actually says, who wrote it and why, what worldview it assumes, what moral system it promotes, and why people follow it literally.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -181,14 +181,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c7838ddcca3e90e2f685",
     "text": "The Bible reads as: political theology, national origin myth and trauma literature, an evolving belief system, and an edited library — not one voice.",
     "raw_text": "The Bible reads as: political theology, national origin myth and trauma literature, an evolving belief system, and an edited library — not one voice.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -212,14 +212,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f6c4a611c175f21e6a86",
     "text": "Core stance:",
     "raw_text": "**Core stance:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -243,14 +243,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fe0c9d9188f7bf5cbaf8",
     "text": "Not arguing for or against God. Evaluating moral coherence, justice framework, contradictions, and power dynamics. No 'God works in mysterious ways' hand-waving. Treat as literature shaped by politics and trauma, not a single divine manual.",
     "raw_text": "Not arguing for or against God. Evaluating moral coherence, justice framework, contradictions, and power dynamics. No 'God works in mysterious ways' hand-waving. Treat as literature shaped by politics and trauma, not a single divine manual.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -274,14 +274,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e9ed6553b0633b9f6e42",
     "text": "'God' portrayal changes across centuries: tribal war-god → covenant lawgiver → cosmic judge → distant deity → comforter → universal ruler. Contradictions are preserved side-by-side, suggesting multiple sources and later editing across centuries.",
     "raw_text": "'God' portrayal changes across centuries: tribal war-god → covenant lawgiver → cosmic judge → distant deity → comforter → universal ruler. Contradictions are preserved side-by-side, suggesting multiple sources and later editing across centuries.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -306,14 +306,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a01d0bf90c5a6d54494c",
     "text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.",
     "raw_text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -338,14 +338,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_123d19c75c01e4694b86",
     "text": "Job challenges the idea that suffering proves guilt. God answers with power and riddles, not moral explanation. 'Ha-satan' appears as the Accuser — a legal/adversarial role in the divine court, not a personified cosmic evil. This is a major theological pivot.",
     "raw_text": "Job challenges the idea that suffering proves guilt. God answers with power and riddles, not moral explanation. 'Ha-satan' appears as the Accuser — a legal/adversarial role in the divine court, not a personified cosmic evil. This is a major theological pivot.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -370,8 +370,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c988247dceb131de9e11",
@@ -404,7 +404,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a24ceb703582cc8ad4d9",
@@ -439,7 +439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d3aec1da17a26d95cd67",
@@ -474,7 +474,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2fea4bd1497d7a3a182f",
@@ -507,7 +507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ed2abfe39938b4abe212",
@@ -540,7 +540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6f773c84d36a24d557b3",
@@ -573,7 +573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f1ea928bc1cefa99529e",
@@ -606,7 +606,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_52e8a0e0981d84a44a59",
@@ -639,7 +639,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e1c2f7df46ec3431c4e",
@@ -675,7 +675,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1e858861b9cc9fc3a8be",
@@ -708,7 +708,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d188ec3b542bcb595280",
@@ -741,13 +741,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0cc24b6e28a7cbf70efc",
     "text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
     "raw_text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -772,14 +772,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b7e553930460c4a624e6",
     "text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
     "raw_text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -804,14 +804,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_99a291b0fdf165458bf9",
     "text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
     "raw_text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -836,8 +836,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_842c569fff106cdbce90",
@@ -870,7 +870,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8e86686fd6898ab1cd40",
@@ -905,7 +905,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_eac534bdf2030f1e06a7",
@@ -940,7 +940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5031e1a3ce1eb05fd483",
@@ -973,7 +973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8638f32dde7d0bedb522",
@@ -1006,7 +1006,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_794886ab40d0c2c42910",
@@ -1039,7 +1039,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_842c843de3651483697e",
@@ -1072,7 +1072,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bb48bf208b0c85d9ca01",
@@ -1105,7 +1105,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8fb6345bbc7f73589fdc",
@@ -1138,7 +1138,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ad51ab689e313adb2212",
@@ -1171,7 +1171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7547132df08203961aab",
@@ -1207,7 +1207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0342d1b95d900f519c7a",
@@ -1240,7 +1240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e7cb97cb110c29b72ef5",
@@ -1273,13 +1273,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0894af51f53fd701a7c3",
     "text": "Early 'Israel' is Jacob's name and his descendants. Later it becomes national identity. Modern uses of the term conflate these layers in ways that create confusion — political and theological simultaneously.",
     "raw_text": "Early 'Israel' is Jacob's name and his descendants. Later it becomes national identity. Modern uses of the term conflate these layers in ways that create confusion — political and theological simultaneously.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1304,14 +1304,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_102509e90a847a3d0b2b",
     "text": "Exile and empire reshape God concepts across the OT. The prophets are largely political and trauma literature more than universal moral instruction. Reading them as timeless divine commands strips the historical context that explains why they were written.",
     "raw_text": "Exile and empire reshape God concepts across the OT. The prophets are largely political and trauma literature more than universal moral instruction. Reading them as timeless divine commands strips the historical context that explains why they were written.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1336,8 +1336,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d941d03ac3e64eac55e1",
@@ -1370,7 +1370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_455a7d0c8490d1ffb329",
@@ -1405,7 +1405,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8b9b6619ef2590528b9f",
@@ -1440,7 +1440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_485554478e93cbce1e79",
@@ -1473,7 +1473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_94b1b9f34216d828832d",
@@ -1506,7 +1506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d652278add2f9cf2cd7f",
@@ -1539,7 +1539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7e8dc3301494a93aa744",
@@ -1572,7 +1572,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ce7f9bae13809e6b6c47",
@@ -1605,7 +1605,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_19d74a6a401f02e7c33c",
@@ -1638,7 +1638,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4f00750fa08e79c4dea6",
@@ -1671,7 +1671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_267d3e28f3439e72bfc2",
@@ -1704,7 +1704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ce79c6bd146853b81a12",
@@ -1740,7 +1740,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b542cefe54da825f1589",
@@ -1773,7 +1773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_14e4a1f79127feba7e91",
@@ -1806,7 +1806,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dda1f959ce02753b1ece",
@@ -1839,7 +1839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_53e484d8938e070d4421",
@@ -1874,7 +1874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_52dc09da18271abaeaed",
@@ -1909,7 +1909,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a6080282fd3e2f3ddbae",
@@ -1942,7 +1942,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_74bcc62c180f8fd32956",
@@ -1975,7 +1975,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b31594250a5fe58d32c4",
@@ -2008,7 +2008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_12c7317d58a6d4f035cf",
@@ -2041,7 +2041,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d746c88c12e783ab4027",
@@ -2074,7 +2074,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the characterization is Claude's; the citations below are documented⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_66bdf4f3231a11aaf5fd",
@@ -2107,7 +2107,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_56c5e45b4f2c96d60823",
@@ -2143,7 +2143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e43a575337aa899b7efe",
@@ -2176,7 +2176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2c23552203d15c375b41",
@@ -2209,13 +2209,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_57e1ff6a4946e290164f",
     "text": "Genesis 1:27 — 'adam' = humanity/humankind (collective), not a personal name 'Adam.' 'Male and female' are biological classification terms that don't automatically imply hierarchy.",
     "raw_text": "Genesis 1:27 — 'adam' = humanity/humankind (collective), not a personal name 'Adam.' 'Male and female' are biological classification terms that don't automatically imply hierarchy.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2239,14 +2239,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e013cc04ddc1f46a7f9",
     "text": "Isaiah 7:14 — Hebrew 'almah' = young woman. Matthew translates this with the Greek 'parthenos' (virgin) to construct the virgin birth narrative. The original verse is about events in Isaiah's own time, not a future messiah.",
     "raw_text": "Isaiah 7:14 — Hebrew 'almah' = young woman. Matthew translates this with the Greek 'parthenos' (virgin) to construct the virgin birth narrative. The original verse is about events in Isaiah's own time, not a future messiah.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2270,8 +2270,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8283432a8fde7296cbdd",
@@ -2303,7 +2303,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_23d4450752b871336b25",
@@ -2337,7 +2337,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9f5d73ece0e871d25323",
@@ -2371,7 +2371,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2ad35caba24ec0e3f725",
@@ -2403,7 +2403,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1d6561a553e6d1ba79ed",
@@ -2435,7 +2435,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15d2f77617b97333136a",
@@ -2467,7 +2467,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_16a4bed55b9bf88c8c3c",
@@ -2499,7 +2499,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e2f04c418c196d4a46d0",
@@ -2531,7 +2531,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b3de5a1688756368210f",
@@ -2566,7 +2566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a60842de679d95b4bf85",
@@ -2598,7 +2598,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4d5e5adb59b3be45a3ca",
@@ -2630,7 +2630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ac990b51b3a6ec5599a0",
@@ -2662,13 +2662,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_24f6cf7ffd1bc0ca2f93",
     "text": "8th century BCE core, extended through post-exilic editing (scholars identify at least two distinct authors — 'First Isaiah' ch. 1-39, and 'Deutero-Isaiah' ch. 40-55, with possible Third Isaiah). Doom/restoration cycles. Repetitive and exhausting to read straight through. Used heavily by NT authors for 'fulfilled prophecy' claims that require ignoring original context.",
     "raw_text": "8th century BCE core, extended through post-exilic editing (scholars identify at least two distinct authors — 'First Isaiah' ch. 1-39, and 'Deutero-Isaiah' ch. 40-55, with possible Third Isaiah). Doom/restoration cycles. Repetitive and exhausting to read straight through. Used heavily by NT authors for 'fulfilled prophecy' claims that require ignoring original context.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2693,14 +2693,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f1d1a927f5e5f4efb521",
     "text": "52 chapters of contradictory doom and hope. Jeremiah 29:11 ('plans for a future and a hope') is addressed to exiles being told to settle in Babylon for 70 years — not a personal life promise. The surrounding verses (29:16-19) describe God sending sword, famine, and plague to those still in Jerusalem.",
     "raw_text": "52 chapters of contradictory doom and hope. Jeremiah 29:11 ('plans for a future and a hope') is addressed to exiles being told to settle in Babylon for 70 years — not a personal life promise. The surrounding verses (29:16-19) describe God sending sword, famine, and plague to those still in Jerusalem.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2725,14 +2725,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_79f82ce303b9b2a244e0",
     "text": "Jeremiah 31:31 (the 'new covenant') is addressed to 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Christians retrofitted this centuries later. Jewish tradition reads it as future restoration of Israel.",
     "raw_text": "Jeremiah 31:31 (the 'new covenant') is addressed to 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Christians retrofitted this centuries later. Jewish tradition reads it as future restoration of Israel.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2757,14 +2757,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cfff4525ba21b1a39d18",
     "text": "The book contradicts itself: surrender to Babylon (ch. 27) vs. Babylon is evil and will be destroyed (ch. 50-51). Restoration after 70 years (29:10) vs. everyone will die (21:9). New covenant because the old one failed (31:31) while still preaching old covenant theology throughout.",
     "raw_text": "The book contradicts itself: surrender to Babylon (ch. 27) vs. Babylon is evil and will be destroyed (ch. 50-51). Restoration after 70 years (29:10) vs. everyone will die (21:9). New covenant because the old one failed (31:31) while still preaching old covenant theology throughout.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2789,14 +2789,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bd66d8756d9fb8d70209",
     "text": "Bizarre visions (eating scrolls, cooking food over dung, lying on his side for 390 days). Chapters 16 and 23 contain extremely graphic sexual violence metaphors — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented as God's love. This is the most explicitly abusive metaphor in the prophetic literature.",
     "raw_text": "Bizarre visions (eating scrolls, cooking food over dung, lying on his side for 390 days). Chapters 16 and 23 contain extremely graphic sexual violence metaphors — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented as God's love. This is the most explicitly abusive metaphor in the prophetic literature.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2821,14 +2821,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_abae661cd7c6cfa4c84e",
     "text": "Most important book in the minor prophets for ethical analysis. Rare social justice focus: explicitly condemns economic oppression, rich exploiting poor, corrupt courts, luxury while poor suffer. Amos 5:21-24 — God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings or worship music. What God wants instead: 'let justice roll down like waters, and righteousness like an ever-flowing stream.' MLK quoted this in the March on Washington.",
     "raw_text": "Most important book in the minor prophets for ethical analysis. Rare social justice focus: explicitly condemns economic oppression, rich exploiting poor, corrupt courts, luxury while poor suffer. Amos 5:21-24 — God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings or worship music. What God wants instead: 'let justice roll down like waters, and righteousness like an ever-flowing stream.' MLK quoted this in the March on Washington.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2853,14 +2853,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ec123d835a020df46082",
     "text": "Satirical. God shows mercy to Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. God's final words: 'should I not care about 120,000 people?' The book critiques Jonah's nationalism as petty and contradicts the dominant nationalist violence theology of the other prophets. Most universalist book in the OT.",
     "raw_text": "Satirical. God shows mercy to Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. God's final words: 'should I not care about 120,000 people?' The book critiques Jonah's nationalism as petty and contradicts the dominant nationalist violence theology of the other prophets. Most universalist book in the OT.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2885,14 +2885,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a1e0ee3c2b87d869398c",
     "text": "Micah 6:8 — the OT's most concise ethical statement: 'What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?' This directly contradicts the elaborate ritual requirements in Exodus/Leviticus. Not sacrifice, not temple attendance, not tithing — just justice, kindness, humility.",
     "raw_text": "Micah 6:8 — the OT's most concise ethical statement: 'What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?' This directly contradicts the elaborate ritual requirements in Exodus/Leviticus. Not sacrifice, not temple attendance, not tithing — just justice, kindness, humility.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2917,14 +2917,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_80ba79d774dc81f7fbae",
     "text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
     "raw_text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2949,14 +2949,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5ec3c53b18fd836f77d8",
     "text": "The prophets are obsessed with controlling women's sexuality and erasing women's religious authority. Israel is called 'whore' and 'prostitute' relentlessly (Hosea, Jeremiah, Ezekiel, Isaiah). Punishment is described as public stripping, sexual humiliation, and gang violence. Real women — like Gomer in Hosea — are used as theological props with no voice or agency.",
     "raw_text": "The prophets are obsessed with controlling women's sexuality and erasing women's religious authority. Israel is called 'whore' and 'prostitute' relentlessly (Hosea, Jeremiah, Ezekiel, Isaiah). Punishment is described as public stripping, sexual humiliation, and gang violence. Real women — like Gomer in Hosea — are used as theological props with no voice or agency.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2980,14 +2980,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_53bba082ecbdeb691ecb",
     "text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
     "raw_text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3011,14 +3011,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3b4884c74ba3763b4280",
     "text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
     "raw_text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3042,8 +3042,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c38e644a2f247db18e79",
@@ -3075,7 +3075,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_271f8a5f93e62ea92d88",
@@ -3107,7 +3107,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_418fea3a2c7d264c21d4",
@@ -3139,7 +3139,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3410d8b9d446a755cf2e",
@@ -3171,7 +3171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_050a57ba0c15bfbff8b9",
@@ -3203,7 +3203,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4e878726a1c83c8fda72",
@@ -3235,13 +3235,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨YOURS⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_29c091ecbe26efe86a8a",
     "text": "The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
     "raw_text": "The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3266,14 +3266,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f3861f2223763aa27fb3",
     "text": "Jesus didn't write anything. All NT doctrine derives from other people's interpretation of him. Paul's letters are the earliest NT documents — written before the Gospels, by someone who never met Jesus in person, building a theological system that Jesus himself never articulates.",
     "raw_text": "Jesus didn't write anything. All NT doctrine derives from other people's interpretation of him. Paul's letters are the earliest NT documents — written before the Gospels, by someone who never met Jesus in person, building a theological system that Jesus himself never articulates.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3298,14 +3298,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_17c9c3aafd17af470133",
     "text": "The Gospels were written 40-70 years after Jesus's death, in Greek, by communities with theological agendas, for specific audiences. They are not eyewitness accounts. They contradict each other in meaningful ways on birth narratives, resurrection accounts, last words, and Jesus's own self-description.",
     "raw_text": "The Gospels were written 40-70 years after Jesus's death, in Greek, by communities with theological agendas, for specific audiences. They are not eyewitness accounts. They contradict each other in meaningful ways on birth narratives, resurrection accounts, last words, and Jesus's own self-description.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3330,14 +3330,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4a6440b49b4457a04a76",
     "text": "The absence of Jesus's own writing means that when Matthew's Jesus and Paul's theology disagree, there is no document to resolve it. The entire religion is built on interpretation of interpreted oral tradition written down late by people who weren't there.",
     "raw_text": "The absence of Jesus's own writing means that when Matthew's Jesus and Paul's theology disagree, there is no document to resolve it. The entire religion is built on interpretation of interpreted oral tradition written down late by people who weren't there.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3362,14 +3362,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2d4bb4688fb892aaef08",
     "text": "'Christ' is a title, not a name. It is the Greek translation of the Hebrew Mashiach (Messiah) = 'anointed one,' originally meaning a king or priest anointed with oil. The NT is an argument that Jesus qualifies. This argument was largely rejected by Jewish communities of the time — who were reading the same OT and came to different conclusions about what messianic prophecy required.",
     "raw_text": "'Christ' is a title, not a name. It is the Greek translation of the Hebrew Mashiach (Messiah) = 'anointed one,' originally meaning a king or priest anointed with oil. The NT is an argument that Jesus qualifies. This argument was largely rejected by Jewish communities of the time — who were reading the same OT and came to different conclusions about what messianic prophecy required.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3394,14 +3394,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_28bfdcc18016a6d03789",
     "text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
     "raw_text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3426,14 +3426,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_140c8bfe5b9ed5033792",
     "text": "Jesus spoke Aramaic. The Gospels are written in Greek. This translation layer — across decades, across communities, across cultures — shapes everything. Words like 'almah' (Hebrew, young woman) becoming 'parthenos' (Greek, virgin) in Matthew show how translation choices create doctrine.",
     "raw_text": "Jesus spoke Aramaic. The Gospels are written in Greek. This translation layer — across decades, across communities, across cultures — shapes everything. Words like 'almah' (Hebrew, young woman) becoming 'parthenos' (Greek, virgin) in Matthew show how translation choices create doctrine.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3458,14 +3458,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0d00ad39e999c316e98e",
     "text": "Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus seems surprised by things and asks questions. The resurrection ending is famously disputed: oldest manuscripts end at 16:8 with women fleeing in terror, saying nothing to anyone. Later scribes added verses 9-20. This is the baseline — Mark before Matthew's elaborations.",
     "raw_text": "Shortest and earliest (~65-70 CE). Most human Jesus. No birth narrative. Jesus seems surprised by things and asks questions. The resurrection ending is famously disputed: oldest manuscripts end at 16:8 with women fleeing in terror, saying nothing to anyone. Later scribes added verses 9-20. This is the baseline — Mark before Matthew's elaborations.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3490,8 +3490,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_50e068476964b8afc296",
@@ -3524,7 +3524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_79dbb4bdefb92a8763f0",
@@ -3559,7 +3559,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b29f00170c736e529267",
@@ -3594,7 +3594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_513e219ac629d6423eaf",
@@ -3627,7 +3627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_568d838e5d821f35e45e",
@@ -3660,7 +3660,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4741acacfce2691ba58c",
@@ -3693,7 +3693,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fec781e43372dad376f9",
@@ -3726,7 +3726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_af9ffa62d48b0ac15ba0",
@@ -3759,7 +3759,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c99e998cda9788ba7ca9",
@@ -3795,7 +3795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3debb1b2819c750fcb08",
@@ -3828,13 +3828,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_052e4a32b91a5a8f53e5",
     "text": "Written for a Jewish audience, so it obsessively cites OT to prove Jesus is the Messiah. You will recognize the misquoted prophecies because you have read the originals. 'Virgin birth' comes from Matthew's mistranslation of Isaiah 7:14 (almah = young woman, not virgin). Heavy use of 'this was to fulfill what was written' — a rhetorical pattern, not independent evidence.",
     "raw_text": "Written for a Jewish audience, so it obsessively cites OT to prove Jesus is the Messiah. You will recognize the misquoted prophecies because you have read the originals. 'Virgin birth' comes from Matthew's mistranslation of Isaiah 7:14 (almah = young woman, not virgin). Heavy use of 'this was to fulfill what was written' — a rhetorical pattern, not independent evidence.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3859,8 +3859,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_30ae2bb629bd9e8ce317",
@@ -3893,7 +3893,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c7166e8f35d131a3ebac",
@@ -3928,7 +3928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f7d53523529faa0e1e28",
@@ -3963,7 +3963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_005a3a3cb59372ee4c28",
@@ -3996,7 +3996,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_06fb579b5dfd0b142912",
@@ -4029,7 +4029,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7d1afd6737dde02dd4fe",
@@ -4062,7 +4062,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5f6c3f957c58768cd990",
@@ -4095,7 +4095,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_10d392ae85e8f636007e",
@@ -4128,7 +4128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_92b968f4db35b010a5a8",
@@ -4164,7 +4164,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1e123fe4d7bf65f6bd2f",
@@ -4197,7 +4197,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7c564c4ca3a36ba2566f",
@@ -4230,13 +4230,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1d7d8109fedaabfde217",
     "text": "Gentile audience. Emphasizes mercy and the poor. Softens some of the harder edges. Luke's academic-style opening (1:1-4) — claiming to write an 'orderly account' based on investigation — is defensive posturing that signals the author knows competing accounts exist. Pairs with Acts (same author, same project: legitimizing Paul's mission to the Gentiles).",
     "raw_text": "Gentile audience. Emphasizes mercy and the poor. Softens some of the harder edges. Luke's academic-style opening (1:1-4) — claiming to write an 'orderly account' based on investigation — is defensive posturing that signals the author knows competing accounts exist. Pairs with Acts (same author, same project: legitimizing Paul's mission to the Gentiles).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4261,8 +4261,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_06376762ea37d69b5e1d",
@@ -4295,7 +4295,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_936cdd39840bc2489677",
@@ -4330,7 +4330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_74478198e0b8f028c534",
@@ -4365,7 +4365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f08777666609d816ebf3",
@@ -4398,7 +4398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d61ef77078ca6dd7fced",
@@ -4431,7 +4431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_55a39a28dc644331c0d5",
@@ -4464,7 +4464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ebd33ad4d90ff44bcad2",
@@ -4497,7 +4497,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_49cb8a1edceb602f82b0",
@@ -4530,7 +4530,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the pattern is documented; the causal explanation is a widely-held reading, not a single citation⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9100e95e4564678956a0",
@@ -4563,7 +4563,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_941a329a4ed5f0edab43",
@@ -4599,7 +4599,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_88f64c03221e1ef70a0a",
@@ -4632,7 +4632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_52f882994ac9d85cc85d",
@@ -4665,13 +4665,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3b1c4722fc8bac059cee",
     "text": "Latest written (~90-100 CE). Most theologically developed. Opens with 'In the beginning was the Word' — direct callback to Genesis 1, fully equating Jesus with God. Jesus speaks very differently in John than in the other three Gospels: longer speeches, explicit divine claims. The most distant from historical Jesus, the most useful for understanding where Christian theology ends up.",
     "raw_text": "Latest written (~90-100 CE). Most theologically developed. Opens with 'In the beginning was the Word' — direct callback to Genesis 1, fully equating Jesus with God. Jesus speaks very differently in John than in the other three Gospels: longer speeches, explicit divine claims. The most distant from historical Jesus, the most useful for understanding where Christian theology ends up.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4696,14 +4696,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fad0298f23956b0ad7b4",
     "text": "Where Christian theology is actually constructed. Paul never met Jesus. His letters predate the Gospels. He is building a theological system, not reporting events. The tension between 'there is neither slave nor free' (Galatians 3:28) and 'slaves obey your masters' (Colossians 3:22, Ephesians 6:5) in the Pauline corpus is the structural contradiction that made the Bible usable for both slavery's justification and its resistance, not a minor one.",
     "raw_text": "Where Christian theology is actually constructed. Paul never met Jesus. His letters predate the Gospels. He is building a theological system, not reporting events. The tension between 'there is neither slave nor free' (Galatians 3:28) and 'slaves obey your masters' (Colossians 3:22, Ephesians 6:5) in the Pauline corpus is the structural contradiction that made the Bible usable for both slavery's justification and its resistance, not a minor one.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4728,8 +4728,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7234f029f5245292d70d",
@@ -4762,7 +4762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a34dfcbc7b0dca21203f",
@@ -4795,7 +4795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7c4a63806416ae854156",
@@ -4830,7 +4830,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0429b11fe9fa20cedc47",
@@ -4863,7 +4863,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_50c03007aa29c59a8cd3",
@@ -4896,7 +4896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_579855872f5036c881c3",
@@ -4929,7 +4929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_106af85e5ff81503ae2f",
@@ -4962,7 +4962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f26bd08cc36abbd9314a",
@@ -4995,7 +4995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_93c1a642605de1f8554b",
@@ -5028,7 +5028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_662c60e9d397b121b391",
@@ -5061,7 +5061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_797291b3c999c5004972",
@@ -5094,7 +5094,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4c338986c41e358e286b",
@@ -5129,7 +5129,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f5378a185e9ab1069c71",
@@ -5162,7 +5162,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bbade46190450febfb56",
@@ -5195,13 +5195,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_93088454525041c23c5f",
     "text": "Authorship and dating: who wrote this, when, for what community, and what was their political situation.",
     "raw_text": "Authorship and dating: who wrote this, when, for what community, and what was their political situation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5225,14 +5225,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de7875b4109d838b319c",
     "text": "OT citations: how are they being used, does the original context support the claim, and is this fulfillment or retrofit?",
     "raw_text": "OT citations: how are they being used, does the original context support the claim, and is this fulfillment or retrofit?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5256,14 +5256,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_942f9dbf400344bc5159",
     "text": "Contradictions between Gospels: same story told differently (birth narratives, resurrection accounts, last words, Peter's denial, the death of Judas).",
     "raw_text": "Contradictions between Gospels: same story told differently (birth narratives, resurrection accounts, last words, Peter's denial, the death of Judas).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5287,14 +5287,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_29f80e9a2065215c75d4",
     "text": "Power dynamics: who benefits from each theological claim. Whose obedience is being secured, and whose authority is being legitimized?",
     "raw_text": "Power dynamics: who benefits from each theological claim. Whose obedience is being secured, and whose authority is being legitimized?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5318,14 +5318,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_64ecf59543a023922256",
     "text": "Theological evolution: how does 'Jesus as prophet/healer' become 'Jesus as cosmic God'? This arc runs across Mark → Matthew → Luke → John → Paul.",
     "raw_text": "Theological evolution: how does 'Jesus as prophet/healer' become 'Jesus as cosmic God'? This arc runs across Mark → Matthew → Luke → John → Paul.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5349,14 +5349,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_71f649316919ca8b3b21",
     "text": "Greek translation issues: same problem as Hebrew, different language. Words matter; translation choices create doctrine.",
     "raw_text": "Greek translation issues: same problem as Hebrew, different language. Words matter; translation choices create doctrine.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5380,14 +5380,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ed4e92e1c01e4029326a",
     "text": "What Jesus actually says vs. what Paul builds: these are frequently in tension. Paul's theology of atonement, resurrection as cosmic event, and Gentile inclusion goes far beyond anything in the Synoptic Gospels.",
     "raw_text": "What Jesus actually says vs. what Paul builds: these are frequently in tension. Paul's theology of atonement, resurrection as cosmic event, and Gentile inclusion goes far beyond anything in the Synoptic Gospels.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5411,14 +5411,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3c02a0696360b5ad4707",
     "text": "Latest Gospel (~90-100 CE). Written after the Jesus community has been expelled from synagogues — the Greek word aposynagogos (expelled) appears only in John. That social wound is baked into the entire text.",
     "raw_text": "Latest Gospel (~90-100 CE). Written after the Jesus community has been expelled from synagogues — the Greek word aposynagogos (expelled) appears only in John. That social wound is baked into the entire text.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5442,14 +5442,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_70aafbf5e4053773d1df",
     "text": "John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
     "raw_text": "John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5474,14 +5474,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_149624cef562015f89b6",
     "text": "Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
     "raw_text": "Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5506,14 +5506,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_122f361cb99173444265",
     "text": "'I am the way, the truth, and the life' (14:6). 'Before Abraham was, I am' (8:58). That last one deliberately uses the divine name from Exodus 3:14. Zero equivalent in Mark. The divine self-identification escalates across all four Gospels — John is the endpoint of that arc.",
     "raw_text": "'I am the way, the truth, and the life' (14:6). 'Before Abraham was, I am' (8:58). That last one deliberately uses the divine name from Exodus 3:14. Zero equivalent in Mark. The divine self-identification escalates across all four Gospels — John is the endpoint of that arc.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5538,14 +5538,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7fd72ac29d8ce593be33",
     "text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.",
     "raw_text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5570,14 +5570,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11eed16b5523c9c0bd6b",
     "text": "Jesus feeds 5,000 then pivots: I am the bread, eat my flesh, drink my blood for eternal life. He doubles down when people recoil. Even disciples say 'this is a hard saying' and leave. John includes the walkout — which is remarkable.",
     "raw_text": "Jesus feeds 5,000 then pivots: I am the bread, eat my flesh, drink my blood for eternal life. He doubles down when people recoil. Even disciples say 'this is a hard saying' and leave. John includes the walkout — which is remarkable.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5602,14 +5602,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_738cb5c6d12b1ec3383f",
     "text": "Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
     "raw_text": "Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5634,14 +5634,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_45557ebc0e3763e32c4e",
     "text": "'You are of your father the devil' — Jesus to Jewish leaders, John 8:44. 'The Jews' are treated as a category separate from and opposed to Jesus, despite Jesus being Jewish. This is a community processing its synagogue expulsion by demonizing the people who expelled them. This language becomes the theological foundation for centuries of Christian antisemitism — pogroms, expulsions, and the cultural soil that enabled the Holocaust. Scholars draw this line directly.",
     "raw_text": "'You are of your father the devil' — Jesus to Jewish leaders, John 8:44. 'The Jews' are treated as a category separate from and opposed to Jesus, despite Jesus being Jewish. This is a community processing its synagogue expulsion by demonizing the people who expelled them. This language becomes the theological foundation for centuries of Christian antisemitism — pogroms, expulsions, and the cultural soil that enabled the Holocaust. Scholars draw this line directly.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5666,8 +5666,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_449260caf4f4d45d411c",
@@ -5700,7 +5700,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6c3c9fb042b0419b4594",
@@ -5733,7 +5733,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd3bc100c07b8cd70a3e",
@@ -5768,7 +5768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_62e3196a02f33034aaf2",
@@ -5801,7 +5801,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1b8f484320ca95b6a089",
@@ -5834,7 +5834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bc11478d681f61ecbbce",
@@ -5867,7 +5867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f31323ea41775d2d3634",
@@ -5900,7 +5900,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3c2db11221aefc5f5dde",
@@ -5933,7 +5933,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8383e4a28fa2c20f1379",
@@ -5966,7 +5966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d279bb4adbd73c1e8652",
@@ -5999,7 +5999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7302e1b0a5e2d3cd1c9b",
@@ -6032,7 +6032,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_86c4d3e5c771c0c3cead",
@@ -6067,7 +6067,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8d15f2d170f7fa5aedda",
@@ -6100,7 +6100,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f5ad1e53db108de50365",
@@ -6133,13 +6133,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_07add46a3b4e78e0e13b",
     "text": "Mark 13:30 — 'this generation will not pass away until all these things take place.' Matthew 16:28 — some standing here won't taste death before the Son of Man comes. These are specific claims with deadlines that passed. The early church expected the end imminently. Then people died. Jesus didn't return.",
     "raw_text": "Mark 13:30 — 'this generation will not pass away until all these things take place.' Matthew 16:28 — some standing here won't taste death before the Son of Man comes. These are specific claims with deadlines that passed. The early church expected the end imminently. Then people died. Jesus didn't return.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6164,14 +6164,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_75b5d19c9ea91f0e6c9c",
     "text": "John's solution: shift from future apocalyptic to present mystical. Eternal life is available NOW through belief (John 5:24 — already 'passed from death to life,' past tense). You don't wait for the kingdom — you ingest it weekly in the Eucharist. Crisis absorbed into sustainable ritual. This is why John feels so different from Mark — it's a later community's theological revision of a failed timeline.",
     "raw_text": "John's solution: shift from future apocalyptic to present mystical. Eternal life is available NOW through belief (John 5:24 — already 'passed from death to life,' past tense). You don't wait for the kingdom — you ingest it weekly in the Eucharist. Crisis absorbed into sustainable ritual. This is why John feels so different from Mark — it's a later community's theological revision of a failed timeline.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6196,8 +6196,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_beb5dbeb0ab3b085f6d2",
@@ -6230,7 +6230,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f56d0da41847123c5f94",
@@ -6263,7 +6263,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f301578d662c42136e17",
@@ -6298,7 +6298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6cbf19e3f33d6b82c1f3",
@@ -6331,7 +6331,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6573f6de3f3d5f12c29e",
@@ -6364,7 +6364,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_16d1c9903a30d8eb55d0",
@@ -6397,7 +6397,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b1b1c68425ebaf073240",
@@ -6430,7 +6430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c98ac2dbd152f8816a1",
@@ -6463,7 +6463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5b4b86ba82b7094ade1a",
@@ -6496,7 +6496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0c8516b77f83985005ea",
@@ -6529,7 +6529,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_21a0004da80d77525ed6",
@@ -6562,7 +6562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3753743203f0d0da090e",
@@ -6595,7 +6595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_61e1b26ca740c7f167b0",
@@ -6630,7 +6630,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f444c905b40f262eff3d",
@@ -6663,7 +6663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2c1bb4d66815d0409f0f",
@@ -6696,13 +6696,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5682349e2dae4b7de163",
     "text": "Luke part 2, same author, same agenda. The PR document for how a Jewish sect became a Gentile world religion. Written to make the transition look ordained and smooth. It wasn't.",
     "raw_text": "Luke part 2, same author, same agenda. The PR document for how a Jewish sect became a Gentile world religion. Written to make the transition look ordained and smooth. It wasn't.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6726,14 +6726,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_64785a3ac3f422b8850f",
     "text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.",
     "raw_text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6758,14 +6758,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fa0cab48eda133ee62a5",
     "text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
     "raw_text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6790,14 +6790,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e4c979e79f552a2813ad",
     "text": "Acts makes Peter and Paul look like they broadly agree, minor friction smoothed over. Paul's letter to the Galatians (2:11) says he opposed Peter 'to his face' because Peter was being hypocritical about eating with Gentiles — performing Jewish observance when Jewish Christians were watching, dropping it when they weren't. Acts doesn't include this. Acts is managing the founding mythology. Paul's letters are the actual receipts.",
     "raw_text": "Acts makes Peter and Paul look like they broadly agree, minor friction smoothed over. Paul's letter to the Galatians (2:11) says he opposed Peter 'to his face' because Peter was being hypocritical about eating with Gentiles — performing Jewish observance when Jewish Christians were watching, dropping it when they weren't. Acts doesn't include this. Acts is managing the founding mythology. Paul's letters are the actual receipts.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6822,8 +6822,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d05a049319322d71f4af",
@@ -6856,7 +6856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3569c456721c4854e6c6",
@@ -6891,7 +6891,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_97e80e6250731ebb343e",
@@ -6926,7 +6926,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9ba3bfa048f9fe14d4cf",
@@ -6959,7 +6959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ff2c620c5d449898247f",
@@ -6992,7 +6992,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_46344cbc2e32a5f4ab81",
@@ -7025,7 +7025,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a97e0e9d4108eaaa40a0",
@@ -7058,7 +7058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a1c2b27a511dd190bda2",
@@ -7091,7 +7091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d0d7a08fd1844ca70b7a",
@@ -7124,7 +7124,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0b1225a0ffedcbb5c4ea",
@@ -7157,7 +7157,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e0251089486e2aa4579",
@@ -7193,7 +7193,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2f4b84c51e86bc1ba10b",
@@ -7226,7 +7226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6195448ebd5ff69535be",
@@ -7259,13 +7259,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a7ffd532fdaf12ab5568",
     "text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
     "raw_text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7290,8 +7290,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9766fbda740648af4713",
@@ -7324,7 +7324,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e0b1d766acdc8110804a",
@@ -7357,7 +7357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6f47caa7766112500687",
@@ -7392,7 +7392,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8e25a344ffd1bb53bc8a",
@@ -7425,7 +7425,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6a41a0a313b02b6ef519",
@@ -7458,7 +7458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_41d7d3fa22d445aeb704",
@@ -7491,7 +7491,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_abf8fe1868880c11ca0b",
@@ -7524,7 +7524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_592ed8bf07570189f699",
@@ -7557,7 +7557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bdfbbd143dfd0918df51",
@@ -7590,7 +7590,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7dfb10cba525a29567a7",
@@ -7625,7 +7625,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dad3d756e18ffbb85a65",
@@ -7658,13 +7658,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_04b77ddd91f82c07b378",
     "text": "Tonal shift from Acts, immediately visible. Acts 15 presents a smooth, unified council reaching consensus. Galatians opens with Paul skipping the greeting-thanksgiving formula every other authentic letter uses and going straight to: \"I am astonished that you are so quickly deserting him who called you... and turning to a different gospel\" (1:6). No pleasantries. This is a man mid-crisis, and it is worth reading the letter with that fact in view rather than as calm doctrine — the argument's shape is defensive and reactive throughout.",
     "raw_text": "**Tonal shift from Acts, immediately visible.** Acts 15 presents a smooth, unified council reaching consensus. Galatians opens with Paul skipping the greeting-thanksgiving formula every other authentic letter uses and going straight to: *\"I am astonished that you are so quickly deserting him who called you... and turning to a different gospel\"* (1:6). No pleasantries. This is a man mid-crisis, and it is worth reading the letter with that fact in view rather than as calm doctrine — the argument's shape is defensive and reactive throughout.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7688,14 +7688,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cc40ee1121ec4cfd545f",
     "text": "Paul states his gospel came \"not from man, nor was I taught it, but through a revelation of Jesus Christ\" (1:11–12), and goes further than that: after his conversion he did not go to Jerusalem to consult the apostles — he went to Arabia, then Damascus, and only after three years went up to Jerusalem, and even then stayed just fifteen days, seeing only Peter and James (1:15–20). He seals this with an oath: \"In what I am writing to you, before God, I do not lie\" (1:20).",
     "raw_text": "Paul states his gospel came **\"not from man, nor was I taught it, but through a revelation of Jesus Christ\"** (1:11–12), and goes further than that: after his conversion he did **not** go to Jerusalem to consult the apostles — he went to Arabia, then Damascus, and only after three years went up to Jerusalem, and even then stayed just fifteen days, seeing only Peter and James (1:15–20). He seals this with an oath: **\"In what I am writing to you, before God, I do not lie\"** (1:20).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7720,14 +7720,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bf77d4af02999e6daf1a",
     "text": "This is a man building a case, under oath, for his independence from Jerusalem — which tells you the independence was being disputed by someone, in real time, as he wrote.",
     "raw_text": "This is a man building a case, under oath, for his independence from Jerusalem — which tells you the independence was being disputed by someone, in real time, as he wrote.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7752,14 +7752,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a6c6b72cc4e6eb608d31",
     "text": "Fourteen years later (2:1), a second visit — this is the material already audited at §9.3/§9.4 against Acts 15. Read alongside that audit: \"those who seemed influential added nothing to me\" (2:6). Then the Antioch incident (2:11–14): Paul says he opposed Peter to his face, publicly, because Peter had been eating with Gentiles and then withdrew when men from James arrived, \"fearing the circumcision party.\" Paul calls this hypocrisy and reports confronting the head of the Jerusalem church in front of the whole congregation.",
     "raw_text": "Fourteen years later (2:1), a second visit — this is the material already audited at §9.3/§9.4 against Acts 15. Read alongside that audit: **\"those who seemed influential added nothing to me\"** (2:6). Then the Antioch incident (2:11–14): Paul says he **opposed Peter to his face**, publicly, because Peter had been eating with Gentiles and then withdrew when men from James arrived, \"fearing the circumcision party.\" Paul calls this hypocrisy and reports confronting the head of the Jerusalem church in front of the whole congregation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7784,14 +7784,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_534326c4b2ce28e0a2a8",
     "text": "What this establishes, independent of any Acts comparison: the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
     "raw_text": "**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7816,14 +7816,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a66014e07fb24e309d8a",
     "text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be accursed (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would go the whole way and castrate themselves — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.",
     "raw_text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7848,14 +7848,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bed46d8e421e5f3a341a",
     "text": "This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:",
     "raw_text": "**This is where the live scholarly fault line sits, and it will govern how you read Romans and Corinthians too:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7880,14 +7880,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_37c32e2a775a62945310",
     "text": "The traditional (\"Lutheran\") reading. Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. \"Works of the law\" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of Thomas Schreiner [EVANGELICAL], Stephen Westerholm [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his Perspectives Old and New on Paul is the standard survey of the whole debate and treats every side fairly], and Peter Stuhlmacher [CRITICAL, German].",
     "raw_text": "**The traditional (\"Lutheran\") reading.** Paul is opposing legalism — the idea that a person can or must earn righteousness before God through meritorious observance of the law. \"Works of the law\" means good deeds generally. This was the dominant reading from the Reformation onward and remains the position of **Thomas Schreiner** [EVANGELICAL], **Stephen Westerholm** [EVANGELICAL, though explicitly positioned as a moderate defender rather than a partisan — his *Perspectives Old and New on Paul* is the standard survey of the whole debate and treats every side fairly], and **Peter Stuhlmacher** [CRITICAL, German].",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7912,14 +7912,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bf6b3e6f6672dafeafdb",
     "text": "The New Perspective on Paul (NPP). E.P. Sanders [CRITICAL], Paul and Palestinian Judaism (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the \"legalistic Judaism\" the Reformation reading assumes Paul was fighting did not exist — Second Temple Judaism operated on what Sanders termed covenantal nomism: you are already in the covenant by God's grace, and law-observance is the response to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.",
     "raw_text": "**The New Perspective on Paul (NPP).** **E.P. Sanders** [CRITICAL], *Paul and Palestinian Judaism* (1977), the founding text, argued from a comprehensive study of Second Temple Jewish literature that the \"legalistic Judaism\" the Reformation reading assumes Paul was fighting **did not exist** — Second Temple Judaism operated on what Sanders termed **covenantal nomism**: you are already in the covenant by God's grace, and law-observance is the *response* to that grace, not the means of earning it. If that's an accurate picture of the Judaism Paul actually knew, the traditional reading has Paul refuting a position nobody held.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7944,14 +7944,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2cde640db181a4dd23aa",
     "text": "James D.G. Dunn [CRITICAL] — coined the term \"New Perspective\" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing \"works of the law\" in Galatians refers not to earning salvation generally but specifically to ethnic boundary markers: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about who counts as included, not about whether good works can save you.",
     "raw_text": "**James D.G. Dunn** [CRITICAL] — coined the term \"New Perspective\" in a 1983 lecture — extended Sanders specifically into Paul's own letters, arguing \"works of the law\" in Galatians refers not to earning salvation generally but specifically to **ethnic boundary markers**: circumcision, food laws, sabbath observance — the practices that visibly marked Jew off from Gentile. On this reading, Galatians is a fight about **who counts as included**, not about whether good works can save you.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7976,14 +7976,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bb26c4864a1e4e7ebb12",
     "text": "N.T. Wright [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8008,14 +8008,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15430b4540b3f0df4138",
     "text": "The strongest critical pushback on the NPP, stated fairly — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target ethnic exclusivism (NPP) or a wider human tendency to seek self-justification through one's own achievement (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys \"righteousness\" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying the ungodly — a category that doesn't fit neatly into a \"boundary marker\" dispute.",
     "raw_text": "**The strongest critical pushback on the NPP, stated fairly** — Westerholm's own survey concludes the debate hinges on one real question: is Paul's target *ethnic exclusivism* (NPP) or *a wider human tendency to seek self-justification through one's own achievement* (traditional)? He argues the traditional reading survives better than NPP advocates claim once you look closely at how Paul actually deploys \"righteousness\" language across the letters, not just in the works-of-law passages. A named academic critique worth having on hand: one paper reviewed here argues Sanders' covenantal nomism obscures how Paul specifically frames the cross as justifying **the ungodly** — a category that doesn't fit neatly into a \"boundary marker\" dispute.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8040,8 +8040,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1573199624d7caa9aa2a",
@@ -8073,13 +8073,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9598915b8db58f37f657",
     "text": "Reading and conversation note: this is a genuinely contested scholarly question, so neither side should be treated as settled. Galatians 1:8–9 and 5:12 do clearly show the intensity of internal Christian conflict from the movement's early period, regardless of which reading of Paul proves stronger.",
     "raw_text": "**Reading and conversation note:** this is a genuinely contested scholarly question, so neither side should be treated as settled. Galatians 1:8–9 and 5:12 do clearly show the intensity of internal Christian conflict from the movement's early period, regardless of which reading of Paul proves stronger.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8104,16 +8104,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1be19bf454c09249bdc2",
     "text": "Old Testament — Completed",
     "raw_text": "**Old Testament — Completed**",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
@@ -8130,21 +8130,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6bc393d9e74555561b79",
     "text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "raw_text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
@@ -8161,21 +8161,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c420d2f99755a04b2d8",
     "text": "New Testament — In Progress",
     "raw_text": "**New Testament — In Progress**",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
@@ -8192,21 +8192,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4317ab3602ec35a704d9",
     "text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "raw_text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
@@ -8223,21 +8223,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c8879f05f9423248a3dc",
     "text": "Living document — update as reading progresses",
     "raw_text": "*Living document — update as reading progresses*",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "10. Reading Progress"
@@ -8254,21 +8254,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a4ac652b742ef04b98ec",
     "text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "raw_text": "Applied to every contested passage from here forward, and retroactively to everything above:",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8286,21 +8286,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a4fbd12711d0141d7ad0",
     "text": "1. Name the scholars and the publications. Not \"some scholars argue.\" Author, title, journal, year.\n2. Label the camp. Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. Verify by search, not memory. Recall produces confident summaries of positions that do not exist.\n4. Strongest case for each side, including the traditional one.\n5. Documented vs. inferred, marked every time. \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. State a conclusion with reasoning. A survey that refuses to land is not an answer.\n7. Correct overreach openly. Then stop hedging.",
     "raw_text": "1. **Name the scholars and the publications.** Not \"some scholars argue.\" Author, title, journal, year.\n2. **Label the camp.** Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. **Verify by search, not memory.** Recall produces confident summaries of positions that do not exist.\n4. **Strongest case for each side, including the traditional one.**\n5. **Documented vs. inferred, marked every time.** \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. **State a conclusion with reasoning.** A survey that refuses to land is not an answer.\n7. **Correct overreach openly.** Then stop hedging.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8318,21 +8318,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a7495a172070e6f2acb4",
     "text": "Entry format: AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "raw_text": "**Entry format:** AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8350,21 +8350,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7f5f16e0bbdc93d34629",
     "text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
     "raw_text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8382,21 +8382,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1559f37f75755189c5cd",
     "text": "Formerly highest exposure",
     "raw_text": "**Formerly highest exposure**",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8414,21 +8414,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_28a69fbe80a25f365ee4",
     "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n\"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — audited at §8.6. Overstated.\n- **\"John is textually antisemitic\"** — audited at §8.5. Holds w/ revisions.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8446,21 +8446,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2646f6f2242e50e49bb9",
     "text": "Formerly medium exposure",
     "raw_text": "**Formerly medium exposure**",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8478,21 +8478,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_70de34122517a2baf365",
     "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\nLuke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\nDeutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.\n- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.\n- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8510,21 +8510,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bd82a7e87001f5b12511",
     "text": "Formerly low exposure — held as expected",
     "raw_text": "**Formerly low exposure — held as expected**",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8542,21 +8542,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_14b5d0b89cf66905a8f6",
     "text": "Markan priority (§6.1) — audited. Holds.\nGalatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\nMatthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\nIsaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\nHa-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "raw_text": "- Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8574,21 +8574,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5f17add13506b9017917",
     "text": "Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
     "raw_text": "*Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
-    "provenance_type": "MY_WORDS",
+    "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
-    "speaker": "user",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "11. Method & Audit Status",
@@ -8606,12 +8606,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Study Notes provenance says the document is written by the user across the reading; audits are handled separately and §0–§9 are explicitly excluded as mixed."
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
     },
-    "review_required": false,
-    "parser_version": "1.1.3"
+    "review_required": true,
+    "parser_version": "1.2.0"
   }
 ]);
