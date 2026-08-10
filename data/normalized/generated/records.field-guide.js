@@ -7744,9 +7744,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_89cc8cc215c029ee39ae",
-    "text": "•  On the robot framing: \"You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is not a love freely given — it is coercion.\"",
-    "raw_text": "•  On the robot framing: \"You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is not a love freely given — it is coercion.\"",
+    "id": "rk_66ce787fca87e2bb6c46",
+    "text": "•  On the robot framing: \"You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given.\"",
+    "raw_text": "•  On the robot framing: \"You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -8023,9 +8023,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_1b56a9dac5be4b0c8f6f",
-    "text": "Why it is a problem: This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is not a logical defense — it is a conversation stopper.",
-    "raw_text": "**Why it is a problem: **This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is not a logical defense — it is a conversation stopper.",
+    "id": "rk_5a3fac74cb3b786e46a4",
+    "text": "Why it is a problem: This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is a conversation stopper, not a logical defense.",
+    "raw_text": "**Why it is a problem: **This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is a conversation stopper, not a logical defense.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -8147,9 +8147,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_15fdcb2b349aec16752d",
-    "text": "•  The concept of \"outside time\" is not clearly in the biblical text itself — it is a philosophical import (Boethius, 6th century CE) used to defend doctrines that the original authors did not articulate this way.",
-    "raw_text": "•  The concept of \"outside time\" is not clearly in the biblical text itself — it is a philosophical import (Boethius, 6th century CE) used to defend doctrines that the original authors did not articulate this way.",
+    "id": "rk_40b452329764b6eda998",
+    "text": "•  The concept of \"outside time\" is a philosophical import (Boethius, 6th century CE) used to defend doctrines the original authors did not articulate this way — not something clearly in the biblical text itself.",
+    "raw_text": "•  The concept of \"outside time\" is a philosophical import (Boethius, 6th century CE) used to defend doctrines the original authors did not articulate this way — not something clearly in the biblical text itself.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -8271,9 +8271,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_49820ce4ee65eb489cc8",
-    "text": "•  On unfalsifiability: \"That argument can defend any claim about any deity. 'God is outside our understanding' is not a defense — it is a way of making the claim untestable.\"",
-    "raw_text": "•  On unfalsifiability: \"That argument can defend any claim about any deity. 'God is outside our understanding' is not a defense — it is a way of making the claim untestable.\"",
+    "id": "rk_861c334b933f2937a1c7",
+    "text": "•  On unfalsifiability: \"That argument can defend any claim about any deity. 'God is outside our understanding' is a way of making the claim untestable, not a defense.\"",
+    "raw_text": "•  On unfalsifiability: \"That argument can defend any claim about any deity. 'God is outside our understanding' is a way of making the claim untestable, not a defense.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9492,9 +9492,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_41422e2593b6f5b2642f",
-    "text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
-    "raw_text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well.\"",
+    "id": "rk_6eecdc3f2033e73d909f",
+    "text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is whether we use our understanding well — not whether we use it.\"",
+    "raw_text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is whether we use our understanding well — not whether we use it.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -12057,9 +12057,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_f783ee686be3e45ac3e6",
-    "text": "First fact: The word \"Trinity\" never appears in the Bible. The doctrine is not stated anywhere in scripture. It is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died. This is standard history, not a fringe claim.",
-    "raw_text": "**First fact: **The word \"Trinity\" never appears in the Bible. The doctrine is not stated anywhere in scripture. It is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died. This is standard history, not a fringe claim.",
+    "id": "rk_c5c016ba46a145383066",
+    "text": "First fact: The word \"Trinity\" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.",
+    "raw_text": "**First fact: **The word \"Trinity\" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -13977,9 +13977,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_9788a3c1c98bbb4959e6",
-    "text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
-    "raw_text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence.\"",
+    "id": "rk_c91f18c76da6a092a193",
+    "text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true.\"",
+    "raw_text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true.\"",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17076,9 +17076,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_cb7bff53d22979663aa4",
-    "text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is not metaphor that happens to involve women — it is a theology that requires women's bodies as the site of punishment.",
-    "raw_text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is not metaphor that happens to involve women — it is a theology that requires women's bodies as the site of punishment.",
+    "id": "rk_fb7a1a756c7b5f1b1540",
+    "text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.",
+    "raw_text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19214,9 +19214,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_51c4c857af0fb92c6ae5",
-    "text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These aren't minor tensions — they're fundamental incoherence that most devotional reading strategies are designed to avoid noticing.",
-    "raw_text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These aren't minor tensions — they're fundamental incoherence that most devotional reading strategies are designed to avoid noticing.",
+    "id": "rk_fc4f7e8562b038da8399",
+    "text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.",
+    "raw_text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20102,9 +20102,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_269ed5b7b4037307b5b4",
-    "text": "Standing rule from Sources §6.2: never cite a source you have not opened. A source you cannot locate is not evidence, it is a rumour with a footnote.",
-    "raw_text": "**Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is not evidence, it is a rumour with a footnote.",
+    "id": "rk_4fd2610e57ba428d57a3",
+    "text": "Standing rule from Sources §6.2: never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.",
+    "raw_text": "**Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",

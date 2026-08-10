@@ -409,9 +409,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_d1d107413b2aa50560b2",
-    "text": "Why this one is worth reading in full.  The theology is identical in structure to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is not a uniquely Israelite theology; it is standard Iron Age Levantine political theology, and a neighbouring king with a different god states it in the same terms.",
-    "raw_text": "**Why this one is worth reading in full.** ⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩ The theology is *identical in structure* to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is not a uniquely Israelite theology; it is standard Iron Age Levantine political theology, and a neighbouring king with a different god states it in the same terms.",
+    "id": "rk_e0d95fa3242b28d7ce47",
+    "text": "Why this one is worth reading in full.  The theology is identical in structure to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is standard Iron Age Levantine political theology, not a uniquely Israelite one, and a neighbouring king with a different god states it in the same terms.",
+    "raw_text": "**Why this one is worth reading in full.** ⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩ The theology is *identical in structure* to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is standard Iron Age Levantine political theology, not a uniquely Israelite one, and a neighbouring king with a different god states it in the same terms.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -2230,9 +2230,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_16b41176e4f146a6054a",
-    "text": "A source you cannot locate is not evidence. It is a rumour with a footnote.",
-    "raw_text": "A source you cannot locate is not evidence. It is a rumour with a footnote.",
+    "id": "rk_10338d8e864482b7ff1f",
+    "text": "A source you cannot locate is a rumour with a footnote, not evidence.",
+    "raw_text": "A source you cannot locate is a rumour with a footnote, not evidence.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",

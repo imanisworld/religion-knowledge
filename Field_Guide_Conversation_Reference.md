@@ -579,7 +579,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  Direct question: "God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?"
 
-•  On the robot framing: "You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is not a love freely given — it is coercion."
+•  On the robot framing: "You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given."
 
 **Sources — defending free will:**
 
@@ -599,7 +599,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 **What it is deflecting: **Foreknowledge vs. free will contradictions. Failed prophetic deadlines (Mark 13:30, Matthew 16:28). The problem of evil. Questions about what God was doing "before" creation.
 
-**Why it is a problem: **This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is not a logical defense — it is a conversation stopper.
+**Why it is a problem: **This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is a conversation stopper, not a logical defense.
 
 **The specific problems it cannot solve:**
 
@@ -607,7 +607,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  Mark 13:30 — "this generation will not pass away before all these things take place." That is a temporal claim Jesus makes in-time. "God is outside time" does not resolve a deadline Jesus himself set.
 
-•  The concept of "outside time" is not clearly in the biblical text itself — it is a philosophical import (Boethius, 6th century CE) used to defend doctrines that the original authors did not articulate this way.
+•  The concept of "outside time" is a philosophical import (Boethius, 6th century CE) used to defend doctrines the original authors did not articulate this way — not something clearly in the biblical text itself.
 
 **Why this assessment holds — questions for conversation:**
 
@@ -615,7 +615,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  Direct question: "If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true."
 
-•  On unfalsifiability: "That argument can defend any claim about any deity. 'God is outside our understanding' is not a defense — it is a way of making the claim untestable."
+•  On unfalsifiability: "That argument can defend any claim about any deity. 'God is outside our understanding' is a way of making the claim untestable, not a defense."
 
 **Sources — defending atemporality:**
 
@@ -699,7 +699,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 **Why this assessment holds — questions for conversation:**
 
-•  Clarifying question: "You used your own understanding to interpret that verse. That is unavoidable. The question is not whether we use our understanding — it is whether we use it well."
+•  Clarifying question: "You used your own understanding to interpret that verse. That is unavoidable. The question is whether we use our understanding well — not whether we use it."
 
 •  Direct question: "Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation."
 
@@ -899,7 +899,7 @@ Verses are listed by reference only — look them up in the ESV or any translati
 
 # 13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM
 
-**First fact: **The word "Trinity" never appears in the Bible. The doctrine is not stated anywhere in scripture. It is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died. This is standard history, not a fringe claim.
+**First fact: **The word "Trinity" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.
 
 ## 13.1 What the Bible says — and where it contradicts itself
 
@@ -1037,7 +1037,7 @@ Religious claims sometimes concern observable events and sometimes concern matte
 
 •  Clarifying question: "I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?"
 
-•  Direct question: "Every religion requires faith in exactly the same way. Faith is not a method for determining which religion is true — it is a method for maintaining belief regardless of evidence."
+•  Direct question: "Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true."
 
 ## 14.2 "Personal Experience / I Felt God / I Heard His Voice"
 
@@ -1257,7 +1257,7 @@ This is already documented in the Study Notes but belongs here for completeness.
 
 •  Hosea — God as wronged husband, threatening to strip, starve, and expose his wife. The prophet marries a woman specifically to use her as a theological prop with no voice or agency.
 
-•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is not metaphor that happens to involve women — it is a theology that requires women's bodies as the site of punishment.
+•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.
 
 ## 15.3 The New Testament — Silence and Submission
 
@@ -1433,7 +1433,7 @@ God explicitly cares about Nineveh — the Assyrian empire that destroyed Israel
 
 ## 18.5 On the Bible being 'clear' or 'consistent'
 
-Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These aren't minor tensions — they're fundamental incoherence that most devotional reading strategies are designed to avoid noticing.
+Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.
 
 ## 18.6 On the absence of Jesus's own writings
 
@@ -1597,7 +1597,7 @@ Applied to every contested passage from here forward, and retroactively to every
 | A named theologian or philosopher | The Strongest Case §1 |
 | A word you don't know | Glossary |
 
-**Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is not evidence, it is a rumour with a footnote.
+**Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.
 
 ## 8.3 Open Audit Queue — Claims Not Yet Verified
 

@@ -217,9 +217,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_65657314a0586132d6c4",
-    "text": "Alvin Plantinga [REFORMED EPISTEMOLOGY] — Warranted Christian Belief, God and Other Minds. His argument is not that God's existence can be proved. It is that belief in God can be properly basic — rational without inferential argument, in the way belief in other minds or the reliability of memory is. He also formulated the free will defense, which is widely regarded as having defeated the logical problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the evidential problem of evil survives, and that is where the real argument now happens.",
-    "raw_text": "**Alvin Plantinga** [REFORMED EPISTEMOLOGY] — *Warranted Christian Belief*, *God and Other Minds*. His argument is not that God's existence can be proved. It is that belief in God can be **properly basic** — rational without inferential argument, in the way belief in other minds or the reliability of memory is. He also formulated the free will defense, which is widely regarded as having defeated the *logical* problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the *evidential* problem of evil survives, and that is where the real argument now happens.",
+    "id": "rk_f0e0f55fa7a7a2597e3c",
+    "text": "Alvin Plantinga [REFORMED EPISTEMOLOGY] — Warranted Christian Belief, God and Other Minds. His argument is that belief in God can be properly basic — rational without inferential argument, in the way belief in other minds or the reliability of memory is — not that God's existence can be proved. He also formulated the free will defense, which is widely regarded as having defeated the logical problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the evidential problem of evil survives, and that is where the real argument now happens.",
+    "raw_text": "**Alvin Plantinga** [REFORMED EPISTEMOLOGY] — *Warranted Christian Belief*, *God and Other Minds*. His argument is that belief in God can be **properly basic** — rational without inferential argument, in the way belief in other minds or the reliability of memory is — not that God's existence can be proved. He also formulated the free will defense, which is widely regarded as having defeated the *logical* problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the *evidential* problem of evil survives, and that is where the real argument now happens.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -377,9 +377,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_84754c64b36946d46c4c",
-    "text": "This category surprises people. These are not apologists — they are working scholars publishing in the same journals as the critics, who happen to be Christians.",
-    "raw_text": "This category surprises people. These are not apologists — they are working scholars publishing in the same journals as the critics, who happen to be Christians.",
+    "id": "rk_f1090c6e2ca3d377ed4a",
+    "text": "This category surprises people. These are working scholars publishing in the same journals as the critics, who happen to be Christians — not apologists.",
+    "raw_text": "This category surprises people. These are working scholars publishing in the same journals as the critics, who happen to be Christians — not apologists.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1432,9 +1432,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.1.3"
   },
   {
-    "id": "rk_2556fd9baff3bf67642c",
-    "text": "This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is not a method, it is a justification.",
-    "raw_text": "This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is not a method, it is a justification.",
+    "id": "rk_63bbf37ac6e4b66ba365",
+    "text": "This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is a justification, not a method.",
+    "raw_text": "This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is a justification, not a method.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",

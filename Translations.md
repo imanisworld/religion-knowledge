@@ -16,7 +16,7 @@
 > **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.
 
 
-> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.
+> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is often the entire argument.
 >
 > **You are reading the ESV.** That is a fine choice and you should keep it as your main read. But it is a *conservative* translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.
 
@@ -33,7 +33,7 @@ Every translation sits somewhere on one line.
 **Paraphrase** — a restatement, not a translation. Fine for devotion, useless for study.
 → The Message, The Living Bible, The Passion Translation
 
-**The trap in both directions.** Formal equivalence is not more accurate; it is more *literal*, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is not looser; it is more *decided*. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.
+**The trap in both directions.** Formal equivalence is more *literal*, not more accurate, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is more *decided*, not looser. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.
 
 ## 2. The Text Underneath
 
@@ -41,7 +41,7 @@ Before the English, the translators chose which Greek and Hebrew to translate fr
 
 **New Testament.** Modern translations use the **critical text** (Nestle-Aland / UBS), reconstructed by comparing all known manuscripts. The **KJV and NKJV** use the *Textus Receptus*, a 16th-century edition based on a handful of late medieval manuscripts.
 
-This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. **These are not deletions — they are additions that were later identified.** See Sources §4.1; you can look at Codex Sinaiticus yourself.
+This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. **These are additions that were later identified, not deletions.** See Sources §4.1; you can look at Codex Sinaiticus yourself.
 
 **Old Testament.** Almost all translations use the Masoretic Text. Where the Dead Sea Scrolls or the Septuagint differ, translations vary in how often they follow them. The NRSV emends from the scrolls more readily than the ESV does.
 
@@ -118,4 +118,4 @@ Check these in ESV, NRSVue, NIV, and JPS side by side. This is the highest-value
 **Free, and enough for all of this:**
 → [BibleGateway — parallel translations side by side](https://www.biblegateway.com/) · [NET Bible with translators' notes](https://netbible.org/) · [Sefaria — JPS and Hebrew](https://www.sefaria.org/texts) · [STEP Bible — original languages, word by word](https://www.stepbible.org/)
 
-**The standing question, which works on any verse:** *Which translation are you using, and what do the others say?* It is not a gotcha. It is the fastest way to find out whether a disagreement is about the text or about English.
+**The standing question, which works on any verse:** *Which translation are you using, and what do the others say?* It's the fastest way to find out whether a disagreement is about the text or about English.
