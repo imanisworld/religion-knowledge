@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Translations.md
-// Parser version: 1.1.3
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -25,13 +25,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_690209f9314b19271b07",
@@ -55,13 +55,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5428d43cf5d9b85496da",
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ff063d370d51c943ed01",
@@ -121,7 +121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f05196d347650f3179f9",
@@ -145,13 +145,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f693379f79f7effaf0d0",
@@ -176,13 +176,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6b2f85777cc92b1a313a",
@@ -207,13 +207,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ff9c894a938b822927a4",
@@ -238,13 +238,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d7c1fd3f656268ded4c3",
@@ -269,13 +269,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bd47700139f5c3ac4aab",
@@ -300,13 +300,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_828ee53fc9698fe09f6b",
@@ -331,13 +331,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_52eb92d311ce2bb1acc8",
@@ -362,13 +362,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_20ee51d53d93b26dfa2b",
@@ -393,13 +393,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_775282b368a0d6d676f4",
@@ -424,13 +424,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4f1874a33a63f1b5100e",
@@ -461,7 +461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dd24fd29664367e7b707",
@@ -486,13 +486,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_aa9e2461e8d328589e8c",
@@ -517,13 +517,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_51c7100a827e44efc1aa",
@@ -548,13 +548,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1f0b236476927580a564",
@@ -579,13 +579,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3d3628f90b5e4c81981e",
@@ -610,13 +610,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a4b31ed43cedf9347ec6",
@@ -641,13 +641,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_375505edf562340da951",
@@ -672,13 +672,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_26d1bb50496f17f957bc",
@@ -703,13 +703,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1e7118994b43ac9b73e3",
@@ -734,13 +734,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ab10cb6b200849e9eee7",
@@ -771,7 +771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — every step above is documented, including Crossway's own wording; this reading of what it means is Claude's.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c202f4bb4a4aefbdc1ed",
@@ -796,13 +796,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d72a0ad02fb134bf0e51",
@@ -827,13 +827,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d329bd4189ec3f5fe4d3",
@@ -858,13 +858,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e291c27cf4c740d1806e",
@@ -889,13 +889,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a1639d6a2ea5ace04fff",
@@ -920,13 +920,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b2d1a108bdd93b8906e2",
@@ -951,13 +951,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ccc4d3360b9357fdc9bf",
@@ -982,13 +982,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f07afc21b266b4d39a0e",
@@ -1013,13 +1013,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_925814c691c99a0537e8",
@@ -1044,13 +1044,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8aa944cdcb6890dfc78e",
@@ -1075,13 +1075,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90c9b3b0c8f64a93a8b6",
@@ -1106,13 +1106,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_55f261d2418d69adc5cc",
@@ -1137,13 +1137,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6df058b271a676051e5c",
@@ -1168,13 +1168,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c03fc2af5521df2e17d6",
@@ -1199,13 +1199,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ea9908825c3cfb0e8cb5",
@@ -1230,13 +1230,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a74f39a38c865f13a180",
@@ -1261,13 +1261,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2b05fcc170ff157ac8fa",
@@ -1292,13 +1292,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1de92bf9b3e12e2bfed1",
@@ -1323,13 +1323,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f687c890d07f05199b71",
@@ -1354,12 +1354,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   }
 ]);

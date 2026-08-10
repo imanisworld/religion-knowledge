@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Method_and_Reference.md
-// Parser version: 1.1.3
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -25,13 +25,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1bb18880e0c31275d128",
@@ -55,13 +55,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90cd0ef0d25cd4d7bdfd",
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_77c4c9288dae7734a4e9",
@@ -121,7 +121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_30108de50b8923510438",
@@ -146,13 +146,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_60d57addb9f19bbb87ba",
@@ -177,13 +177,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0b71dbaf1f60ee691876",
@@ -208,13 +208,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7d33f507ed11a2e4aba7",
@@ -239,13 +239,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9a42245041460c5367aa",
@@ -270,13 +270,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7ee5af28b3f08b4c6d0d",
@@ -301,13 +301,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1c8162e562847dad1aa8",
@@ -332,13 +332,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a5a3d1922edac4f64a20",
@@ -363,13 +363,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e99d6091e71b5c009f7c",
@@ -394,13 +394,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4f6aa60f5c5829ebb9d2",
@@ -425,13 +425,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1d8ad0da0525d1174737",
@@ -456,13 +456,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_286e8a2143c552a51572",
@@ -487,13 +487,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a29ff790dc397df23561",
@@ -518,13 +518,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bef3bcd01e45e3142d3c",
@@ -549,13 +549,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ae0e6d1c4f49f95bcf01",
@@ -580,13 +580,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7605f9912345a0df7d80",
@@ -611,13 +611,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_65225133c2e782b0fc33",
@@ -642,13 +642,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6a007be7dd526da602a4",
@@ -673,13 +673,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f8535a1d6db10d7c9ce0",
@@ -704,13 +704,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d46350492e4013c469cd",
@@ -735,13 +735,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_67a0701551e49bc3abff",
@@ -766,13 +766,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3b6d4ab7c9776f837d81",
@@ -798,13 +798,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f468bbcea5a6a297aa5a",
@@ -830,13 +830,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8029d102016b93b96dd8",
@@ -862,13 +862,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_53524aa8265cef6571af",
@@ -894,13 +894,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c501922774f9d260333b",
@@ -926,13 +926,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_832be7d898503d1ffc0d",
@@ -958,13 +958,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_59da2312f4c1a5d956c0",
@@ -990,13 +990,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0aa85a997e3a649dae36",
@@ -1022,13 +1022,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_53e9cf93e019cc7b333a",
@@ -1054,13 +1054,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_40c16ba96af62e0b91eb",
@@ -1086,13 +1086,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b0e6c2915d1e5b89fc60",
@@ -1118,13 +1118,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6221a026608b17aad76b",
@@ -1150,13 +1150,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_264cb91c7827af1ced0d",
@@ -1182,13 +1182,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3967f231196e4900a2f5",
@@ -1214,13 +1214,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_537f80ba0cf18f3966f7",
@@ -1246,13 +1246,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8c89f5c42a4a61ef2423",
@@ -1278,13 +1278,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_14c03673937f022865a6",
@@ -1310,13 +1310,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d3d8ad38ae19540ca50a",
@@ -1341,13 +1341,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1154ead1503a14398e18",
@@ -1372,13 +1372,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_67b1b5662fb7e79d0da7",
@@ -1403,13 +1403,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_21d5d36c15bd5e46b0a6",
@@ -1434,13 +1434,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cd7b27ec6c2adaf21706",
@@ -1465,13 +1465,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_81e0a80e9f533da03515",
@@ -1496,13 +1496,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1c0502ad8a38a1e94c02",
@@ -1527,12 +1527,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Method & Reference provenance explicitly states the survey method and timeline are Claude compilations from named sources, moved verbatim out of Observations §8/§19 on 10 Aug 2026."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   }
 ]);

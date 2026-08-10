@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Field_Guide_Conversation_Reference.md
-// Parser version: 1.1.3
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -26,10 +26,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_56a15a8cf777d070912e",
@@ -54,10 +54,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2fc5b31713479df0c70d",
@@ -82,10 +82,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_71d30a8d175947670892",
@@ -110,10 +110,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_47c15d6ebeaa6519d20f",
@@ -141,7 +141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fb42077c6c498f5b290b",
@@ -166,10 +166,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_22b9f30e9eed2426bf52",
@@ -194,10 +194,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0462bf1d27b9f14d0bc2",
@@ -224,16 +224,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ec100d7c6eb6d3d787c7",
     "text": "What it is: Deriving a prescriptive claim (what should be) from a purely descriptive claim (what is) without a valid normative bridge.",
     "raw_text": "**What it is: **Deriving a prescriptive claim (what should be) from a purely descriptive claim (what is) without a valid normative bridge.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -257,14 +257,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7ff69aa11411aaba0675",
     "text": "Classic form: \"X is the case, therefore X ought to be the case.\"",
     "raw_text": "**Classic form: **\"X is the case, therefore X ought to be the case.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -288,14 +288,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_37fc389f31bba28fca99",
     "text": "In religion: \"God says X is wrong, therefore X is morally wrong.\" The gap: that is an is-statement. Making it normatively binding requires a separate premise that is never supplied.",
     "raw_text": "**In religion: **\"God says X is wrong, therefore X is morally wrong.\" The gap: that is an is-statement. Making it normatively binding requires a separate premise that is never supplied.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -319,14 +319,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b87f937af89c2b60e119",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -350,14 +350,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6f796f1dd5c04b2f96ef",
     "text": "•  Clarifying question: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
     "raw_text": "•  Clarifying question: \"That tells me what the Bible says. It does not yet tell me why that declaration carries moral weight.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -381,14 +381,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3c5a38d49634035f734c",
     "text": "•  Direct question: \"You have described a rule. You have not told me why that description obligates anyone.\"",
     "raw_text": "•  Direct question: \"You have described a rule. You have not told me why that description obligates anyone.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -412,14 +412,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ac6b005959ebc4cda2ec",
     "text": "Sources against:",
     "raw_text": "**Sources against:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -443,14 +443,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_84986d2e2d3367319cf3",
     "text": "•  Hume, David. A Treatise of Human Nature (1739), Book III, Part I, Section I — original formulation.",
     "raw_text": "•  Hume, David. A Treatise of Human Nature (1739), Book III, Part I, Section I — original formulation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -474,14 +474,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_45bf251db671ce3b7ab5",
     "text": "•  MacIntyre, Alasdair. \"Hume on Is and Ought\" (1959), Philosophical Review.",
     "raw_text": "•  MacIntyre, Alasdair. \"Hume on Is and Ought\" (1959), Philosophical Review.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -505,14 +505,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_32092fab32d73989ebbf",
     "text": "Sources defending divine grounding:",
     "raw_text": "**Sources defending divine grounding:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -536,14 +536,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5b3ab24aedf478577dc8",
     "text": "•  Finnis, John. Natural Law and Natural Rights (1980) — attempts bridge via natural teleology.",
     "raw_text": "•  Finnis, John. Natural Law and Natural Rights (1980) — attempts bridge via natural teleology.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -567,14 +567,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b5fa3baecb618fa10aa6",
     "text": "•  Moreland, J.P. The Recalcitrant Imago Dei (2009) — evangelical philosophical response.",
     "raw_text": "•  Moreland, J.P. The Recalcitrant Imago Dei (2009) — evangelical philosophical response.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -598,14 +598,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_be5c777e33f8c541f4bb",
     "text": "What it is: The conclusion is smuggled into the premise. The claim proves itself using itself.",
     "raw_text": "**What it is: **The conclusion is smuggled into the premise. The claim proves itself using itself.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -629,14 +629,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3cf3f3d0d96f1a814db1",
     "text": "In religion: \"The Bible is true because the Bible says it is true.\" / \"God grounds morality because God said so in the Bible.\"",
     "raw_text": "**In religion: **\"The Bible is true because the Bible says it is true.\" / \"God grounds morality because God said so in the Bible.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -660,14 +660,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_136be4214c47e03ddc41",
     "text": "The full loop:",
     "raw_text": "**The full loop:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -691,14 +691,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c50487f0519500f684a5",
     "text": "•  \"How do we know the Bible grounds morality?\" — \"Because the Bible says so.\"",
     "raw_text": "•  \"How do we know the Bible grounds morality?\" — \"Because the Bible says so.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -722,14 +722,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6a4b10e07e9497158118",
     "text": "•  \"How do we know the Bible is true?\" — \"Because it is God's word.\"",
     "raw_text": "•  \"How do we know the Bible is true?\" — \"Because it is God's word.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -753,14 +753,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f04d70340d8b5cbc58bb",
     "text": "•  \"How do we know it is God's word?\" — \"Because the Bible says so.\" Back to start.",
     "raw_text": "•  \"How do we know it is God's word?\" — \"Because the Bible says so.\" Back to start.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -784,14 +784,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_66753fd727a9745db4f4",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -815,14 +815,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f3dc6ef0b19264967537",
     "text": "•  Clarifying question: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
     "raw_text": "•  Clarifying question: \"That uses the conclusion to prove the premise. What external evidence supports the claim?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -846,14 +846,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_99e99b3e4c633fa0da4e",
     "text": "•  Direct question: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
     "raw_text": "•  Direct question: \"Every religion makes that exact argument about its own text. By that logic they are all equally valid.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -877,14 +877,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1f77431c6a67a7a78501",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -908,14 +908,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d583f6dd717ac26f072c",
     "text": "•  Walton, Douglas. Begging the Question: Circular Reasoning as a Tactic of Argumentation (1991).",
     "raw_text": "•  Walton, Douglas. Begging the Question: Circular Reasoning as a Tactic of Argumentation (1991).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -939,14 +939,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_87c0ce07eae26377ff39",
     "text": "•  Warfield, B.B. The Inspiration and Authority of the Bible (1948) — classic Reformed defense of self-attesting Scripture.",
     "raw_text": "•  Warfield, B.B. The Inspiration and Authority of the Bible (1948) — classic Reformed defense of self-attesting Scripture.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -970,14 +970,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6c4037d7d293e68cd1f7",
     "text": "•  Frame, John. The Doctrine of the Knowledge of God (1987) — presuppositional apologetics.",
     "raw_text": "•  Frame, John. The Doctrine of the Knowledge of God (1987) — presuppositional apologetics.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1001,14 +1001,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2b3d296adb5880efedb",
     "text": "What it is: The position that moral obligations are grounded in and constituted by God's commands.",
     "raw_text": "**What it is: **The position that moral obligations are grounded in and constituted by God's commands.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1032,14 +1032,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8fe0122b1891ad899889",
     "text": "Strongest form: \"Without God, moral claims are just opinions. The Bible is the only objective moral grounding.\"",
     "raw_text": "**Strongest form: **\"Without God, moral claims are just opinions. The Bible is the only objective moral grounding.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1063,14 +1063,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7a28241571872ffea1c2",
     "text": "The Euthyphro Dilemma (Plato, ~380 BCE):",
     "raw_text": "**The Euthyphro Dilemma (Plato, ~380 BCE):**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1094,14 +1094,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b99c6e67344d8d31cffd",
     "text": "•  Option A: Something is good BECAUSE God commands it. Morality becomes arbitrary — God could command torture and it becomes good.",
     "raw_text": "•  Option A: Something is good BECAUSE God commands it. Morality becomes arbitrary — God could command torture and it becomes good.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1125,14 +1125,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_34bfe8f9bd7f69b59145",
     "text": "•  Option B: God commands it BECAUSE it is good. Morality exists independently of God. God is unnecessary for it.",
     "raw_text": "•  Option B: God commands it BECAUSE it is good. Morality exists independently of God. God is unnecessary for it.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1156,14 +1156,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1d871f42180f0c82afd9",
     "text": "•  Either way Divine Command Theory collapses or becomes redundant.",
     "raw_text": "•  Either way Divine Command Theory collapses or becomes redundant.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1187,14 +1187,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_37edf04b114a9f185ce8",
     "text": "Additional problems:",
     "raw_text": "**Additional problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1218,14 +1218,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_44d57f61f687a18381a3",
     "text": "•  Which Bible? Internally contradictory on moral commands — which interpretation grounds morality?",
     "raw_text": "•  Which Bible? Internally contradictory on moral commands — which interpretation grounds morality?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1249,14 +1249,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_679269755a594e2eb546",
     "text": "•  Proves too much: same logic validates the Quran, the Vedas. \"It is in a holy book\" is not the real standard.",
     "raw_text": "•  Proves too much: same logic validates the Quran, the Vedas. \"It is in a holy book\" is not the real standard.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1280,14 +1280,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2f8b07219b78c066d67",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1311,14 +1311,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6a944065df22ca58fa82",
     "text": "•  Clarifying question: \"If God commanded torturing children — would it be good?\"",
     "raw_text": "•  Clarifying question: \"If God commanded torturing children — would it be good?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1342,14 +1342,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f5cad75f99a7e0b78dfb",
     "text": "•  Direct question: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
     "raw_text": "•  Direct question: \"Your ability to recognize that taking advantage of someone is wrong exists before you open the Bible. That moral knowledge precedes the text.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1373,14 +1373,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e337202b66145294d8b7",
     "text": "Sources against DCT:",
     "raw_text": "**Sources against DCT:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1404,14 +1404,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_edb5dcbd1c19f4b6a03e",
     "text": "•  Plato. Euthyphro (~380 BCE) — original dilemma, still unrefuted.",
     "raw_text": "•  Plato. Euthyphro (~380 BCE) — original dilemma, still unrefuted.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1435,14 +1435,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_68a7bba7b8e323d42959",
     "text": "•  Rachels, James. The Elements of Moral Philosophy (1986).",
     "raw_text": "•  Rachels, James. The Elements of Moral Philosophy (1986).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1466,14 +1466,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4492035b0ed302f564e5",
     "text": "•  Wielenberg, Erik. Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism (2014).",
     "raw_text": "•  Wielenberg, Erik. Robust Ethics: The Metaphysics and Epistemology of Godless Normative Realism (2014).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1497,14 +1497,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d53d0f294ab158c2cc26",
     "text": "Sources defending DCT:",
     "raw_text": "**Sources defending DCT:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1528,14 +1528,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_65e05bdaad0cc050034d",
     "text": "•  Adams, Robert Merrihew. \"A Modified Divine Command Theory of Ethical Wrongness\" (1973), in Religion and Morality.",
     "raw_text": "•  Adams, Robert Merrihew. \"A Modified Divine Command Theory of Ethical Wrongness\" (1973), in Religion and Morality.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1559,14 +1559,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6d732026ca643e6f769b",
     "text": "•  Craig, William Lane. Reasonable Faith, 3rd ed. (2008).",
     "raw_text": "•  Craig, William Lane. Reasonable Faith, 3rd ed. (2008).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1590,14 +1590,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_12b9d96ca871c3642aee",
     "text": "What it is: Shifting the claim mid-argument when the original position is challenged, without acknowledging the shift.",
     "raw_text": "**What it is: **Shifting the claim mid-argument when the original position is challenged, without acknowledging the shift.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1621,14 +1621,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e3a3927e0204f887bd86",
     "text": "Live example: Claim 1: \"Morality must be grounded in the Bible because wrong is objectively real.\" Claim 2 after pushback: \"Morality is subjective — to one person it is fine, to another it is not.\" These cancel each other out.",
     "raw_text": "**Live example: **Claim 1: \"Morality must be grounded in the Bible because wrong is objectively real.\" Claim 2 after pushback: \"Morality is subjective — to one person it is fine, to another it is not.\" These cancel each other out.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1652,14 +1652,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e1107737225400ce54e5",
     "text": "How to catch it:",
     "raw_text": "**How to catch it:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1683,14 +1683,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c4b515505366a4884f2a",
     "text": "•  \"Wait — earlier you said morality is objective and needs God. Now you are saying it is subjective. Those are opposite positions. Which one are you arguing?\"",
     "raw_text": "•  \"Wait — earlier you said morality is objective and needs God. Now you are saying it is subjective. Those are opposite positions. Which one are you arguing?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1714,14 +1714,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f79813bb3ce76bf5157b",
     "text": "•  Force a choice before continuing. Everything else is noise until the position is fixed.",
     "raw_text": "•  Force a choice before continuing. Everything else is noise until the position is fixed.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1745,14 +1745,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a3254a2b43fe3b4c72df",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1776,14 +1776,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0ea82554a97690dc5af9",
     "text": "•  Engel, S. Morris. With Good Reason: An Introduction to Informal Fallacies (1994).",
     "raw_text": "•  Engel, S. Morris. With Good Reason: An Introduction to Informal Fallacies (1994).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1807,14 +1807,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e858908c01b8bdcdddf9",
     "text": "•  Hamblin, C.L. Fallacies (1970).",
     "raw_text": "•  Hamblin, C.L. Fallacies (1970).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1838,14 +1838,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e8ea522399b102168260",
     "text": "What it is: Arguing that without God, morality is meaningless, therefore God must exist as the moral anchor.",
     "raw_text": "**What it is: **Arguing that without God, morality is meaningless, therefore God must exist as the moral anchor.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1869,14 +1869,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2f26591125b72ff90a35",
     "text": "Emotional core: \"Without God nothing is truly wrong, everything becomes relative and terrifying — therefore God must be the anchor.\" Logic built backwards from a feeling.",
     "raw_text": "**Emotional core: **\"Without God nothing is truly wrong, everything becomes relative and terrifying — therefore God must be the anchor.\" Logic built backwards from a feeling.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1900,14 +1900,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c7d35b8b8216caf4111a",
     "text": "Key distinctions:",
     "raw_text": "**Key distinctions:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1931,14 +1931,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_966e3c70a3694a9b5eff",
     "text": "•  Subjective does not mean meaningless. Love, pain, grief — subjective, undeniably real.",
     "raw_text": "•  Subjective does not mean meaningless. Love, pain, grief — subjective, undeniably real.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1962,14 +1962,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0fe0dcb6adeae33f0b57",
     "text": "•  A society agreeing murder is wrong functions as a real moral rule whether God exists or not.",
     "raw_text": "•  A society agreeing murder is wrong functions as a real moral rule whether God exists or not.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -1993,14 +1993,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c65c9df9012286e65838",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2024,14 +2024,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e3a69867eacf9ec30dab",
     "text": "•  Clarifying question: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
     "raw_text": "•  Clarifying question: \"The fear of meaninglessness is real. But fear of it does not prove God exists — it proves meaning matters to us.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2055,14 +2055,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_39652aa4dcecd00dbab7",
     "text": "•  Direct question: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
     "raw_text": "•  Direct question: \"Fear of God is a learned fear. Religion created the problem it claims to solve.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2086,14 +2086,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3a5b98570c701a8f63b5",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2117,14 +2117,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e8dc38ccdc0ad41a77ca",
     "text": "•  Wielenberg, Erik. Value and Virtue in a Godless Universe (2005).",
     "raw_text": "•  Wielenberg, Erik. Value and Virtue in a Godless Universe (2005).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2148,14 +2148,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e12df7ab0c2f68067933",
     "text": "•  Parfit, Derek. On What Matters (2011).",
     "raw_text": "•  Parfit, Derek. On What Matters (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2179,14 +2179,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fe10dcb6d08fbdcad882",
     "text": "•  Epley, Nicholas et al. \"Believers' estimates of God's beliefs are more egocentric than estimates of other people's beliefs.\" PNAS 106(51), 2009.",
     "raw_text": "•  Epley, Nicholas et al. \"Believers' estimates of God's beliefs are more egocentric than estimates of other people's beliefs.\" PNAS 106(51), 2009.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2210,14 +2210,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5378f2ba900c6801cb45",
     "text": "What it is doing: Asserting secular moral frameworks are inherently subjective while divine grounding is objective.",
     "raw_text": "**What it is doing: **Asserting secular moral frameworks are inherently subjective while divine grounding is objective.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2241,14 +2241,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7dbee2c1f92ceb6ec8c9",
     "text": "Problems:",
     "raw_text": "**Problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2272,14 +2272,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9e20b977e0fdc21006e6",
     "text": "•  Euthyphro dilemma makes divine grounding either arbitrary or redundant.",
     "raw_text": "•  Euthyphro dilemma makes divine grounding either arbitrary or redundant.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2303,14 +2303,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_953fd2e0774f6155bcaf",
     "text": "•  Secular moral realism argues objective moral facts exist independent of God.",
     "raw_text": "•  Secular moral realism argues objective moral facts exist independent of God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2334,14 +2334,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bf80900506ed150923f2",
     "text": "•  Cultures with no knowledge of the Bible independently arrived at prohibitions on murder, theft, and deception.",
     "raw_text": "•  Cultures with no knowledge of the Bible independently arrived at prohibitions on murder, theft, and deception.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2365,14 +2365,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0ca998774d8c973b6e53",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2396,14 +2396,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a17d0123e18cfc057b97",
     "text": "•  Clarifying question: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
     "raw_text": "•  Clarifying question: \"Moral realists argue objective ethics exist without God. You would need to engage that literature before claiming it is impossible.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2427,14 +2427,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_22c648539fd6e0379cfa",
     "text": "•  Direct question: \"How did cultures with no Bible access your objective morality independently?\"",
     "raw_text": "•  Direct question: \"How did cultures with no Bible access your objective morality independently?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2458,14 +2458,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_50e73f39e2de2d9d1b56",
     "text": "Sources — secular moral realism:",
     "raw_text": "**Sources — secular moral realism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2489,14 +2489,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_04567a7e81e324df52b5",
     "text": "•  Wielenberg, Erik. Robust Ethics (2014).",
     "raw_text": "•  Wielenberg, Erik. Robust Ethics (2014).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2520,14 +2520,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c14b2140b7766467758e",
     "text": "•  Parfit, Derek. On What Matters, Vol. 2 (2011).",
     "raw_text": "•  Parfit, Derek. On What Matters, Vol. 2 (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2551,14 +2551,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fb9ab5511353e133e7bc",
     "text": "•  Scanlon, T.M. What We Owe to Each Other (1998).",
     "raw_text": "•  Scanlon, T.M. What We Owe to Each Other (1998).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2582,14 +2582,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f306a17e97f7cceb719f",
     "text": "Sources — theistic moral realism:",
     "raw_text": "**Sources — theistic moral realism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2613,14 +2613,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_85285829221ae673c479",
     "text": "•  Copan, Paul. Is God a Moral Monster? (2011).",
     "raw_text": "•  Copan, Paul. Is God a Moral Monster? (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2644,14 +2644,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2185480eef1f749a22ee",
     "text": "•  Baggett, David & Walls, Jerry. Good God: The Theistic Foundations of Morality (2011).",
     "raw_text": "•  Baggett, David & Walls, Jerry. Good God: The Theistic Foundations of Morality (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2675,14 +2675,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4cb663abefb51521fb94",
     "text": "What it is doing: Arguing that because wrong is not physical, it must have a supernatural source.",
     "raw_text": "**What it is doing: **Arguing that because wrong is not physical, it must have a supernatural source.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2706,14 +2706,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4a62ca91c624531321ad",
     "text": "The leap:",
     "raw_text": "**The leap:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2737,14 +2737,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_28d5db803087eed9c8f1",
     "text": "•  \"Non-physical exists\" does not equal \"God is the source.\"",
     "raw_text": "•  \"Non-physical exists\" does not equal \"God is the source.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2768,14 +2768,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2f7085bcf11cf8ba38e4",
     "text": "•  Logic, mathematics, and consciousness are non-physical. None require God as explanation.",
     "raw_text": "•  Logic, mathematics, and consciousness are non-physical. None require God as explanation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2799,14 +2799,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7859373ee36a21785b45",
     "text": "•  Full structure: \"Wrong is real but non-physical, needs supernatural source, therefore the Bible.\" Each arrow is an unsupported jump.",
     "raw_text": "•  Full structure: \"Wrong is real but non-physical, needs supernatural source, therefore the Bible.\" Each arrow is an unsupported jump.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2830,14 +2830,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_24778d9a1c4e3ebf5a55",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2861,14 +2861,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_74502f82b179e86d7d95",
     "text": "•  Clarifying question: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
     "raw_text": "•  Clarifying question: \"Metaphysical does not mean divine. Mathematical truths are non-physical and do not require God.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2892,14 +2892,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3a2544b863e9fc4539a4",
     "text": "•  Direct question: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
     "raw_text": "•  Direct question: \"Even granting a supernatural source — why specifically the God of the Bible rather than Allah, Brahman, or secular moral facts?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2923,14 +2923,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6fd2b25e023da1ead5c5",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2954,14 +2954,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_daf1253ad6cac4db2714",
     "text": "•  Mackie, J.L. Ethics: Inventing Right and Wrong (1977).",
     "raw_text": "•  Mackie, J.L. Ethics: Inventing Right and Wrong (1977).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -2985,14 +2985,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2cfe540ccddd241ce781",
     "text": "•  Shafer-Landau, Russ. Moral Realism: A Defence (2003) — non-naturalist moral realism without God.",
     "raw_text": "•  Shafer-Landau, Russ. Moral Realism: A Defence (2003) — non-naturalist moral realism without God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3016,14 +3016,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91747bd03d469c2b2d02",
     "text": "What it is doing: Asserting the authority of the text as a premise rather than a conclusion.",
     "raw_text": "**What it is doing: **Asserting the authority of the text as a premise rather than a conclusion.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3047,14 +3047,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cba26d053476f80f684e",
     "text": "Problems:",
     "raw_text": "**Problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3078,14 +3078,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_713165f5dfac7bbcd47d",
     "text": "•  Circular: \"The Bible is true because it is God's word\" — \"How do you know?\" — \"Because the Bible says so.\"",
     "raw_text": "•  Circular: \"The Bible is true because it is God's word\" — \"How do you know?\" — \"Because the Bible says so.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3109,14 +3109,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e9f275247977a3f47138",
     "text": "•  Canon selected by human councils over a contested, centuries-long process — Hippo (393 CE) and Carthage (397 CE) ratified regional lists; Athanasius's list (367 CE) is the earliest surviving match to the 27-book NT. ⟨CORRECTED 7 Aug 2026: Nicaea (325 CE) did NOT address the canon — see History §7. Citing it here contradicted our own Historical Framework and is exactly the kind of easily-checked error that costs credibility mid-argument.⟩ Not divine transmission, whichever council is named.",
     "raw_text": "•  Canon selected by human councils over a contested, centuries-long process — Hippo (393 CE) and Carthage (397 CE) ratified regional lists; Athanasius's list (367 CE) is the earliest surviving match to the 27-book NT. ⟨CORRECTED 7 Aug 2026: Nicaea (325 CE) did NOT address the canon — see History §7. Citing it here contradicted our own Historical Framework and is exactly the kind of easily-checked error that costs credibility mid-argument.⟩ Not divine transmission, whichever council is named.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3140,14 +3140,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cf40499821130337552f",
     "text": "•  Mark's original ending (16:1–8): the tomb is empty, a young man announces \"he has been raised,\" and a Galilee appearance is promised — but the women flee and say nothing to anyone, and no appearance is narrated. ⟨CORRECTED 7 Aug 2026⟩ Do not say Mark \"lacks a resurrection claim\" — it makes one explicitly, it just never shows it happening. The longer ending (16:9–20), with the narrated appearances, is a later scribal addition — absent from the earliest complete Greek manuscripts.",
     "raw_text": "•  Mark's original ending (16:1–8): the tomb is empty, a young man announces \"he has been raised,\" and a Galilee appearance is promised — but the women flee and say nothing to anyone, and no appearance is narrated. ⟨CORRECTED 7 Aug 2026⟩ Do not say Mark \"lacks a resurrection claim\" — it makes one explicitly, it just never shows it happening. The longer ending (16:9–20), with the narrated appearances, is a later scribal addition — absent from the earliest complete Greek manuscripts.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3171,14 +3171,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ab14cf30a2ed454fb313",
     "text": "•  Modern Bible versions are vehicles for doctrinal change. Ancient alterations accepted by populations with no access to comparison texts and no literacy.",
     "raw_text": "•  Modern Bible versions are vehicles for doctrinal change. Ancient alterations accepted by populations with no access to comparison texts and no literacy.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3202,14 +3202,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90ca3a0c111d60c92a36",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3233,14 +3233,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c0c026202aeb1e882a8",
     "text": "•  Clarifying question: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
     "raw_text": "•  Clarifying question: \"Which version? The canon was selected by human councils centuries after the texts were written.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3264,14 +3264,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c39c8cd3fcaed4390cc",
     "text": "•  Direct question: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
     "raw_text": "•  Direct question: \"If the resurrection is foundational, why does the earliest Gospel appear not to have included it?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3295,14 +3295,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5dad76b71d696ffa6fca",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3326,14 +3326,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_628bce844c7ad7dd0e34",
     "text": "•  Ehrman, Bart D. Misquoting Jesus (2005).",
     "raw_text": "•  Ehrman, Bart D. Misquoting Jesus (2005).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3357,14 +3357,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dc6ba0566188ceed3a1e",
     "text": "•  McDonald, Lee Martin. The Biblical Canon: Its Origin, Transmission, and Authority (2007).",
     "raw_text": "•  McDonald, Lee Martin. The Biblical Canon: Its Origin, Transmission, and Authority (2007).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3388,14 +3388,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f74b487ba01b6a883058",
     "text": "Sources — defending:",
     "raw_text": "**Sources — defending:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3419,14 +3419,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_69064dc71abe5bb9c20d",
     "text": "•  Metzger, Bruce. The Canon of the New Testament (1987).",
     "raw_text": "•  Metzger, Bruce. The Canon of the New Testament (1987).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3450,14 +3450,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_69964306526088e5b3d7",
     "text": "•  Geisler, Norman & Nix, William. A General Introduction to the Bible (1986).",
     "raw_text": "•  Geisler, Norman & Nix, William. A General Introduction to the Bible (1986).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3481,14 +3481,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f4bf26006452d8785091",
     "text": "What it is doing: Conflating moral motivation with moral grounding — two different things.",
     "raw_text": "**What it is doing: **Conflating moral motivation with moral grounding — two different things.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3512,14 +3512,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cae0e183cb7720d522f8",
     "text": "Problems:",
     "raw_text": "**Problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3543,14 +3543,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6ea5f08ff3f8a03c63b6",
     "text": "•  Empirical claim, easily falsified: secular societies consistently rank higher on human development, lower on crime than highly religious ones.",
     "raw_text": "•  Empirical claim, easily falsified: secular societies consistently rank higher on human development, lower on crime than highly religious ones.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3574,14 +3574,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8738f03ee8089e30f9c2",
     "text": "•  Evolutionary basis for altruism, cooperation, and fairness is well-documented.",
     "raw_text": "•  Evolutionary basis for altruism, cooperation, and fairness is well-documented.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3605,14 +3605,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fb13a4cc5ae4c0fc9f3b",
     "text": "•  If believers only behave morally because of fear of punishment or desire for reward — that is not morality, that is compliance.",
     "raw_text": "•  If believers only behave morally because of fear of punishment or desire for reward — that is not morality, that is compliance.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3636,14 +3636,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_42946f5fb2a72441866e",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3667,14 +3667,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_59f49378bfb250b0d351",
     "text": "•  Clarifying question: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
     "raw_text": "•  Clarifying question: \"The most secular countries have the lowest crime rates and highest quality of life. Hard to explain if morality requires God.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3698,14 +3698,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4e62772b6c44cacbae0e",
     "text": "•  Direct question: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
     "raw_text": "•  Direct question: \"If you would do evil things but for God stopping you — that is fear of consequences, not morality.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3729,14 +3729,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e66425a5707fa4602cb",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3760,14 +3760,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b8b482669b0e4aa3d7b2",
     "text": "•  de Waal, Frans. Primates and Philosophers: How Morality Evolved (2006).",
     "raw_text": "•  de Waal, Frans. Primates and Philosophers: How Morality Evolved (2006).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3791,14 +3791,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc834f1a62037d3732e4",
     "text": "•  Zuckerman, Phil. Society Without God (2008).",
     "raw_text": "•  Zuckerman, Phil. Society Without God (2008).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3822,14 +3822,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b9f6b04e15e8e03c8f58",
     "text": "•  Tomasello, Michael. A Natural History of Human Morality (2016).",
     "raw_text": "•  Tomasello, Michael. A Natural History of Human Morality (2016).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3853,14 +3853,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_260a7ec352d0d8395756",
     "text": "What happened: Catholic Church launched military campaigns to seize the Holy Land. Mass slaughter of Muslims, Jews, and Eastern Christians. Fourth Crusade sacked Christian Constantinople.",
     "raw_text": "**What happened: **Catholic Church launched military campaigns to seize the Holy Land. Mass slaughter of Muslims, Jews, and Eastern Christians. Fourth Crusade sacked Christian Constantinople.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -3884,8 +3884,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_96b90681cb4d10d0167c",
@@ -3917,7 +3917,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e9c53f76e6ff96d60a21",
@@ -3949,7 +3949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7e9bd040730b3abbb2c7",
@@ -3981,7 +3981,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ca3feba4e4f64bd5caa6",
@@ -4013,7 +4013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3c40e8dec32dd795f480",
@@ -4045,7 +4045,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_54e0bedd34918790c686",
@@ -4077,7 +4077,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_edee6d954354e3a6b725",
@@ -4109,7 +4109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1bd36c99f3e8516b88f7",
@@ -4141,7 +4141,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bd71aa506d06d41a205e",
@@ -4173,7 +4173,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4462c4ed2b2f86cf36fa",
@@ -4205,7 +4205,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_78b39c227527008d0e0c",
@@ -4237,7 +4237,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_69ba0978cc9f936bf383",
@@ -4269,7 +4269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bd608d3dcb4c963b0742",
@@ -4301,7 +4301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5ed7aeb8ea2fecdca10e",
@@ -4333,7 +4333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_71ab93ded94ff7889bae",
@@ -4365,7 +4365,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0a86ed0d2fba5c394dd0",
@@ -4397,13 +4397,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b018288300918917e238",
     "text": "The texts: Colossians 3:22, Ephesians 6:5 — \"Slaves obey your masters.\" Leviticus 25:44-46 — you may acquire slaves from neighboring nations as property.",
     "raw_text": "**The texts: **Colossians 3:22, Ephesians 6:5 — \"Slaves obey your masters.\" Leviticus 25:44-46 — you may acquire slaves from neighboring nations as property.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4427,14 +4427,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f78ce0ffb112b6bae212",
     "text": "The contradiction: Galatians 3:28 — \"There is neither slave nor free.\" Undisputed Paul vs. disputed letters (Colossians, Ephesians) — documented theological reversal within the same corpus.",
     "raw_text": "**The contradiction: **Galatians 3:28 — \"There is neither slave nor free.\" Undisputed Paul vs. disputed letters (Colossians, Ephesians) — documented theological reversal within the same corpus.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4458,14 +4458,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4eaf837124572e7f0889",
     "text": "Historical use: These passages were used to justify American chattel slavery. Abolitionists used the same Bible. Both sides claimed divine authority.",
     "raw_text": "**Historical use: **These passages were used to justify American chattel slavery. Abolitionists used the same Bible. Both sides claimed divine authority.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4489,14 +4489,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e9c0dfa31d065304496e",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4520,14 +4520,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_87d5641fc56a67253b90",
     "text": "•  Clarifying question: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
     "raw_text": "•  Clarifying question: \"If the Bible grounds objective morality, why did it take 1,800 years and a secular human rights framework to recognize slavery as wrong?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4551,14 +4551,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11130b7cfe926ad6656f",
     "text": "•  Direct question: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
     "raw_text": "•  Direct question: \"The pro-slavery reading was exegetically stronger than the abolitionist reading — that is why it took a war to end it, not a Bible study.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4582,14 +4582,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4fb9d55c7c5767d0dde0",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4613,14 +4613,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c2379f4c2eb0ac27b238",
     "text": "•  Noll, Mark A. The Civil War as a Theological Crisis (2006).",
     "raw_text": "•  Noll, Mark A. The Civil War as a Theological Crisis (2006).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4644,14 +4644,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c2efc2e1896f6a2c2f70",
     "text": "•  Haynes, Stephen R. Noah's Curse: The Biblical Justification of American Slavery (2002).",
     "raw_text": "•  Haynes, Stephen R. Noah's Curse: The Biblical Justification of American Slavery (2002).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4675,14 +4675,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dfeaeb333bfab906d665",
     "text": "What is innate: Only two fears are documented as truly innate: (1) Loud noises — acoustic startle reflex, present at birth. (2) Falling — confirmed by visual cliff experiments (Gibson & Walk, 1960).",
     "raw_text": "**What is innate: **Only two fears are documented as truly innate: (1) Loud noises — acoustic startle reflex, present at birth. (2) Falling — confirmed by visual cliff experiments (Gibson & Walk, 1960).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -4706,8 +4706,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90a7221e3ec49e29bad6",
@@ -4739,7 +4739,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c0133ecab9c86ffd9bd2",
@@ -4771,7 +4771,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15b1676006d55ec66839",
@@ -4803,7 +4803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_644f8fe6de9a2dfdffc6",
@@ -4835,7 +4835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c07208fdf75fe2c001c9",
@@ -4867,7 +4867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_418600c84d59cb69cae4",
@@ -4899,7 +4899,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_692c24c02ec8bb8ea551",
@@ -4931,7 +4931,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_97597bbf1715b65570c9",
@@ -4963,7 +4963,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cd6dff97fd01879f0965",
@@ -4995,7 +4995,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e74886ac43b065a69639",
@@ -5027,7 +5027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_536972e78533c4638516",
@@ -5059,7 +5059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ec42fcca822df9990e11",
@@ -5091,7 +5091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4408f5b73a5c3e8fb403",
@@ -5123,7 +5123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8ec3ce82af1063818a6d",
@@ -5155,7 +5155,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7bc83ef449271221b3ce",
@@ -5187,7 +5187,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_41e59cc9ad918988d06b",
@@ -5219,7 +5219,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5bfcf972316abffb2f7b",
@@ -5251,7 +5251,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de6e735516a71148f34d",
@@ -5283,7 +5283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4bf74b0e51ef6bd4582c",
@@ -5315,7 +5315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6c5e26e3103ba959df61",
@@ -5347,7 +5347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_21e0e1a645d221c2b1a4",
@@ -5379,7 +5379,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_402e6abbc6dab809086e",
@@ -5411,7 +5411,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_31fa3cfb8691045d21b3",
@@ -5443,7 +5443,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_905b5ed51d0e766d6b0f",
@@ -5475,7 +5475,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1e27eac012a7a10c91e8",
@@ -5507,7 +5507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d6eea9755a417a1af371",
@@ -5539,7 +5539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1a0d0d045d4fe468e264",
@@ -5571,13 +5571,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cb3425e6818d1ee6cb36",
     "text": "The finding: Epley, Nicholas et al. (PNAS, 2009): Believers' estimates of God's beliefs track their own preferences via unconscious egocentric projection — not scripture, tradition, or community consensus. When their own views changed, their perception of God's views changed correspondingly.",
     "raw_text": "**The finding: **Epley, Nicholas et al. (PNAS, 2009): Believers' estimates of God's beliefs track their own preferences via unconscious egocentric projection — not scripture, tradition, or community consensus. When their own views changed, their perception of God's views changed correspondingly.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5601,14 +5601,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ff706e0b59b2f8ae8c1a",
     "text": "Why this is powerful: Cannot be corrected through appeals to honesty. The mechanism is unconscious. Believers are not lying — they genuinely experience their preferences as divine communication.",
     "raw_text": "**Why this is powerful: **Cannot be corrected through appeals to honesty. The mechanism is unconscious. Believers are not lying — they genuinely experience their preferences as divine communication.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5632,14 +5632,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91f36d02f855427a0526",
     "text": "Implication:",
     "raw_text": "**Implication:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5663,14 +5663,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_63996d3ffb515a736399",
     "text": "•  \"God told me X is wrong\" is empirically indistinguishable from \"I think X is wrong and experience that as divine.\"",
     "raw_text": "•  \"God told me X is wrong\" is empirically indistinguishable from \"I think X is wrong and experience that as divine.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5694,14 +5694,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15d843c615a50dc13023",
     "text": "•  If God's views change every time yours do — which one is doing the moral grounding?",
     "raw_text": "•  If God's views change every time yours do — which one is doing the moral grounding?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5725,14 +5725,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_42c391af8388b5156509",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5756,14 +5756,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5107539282e516130668",
     "text": "•  Epley, Nicholas et al. \"Believers' estimates of God's beliefs are more egocentric than estimates of other people's beliefs.\" PNAS 106(51), 2009.",
     "raw_text": "•  Epley, Nicholas et al. \"Believers' estimates of God's beliefs are more egocentric than estimates of other people's beliefs.\" PNAS 106(51), 2009.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5787,14 +5787,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4041e2f9fe1e975703c2",
     "text": "•  Barrett, Justin. Why Would Anyone Believe in God? (2004) — cognitive science of religion, from a believing scholar.",
     "raw_text": "•  Barrett, Justin. Why Would Anyone Believe in God? (2004) — cognitive science of religion, from a believing scholar.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5818,14 +5818,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91f27dabd281b570d99f",
     "text": "The Gospels give different answers. That difference is the evidence.",
     "raw_text": "The Gospels give different answers. That difference is the evidence.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5849,14 +5849,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3491db2dec2f57efa0cd",
     "text": "Mark (earliest, ~65-70 CE):",
     "raw_text": "**Mark (earliest, ~65-70 CE):**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5880,14 +5880,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e2ed5a79585ddc9d9586",
     "text": "•  Jesus heals then tells people to say nothing — the Messianic Secret. Reads like genuine compassion, not performance.",
     "raw_text": "•  Jesus heals then tells people to say nothing — the Messianic Secret. Reads like genuine compassion, not performance.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5911,14 +5911,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_437fed669136ad7c8bd4",
     "text": "Matthew:",
     "raw_text": "**Matthew:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5942,14 +5942,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_96de41fb68a8ede18551",
     "text": "•  Miracles framed as \"fulfilling prophecy\" — \"This was to fulfill what was spoken by Isaiah...\" Theological agenda driving the narrative, not compassion.",
     "raw_text": "•  Miracles framed as \"fulfilling prophecy\" — \"This was to fulfill what was spoken by Isaiah...\" Theological agenda driving the narrative, not compassion.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -5973,14 +5973,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6680be43006f0131d74f",
     "text": "John (latest, ~90-100 CE):",
     "raw_text": "**John (latest, ~90-100 CE):**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6004,14 +6004,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ee240968d1b752718890",
     "text": "•  Miracles explicitly called \"signs\" — authorial purpose stated: \"These are written so that you may believe\" (20:31).",
     "raw_text": "•  Miracles explicitly called \"signs\" — authorial purpose stated: \"These are written so that you may believe\" (20:31).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6035,14 +6035,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2e7d375870589792c7f2",
     "text": "•  Lazarus raising: Jesus deliberately delays so the miracle is more dramatic, then prays out loud: \"I said this for the people standing here, that they may believe\" (11:42). He narrates his own performance.",
     "raw_text": "•  Lazarus raising: Jesus deliberately delays so the miracle is more dramatic, then prays out loud: \"I said this for the people standing here, that they may believe\" (11:42). He narrates his own performance.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6066,14 +6066,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ad0a13eb45acd0381fa4",
     "text": "Conclusion:",
     "raw_text": "**Conclusion:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6097,14 +6097,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f2565c0c2cf952aebda4",
     "text": "•  In Mark — possibly goodness of heart. In John — explicitly to prove a point. Same Jesus, different authors, different agenda.",
     "raw_text": "•  In Mark — possibly goodness of heart. In John — explicitly to prove a point. Same Jesus, different authors, different agenda.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6128,14 +6128,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f73c638c2f52f810d6ca",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6159,14 +6159,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_197aaa19afdb0e5bf4d7",
     "text": "•  Ehrman, Bart D. Jesus: Apocalyptic Prophet of the New Millennium (1999).",
     "raw_text": "•  Ehrman, Bart D. Jesus: Apocalyptic Prophet of the New Millennium (1999).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6190,14 +6190,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd906e0bd853dba4e8f3",
     "text": "•  Bauckham, Richard. Jesus and the Eyewitnesses (2006) — conservative defense.",
     "raw_text": "•  Bauckham, Richard. Jesus and the Eyewitnesses (2006) — conservative defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6221,14 +6221,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e07fc271ae3baa82d08a",
     "text": "•  Meier, John P. A Marginal Jew: Rethinking the Historical Jesus, Vol. 2 (1994).",
     "raw_text": "•  Meier, John P. A Marginal Jew: Rethinking the Historical Jesus, Vol. 2 (1994).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6252,14 +6252,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c061513b31688e9fb2d1",
     "text": "•  \"How do you know the Bible is true?\" Follow the loop until they see it.",
     "raw_text": "•  \"How do you know the Bible is true?\" Follow the loop until they see it.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6283,14 +6283,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2f9b5498934da8eee1dc",
     "text": "•  \"What evidence outside the Bible supports the Bible's authority?\"",
     "raw_text": "•  \"What evidence outside the Bible supports the Bible's authority?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6314,14 +6314,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d301216f4a743b9e5269",
     "text": "•  \"If God commanded torturing children — would it be good?\" Force a real answer.",
     "raw_text": "•  \"If God commanded torturing children — would it be good?\" Force a real answer.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6345,14 +6345,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_86b45fa89f8c8cd84295",
     "text": "•  \"Did God command slavery? Because the text regulates it. If yes — was slavery good?\"",
     "raw_text": "•  \"Did God command slavery? Because the text regulates it. If yes — was slavery good?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6376,14 +6376,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_23ac3d7e8357cce578c4",
     "text": "•  \"Earlier you said morality is objective and needs God. Now you are saying people disagree so it is subjective. Which one are you arguing? They cancel each other out.\"",
     "raw_text": "•  \"Earlier you said morality is objective and needs God. Now you are saying people disagree so it is subjective. Which one are you arguing? They cancel each other out.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6407,14 +6407,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_19fb003c4af2a7cb3363",
     "text": "•  \"Were you born fearing hell, or were you taught to? If taught — the religion created the fear it claims to save you from.\"",
     "raw_text": "•  \"Were you born fearing hell, or were you taught to? If taught — the religion created the fear it claims to save you from.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6438,14 +6438,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c3396c73a385dc02e057",
     "text": "•  \"The only fears humans are born with are loud noises and falling. Everything else is learned. What does that tell you about fear of divine judgment?\"",
     "raw_text": "•  \"The only fears humans are born with are loud noises and falling. Everything else is learned. What does that tell you about fear of divine judgment?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6469,14 +6469,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0dc56fe4afc011e099bf",
     "text": "•  \"Mark's original ending has women flee the tomb and say nothing (16:8). Resurrection appearances were added by later scribes. Why does the earliest Gospel appear not to have included the foundational event?\"",
     "raw_text": "•  \"Mark's original ending has women flee the tomb and say nothing (16:8). Resurrection appearances were added by later scribes. Why does the earliest Gospel appear not to have included the foundational event?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6500,14 +6500,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5946d8154b70d2496ebd",
     "text": "•  \"Lazarus being raised allegedly caused the Sanhedrin to decide to kill Jesus (John 11). Why do Mark, Matthew, and Luke never once mention Lazarus?\"",
     "raw_text": "•  \"Lazarus being raised allegedly caused the Sanhedrin to decide to kill Jesus (John 11). Why do Mark, Matthew, and Luke never once mention Lazarus?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6531,14 +6531,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e333b6efd326b7eea16d",
     "text": "•  \"The most exclusive salvation claim (John 14:6) appears only in the latest Gospel, 60+ years after Jesus died. Why does exclusivity escalate the further we get from the events?\"",
     "raw_text": "•  \"The most exclusive salvation claim (John 14:6) appears only in the latest Gospel, 60+ years after Jesus died. Why does exclusivity escalate the further we get from the events?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6562,14 +6562,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_77d2138aedaf2e95e98a",
     "text": "•  \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
     "raw_text": "•  \"Crusaders believed they had direct divine command. By your framework that is the most objective moral grounding available. Where did it go wrong?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6593,14 +6593,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ad6b2465004ebee2f008",
     "text": "•  \"The pro-slavery reading of the Bible was exegetically defensible. How does God-grounded morality account for that?\"",
     "raw_text": "•  \"The pro-slavery reading of the Bible was exegetically defensible. How does God-grounded morality account for that?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6624,8 +6624,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d92dfb875df2c35d7548",
@@ -6650,13 +6650,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0873e5721b5419312833",
@@ -6681,13 +6681,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9988050c4bc082dafbf1",
@@ -6712,19 +6712,19 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Observations provenance explicitly states the fieldwork observations at §7 are the user's."
     },
     "review_required": false,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1db7ea8eaedebf44e02f",
     "text": "What it is doing: Converting disagreement or skepticism into a character flaw — cowardice or denial — rather than engaging the actual argument.",
     "raw_text": "**What it is doing: **Converting disagreement or skepticism into a character flaw — cowardice or denial — rather than engaging the actual argument.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6748,14 +6748,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b43660e4048e83b8aa14",
     "text": "Why it is a problem: Unfalsifiable by design. Any counter-argument becomes evidence of fear. This is an ad hominem variant — it attacks the person, not the argument. The real question the person cannot answer: what would convince you the argument is wrong?",
     "raw_text": "**Why it is a problem: **Unfalsifiable by design. Any counter-argument becomes evidence of fear. This is an ad hominem variant — it attacks the person, not the argument. The real question the person cannot answer: what would convince you the argument is wrong?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6779,14 +6779,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dcf42d1e5cba40c22dba",
     "text": "The irony: Fear of hell is the primary mechanism of religious compliance. The framework that calls skeptics scared is built entirely on fear as a motivator.",
     "raw_text": "**The irony: **Fear of hell is the primary mechanism of religious compliance. The framework that calls skeptics scared is built entirely on fear as a motivator.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6810,14 +6810,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_235d483a3b39690397a7",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6841,14 +6841,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ae89394be2cfc8e14b04",
     "text": "•  Clarifying question: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
     "raw_text": "•  Clarifying question: \"What would it look like if someone genuinely engaged your argument without fear? How would that be different from what I am doing?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6872,14 +6872,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_faf8416b416343588e73",
     "text": "•  Direct question: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
     "raw_text": "•  Direct question: \"Your entire moral framework runs on fear of eternal punishment. Who is actually scared here?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6903,14 +6903,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a4a15109490d03c752ce",
     "text": "•  Methodological: \"That tells me nothing about whether the argument is correct. It is a way of avoiding the argument.\"",
     "raw_text": "•  Methodological: \"That tells me nothing about whether the argument is correct. It is a way of avoiding the argument.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6934,14 +6934,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_82454b9eb1188d208c75",
     "text": "The claim: Eternal conscious torment for unbelief or sin. Used as both moral motivation and as the stakes of the entire debate.",
     "raw_text": "**The claim: **Eternal conscious torment for unbelief or sin. Used as both moral motivation and as the stakes of the entire debate.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6965,14 +6965,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0604d4016955a6fa5f7d",
     "text": "What the text actually says: Hell as eternal conscious torment is NOT a developed Old Testament concept. Sheol in the OT is simply the grave or underworld — a shadowy place of the dead, not punishment. Gehenna, the Greek word the NT translates as \"hell,\" is a physical garbage dump outside Jerusalem that historically burned refuse and corpses.",
     "raw_text": "**What the text actually says: **Hell as eternal conscious torment is NOT a developed Old Testament concept. Sheol in the OT is simply the grave or underworld — a shadowy place of the dead, not punishment. Gehenna, the Greek word the NT translates as \"hell,\" is a physical garbage dump outside Jerusalem that historically burned refuse and corpses.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -6996,14 +6996,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bf72d2030ec4e551711a",
     "text": "How the doctrine develops: Eternal conscious torment develops gradually across the intertestamental period and into the NT. It is not uniform even within the NT — annihilationism (soul ceases to exist) and universalism (all eventually reconciled) are live theological positions, not fringe readings.",
     "raw_text": "**How the doctrine develops: **Eternal conscious torment develops gradually across the intertestamental period and into the NT. It is not uniform even within the NT — annihilationism (soul ceases to exist) and universalism (all eventually reconciled) are live theological positions, not fringe readings.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7027,14 +7027,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_78f9d9dc1955100013cd",
     "text": "The moral problem:",
     "raw_text": "**The moral problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7058,14 +7058,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_81169c85d85c2ee7ac91",
     "text": "•  Infinite punishment for finite crimes committed in finite ignorance is disproportionate by any rational justice standard.",
     "raw_text": "•  Infinite punishment for finite crimes committed in finite ignorance is disproportionate by any rational justice standard.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7089,14 +7089,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_88855a740e064c6d3efb",
     "text": "•  If God foreknew who would end up in hell before creating them, and created them anyway, the claim of divine love requires serious qualification.",
     "raw_text": "•  If God foreknew who would end up in hell before creating them, and created them anyway, the claim of divine love requires serious qualification.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7120,14 +7120,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b4b924493684c86bfdc6",
     "text": "•  If the threat of hell is required to motivate moral behavior, that behavior is compliance under coercion — not morality.",
     "raw_text": "•  If the threat of hell is required to motivate moral behavior, that behavior is compliance under coercion — not morality.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7151,14 +7151,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cb59a362a75e1c598230",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7182,14 +7182,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7154de25eca2679735da",
     "text": "•  Clarifying question: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
     "raw_text": "•  Clarifying question: \"The Old Testament has no developed hell doctrine. Sheol is just the grave. Where did eternal conscious torment come from, and when?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7213,14 +7213,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_36682bb239979f8cc165",
     "text": "•  Direct question: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
     "raw_text": "•  Direct question: \"Infinite punishment for finite crime is not justice — it is disproportionate torture. If a human judge sentenced someone to infinite punishment for a finite crime we would call it monstrous.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7244,14 +7244,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_994f1b731371f3c46145",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7275,14 +7275,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0cc5dba6583a71be1d15",
     "text": "•  Ehrman, Bart D. Heaven and Hell: A History of the Afterlife (2020) — full historical development.",
     "raw_text": "•  Ehrman, Bart D. Heaven and Hell: A History of the Afterlife (2020) — full historical development.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7306,14 +7306,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_61ae8013c1f557d5c8e2",
     "text": "•  Bernstein, Alan. The Formation of Hell (1993) — scholarly historical treatment.",
     "raw_text": "•  Bernstein, Alan. The Formation of Hell (1993) — scholarly historical treatment.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7337,14 +7337,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5869ec6b1cee5b659b7e",
     "text": "Sources — evangelical defending:",
     "raw_text": "**Sources — evangelical defending:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7368,14 +7368,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_19267deea1b3f03eb302",
     "text": "•  Chan, Francis & Sprinkle, Preston. Erasing Hell (2011) — evangelical defense of eternal conscious torment.",
     "raw_text": "•  Chan, Francis & Sprinkle, Preston. Erasing Hell (2011) — evangelical defense of eternal conscious torment.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7399,14 +7399,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b54ef5e6ae11d4e1674e",
     "text": "•  Fudge, Edward. The Fire That Consumes (1982) — evangelical case for annihilationism (within Christianity).",
     "raw_text": "•  Fudge, Edward. The Fire That Consumes (1982) — evangelical case for annihilationism (within Christianity).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7430,14 +7430,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e19ce5e1d8d2d4f38f81",
     "text": "The claim: God gave humans free will so they can genuinely choose him. Moral evil exists because God respects freedom rather than forcing obedience.",
     "raw_text": "**The claim: **God gave humans free will so they can genuinely choose him. Moral evil exists because God respects freedom rather than forcing obedience.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7461,14 +7461,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_425f9663cfe502428ed4",
     "text": "What it is responding to: Problem of evil: why did God not simply make humans good? Why does evil exist if God is all-powerful and all-good?",
     "raw_text": "**What it is responding to: **Problem of evil: why did God not simply make humans good? Why does evil exist if God is all-powerful and all-good?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7492,14 +7492,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_adb1a705a4529b676f34",
     "text": "Internal contradictions:",
     "raw_text": "**Internal contradictions:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7523,14 +7523,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bddaf20ed9adb4fece01",
     "text": "•  God made angels who (presumably) did not all fall — are they robots? If not, free beings can exist without the capacity for radical evil.",
     "raw_text": "•  God made angels who (presumably) did not all fall — are they robots? If not, free beings can exist without the capacity for radical evil.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7554,14 +7554,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d0afbb49f161e04a33be",
     "text": "•  Heaven presumably has no sin. Are the redeemed in heaven robots? If free will requires the possibility of evil, heaven is incoherent. If heaven is free of evil, free will does not require that possibility.",
     "raw_text": "•  Heaven presumably has no sin. Are the redeemed in heaven robots? If free will requires the possibility of evil, heaven is incoherent. If heaven is free of evil, free will does not require that possibility.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7585,14 +7585,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_173b920423f1fd4475da",
     "text": "•  If God is omniscient, he knew before creation exactly who would choose him and who would not. He created people he knew would end up in hell. The free will defense does not resolve divine foreknowledge.",
     "raw_text": "•  If God is omniscient, he knew before creation exactly who would choose him and who would not. He created people he knew would end up in hell. The free will defense does not resolve divine foreknowledge.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7616,14 +7616,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_55b23804768eadef33a8",
     "text": "•  This is a live internal Christian debate: Calvinist predestination (God selects the saved) vs. Arminian free will (humans genuinely choose). Both cannot be fully right. Both use the same Bible.",
     "raw_text": "•  This is a live internal Christian debate: Calvinist predestination (God selects the saved) vs. Arminian free will (humans genuinely choose). Both cannot be fully right. Both use the same Bible.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7647,14 +7647,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_46b43ed7a08debb4c7a1",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7678,14 +7678,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1d9990630d93e1b5742c",
     "text": "•  Clarifying question: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
     "raw_text": "•  Clarifying question: \"If heaven has no evil, then free beings can exist without the capacity for evil. So why not create humans that way?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7709,14 +7709,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7ed5fd4e69cc5965c1cf",
     "text": "•  Direct question: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
     "raw_text": "•  Direct question: \"God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7740,14 +7740,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_66ce787fca87e2bb6c46",
     "text": "•  On the robot framing: \"You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given.\"",
     "raw_text": "•  On the robot framing: \"You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7771,14 +7771,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_730d16c91d9d47b78804",
     "text": "Sources — defending free will:",
     "raw_text": "**Sources — defending free will:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7802,14 +7802,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4afd6f688fff52cf947e",
     "text": "•  Plantinga, Alvin. God, Freedom, and Evil (1974) — the most rigorous philosophical free will defense.",
     "raw_text": "•  Plantinga, Alvin. God, Freedom, and Evil (1974) — the most rigorous philosophical free will defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7833,14 +7833,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3c43a98e267f4c179e41",
     "text": "•  Swinburne, Richard. Providence and the Problem of Evil (1998).",
     "raw_text": "•  Swinburne, Richard. Providence and the Problem of Evil (1998).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7864,14 +7864,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_20c020e695d215f3fb46",
     "text": "Sources — against:",
     "raw_text": "**Sources — against:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7895,14 +7895,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_faa69c685ce7417a5c7b",
     "text": "•  Mackie, J.L. \"Evil and Omnipotence.\" Mind 64 (1955) — classic refutation.",
     "raw_text": "•  Mackie, J.L. \"Evil and Omnipotence.\" Mind 64 (1955) — classic refutation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7926,14 +7926,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d29e2f2e997f7d114f6c",
     "text": "•  Oppy, Graham. Arguing About Gods (2006).",
     "raw_text": "•  Oppy, Graham. Arguing About Gods (2006).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7957,14 +7957,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b524b96e551c0e02252c",
     "text": "The claim: God exists beyond temporal categories, so human logic about sequence, causality, and time does not apply to him.",
     "raw_text": "**The claim: **God exists beyond temporal categories, so human logic about sequence, causality, and time does not apply to him.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -7988,14 +7988,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c38d4524b08b4c7da45",
     "text": "What it is deflecting: Foreknowledge vs. free will contradictions. Failed prophetic deadlines (Mark 13:30, Matthew 16:28). The problem of evil. Questions about what God was doing \"before\" creation.",
     "raw_text": "**What it is deflecting: **Foreknowledge vs. free will contradictions. Failed prophetic deadlines (Mark 13:30, Matthew 16:28). The problem of evil. Questions about what God was doing \"before\" creation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8019,14 +8019,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5a3fac74cb3b786e46a4",
     "text": "Why it is a problem: This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is a conversation stopper, not a logical defense.",
     "raw_text": "**Why it is a problem: **This is an unfalsifiability move. Any temporal inconsistency in the text or theology can be dissolved by appealing to God's atemporal nature. But an argument that cannot be falsified by any conceivable evidence is a conversation stopper, not a logical defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8050,14 +8050,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d12dc0d5dc9ca7c89c52",
     "text": "The specific problems it cannot solve:",
     "raw_text": "**The specific problems it cannot solve:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8081,14 +8081,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0fb7542f092f9060ef06",
     "text": "•  If God is outside time and sees all moments simultaneously, human choices are already fixed from God's perspective. Free will becomes incoherent.",
     "raw_text": "•  If God is outside time and sees all moments simultaneously, human choices are already fixed from God's perspective. Free will becomes incoherent.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8112,14 +8112,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4435fc87d95993b79a98",
     "text": "•  Mark 13:30 — \"this generation will not pass away before all these things take place.\" That is a temporal claim Jesus makes in-time. \"God is outside time\" does not resolve a deadline Jesus himself set.",
     "raw_text": "•  Mark 13:30 — \"this generation will not pass away before all these things take place.\" That is a temporal claim Jesus makes in-time. \"God is outside time\" does not resolve a deadline Jesus himself set.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8143,14 +8143,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_40b452329764b6eda998",
     "text": "•  The concept of \"outside time\" is a philosophical import (Boethius, 6th century CE) used to defend doctrines the original authors did not articulate this way — not something clearly in the biblical text itself.",
     "raw_text": "•  The concept of \"outside time\" is a philosophical import (Boethius, 6th century CE) used to defend doctrines the original authors did not articulate this way — not something clearly in the biblical text itself.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8174,14 +8174,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_179aaf367c72f89163f2",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8205,14 +8205,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e0b13f01948d7b51a499",
     "text": "•  Clarifying question: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
     "raw_text": "•  Clarifying question: \"That is a philosophical framework imported centuries after the text was written. Where does the Bible itself describe God as outside time?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8236,14 +8236,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6b3fc067412ba2b6ae40",
     "text": "•  Direct question: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
     "raw_text": "•  Direct question: \"If God is outside time and sees all moments simultaneously, then everything is already determined from his perspective. Free will and outside-of-time cannot both be true.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8267,14 +8267,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_861c334b933f2937a1c7",
     "text": "•  On unfalsifiability: \"That argument can defend any claim about any deity. 'God is outside our understanding' is a way of making the claim untestable, not a defense.\"",
     "raw_text": "•  On unfalsifiability: \"That argument can defend any claim about any deity. 'God is outside our understanding' is a way of making the claim untestable, not a defense.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8298,14 +8298,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2e77c3d67d909a53fcdf",
     "text": "Sources — defending atemporality:",
     "raw_text": "**Sources — defending atemporality:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8329,14 +8329,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6bfccb018457073da763",
     "text": "•  Boethius. The Consolation of Philosophy (524 CE) — original philosophical formulation of divine eternity.",
     "raw_text": "•  Boethius. The Consolation of Philosophy (524 CE) — original philosophical formulation of divine eternity.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8360,14 +8360,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c68cf452648411788d5e",
     "text": "•  Aquinas, Thomas. Summa Theologica I, Q.10 — classical theological treatment.",
     "raw_text": "•  Aquinas, Thomas. Summa Theologica I, Q.10 — classical theological treatment.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8391,14 +8391,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_75f3c224896a33ab9329",
     "text": "•  Craig, William Lane. Time and Eternity (2001) — contemporary evangelical defense.",
     "raw_text": "•  Craig, William Lane. Time and Eternity (2001) — contemporary evangelical defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8422,14 +8422,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_30f022682fbddfcdc93b",
     "text": "Sources — against / open theism:",
     "raw_text": "**Sources — against / open theism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8453,14 +8453,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f5684c14f5ebe988d566",
     "text": "•  Swinburne, Richard. The Coherence of Theism (1977) — argues God is temporal.",
     "raw_text": "•  Swinburne, Richard. The Coherence of Theism (1977) — argues God is temporal.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8484,14 +8484,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d89d9e0c9105a8364ec5",
     "text": "•  Boyd, Gregory. God of the Possible (2000) — open theism, God does not foreknow free choices.",
     "raw_text": "•  Boyd, Gregory. God of the Possible (2000) — open theism, God does not foreknow free choices.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8515,14 +8515,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ba5a0a4d24a4f67b2cdb",
     "text": "What it is: An internal contradiction within the belief system itself, not a counter from outside it.",
     "raw_text": "**What it is: **An internal contradiction within the belief system itself, not a counter from outside it.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8546,14 +8546,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91c82473f8e953e672d5",
     "text": "The claim believers make: Believers are protected, guided, and indwelt by the Holy Spirit. God is all-powerful. Therefore believers have access to divine truth and protection.",
     "raw_text": "**The claim believers make: **Believers are protected, guided, and indwelt by the Holy Spirit. God is all-powerful. Therefore believers have access to divine truth and protection.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8577,14 +8577,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2936986a07ff9f43b7f4",
     "text": "The contradiction: If God is all-powerful and present in believers, why do believers get confused, deceived, or led into false theology? The history of Christianity is thousands of competing denominations — all claiming the same Holy Spirit, all reading the same Bible, all arriving at contradictory conclusions. Who is the devil confusing and who is God guiding — and how would you tell the difference?",
     "raw_text": "**The contradiction: **If God is all-powerful and present in believers, why do believers get confused, deceived, or led into false theology? The history of Christianity is thousands of competing denominations — all claiming the same Holy Spirit, all reading the same Bible, all arriving at contradictory conclusions. Who is the devil confusing and who is God guiding — and how would you tell the difference?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8608,14 +8608,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2015eefd46e404e5a157",
     "text": "The standard answers and their problems:",
     "raw_text": "**The standard answers and their problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8639,14 +8639,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6019bc0fed130f10fae9",
     "text": "•  Answer: \"Free will — believers choose to open themselves to confusion.\" Problem: then the Holy Spirit does not actually protect against deception; the believer still bears the full weight of discernment.",
     "raw_text": "•  Answer: \"Free will — believers choose to open themselves to confusion.\" Problem: then the Holy Spirit does not actually protect against deception; the believer still bears the full weight of discernment.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8670,14 +8670,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ba76d2b4e600ea814583",
     "text": "•  Answer: \"Spiritual warfare — the devil is actively working.\" Problem: if the devil can successfully confuse people who have God, what does having God actually guarantee?",
     "raw_text": "•  Answer: \"Spiritual warfare — the devil is actively working.\" Problem: if the devil can successfully confuse people who have God, what does having God actually guarantee?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8701,14 +8701,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bf4982d3920195288ca3",
     "text": "•  Answer: \"Testing and growth.\" Problem: this makes God and the devil cooperative agents in the same process. That is a very different God than the one described.",
     "raw_text": "•  Answer: \"Testing and growth.\" Problem: this makes God and the devil cooperative agents in the same process. That is a very different God than the one described.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8732,14 +8732,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_224a71e0a73ee6a36494",
     "text": "The question to ask directly:",
     "raw_text": "**The question to ask directly:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8763,14 +8763,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7cfe5c44815893fb0e07",
     "text": "•  \"If two believers read the same Bible under the same Holy Spirit and arrive at opposite conclusions — one of them must be wrong. How do you determine which one the devil confused and which one God guided? What is the mechanism?\"",
     "raw_text": "•  \"If two believers read the same Bible under the same Holy Spirit and arrive at opposite conclusions — one of them must be wrong. How do you determine which one the devil confused and which one God guided? What is the mechanism?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8794,14 +8794,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_83cdd2aa17a161f55ce2",
     "text": "•  \"If there are 45,000 Christian denominations all claiming the Holy Spirit — and they contradict each other on core doctrine — what exactly is the Holy Spirit communicating?\"",
     "raw_text": "•  \"If there are 45,000 Christian denominations all claiming the Holy Spirit — and they contradict each other on core doctrine — what exactly is the Holy Spirit communicating?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8825,14 +8825,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc995cc50974d24a3842",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8856,14 +8856,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91b5d3f3dfe20035c8f6",
     "text": "•  Barrett, David. World Christian Encyclopedia (2001) — documents 33,000+ Christian denominations (later estimates reach 45,000+).",
     "raw_text": "•  Barrett, David. World Christian Encyclopedia (2001) — documents 33,000+ Christian denominations (later estimates reach 45,000+).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8887,14 +8887,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3387fd2b8442b27ff230",
     "text": "•  Ehrman, Bart D. Jesus Interrupted (2009) — on doctrinal contradiction across the tradition.",
     "raw_text": "•  Ehrman, Bart D. Jesus Interrupted (2009) — on doctrinal contradiction across the tradition.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8918,14 +8918,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bd4d772c27ad1b5a7d45",
     "text": "The verse: Proverbs 3:5 — \"Trust in the Lord with all your heart, and do not lean on your own understanding.\" (ESV) NRSVue: \"do not rely on your own insight\" — same argument either way; the wording changes, not the interpretive move being critiqued below.",
     "raw_text": "**The verse: **Proverbs 3:5 — \"Trust in the Lord with all your heart, and do not lean on your own understanding.\" (ESV) NRSVue: \"do not rely on your own insight\" — same argument either way; the wording changes, not the interpretive move being critiqued below.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8948,14 +8948,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bfbcd87ff83feeef1de7",
     "text": "How it is used: To shut down critical analysis, questioning, or skepticism of the Bible. Implies that intellectual engagement with the text is sinful pride or faithlessness.",
     "raw_text": "**How it is used: **To shut down critical analysis, questioning, or skepticism of the Bible. Implies that intellectual engagement with the text is sinful pride or faithlessness.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -8978,14 +8978,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_19a29cf3d51735dad331",
     "text": "Why this is self-defeating:",
     "raw_text": "**Why this is self-defeating:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9008,14 +9008,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2fb0511854f9f2b993d2",
     "text": "•  The person quoting it is using their own understanding to read, interpret, and apply the verse. The act of saying \"do not lean on your own understanding\" requires leaning on your own understanding to know what the verse means.",
     "raw_text": "•  The person quoting it is using their own understanding to read, interpret, and apply the verse. The act of saying \"do not lean on your own understanding\" requires leaning on your own understanding to know what the verse means.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9038,14 +9038,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d891a80b7abdb27e6724",
     "text": "•  Every interpretation of scripture IS someone's own understanding. The question is never whether human understanding is involved — it always is. The question is whose understanding and how.",
     "raw_text": "•  Every interpretation of scripture IS someone's own understanding. The question is never whether human understanding is involved — it always is. The question is whose understanding and how.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9068,14 +9068,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_38be004257d28c393e50",
     "text": "•  The person deciding that Proverbs 3:5 means \"do not question the Bible\" is making an interpretive choice. A different reader using their own understanding could interpret it as \"trust God over your ego in personal decisions\" — which is closer to the original context.",
     "raw_text": "•  The person deciding that Proverbs 3:5 means \"do not question the Bible\" is making an interpretive choice. A different reader using their own understanding could interpret it as \"trust God over your ego in personal decisions\" — which is closer to the original context.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9098,14 +9098,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f1d99eab0efa3d2138e2",
     "text": "The original context (Proverbs 3:1-12):",
     "raw_text": "**The original context (Proverbs 3:1-12):**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9128,14 +9128,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1c1c7155b84ae984e294",
     "text": "•  This is wisdom literature about personal conduct and humility in life decisions. The surrounding verses are about honoring God with wealth, not resisting intellectual critique.",
     "raw_text": "•  This is wisdom literature about personal conduct and humility in life decisions. The surrounding verses are about honoring God with wealth, not resisting intellectual critique.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9158,14 +9158,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5f41d20346892744c195",
     "text": "•  Using it to silence biblical criticism is itself an application of the person's own interpretive judgment — the exact thing they claim the verse prohibits.",
     "raw_text": "•  Using it to silence biblical criticism is itself an application of the person's own interpretive judgment — the exact thing they claim the verse prohibits.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9188,14 +9188,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f0ffc3a51317e325472e",
     "text": "The broader pattern this reveals:",
     "raw_text": "**The broader pattern this reveals:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9218,14 +9218,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e710bd77f8dd5864662f",
     "text": "•  Believers frequently use \"do not add your own understanding\" selectively — against skeptics and critics, never against their own interpretations.",
     "raw_text": "•  Believers frequently use \"do not add your own understanding\" selectively — against skeptics and critics, never against their own interpretations.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9248,14 +9248,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_72a9762051780ba29575",
     "text": "•  Their pastor's interpretation does not count as \"adding their own understanding.\" Their denomination's reading does not count. Only the outsider's analysis gets flagged.",
     "raw_text": "•  Their pastor's interpretation does not count as \"adding their own understanding.\" Their denomination's reading does not count. Only the outsider's analysis gets flagged.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9278,14 +9278,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b392054f17f32040b0ff",
     "text": "•  This is motivated reasoning applied to epistemology: the rule only activates when it protects the belief.",
     "raw_text": "•  This is motivated reasoning applied to epistemology: the rule only activates when it protects the belief.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9308,14 +9308,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_843841d3652d6f1deff8",
     "text": "Companion verse — Isaiah 55:8-9:",
     "raw_text": "**Companion verse — Isaiah 55:8-9:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9338,14 +9338,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_251a31268e7c40353231",
     "text": "•  \"For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.\"",
     "raw_text": "•  \"For my thoughts are not your thoughts, neither are your ways my ways, declares the Lord. For as the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9368,14 +9368,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1a87270fd1e6dc9ce652",
     "text": "•  Used to deflect any moral objection to God's actions: genocide, slavery, eternal damnation. \"We cannot understand — his ways are higher.\"",
     "raw_text": "•  Used to deflect any moral objection to God's actions: genocide, slavery, eternal damnation. \"We cannot understand — his ways are higher.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9398,14 +9398,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c951a4aff03834f9480",
     "text": "•  The problem: if God's moral reasoning is entirely inaccessible to human understanding, no moral claim about God can be made — including that he is good. The verse destroys the foundation it is supposed to defend.",
     "raw_text": "•  The problem: if God's moral reasoning is entirely inaccessible to human understanding, no moral claim about God can be made — including that he is good. The verse destroys the foundation it is supposed to defend.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9428,14 +9428,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_969f8a55d8d3286b6d22",
     "text": "•  This is documented in skeptical theism literature (Wykstra, Bergmann, Howard-Snyder) and the moral paralysis objection (Almeida, Wielenberg, Maitzen).",
     "raw_text": "•  This is documented in skeptical theism literature (Wykstra, Bergmann, Howard-Snyder) and the moral paralysis objection (Almeida, Wielenberg, Maitzen).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9458,14 +9458,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a8895056de54ff4b80da",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9488,14 +9488,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6eecdc3f2033e73d909f",
     "text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is whether we use our understanding well — not whether we use it.\"",
     "raw_text": "•  Clarifying question: \"You used your own understanding to interpret that verse. That is unavoidable. The question is whether we use our understanding well — not whether we use it.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9518,14 +9518,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_489d80939887c64115a6",
     "text": "•  Direct question: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
     "raw_text": "•  Direct question: \"Every reading of scripture is someone's understanding. Your pastor's, your denomination's, yours. The verse cannot exempt interpretation from interpretation.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9548,14 +9548,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0fff756006a65d25b1f6",
     "text": "•  On Isaiah 55: \"If God's ways are so far above our ways that we cannot understand them — how do you know he is good? That claim also requires your understanding.\"",
     "raw_text": "•  On Isaiah 55: \"If God's ways are so far above our ways that we cannot understand them — how do you know he is good? That claim also requires your understanding.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9578,14 +9578,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_795ff5e4168180da58fb",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9608,14 +9608,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_75f6156fa9b89e8a7ab5",
     "text": "•  Wykstra, Stephen. \"The Humean Obstacle to Evidential Arguments from Suffering.\" International Journal for Philosophy of Religion (1984) — skeptical theism founding paper.",
     "raw_text": "•  Wykstra, Stephen. \"The Humean Obstacle to Evidential Arguments from Suffering.\" International Journal for Philosophy of Religion (1984) — skeptical theism founding paper.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9638,14 +9638,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d3408df6a48fd97b1ee3",
     "text": "•  Maitzen, Stephen. \"Divine Hiddenness and the Demographics of Theism.\" Religious Studies (2006) — moral paralysis objection.",
     "raw_text": "•  Maitzen, Stephen. \"Divine Hiddenness and the Demographics of Theism.\" Religious Studies (2006) — moral paralysis objection.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9668,14 +9668,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5d95736e1cc600b5e60e",
     "text": "•  Enns, Peter. The Bible Tells Me So (2014) — evangelical scholar on the impossibility of reading without interpretation.",
     "raw_text": "•  Enns, Peter. The Bible Tells Me So (2014) — evangelical scholar on the impossibility of reading without interpretation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9698,14 +9698,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91c33ff6ed79d0bdf3e7",
     "text": "What it is: A secular ethical framework grounding morality in human wellbeing, reason, dignity, and autonomy — without appeal to supernatural authority.",
     "raw_text": "**What it is: **A secular ethical framework grounding morality in human wellbeing, reason, dignity, and autonomy — without appeal to supernatural authority.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9729,14 +9729,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9683e9d3ac8e46d6a381",
     "text": "Typical dismissal: \"Man-made morality — arbitrary, no objective grounding, just humans deciding what is right for themselves.\"",
     "raw_text": "**Typical dismissal: **\"Man-made morality — arbitrary, no objective grounding, just humans deciding what is right for themselves.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9760,14 +9760,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de2a375b4b9e6143f1d5",
     "text": "The counter:",
     "raw_text": "**The counter:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9791,14 +9791,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_03cbae8f9373b0e5b2db",
     "text": "•  All moral frameworks are interpreted and applied by humans — including the Bible. The question is not whether humans are involved. They always are.",
     "raw_text": "•  All moral frameworks are interpreted and applied by humans — including the Bible. The question is not whether humans are involved. They always are.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9822,14 +9822,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8c043eeda4557425a46e",
     "text": "•  Humanism has a track record: the Universal Declaration of Human Rights (1948), the abolition movement, secular democratic law. These have measurably reduced suffering across populations.",
     "raw_text": "•  Humanism has a track record: the Universal Declaration of Human Rights (1948), the abolition movement, secular democratic law. These have measurably reduced suffering across populations.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9853,14 +9853,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5809932e9dc6c782830a",
     "text": "•  The \"man-made\" dismissal proves too much: the canon of the Bible was selected by human councils (Hippo 393 CE, Carthage 397 CE — not Nicaea, which addressed Christology, not canon; see History §7). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.",
     "raw_text": "•  The \"man-made\" dismissal proves too much: the canon of the Bible was selected by human councils (Hippo 393 CE, Carthage 397 CE — not Nicaea, which addressed Christology, not canon; see History §7). The translations are human. The denominations are human. The dismissal of humanism as man-made applies equally to the religious alternative.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9884,14 +9884,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1abc86a2e0f233b56972",
     "text": "The actual distinction humanism claims:",
     "raw_text": "**The actual distinction humanism claims:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9915,14 +9915,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bc9eccb580a6492a6ef9",
     "text": "•  Morality derived from human flourishing and reduction of suffering is grounded in something verifiable — you can measure wellbeing and suffering. Morality derived from divine command is grounded in a text whose authority is assumed, not demonstrated.",
     "raw_text": "•  Morality derived from human flourishing and reduction of suffering is grounded in something verifiable — you can measure wellbeing and suffering. Morality derived from divine command is grounded in a text whose authority is assumed, not demonstrated.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9946,14 +9946,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c2a7af98f1950edf4f18",
     "text": "Sources — humanist:",
     "raw_text": "**Sources — humanist:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -9977,14 +9977,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9271879ac67846a44f52",
     "text": "•  Kurtz, Paul. Humanist Manifesto III (2003).",
     "raw_text": "•  Kurtz, Paul. Humanist Manifesto III (2003).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10008,14 +10008,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_76817fe3a5cb6aa8f76c",
     "text": "•  Grayling, A.C. The God Argument: The Case Against Religion and for Humanism (2013).",
     "raw_text": "•  Grayling, A.C. The God Argument: The Case Against Religion and for Humanism (2013).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10039,14 +10039,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4b8eb02e7baab3330572",
     "text": "•  Pinker, Steven. The Better Angels of Our Nature (2011) — secular case that human progress has tracked reduction of violence and expansion of rights.",
     "raw_text": "•  Pinker, Steven. The Better Angels of Our Nature (2011) — secular case that human progress has tracked reduction of violence and expansion of rights.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10070,14 +10070,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e62ecacf3a0165574d62",
     "text": "Sources — critiquing secular humanism:",
     "raw_text": "**Sources — critiquing secular humanism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10101,14 +10101,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_50e85fc512d444a7df68",
     "text": "•  Craig, William Lane. Reasonable Faith, 3rd ed. (2008) — Ch. 3 on secular humanism.",
     "raw_text": "•  Craig, William Lane. Reasonable Faith, 3rd ed. (2008) — Ch. 3 on secular humanism.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10132,14 +10132,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_88ab61b466e712f4d7ab",
     "text": "•  Schaeffer, Francis. How Should We Then Live? (1976) — evangelical critique of humanist foundations.",
     "raw_text": "•  Schaeffer, Francis. How Should We Then Live? (1976) — evangelical critique of humanist foundations.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10163,14 +10163,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0dd101191a3e10b6f2b6",
     "text": "The claim believers make: \"Objective morality requires God. Without God, morality is just opinion.\"",
     "raw_text": "**The claim believers make: **\"Objective morality requires God. Without God, morality is just opinion.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10194,14 +10194,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5daab4977e41c47bb4ab",
     "text": "What secular moral realism actually argues: Objective moral facts exist independently of what any person or God believes about them — the same way mathematical facts exist independently. Torturing children for fun is wrong whether or not God exists or says so.",
     "raw_text": "**What secular moral realism actually argues: **Objective moral facts exist independently of what any person or God believes about them — the same way mathematical facts exist independently. Torturing children for fun is wrong whether or not God exists or says so.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10225,14 +10225,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a4bfbc65b65b6d587fa0",
     "text": "Secular frameworks that ground objective morality:",
     "raw_text": "**Secular frameworks that ground objective morality:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10256,14 +10256,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_513109d9d61e47cbdb24",
     "text": "•  Kant's Categorical Imperative: \"Act only according to that maxim by which you can at the same time will that it should become a universal law.\" Rational, universal, requires no God.",
     "raw_text": "•  Kant's Categorical Imperative: \"Act only according to that maxim by which you can at the same time will that it should become a universal law.\" Rational, universal, requires no God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10287,14 +10287,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3690528d8d461778de19",
     "text": "•  Moral realism (Parfit, Wielenberg, Scanlon): Moral facts are non-natural facts that exist objectively. Their existence does not depend on any mind, human or divine.",
     "raw_text": "•  Moral realism (Parfit, Wielenberg, Scanlon): Moral facts are non-natural facts that exist objectively. Their existence does not depend on any mind, human or divine.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10318,14 +10318,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_13b302f912c71f2b27f4",
     "text": "•  Contractualism (Scanlon): What We Owe to Each Other — moral principles are those no one could reasonably reject as the basis for mutual agreement.",
     "raw_text": "•  Contractualism (Scanlon): What We Owe to Each Other — moral principles are those no one could reasonably reject as the basis for mutual agreement.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10349,14 +10349,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ec623e22328625817ff1",
     "text": "•  Moral intuitionism (Moore, Ross): Some moral facts are directly known through moral intuition — foundational, not derived.",
     "raw_text": "•  Moral intuitionism (Moore, Ross): Some moral facts are directly known through moral intuition — foundational, not derived.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10380,14 +10380,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c54b43df62a328a55612",
     "text": "The universal moral intuitions problem for believers:",
     "raw_text": "**The universal moral intuitions problem for believers:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10411,14 +10411,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0433cf81315ce0518b5d",
     "text": "•  Cultures with no contact with the Bible independently developed prohibitions on murder, theft, and harm to children. If objective morality requires the God of the Bible — how did they access it?",
     "raw_text": "•  Cultures with no contact with the Bible independently developed prohibitions on murder, theft, and harm to children. If objective morality requires the God of the Bible — how did they access it?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10442,14 +10442,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a104cb3a5c1703ab6794",
     "text": "•  Jonathan Haidt (The Righteous Mind, 2012) documents six universal moral foundations — care, fairness, loyalty, authority, sanctity, liberty — appearing across cultures regardless of religion. These track evolutionary pressures, not divine revelation.",
     "raw_text": "•  Jonathan Haidt (The Righteous Mind, 2012) documents six universal moral foundations — care, fairness, loyalty, authority, sanctity, liberty — appearing across cultures regardless of religion. These track evolutionary pressures, not divine revelation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10473,14 +10473,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e8f78d0a7cb9892f69a3",
     "text": "Sources — secular objective morality:",
     "raw_text": "**Sources — secular objective morality:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10504,14 +10504,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4b6334f28f260e06cb83",
     "text": "•  Kant, Immanuel. Groundwork of the Metaphysics of Morals (1785).",
     "raw_text": "•  Kant, Immanuel. Groundwork of the Metaphysics of Morals (1785).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10535,14 +10535,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8f0ee9c82ca4e6b2845c",
     "text": "•  Parfit, Derek. On What Matters (2011).",
     "raw_text": "•  Parfit, Derek. On What Matters (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10566,14 +10566,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ed939bef467b14e86bb7",
     "text": "•  Wielenberg, Erik. Robust Ethics (2014).",
     "raw_text": "•  Wielenberg, Erik. Robust Ethics (2014).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10597,14 +10597,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a5505c75928f56714de2",
     "text": "•  Haidt, Jonathan. The Righteous Mind: Why Good People are Divided by Politics and Religion (2012).",
     "raw_text": "•  Haidt, Jonathan. The Righteous Mind: Why Good People are Divided by Politics and Religion (2012).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10628,14 +10628,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_405139f7379df574ee7b",
     "text": "Sources — theistic objective morality:",
     "raw_text": "**Sources — theistic objective morality:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10659,14 +10659,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7e6c875ebb087f384c32",
     "text": "•  Copan, Paul. Is God a Moral Monster? (2011).",
     "raw_text": "•  Copan, Paul. Is God a Moral Monster? (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10690,14 +10690,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d3455f1388e753d47556",
     "text": "•  Moreland, J.P. & Craig, William Lane. Philosophical Foundations for a Christian Worldview (2003).",
     "raw_text": "•  Moreland, J.P. & Craig, William Lane. Philosophical Foundations for a Christian Worldview (2003).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10721,14 +10721,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4104d93a509599cb2de9",
     "text": "Verses are listed by reference only — look them up in the ESV or any translation. The entry notes what the verse is commonly used to claim and what the surrounding context actually contains. The context is the point.",
     "raw_text": "Verses are listed by reference only — look them up in the ESV or any translation. The entry notes what the verse is commonly used to claim and what the surrounding context actually contains. The context is the point.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10751,14 +10751,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e83014372b8187a6bef9",
     "text": "Commonly used for: \"God has good plans for your life\" — personal promise of blessing, used on graduation cards and in motivational preaching.",
     "raw_text": "**Commonly used for: **\"God has good plans for your life\" — personal promise of blessing, used on graduation cards and in motivational preaching.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10782,14 +10782,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1753f97d61e0d3a7f377",
     "text": "Actual context: A letter to Jewish exiles in Babylon telling them to settle in for 70 years of captivity. The \"plans\" are for eventual national restoration after a generation of exile. Verses 16-19 immediately surrounding describe God sending sword, famine, and plague to those still in Jerusalem. Not a personal promise. The people receiving it were being told to stop expecting rescue.",
     "raw_text": "**Actual context: **A letter to Jewish exiles in Babylon telling them to settle in for 70 years of captivity. The \"plans\" are for eventual national restoration after a generation of exile. Verses 16-19 immediately surrounding describe God sending sword, famine, and plague to those still in Jerusalem. Not a personal promise. The people receiving it were being told to stop expecting rescue.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10813,14 +10813,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e06eb8f17f92c0f3becd",
     "text": "Reference: Jeremiah 29:1-19 — read the whole passage.",
     "raw_text": "**Reference: **Jeremiah 29:1-19 — read the whole passage.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10844,14 +10844,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e731eb21514999fefd40",
     "text": "Commonly used for: Christianity as the fulfillment of prophecy — the new covenant replacing the old, pointing to Jesus.",
     "raw_text": "**Commonly used for: **Christianity as the fulfillment of prophecy — the new covenant replacing the old, pointing to Jesus.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10875,14 +10875,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d0dddca41dd43d17e2a1",
     "text": "Actual context: The new covenant is explicitly with \"the house of Israel and the house of Judah\" — not Gentiles, not a new religion. Jewish tradition reads this as future national restoration of Israel. Nothing in Jeremiah's context indicates this refers to Jesus. Christians retrofitted this centuries later.",
     "raw_text": "**Actual context: **The new covenant is explicitly with \"the house of Israel and the house of Judah\" — not Gentiles, not a new religion. Jewish tradition reads this as future national restoration of Israel. Nothing in Jeremiah's context indicates this refers to Jesus. Christians retrofitted this centuries later.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10906,14 +10906,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f2bc988a12101f487588",
     "text": "Reference: Jeremiah 31:27-40 — note who the covenant is explicitly with.",
     "raw_text": "**Reference: **Jeremiah 31:27-40 — note who the covenant is explicitly with.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10937,14 +10937,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd6cf8da620f9ff8d4d3",
     "text": "Commonly used for: Predicting the virgin birth of Jesus — \"behold, a virgin shall conceive.\"",
     "raw_text": "**Commonly used for: **Predicting the virgin birth of Jesus — \"behold, a virgin shall conceive.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10968,14 +10968,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9c6cc57355cc8ced7927",
     "text": "Actual context: Hebrew uses \"almah\" — young woman. Not the Hebrew word for virgin (\"betulah\"). Matthew translates it with the Greek \"parthenos\" (virgin) when quoting it. The verse in Isaiah is about events in Isaiah's own time — a sign to King Ahaz about an imminent military threat, not a 700-year-forward prophecy. The child in the original context is born during Isaiah's lifetime as a sign.",
     "raw_text": "**Actual context: **Hebrew uses \"almah\" — young woman. Not the Hebrew word for virgin (\"betulah\"). Matthew translates it with the Greek \"parthenos\" (virgin) when quoting it. The verse in Isaiah is about events in Isaiah's own time — a sign to King Ahaz about an imminent military threat, not a 700-year-forward prophecy. The child in the original context is born during Isaiah's lifetime as a sign.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -10999,14 +10999,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_94ef7fddf1026d974af9",
     "text": "Reference: Isaiah 7:1-17 — read from the beginning of the chapter for full political context.",
     "raw_text": "**Reference: **Isaiah 7:1-17 — read from the beginning of the chapter for full political context.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11030,14 +11030,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_72b05d247d99ff540371",
     "text": "Commonly used for: Usually not cited by believers — avoided.",
     "raw_text": "**Commonly used for: **Usually not cited by believers — avoided.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11061,14 +11061,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c4c9ebb73e13cae3156",
     "text": "What it actually says: Mark 13:30 — \"Truly I tell you, this generation will not pass away until all these things take place.\" Matthew 16:28 — \"There are some standing here who will not taste death until they see the Son of Man coming in his kingdom.\" Specific deadlines. Both passed without fulfillment.",
     "raw_text": "**What it actually says: **Mark 13:30 — \"Truly I tell you, this generation will not pass away until all these things take place.\" Matthew 16:28 — \"There are some standing here who will not taste death until they see the Son of Man coming in his kingdom.\" Specific deadlines. Both passed without fulfillment.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11092,14 +11092,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9741de6d4409628d07d2",
     "text": "Why it matters: These are not metaphors. They are specific temporal claims. The early church expected the end imminently. John's Gospel (written later) shifts to a present-mystical framework precisely because these deadlines failed.",
     "raw_text": "**Why it matters: **These are not metaphors. They are specific temporal claims. The early church expected the end imminently. John's Gospel (written later) shifts to a present-mystical framework precisely because these deadlines failed.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11123,14 +11123,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9d955f51a243c94e76f9",
     "text": "Reference: Mark 13:24-30; Matthew 16:27-28; compare John 5:24 for the theological revision.",
     "raw_text": "**Reference: **Mark 13:24-30; Matthew 16:27-28; compare John 5:24 for the theological revision.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11154,14 +11154,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15a22eca597c3819a1e0",
     "text": "Commonly used for: Christian submission to government authority — \"governing authorities are God-ordained.\"",
     "raw_text": "**Commonly used for: **Christian submission to government authority — \"governing authorities are God-ordained.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11185,14 +11185,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91e24e66db127110ec29",
     "text": "Actual context: Written under Nero. Used for centuries to justify slavery, colonial rule, apartheid, and political authoritarianism. Also used by the Nazi German church to justify submission to Hitler. The same verse was quoted to tell enslaved people to obey their masters.",
     "raw_text": "**Actual context: **Written under Nero. Used for centuries to justify slavery, colonial rule, apartheid, and political authoritarianism. Also used by the Nazi German church to justify submission to Hitler. The same verse was quoted to tell enslaved people to obey their masters.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11216,14 +11216,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ee071abbb245574786d2",
     "text": "The contradiction: Peter and the apostles in Acts 5:29 say \"We must obey God rather than men\" — directly opposing submission to authority when it conflicts with conscience. Which verse governs?",
     "raw_text": "**The contradiction: **Peter and the apostles in Acts 5:29 say \"We must obey God rather than men\" — directly opposing submission to authority when it conflicts with conscience. Which verse governs?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11247,14 +11247,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3de5505f9b9a22ddfb5b",
     "text": "Reference: Romans 13:1-7; Acts 5:27-29.",
     "raw_text": "**Reference: **Romans 13:1-7; Acts 5:27-29.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11278,14 +11278,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_115f7c2e66aafb160f3e",
     "text": "The contradiction: Galatians 3:28 — \"There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus.\" Colossians 3:22 and Ephesians 6:5 — \"Slaves, obey your earthly masters.\" These cannot both be governing moral principles simultaneously.",
     "raw_text": "**The contradiction: **Galatians 3:28 — \"There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus.\" Colossians 3:22 and Ephesians 6:5 — \"Slaves, obey your earthly masters.\" These cannot both be governing moral principles simultaneously.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11309,14 +11309,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fbf6fe716f6cbdc01d9a",
     "text": "The scholarly note: Galatians is undisputed Paul. Colossians and Ephesians are disputed — most critical scholars classify them as deutero-Pauline (written after Paul's death in Paul's name). This makes the contradiction starker: the real Paul vs. someone writing in Paul's name.",
     "raw_text": "**The scholarly note: **Galatians is undisputed Paul. Colossians and Ephesians are disputed — most critical scholars classify them as deutero-Pauline (written after Paul's death in Paul's name). This makes the contradiction starker: the real Paul vs. someone writing in Paul's name.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11340,14 +11340,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3f7ca1551834b7f197c1",
     "text": "Why it matters: This is the structural contradiction that made the Bible usable for both slavery's justification and its resistance. Both sides were reading actual scripture.",
     "raw_text": "**Why it matters: **This is the structural contradiction that made the Bible usable for both slavery's justification and its resistance. Both sides were reading actual scripture.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11371,14 +11371,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b8409d1d30ed3f9c713c",
     "text": "Reference: Galatians 3:26-29; Colossians 3:18-25; Ephesians 6:1-9.",
     "raw_text": "**Reference: **Galatians 3:26-29; Colossians 3:18-25; Ephesians 6:1-9.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11402,14 +11402,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2e39611947a1433c76e3",
     "text": "Commonly used for: \"No one comes to the Father except through me\" — exclusive salvation claim, Christianity as the only valid path.",
     "raw_text": "**Commonly used for: **\"No one comes to the Father except through me\" — exclusive salvation claim, Christianity as the only valid path.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11433,14 +11433,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd9f3bafffcdef6d4cd8",
     "text": "Actual context: Appears only in John — the latest Gospel (~90-100 CE), written 60+ years after Jesus died. Zero equivalent in Mark, the earliest Gospel. The exclusivity of the claim escalates across the Gospels as theology develops. Jesus in John speaks very differently than in the Synoptics — long theological monologues, explicit divine claims — because John's community has already concluded Jesus is God and is constructing the argument backward.",
     "raw_text": "**Actual context: **Appears only in John — the latest Gospel (~90-100 CE), written 60+ years after Jesus died. Zero equivalent in Mark, the earliest Gospel. The exclusivity of the claim escalates across the Gospels as theology develops. Jesus in John speaks very differently than in the Synoptics — long theological monologues, explicit divine claims — because John's community has already concluded Jesus is God and is constructing the argument backward.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11464,14 +11464,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_091afa08916cc5a1ce59",
     "text": "Reference: John 14:1-14. Compare to Mark's Jesus for the tonal difference.",
     "raw_text": "**Reference: **John 14:1-14. Compare to Mark's Jesus for the tonal difference.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11495,14 +11495,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_41a026aa105d1315cb4f",
     "text": "Commonly used for: Characterizing opposition to Jesus as satanic.",
     "raw_text": "**Commonly used for: **Characterizing opposition to Jesus as satanic.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11526,14 +11526,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f15762bd50c5a4ac943a",
     "text": "Actual context: Jesus says to Jewish leaders: \"You are of your father the devil.\" Written after John's community was expelled from synagogues — the word \"aposynagogos\" (expelled from synagogue) appears only in John. The social wound of that expulsion is embedded in the text. This is a wounded community's anger written into Jesus's mouth, then used for centuries as theological justification for Christian antisemitism, pogroms, and the cultural conditions enabling the Holocaust.",
     "raw_text": "**Actual context: **Jesus says to Jewish leaders: \"You are of your father the devil.\" Written after John's community was expelled from synagogues — the word \"aposynagogos\" (expelled from synagogue) appears only in John. The social wound of that expulsion is embedded in the text. This is a wounded community's anger written into Jesus's mouth, then used for centuries as theological justification for Christian antisemitism, pogroms, and the cultural conditions enabling the Holocaust.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11557,14 +11557,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e88229201d407ebe48dd",
     "text": "Reference: John 8:31-59. Note who John identifies as \"the Jews\" throughout the Gospel — a category treated as separate from and opposed to Jesus, despite Jesus being Jewish.",
     "raw_text": "**Reference: **John 8:31-59. Note who John identifies as \"the Jews\" throughout the Gospel — a category treated as separate from and opposed to Jesus, despite Jesus being Jewish.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11588,14 +11588,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_67405b7cc1266dba7b3c",
     "text": "Commonly used for: \"Do not lean on your own understanding\" — to shut down critical thinking or questioning of the Bible.",
     "raw_text": "**Commonly used for: **\"Do not lean on your own understanding\" — to shut down critical thinking or questioning of the Bible.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11619,14 +11619,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3b17a0e0a4d01ae39e7e",
     "text": "Actual context: Wisdom literature about personal humility and trust in God in life decisions. Not an epistemological claim about biblical criticism. The surrounding verses are about honoring God with wealth and accepting discipline.",
     "raw_text": "**Actual context: **Wisdom literature about personal humility and trust in God in life decisions. Not an epistemological claim about biblical criticism. The surrounding verses are about honoring God with wealth and accepting discipline.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11650,14 +11650,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_53455859c7bac47e272b",
     "text": "The self-defeating use: Every reading of this verse requires the reader's own understanding to interpret and apply it. The person using it to silence critics is doing so via their own interpretive judgment — the very thing they claim the verse prohibits. See Section 10.",
     "raw_text": "**The self-defeating use: **Every reading of this verse requires the reader's own understanding to interpret and apply it. The person using it to silence critics is doing so via their own interpretive judgment — the very thing they claim the verse prohibits. See Section 10.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11681,14 +11681,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_559a03fb3df41de3d16a",
     "text": "Reference: Proverbs 3:1-12.",
     "raw_text": "**Reference: **Proverbs 3:1-12.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11712,14 +11712,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2602c6a9d19f163c679f",
     "text": "Commonly used for: Social justice preaching — MLK quoted verse 24 at the March on Washington.",
     "raw_text": "**Commonly used for: **Social justice preaching — MLK quoted verse 24 at the March on Washington.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11743,14 +11743,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_757868bbfd5d2a1df1d1",
     "text": "What it actually says: God \"hates and despises\" Israel's feasts, takes no delight in assemblies, won't accept offerings, won't listen to worship music. What God wants instead: \"let justice roll down like waters, and righteousness like an ever-flowing stream.\"",
     "raw_text": "**What it actually says: **God \"hates and despises\" Israel's feasts, takes no delight in assemblies, won't accept offerings, won't listen to worship music. What God wants instead: \"let justice roll down like waters, and righteousness like an ever-flowing stream.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11774,14 +11774,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b57c5a5cdcc5e71753c0",
     "text": "Why it matters: Directly contradicts the elaborate ritual worship requirements in Exodus and Leviticus. God rejecting the very worship system the law commands is a significant internal tension the text itself does not resolve.",
     "raw_text": "**Why it matters: **Directly contradicts the elaborate ritual worship requirements in Exodus and Leviticus. God rejecting the very worship system the law commands is a significant internal tension the text itself does not resolve.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11805,14 +11805,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_70b76a416f554c345452",
     "text": "Reference: Amos 5:18-27.",
     "raw_text": "**Reference: **Amos 5:18-27.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11836,14 +11836,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_98b7f74c03d1327ba4d5",
     "text": "Commonly used for: The most concise ethical statement in the Old Testament.",
     "raw_text": "**Commonly used for: **The most concise ethical statement in the Old Testament.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11867,14 +11867,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6ea594d790f097d374cd",
     "text": "What it says: \"What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?\" Not sacrifice, not temple attendance, not tithing, not circumcision — just justice, kindness, humility.",
     "raw_text": "**What it says: **\"What does the Lord require of you but to do justice, and to love kindness, and to walk humbly with your God?\" Not sacrifice, not temple attendance, not tithing, not circumcision — just justice, kindness, humility.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11898,14 +11898,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc1e07b9fe2d297b0c90",
     "text": "Why it matters: Directly contradicts the elaborate ritual requirements in Exodus/Leviticus. If Micah is right, the entire sacrificial and purity system is not what God requires. If Exodus/Leviticus are right, Micah's summary is dangerously incomplete. The Bible does not resolve this.",
     "raw_text": "**Why it matters: **Directly contradicts the elaborate ritual requirements in Exodus/Leviticus. If Micah is right, the entire sacrificial and purity system is not what God requires. If Exodus/Leviticus are right, Micah's summary is dangerously incomplete. The Bible does not resolve this.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11929,14 +11929,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3c3905467ad703d1ac36",
     "text": "Reference: Micah 6:1-8.",
     "raw_text": "**Reference: **Micah 6:1-8.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11960,14 +11960,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_423712e80db3e0db30b1",
     "text": "Commonly used for: Deflecting moral objections to God's actions — genocide, slavery, eternal damnation. \"His ways are higher than our ways — we cannot understand.\"",
     "raw_text": "**Commonly used for: **Deflecting moral objections to God's actions — genocide, slavery, eternal damnation. \"His ways are higher than our ways — we cannot understand.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -11991,14 +11991,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dca94684119381b0b3bb",
     "text": "The problem: If God's moral reasoning is entirely inaccessible to human understanding, no moral claim about God can be made — including that he is good. The verse destroys the argument it is supposed to support. You cannot say God is good and simultaneously say his goodness is beyond human comprehension. Goodness requires content we can understand well enough to recognize it.",
     "raw_text": "**The problem: **If God's moral reasoning is entirely inaccessible to human understanding, no moral claim about God can be made — including that he is good. The verse destroys the argument it is supposed to support. You cannot say God is good and simultaneously say his goodness is beyond human comprehension. Goodness requires content we can understand well enough to recognize it.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12022,14 +12022,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_615f4007dbf305f1af21",
     "text": "Reference: Isaiah 55:6-13.",
     "raw_text": "**Reference: **Isaiah 55:6-13.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12053,14 +12053,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_faf0b03dc0f9ea1e2717",
     "text": "Commonly used for: Rescuing the historicity of Numbers' wilderness census — over 600,000 fighting men, implying a total population past two million, in a desert that shows no archaeological trace of that population.",
     "raw_text": "**Commonly used for: **Rescuing the historicity of Numbers' wilderness census — over 600,000 fighting men, implying a total population past two million, in a desert that shows no archaeological trace of that population.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12084,14 +12084,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ebceaf041f353985e9d1",
     "text": "The argument: Eleph, the Hebrew word usually read as \"thousand,\" is read instead as \"clan\" or \"military unit,\" scaling the total down to a demographically plausible figure. [CONSERVATIVE-EVANGELICAL] apologetics — Associates for Biblical Research; Hoffmeier (2005: 153–59) — treats this as resolving the number.",
     "raw_text": "**The argument: ***Eleph*, the Hebrew word usually read as \"thousand,\" is read instead as \"clan\" or \"military unit,\" scaling the total down to a demographically plausible figure. [CONSERVATIVE-EVANGELICAL] apologetics — Associates for Biblical Research; Hoffmeier (2005: 153–59) — treats this as resolving the number.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12115,14 +12115,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6ad0276937a9f4703ea0",
     "text": "The problem: Scholars applying the same eleph-as-unit method to the same text disagree with each other by an order of magnitude, landing anywhere from about 5,550 to 72,000. A method that swings that wide isn't fixing the number — it's relocating the uncertainty.",
     "raw_text": "**The problem: **Scholars applying the same *eleph*-as-unit method to the same text disagree with each other by an order of magnitude, landing anywhere from about 5,550 to 72,000. A method that swings that wide isn't fixing the number — it's relocating the uncertainty.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12146,14 +12146,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5a6b484515f055e0783d",
     "text": "Better response: Don't contest the eleph philology — it's a real semantic question, just not a solution. Treat the totals as literary/theological, and ask what the text is doing by reporting 600,000 fighting men, plus women, children, and livestock, in a desert that shows no trace of them.",
     "raw_text": "**Better response: **Don't contest the *eleph* philology — it's a real semantic question, just not a solution. Treat the totals as literary/theological, and ask what the text is doing by reporting 600,000 fighting men, plus women, children, and livestock, in a desert that shows no trace of them.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12177,14 +12177,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7a94cd8cd615b9625247",
     "text": "Reference: Numbers 1, 26. Full citation trail in Study Notes' eleph audit, §1.8.",
     "raw_text": "**Reference: **Numbers 1, 26. Full citation trail in Study Notes' *eleph* audit, §1.8.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12208,14 +12208,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_74832b7138f9863d005f",
     "text": "First fact: The word \"Trinity\" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.",
     "raw_text": "**First fact: **The word \"Trinity\" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12238,14 +12238,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4678373f6b4d61ee2297",
     "text": "Texts used to support unity/co-equality:",
     "raw_text": "**Texts used to support unity/co-equality:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12269,14 +12269,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6aeb8d2a75cfe47791fd",
     "text": "•  John 10:30 — \"I and the Father are one\"",
     "raw_text": "•  John 10:30 — \"I and the Father are one\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12300,14 +12300,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_368b8875c382b8ed1af3",
     "text": "•  John 1:1 — \"the Word was God\"",
     "raw_text": "•  John 1:1 — \"the Word was God\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12331,14 +12331,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6b8f4ffc02f96cbc06a2",
     "text": "•  John 14:9 — \"Whoever has seen me has seen the Father\"",
     "raw_text": "•  John 14:9 — \"Whoever has seen me has seen the Father\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12362,14 +12362,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e6d7cc940cd025ca814",
     "text": "Texts that support distinction and subordination — the problem:",
     "raw_text": "**Texts that support distinction and subordination — the problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12393,14 +12393,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_25cd06f1abe82fb03c2d",
     "text": "•  Mark 13:32 — Jesus says about the end times: \"not even the Son\" knows the day or hour, only the Father. If Jesus is fully God and God is omniscient, how does a person of the Godhead not know something the Father knows?",
     "raw_text": "•  Mark 13:32 — Jesus says about the end times: \"not even the Son\" knows the day or hour, only the Father. If Jesus is fully God and God is omniscient, how does a person of the Godhead not know something the Father knows?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12424,14 +12424,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fb39aeb701d9423b6f95",
     "text": "•  John 14:28 — \"the Father is greater than I\"",
     "raw_text": "•  John 14:28 — \"the Father is greater than I\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12455,14 +12455,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cebac89b5a22c7676262",
     "text": "•  Mark 15:34 — on the cross: \"My God, my God, why have you forsaken me?\" God calling out to God. God abandoning God.",
     "raw_text": "•  Mark 15:34 — on the cross: \"My God, my God, why have you forsaken me?\" God calling out to God. God abandoning God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12486,14 +12486,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_aa2301a219d0507cb35f",
     "text": "•  John 17:3 — Jesus refers to the Father as \"the only true God\" and himself as someone the Father sent — distinction, not identity.",
     "raw_text": "•  John 17:3 — Jesus refers to the Father as \"the only true God\" and himself as someone the Father sent — distinction, not identity.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12517,14 +12517,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_367146a540d5a0dfbbbf",
     "text": "•  1 Corinthians 15:28 — after the end, \"the Son himself will also be subjected to him who put all things in subjection under him.\" Eternal subordination of the Son to the Father — even after everything is complete.",
     "raw_text": "•  1 Corinthians 15:28 — after the end, \"the Son himself will also be subjected to him who put all things in subjection under him.\" Eternal subordination of the Son to the Father — even after everything is complete.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12548,14 +12548,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c3bcf2b4b552d3087710",
     "text": "•  Mark 10:18 — \"Why do you call me good? No one is good except God alone.\" Jesus distinguishes himself from God.",
     "raw_text": "•  Mark 10:18 — \"Why do you call me good? No one is good except God alone.\" Jesus distinguishes himself from God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12579,14 +12579,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ce198d76ed8bcffff1a9",
     "text": "The texts that produce the Trinity and the texts that undermine it are in the same book. The doctrine is an attempt to hold them together without resolving them.",
     "raw_text": "The texts that produce the Trinity and the texts that undermine it are in the same book. The doctrine is an attempt to hold them together without resolving them.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12610,14 +12610,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_05b5b23585edccddd8b5",
     "text": "Before Nicaea there was no settled doctrine. Multiple positions were held by sincere Christians reading the same texts for nearly 300 years.",
     "raw_text": "Before Nicaea there was no settled doctrine. Multiple positions were held by sincere Christians reading the same texts for nearly 300 years.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12641,14 +12641,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_07696f0a61919321aa10",
     "text": "Adoptionism:",
     "raw_text": "**Adoptionism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12672,14 +12672,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cbc1beb29eeaea03c142",
     "text": "•  Jesus was a human who became God's son at his baptism or resurrection. Supported structurally by Mark's Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent.",
     "raw_text": "•  Jesus was a human who became God's son at his baptism or resurrection. Supported structurally by Mark's Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12703,14 +12703,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0fa8d99b1a818c665b3a",
     "text": "Arianism:",
     "raw_text": "**Arianism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12734,14 +12734,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5fe280fed43ca65a9af0",
     "text": "•  Jesus is the first and greatest creation of God — divine but subordinate, not co-equal and not co-eternal. Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually.",
     "raw_text": "•  Jesus is the first and greatest creation of God — divine but subordinate, not co-equal and not co-eternal. Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12765,14 +12765,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2866373e3d24a515e7d7",
     "text": "Modalism / Sabellianism:",
     "raw_text": "**Modalism / Sabellianism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12796,14 +12796,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a272c274ee836873840d",
     "text": "•  Father, Son, and Spirit are not three distinct persons but three modes or faces of the same God — like water, ice, and steam. Declared heresy. But most people explaining the Trinity to each other accidentally describe modalism.",
     "raw_text": "•  Father, Son, and Spirit are not three distinct persons but three modes or faces of the same God — like water, ice, and steam. Declared heresy. But most people explaining the Trinity to each other accidentally describe modalism.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12827,14 +12827,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_95ee3993431f43cab784",
     "text": "Full Trinitarianism:",
     "raw_text": "**Full Trinitarianism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12858,14 +12858,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fa24f1e782bccbae43d3",
     "text": "•  Three co-equal, co-eternal, co-substantial persons in one God. This won at Nicaea — by a vote, under political pressure from Constantine.",
     "raw_text": "•  Three co-equal, co-eternal, co-substantial persons in one God. This won at Nicaea — by a vote, under political pressure from Constantine.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12889,14 +12889,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_49641628106ec8da712b",
     "text": "All of these were live Christian options for 300 years. The doctrine that won is not self-evident from the text.",
     "raw_text": "All of these were live Christian options for 300 years. The doctrine that won is not self-evident from the text.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12920,14 +12920,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_daef18d69d2bebfd9e92",
     "text": "•  Emperor Constantine — not a theologian, a political leader — called the council in 325 CE primarily to unify a fracturing empire. The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned.",
     "raw_text": "•  Emperor Constantine — not a theologian, a political leader — called the council in 325 CE primarily to unify a fracturing empire. The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12951,14 +12951,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e9a3f423c5bdf667bcd3",
     "text": "•  The key word in the Nicene formula — \"homoousios\" (same substance) — is not in the Bible. It is a Greek philosophical term. The Trinity doctrine is formally articulated using categories the Hebrew authors of the Old Testament did not use and would not have recognized.",
     "raw_text": "•  The key word in the Nicene formula — \"homoousios\" (same substance) — is not in the Bible. It is a Greek philosophical term. The Trinity doctrine is formally articulated using categories the Hebrew authors of the Old Testament did not use and would not have recognized.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -12982,14 +12982,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_04e2dd5d84a5c0d2c318",
     "text": "•  The Holy Spirit was not formally added to the Trinity formula until the Council of Constantinople in 381 CE. The full doctrine took 56 years after Nicaea to finalize.",
     "raw_text": "•  The Holy Spirit was not formally added to the Trinity formula until the Council of Constantinople in 381 CE. The full doctrine took 56 years after Nicaea to finalize.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13013,14 +13013,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_27c6f4e18be38c1d53a9",
     "text": "The prayer problem:",
     "raw_text": "**The prayer problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13044,14 +13044,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_997433c6a136b5d198f3",
     "text": "•  If Jesus is God, who is he praying to in Gethsemane? God praying to himself requires either genuine distinction between persons — pushing toward three Gods (tritheism) — or prayer as performance with no real addressee.",
     "raw_text": "•  If Jesus is God, who is he praying to in Gethsemane? God praying to himself requires either genuine distinction between persons — pushing toward three Gods (tritheism) — or prayer as performance with no real addressee.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13075,14 +13075,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_12069c8b3d5834c411f8",
     "text": "The death problem:",
     "raw_text": "**The death problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13106,14 +13106,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e315d65b3b41fc434fde",
     "text": "•  God by definition cannot die. If only Jesus's human nature died on the cross, humanity's debt was paid by a man, not God — which undermines the atonement logic. If God died, that requires explaining how an eternal omnipotent being ceased to exist for three days.",
     "raw_text": "•  God by definition cannot die. If only Jesus's human nature died on the cross, humanity's debt was paid by a man, not God — which undermines the atonement logic. If God died, that requires explaining how an eternal omnipotent being ceased to exist for three days.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13137,14 +13137,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f544fa11778b46b7871e",
     "text": "The knowledge problem:",
     "raw_text": "**The knowledge problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13168,14 +13168,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_545c1ac497d005e0d75c",
     "text": "•  Mark 13:32 — if Jesus is fully God and fully omniscient, his not knowing the day or hour is incoherent. The theological patch is that Jesus \"set aside\" divine attributes during the incarnation — but a God who can be less than fully God creates new problems.",
     "raw_text": "•  Mark 13:32 — if Jesus is fully God and fully omniscient, his not knowing the day or hour is incoherent. The theological patch is that Jesus \"set aside\" divine attributes during the incarnation — but a God who can be less than fully God creates new problems.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13199,14 +13199,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cf34702f09a34d011f6f",
     "text": "The forsaken problem:",
     "raw_text": "**The forsaken problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13230,14 +13230,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_50aef1a041e514729da9",
     "text": "•  God abandoning God is incoherent under any strict unity model. The Trinity requires enough distinction that genuine abandonment is possible — but enough unity that they are one God. Holding both is what makes the doctrine require the word \"mystery.\"",
     "raw_text": "•  God abandoning God is incoherent under any strict unity model. The Trinity requires enough distinction that genuine abandonment is possible — but enough unity that they are one God. Holding both is what makes the doctrine require the word \"mystery.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13261,14 +13261,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3665457e6ec716f0df22",
     "text": "The heresy trap:",
     "raw_text": "**The heresy trap:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13292,14 +13292,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_84f2aa7de6743a0d32ad",
     "text": "•  \"Three roles\" = modalism (heresy). \"Father is greater\" = Arianism (heresy). Every common analogy for the Trinity slides into a declared heresy. The doctrine is structured so any attempt to make it intelligible makes it wrong.",
     "raw_text": "•  \"Three roles\" = modalism (heresy). \"Father is greater\" = Arianism (heresy). Every common analogy for the Trinity slides into a declared heresy. The doctrine is structured so any attempt to make it intelligible makes it wrong.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13323,14 +13323,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c132efb5bfc006666593",
     "text": "•  Track it across the Gospels. In Mark — earliest — Jesus is fully human, surprised by things, asks questions. No birth narrative. In John — latest, 60+ years after Jesus died — \"In the beginning was the Word, and the Word was with God, and the Word was God.\"",
     "raw_text": "•  Track it across the Gospels. In Mark — earliest — Jesus is fully human, surprised by things, asks questions. No birth narrative. In John — latest, 60+ years after Jesus died — \"In the beginning was the Word, and the Word was with God, and the Word was God.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13354,14 +13354,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_36001cb6eee781b59827",
     "text": "•  John 1:1 deliberately echoes Genesis 1:1. The Logos concept in John comes directly from Stoic and Platonic Greek philosophy — the divine rational principle underlying the cosmos. The author takes that Greek philosophical category and identifies it with Jesus.",
     "raw_text": "•  John 1:1 deliberately echoes Genesis 1:1. The Logos concept in John comes directly from Stoic and Platonic Greek philosophy — the divine rational principle underlying the cosmos. The author takes that Greek philosophical category and identifies it with Jesus.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13385,14 +13385,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7cb576f245130d934731",
     "text": "•  This is Hellenistic philosophy applied to a Jewish prophet. The Hebrew authors of the Old Testament did not think in these categories.",
     "raw_text": "•  This is Hellenistic philosophy applied to a Jewish prophet. The Hebrew authors of the Old Testament did not think in these categories.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13416,14 +13416,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_734d71c8ebb8babf1893",
     "text": "•  The divine identity is the endpoint of a 60-year theological development, not the starting point.",
     "raw_text": "•  The divine identity is the endpoint of a 60-year theological development, not the starting point.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13447,14 +13447,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a75d0320f18216f133ad",
     "text": "Key references:",
     "raw_text": "**Key references:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13478,14 +13478,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_72430497db1025148278",
     "text": "•  Mark 13:32; Mark 10:18; Mark 15:34 — subordination and distinction",
     "raw_text": "•  Mark 13:32; Mark 10:18; Mark 15:34 — subordination and distinction",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13509,14 +13509,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3bbeae0b1ddf3c163019",
     "text": "•  John 1:1-18 — the Logos hymn and maximum divine claim",
     "raw_text": "•  John 1:1-18 — the Logos hymn and maximum divine claim",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13540,14 +13540,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de4602b2bdb6ff295725",
     "text": "•  John 14:28; John 17:3 — Jesus distinguishing himself from the Father",
     "raw_text": "•  John 14:28; John 17:3 — Jesus distinguishing himself from the Father",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13571,14 +13571,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2e6093ac93cc279ca58f",
     "text": "•  1 Corinthians 15:24-28 — eternal subordination of the Son",
     "raw_text": "•  1 Corinthians 15:24-28 — eternal subordination of the Son",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13602,14 +13602,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b3dafb24038bba173629",
     "text": "•  Philippians 2:5-11 — the kenosis passage, Jesus \"emptying\" himself of divine attributes",
     "raw_text": "•  Philippians 2:5-11 — the kenosis passage, Jesus \"emptying\" himself of divine attributes",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13633,14 +13633,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c3e920b1b04a817f4fd",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13664,14 +13664,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5993414df4d192a9f320",
     "text": "•  Ehrman, Bart D. How Jesus Became God (2014) — full historical development.",
     "raw_text": "•  Ehrman, Bart D. How Jesus Became God (2014) — full historical development.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13695,14 +13695,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_22806b8a2bc333cd37f6",
     "text": "•  Dunn, James D.G. Christology in the Making (1980) — careful tracing across NT.",
     "raw_text": "•  Dunn, James D.G. Christology in the Making (1980) — careful tracing across NT.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13726,14 +13726,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c4bd72d9482947b5829a",
     "text": "•  Freeman, Charles. AD 381 (2008) — Constantinople and political finalization.",
     "raw_text": "•  Freeman, Charles. AD 381 (2008) — Constantinople and political finalization.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13757,14 +13757,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0501f4747d561e94b3d5",
     "text": "Sources — defending:",
     "raw_text": "**Sources — defending:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13788,14 +13788,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7d5ae904bb9c9d16bacf",
     "text": "•  Athanasius. On the Incarnation (4th century CE) — original defense of Nicene position.",
     "raw_text": "•  Athanasius. On the Incarnation (4th century CE) — original defense of Nicene position.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13819,14 +13819,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_462277701bc29cb7cf18",
     "text": "•  Bauckham, Richard. Jesus and the God of Israel (2008) — argues early high Christology is consistent with Jewish monotheism.",
     "raw_text": "•  Bauckham, Richard. Jesus and the God of Israel (2008) — argues early high Christology is consistent with Jewish monotheism.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13850,14 +13850,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_85283d699a8033fad183",
     "text": "•  Letham, Robert. The Holy Trinity (2004) — thorough Reformed theological defense.",
     "raw_text": "•  Letham, Robert. The Holy Trinity (2004) — thorough Reformed theological defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13881,14 +13881,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7c9bda1e20bb15d5986b",
     "text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
     "raw_text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13911,14 +13911,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_afdf05479f15eec1ddbf",
     "text": "The verse behind it: Hebrews 11:1 — \"Faith is the substance of things hoped for, the evidence of things not seen.\"",
     "raw_text": "**The verse behind it: **Hebrews 11:1 — \"Faith is the substance of things hoped for, the evidence of things not seen.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13942,14 +13942,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_51181e77840f1ba86335",
     "text": "What it is doing: Redefining \"evidence\" to mean belief itself, then presenting that redefinition as a response to the request for evidence. Also implicitly conceding that empirical evidence does not exist or is not required.",
     "raw_text": "**What it is doing: **Redefining \"evidence\" to mean belief itself, then presenting that redefinition as a response to the request for evidence. Also implicitly conceding that empirical evidence does not exist or is not required.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -13973,14 +13973,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f96089c14c36502d238a",
     "text": "The problem:",
     "raw_text": "**The problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14004,14 +14004,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7954f3070f7b31e3c624",
     "text": "•  If faith not requiring evidence is a virtue, then any belief held without evidence is equally virtuous — including false beliefs. The framework cannot distinguish between true and false claims.",
     "raw_text": "•  If faith not requiring evidence is a virtue, then any belief held without evidence is equally virtuous — including false beliefs. The framework cannot distinguish between true and false claims.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14035,14 +14035,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8f25f774a83868bace48",
     "text": "•  When believers make claims in the empirical world — \"God healed my aunt,\" \"prayer works,\" \"God answers prayers\" — they are making empirical claims. Those claims require empirical evidence. You cannot make empirical claims and then retreat to \"faith doesn't require evidence\" when asked to verify them.",
     "raw_text": "•  When believers make claims in the empirical world — \"God healed my aunt,\" \"prayer works,\" \"God answers prayers\" — they are making empirical claims. Those claims require empirical evidence. You cannot make empirical claims and then retreat to \"faith doesn't require evidence\" when asked to verify them.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14066,14 +14066,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c8a2b25a9f86c941c75e",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14097,14 +14097,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_32b49b7025efd1d036ae",
     "text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
     "raw_text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14128,14 +14128,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8a9f8035cfc2eb5e2823",
     "text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true.\"",
     "raw_text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14159,14 +14159,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5481bb6423ab212966bc",
     "text": "What it is: Subjective testimony offered as empirical evidence for divine existence or action.",
     "raw_text": "**What it is: **Subjective testimony offered as empirical evidence for divine existence or action.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14190,14 +14190,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f0e83cfc2acdc4628adc",
     "text": "Why it fails as evidence: Personal experience is not falsifiable, not reproducible, cannot be independently verified, and cannot distinguish between divine and non-divine causes. The same type of experience is reported across every religion — including mutually exclusive ones. Muslims, Hindus, Buddhists, and Pentecostals all report powerful subjective encounters with the divine. They cannot all be right about what the experience means.",
     "raw_text": "**Why it fails as evidence: **Personal experience is not falsifiable, not reproducible, cannot be independently verified, and cannot distinguish between divine and non-divine causes. The same type of experience is reported across every religion — including mutually exclusive ones. Muslims, Hindus, Buddhists, and Pentecostals all report powerful subjective encounters with the divine. They cannot all be right about what the experience means.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14221,14 +14221,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fada9e043b87446ae5cf",
     "text": "The Epley problem:",
     "raw_text": "**The Epley problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14252,14 +14252,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_039345dc310be2880a08",
     "text": "•  Research shows that believers' sense of what God is saying tracks their own preferences via unconscious projection (Epley et al., PNAS 2009). The experience of divine communication is empirically indistinguishable from the experience of one's own preferences felt strongly.",
     "raw_text": "•  Research shows that believers' sense of what God is saying tracks their own preferences via unconscious projection (Epley et al., PNAS 2009). The experience of divine communication is empirically indistinguishable from the experience of one's own preferences felt strongly.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14283,14 +14283,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_51744de4b952be506b4a",
     "text": "The neurological problem:",
     "raw_text": "**The neurological problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14314,14 +14314,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_10f00b524b0db600d2a9",
     "text": "•  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.",
     "raw_text": "•  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14345,14 +14345,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a688315dc437dbff37d4",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14376,14 +14376,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1ee524da9fc07b5a8b11",
     "text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
     "raw_text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14407,14 +14407,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2500c41bf824f4020c5f",
     "text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
     "raw_text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14438,14 +14438,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_60509e6f018cec4247ee",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14469,14 +14469,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e20a62c52347b659619d",
     "text": "•  Persinger, Michael. Neuropsychological Bases of God Beliefs (1987) — temporal lobe stimulation and religious experience.",
     "raw_text": "•  Persinger, Michael. Neuropsychological Bases of God Beliefs (1987) — temporal lobe stimulation and religious experience.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14500,14 +14500,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5ad868975f4d90ccc6b2",
     "text": "•  Griffiths, Roland et al. \"Psilocybin can occasion mystical-type experiences.\" Psychopharmacology (2006) — Johns Hopkins psilocybin studies.",
     "raw_text": "•  Griffiths, Roland et al. \"Psilocybin can occasion mystical-type experiences.\" Psychopharmacology (2006) — Johns Hopkins psilocybin studies.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14531,14 +14531,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9722893de43fe1e75d61",
     "text": "•  Alston, William. Perceiving God (1991) — the strongest philosophical defense of religious experience as evidence.",
     "raw_text": "•  Alston, William. Perceiving God (1991) — the strongest philosophical defense of religious experience as evidence.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14562,14 +14562,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3b59e7bb0dd66c8ff65c",
     "text": "The cosmological argument (Kalam): Everything that begins to exist has a cause. The universe began to exist. Therefore the universe has a cause. That cause is God.",
     "raw_text": "**The cosmological argument (Kalam): **Everything that begins to exist has a cause. The universe began to exist. Therefore the universe has a cause. That cause is God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14593,14 +14593,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ee93f3bd972fbf2fe0a5",
     "text": "Problems:",
     "raw_text": "**Problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14624,14 +14624,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6945a10d4d982dcc7f49",
     "text": "•  \"Everything that begins to exist has a cause\" — quantum mechanics documents uncaused events at the subatomic level (radioactive decay, virtual particle pairs). The premise is empirically contested.",
     "raw_text": "•  \"Everything that begins to exist has a cause\" — quantum mechanics documents uncaused events at the subatomic level (radioactive decay, virtual particle pairs). The premise is empirically contested.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14655,14 +14655,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1817d15d6728715d7ead",
     "text": "•  Even if the universe had a cause, that cause being specifically the God of the Bible is a massive unargued leap. The argument supports \"some cause\" — not personhood, not morality, not the resurrection.",
     "raw_text": "•  Even if the universe had a cause, that cause being specifically the God of the Bible is a massive unargued leap. The argument supports \"some cause\" — not personhood, not morality, not the resurrection.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14686,14 +14686,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_87b662d9f30db0ff66b2",
     "text": "•  The standard counter: \"What caused God?\" The answer \"God is uncaused/eternal\" — if accepted — makes an uncaused eternal cause possible, which eliminates the need for God by allowing the universe itself to be uncaused or eternal.",
     "raw_text": "•  The standard counter: \"What caused God?\" The answer \"God is uncaused/eternal\" — if accepted — makes an uncaused eternal cause possible, which eliminates the need for God by allowing the universe itself to be uncaused or eternal.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14717,14 +14717,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0d0770ce2147dc627fc5",
     "text": "The fine-tuning / design argument: The universe's physical constants are precisely calibrated for life to exist. This cannot be coincidence. Therefore a designer exists.",
     "raw_text": "**The fine-tuning / design argument: **The universe's physical constants are precisely calibrated for life to exist. This cannot be coincidence. Therefore a designer exists.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14748,14 +14748,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f4dda4d53765e75d3c5e",
     "text": "Problems:",
     "raw_text": "**Problems:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14779,14 +14779,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_10adc917a45a667e491a",
     "text": "•  Selection bias: we observe a universe compatible with our existence because we exist in it. In any universe containing observers, the observers will find the universe compatible with their existence. No designer required.",
     "raw_text": "•  Selection bias: we observe a universe compatible with our existence because we exist in it. In any universe containing observers, the observers will find the universe compatible with their existence. No designer required.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14810,14 +14810,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8694141cbb439c56a72e",
     "text": "•  Multiverse hypothesis: if many universes exist with varying constants, the existence of one compatible with life is expected probability, not design.",
     "raw_text": "•  Multiverse hypothesis: if many universes exist with varying constants, the existence of one compatible with life is expected probability, not design.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14841,14 +14841,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f13c6c7525a64222fb11",
     "text": "•  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports \"a designer\" at most.",
     "raw_text": "•  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports \"a designer\" at most.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14872,14 +14872,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15bf29f572c0a543967b",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14903,14 +14903,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_beb7fcdc9016b7743b15",
     "text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
     "raw_text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14934,14 +14934,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5b181d8600acfc5a40d2",
     "text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
     "raw_text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14965,14 +14965,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4d57f5024ca79def83a7",
     "text": "Sources — defending:",
     "raw_text": "**Sources — defending:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -14996,14 +14996,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_eb4855a01cd091f7b52f",
     "text": "•  Craig, William Lane. The Kalam Cosmological Argument (1979).",
     "raw_text": "•  Craig, William Lane. The Kalam Cosmological Argument (1979).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15027,14 +15027,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_23c8b173113326576b60",
     "text": "•  Collins, Robin. \"The Teleological Argument\" in The Blackwell Companion to Natural Theology (2009).",
     "raw_text": "•  Collins, Robin. \"The Teleological Argument\" in The Blackwell Companion to Natural Theology (2009).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15058,14 +15058,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a8bcb5fd6420798030e4",
     "text": "Sources — against:",
     "raw_text": "**Sources — against:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15089,14 +15089,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_73c31661637a6cb89b0e",
     "text": "•  Mackie, J.L. The Miracle of Theism (1982) — rigorous critique of cosmological and design arguments.",
     "raw_text": "•  Mackie, J.L. The Miracle of Theism (1982) — rigorous critique of cosmological and design arguments.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15120,14 +15120,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a5a0db24e49ff2e2a289",
     "text": "•  Sobel, Jordan Howard. Logic and Theism (2004) — comprehensive philosophical analysis.",
     "raw_text": "•  Sobel, Jordan Howard. Logic and Theism (2004) — comprehensive philosophical analysis.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15151,14 +15151,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_66a69cc2d5f354b87a7c",
     "text": "•  Carroll, Sean. \"Why (Almost All) Cosmologists Are Atheists.\" Faith and Philosophy (2005).",
     "raw_text": "•  Carroll, Sean. \"Why (Almost All) Cosmologists Are Atheists.\" Faith and Philosophy (2005).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15182,14 +15182,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_db6903da8e32ba571278",
     "text": "What it is: Inserting God into gaps in current scientific knowledge. Consciousness, the origin of life, the fine-tuning of constants — \"science has no explanation, therefore God.\"",
     "raw_text": "**What it is: **Inserting God into gaps in current scientific knowledge. Consciousness, the origin of life, the fine-tuning of constants — \"science has no explanation, therefore God.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15213,14 +15213,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0db216a8cf0d411ebe08",
     "text": "The logical problem: Unexplained phenomena are not evidence for God. They are gaps in current knowledge. The history of science is a history of previously God-attributed phenomena receiving natural explanations — lightning, disease, epilepsy, the movement of planets. Inserting God into current gaps predicts that as knowledge expands, God retreats. This is not a stable position.",
     "raw_text": "**The logical problem: **Unexplained phenomena are not evidence for God. They are gaps in current knowledge. The history of science is a history of previously God-attributed phenomena receiving natural explanations — lightning, disease, epilepsy, the movement of planets. Inserting God into current gaps predicts that as knowledge expands, God retreats. This is not a stable position.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15244,14 +15244,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_362bd3bf23e589348d8f",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15275,14 +15275,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c4abab1a6506039b6dec",
     "text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
     "raw_text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15306,14 +15306,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_10a7bb6fccb70bf8bdaf",
     "text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
     "raw_text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15337,14 +15337,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6bc7a49c12515d8c00f3",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15368,14 +15368,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b6348a504c7fb667ee8d",
     "text": "•  Sagan, Carl. The Demon-Haunted World (1995) — science as a candle in the dark against God-of-gaps thinking.",
     "raw_text": "•  Sagan, Carl. The Demon-Haunted World (1995) — science as a candle in the dark against God-of-gaps thinking.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15399,14 +15399,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_64244dc7b86d414a4a23",
     "text": "•  Kitcher, Philip. Abusing Science: The Case Against Creationism (1982).",
     "raw_text": "•  Kitcher, Philip. Abusing Science: The Case Against Creationism (1982).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15430,14 +15430,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ce2e0c9d4bbdc456c6e8",
     "text": "The claim: The resurrection of Jesus is historically verified — the most attested miracle claim in history.",
     "raw_text": "**The claim: **The resurrection of Jesus is historically verified — the most attested miracle claim in history.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15461,14 +15461,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d0799a8d5ae403cc5709",
     "text": "The actual evidential situation: The sources for the resurrection are exclusively documents written by believers, decades after the event, in communities with theological agendas, contradicting each other on key details (who went to the tomb, what they saw, where the appearances occurred, what Jesus said). There are no contemporary secular accounts.",
     "raw_text": "**The actual evidential situation: **The sources for the resurrection are exclusively documents written by believers, decades after the event, in communities with theological agendas, contradicting each other on key details (who went to the tomb, what they saw, where the appearances occurred, what Jesus said). There are no contemporary secular accounts.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15492,14 +15492,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ec3b363707d2fb348904",
     "text": "The \"minimal facts\" approach (Habermas, Licona):",
     "raw_text": "**The ****\"****minimal facts****\"**** approach (Habermas, Licona):**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15523,14 +15523,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f6f7ef11c9be3bdc53a5",
     "text": "•  Argues that even skeptical historians accept: Jesus died by crucifixion, disciples believed they saw him risen, Paul and James converted after seeing the risen Jesus, the tomb was empty.",
     "raw_text": "•  Argues that even skeptical historians accept: Jesus died by crucifixion, disciples believed they saw him risen, Paul and James converted after seeing the risen Jesus, the tomb was empty.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15554,14 +15554,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_086dab376207eeaf0a7a",
     "text": "•  Counter: \"The disciples believed they saw him risen\" is a psychological fact about the disciples, not a physical fact about resurrection. People sincerely believe mistaken things. Vision experiences, grief experiences, and motivated reasoning are documented. The minimal facts establish sincere belief — not the event that produced the belief.",
     "raw_text": "•  Counter: \"The disciples believed they saw him risen\" is a psychological fact about the disciples, not a physical fact about resurrection. People sincerely believe mistaken things. Vision experiences, grief experiences, and motivated reasoning are documented. The minimal facts establish sincere belief — not the event that produced the belief.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15585,14 +15585,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f3e85ef04ccc43274314",
     "text": "The contradictions:",
     "raw_text": "**The contradictions:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15616,14 +15616,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_412bc9b629e52f1f5dc8",
     "text": "•  Mark (oldest) — women flee, say nothing to anyone, no appearances in original text.",
     "raw_text": "•  Mark (oldest) — women flee, say nothing to anyone, no appearances in original text.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15647,14 +15647,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5fea2bb34a79c1cf07e3",
     "text": "•  Matthew — appearances in Galilee.",
     "raw_text": "•  Matthew — appearances in Galilee.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15678,14 +15678,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7a9a648b2ec881aa093f",
     "text": "•  Luke — appearances in Jerusalem, disciples told to stay there.",
     "raw_text": "•  Luke — appearances in Jerusalem, disciples told to stay there.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15709,14 +15709,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_063fded0d3d328dd9c80",
     "text": "•  John — multiple Jerusalem appearances, then Galilee.",
     "raw_text": "•  John — multiple Jerusalem appearances, then Galilee.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15740,14 +15740,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1795350558498ad26c79",
     "text": "•  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.",
     "raw_text": "•  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15771,14 +15771,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_82bdb7e917fa052d41a7",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15802,14 +15802,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c7932bce5bf7a83aaa1b",
     "text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
     "raw_text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15833,14 +15833,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ae1e450b1c54a1397601",
     "text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
     "raw_text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15864,14 +15864,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e9155427368fbde0774a",
     "text": "Sources — defending resurrection:",
     "raw_text": "**Sources — defending resurrection:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15895,14 +15895,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_deb640c2920bff560bce",
     "text": "•  Habermas, Gary & Licona, Michael. The Case for the Resurrection of Jesus (2004).",
     "raw_text": "•  Habermas, Gary & Licona, Michael. The Case for the Resurrection of Jesus (2004).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15926,14 +15926,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_25e5a325a1b12f43a665",
     "text": "•  Wright, N.T. The Resurrection of the Son of God (2003) — most thorough scholarly defense.",
     "raw_text": "•  Wright, N.T. The Resurrection of the Son of God (2003) — most thorough scholarly defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15957,14 +15957,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a9e3f46210f0ab45969f",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -15988,14 +15988,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8d524ee8855be4ba014d",
     "text": "•  Ehrman, Bart D. Did Jesus Rise from the Dead? (debate transcript, various) and Jesus: Apocalyptic Prophet (1999).",
     "raw_text": "•  Ehrman, Bart D. Did Jesus Rise from the Dead? (debate transcript, various) and Jesus: Apocalyptic Prophet (1999).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16019,14 +16019,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_28c7eb36090ee78de60e",
     "text": "•  Ludemann, Gerd. The Resurrection of Jesus: History, Experience, Theology (1994).",
     "raw_text": "•  Ludemann, Gerd. The Resurrection of Jesus: History, Experience, Theology (1994).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16050,14 +16050,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d0069d9610b1914ae909",
     "text": "What it is: Pointing to the psychological and social benefits of religious belief as evidence of its truth.",
     "raw_text": "**What it is: **Pointing to the psychological and social benefits of religious belief as evidence of its truth.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16081,14 +16081,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9120536c3a1c52ffe609",
     "text": "The logical problem: This is evidence that belief is useful, not that it is true. Placebos produce measurable physical healing. Delusions can be stabilizing. The psychological utility of a belief says nothing about whether its claims correspond to reality.",
     "raw_text": "**The logical problem: **This is evidence that belief is useful, not that it is true. Placebos produce measurable physical healing. Delusions can be stabilizing. The psychological utility of a belief says nothing about whether its claims correspond to reality.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16112,14 +16112,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f6dfb8335c4890759bc2",
     "text": "•  Cults also produce changed lives, community, purpose, and meaning. This does not verify their claims.",
     "raw_text": "•  Cults also produce changed lives, community, purpose, and meaning. This does not verify their claims.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16143,14 +16143,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ae30b94157ab2df3d280",
     "text": "•  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.",
     "raw_text": "•  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16174,14 +16174,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a9da87824da676122f57",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16205,14 +16205,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3e710c02a067e87964c9",
     "text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
     "raw_text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16236,14 +16236,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_743646dbcf1fc2b2a247",
     "text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
     "raw_text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16267,14 +16267,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d55c104fe943e1a52956",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16298,14 +16298,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d4a772423776dafa6064",
     "text": "•  Hood, Ralph et al. The Psychology of Religion: An Empirical Approach (2009).",
     "raw_text": "•  Hood, Ralph et al. The Psychology of Religion: An Empirical Approach (2009).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16329,14 +16329,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bb14b2fa34b30771bff1",
     "text": "•  Zuckerman, Phil. Society Without God (2008) — secular people exhibit same wellbeing outcomes.",
     "raw_text": "•  Zuckerman, Phil. Society Without God (2008) — secular people exhibit same wellbeing outcomes.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16360,14 +16360,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_72769941778ea639eef3",
     "text": "The claim: \"You cannot use empirical tools to detect a non-empirical being. Demanding physical evidence is a category error.\"",
     "raw_text": "**The claim: **\"You cannot use empirical tools to detect a non-empirical being. Demanding physical evidence is a category error.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16391,14 +16391,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b56ebcceee59ea2903cf",
     "text": "Why this is self-defeating: If God's existence produces no detectable effects in the material world, then answered prayers, miraculous healings, divine providence, and the parting of the Red Sea are also impossible. You cannot claim God acts in the physical world and simultaneously claim God is undetectable by physical methods. Pick one.",
     "raw_text": "**Why this is self-defeating: **If God's existence produces no detectable effects in the material world, then answered prayers, miraculous healings, divine providence, and the parting of the Red Sea are also impossible. You cannot claim God acts in the physical world and simultaneously claim God is undetectable by physical methods. Pick one.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16422,14 +16422,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6ae3b3f00b71b9136e53",
     "text": "The unfalsifiability problem:",
     "raw_text": "**The unfalsifiability problem:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16453,14 +16453,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_333b1c7b246d8ecdfee4",
     "text": "•  A claim that is compatible with any possible evidence — including the total absence of evidence — is not making a claim about reality. It is a logical tautology dressed as theology.",
     "raw_text": "•  A claim that is compatible with any possible evidence — including the total absence of evidence — is not making a claim about reality. It is a logical tautology dressed as theology.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16484,14 +16484,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_044b9d3020c2487e39a4",
     "text": "•  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. \"God exists but leaves no detectable trace\" fails this test.",
     "raw_text": "•  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. \"God exists but leaves no detectable trace\" fails this test.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16515,14 +16515,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f5af0986b67051ac0742",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16546,14 +16546,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de30adffe5f554ceec81",
     "text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
     "raw_text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16577,14 +16577,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c0df453e8036924e816c",
     "text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
     "raw_text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16608,14 +16608,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b3ec9b6515d9a1db5256",
     "text": "Sources:",
     "raw_text": "**Sources:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16639,14 +16639,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_090df81e45d58bda6a85",
     "text": "•  Popper, Karl. The Logic of Scientific Discovery (1934/1959) — falsifiability criterion.",
     "raw_text": "•  Popper, Karl. The Logic of Scientific Discovery (1934/1959) — falsifiability criterion.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16670,14 +16670,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0dd2a86e468c3e7185c2",
     "text": "•  Flew, Antony. \"Theology and Falsification\" (1950) — the parable of the invisible gardener, foundational essay on unfalsifiability in theology.",
     "raw_text": "•  Flew, Antony. \"Theology and Falsification\" (1950) — the parable of the invisible gardener, foundational essay on unfalsifiability in theology.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16701,14 +16701,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4e46dfb8a86b4c179672",
     "text": "•  Swinburne, Richard. The Existence of God (1979) — attempts to make theism a probabilistic empirical hypothesis, the most serious effort from the defending side.",
     "raw_text": "•  Swinburne, Richard. The Existence of God (1979) — attempts to make theism a probabilistic empirical hypothesis, the most serious effort from the defending side.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16732,14 +16732,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ef2dd978b107ba342fe4",
     "text": "The most important pattern to notice: when you ask for empirical evidence, the believer typically moves through a sequence of positions without acknowledging the moves.",
     "raw_text": "The most important pattern to notice: when you ask for empirical evidence, the believer typically moves through a sequence of positions without acknowledging the moves.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16763,14 +16763,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_34b27059d77f20ec458d",
     "text": "•  Position 1: \"Here is evidence\" — personal experience, creation, changed lives.",
     "raw_text": "•  Position 1: \"Here is evidence\" — personal experience, creation, changed lives.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16794,14 +16794,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_293f46100fddfa0ed47a",
     "text": "•  Position 2 when pressed: \"Faith doesn't require evidence.\"",
     "raw_text": "•  Position 2 when pressed: \"Faith doesn't require evidence.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16825,14 +16825,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_195ac5a2a980fd9f1e52",
     "text": "•  Position 3 when pressed further: \"God is outside our categories — you can't apply those standards.\"",
     "raw_text": "•  Position 3 when pressed further: \"God is outside our categories — you can't apply those standards.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16856,14 +16856,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e6a25f482f3eecd5df59",
     "text": "•  Position 4: \"You're just scared of the truth / your heart is hardened.\"",
     "raw_text": "•  Position 4: \"You're just scared of the truth / your heart is hardened.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16887,14 +16887,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dd12759210b17029a9f0",
     "text": "Each move is a retreat from the previous position's evidentiary standard. Name the retreat each time it happens. The question to return to: \"What evidence would convince you that your belief is wrong? If the answer is nothing — that is worth examining.\"",
     "raw_text": "Each move is a retreat from the previous position's evidentiary standard. Name the retreat each time it happens. The question to return to: \"What evidence would convince you that your belief is wrong? If the answer is nothing — that is worth examining.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16918,14 +16918,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ad440bd602c6e1faf30c",
     "text": "The key question: \"What would count as evidence against your belief?\" If nothing could count against it, the belief is unfalsifiable — and unfalsifiable beliefs are not claims about reality, they are commitments. That distinction matters.",
     "raw_text": "**The key question: **\"What would count as evidence against your belief?\" If nothing could count against it, the belief is unfalsifiable — and unfalsifiable beliefs are not claims about reality, they are commitments. That distinction matters.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16949,14 +16949,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_249ec0c47831b1e69e2f",
     "text": "This is not a peripheral issue. The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
     "raw_text": "This is not a peripheral issue. The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -16979,14 +16979,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3be4c3f286202e597411",
     "text": "•  Deuteronomy 22:13-21 — if a bride is found not to be a virgin on her wedding night, she is stoned to death at her father's door. No equivalent punishment exists for men. Her lack of virginity is framed as a property defect, not a moral failing.",
     "raw_text": "•  Deuteronomy 22:13-21 — if a bride is found not to be a virgin on her wedding night, she is stoned to death at her father's door. No equivalent punishment exists for men. Her lack of virginity is framed as a property defect, not a moral failing.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17010,14 +17010,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4350c927d44fbad89917",
     "text": "•  Deuteronomy 22:28-29 — if a man rapes an unbetrothed virgin, he pays her father 50 shekels of silver and must marry her. The victim has no voice. The fine goes to the father — her owner — not her. The rapist gets a wife.",
     "raw_text": "•  Deuteronomy 22:28-29 — if a man rapes an unbetrothed virgin, he pays her father 50 shekels of silver and must marry her. The victim has no voice. The fine goes to the father — her owner — not her. The rapist gets a wife.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17041,14 +17041,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e2eb685a284d5f708c91",
     "text": "•  Numbers 5 — the \"bitter water\" ordeal for a wife suspected of adultery. She drinks water mixed with dust from the tabernacle floor. If she is guilty, her body swells and she becomes infertile. No equivalent exists for men. Adultery by men is addressed differently.",
     "raw_text": "•  Numbers 5 — the \"bitter water\" ordeal for a wife suspected of adultery. She drinks water mixed with dust from the tabernacle floor. If she is guilty, her body swells and she becomes infertile. No equivalent exists for men. Adultery by men is addressed differently.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17072,14 +17072,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e03b4c9235441b1587b6",
     "text": "•  Leviticus 12 — a woman is ritually unclean for 33 days after bearing a son, 66 days after bearing a daughter. Having a daughter makes a mother twice as unclean. The reason is not stated. The asymmetry is.",
     "raw_text": "•  Leviticus 12 — a woman is ritually unclean for 33 days after bearing a son, 66 days after bearing a daughter. Having a daughter makes a mother twice as unclean. The reason is not stated. The asymmetry is.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17103,14 +17103,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1fd5520fa3ecd98914ef",
     "text": "•  Numbers 31:17-18 — after defeating the Midianites, Moses commands the killing of all males and all women who are not virgins. The virgin girls are kept and distributed among the soldiers.",
     "raw_text": "•  Numbers 31:17-18 — after defeating the Midianites, Moses commands the killing of all males and all women who are not virgins. The virgin girls are kept and distributed among the soldiers.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17134,14 +17134,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e7455054ce76f9fffba6",
     "text": "This is already documented in the Study Notes but belongs here for completeness.",
     "raw_text": "This is already documented in the Study Notes but belongs here for completeness.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17165,14 +17165,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_43a0bd5eb0f7219389d8",
     "text": "•  Ezekiel 16 and 23 — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented explicitly as God's love. Cutting off noses and ears, public stripping, mob violence — divine romance.",
     "raw_text": "•  Ezekiel 16 and 23 — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented explicitly as God's love. Cutting off noses and ears, public stripping, mob violence — divine romance.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17196,14 +17196,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ab735eb59b4de1b4283a",
     "text": "•  Hosea — God as wronged husband, threatening to strip, starve, and expose his wife. The prophet marries a woman specifically to use her as a theological prop with no voice or agency.",
     "raw_text": "•  Hosea — God as wronged husband, threatening to strip, starve, and expose his wife. The prophet marries a woman specifically to use her as a theological prop with no voice or agency.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17227,14 +17227,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_667cddd468d01a292eb6",
     "text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.",
     "raw_text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17258,14 +17258,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c2b2c140673ec0070947",
     "text": "•  1 Corinthians 14:34-35 — \"Women should remain silent in the churches. They are not allowed to speak... If they want to inquire about something, they should ask their own husbands at home.\" This is undisputed Paul — not deutero-Pauline. The strongest egalitarian Pauline verse (Galatians 3:28) is in tension with this in the same corpus.",
     "raw_text": "•  1 Corinthians 14:34-35 — \"Women should remain silent in the churches. They are not allowed to speak... If they want to inquire about something, they should ask their own husbands at home.\" This is undisputed Paul — not deutero-Pauline. The strongest egalitarian Pauline verse (Galatians 3:28) is in tension with this in the same corpus.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17289,14 +17289,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_97ce3e6e8cf1fc525c4a",
     "text": "•  1 Timothy 2:11-15 — \"I do not permit a woman to teach or to assume authority over a man; she must be quiet. For Adam was formed first, then Eve. And Adam was not the one deceived; it was the woman who was deceived.\" Disputed letter (deutero-Pauline by most critical scholars), but canonized and used for centuries to bar women from church leadership.",
     "raw_text": "•  1 Timothy 2:11-15 — \"I do not permit a woman to teach or to assume authority over a man; she must be quiet. For Adam was formed first, then Eve. And Adam was not the one deceived; it was the woman who was deceived.\" Disputed letter (deutero-Pauline by most critical scholars), but canonized and used for centuries to bar women from church leadership.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17320,14 +17320,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2093b62efbeb025a1570",
     "text": "•  Ephesians 5:22-24 — \"Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church.\" Also disputed letter. The headship model makes marital hierarchy a theological principle, not a cultural accommodation.",
     "raw_text": "•  Ephesians 5:22-24 — \"Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church.\" Also disputed letter. The headship model makes marital hierarchy a theological principle, not a cultural accommodation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17351,14 +17351,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2a792344c188e61b98ea",
     "text": "•  1 Corinthians 11:7-9 — \"man is the image and glory of God; but woman is the glory of man... woman was created for man.\" Not disputed. Undisputed Paul.",
     "raw_text": "•  1 Corinthians 11:7-9 — \"man is the image and glory of God; but woman is the glory of man... woman was created for man.\" Not disputed. Undisputed Paul.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17382,14 +17382,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_868ad59486f3d9382f69",
     "text": "The standard response: \"These were cultural norms of the time — God was working within the culture.\"",
     "raw_text": "**The standard response: **\"These were cultural norms of the time — God was working within the culture.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17413,14 +17413,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dfe8c821e4b5696577d7",
     "text": "Why this creates a tension: If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
     "raw_text": "**Why this creates a tension: **If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17444,14 +17444,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c874d5f7ec2202cc2ea9",
     "text": "The alternative: \"These are God's actual commands for all time.\" Then they should still be practiced — stoning non-virgin brides, keeping silent in churches, wives submitting in everything. Most modern Christians reject this. So they are selectively applying their own judgment about which commands are timeless and which are cultural. Which is exactly what critics say they are doing.",
     "raw_text": "**The alternative: **\"These are God's actual commands for all time.\" Then they should still be practiced — stoning non-virgin brides, keeping silent in churches, wives submitting in everything. Most modern Christians reject this. So they are selectively applying their own judgment about which commands are timeless and which are cultural. Which is exactly what critics say they are doing.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17475,14 +17475,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de7510fba8779c2490fb",
     "text": "The question that clarifies the tension:",
     "raw_text": "**The question that clarifies the tension:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17506,14 +17506,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_175b444c5d3f3e312f39",
     "text": "•  \"If these passages are just cultural, who decided that, and by what standard? Because the people who decided were using their own moral judgment — the same judgment you told me cannot be trusted without God.\"",
     "raw_text": "•  \"If these passages are just cultural, who decided that, and by what standard? Because the people who decided were using their own moral judgment — the same judgment you told me cannot be trusted without God.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17537,14 +17537,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a56ead0973826e704662",
     "text": "Common response: \"But Deborah was a judge and prophet. Mary Magdalene was first at the tomb. The Bible honors women.\"",
     "raw_text": "**Common response: **\"But Deborah was a judge and prophet. Mary Magdalene was first at the tomb. The Bible honors women.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17568,14 +17568,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ae7a7a70c08ec3d6f298",
     "text": "The problem with Deborah: Deborah is a descriptive historical account in Judges — a book largely documenting moral chaos and national failure. Her existence as a leader does not constitute a prescriptive command for women's leadership. The later explicit prohibitions on women speaking in church (1 Corinthians 14, 1 Timothy 2) are prescriptive commands. Those override a historical example.",
     "raw_text": "**The problem with Deborah: **Deborah is a descriptive historical account in Judges — a book largely documenting moral chaos and national failure. Her existence as a leader does not constitute a prescriptive command for women's leadership. The later explicit prohibitions on women speaking in church (1 Corinthians 14, 1 Timothy 2) are prescriptive commands. Those override a historical example.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17599,14 +17599,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_479543b36adf7e48089d",
     "text": "The problem with Mary Magdalene: She is first at the tomb in the resurrection accounts. But the same tradition excluded her testimony: Luke 24:11 — the disciples heard the women's account \"but they did not believe them, because their words seemed to them like nonsense.\" The founding testimony of the resurrection — given by women — was dismissed as nonsense by the male disciples. That is baked into the text.",
     "raw_text": "**The problem with Mary Magdalene: **She is first at the tomb in the resurrection accounts. But the same tradition excluded her testimony: Luke 24:11 — the disciples heard the women's account \"but they did not believe them, because their words seemed to them like nonsense.\" The founding testimony of the resurrection — given by women — was dismissed as nonsense by the male disciples. That is baked into the text.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17630,14 +17630,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_45a4ffc589934ab35424",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17661,14 +17661,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_02a2b0635e0fe99ea259",
     "text": "•  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.",
     "raw_text": "•  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17692,14 +17692,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d205fb4425c7a4805887",
     "text": "•  Schussler Fiorenza, Elisabeth. In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983).",
     "raw_text": "•  Schussler Fiorenza, Elisabeth. In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17723,14 +17723,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fed32dd133fd3fc9dc07",
     "text": "•  Barr, Beth Allison. The Making of Biblical Womanhood (2021) — from an evangelical historian.",
     "raw_text": "•  Barr, Beth Allison. The Making of Biblical Womanhood (2021) — from an evangelical historian.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17754,14 +17754,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f6910448373816208c50",
     "text": "Sources — defending complementarianism:",
     "raw_text": "**Sources — defending complementarianism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17785,14 +17785,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3762389bc76fdddb4ebc",
     "text": "•  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.",
     "raw_text": "•  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17816,14 +17816,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f9b71b251a4cd0b1fdca",
     "text": "•  Köstenberger, Andreas. God, Marriage, and Family (2004).",
     "raw_text": "•  Köstenberger, Andreas. God, Marriage, and Family (2004).",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17847,14 +17847,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3616882baa6a6c9b2cbd",
     "text": "The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.",
     "raw_text": "The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17877,14 +17877,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_00c2bfbd23072167a7be",
     "text": "Adam and Eve taken literally: If all humans descend from two people, the entire first generation are siblings marrying siblings. The text does not address this. It cannot — because on its own terms, there is no one else. Cain goes to the land of Nod and finds a wife (Genesis 4:17). At that point in the narrative the only humans are Adam, Eve, Cain, and Abel (Abel is dead). Who is she? The text does not say. Traditional answer: Adam and Eve had many unnamed children. That still makes Cain's wife his sister.",
     "raw_text": "**Adam and Eve taken literally: **If all humans descend from two people, the entire first generation are siblings marrying siblings. The text does not address this. It cannot — because on its own terms, there is no one else. Cain goes to the land of Nod and finds a wife (Genesis 4:17). At that point in the narrative the only humans are Adam, Eve, Cain, and Abel (Abel is dead). Who is she? The text does not say. Traditional answer: Adam and Eve had many unnamed children. That still makes Cain's wife his sister.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17908,14 +17908,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_541c8bcfb233e8a30686",
     "text": "The Leviticus problem: Leviticus 18 explicitly prohibits sex with sisters, half-sisters, aunts, daughters-in-law. Leviticus 20:17 adds penalties. These prohibitions come after the patriarchal narratives in which the patriarchs do exactly what is later prohibited. Either: (a) God's law changed — which undermines timeless divine command, or (b) different communities wrote these texts at different times with no awareness of the contradiction — which supports the documentary hypothesis.",
     "raw_text": "**The Leviticus problem: **Leviticus 18 explicitly prohibits sex with sisters, half-sisters, aunts, daughters-in-law. Leviticus 20:17 adds penalties. These prohibitions come after the patriarchal narratives in which the patriarchs do exactly what is later prohibited. Either: (a) God's law changed — which undermines timeless divine command, or (b) different communities wrote these texts at different times with no awareness of the contradiction — which supports the documentary hypothesis.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17939,14 +17939,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_55cb566efc48818f0f81",
     "text": "•  Abraham and Sarah — Genesis 20:12: Sarah is Abraham's half-sister. Same father, different mother. God makes his foundational covenant with a man in a half-sibling marriage.",
     "raw_text": "•  Abraham and Sarah — Genesis 20:12: Sarah is Abraham's half-sister. Same father, different mother. God makes his foundational covenant with a man in a half-sibling marriage.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -17970,14 +17970,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1e2584b65f15d5faca1c",
     "text": "•  Amram and Jochebed — Exodus 6:20: Moses's father married his father's sister — his own aunt. Moses, the lawgiver who delivers the prohibitions in Leviticus, is the product of an aunt-nephew marriage.",
     "raw_text": "•  Amram and Jochebed — Exodus 6:20: Moses's father married his father's sister — his own aunt. Moses, the lawgiver who delivers the prohibitions in Leviticus, is the product of an aunt-nephew marriage.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18001,14 +18001,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cdaae87fda2f4968c444",
     "text": "•  Isaac and Rebekah — cousins. Jacob, Leah, and Rachel — cousins. Cousin marriage is the norm across the patriarchal narratives.",
     "raw_text": "•  Isaac and Rebekah — cousins. Jacob, Leah, and Rachel — cousins. Cousin marriage is the norm across the patriarchal narratives.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18032,14 +18032,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3ebbb277b56f4b0b538c",
     "text": "•  Lot and his daughters — Genesis 19:30-38: after Sodom, the daughters get Lot drunk and sleep with him to preserve the lineage. The text records no divine condemnation of Lot. The daughters are presented as acting for survival. The nations produced — Moab and Ammon — become real peoples. The text treats this as origin narrative, not moral failure.",
     "raw_text": "•  Lot and his daughters — Genesis 19:30-38: after Sodom, the daughters get Lot drunk and sleep with him to preserve the lineage. The text records no divine condemnation of Lot. The daughters are presented as acting for survival. The nations produced — Moab and Ammon — become real peoples. The text treats this as origin narrative, not moral failure.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18063,14 +18063,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_20267e79aa4dd26f0721",
     "text": "•  Tamar and Judah — Genesis 38: Judah sleeps with his daughter-in-law Tamar, who has disguised herself as a prostitute. When he discovers the truth, he says: \"She is more righteous than I.\" God kills his sons in this chapter. He does not address the act with Tamar.",
     "raw_text": "•  Tamar and Judah — Genesis 38: Judah sleeps with his daughter-in-law Tamar, who has disguised herself as a prostitute. When he discovers the truth, he says: \"She is more righteous than I.\" God kills his sons in this chapter. He does not address the act with Tamar.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18094,14 +18094,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_eeda3155c5f22093b174",
     "text": "Not cherry-picking: These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
     "raw_text": "**Not cherry-picking: **These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18125,14 +18125,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_bc0c97e4b58c861b71bc",
     "text": "The three options: (a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
     "raw_text": "**The three options: **(a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18156,14 +18156,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7fc1a5b921e15e5ecf99",
     "text": "None of these support inerrancy: All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
     "raw_text": "**None of these support inerrancy: **All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18187,14 +18187,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a8b1df1a12a82585cd1e",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18218,14 +18218,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_aa2d15a8a5d97a9b695a",
     "text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
     "raw_text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18249,14 +18249,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6e6616b1c7dce3384bfb",
     "text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
     "raw_text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18280,14 +18280,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc23723522c05e589898",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18311,14 +18311,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_43a5f1f190b9b7df6e85",
     "text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
     "raw_text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18342,14 +18342,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7c5e1543b1c89abb4926",
     "text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
     "raw_text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18373,14 +18373,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_502df77c93ff80c33658",
     "text": "Sources — defending harmony:",
     "raw_text": "**Sources — defending harmony:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18404,14 +18404,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_15cd8a7c07daf7ef2faa",
     "text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
     "raw_text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18435,14 +18435,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7bb53b9c6fdfcf21af8c",
     "text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
     "raw_text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18466,14 +18466,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fa506567545cb1eac61e",
     "text": "The claim: Jesus's life, death, and resurrection were specifically for believers — for \"his people.\" Everything he did was for the elect, the saved, the in-group.",
     "raw_text": "**The claim: **Jesus's life, death, and resurrection were specifically for believers — for \"his people.\" Everything he did was for the elect, the saved, the in-group.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18497,14 +18497,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4448b6cd433ac688fc25",
     "text": "What it does socially: Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about \"us\" is a projection of in-group loyalty dressed as theology.",
     "raw_text": "**What it does socially: **Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about \"us\" is a projection of in-group loyalty dressed as theology.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18528,14 +18528,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a9de4e055c561a8aab79",
     "text": "•  Matthew 10:5-6 — Jesus explicitly restricts the disciples' mission: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" The historical Jesus's stated program is Israel-specific, not universal.",
     "raw_text": "•  Matthew 10:5-6 — Jesus explicitly restricts the disciples' mission: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" The historical Jesus's stated program is Israel-specific, not universal.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18559,14 +18559,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3d62a90ae81faaa34cc8",
     "text": "•  Mark 7:24-30 — A Gentile woman asks Jesus to heal her daughter. Jesus responds: \"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.\" He calls her a dog — standard Jewish pejorative for Gentiles. She persists. He heals her. But the initial response is ethnic exclusion. This is the most uncomfortable passage in the Synoptics for universal atonement claims.",
     "raw_text": "•  Mark 7:24-30 — A Gentile woman asks Jesus to heal her daughter. Jesus responds: \"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.\" He calls her a dog — standard Jewish pejorative for Gentiles. She persists. He heals her. But the initial response is ethnic exclusion. This is the most uncomfortable passage in the Synoptics for universal atonement claims.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18590,14 +18590,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_63d8bacab2266f2b0b51",
     "text": "•  John 10:14-16 — \"I have other sheep that are not of this fold. I must bring them also.\" Typically interpreted as Gentile believers joining Jewish believers — not universal salvation regardless of belief.",
     "raw_text": "•  John 10:14-16 — \"I have other sheep that are not of this fold. I must bring them also.\" Typically interpreted as Gentile believers joining Jewish believers — not universal salvation regardless of belief.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18621,14 +18621,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a683536b05db1d09f3f1",
     "text": "•  Matthew 25:31-46 — the sheep and goats judgment: people are judged on whether they fed the hungry, clothed the naked, visited the sick and imprisoned. No mention of belief, prayer, or church attendance. The criterion for salvation here is material care for the vulnerable — not faith in Jesus.",
     "raw_text": "•  Matthew 25:31-46 — the sheep and goats judgment: people are judged on whether they fed the hungry, clothed the naked, visited the sick and imprisoned. No mention of belief, prayer, or church attendance. The criterion for salvation here is material care for the vulnerable — not faith in Jesus.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18652,14 +18652,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c8db71f9048740e825d4",
     "text": "Limited atonement (Calvinist): Jesus died specifically for the elect — those God chose before creation. Not for everyone. The \"for us\" is the elect only, predetermined before birth. Romans 9:13 — \"Jacob I loved, Esau I hated, before either had done anything good or bad.\"",
     "raw_text": "**Limited atonement (Calvinist): **Jesus died specifically for the elect — those God chose before creation. Not for everyone. The \"for us\" is the elect only, predetermined before birth. Romans 9:13 — \"Jacob I loved, Esau I hated, before either had done anything good or bad.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18683,14 +18683,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2691c84966f6280c53fe",
     "text": "Universal atonement (Arminian): Jesus died for everyone but salvation is conditional on faith. The \"for us\" is potentially everyone who responds.",
     "raw_text": "**Universal atonement (Arminian): **Jesus died for everyone but salvation is conditional on faith. The \"for us\" is potentially everyone who responds.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18714,14 +18714,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0a2402563b4936c6c2eb",
     "text": "Why this matters: These are contradictory positions and both use the same Bible, the same Jesus, the same Paul. The claim that Jesus \"did it for you\" means completely different things depending on which camp is speaking. They cannot both be right. The text does not resolve it — which is why the debate has continued for 500 years since Calvin and Arminius.",
     "raw_text": "**Why this matters: **These are contradictory positions and both use the same Bible, the same Jesus, the same Paul. The claim that Jesus \"did it for you\" means completely different things depending on which camp is speaking. They cannot both be right. The text does not resolve it — which is why the debate has continued for 500 years since Calvin and Arminius.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18745,14 +18745,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e71a00595222d5b861b",
     "text": "Historical Jesus vs. Pauline Christianity: The universalization of Jesus's mission — from Israel to all nations — is a post-resurrection development. It is Paul's theological project, not Jesus's stated program during his ministry. Acts 10 (Peter's vision) and the Jerusalem Council (Acts 15) document the argument about whether Gentiles are included. It was contested, not obvious.",
     "raw_text": "**Historical Jesus vs. Pauline Christianity: **The universalization of Jesus's mission — from Israel to all nations — is a post-resurrection development. It is Paul's theological project, not Jesus's stated program during his ministry. Acts 10 (Peter's vision) and the Jerusalem Council (Acts 15) document the argument about whether Gentiles are included. It was contested, not obvious.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18776,14 +18776,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_566ef51064801803aa11",
     "text": "The Matthew 28 Great Commission: \"Go and make disciples of all nations\" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.",
     "raw_text": "**The Matthew 28 Great Commission: **\"Go and make disciples of all nations\" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18807,14 +18807,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c6f96eab03f9a03b0480",
     "text": "The implication: If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then \"Jesus did it for everyone\" is a Pauline conclusion, not a statement Jesus made about himself during his life.",
     "raw_text": "**The implication: **If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then \"Jesus did it for everyone\" is a Pauline conclusion, not a statement Jesus made about himself during his life.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18838,14 +18838,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2ec42bd07604750199db",
     "text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
     "raw_text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18869,14 +18869,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_83dcd3d3fe7ccb4b0a43",
     "text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
     "raw_text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18900,14 +18900,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3e31cec797de9ee2189c",
     "text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
     "raw_text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18931,14 +18931,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_107abd8a1b85a68e1766",
     "text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
     "raw_text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18962,14 +18962,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c5b4b141c149cdb7ab85",
     "text": "The question:",
     "raw_text": "**The question:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -18993,14 +18993,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e923f0872a84b80e2e2a",
     "text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
     "raw_text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19024,14 +19024,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90bb63119c19bfa935d8",
     "text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
     "raw_text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19055,14 +19055,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3af41ae9f10a3df04266",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19086,14 +19086,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_83290507df09fa355c7a",
     "text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
     "raw_text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19117,14 +19117,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91ecb82f9a748ea4854f",
     "text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
     "raw_text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19148,14 +19148,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0cc028ed417caeb660f4",
     "text": "Sources — defending exclusivism:",
     "raw_text": "**Sources — defending exclusivism:**",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19179,14 +19179,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5d0a27af3dc146148095",
     "text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
     "raw_text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19210,14 +19210,14 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11c56ec190f12f22e998",
     "text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
     "raw_text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
-    "provenance_type": "REVIEW_REQUIRED",
+    "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
@@ -19241,8 +19241,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "method": "document_warning",
       "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
-    "review_required": true,
-    "parser_version": "1.1.3"
+    "review_required": false,
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4d8b1329ba7739ebdaf3",
@@ -19270,10 +19270,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b10d06ab88c909a6a335",
@@ -19301,10 +19301,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9693a49947d295165c11",
@@ -19332,10 +19332,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0191e1375e7a79243b27",
@@ -19363,10 +19363,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5e77523db39a8b245d78",
@@ -19394,10 +19394,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1cab88e373286caf4343",
@@ -19425,10 +19425,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_09d04103088246dc819b",
@@ -19455,10 +19455,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3d903f20ce973909584d",
@@ -19485,10 +19485,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_195397234e2d90621d2c",
@@ -19515,10 +19515,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b4661f074c0da5491d07",
@@ -19545,10 +19545,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e4d3e036e9b2fa938e19",
@@ -19575,10 +19575,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7569d6a9539956239bdb",
@@ -19605,9 +19605,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
       "method": "document_warning",
-      "value": "Observations provenance does not deterministically assign this section to one speaker."
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
     },
     "review_required": true,
-    "parser_version": "1.1.3"
+    "parser_version": "1.2.0"
   }
 ]);
