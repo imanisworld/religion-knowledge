@@ -897,6 +897,18 @@ Verses are listed by reference only — look them up in the ESV or any translati
 
 **Reference: **Isaiah 55:6-13.
 
+## 12.13 Numbers 1 and 26 — The Census "*Eleph*" Argument
+
+**Commonly used for: **Rescuing the historicity of Numbers' wilderness census — over 600,000 fighting men, implying a total population past two million, in a desert that shows no archaeological trace of that population.
+
+**The argument: ***Eleph*, the Hebrew word usually read as "thousand," is read instead as "clan" or "military unit," scaling the total down to a demographically plausible figure. [CONSERVATIVE-EVANGELICAL] apologetics — Associates for Biblical Research; Hoffmeier (2005: 153–59) — treats this as resolving the number.
+
+**The problem: **Scholars applying the same *eleph*-as-unit method to the same text disagree with each other by an order of magnitude, landing anywhere from about 5,550 to 72,000. A method that swings that wide isn't fixing the number — it's relocating the uncertainty.
+
+**Better response: **Don't contest the *eleph* philology — it's a real semantic question, just not a solution. Treat the totals as literary/theological, and ask what the text is doing by reporting 600,000 fighting men, plus women, children, and livestock, in a desert that shows no trace of them.
+
+**Reference: **Numbers 1, 26. Full citation trail in Study Notes' *eleph* audit, §1.8.
+
 # 13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM
 
 **First fact: **The word "Trinity" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.
@@ -1555,6 +1567,18 @@ These are the figures to have ready. Every one is a *gap between event and writi
 - **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)
 
 **Reference question:** *"How long between the event and the writing?"* Apply it to every source, in every tradition, including the ones you agree with.
+
+## 19.8 New Perspective on Paul — who to read
+
+The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (*Paul and Palestinian Judaism*, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of "justification by faith" imports a 16th-century framework onto a 1st-century argument.
+
+Stephen Westerholm [EVANGELICAL], *Perspectives Old and New on Paul: The Lutheran Paul and His Critics* (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.
+
+Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], *Revisiting Paul's Doctrine of Justification: A Challenge to the New Perspective* (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate's leading NPP critics.
+
+Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.
+
+**Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.
 
 # 8. STANDING METHODOLOGICAL NOTES
 
