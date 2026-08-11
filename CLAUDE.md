@@ -136,6 +136,8 @@ Seven of roughly thirteen claims are audited. Remaining, from `Bible_Deep_Dive_M
 Each gets the full method above. Expect some to survive intact — record that outcome explicitly, since "holds" is a real result and the badge exists for it.
 
 > **Status note (7 Aug 2026):** items 1, 2, 4, 5, and 6 above have since been audited and inserted into `Bible_Deep_Dive_Master_Notes.md` (§11.1/§11.2 now read "11 of 11 complete, queue empty"). Item 3 (Isaiah 7:14 — almah/parthenos) was not part of that batch and is still open.
+>
+> **Status note (11 Aug 2026):** item 3 (Isaiah 7:14 — almah/parthenos) has since been audited too, closing out Task 1 entirely — Study Notes §11.2 now reads "11 of 11 complete, queue empty," matching the other five. STATUS: Holds — 'almah does not mean virgin, but the "virgin" reading is not Matthew's invention; the Septuagint's parthenos rendering predates him by two centuries. Named sources: Hans Wildberger [CRITICAL], Alec Motyer [CONSERVATIVE-EVANGELICAL]. This correction was also missing from `README.md` and `Method_and_Reference.md` §3, both of which still listed the Study Notes queue as partially open — both corrected in the same pass.
 
 ### Task 2 — audit the Observations
 

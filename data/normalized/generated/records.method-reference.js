@@ -310,15 +310,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1c8162e562847dad1aa8",
-    "text": "Ranked by verification priority. Not yet audited. All section numbers below refer to Study Notes (Bible_Deep_Dive_Master_Notes.md) unless marked otherwise.",
-    "raw_text": "Ranked by verification priority. Not yet audited. All section numbers below refer to Study Notes (`Bible_Deep_Dive_Master_Notes.md`) unless marked otherwise.",
+    "id": "rk_ade9b39e00679a724f18",
+    "text": "All items originally flagged in Study Notes §11.2 have been audited; corrections sit inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit. Section numbers below refer to Study Notes (Bible_Deep_Dive_Master_Notes.md).",
+    "raw_text": "All items originally flagged in Study Notes §11.2 have been audited; corrections sit inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit. Section numbers below refer to Study Notes (`Bible_Deep_Dive_Master_Notes.md`).",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -326,7 +326,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:11",
     "parent_id": null,
     "related_ids": [],
@@ -341,15 +341,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a5a3d1922edac4f64a20",
-    "text": "Highest exposure",
-    "raw_text": "**Highest exposure**",
+    "id": "rk_ddf70a915ceb92064bbc",
+    "text": "Formerly highest exposure",
+    "raw_text": "**Formerly highest exposure**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -357,7 +357,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:12",
     "parent_id": null,
     "related_ids": [],
@@ -372,15 +372,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e99d6091e71b5c009f7c",
-    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at Study Notes §8.6 as settled. Probably is not.\n\"John is textually antisemitic\" — recorded at Study Notes §8.5. The Ioudaioi translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
-    "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at Study Notes §8.6 as settled. Probably is not.\n- **\"John is textually antisemitic\"** — recorded at Study Notes §8.5. The *Ioudaioi* translation question (\"Jews\" / \"Judeans\" / \"Jewish authorities\") is among the most contested issues in Johannine studies. Only one side is currently represented.",
+    "id": "rk_caeb95c1cac603d43f7e",
+    "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n\"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
+    "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — audited at §8.6. Overstated.\n- **\"John is textually antisemitic\"** — audited at §8.5. Holds w/ revisions.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -388,7 +388,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:13",
     "parent_id": null,
     "related_ids": [],
@@ -403,15 +403,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4f6aa60f5c5829ebb9d2",
-    "text": "Medium exposure",
-    "raw_text": "**Medium exposure**",
+    "id": "rk_7f0321900655b0f16a29",
+    "text": "Formerly medium exposure",
+    "raw_text": "**Formerly medium exposure**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -419,7 +419,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:14",
     "parent_id": null,
     "related_ids": [],
@@ -434,15 +434,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1d8ad0da0525d1174737",
-    "text": "Acts speeches as fictional constructions (Study Notes §9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\nLuke softening Roman culpability (Study Notes §6.3) — defensible, with real pushback.\nDeutero-Pauline pseudonymity (Study Notes §6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
-    "raw_text": "- **Acts speeches as fictional constructions** (Study Notes §9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.\n- **Luke softening Roman culpability** (Study Notes §6.3) — defensible, with real pushback.\n- **Deutero-Pauline pseudonymity** (Study Notes §6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.",
+    "id": "rk_0d564b1a31eaa68ce4c9",
+    "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\nLuke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\nDeutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
+    "raw_text": "- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.\n- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.\n- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -450,7 +450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:15",
     "parent_id": null,
     "related_ids": [],
@@ -465,15 +465,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_286e8a2143c552a51572",
-    "text": "Low exposure — expected to survive",
-    "raw_text": "**Low exposure — expected to survive**",
+    "id": "rk_40285aaf5096160bd826",
+    "text": "Formerly low exposure — held as expected",
+    "raw_text": "**Formerly low exposure — held as expected**",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -481,7 +481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:16",
     "parent_id": null,
     "related_ids": [],
@@ -496,15 +496,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a29ff790dc397df23561",
-    "text": "Markan priority (Study Notes §6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\nGalatians 2 vs. Acts 15 contradiction (Study Notes §9.3). Real; degree argued.\nMatthew's use of prophecy (Study Notes §6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\nIsaiah 7:14 almah/parthenos (Study Notes §2). Expected to hold, but the traditional counterargument has not been recorded.\nHa-satan as adversarial role rather than cosmic villain (Study Notes §1.3, §2). Expected to hold.",
-    "raw_text": "- Markan priority (Study Notes §6.1). Near-consensus. \"Most human Jesus\" is interpretive gloss, not finding.\n- Galatians 2 vs. Acts 15 contradiction (Study Notes §9.3). Real; degree argued.\n- Matthew's use of prophecy (Study Notes §6.2). Mechanism well documented; \"retrofitted\" is loaded framing worth testing.\n- Isaiah 7:14 *almah*/*parthenos* (Study Notes §2). Expected to hold, but the traditional counterargument has not been recorded.\n- Ha-satan as adversarial role rather than cosmic villain (Study Notes §1.3, §2). Expected to hold.",
+    "id": "rk_e166a7bc9904ece59b86",
+    "text": "Markan priority (§6.1) — audited. Holds.\nGalatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\nMatthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\nIsaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\nHa-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
+    "raw_text": "- Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -512,7 +512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:17",
     "parent_id": null,
     "related_ids": [],
@@ -527,15 +527,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bef3bcd01e45e3142d3c",
-    "text": "Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
-    "raw_text": "*Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
+    "id": "rk_29498dbcda145c565bf0",
+    "text": "Audit status: 11 of 11 complete, queue empty. Mirrors Study Notes §11.2 exactly — see that section for the full AS RECORDED / STATUS / AUDIT / CORRECTED text of each entry.",
+    "raw_text": "*Audit status: 11 of 11 complete, queue empty. Mirrors Study Notes §11.2 exactly — see that section for the full AS RECORDED / STATUS / AUDIT / CORRECTED text of each entry.*",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "3. Open Audit Queue — Claims Not Yet Verified"
+      "3. Study Notes Audit Queue — Closed"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -543,7 +543,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 3. Open Audit Queue — Claims Not Yet Verified",
+    "source_section": "Method & Reference > 3. Study Notes Audit Queue — Closed",
     "source_reference": "paragraph:18",
     "parent_id": null,
     "related_ids": [],

@@ -48,30 +48,30 @@ Applied to every contested passage across every document:
 
 **Standing rule from Sources §6.2:** never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.
 
-## 3. Open Audit Queue — Claims Not Yet Verified
+## 3. Study Notes Audit Queue — Closed
 
-Ranked by verification priority. Not yet audited. All section numbers below refer to Study Notes (`Bible_Deep_Dive_Master_Notes.md`) unless marked otherwise.
+All items originally flagged in Study Notes §11.2 have been audited; corrections sit inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit. Section numbers below refer to Study Notes (`Bible_Deep_Dive_Master_Notes.md`).
 
-**Highest exposure**
+**Formerly highest exposure**
 
-- **"Delay of the parousia is the crisis John's theology was built to solve"** — Bultmann/Käsemann-era consensus, heavily challenged since. Recorded at Study Notes §8.6 as settled. Probably is not.
-- **"John is textually antisemitic"** — recorded at Study Notes §8.5. The *Ioudaioi* translation question ("Jews" / "Judeans" / "Jewish authorities") is among the most contested issues in Johannine studies. Only one side is currently represented.
+- **"Delay of the parousia is the crisis John's theology was built to solve"** — audited at §8.6. Overstated.
+- **"John is textually antisemitic"** — audited at §8.5. Holds w/ revisions.
 
-**Medium exposure**
+**Formerly medium exposure**
 
-- **Acts speeches as fictional constructions** (Study Notes §9) — Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how much it licenses is disputed.
-- **Luke softening Roman culpability** (Study Notes §6.3) — defensible, with real pushback.
-- **Deutero-Pauline pseudonymity** (Study Notes §6.5) — Pastorals strong; Colossians and 2 Thessalonians genuinely split; Ephesians in between. Currently flattened into one verdict.
+- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.
+- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.
+- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.
 
-**Low exposure — expected to survive**
+**Formerly low exposure — held as expected**
 
-- Markan priority (Study Notes §6.1). Near-consensus. "Most human Jesus" is interpretive gloss, not finding.
-- Galatians 2 vs. Acts 15 contradiction (Study Notes §9.3). Real; degree argued.
-- Matthew's use of prophecy (Study Notes §6.2). Mechanism well documented; "retrofitted" is loaded framing worth testing.
-- Isaiah 7:14 *almah*/*parthenos* (Study Notes §2). Expected to hold, but the traditional counterargument has not been recorded.
-- Ha-satan as adversarial role rather than cosmic villain (Study Notes §1.3, §2). Expected to hold.
+- Markan priority (§6.1) — audited. Holds.
+- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.
+- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.
+- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.
+- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.
 
-*Audit status: 7 of 11 complete. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*
+*Audit status: 11 of 11 complete, queue empty. Mirrors Study Notes §11.2 exactly — see that section for the full AS RECORDED / STATUS / AUDIT / CORRECTED text of each entry.*
 
 ## 4. Observations Audit Status
 
