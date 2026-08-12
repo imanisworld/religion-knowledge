@@ -369,17 +369,17 @@ Reference for Bible reading and thoughtful conversation. Each entry identifies a
 
 # 4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY
 
-## 4.1 Innate vs. Learned Fear
+## 4.1 Learned Religious Fear
 
-**What is innate: **Only two fears are documented as truly innate: (1) Loud noises — acoustic startle reflex, present at birth. (2) Falling — confirmed by visual cliff experiments (Gibson & Walk, 1960).
+**Central observation** ⟨YOURS⟩**:** Humans are not born fearing God, hell, or divine punishment. Those specific fears require language, doctrine, and instruction; they are learned rather than present at birth.
 
-#### ⚑ AUDIT — "Only Two Innate Fears"
+#### ⚑ AUDIT — Is Religious Fear Innate or Learned?
 
 `CHECKED 7 AUG 2026`
 
-**STATUS: Collapses as stated. Do not use the "two fears" line. The conclusion below survives on better grounds — use the rebuilt version.**
+**STATUS: The original supporting claim was wrong; the central observation holds.**
 
-**Why it fails.** It rests on two studies and neither supports it.
+**AS RECORDED:** Humans are born with only two fears, loud noises and falling. The studies commonly cited for that claim do not support it.
 
 *Gibson & Walk (1960), the visual cliff.* Tested infants **6 to 14 months old** — children who could already crawl. That is not "born with." Worse for the claim, the follow-up research shows the avoidance is **built by crawling experience**, not present from birth. Campos, Bertenthal & Kermoian, *Psychological Science* 3 (1992), report four studies: holding age constant, locomotor experience accounts for wariness of heights; artificial experience in a walker generates it; an infant with an orthopedic condition, tracked over time, showed no wariness for as long as he could not move himself; and regardless of when crawling begins, it is the *duration* of crawling and not age that predicts avoidance. Karen Adolph's later work goes further, arguing infants never acquire a general fear of heights at all — they learn what their own body can currently do.
 
@@ -389,31 +389,31 @@ Reference for Bible reading and thoughtful conversation. Each entry identifies a
 
 **And it is not two.** Infants are biased toward fast threat learning about loud abrupt sounds, sudden loss of support, looming objects, snake- and spider-like shapes, angry faces, and social separation. That is a set of prepared biases, not a count of innate fears.
 
-**REBUILT VERSION.** ⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩ Every prepared bias humans have is toward **immediate, physically present, evolutionarily ancient** threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.
+**CORRECTED:** Newborns have defensive reflexes and humans have prepared biases that make some threats easier to learn. Neither amounts to an inborn fear of a particular god, hell, or divine punishment. Those concepts must first be communicated before they can become objects of fear.
 
 **Questions and observations for conversation:**
 
-•  "There's no prepared fear response for an abstract afterlife. Every fear humans acquire fast is about something physically in front of them. Hell has to be taught — it can't be caught."
+•  "Fear of hell depends on first learning what hell is; it is not present at birth."
 
-•  "A child raised without the doctrine never spontaneously develops it. That's not true of heights or loud noises."
+•  "Which parts of this fear came from experience, and which came from teaching?"
 
 **Do not say** "humans are born with only two fears." It is pop psychology, it circulates through CNN health features and motivational books, and anyone who has taken a developmental psych course can correct you.
 
 **What is learned: **Fear as an emotion is constructed developmentally — spiders, death, darkness, strangers, divine punishment, moral chaos. Learned, conditioned, or culturally installed.
 
-**The nuance — this is now the main argument, not a footnote: **Ohman and Mineka's preparedness model holds that certain fears are faster to acquire because they were evolutionary threats. Not innate; a faster learning channel. Still learned. Every prepared category is a physically present, ancient threat. Divine punishment is in none of them.
+**The nuance: **Ohman and Mineka's preparedness model holds that certain fears are faster to acquire because they involve recurrent evolutionary threats. That is a learning bias, not evidence that a person is born with a specific religious fear.
 
 **Interpretive implication:**
 
-•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.
+•  Fear of divine punishment depends on culturally transmitted concepts and teachings. That sequence deserves examination.
 
 **Why this assessment holds — questions for conversation:**
 
-•  "The fear of God is a learned fear. Religion created the problem it claims to solve."
+•  "Fear of God is learned through particular ideas, stories, and teachings."
 
 •  "You were not born fearing hell. Someone taught you to. That is a very different kind of moral grounding."
 
-•  "Every fear humans are primed to learn fast is about something physically present — heights, loud noises, snakes, angry faces. Nothing abstract. Hell has to be taught."
+•  "How should the fact that this fear was learned affect the moral weight given to it?"
 
 **Sources — corrected:**
 

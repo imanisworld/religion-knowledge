@@ -2,24 +2,23 @@
   "parser_version": "1.2.0",
   "canonical_files": 8,
   "records": 1606,
-  "warnings": 7,
+  "warnings": 6,
   "review_required": 73,
   "provenance_counts": {
     "REVIEW_REQUIRED": 73,
     "PRE_CONVENTION": 708,
     "SOURCE": 347,
-    "CLAUDE": 472,
-    "MY_WORDS": 6
+    "CLAUDE": 470,
+    "MY_WORDS": 8
   },
   "record_type_counts": {
-    "OBSERVATION": 1147,
-    "POSITION": 1,
-    "AUDIT_NOTE": 245,
-    "CLAIM": 21,
+    "OBSERVATION": 1152,
+    "AUDIT_NOTE": 241,
+    "CLAIM": 22,
     "AUDIT_STATUS": 27,
-    "CORRECTION": 25,
-    "AUDIT_REASONING": 25,
-    "AUDIT_SURVIVAL": 2,
+    "CORRECTION": 26,
+    "AUDIT_REASONING": 24,
+    "AUDIT_SURVIVAL": 1,
     "QUESTION": 19,
     "DEFINITION": 94
   },
@@ -28,13 +27,13 @@
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
       "records": 277,
-      "size_bytes": 515274
+      "size_bytes": 509164
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
       "records": 896,
-      "size_bytes": 1428864
+      "size_bytes": 1428412
     },
     {
       "source_file": "Glossary.md",
