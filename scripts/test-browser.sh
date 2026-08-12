@@ -203,14 +203,14 @@ fi
   >/tmp/religion-app-dom.html \
   2>/tmp/religion-browser.log
 
-if ! grep -Fq '<strong>1547</strong><span>Records</span>' /tmp/religion-app-dom.html; then
-  echo "Rendered app did not show the expected 1,445 record count" >&2
+if ! grep -Fq '<strong>1565</strong><span>Records</span>' /tmp/religion-app-dom.html; then
+  echo "Rendered app did not show the expected 1565 record count" >&2
   tail -100 /tmp/religion-browser.log >&2 || true
   exit 1
 fi
 
-if ! grep -Fq '<strong>47</strong><span>Review</span>' /tmp/religion-app-dom.html; then
-  echo "Rendered app did not show the expected 47 review count" >&2
+if ! grep -Fq '<strong>53</strong><span>Review</span>' /tmp/religion-app-dom.html; then
+  echo "Rendered app did not show the expected 53 review count" >&2
   tail -100 /tmp/religion-browser.log >&2 || true
   exit 1
 fi
@@ -377,4 +377,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1547 review=47 positions=0 review_backup=present source_library=8 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1565 review=53 positions=0 review_backup=present source_library=8 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"

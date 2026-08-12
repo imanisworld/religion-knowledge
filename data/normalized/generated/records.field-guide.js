@@ -26144,5 +26144,562 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     },
     "review_required": true,
     "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0d00ed7946d8e56f2407",
+    "text": "Evangelical Christianity presents prayer as a two-way conversation: God speaks personally, specifically, and recognizably to individual believers. This is not a metaphor. The claim is that the God of the universe identifies you by name, responds to your specific situation, and communicates in a manner you can distinguish from your own thoughts. The psychological and neurological literature on inner speech and voice-hearing documents what that experience actually is.",
+    "raw_text": "Evangelical Christianity presents prayer as a two-way conversation: God speaks personally, specifically, and recognizably to individual believers. This is not a metaphor. The claim is that the God of the universe identifies you by name, responds to your specific situation, and communicates in a manner you can distinguish from your own thoughts. The psychological and neurological literature on inner speech and voice-hearing documents what that experience actually is.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+    "source_reference": "paragraph:838",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f0b02ccc63caba528a22",
+    "text": "T.M. Luhrmann (Stanford, anthropologist) conducted years of embedded fieldwork with evangelical charismatic Christians specifically studying how they learn to hear God speak. Core finding: hearing God is a trained skill, not a spontaneous supernatural event. The practice of prayer teaches people to reattribute their own inner speech — thoughts, mental images, internal narratives — as external divine communication. The inner voice doesn't change. The interpretive framework applied to it changes. (When God Talks Back, Knopf, 2012.)",
+    "raw_text": "⟨DOCUMENTED⟩ T.M. Luhrmann (Stanford, anthropologist) conducted years of embedded fieldwork with evangelical charismatic Christians specifically studying how they learn to hear God speak. Core finding: hearing God is a trained skill, not a spontaneous supernatural event. The practice of prayer teaches people to reattribute their own inner speech — thoughts, mental images, internal narratives — as external divine communication. The inner voice doesn't change. The interpretive framework applied to it changes. (*When God Talks Back*, Knopf, 2012.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.1 Hearing God Is a Trained Skill"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.1 Hearing God Is a Trained Skill",
+    "source_reference": "paragraph:839",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_00d5f373904c4cea72a1",
+    "text": "Luhrmann, Nusbaum, and Thisted tested the absorption hypothesis — that people who pray regularly develop higher absorption (the tendency to become immersed in internal mental experience), and that absorption predicts the likelihood of hearing God speak. Finding confirmed. Absorption is a trainable cognitive trait. (\"The Absorption Hypothesis: Learning to Hear God in Evangelical Christianity,\" American Anthropologist 112(1): 66–78, 2010.)",
+    "raw_text": "⟨DOCUMENTED⟩ Luhrmann, Nusbaum, and Thisted tested the absorption hypothesis — that people who pray regularly develop higher absorption (the tendency to become immersed in internal mental experience), and that absorption predicts the likelihood of hearing God speak. Finding confirmed. Absorption is a trainable cognitive trait. (\"The Absorption Hypothesis: Learning to Hear God in Evangelical Christianity,\" *American Anthropologist* 112(1): 66–78, 2010.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.1 Hearing God Is a Trained Skill"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.1 Hearing God Is a Trained Skill",
+    "source_reference": "paragraph:840",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_66fe26778649539c2004",
+    "text": "Charles Fernyhough (Durham, psychology) documents that inner speech is not monolithic. It operates on a spectrum from fully expanded — a complete voice with distinct tone, personality, emotional register — to compressed (wordless intuition). At the fully expanded end, inner speech can take on qualities distinct from the person's self-perception: a different emotional register, a different moral orientation, an apparently autonomous perspective. This is normal cognitive variation, not pathology. (The Voices Within, Basic Books, 2016.)",
+    "raw_text": "⟨DOCUMENTED⟩ Charles Fernyhough (Durham, psychology) documents that inner speech is not monolithic. It operates on a spectrum from fully expanded — a complete voice with distinct tone, personality, emotional register — to compressed (wordless intuition). At the fully expanded end, inner speech can take on qualities distinct from the person's self-perception: a different emotional register, a different moral orientation, an apparently autonomous perspective. This is normal cognitive variation, not pathology. (*The Voices Within*, Basic Books, 2016.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.2 What Inner Speech Actually Is"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.2 What Inner Speech Actually Is",
+    "source_reference": "paragraph:841",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_912188f1001a8241e82a",
+    "text": "Inner speech is generated by the same neural machinery as external speech perception: Broca's area, Wernicke's area. The brain uses predictive processing to suppress the sensation of hearing your own thoughts as external. When that suppression is incomplete or trained away by contemplative practice, inner speech can phenomenologically feel as if it originates outside the self.",
+    "raw_text": "⟨DOCUMENTED⟩ Inner speech is generated by the same neural machinery as external speech perception: Broca's area, Wernicke's area. The brain uses predictive processing to suppress the sensation of hearing your own thoughts as external. When that suppression is incomplete or trained away by contemplative practice, inner speech can phenomenologically feel as if it originates outside the self.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.2 What Inner Speech Actually Is"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.2 What Inner Speech Actually Is",
+    "source_reference": "paragraph:842",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5c43b7581e56f922e93b",
+    "text": "Alderson-Day and Fernyhough's review of inner speech research documents that inner speech routinely involves dialogic structure: people internally argue with themselves, hear responses, experience distinct \"voices\" in conversation. The structural format of inner speech already resembles conversation with another entity. The additional step — attributing that entity as God — is smaller than it appears from the outside. (\"Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology,\" Psychological Bulletin 141(5): 931–965, 2015.)",
+    "raw_text": "⟨DOCUMENTED⟩ Alderson-Day and Fernyhough's review of inner speech research documents that inner speech routinely involves dialogic structure: people internally argue with themselves, hear responses, experience distinct \"voices\" in conversation. The structural format of inner speech already resembles conversation with another entity. The additional step — attributing that entity as God — is smaller than it appears from the outside. (\"Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology,\" *Psychological Bulletin* 141(5): 931–965, 2015.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.2 What Inner Speech Actually Is"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.2 What Inner Speech Actually Is",
+    "source_reference": "paragraph:843",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_065e70b7b0e9503e89c3",
+    "text": "Marius Romme and Sandra Escher established through a research program beginning in 1989 that voice-hearing exists on a continuum across the general population — not confined to psychosis. A substantial minority of the general population hears voices at some point without meeting criteria for any psychiatric disorder. (\"Hearing Voices,\" Schizophrenia Bulletin 15(2): 209–216, 1989; Accepting Voices, Mind Publications, London, 1993.)",
+    "raw_text": "⟨DOCUMENTED⟩ Marius Romme and Sandra Escher established through a research program beginning in 1989 that voice-hearing exists on a continuum across the general population — not confined to psychosis. A substantial minority of the general population hears voices at some point without meeting criteria for any psychiatric disorder. (\"Hearing Voices,\" *Schizophrenia Bulletin* 15(2): 209–216, 1989; *Accepting Voices*, Mind Publications, London, 1993.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.3 Voice-Hearing Is Not Rare and Its Content Is Culturally Installed"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.3 Voice-Hearing Is Not Rare and Its Content Is Culturally Installed",
+    "source_reference": "paragraph:844",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8f390b049975f205cb07",
+    "text": "Luhrmann, Padmavati, Tharoor, and Osei conducted a cross-cultural study comparing voice-hearers in San Mateo (California), Accra (Ghana), and Chennai (India). Finding: same neurological phenomenon, culturally determined content. American voice-hearers reported more violent, disturbing, intrusive content. Ghanaian and Indian voice-hearers reported more positive, relational, often explicitly divine-coded content. The mechanism is the same. What gets attributed to it is culturally installed. (\"Differences in Voice-Hearing Experiences of People with Psychosis in the USA, India and Ghana,\" The British Journal of Psychiatry 206(1): 41–44, 2015.)",
+    "raw_text": "⟨DOCUMENTED⟩ Luhrmann, Padmavati, Tharoor, and Osei conducted a cross-cultural study comparing voice-hearers in San Mateo (California), Accra (Ghana), and Chennai (India). Finding: same neurological phenomenon, culturally determined content. American voice-hearers reported more violent, disturbing, intrusive content. Ghanaian and Indian voice-hearers reported more positive, relational, often explicitly divine-coded content. The mechanism is the same. What gets attributed to it is culturally installed. (\"Differences in Voice-Hearing Experiences of People with Psychosis in the USA, India and Ghana,\" *The British Journal of Psychiatry* 206(1): 41–44, 2015.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.3 Voice-Hearing Is Not Rare and Its Content Is Culturally Installed"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.3 Voice-Hearing Is Not Rare and Its Content Is Culturally Installed",
+    "source_reference": "paragraph:845",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bcb92c48053909f5b4dd",
+    "text": "Julian Jaynes argued that prior to roughly 1000 BCE, humans did not have the modern unified inner monologue. Instead, the right hemisphere generated speech that the left hemisphere experienced as an external voice — heard as gods, ancestors, divine commands. Ancient people were not metaphorically hearing gods; they were neurologically hearing voices and correctly reporting the experience. The shift to modern interiority accompanied the administrative complexity of expanding civilizations, which made bicameral command-and-response unworkable. (The Origin of Consciousness in the Breakdown of the Bicameral Mind, Houghton Mifflin, 1976.)",
+    "raw_text": "⟨DOCUMENTED⟩ Julian Jaynes argued that prior to roughly 1000 BCE, humans did not have the modern unified inner monologue. Instead, the right hemisphere generated speech that the left hemisphere experienced as an external voice — heard as gods, ancestors, divine commands. Ancient people were not metaphorically hearing gods; they were neurologically hearing voices and correctly reporting the experience. The shift to modern interiority accompanied the administrative complexity of expanding civilizations, which made bicameral command-and-response unworkable. (*The Origin of Consciousness in the Breakdown of the Bicameral Mind*, Houghton Mifflin, 1976.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.4 The Historical Frame — Jaynes"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.4 The Historical Frame — Jaynes",
+    "source_reference": "paragraph:846",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b5adc0f47a97f0e28ac5",
+    "text": "Jaynes's specific bicameral mechanism is not accepted in mainstream neuroscience. What the framework contributes — and what holds independent of the contested mechanism — is a reframing of the historical question: not \"did ancient people really hear God\" but \"what were they actually hearing, and why did they interpret it that way.\" The ancient divine-voice experience is treated as a real neurological phenomenon rather than fraud or metaphor. That premise is more defensible than the specific mechanism.",
+    "raw_text": "⟨INFERENCE⟩ Jaynes's specific bicameral mechanism is not accepted in mainstream neuroscience. What the framework contributes — and what holds independent of the contested mechanism — is a reframing of the historical question: not \"did ancient people really hear God\" but \"what were they actually hearing, and why did they interpret it that way.\" The ancient divine-voice experience is treated as a real neurological phenomenon rather than fraud or metaphor. That premise is more defensible than the specific mechanism.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.4 The Historical Frame — Jaynes"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.4 The Historical Frame — Jaynes",
+    "source_reference": "paragraph:847",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_38063a6d63a0be127a7b",
+    "text": "Epley, Converse, Delbosc, Monteleone, and Cacioppo established, across correlational, experimental, and neuroimaging evidence, that people unconsciously attribute their own beliefs to God. When people's own beliefs are experimentally shifted, their estimates of God's beliefs shift to match — while their estimates of other people's beliefs do not. The God people believe in tracks the person doing the believing. (\"Believers' Estimates of God's Beliefs Are More Egocentric Than Estimates of Other People's Beliefs,\" PNAS 106(51): 21533–21538, 2009.)",
+    "raw_text": "⟨DOCUMENTED⟩ Epley, Converse, Delbosc, Monteleone, and Cacioppo established, across correlational, experimental, and neuroimaging evidence, that people unconsciously attribute their own beliefs to God. When people's own beliefs are experimentally shifted, their estimates of God's beliefs shift to match — while their estimates of other people's beliefs do not. The God people believe in tracks the person doing the believing. (\"Believers' Estimates of God's Beliefs Are More Egocentric Than Estimates of Other People's Beliefs,\" *PNAS* 106(51): 21533–21538, 2009.)",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.5 The Belief-Projection Evidence Already in Corpus"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.5 The Belief-Projection Evidence Already in Corpus",
+    "source_reference": "paragraph:848",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_79595c2137a87131cdc2",
+    "text": "The study that would close the argument at the voice level has not been done at the required precision: a direct comparison of a person's inner monologue characteristics — tone, vocabulary, moral framework, habitual concerns — with their described characteristics of the God or Jesus they hear. Luhrmann documents the reattribution process but stops short of the systematic comparison: does your God sound like you? Does your Jesus tell you things you already believe? Does the voice ever tell you something you genuinely didn't think or know?",
+    "raw_text": "⟨INFERENCE⟩ The study that would close the argument at the voice level has not been done at the required precision: a direct comparison of a person's inner monologue characteristics — tone, vocabulary, moral framework, habitual concerns — with their described characteristics of the God or Jesus they hear. Luhrmann documents the reattribution process but stops short of the systematic comparison: does your God sound like you? Does your Jesus tell you things you already believe? Does the voice ever tell you something you genuinely didn't think or know?",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.6 The Study Not Yet Done"
+    ],
+    "subtopics": [],
+    "record_type": "QUESTION",
+    "status": "OPEN",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.6 The Study Not Yet Done",
+    "source_reference": "paragraph:849",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8e27597e6d28b143255c",
+    "text": "The prediction is obvious. The God people describe hearing will reflect their own moral vocabulary, their own unresolved concerns, their own existing convictions. Epley establishes this at the level of attributed beliefs. The missing inner-monologue study would establish it at the level of the voice itself. The result would not be ambiguous, and the \"personal relationship\" would be, in measurable terms, a relationship with a culturally labelled projection of the self.",
+    "raw_text": "⟨INFERENCE⟩ The prediction is obvious. The God people describe hearing will reflect their own moral vocabulary, their own unresolved concerns, their own existing convictions. Epley establishes this at the level of attributed beliefs. The missing inner-monologue study would establish it at the level of the voice itself. The result would not be ambiguous, and the \"personal relationship\" would be, in measurable terms, a relationship with a culturally labelled projection of the self.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.6 The Study Not Yet Done"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.6 The Study Not Yet Done",
+    "source_reference": "paragraph:850",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c6e02476be267991e36c",
+    "text": "The claim \"God told me personally\" cannot be evaluated from outside. The framework above makes it evaluable differently: not \"did God actually speak\" (unverifiable) but \"is there an alternative mechanism that accounts for the experience at every level\" (yes — documented with named scholarship across anthropology, neuroscience, and cross-cultural psychiatry).",
+    "raw_text": "The claim \"God told me personally\" cannot be evaluated from outside. The framework above makes it evaluable differently: not \"did God actually speak\" (unverifiable) but \"is there an alternative mechanism that accounts for the experience at every level\" (yes — documented with named scholarship across anthropology, neuroscience, and cross-cultural psychiatry).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.7 How to Use This"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
+    "source_reference": "paragraph:851",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c9e74fc042241e18a319",
+    "text": "•  The cross-cultural content data is the sharpest single point: if the mechanism were divine speech, you'd expect the content to be consistent across cultures. American voice-hearers hearing violent and disturbing content while Ghanaian and Indian voice-hearers hear warm, relational, divine content is exactly what you'd predict from a culturally loaded inner-speech mechanism — and the opposite of what you'd predict from a God who speaks.",
+    "raw_text": "•  The cross-cultural content data is the sharpest single point: if the mechanism were divine speech, you'd expect the content to be consistent across cultures. American voice-hearers hearing violent and disturbing content while Ghanaian and Indian voice-hearers hear warm, relational, divine content is exactly what you'd predict from a culturally loaded inner-speech mechanism — and the opposite of what you'd predict from a God who speaks.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.7 How to Use This"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
+    "source_reference": "paragraph:852",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9901b9a4353cc776edd8",
+    "text": "•  The absorption finding matters for the conversation about spiritual gifts: if hearing God is trainable through prayer practice, it is not a supernatural gift distributed by divine election. It is a learned skill, like any other skill, distributed according to practice.",
+    "raw_text": "•  The absorption finding matters for the conversation about spiritual gifts: if hearing God is trainable through prayer practice, it is not a supernatural gift distributed by divine election. It is a learned skill, like any other skill, distributed according to practice.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.7 How to Use This"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
+    "source_reference": "paragraph:853",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9d63b4580a12039e8aa2",
+    "text": "•  The Epley finding addresses the \"personal relationship\" claim at the belief level: people's God shares their political views, their moral judgments, their social priorities. The God of a pacifist opposes war. The God of a nationalist supports the nation. This is documented, not argued.",
+    "raw_text": "•  The Epley finding addresses the \"personal relationship\" claim at the belief level: people's God shares their political views, their moral judgments, their social priorities. The God of a pacifist opposes war. The God of a nationalist supports the nation. This is documented, not argued.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.7 How to Use This"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
+    "source_reference": "paragraph:854",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a544b8612fa8ab87a9a4",
+    "text": "•  Direct question for conversation: \"When God told you that, did he tell you anything you didn't already think or believe?\"",
+    "raw_text": "•  Direct question for conversation: \"When God told you that, did he tell you anything you didn't already think or believe?\"",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
+      "21.7 How to Use This"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
+    "source_reference": "paragraph:855",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations provenance does not deterministically assign this section to one speaker, and it falls outside the declared §1–17 pre-convention span."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
   }
 ]);
