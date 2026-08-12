@@ -19192,7 +19192,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.2 The Prophets — Sexual Violence as Theology"
+      "15.1 The Legal Framework — Women as Property"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19316,7 +19316,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.3 The New Testament — Silence and Submission"
+      "15.2 The Prophets — Sexual Violence as Theology"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19440,7 +19440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.4 The Theological Tension"
+      "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19471,7 +19471,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.4 The Theological Tension"
+      "15.3 The New Testament — Silence and Submission"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19595,7 +19595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19626,7 +19626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.4 The Theological Tension"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19750,7 +19750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.6 The Strongest Complementarian Case"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19781,7 +19781,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.6 The Strongest Complementarian Case"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19812,7 +19812,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.6 The Strongest Complementarian Case"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19843,7 +19843,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.6 The Strongest Complementarian Case"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19874,7 +19874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.5 Deborah and Mary Magdalene in Egalitarian Readings"
+      "15.6 The Strongest Complementarian Case"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
