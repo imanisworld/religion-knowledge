@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Historical_Framework.md
-// Parser version: 1.1.4
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -25,13 +25,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_af12f6003727e2f92692",
@@ -55,13 +55,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c79d2aab57328f96b529",
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_92ac79dcde94842e87da",
@@ -121,7 +121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd140a8bfb0d046519f9",
@@ -145,13 +145,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ee061b50e9a04fa2f80f",
@@ -176,13 +176,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2c98329e624dfd7ec6c5",
@@ -208,13 +208,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2a62d77b185227542ce",
@@ -240,13 +240,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_56d94fce39640f5af6f7",
@@ -272,13 +272,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c85168449413ef4d346d",
@@ -304,13 +304,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_be0e188cf5cbeea263fa",
@@ -336,13 +336,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c8609a6fa7a759339304",
@@ -368,13 +368,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4a6e9ac065430547411c",
@@ -400,13 +400,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a36ebf892167cdc9c43c",
@@ -438,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — an analogy that clarifies the distinction, not evidence about any particular text.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1dd38057d1d31e722a40",
@@ -464,13 +464,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cacba49519dfb2671a82",
@@ -495,13 +495,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_61f8562a75e77f80f930",
@@ -527,13 +527,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c71eb77709e5cedd7153",
@@ -559,13 +559,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a113116991054d6c2579",
@@ -591,13 +591,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4d87d65cc5f5d7e95783",
@@ -623,13 +623,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90bc067153d9735155a9",
@@ -655,13 +655,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fcec9cb346d61712c40e",
@@ -687,13 +687,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_40defc592b6a7fe8eb28",
@@ -725,7 +725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_96ee3d5ce610ee8793fd",
@@ -751,13 +751,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_487877df76d43c47f721",
@@ -783,13 +783,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a6ed4b90ea8465f413ee",
@@ -815,13 +815,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9da1fabe3ee5fc931c46",
@@ -847,13 +847,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b260cbcc650d519ba6fa",
@@ -879,13 +879,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_28aca2766e75d4e3ea81",
@@ -917,7 +917,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — Claude's read of where the evidence lands between the named camps above⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_faa32efd5ea2e5b7badc",
@@ -943,13 +943,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e889af4cc18ce54806e0",
@@ -975,13 +975,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_cebe709fcdf47f176fb6",
@@ -1007,13 +1007,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11339f4a41d160998ab4",
@@ -1039,13 +1039,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e632fca75dc832a9ef49",
@@ -1071,13 +1071,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_01c89cc8ce632743e230",
@@ -1103,13 +1103,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_517924cda15284609eb4",
@@ -1135,13 +1135,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b4bb6fa0bc52252de581",
@@ -1166,13 +1166,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0dbacb08b5739a74e9f3",
@@ -1197,13 +1197,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0c6b68424c43f1b5c65b",
@@ -1228,13 +1228,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_493b39b1c7664019c51c",
@@ -1259,13 +1259,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b514cc96c3d8b5fda7e3",
@@ -1290,13 +1290,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0cc8db9d14636bf7c4af",
@@ -1321,13 +1321,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8111c9b87c2151385e40",
@@ -1352,13 +1352,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_adbca0b53e5beab6f11e",
@@ -1383,13 +1383,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8619a927bb037557df9f",
@@ -1414,13 +1414,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a9a369f4b30d6db280ea",
@@ -1445,13 +1445,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_27258af0269cb9296e49",
@@ -1476,13 +1476,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_67a18a8e2cedd00cb52f",
@@ -1513,7 +1513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_582185b4d3e95b2173fa",
@@ -1538,18 +1538,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_20756fe8de16a736b251",
-    "text": "1. Quantity measures copying, not accuracy. Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. The gap is where the damage happens. The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. Most manuscripts are late and derivative. The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. We know substantial passages were added, because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence for the text — it is the evidence that the text changed.\n5. Reconstructing the words is not establishing the events. Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
-    "raw_text": "1. **Quantity measures copying, not accuracy.** Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. **The gap is where the damage happens.** The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. **Most manuscripts are late and derivative.** The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is not merely evidence *for* the text — it is the evidence *that the text changed*.\n5. **Reconstructing the words is not establishing the events.** Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
+    "id": "rk_59f91c5a2afb2c54d924",
+    "text": "1. Quantity measures copying, not accuracy. Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. The gap is where the damage happens. The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. Most manuscripts are late and derivative. The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. We know substantial passages were added, because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is the evidence that the text changed, not merely evidence for the text.\n5. Reconstructing the words is not establishing the events. Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
+    "raw_text": "1. **Quantity measures copying, not accuracy.** Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. **The gap is where the damage happens.** The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. **Most manuscripts are late and derivative.** The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is the evidence *that the text changed*, not merely evidence *for* the text.\n5. **Reconstructing the words is not establishing the events.** Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1569,13 +1569,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ced0499a2e14dde54327",
@@ -1600,13 +1600,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_33add543e8078d1345cc",
@@ -1631,13 +1631,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3cd13f6f6884317ed806",
@@ -1662,18 +1662,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b3e01801ccc647ca8153",
-    "text": "The honest critical point is not that a conspiracy picked the books. It is that the process was human, political, and contested for three centuries, that the criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and that there is still no single Christian canon today.",
-    "raw_text": "**The honest critical point** is not that a conspiracy picked the books. It is that **the process was human, political, and contested for three centuries**, that the criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and that there is still no single Christian canon today.",
+    "id": "rk_b7a411ab556dd979df86",
+    "text": "The honest critical point: the process was human, political, and contested for three centuries — not a conspiracy that picked the books. The criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and there is still no single Christian canon today.",
+    "raw_text": "**The honest critical point:** **the process was human, political, and contested for three centuries** — not a conspiracy that picked the books. The criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and there is still no single Christian canon today.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1693,13 +1693,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d2c38bcd1d4612ac5b77",
@@ -1724,13 +1724,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_259947bc4c9dfac6bf06",
@@ -1755,13 +1755,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fe9370505dc7f51bcab7",
@@ -1786,13 +1786,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_45bf76a03213a8ec44e7",
@@ -1817,13 +1817,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2a618771bc4bf4a29c7",
@@ -1848,13 +1848,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9391ea4602b498dd801b",
@@ -1879,13 +1879,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_acfd9f704147d98d4353",
@@ -1910,13 +1910,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_23281eb7bc8aa2ffd188",
@@ -1941,13 +1941,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f9b9093fad2c91469c99",
@@ -1972,13 +1972,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ebd59af27bd5a82eb1fa",
@@ -2003,13 +2003,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c93ac44b0163f0117e09",
@@ -2040,7 +2040,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the facts are documented; the judgement is Claude's⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc6a863240790825d7e0",
@@ -2065,13 +2065,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4dd83b84fcb8614cd823",
@@ -2096,13 +2096,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b9697f9c577444a609e1",
@@ -2127,13 +2127,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_83c65764effc2a0ec618",
@@ -2164,7 +2164,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the dates are documented; the framing is Claude's⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_11fd16180a815e0cebb2",
@@ -2189,13 +2189,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e3ea68bab81c493e5ec0",
@@ -2220,13 +2220,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7ba91b9aa077eb7c8c84",
@@ -2251,13 +2251,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_594b57009eaa7a75ecfc",
@@ -2282,13 +2282,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5b3d098f8506ab92c625",
@@ -2313,13 +2313,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0fff10631bd966bfa6aa",
@@ -2344,13 +2344,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a2532d9ea8c534f6641c",
@@ -2375,13 +2375,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_516101bac5a3bb9a369b",
@@ -2406,13 +2406,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_63bd5534ab2bb1eb6f99",
@@ -2437,13 +2437,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_283ce62e721ba5b899dd",
@@ -2468,13 +2468,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2b5a2e55be2b2c14f3f4",
@@ -2499,13 +2499,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_642910ad925b8a2b7578",
@@ -2530,13 +2530,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5c6b49386c0e36037964",
@@ -2561,13 +2561,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_68d71162d041e992d7e8",
@@ -2592,13 +2592,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6c4b04dd25aea17b62c4",
@@ -2623,13 +2623,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_9d82cdbd3c4c5e9a457e",
@@ -2654,13 +2654,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0f7958b1718e17cdf5e7",
@@ -2685,13 +2685,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7f412088fb1b32a3a5cb",
@@ -2716,13 +2716,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e1779ae3dde7a004bee8",
@@ -2747,13 +2747,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_799cf2a9230c2fb6f675",
@@ -2778,13 +2778,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ccbd3495b278c27b44f9",
@@ -2809,13 +2809,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_840cc52956e8280a59ae",
@@ -2840,13 +2840,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4ded8d83d7f10d16113c",
@@ -2877,7 +2877,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4bdacb8c1fdee2da0027",
@@ -2902,24 +2902,25 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_306c14052f6b74e0632b",
-    "text": "Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.",
-    "raw_text": "*Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.*",
+    "id": "rk_e90caa97d28158557fe5",
+    "text": "Across the major early Christian writers — men and women, across the centuries this section covers — a real common core exists: Jesus central to salvation, his crucifixion and resurrection, the authority of Scripture, the importance of baptism, prayer/repentance/moral discipline, preserving apostolic teaching, martyrdom as a supreme act of faithfulness, ascetic and sexual discipline commonly (not universally) valued, the reality of resurrection and final judgment, and rejection of idolatry. Much of this crystallized in the Nicene Creed (325/381 CE — see §7). Everything below this line is where they didn't agree.",
+    "raw_text": "Across the major early Christian writers — men and women, across the centuries this section covers — a real common core exists: Jesus central to salvation, his crucifixion and resurrection, the authority of Scripture, the importance of baptism, prayer/repentance/moral discipline, preserving apostolic teaching, martyrdom as a supreme act of faithfulness, ascetic and sexual discipline commonly (not universally) valued, the reality of resurrection and final judgment, and rejection of idolatry. Much of this crystallized in the Nicene Creed (325/381 CE — see §7). Everything below this line is where they didn't agree.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
-      "11. Handling Uncertainty in Reading and Conversation"
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.1 The shared core"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -2927,18 +2928,530 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.1 The shared core",
     "source_reference": "paragraph:94",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e533988256d46eb6e7ab",
+    "text": "| Period | Historical context | Key figures | Main agreement | Main disagreement |\n|---|---|---|---|---|\n| 1st–2nd c. | Christianity separating from Judaism; local, sporadic persecution (see §8); no fixed NT canon yet | Clement of Rome, Ignatius of Antioch, Polycarp, Justin Martyr | Jesus, resurrection, baptism, church unity | Authority, relation to Judaism, martyrdom |\n| 3rd c. | Expansion under continued sporadic persecution, empire-wide under Decius (250); theological schools develop | Origen, Tertullian, Cyprian, Perpetua (martyred Carthage, 7 March 203) | Scripture, Christ, church, salvation | Allegory vs. literal reading, free will, rebaptism of heretics, restoration after apostasy |\n| 4th c. | Legalized (313), then state religion (380); emperors convene councils to settle doctrine | Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, Macrina the Younger, Syncletica | Christianity now needs formal, empire-wide doctrine | The Trinity, Jesus' full divinity (Arius vs. Athanasius — see §7), asceticism |\n| 5th c. | Institutionally dominant in the Roman world; Christological formula fought over and formalized | Augustine, Jerome, Cyril of Alexandria, Leo the Great, Melania the Elder, Paula | Nicene Christianity as baseline | Original sin, grace, predestination, Christ's two natures (Chalcedon, 451), authority (papal vs. conciliar) |\n| 6th–8th c. | East and West diverge institutionally; Byzantine Christianity consolidates, then fractures again over Christ's will | Gregory the Great, Maximus the Confessor, John of Damascus | Inherited Nicene/Chalcedonian Christianity | Monothelitism (one will vs. two in Christ — see below), papal authority, then icons |\n| 1054 | East–West Schism | — | Sacramental, apostolic Christianity | Papal authority, the Filioque, jurisdiction |\n| 1200s | Medieval Catholic scholasticism | Thomas Aquinas (medieval, not a Church Father — see §12.5) | Christianity systematized through philosophy | Faith/reason, sacramental theology, grace |\n| 1500s | Protestant Reformation | Luther, Calvin, Zwingli | Jesus, Scripture, salvation | Papal authority, justification, sacraments |\n| 1600s–1900s | Protestant denominations multiply | Baptists, Methodists, Pentecostals, and others | Basic Christian core (see §12.1) | Baptism, predestination, spiritual gifts, women's ordination, salvation |",
+    "raw_text": "| Period | Historical context | Key figures | Main agreement | Main disagreement |\n|---|---|---|---|---|\n| 1st–2nd c. | Christianity separating from Judaism; local, sporadic persecution (see §8); no fixed NT canon yet | Clement of Rome, Ignatius of Antioch, Polycarp, Justin Martyr | Jesus, resurrection, baptism, church unity | Authority, relation to Judaism, martyrdom |\n| 3rd c. | Expansion under continued sporadic persecution, empire-wide under Decius (250); theological schools develop | Origen, Tertullian, Cyprian, Perpetua (martyred Carthage, 7 March 203) | Scripture, Christ, church, salvation | Allegory vs. literal reading, free will, rebaptism of heretics, restoration after apostasy |\n| 4th c. | Legalized (313), then state religion (380); emperors convene councils to settle doctrine | Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, Macrina the Younger, Syncletica | Christianity now needs formal, empire-wide doctrine | The Trinity, Jesus' full divinity (Arius vs. Athanasius — see §7), asceticism |\n| 5th c. | Institutionally dominant in the Roman world; Christological formula fought over and formalized | Augustine, Jerome, Cyril of Alexandria, Leo the Great, Melania the Elder, Paula | Nicene Christianity as baseline | Original sin, grace, predestination, Christ's two natures (Chalcedon, 451), authority (papal vs. conciliar) |\n| 6th–8th c. | East and West diverge institutionally; Byzantine Christianity consolidates, then fractures again over Christ's will | Gregory the Great, Maximus the Confessor, John of Damascus | Inherited Nicene/Chalcedonian Christianity | Monothelitism (one will vs. two in Christ — see below), papal authority, then icons |\n| 1054 | East–West Schism | — | Sacramental, apostolic Christianity | Papal authority, the *Filioque*, jurisdiction |\n| 1200s | Medieval Catholic scholasticism | Thomas Aquinas *(medieval, not a Church Father — see §12.5)* | Christianity systematized through philosophy | Faith/reason, sacramental theology, grace |\n| 1500s | Protestant Reformation | Luther, Calvin, Zwingli | Jesus, Scripture, salvation | Papal authority, justification, sacraments |\n| 1600s–1900s | Protestant denominations multiply | Baptists, Methodists, Pentecostals, and others | Basic Christian core (see §12.1) | Baptism, predestination, spiritual gifts, women's ordination, salvation |",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.2 Chronological table"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.2 Chronological table",
+    "source_reference": "paragraph:95",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_77a6cb3d9024683e1da2",
+    "text": "Maximus the Confessor's punishment is worth stating plainly, not softening. He opposed Monothelitism — the doctrine, briefly imperially favored, that Christ had only one will rather than two (divine and human) — and was tried, mutilated (tongue excised, right hand severed — most sources place this in 661), and exiled to Lazica in the Caucasus, where he died on 13 August 662. Monothelitism was itself condemned as heresy nineteen years later, at the Third Council of Constantinople (680–681). Sources: Pauline Allen and Bronwen Neil, Maximus the Confessor and His Companions: Documents from Exile (Oxford University Press, 2002) — a translation of the trial/exile documents themselves — and Andrew Louth, Maximus the Confessor (Routledge, 1996).",
+    "raw_text": "**Maximus the Confessor's punishment is worth stating plainly, not softening.** He opposed Monothelitism — the doctrine, briefly imperially favored, that Christ had only one will rather than two (divine and human) — and was tried, mutilated (tongue excised, right hand severed — most sources place this in 661), and exiled to Lazica in the Caucasus, where he died on 13 August 662. Monothelitism was itself condemned as heresy nineteen years later, at the Third Council of Constantinople (680–681). Sources: Pauline Allen and Bronwen Neil, *Maximus the Confessor and His Companions: Documents from Exile* (Oxford University Press, 2002) — a translation of the trial/exile documents themselves — and Andrew Louth, *Maximus the Confessor* (Routledge, 1996).",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.2 Chronological table"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.2 Chronological table",
+    "source_reference": "paragraph:96",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bc328e216451c3d418cb",
+    "text": "| Issue | One side | Other side |\n|---|---|---|\n| Jesus' divinity | Arius: the Son was created, subordinate to the Father | Athanasius: the Son is fully, eternally God — see §7 |\n| Free will and grace | Origen and most Eastern writers: substantial human freedom | Augustine: the will is damaged by sin; grace is decisive |\n| Original sin | Augustine: humanity inherits a profoundly fallen condition | Eastern writers: inherited mortality/corruption emphasized over inherited guilt |\n| Predestination | Augustine: strong doctrine of election | Most Eastern writers: markedly less deterministic |\n| Hell | Augustine: eternal conscious punishment | Origen: entertained eventual universal restoration; condemned at Constantinople II, 553 |\n| Scripture interpretation | Origen: allegorical/spiritual readings | Antiochene writers (Chrysostom, Theodore of Mopsuestia): historical/literal emphasis — see caveat below |\n| Marriage vs. celibacy | Jerome: celibacy clearly superior | Others defended marriage more strongly |\n| Rebaptizing converts from heretical groups | Cyprian of Carthage: rebaptize | Stephen of Rome: earlier baptism can remain valid |\n| Christ's one will or two | Monothelite position (imperially favored, mid-600s) | Maximus the Confessor: two wills — opposed Monothelitism, died for it, see §12.2 |\n| Church authority | Rome: increasing claim to universal jurisdiction | Eastern bishops: resisted universal papal control |\n| Canon | Some accepted Hebrews, Revelation, James, 2 Peter | Others doubted or rejected them — see §5 |",
+    "raw_text": "| Issue | One side | Other side |\n|---|---|---|\n| Jesus' divinity | Arius: the Son was created, subordinate to the Father | Athanasius: the Son is fully, eternally God — see §7 |\n| Free will and grace | Origen and most Eastern writers: substantial human freedom | Augustine: the will is damaged by sin; grace is decisive |\n| Original sin | Augustine: humanity inherits a profoundly fallen condition | Eastern writers: inherited mortality/corruption emphasized over inherited guilt |\n| Predestination | Augustine: strong doctrine of election | Most Eastern writers: markedly less deterministic |\n| Hell | Augustine: eternal conscious punishment | Origen: entertained eventual universal restoration; condemned at Constantinople II, 553 |\n| Scripture interpretation | Origen: allegorical/spiritual readings | Antiochene writers (Chrysostom, Theodore of Mopsuestia): historical/literal emphasis — see caveat below |\n| Marriage vs. celibacy | Jerome: celibacy clearly superior | Others defended marriage more strongly |\n| Rebaptizing converts from heretical groups | Cyprian of Carthage: rebaptize | Stephen of Rome: earlier baptism can remain valid |\n| Christ's one will or two | Monothelite position (imperially favored, mid-600s) | Maximus the Confessor: two wills — opposed Monothelitism, died for it, see §12.2 |\n| Church authority | Rome: increasing claim to universal jurisdiction | Eastern bishops: resisted universal papal control |\n| Canon | Some accepted Hebrews, Revelation, James, 2 Peter | Others doubted or rejected them — see §5 |",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.3 Where they actually disagreed"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.3 Where they actually disagreed",
+    "source_reference": "paragraph:97",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8a6ae239c35ae643a47a",
+    "text": "The Alexandrian/Antiochene split needs a caveat. [CRITICAL] Frances Young, Biblical Exegesis and the Formation of Christian Culture (Cambridge University Press, 1997), argues the standard \"Alexandria = allegory, Antioch = literal history\" textbook binary is overdrawn — the real methodological difference concerned how to read Scripture as unified narrative, not a clean allegorical-vs-literal split, and both schools used both techniques to some degree. This reframing has gained ground in patristics scholarship since the 1990s. The table row above is standard shorthand — not wrong, but it compresses a more nuanced dispute.",
+    "raw_text": "**The Alexandrian/Antiochene split needs a caveat.** [CRITICAL] Frances Young, *Biblical Exegesis and the Formation of Christian Culture* (Cambridge University Press, 1997), argues the standard \"Alexandria = allegory, Antioch = literal history\" textbook binary is overdrawn — the real methodological difference concerned how to read Scripture as unified narrative, not a clean allegorical-vs-literal split, and both schools used both techniques to some degree. This reframing has gained ground in patristics scholarship since the 1990s. The table row above is standard shorthand — not wrong, but it compresses a more nuanced dispute.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.3 Where they actually disagreed"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.3 Where they actually disagreed",
+    "source_reference": "paragraph:98",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_363c003439fffe859282",
+    "text": "Marcion deserves more than \"rejected the Old Testament.\" He proposed, around the 140s CE, the first known fixed Christian scriptural canon: an edited Luke plus ten Pauline letters, no Old Testament. [CRITICAL, early 20th c.] Adolf von Harnack, Marcion: Das Evangelium vom fremden Gott (1921, expanded 1924), argued this forced the proto-orthodox church to define its own canon in direct response — a \"catalyst\" framing repeated in scholarship for decades. It is not settled. [CRITICAL, revisionist] John Barton directly disputes it, arguing (in The Cambridge History of Christianity) that \"Marcion was not responsible for the Christians adopting a New Testament; he was responsible for their retaining the Old Testament\" — that Marcion's canon provoked the church into keeping the Hebrew Bible more than it provoked the New Testament's formation. David Trobisch, On the Origin of Christian Scripture (2024), offers a third position: the canonical NT reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype. Treat Harnack's version as a real, historically influential thesis, not a settled fact .",
+    "raw_text": "**Marcion deserves more than \"rejected the Old Testament.\"** He proposed, around the 140s CE, the first known fixed Christian scriptural canon: an edited Luke plus ten Pauline letters, no Old Testament. [CRITICAL, early 20th c.] Adolf von Harnack, *Marcion: Das Evangelium vom fremden Gott* (1921, expanded 1924), argued this forced the proto-orthodox church to define its own canon in direct response — a \"catalyst\" framing repeated in scholarship for decades. It is not settled. [CRITICAL, revisionist] John Barton directly disputes it, arguing (in *The Cambridge History of Christianity*) that \"Marcion was not responsible for the Christians adopting a New Testament; he was responsible for their retaining the Old Testament\" — that Marcion's canon provoked the church into keeping the Hebrew Bible more than it provoked the New Testament's formation. David Trobisch, *On the Origin of Christian Scripture* (2024), offers a third position: the canonical NT reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype. **Treat Harnack's version as a real, historically influential thesis, not a settled fact** ⟨INFERENCE — the three positions are documented; the \"not settled\" framing is Claude's synthesis of the disagreement between them⟩.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.3 Where they actually disagreed"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.3 Where they actually disagreed",
+    "source_reference": "paragraph:99",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE — the three positions are documented; the \"not settled\" framing is Claude's synthesis of the disagreement between them⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2084a799c73c98eec8fa",
+    "text": "[CRITICAL, constructionist] Walter Bauer, Orthodoxy and Heresy in Earliest Christianity (German 1934; English translation, Fortress Press, 1971) argued the standard model — a stable original orthodoxy from which heresies later deviated — has the direction backwards in several regions. In Edessa, he held, the earliest Christianity present was Marcionite, with a recognizably \"orthodox\" form not arriving until roughly 300 CE; in Egypt, he argued a Gnostic form of Christianity was dominant before 200 CE. On this reading, Rome's version of Christianity won institutionally and later cast the alternatives as deviations from an orthodoxy that hadn't actually existed yet in those places. Bart Ehrman, Lost Christianities: The Battle for Scripture and the Faiths We Never Knew (2003), calls Bauer's book \"the most important book on the history of early Christianity written in the twentieth century\" and extends the same framework — competing early Christianities, with the winning \"proto-orthodox\" faction eventually suppressing and rewriting the others' texts and history.",
+    "raw_text": "[CRITICAL, constructionist] Walter Bauer, *Orthodoxy and Heresy in Earliest Christianity* (German 1934; English translation, Fortress Press, 1971) argued the standard model — a stable original orthodoxy from which heresies later deviated — has the direction backwards in several regions. In Edessa, he held, the earliest Christianity present was Marcionite, with a recognizably \"orthodox\" form not arriving until roughly 300 CE; in Egypt, he argued a Gnostic form of Christianity was dominant before 200 CE. On this reading, Rome's version of Christianity won institutionally and later cast the alternatives as deviations from an orthodoxy that hadn't actually existed yet in those places. Bart Ehrman, *Lost Christianities: The Battle for Scripture and the Faiths We Never Knew* (2003), calls Bauer's book \"the most important book on the history of early Christianity written in the twentieth century\" and extends the same framework — competing early Christianities, with the winning \"proto-orthodox\" faction eventually suppressing and rewriting the others' texts and history.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.4 Why \"Church Father\" is itself a retrospective label"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.4 Why \"Church Father\" is itself a retrospective label",
+    "source_reference": "paragraph:100",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
       "method": "document_provenance",
       "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4d716505ee5f2e9d821b",
+    "text": "[CRITICAL, revisionist] This is contested, not settled. H.E.W. Turner, The Pattern of Christian Truth (Bampton Lectures, 1954), argued for substantially more doctrinal continuity than Bauer credited, pointing to the Rule of Faith rooted in early baptismal formulae as a stabilizing structure that predates the heresiological boundary-drawing Bauer emphasized. Thomas A. Robinson, The Bauer Thesis Examined: The Geography of Heresy in the Early Christian Church (1988), re-examined Bauer's regional evidence directly and concluded the surviving sub-apostolic sources are too thin to support the claim that heresy was chronologically and numerically prior in Edessa or Egypt; Colin H. Roberts separately showed the bulk of surviving early Egyptian Christian manuscripts are not heterodox, cutting against Bauer's Egypt claim specifically.",
+    "raw_text": "[CRITICAL, revisionist] This is contested, not settled. H.E.W. Turner, *The Pattern of Christian Truth* (Bampton Lectures, 1954), argued for substantially more doctrinal continuity than Bauer credited, pointing to the Rule of Faith rooted in early baptismal formulae as a stabilizing structure that predates the heresiological boundary-drawing Bauer emphasized. Thomas A. Robinson, *The Bauer Thesis Examined: The Geography of Heresy in the Early Christian Church* (1988), re-examined Bauer's regional evidence directly and concluded the surviving sub-apostolic sources are too thin to support the claim that heresy was chronologically and numerically prior in Edessa or Egypt; Colin H. Roberts separately showed the bulk of surviving early Egyptian Christian manuscripts are not heterodox, cutting against Bauer's Egypt claim specifically.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.4 Why \"Church Father\" is itself a retrospective label"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.4 Why \"Church Father\" is itself a retrospective label",
+    "source_reference": "paragraph:101",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9651cdce1684111e8f32",
+    "text": "Why this matters for the roster below : \"Church Father\" is a label Christianity applied after the fact to the winning side of disputes it was still having while these people were alive — not a neutral description of who taught first or best. That doesn't make the label meaningless — the people below really did shape what became mainstream Christianity — but the category itself already encodes who won, worth remembering whenever a claim is framed as \"the Fathers taught X.\"",
+    "raw_text": "**Why this matters for the roster below** ⟨INFERENCE⟩**:** \"Church Father\" is a label Christianity applied after the fact to the winning side of disputes it was still having while these people were alive — not a neutral description of who taught first or best. That doesn't make the label meaningless — the people below really did shape what became mainstream Christianity — but the category itself already encodes who won, worth remembering whenever a claim is framed as \"the Fathers taught X.\"",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.4 Why \"Church Father\" is itself a retrospective label"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.4 Why \"Church Father\" is itself a retrospective label",
+    "source_reference": "paragraph:102",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4e54deadac9f283946e5",
+    "text": "Church Fathers (dates, one-line association):",
+    "raw_text": "**Church Fathers** (dates, one-line association):",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:103",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_78854cf8e982028d5664",
+    "text": "Clement of Rome — late 1st c. — church order, authority, unity\nIgnatius of Antioch — early 2nd c. — bishops, Eucharist, martyrdom\nPolycarp of Smyrna — 2nd c. (martyred c. 155) — apostolic tradition, martyrdom\nJustin Martyr — 2nd c. (c. 100–165) — philosophical defense of Christianity\nIrenaeus of Lyons — 2nd c. (c. 130–202) — anti-Gnostic, apostolic tradition\nTertullian — late 2nd/early 3rd c. (c. 155–220) — major Latin theologian; later Montanist\nOrigen — 3rd c. (c. 185–253) — allegory, free will, speculative theology; condemned posthumously, Constantinople II, 553\nCyprian of Carthage — 3rd c. (c. 200–258) — church authority, baptism, the lapsi controversy\nAthanasius of Alexandria — 4th c. (c. 296–373) — defended Jesus' full divinity against Arius\nBasil the Great — 4th c. (c. 330–379) — Trinity, monasticism\nGregory of Nazianzus — 4th c. (c. 329–390) — Trinity, Christology\nGregory of Nyssa — 4th c. (c. 335–395) — Trinity, spiritual development, resurrection\nAmbrose of Milan — 4th c. (c. 340–397) — bishop; major influence on Augustine\nJerome — 4th/5th c. (c. 347–420) — Latin Vulgate; strong ascetic advocate\nJohn Chrysostom — 4th/5th c. (c. 349–407) — preaching, historical/literal exegesis\nAugustine of Hippo — 4th/5th c. (354–430) — original sin, grace, free will, predestination\nCyril of Alexandria — 5th c. (c. 376–444) — Christological disputes (opposed Nestorius)\nLeo the Great — 5th c. (c. 400–461) — papal authority; Christology at Chalcedon\nGregory the Great — pope 590–604 — major Western pope-theologian, spans 6th/7th c.\nMaximus the Confessor — c. 580–662 — opposed Monothelitism; mutilated and exiled for it — see §12.2\nJohn of Damascus — c. 675–749 — defended icons against Byzantine Iconoclasm",
+    "raw_text": "- Clement of Rome — late 1st c. — church order, authority, unity\n- Ignatius of Antioch — early 2nd c. — bishops, Eucharist, martyrdom\n- Polycarp of Smyrna — 2nd c. (martyred c. 155) — apostolic tradition, martyrdom\n- Justin Martyr — 2nd c. (c. 100–165) — philosophical defense of Christianity\n- Irenaeus of Lyons — 2nd c. (c. 130–202) — anti-Gnostic, apostolic tradition\n- Tertullian — late 2nd/early 3rd c. (c. 155–220) — major Latin theologian; later Montanist\n- Origen — 3rd c. (c. 185–253) — allegory, free will, speculative theology; condemned posthumously, Constantinople II, 553\n- Cyprian of Carthage — 3rd c. (c. 200–258) — church authority, baptism, the *lapsi* controversy\n- Athanasius of Alexandria — 4th c. (c. 296–373) — defended Jesus' full divinity against Arius\n- Basil the Great — 4th c. (c. 330–379) — Trinity, monasticism\n- Gregory of Nazianzus — 4th c. (c. 329–390) — Trinity, Christology\n- Gregory of Nyssa — 4th c. (c. 335–395) — Trinity, spiritual development, resurrection\n- Ambrose of Milan — 4th c. (c. 340–397) — bishop; major influence on Augustine\n- Jerome — 4th/5th c. (c. 347–420) — Latin Vulgate; strong ascetic advocate\n- John Chrysostom — 4th/5th c. (c. 349–407) — preaching, historical/literal exegesis\n- Augustine of Hippo — 4th/5th c. (354–430) — original sin, grace, free will, predestination\n- Cyril of Alexandria — 5th c. (c. 376–444) — Christological disputes (opposed Nestorius)\n- Leo the Great — 5th c. (c. 400–461) — papal authority; Christology at Chalcedon\n- Gregory the Great — pope 590–604 — major Western pope-theologian, spans 6th/7th c.\n- Maximus the Confessor — c. 580–662 — opposed Monothelitism; mutilated and exiled for it — see §12.2\n- John of Damascus — c. 675–749 — defended icons against Byzantine Iconoclasm",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:104",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5cdca283b1d9dd5e6eca",
+    "text": "Disputed or \"losing-side\" figures (the label \"heretic\" is retrospective — see §12.4):",
+    "raw_text": "**Disputed or \"losing-side\" figures** (the label \"heretic\" is retrospective — see §12.4):",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:105",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_064b3bd7b81a8d151362",
+    "text": "Arius — the Son not eternal in the same sense as the Father\nPelagius — emphasized human moral capacity and free will; opposed by Augustine\nNestorius — condemned at Ephesus (431) for allegedly dividing Christ into two persons; his own objection was specifically to calling Mary Theotokos. The label attached to his name likely misrepresents both him and the tradition named after him: [CRITICAL] Sebastian Brock, \"The 'Nestorian' Church: A Lamentable Misnomer,\" Bulletin of the John Rylands Library 78.3 (1996), 23–35, argues the Church of the East's connection to Nestorius is \"of a very tenuous nature\" — across its eight synods (486–612) Nestorius's name never once appears, while Theodore of Mopsuestia is repeatedly affirmed as its actual theological touchstone. This is the standard reference on the mislabeling, not a fringe position.\nMarcion — proposed the first fixed Christian canon (edited Luke + ten Pauline letters, no OT); excommunicated c. 144 — see §12.3 for his disputed role in provoking the mainstream canon\nMontanus — continuing prophecy, ecstatic spiritual gifts (\"New Prophecy\"); later joined by Tertullian",
+    "raw_text": "- Arius — the Son not eternal in the same sense as the Father\n- Pelagius — emphasized human moral capacity and free will; opposed by Augustine\n- Nestorius — condemned at Ephesus (431) for allegedly dividing Christ into two persons; his own objection was specifically to calling Mary *Theotokos*. **The label attached to his name likely misrepresents both him and the tradition named after him:** [CRITICAL] Sebastian Brock, \"The 'Nestorian' Church: A Lamentable Misnomer,\" *Bulletin of the John Rylands Library* 78.3 (1996), 23–35, argues the Church of the East's connection to Nestorius is \"of a very tenuous nature\" — across its eight synods (486–612) Nestorius's name never once appears, while Theodore of Mopsuestia is repeatedly affirmed as its actual theological touchstone. This is the standard reference on the mislabeling, not a fringe position.\n- Marcion — proposed the first fixed Christian canon (edited Luke + ten Pauline letters, no OT); excommunicated c. 144 — see §12.3 for his disputed role in provoking the mainstream canon\n- Montanus — continuing prophecy, ecstatic spiritual gifts (\"New Prophecy\"); later joined by Tertullian",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:106",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8f6ea760053b5b812d21",
+    "text": "Church Mothers (the category is far less standardized, and the surviving evidence is much thinner — see the note below):",
+    "raw_text": "**Church Mothers** (the category is far less standardized, and the surviving evidence is much thinner — see the note below):",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:107",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_74825c81dfefb3b300fe",
+    "text": "Thecla — associated with Paul in the apocryphal Acts of Paul and Thecla (2nd c.). This one needs a flag the others below don't: Tertullian, De Baptismo 17, states the text was written by an Asian presbyter who was removed from office after confessing he fabricated it \"out of love of Paul.\" Thecla is a literary figure whose later cult became historically real, not a woman with the kind of contemporary attestation Perpetua or Egeria have.\nPerpetua — martyred at Carthage, 7 March 203 (occasionally given as 202) — her passion narrative is treated as containing an actual first-person female voice, unusually early\nFelicity — martyred alongside Perpetua\nMacrina the Younger — c. 327–379 — theological influence on her brothers Basil the Great and Gregory of Nyssa; closer to Eastern theology than to later Augustinian Western Christianity\nMonica — Augustine's mother; known through his account of her in the Confessions, not through her own surviving writing\nSyncletica of Alexandria — Desert Mother; teachings on temptation, discipline, prayer\nSarah of the Desert (Amma Sarah) — Desert Mother, one of three named women in the Apophthegmata Patrum\nTheodora (Amma Theodora) — Desert Mother, also named in the Apophthegmata Patrum\nMelania the Elder — associated with Origenist circles; asceticism, monastic patronage\nMelania the Younger — granddaughter of Melania the Elder; wealthy ascetic, monastic founder\nPaula of Rome — worked closely with Jerome; funded and collaborated on his biblical scholarship\nMarcella of Rome — biblical scholar and ascetic, part of the same Aventine circle as Paula and Jerome\nOlympias the Deaconess — close associate of John Chrysostom; his surviving letters to her are a major source\nEgeria — 4th c. pilgrim; her travel account (Itinerarium Egeriae) is a major primary source for early Christian liturgy in Jerusalem\nProba — 4th c. Christian poet; retold biblical themes using recombined lines of Virgil (a cento)",
+    "raw_text": "- Thecla — associated with Paul in the apocryphal *Acts of Paul and Thecla* (2nd c.). **This one needs a flag the others below don't:** Tertullian, *De Baptismo* 17, states the text was written by an Asian presbyter who was removed from office after confessing he fabricated it \"out of love of Paul.\" Thecla is a literary figure whose later cult became historically real, not a woman with the kind of contemporary attestation Perpetua or Egeria have.\n- Perpetua — martyred at Carthage, 7 March 203 (occasionally given as 202) — her passion narrative is treated as containing an actual first-person female voice, unusually early\n- Felicity — martyred alongside Perpetua\n- Macrina the Younger — c. 327–379 — theological influence on her brothers Basil the Great and Gregory of Nyssa; closer to Eastern theology than to later Augustinian Western Christianity\n- Monica — Augustine's mother; known through his account of her in the *Confessions*, not through her own surviving writing\n- Syncletica of Alexandria — Desert Mother; teachings on temptation, discipline, prayer\n- Sarah of the Desert (Amma Sarah) — Desert Mother, one of three named women in the *Apophthegmata Patrum*\n- Theodora (Amma Theodora) — Desert Mother, also named in the *Apophthegmata Patrum*\n- Melania the Elder — associated with Origenist circles; asceticism, monastic patronage\n- Melania the Younger — granddaughter of Melania the Elder; wealthy ascetic, monastic founder\n- Paula of Rome — worked closely with Jerome; funded and collaborated on his biblical scholarship\n- Marcella of Rome — biblical scholar and ascetic, part of the same Aventine circle as Paula and Jerome\n- Olympias the Deaconess — close associate of John Chrysostom; his surviving letters to her are a major source\n- Egeria — 4th c. pilgrim; her travel account (*Itinerarium Egeriae*) is a major primary source for early Christian liturgy in Jerusalem\n- Proba — 4th c. Christian poet; retold biblical themes using recombined lines of Virgil (a *cento*)",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:108",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_881f2fcb688cf4cb4f56",
+    "text": "Did the Mothers and Fathers disagree along sex lines? No — and this is the actual finding, not a caveat to it . The visible pattern is theological network, not gender: Macrina and Gregory of Nyssa share an Eastern, more hopeful theology; Melania the Elder sits in Origenist circles; Jerome and Paula share an intensely ascetic emphasis. The honest limitation is evidentiary, not conceptual: far less writing by women survives, because women were excluded from the episcopal hierarchy that controlled councils and textual preservation, not because they weren't participating in the same disputes. The surviving record tells you what male institutions preserved about women's theology at least as much as it tells you what women actually believed.",
+    "raw_text": "**Did the Mothers and Fathers disagree along sex lines?** No — and this is the actual finding, not a caveat to it ⟨INFERENCE⟩. The visible pattern is theological network, not gender: Macrina and Gregory of Nyssa share an Eastern, more hopeful theology; Melania the Elder sits in Origenist circles; Jerome and Paula share an intensely ascetic emphasis. The honest limitation is evidentiary, not conceptual: far less writing by women survives, because women were excluded from the episcopal hierarchy that controlled councils and textual preservation, not because they weren't participating in the same disputes. The surviving record tells you what male institutions preserved about women's theology at least as much as it tells you what women actually believed.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:109",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a54075a380a35d721b2c",
+    "text": "Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.",
+    "raw_text": "*Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.*",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "12. The Patristic Era — Church Fathers, Church Mothers, and the Councils",
+      "12.5 Reference roster"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
+    "source_reference": "paragraph:110",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
   }
 ]);

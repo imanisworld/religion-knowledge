@@ -142,8 +142,7 @@ a{color:var(--accent);text-underline-offset:2px}
 .mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
 .mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
 .camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
-  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:normal;
-  overflow-wrap:anywhere;-webkit-box-decoration-break:clone;box-decoration-break:clone}
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
 
 /* cross-reference links */
 .xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
@@ -185,7 +184,7 @@ a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:supe
   letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
 #nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
 
-table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}
+table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}code,pre{overflow-wrap:anywhere;word-break:break-word}
 th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
   color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
 td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
@@ -216,7 +215,7 @@ h2 span.flagmark{color:var(--collapses)}
   <header>
     <p class="doctitle">Observations: Live Conversation Reference</p>
     <p class="docsub">Reading notes &amp; conversation questions</p>
-    <div class="docswitch"><a class="app-link" href="app/" title="Open the app">App</a><a href="master-notes.html">Study Notes</a><a class="on" href="#">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="glossary.html">Glossary</a></div>
+    <div class="docswitch"><a class="app-link" href="app/" title="Open the app">App</a><a href="master-notes.html">Study Notes</a><a class="on" href="#">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a href="glossary.html">Glossary</a></div>
   </header>
   <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
   <div id="toc"><a class="lvl2" href="#s1-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1.1</span> The Is-Ought Fallacy (Hume’s Guillotine)</a>
@@ -231,8 +230,9 @@ h2 span.flagmark{color:var(--collapses)}
 <a class="lvl2" href="#s3-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.1</span> The Crusades (1095-1291)</a>
 <a class="lvl4 st-holds" href="#a-crusades-framing">Crusades Framing</a>
 <a class="lvl2" href="#s3-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.2</span> Biblical Slavery</a>
-<a class="lvl2" href="#s4-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.1</span> Learned Religious Fear</a>
-<a class="lvl4 st-holds" href="#a-only-two-innate-fears">Is Religious Fear Innate or Learned?</a>
+<a class="lvl2" href="#s3-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3.3</span> The Curse of Ham (Genesis 9:20-27)</a>
+<a class="lvl2" href="#s4-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.1</span> Innate vs. Learned Fear</a>
+<a class="lvl4 st-collapses" href="#a-only-two-innate-fears">“Only Two Innate Fears”</a>
 <a class="lvl2" href="#s4-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4.2</span> Motivated Reasoning and God-Image (Epley et al.)</a>
 <a class="lvl2" href="#s5-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">5.1</span> Was Jesus healing out of compassion or to prove a point?</a>
 <a class="lvl2" href="#s6-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6.1</span> Clarifying circular reasoning:</a>
@@ -262,15 +262,22 @@ leap</a>
 <a class="lvl2" href="#s12-6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.6</span> Galatians 3:28 vs. Colossians 3:22 / Ephesians 6:5</a>
 <a class="lvl2" href="#s12-7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.7</span> John 14:6</a>
 <a class="lvl2" href="#s12-8"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.8</span> John 8:44</a>
+<a class="lvl4 st-overstated" href="#a-john-844-and-antisemitism">John 8:44 and “Antisemitism”</a>
 <a class="lvl2" href="#s12-9"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.9</span> Proverbs 3:5</a>
 <a class="lvl2" href="#s12-10"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.10</span> Amos 5:21-24</a>
 <a class="lvl2" href="#s12-11"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.11</span> Micah 6:8</a>
 <a class="lvl2" href="#s12-12"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.12</span> Isaiah 55:8-9</a>
+<a class="lvl2" href="#s12-13"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.13</span> Numbers 1 and 26 — The Census "Eleph" Argument</a>
+<a class="lvl2" href="#s12-14"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">12.14</span> Is Hatred a Sin?</a>
 <a class="lvl2" href="#s13-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">13.1</span> What the Bible says — and where it contradicts itself</a>
 <a class="lvl2" href="#s13-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">13.2</span> Pre-Nicene Diversity — What Believers Usually Don’t Know</a>
+<a class="lvl4 st-overstated" href="#a-adoptionism-in-mark">Adoptionism in Mark</a>
 <a class="lvl2" href="#s13-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">13.3</span> What Nicaea Actually Was</a>
+<a class="lvl4 st-holds" href="#a-nicaeas-vote-attendance-and-dissent">Nicaea’s “Vote”: Attendance and Dissent</a>
 <a class="lvl2" href="#s13-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">13.4</span> Logical Problems the Doctrine Produces</a>
+<a class="lvl4 st-overstated" href="#a-logical-questions-the-traditional-answers-were-missing">Logical Questions: the Traditional Answers Were Missing</a>
 <a class="lvl2" href="#s13-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">13.5</span> Where High Christology Comes From</a>
+<a class="lvl4 st-overstated" href="#a-where-high-christology-comes-from">Where High Christology Comes From</a>
 <a class="lvl2" href="#s14-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">14.1</span> “Faith doesn’t require evidence”</a>
 <a class="lvl2" href="#s14-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">14.2</span> “Personal Experience / I Felt God / I Heard His Voice”</a>
 <a class="lvl2" href="#s14-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">14.3</span> “Look at Creation / The Universe” — Cosmological and Design Arguments</a>
@@ -284,6 +291,9 @@ leap</a>
 <a class="lvl2" href="#s15-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">15.3</span> The New Testament — Silence and Submission</a>
 <a class="lvl2" href="#s15-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">15.4</span> The Theological Tension</a>
 <a class="lvl2" href="#s15-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">15.5</span> Deborah and Mary Magdalene in Egalitarian Readings</a>
+<a class="lvl2" href="#s15-6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">15.6</span> The Strongest Complementarian Case</a>
+<a class="lvl2" href="#s15-7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">15.7</span> The Architecture, Not the Anomaly</a>
+<a class="lvl2" href="#s15-8"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">15.8</span> What the System Permits on the Male Side</a>
 <a class="lvl2" href="#s16-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">16.1</span> The Genesis Foundation Problem</a>
 <a class="lvl2" href="#s16-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">16.2</span> The Patriarchs</a>
 <a class="lvl2" href="#s16-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">16.3</span> The Analytical Point</a>
@@ -298,17 +308,21 @@ leap</a>
 <a class="lvl2" href="#s18-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">18.4</span> On Jonah vs. nationalist theology</a>
 <a class="lvl2" href="#s18-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">18.5</span> On the Bible being ‘clear’ or ‘consistent’</a>
 <a class="lvl2" href="#s18-6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">18.6</span> On the absence of Jesus’s own writings</a>
-<a class="lvl2" href="#s19-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.1</span> Before and during the kingdoms</a>
-<a class="lvl2" href="#s19-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.2</span> The Second Temple period between the Testaments</a>
-<a class="lvl2" href="#s19-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.3</span> Jesus and the New Testament</a>
-<a class="lvl2" href="#s19-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.4</span> How the church and the canon formed</a>
-<a class="lvl2" href="#s19-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.5</span> Islam</a>
-<a class="lvl2" href="#s19-6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.6</span> English Bibles</a>
-<a class="lvl2" href="#s19-7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">19.7</span> Source gaps — key intervals to remember</a>
-<a class="lvl2" href="#s8-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8.1</span> Scholarly Survey Method (mirrored from Study Notes §11)</a>
-<a class="lvl2" href="#s8-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8.2</span> Where to Look While Reading or in Conversation</a>
-<a class="lvl2" href="#s8-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8.3</span> Open Audit Queue — Claims Not Yet Verified</a>
-<a class="lvl3" href="#s8-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">8.4</span> Observations Audit Status</a></div>
+<a class="lvl2" href="#s21-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.1</span> Hearing God Is a Trained Skill</a>
+<a class="lvl2" href="#s21-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.2</span> What Inner Speech Actually Is</a>
+<a class="lvl2" href="#s21-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.3</span> Voice-Hearing Is Not Rare and Its Content Is Culturally Installed</a>
+<a class="lvl2" href="#s21-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.4</span> The Historical Frame — Jaynes</a>
+<a class="lvl2" href="#s21-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.5</span> The Belief-Projection Evidence Already in Corpus</a>
+<a class="lvl2" href="#s21-6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.6</span> The Study Not Yet Done</a>
+<a class="lvl2" href="#s21-7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">21.7</span> How to Use This</a>
+<a class="lvl1" href="#theodicy-free-will">22. Theodicy and Free Will</a>
+<a class="lvl2" href="#s22-1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.1</span> The Predestination Texts</a>
+<a class="lvl2" href="#s22-2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.2</span> Where "God Wants You Free" Comes From</a>
+<a class="lvl2" href="#s22-3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.3</span> Why Free Will Doesn't Solve the Structural Problem</a>
+<a class="lvl2" href="#s22-4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.4</span> Classical Theist Responses and Where Each Fails</a>
+<a class="lvl2" href="#s22-5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.5</span> The Euthyphro Dilemma</a>
+<a class="lvl2" href="#s22-6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.6</span> The Honest State of the Problem</a>
+<a class="lvl2" href="#s22-7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">22.7</span> How to Use This in Conversation</a></div>
 </nav>
 <main>
   <div class="masthead">
@@ -320,8 +334,10 @@ leap</a>
   <div class="howto"><p><strong>Provenance.</strong> <strong>Written by:</strong> you and
 Claude together across sessions. §1–§17 predate this marking convention
 and are genuinely mixed — no longer cleanly separable after the fact.
-The fieldwork observations at §7 are yours. The §19 timeline and §8
-method are Claude’s compilation from named sources.</p></div>
+The fieldwork observations at §7 are yours. The reading timeline and
+survey method moved to Method &amp; Reference on 10 August 2026 — they
+were never observations about scripture, and didn’t belong filed
+alongside them.</p></div>
   <div id="nores">No section matches that search.</div>
   <section id="sec-intro"><p><strong>OBSERVATIONS: LIVE CONVERSATION REFERENCE</strong></p>
 <blockquote>
@@ -348,16 +364,16 @@ Notes.</em></p>
 <blockquote>
 <p><strong>Audited August 2026.</strong> Corrections are filed inline
 beneath the claims they revise, marked ⚑. Nothing has been deleted — you
-can see what was originally recorded, what survived, and why. At <a class="xref" href="#s4-1">§4.1</a>,
-the “only two innate fears” support was corrected while the central
-observation about learned religious fear remains. At <a class="xref" href="#s3-1">§3.1</a>, the Children’s
-Crusade example was removed because the evidence is too uncertain. The
-standing method is at <a class="xref" href="#s8-1">§8.1</a>; what has not yet been
-checked is at <a class="xref" href="#s8-2">§8.2</a>.</p>
+can see what was originally recorded, what survived, and why. Two claims
+in this document failed audit: <a class="xref" href="#s4-1">§4.1</a> (only two innate fears — collapses)
+and part of <a class="xref" href="#s3-1">§3.1</a> (the Children’s Crusade — drop it). Both have rebuilt
+replacement lines. The standing method and what has not yet been
+checked are at Method &amp; Reference §1–§3.</p>
 <p><strong>Companion documents:</strong> Study Notes (findings) ·
 Historical Framework (dates and evidence) · Sources (primary texts with
 links) · The Strongest Case (theologians, apologists, <span class="gloss" tabindex="0">hermeneutics<span class="tip"><b>hermeneutics</b>The rules you use for interpreting a text. Your method, not your conclusion.</span></span>) ·
-Translations (which Bible and why) · Glossary (plain-English
+Translations (which Bible and why) · Method &amp; Reference (survey
+method, audit queue, reading timeline) · Glossary (plain-English
 definitions).</p>
 </blockquote>
 <p>Reference for Bible reading and thoughtful conversation. Each entry
@@ -654,14 +670,30 @@ study.”</p>
 <p>• Noll, Mark A. The Civil War as a Theological Crisis (2006).</p>
 <p>• Haynes, Stephen R. Noah’s Curse: The Biblical Justification of
 American Slavery (2002).</p>
+</section><section id="sec-3.3"><h2 data-num="3.3" id="s3-3"><span class="num">§3.3</span>The Curse of Ham (Genesis 9:20-27)</h2>
+<p><strong>The text: </strong>Noah gets drunk and passes out uncovered in his tent. Ham “saw his father’s nakedness” and told his brothers Shem and Japheth, who cover Noah without looking. On waking, Noah curses — not Ham, but Ham’s son <strong>Canaan</strong>: “a servant of servants shall he be unto his brethren.” Shem and Japheth are blessed, with Canaan named as their servant. Nothing in the text mentions skin color, blackness, or race in any form.</p>
+<p><strong>How it became a racial argument: </strong>The earliest source that ties the punishment to blackness is <em>Genesis Rabbah</em> 36:7, a Palestinian midrash redacted roughly the 4th–5th century CE — R. Hiya’s tradition has Ham “come forth black-skinned.” Centuries later, medieval Islamic historians al-Tabari and al-Ya‘qubi folded this into genealogical schemes linking Ham’s descendants to blackness and servitude, though Ibn Khaldun [dissenting, 14th c., <em>Muqaddimah</em>] rejected the racialized reading outright as “the legends of the story-tellers,” pointing out that the Torah itself says nothing about blackness — only servitude. The argument reached its most consequential form in American antebellum slavery apologetics: Josiah Priest’s <em>Bible Defence of Slavery</em> (expanded from his 1843 original) and Thornton Stringfellow’s <em>A Brief Examination of Scripture Testimony on the Institution of Slavery</em> (1841) both used the curse to argue God created Black people for slavery — by then, the curse had migrated from Canaan to Ham himself in the popular telling, and Ham to “the Negro race.”</p>
+<p><strong>The scholarly consensus: </strong><span class="camp">CRITICAL / JUDAIC STUDIES</span> David M. Goldenberg, <em>The Curse of Ham: Race and Slavery in Early Judaism, Christianity, and Islam</em> (Princeton University Press, 2003), traces the roughly 1,500-year process by which a text mentioning neither blackness nor Ham’s guilt — it curses Canaan, for an act of impropriety — became, in Goldenberg’s phrase, the ideological cornerstone used to justify the slavery of Black Africans. <span class="camp">CRITICAL</span> Stephen R. Haynes’s <em>Noah’s Curse</em>, cited above for the broader biblical-slavery argument, focuses specifically on the myth’s American career. <span class="camp">CRITICAL</span> David M. Whitford, <em>The Curse of Ham in the Early Modern Era: The Bible and the Justifications for Slavery</em> (Ashgate, 2009), fills the Reformation-era gap between Goldenberg’s ancient/medieval scope and Haynes’s American one, identifying Annius of Viterbo and George Best as the writers who fused Ham, Africa, slavery, and race into the durable package that reached America. The three studies converge without meaningful dissent on the core finding: this is eisegesis, not exegesis — a race-neutral text was progressively racialized by readers, not by its author.</p>
+<p><em>Where real disagreement exists:</em> not on the eisegesis conclusion, but on how early and how strongly the color association appears — some readings of the <em>Genesis Rabbah</em> material suggest color-coding entered the tradition earlier than Goldenberg’s own periodization emphasizes. Flagged as an open question about degree, not independently verified here — treat as a live scholarly detail, not a settled count.</p>
+<p><span class="mark inf">INFERENCE</span> <strong>This is a distinct mechanism from Leviticus 25:44-46 (§3.2), and the two shouldn’t be collapsed.</strong> Leviticus explicitly permits acquiring slaves from neighboring nations — the text says what it says. The Curse of Ham is the opposite pattern: a text that says nothing about race was silently loaded with a racial meaning centuries later, and that manufactured meaning organized real atrocity. Both get invoked in “did God support slavery,” but they are different claims requiring different evidence — one asks what the text permits, the other asks what later readers made a silent text say.</p>
+<p><strong>Why this assessment holds — questions for conversation:</strong></p>
+<p>• “The curse doesn’t mention skin color or Ham at all — it curses Canaan, for looking at his drunk father. Every step connecting this to Black Africans happened after the text was written, not in it.”</p>
+<p>• “If a text can be silently loaded with a meaning it never states, and that meaning then organizes centuries of atrocity, what does that say about how ‘what the Bible says’ actually functions historically — as text, or as what people needed it to mean?”</p>
+<p><strong>Sources:</strong></p>
+<p>• Goldenberg, David M. <em>The Curse of Ham: Race and Slavery in Early Judaism, Christianity, and Islam</em>. Princeton University Press, 2003.</p>
+<p>• Haynes, Stephen R. <em>Noah’s Curse: The Biblical Justification of American Slavery</em>. Oxford University Press, 2002.</p>
+<p>• Whitford, David M. <em>The Curse of Ham in the Early Modern Era: The Bible and the Justifications for Slavery</em>. Ashgate, 2009.</p>
 <h1 id="fear-belief-and-human-psychology">4. FEAR, BELIEF, AND HUMAN
 PSYCHOLOGY</h1>
-</section><section id="sec-4.1"><h2 data-num="4.1" id="s4-1"><span class="num">§4.1</span>Learned Religious Fear</h2>
-<p><strong>Central observation <span class="mark you">YOURS</span>:</strong>
-Humans are not born fearing God, hell, or divine punishment. Those
-specific fears require language, doctrine, and instruction; they are
-learned rather than present at birth.</p>
-<details class="audit" data-status="holds" id="a-only-two-innate-fears"><summary><span class="siglum">⚑</span><span class="atitle">Is Religious Fear Innate or Learned?</span><span class="stamp">CHECKED 7 AUG 2026</span><span class="badge holds">Central point holds</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">STATUS</span><p class="hasfld"><strong>The original supporting claim was wrong; the central observation holds.</strong></p><p><strong>AS RECORDED:</strong> Humans are born with only two fears, loud noises and falling. The studies commonly cited for that claim do not support it.</p><p><em>Gibson &amp; Walk (1960), the visual cliff.</em> Tested infants
+</section><section id="sec-4.1"><h2 data-num="4.1" id="s4-1"><span class="num">§4.1</span>Innate vs. Learned Fear</h2>
+<p><strong>What is innate: </strong>Only two fears are documented as
+truly innate: (1) Loud noises — acoustic startle reflex, present at
+birth. (2) Falling — confirmed by visual cliff experiments (Gibson &amp;
+Walk, 1960).</p>
+<details class="audit" data-status="collapses" id="a-only-two-innate-fears"><summary><span class="siglum">⚑</span><span class="atitle">“Only Two Innate Fears”</span><span class="stamp">CHECKED 7 AUG 2026</span><span class="badge collapses">Collapses</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">STATUS</span><p class="hasfld"><strong>Collapses as stated. Do not use the “two fears” line.
+The conclusion below survives on better grounds — use the rebuilt
+version.</strong></p><p><strong>Why it fails.</strong> It rests on two studies and neither
+supports it.</p><p><em>Gibson &amp; Walk (1960), the visual cliff.</em> Tested infants
 <strong>6 to 14 months old</strong> — children who could already crawl.
 That is not “born with.” Worse for the claim, the follow-up research
 shows the avoidance is <strong>built by crawling experience</strong>,
@@ -685,26 +717,35 @@ what makes the claim sound rigorous.</p><p><strong>And it is not two.</strong> I
 threat learning about loud abrupt sounds, sudden loss of support,
 looming objects, snake- and spider-like shapes, angry faces, and social
 separation. That is a set of prepared biases, not a count of innate
-fears.</p><p><strong>CORRECTED:</strong> Newborns have defensive
-reflexes and humans have prepared biases that make some threats easier
-to learn. Neither amounts to an inborn fear of a particular god, hell,
-or divine punishment. Those concepts must first be communicated before
-they can become objects of fear.</p><p><strong>Questions and observations for conversation:</strong></p><p>• “Fear of hell depends on first learning what hell is; it is not
-present at birth.”</p><p>• “Which parts of this fear came from experience, and which came from
-teaching?”</p><p><strong>Do not say</strong> “humans are born with only two fears.” It
+fears.</p><p><strong>REBUILT VERSION.</strong> <span class="mark inf">INFERENCE — the
+preparedness research is documented; applying it to religious fear is
+Claude’s reasoning.</span> Every prepared bias humans have is toward
+<strong>immediate, physically present, evolutionarily ancient</strong>
+threats. Abstract supernatural fear is in none of them. Fear of hell
+requires language, narrative, doctrine, and instruction — it cannot be
+acquired without being taught. That claim is true, it is not defeated by
+the counterexample that sinks the two-fears version, and it reaches the
+same conclusion.</p><p><strong>Replacement lines for live use:</strong></p><p>• “There’s no prepared fear response for an abstract afterlife. Every
+fear humans acquire fast is about something physically in front of them.
+Hell has to be taught — it can’t be caught.”</p><p>• “A child raised without the doctrine never spontaneously develops
+it. That’s not true of heights or loud noises.”</p><p><strong>Do not say</strong> “humans are born with only two fears.” It
 is pop psychology, it circulates through CNN health features and
 motivational books, and anyone who has taken a developmental psych
 course can correct you.</p><p><strong>What is learned: </strong>Fear as an emotion is constructed
 developmentally — spiders, death, darkness, strangers, divine
 punishment, moral chaos. Learned, conditioned, or culturally
-installed.</p><p><strong>The nuance: </strong>Ohman and Mineka’s preparedness model
-holds that certain fears are faster to acquire because they involve
-recurrent evolutionary threats. That is a learning bias, not evidence
-that a person is born with a specific religious fear.</p><p><strong>Interpretive implication:</strong></p><p>• Fear of divine punishment depends on culturally transmitted concepts
-and teachings. That sequence deserves examination.</p><p><strong>Why this assessment holds — questions for conversation:</strong></p><p>• “Fear of God is learned through particular ideas, stories, and
-teachings.”</p><p>• “You were not born fearing hell. Someone taught you to. That is a
-very different kind of moral grounding.”</p><p>• “How should the fact that this fear was learned affect the moral
-weight given to it?”</p><p><strong>Sources — corrected:</strong></p><p>• Campos, J.J., Bertenthal, B.I., &amp; Kermoian, R. “Early
+installed.</p><p><strong>The nuance — this is now the main argument, not a footnote:
+</strong>Ohman and Mineka’s preparedness model holds that certain fears
+are faster to acquire because they were evolutionary threats. Not
+innate; a faster learning channel. Still learned. Every prepared
+category is a physically present, ancient threat. Divine punishment is
+in none of them.</p><p><strong>Implication for the debate:</strong></p><p>• Fear of divine punishment is learned fear — culturally installed by
+the same religion that offers itself as the solution. That is the
+structure of a trap, not a foundation.</p><p><strong>Why this assessment holds — questions for conversation:</strong></p><p>• “The fear of God is a learned fear. Religion created the problem it
+claims to solve.”</p><p>• “You were not born fearing hell. Someone taught you to. That is a
+very different kind of moral grounding.”</p><p>• “Every fear humans are primed to learn fast is about something
+physically present — heights, loud noises, snakes, angry faces. Nothing
+abstract. Hell has to be taught.”</p><p><strong>Sources — corrected:</strong></p><p>• Campos, J.J., Bertenthal, B.I., &amp; Kermoian, R. “Early
 Experience and Emotional Development: The Emergence of Wariness of
 Heights.” <em>Psychological Science</em> 3 (1992). — the study that
 dismantles the innate-falling claim.</p><p>• Adolph, K.E. — work on posture-specific learning; argues against
@@ -908,7 +949,7 @@ up in heaven or hell — and created them anyway. How does free will
 address that?”</p>
 <p>• On the robot framing: “You are saying God wanted genuine love, not
 compelled love. But threatening people with eternal torment for not
-loving him is not a love freely given — it is coercion.”</p>
+loving him is coercion, not love freely given.”</p>
 <p><strong>Sources — defending free will:</strong></p>
 <p>• Plantinga, Alvin. God, Freedom, and Evil (1974) — the most rigorous
 philosophical free will defense.</p>
@@ -928,8 +969,8 @@ creation.</p>
 <p><strong>Why it is a problem: </strong>This is an unfalsifiability
 move. Any temporal inconsistency in the text or theology can be
 dissolved by appealing to God’s atemporal nature. But an argument that
-cannot be falsified by any conceivable evidence is not a logical defense
-— it is a conversation stopper.</p>
+cannot be falsified by any conceivable evidence is a conversation
+stopper, not a logical defense.</p>
 <p><strong>The specific problems it cannot solve:</strong></p>
 <p>• If God is outside time and sees all moments simultaneously, human
 choices are already fixed from God’s perspective. Free will becomes
@@ -938,8 +979,8 @@ incoherent.</p>
 things take place.” That is a temporal claim Jesus makes in-time. “God
 is outside time” does not resolve a deadline Jesus himself set.</p>
 <p>• The concept of “outside time” is not clearly in the biblical text
-itself — it is a philosophical import (Boethius, 6th century CE) used to
-defend doctrines that the original authors did not articulate this
+is a philosophical import (Boethius, 6th century CE) used to
+defend doctrines the original authors did not articulate this
 way.</p>
 <p><strong>Why this assessment holds — questions for conversation:</strong></p>
 <p>• Clarifying question: “That is a philosophical framework imported centuries after
@@ -949,8 +990,8 @@ outside time?”</p>
 then everything is already determined from his perspective. Free will
 and outside-of-time cannot both be true.”</p>
 <p>• On unfalsifiability: “That argument can defend any claim about any
-deity. ‘God is outside our understanding’ is not a defense — it is a way
-of making the claim untestable.”</p>
+deity. ‘God is outside our understanding’ is a way of making the claim
+untestable, not a defense.”</p>
 <p><strong>Sources — defending atemporality:</strong></p>
 <p>• Boethius. The Consolation of Philosophy (524 CE) — original
 philosophical formulation of divine eternity.</p>
@@ -1003,7 +1044,10 @@ contradiction across the tradition.</p>
 <h1 id="the-self-defeating-argument-dont-add-your-own-understanding">10.
 THE SELF-DEFEATING ARGUMENT: “DON’T ADD YOUR OWN UNDERSTANDING”</h1>
 <p><strong>The verse: </strong>Proverbs 3:5 — “Trust in the Lord with
-all your heart, and do not lean on your own understanding.” (ESV)</p>
+all your heart, and do not lean on your own understanding.” (ESV)
+NRSVue: “do not rely on your own insight” — same argument either way;
+the wording changes, not the interpretive move being critiqued
+below.</p>
 <p><strong>How it is used: </strong>To shut down critical analysis,
 questioning, or skepticism of the Bible. Implies that intellectual
 engagement with the text is sinful pride or faithlessness.</p>
@@ -1052,8 +1096,8 @@ Bergmann, Howard-Snyder) and the moral paralysis objection (Almeida,
 Wielenberg, Maitzen).</p>
 <p><strong>Why this assessment holds — questions for conversation:</strong></p>
 <p>• Clarifying question: “You used your own understanding to interpret that verse.
-That is unavoidable. The question is not whether we use our
-understanding — it is whether we use it well.”</p>
+That is unavoidable. The question is whether we use our
+understanding well — not whether we use it.”</p>
 <p>• Direct question: “Every reading of scripture is someone’s understanding. Your
 pastor’s, your denomination’s, yours. The verse cannot exempt
 interpretation from interpretation.”</p>
@@ -1255,6 +1299,8 @@ the Holocaust.</p>
 <p><strong>Reference: </strong>John 8:31-59. Note who John identifies as
 “the Jews” throughout the Gospel — a category treated as separate from
 and opposed to Jesus, despite Jesus being Jewish.</p>
+<details class="audit" data-status="overstated" id="a-john-844-and-antisemitism"><summary><span class="siglum">⚑</span><span class="atitle">John 8:44 and “Antisemitism”</span><span class="stamp">CHECKED 10 AUG 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">“This is a wounded community’s anger written into Jesus’s mouth, then used for centuries as theological justification for Christian antisemitism, pogroms, and the cultural conditions enabling the Holocaust.” (<a class="xref" href="#s12-8">§12.8</a>)</p><span class="fld">STATUS</span><p class="hasfld"><strong>Overstated on terminology and on the explanatory mechanism.</strong> The reception-history claim holds, and holds strongly — it doesn’t need the parts that don’t survive.</p><span class="fld">AUDIT</span><p class="hasfld"></p><p><strong>This exact claim was already run through a full survey at Study Notes §8.5 (“John Is Textually Antisemitic,” CHECKED 7 Aug 2026) — full citation trail there.</strong> Two corrections carry over directly.</p><p><strong>Terminology: use anti-Jewish, not antisemitic.</strong> Antisemitism is a modern racial category — the word itself dates to 1879 — and applying it to a first-century intra-Jewish text is anachronistic, the same category error as reading “homosexuality” into Leviticus. Using it invites a correction that discredits the surrounding argument before the real point — the reception history — gets a hearing.</p><p><strong>The synagogue-expulsion explanation is a contested hypothesis presented here as settled background.</strong> “Written after John’s community was expelled from synagogues… a wounded community’s anger written into Jesus’s mouth” leans on J. Louis Martyn’s two-level-drama reconstruction of <em>aposynagogos</em>. Adele Reinhartz <span class="camp">JEWISH CRITICAL</span> has critiqued that framework directly — it explains the text’s tone plausibly, but it is not established fact, and shouldn’t read as one.</p><p><strong>The obvious-looking fix — translating <em>Ioudaioi</em> as “Judeans” instead of “Jews” — is not the correction, and is worse than the original.</strong> Reinhartz and Amy-Jill Levine <span class="camp">JEWISH CRITICAL</span> both defend “Jews” as accurate and warn that “Judeans” erases the continuity between ancient and modern Jewish identity. James Crossley <span class="camp">CRITICAL</span> traces the “Judeans” move to its endpoint: an argument that it’s anachronistic to identify any modern Jews with John’s <em>Ioudaioi</em> at all — precisely the erasure Reinhartz and Levine flagged. Don’t reach for it as a “safer” word.</p><p><strong>The strongest counter-case, which the original entry doesn’t include:</strong> most scholars read this as intra-Jewish sectarian polemic, not out-group hostility — a family argument, read for two millennia by outsiders cheering one side. Reinhartz notes John uses <em>Ioudaioi</em> interchangeably with “Pharisees,” sometimes in the same passage, meaning John was not gesturing at Jews generally. John repeatedly signals Jesus’s own Jewishness (his body is prepared for burial by Jewish custom, 19:40). Wesley Howard-Brook argues John is calling its audience back to the covenant, not away from it.</p><p><strong>What is not in dispute, and is the actual strongest form of the point:</strong> the reception history is real and doesn’t require resolving any of the above. Whatever this text’s author meant, John 8:44 functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to. That claim needs no theory of authorial intent to stand.</p><span class="fld">CORRECTED</span><p class="hasfld"><em>John’s Gospel contains sharply anti-Jewish rhetoric, of which 8:44 is the extreme case, and its reception history as a resource for Christian anti-Judaism is documented and severe — that claim stands without qualification. What doesn’t survive as stated: calling it “antisemitism” (an anachronistic modern racial category) and presenting the synagogue-expulsion explanation as settled fact rather than Martyn’s contested reconstruction. The leading Jewish scholars in this debate (Reinhartz, Levine) defend translating </em>Ioudaioi<em> as “Jews” and warn that “Judeans” — the translation that looks like the fix — has been used to sever modern Jews from the text entirely. Most scholars read the polemic as intra-Jewish, not a hostile out-group construction.</em></p><span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span><strong>:</strong> the reception history is genuinely appalling, and that makes it easy to read the effect back into the author’s intent and to reach for the word that names the horror directly. But a text can be catastrophic in its consequences without its author having written what later readers made of it — and “antisemitism” imports a 19th-century racial framework the text itself doesn’t use. Keep the reception-history claim, which is airtight, separate from the authorial-intent and terminology claims, which are not.</p><span class="fld">READING AND CONVERSATION NOTE</span><p class="hasfld">this is one of the few places where the strongest version of the argument doesn’t need to establish intent at all. Ask what it means that a text has functioned for nineteen centuries as the most-cited scriptural warrant for persecuting the people its own protagonist belonged to — that question doesn’t depend on knowing what John’s author meant by it.</p></div></details>
+<details class="audit" data-status="overstated" id="a-anti-jewish-is-not-a-mitigation"><summary><span class="siglum">⚑</span><span class="atitle">Addendum — “Anti-Jewish” Is a Description of Mechanism, Not a Mitigation</span><span class="stamp">CHECKED 11 AUG 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">WHAT WAS INCOMPLETE</span><p class="hasfld">the audit above correctly replaces “antisemitic” with “anti-Jewish” and gives an accurate reason — antisemitism is a modern racial category, coined 1879, anachronistic for a first-century text. That reason is true and by itself reads as severance: it can be misread as saying the anti-Jewish material is a lesser, contained thing that doesn’t connect to what came later. The scholars who built this exact terminological distinction argue the opposite.</p><span class="fld">AUDIT</span><p class="hasfld"></p><p><strong>Gavin Langmuir</strong> <span class="camp">CRITICAL, medieval history</span>, <em>Toward a Definition of Antisemitism</em> (University of California Press, 1990), ch. 3 — titled, without ambiguity, <strong>“Anti-Judaism as the Necessary Preparation for Antisemitism.”</strong> Langmuir is the source most associated with separating the two terms (theological hostility resolvable by conversion, vs. the essentializing, biologized hatred he locates emerging in the 12th–13th centuries), and he built that distinction specifically to argue <strong>continuity</strong> — the earlier form supplied the material the later, racial form inherited. Citing Langmuir’s distinction to sever the causal chain inverts his own thesis.</p><p><strong>David Nirenberg</strong> <span class="camp">CRITICAL</span>, <em>Anti-Judaism: The Western Tradition</em> (W.W. Norton, 2013) — argues anti-Judaism as a mode of thought is not a peripheral current but <strong>central and load-bearing</strong> across roughly three thousand years of Western thought, and traces its Christian form to Paul specifically: reading scripture in opposition to Judaism starts with Paul’s letters, hardens into open scorn by the Gospels, and feeds directly into the supersessionist theology this corpus already documents elsewhere (Study Notes §8.5). On Nirenberg’s account, “anti-Jewish” is not a downgrade from “antisemitic” — it is a placement inside the tradition his book argues is foundational, not incidental, to Western Christianity from its founding documents onward.</p><p><strong>Rosemary Radford Ruether</strong> <span class="camp">CATHOLIC FEMINIST THEOLOGY</span>, <em>Faith and Fratricide: The Theological Roots of Anti-Semitism</em> (Seabury Press, 1974) — the earliest and structurally sharpest version of the continuity thesis: anti-Judaism is not a corruption or later addition to Christianity but built into Christology itself — the claim that Jesus is the Messiah necessarily implies the negation of Judaism as a rejected alternative. Predates Langmuir and Nirenberg by decades and is the reason this is a live scholarly controversy at all, not a settled footnote.</p><p><strong>Susannah Heschel</strong> <span class="camp">JEWISH STUDIES, CRITICAL</span>, “Historiography of Antisemitism versus Anti-Judaism: A Response to Robert Morgan,” <em>Journal for the Study of the New Testament</em> 33.3 (2011): 257–279 — writing inside New Testament studies specifically, against attempts to keep the two terms cleanly separated. Using her own research on pro-Nazi “German Christian” theologians of the 1930s, she shows their own texts fluidly integrate race and religion, undercutting any assumption that the theological/racial line holds cleanly even in the case that supposedly demonstrates it.</p><p><strong>Jonathan Elukin</strong>, “Anti-Judaism,” in Sol Goldberg, Scott Ury, and Kalman Weiser, eds., <em>Key Concepts in the Study of Antisemitism</em> (Palgrave Macmillan, 2021), ch. 2 — per secondary description of the chapter (the primary text was not available to verify directly): the term “anti-Judaism” itself is applied inconsistently across the literature, with real scholarly disagreement over its scope. Flagged here as description, not direct quotation.</p><p><strong>The strongest version of the original defense, and why it’s insufficient alone:</strong> Luke Timothy Johnson <span class="camp">CATHOLIC CRITICAL</span>, “The New Testament’s Anti-Jewish Slander and the Conventions of Ancient Polemic,” <em>Journal of Biblical Literature</em> 108.3 (1989): 419–441, surveys polemic across Second Temple Jewish and Hellenistic philosophical sects and argues NT anti-Jewish invective — including John 8:44-type language — fits a conventional, often savage, in-house rhetorical register used between rival factions who still considered each other part of the same family, not evidence of unique or racial hatred. This is real and well-documented, and it’s the strongest available counter to reading 8:44 as something categorically different from period-typical sectarian polemic. It does not, on its own, explain why this particular instance of that convention was later canonized, translated into every language, and read aloud for nineteen centuries to congregations holding political power over the group being described — a gap this corpus flags as an open question rather than resolving. <strong>Adele Reinhartz</strong> <span class="camp">JEWISH CRITICAL</span>, <em>Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John</em> (Lexington Books/Fortress Academic, 2018), argues directly against the broader move Johnson’s article exemplifies — treating John’s anti-Jewish material as merely intra-Jewish family dispute — holding instead that the anti-Jewish stance is rhetorically central to the Gospel, not incidental to it; her critique targets that general defense, not Johnson’s article by name.</p><span class="fld">CORRECTED</span><p class="hasfld"><em>“Anti-Jewish” is a description of the first-century mechanism, not a mitigation of what follows from it. Anti-Jewish hostility in antiquity was theological and, in principle, conversion-permeable; racialized antisemitism is a later and structurally different form, unable to be resolved by conversion — the Nuremberg Laws counted grandparents. That is a real, informative difference. But every major scholar who has built this distinction — Langmuir explicitly, Nirenberg by tracing the tradition’s centrality from Paul forward, Ruether by grounding it in Christology itself — argues for continuity between the two forms, not a severed causal chain. The term identifies which century’s mechanism produced the text. It does not sever that mechanism from what it prepared the ground for.</em></p><span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span><strong>:</strong> a correct historical distinction and an exculpatory move can share the same sentence, and a reader has no way to tell them apart from terminology alone. “Anachronistic to apply a modern term to an ancient text” is true and is exactly the kind of precise, defensible-sounding correction that quietly does more work than intended — it reads as lowering the charge even when, as here, the audit’s own conclusion (reception history stands, unqualified) says the opposite. The fix isn’t to abandon the precise term; it’s to state explicitly, every time, that precision about mechanism is not distance from consequence.</p></div></details>
 </section><section id="sec-12.9"><h2 data-num="12.9" id="s12-9"><span class="num">§12.9</span>Proverbs 3:5</h2>
 <p><strong>Commonly used for: </strong>”Do not lean on your own
 understanding” — to shut down critical thinking or questioning of the
@@ -1305,11 +1351,176 @@ supposed to support. You cannot say God is good and simultaneously say
 his goodness is beyond human comprehension. Goodness requires content we
 can understand well enough to recognize it.</p>
 <p><strong>Reference: </strong>Isaiah 55:6-13.</p>
+</section><section id="sec-12.13"><h2 data-num="12.13" id="s12-13"><span class="num">§12.13</span>Numbers 1 and 26 — The Census “Eleph” Argument</h2>
+<p><strong>Commonly used for: </strong>Rescuing the historicity of
+Numbers’ wilderness census — over 600,000 fighting men, implying a total
+population past two million, in a desert that shows no archaeological
+trace of that population.</p>
+<p><strong>The argument: </strong><em>Eleph</em>, the Hebrew word usually
+read as “thousand,” is read instead as “clan” or “military unit,”
+scaling the total down to a demographically plausible figure.
+<span class="camp">CONSERVATIVE-EVANGELICAL</span> apologetics —
+Associates for Biblical Research; Hoffmeier (2005: 153–59) — treats this
+as resolving the number.</p>
+<p><strong>The problem: </strong>Scholars applying the same
+<em>eleph</em>-as-unit method to the same text disagree with each other
+by an order of magnitude, landing anywhere from about 5,550 to 72,000. A
+method that swings that wide isn’t fixing the number — it’s relocating
+the uncertainty.</p>
+<p><strong>Better response: </strong>Don’t contest the <em>eleph</em>
+philology — it’s a real semantic question, just not a solution. Treat
+the totals as literary/theological, and ask what the text is doing by
+reporting 600,000 fighting men, plus women, children, and livestock, in
+a desert that shows no trace of them.</p>
+<p><strong>Reference: </strong>Numbers 1, 26. Full citation trail in
+Study Notes’ <em>eleph</em> audit, §1.8.</p>
+</section><section id="sec-12.14"><h2 data-num="12.14" id="s12-14"><span class="num">§12.14</span>Is Hatred a Sin?</h2>
+<p><strong>Commonly used for: </strong>“The Bible says hatred is a sin”
+— a claimed universal moral rule against hating anyone.</p>
+<p><strong>Where it’s actually prohibited: </strong>Leviticus 19:17-18 —
+do not hate your brother in your heart; love your neighbor as yourself,
+with a stated remedy (reprove your neighbor openly). 1 John 3:15,
+2:9-11, 4:20 — hating your brother makes you a murderer with no eternal
+life, walking blind, a liar for claiming to love God. Note the scope
+word in every one of these: <em>brother</em>, <em>neighbor</em>. The
+prohibition is bounded by group membership, not extended to persons
+generally.</p>
+<p><strong>Where it’s commanded, or attributed to God directly:
+</strong>Psalm 5:5, 11:5 — God hates evildoers, hates the wicked; these
+take <em>persons</em>, not acts, as the object. Psalm 139:21-22 — the
+psalmist hates those who hate God, with “complete hatred.” Proverbs
+6:16-19 — six things the LORD hates, the list ending on a person who
+sows discord. Malachi 1:2-3 / Romans 9:13 — “Jacob I loved, but Esau I
+hated,” Paul quoting Malachi to ground the doctrine of election itself
+in stated divine hatred. Luke 14:26 — “hate father and mother… and even
+his own life” as the cost of discipleship. Revelation 2:6 — Christ
+commends the Ephesian church for hating what he also hates.</p>
+<p><strong>The standard escape hatch, and where it holds vs. breaks:
+</strong>The usual defense is that Hebrew <em>śānēʾ</em> and Greek
+<em>miseō</em> carry a comparative sense — “love less,” not literal
+hatred. This is genuinely attested: Genesis 29:31-33 calls Leah “hated”
+when the text has just said Jacob loved Rachel more; Deuteronomy
+21:15-17 legislates for a “hated” wife meaning disfavored, not despised.
+But it doesn’t cover every case. Malachi 1:3 doesn’t stop at preference
+— it has God laying Esau’s inheritance waste, more than “loved less” can
+carry. And on Luke 14:26: the wording is generally read as reflecting an
+original Aramaic idiom operating in extremes, without a middle register
+— G.B. Caird <span class="camp">MODERATE CRITICAL</span>, <em>The Gospel
+of St. Luke</em> (Pelican, 1963), 179, glosses it as family given
+“second place in their affections,” not literal hatred. The “loves me
+more” wording at the parallel in Matthew 10:37 is usually read as the
+softened version — the standard critical reconstruction of Q (<em>The
+Critical Edition of Q</em>, ed. James M. Robinson, Paul Hoffmann, and
+John S. Kloppenborg, Peeters, 2000) retains Luke’s harsher “hate” as
+closer to the shared source, meaning Matthew did the softening, not Luke
+the sharpening. <span class="mark inf">INFERENCE</span> Read that way,
+Luke 14:26 fits a documented pattern in the historical-Jesus material —
+Jesus as an apocalyptic figure demanding real disruption of family
+loyalty (Mark 3:31-35; the Q material behind Matthew 10:34-36/Luke
+12:51-53) — though this specific verse-to-thesis connection is this
+corpus’s own extension of that broader argument, not a citation of any
+named scholar making it about 14:26 in particular.</p>
+<p><strong>Not Paul — John: </strong>The absolutist “you cannot hate,
+period” reading comes from the Johannine letters (1 John 3:15, 2:9-11,
+4:20), not from Paul. Paul runs the other way. He commands hatred
+outright: Romans 12:9, <em>apostygountes to ponēron</em> — “abhor what
+is evil,” the strongest hate-compound in the New Testament, appearing
+nowhere else. He curses opponents by name-class: Galatians 1:8-9
+(anathema, twice), 1 Corinthians 16:22 (anathema on anyone with no love
+for the Lord), Galatians 5:12 (wishing his opponents would castrate
+themselves), Romans 1:30 (<em>theostygeis</em>, God-haters, in a vice
+list). And he grounds election itself in Malachi’s stated divine hatred
+of Esau (Romans 9:13). The one Pauline text that reads as a general ban
+— Galatians 5:20, <em>echthrai</em> (“enmities”) among the works of the
+flesh — sits in a list of intra-community discord (strife, jealousy,
+dissension, factions); it targets church infighting, not hatred as a
+moral category. <span class="mark inf">INFERENCE</span> The pattern
+across Paul’s letters: enemy-love applies outward, toward persecutors
+(Romans 12:14, 12:20, extending blessing to outsiders); cursing applies
+inward, toward rivals contesting his authority (Galatians 1:8-9, 1
+Corinthians 16:22). This distinction is this corpus’s own synthesis of
+the individually documented verses above, not itself a position found
+stated this way in the secondary literature.</p>
+<p><strong>On imprecatory psalms (psalms that call for God's judgment or vengeance against specific enemies) — named scholarship, both
+sides represented: </strong>Erich Zenger <span class="camp">CATHOLIC
+CRITICAL</span>, <em>A God of Vengeance? Understanding the Psalms of
+Divine Wrath</em>, trans. Linda M. Maloney (Westminster John Knox Press,
+1996), reads the imprecatory psalms as confronting violence rather than
+endorsing it — praying them implicates the person praying among the
+perpetrators, not above them. David G. Firth <span class="camp">CONSERVATIVE-EVANGELICAL</span>,
+<em>Surrendering Retribution in the Psalms</em> (Paternoster, 2005),
+argues the psalmist cedes vengeance to God rather than acting on it,
+with the requested harm bounded by the harm suffered. Nancy
+deClaissé-Walford <span class="camp">CRITICAL</span>, “The Theology of
+the Imprecatory Psalms,” in <em>Soundings in the Theology of Psalms</em>,
+ed. Rolf A. Jacobson (Fortress Press, 2011), 77-92. Both Zenger and
+Firth are doing real interpretive work — and both are answering a
+different question than the one this entry asks: whether these prayers
+are theologically defensible, not whether the psalmist is doing
+something other than hating. On the text’s own terms, they are.</p>
+<p><strong>Matthew 5:43 — a scripture Jesus quotes that isn’t in
+scripture: </strong>“You have heard it said, love your neighbor and hate
+your enemy.” The first half is Leviticus 19:18. The second half appears
+nowhere in the Hebrew Bible — no verse commands hating an enemy. The
+closest documented parallel is Qumran’s Community Rule, 1QS 1:9-11:
+instructing members to love those God has chosen and hate those God has
+rejected — an explicit textual command to hate, unlike anything in the
+Hebrew Bible itself. Scot McKnight <span class="camp">EVANGELICAL
+CRITICAL</span>, <em>Sermon on the Mount</em> (Story of God Bible
+Commentary, Zondervan, 2013), cites this Qumran text against Matthew
+5:43. Separately, “help your friends, harm your enemies” is
+independently documented as standard Greco-Roman popular ethics across
+the classical period, not something distinctively Jewish — Mary
+Whitlock Blundell, <em>Helping Friends and Harming Enemies: A Study in
+Sophocles and Greek Ethics</em> (Cambridge University Press, 1989), is
+the standard reference for that broader claim. Either Jesus is targeting
+a sectarian reading of Leviticus of the Qumran type, or contrasting his
+teaching against period-typical popular ethics more broadly, or Matthew
+constructed the antithesis to sharpen a rhetorical contrast — the text
+doesn’t resolve which.</p>
+<p><strong>“Hate the sin, love the sinner” isn’t in the Bible:
+</strong>The phrase traces to Augustine, <em>Letter 211</em> (c. 424 CE,
+to a community of nuns): <em>cum dilectione hominum et odio vitiorum</em>
+— “with love for mankind and hatred of vices.” Not a biblical quotation.
+It was later popularized in various forms, including by Gandhi in his
+1929 autobiography — though he did not coin it, and the specific line of
+transmission from a 5th-century Latin monastic letter to 20th-century
+popular usage isn’t cleanly documented in the scholarship on the
+phrase’s history.</p>
+<p><strong>Reading and conversation note: </strong>Hatred is a bounded prohibition in the biblical text — against hating
+members of one’s own group — sitting alongside commanded hatred of evil,
+of God’s enemies, and of specific rejected persons, with God explicitly
+modeled as a hater in multiple psalms. “The Bible says hatred is a sin”
+is a selection presented as a summary: true for one scope word
+(<em>brother</em>, <em>neighbor</em>), false the moment the target
+changes.</p>
+<p><strong>Reference: </strong>Leviticus 19:17-18; 1 John 2:9-11, 3:15,
+4:20; Psalm 5:5, 11:5, 139:21-22; Proverbs 6:16-19; Malachi 1:2-3; Romans
+9:13, 12:9, 12:14, 12:19-20, 1:30; Galatians 1:8-9, 5:12, 5:20; 1
+Corinthians 16:22; Luke 14:26; Matthew 5:43, 10:37; Revelation 2:6.</p>
+<p><strong>Sources:</strong></p>
+<p>• Zenger, Erich. A God of Vengeance? Understanding the Psalms of
+Divine Wrath. Trans. Linda M. Maloney. Westminster John Knox Press,
+1996.</p>
+<p>• Firth, David G. Surrendering Retribution in the Psalms: Responses
+to Violence in the Individual Complaints. Paternoster, 2005.</p>
+<p>• deClaissé-Walford, Nancy L. “The Theology of the Imprecatory
+Psalms.” In Soundings in the Theology of Psalms, ed. Rolf A. Jacobson,
+77-92. Fortress Press, 2011.</p>
+<p>• Caird, G.B. The Gospel of St. Luke. Pelican New Testament
+Commentaries, 1963.</p>
+<p>• Robinson, James M., Paul Hoffmann, and John S. Kloppenborg, eds.
+The Critical Edition of Q. Peeters, 2000.</p>
+<p>• McKnight, Scot. Sermon on the Mount. Story of God Bible Commentary.
+Zondervan, 2013.</p>
+<p>• Blundell, Mary Whitlock. Helping Friends and Harming Enemies: A
+Study in Sophocles and Greek Ethics. Cambridge University Press,
+1989.</p>
 <h1 id="the-trinity-what-the-doctrine-is-and-where-it-comes-from">13.
 THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM</h1>
 <p><strong>First fact: </strong>The word “Trinity” never appears in the
-Bible. The doctrine is not stated anywhere in scripture. It is a
-post-biblical theological construct formalized at the Council of Nicaea
+Bible. The doctrine is a post-biblical theological construct
+formalized at the Council of Nicaea
 in 325 CE — nearly 300 years after Jesus died. This is standard history,
 not a fringe claim.</p>
 </section><section id="sec-13.1"><h2 data-num="13.1" id="s13-1"><span class="num">§13.1</span>What the Bible says — and where it contradicts itself</h2>
@@ -1346,6 +1557,7 @@ years.</p>
 resurrection. Supported structurally by Mark’s Gospel: no birth
 narrative, Spirit descends at baptism, Jesus asks questions and seems
 surprised. This reading of Mark is coherent.</p>
+<details class="audit" data-status="overstated" id="a-adoptionism-in-mark"><summary><span class="siglum">⚑</span><span class="atitle">Adoptionism in Mark</span><span class="stamp">CHECKED 10 AUG 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">“Jesus was a human who became God’s son at his baptism or resurrection. Supported structurally by Mark’s Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent.” (<a class="xref" href="#s13-2">§13.2</a>)</p><span class="fld">STATUS</span><p class="hasfld"><strong>Overstated.</strong> The textual features are real. “Coherent” oversells it — no named modern scholar argues this as a thesis for Mark specifically, and Mark contains internal evidence that cuts against it.</p><span class="fld">AUDIT</span><p class="hasfld"></p><p><strong>No one currently argues “Mark is adoptionist” as a stated position.</strong> The closest documented view is Bart D. Ehrman <span class="camp">CRITICAL</span>, <em>How Jesus Became God</em> (HarperOne, 2014), and Ehrman deliberately avoids the word “adoptionist” for exactly this reason. His model is <strong>exaltation Christology</strong>: Jesus attains divine status at baptism — paralleling Roman adoption practice, where an adopted son takes the adopting father’s rank — as one point on a trajectory that starts even earlier (resurrection, in the earliest strata) and gets pushed progressively backward across the Gospels: baptism (Mark) → birth (Matthew, Luke) → pre-existence (John). That is a claim about status, not about origin, and Ehrman is explicit the two are different questions. Calling this “adoptionism” collapses a distinction its own leading proponent insists on.</p><p><strong>Mark itself contains evidence against the stronger reading, independent of any confessional commitment.</strong> A deliberately adoptionist author would be expected to use Psalm 2:7’s “begetting” language (“today I have begotten you”) at the baptism — Mark’s version doesn’t have it (compare the Codex Bezae variant at Luke 3:22, which does add it, and is a live, separate textual-criticism debate about Luke, not evidence about Mark). Demons in Mark recognize Jesus’s divine sonship from the Gospel’s opening chapter, before any “adoption” could have occurred, and sonship language recurs at the transfiguration and crucifixion in ways a one-time adoption event doesn’t obviously explain.</p><p><strong>Named modern rebuttal, direct on point:</strong> Michael F. Bird <span class="camp">CONSERVATIVE-EVANGELICAL</span>, <em>Jesus the Eternal Son: Answering Adoptionist Christology</em> (Eerdmans, 2017) — a book-length response to exactly this line of argument.</p><p><strong>Where “adoptionism” properly belongs historically:</strong> the label names later movements that used Mark’s baptismal scene this way — Theodotus of Byzantium and the Theodotians (late 2nd–early 3rd c. CE), the first group historically identified with explicit adoptionism. The Ebionites are linked to adoptionism in older scholarship, but modern specialists flag this as an oversimplification — the Ebionites are better described as a diverse grouping with a “possession” Christology, resistant to a single fixed label.</p><span class="fld">CORRECTED</span><p class="hasfld"><em>Mark’s baptism scene — no birth narrative, sonship declared at baptism rather than assumed from eternity — supplied the textual raw material that later adoptionist movements (the Theodotians, 2nd–3rd c.) built on. It does not by itself establish that Mark’s author held an adoptionist Christology: the text lacks the Psalm 2:7 “begetting” language a deliberate adoptionist framing would be expected to use, demons recognize Jesus’s sonship from the opening chapter, and the closest modern scholarly analogue — Ehrman’s “exaltation Christology” — deliberately avoids the adoptionist label because it is making a narrower claim about status, not origin. Michael Bird’s <em>Jesus the Eternal Son</em> (2017) is the dedicated rebuttal to the broader argument.</em></p><span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span><strong>:</strong> Mark’s textual features really are the same ones later adoptionists pointed to, so the error was a small, natural slide — treating “supplied the raw material a later position was built from” as though it meant “holds that position,” without checking whether any current scholar actually defends the stronger claim for Mark itself.</p></div></details>
 <p><strong><span class="gloss" tabindex="0">Arianism<span class="tip"><b>Arianism</b>The view that the Son was created by the Father and therefore not co-eternal. The losing side at Nicaea.</span></span>:</strong></p>
 <p>• Jesus is the first and greatest creation of God — divine but
 subordinate, not co-equal and not co-eternal. Arius had a massive
@@ -1374,6 +1586,7 @@ the Old Testament did not use and would not have recognized.</p>
 <p>• The Holy Spirit was not formally added to the Trinity formula until
 the Council of Constantinople in 381 CE. The full doctrine took 56 years
 after Nicaea to finalize.</p>
+<details class="audit" data-status="holds" id="a-nicaeas-vote-attendance-and-dissent"><summary><span class="siglum">⚑</span><span class="atitle">Nicaea’s “Vote”: Attendance and Dissent</span><span class="stamp">CHECKED 10 AUG 2026</span><span class="badge holds">Holds w/ revisions</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">“This won at Nicaea — by a vote, under political pressure from Constantine” (<a class="xref" href="#s13-2">§13.2</a>, Full Trinitarianism); “Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually” (<a class="xref" href="#s13-2">§13.2</a>, Arianism); “The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned” (<a class="xref" href="#s13-3">§13.3</a>).</p><span class="fld">STATUS</span><p class="hasfld"><strong>Holds — and it holds more strongly once the actual numbers are added.</strong> The original framing was directionally correct but thin enough to read as assertion rather than evidence.</p><span class="fld">AUDIT</span><p class="hasfld"></p><p><strong>The traditional “318 bishops” figure is not a reliable headcount — it’s a legend, and ancient writers say so themselves.</strong> Eyewitnesses disagreed at the time: Eusebius of Caesarea said roughly 250 attended, Eustathius of Antioch said roughly 270, Athanasius of Alexandria (present as a deacon) said 318. Later historians converged on 318 within a generation, but 318 is not neutral — it echoes Genesis 14:14 (Abraham’s 318 trained servants), a parallel Hilary of Poitiers and Ambrose both drew explicitly, and it doubles as a numerological pun in Greek letter-numerals (Τ-Ι-Η = 318, readable as a cross-shape combined with the first two letters of “Jesus”). Modern prosopographical work — Ernest Honigmann’s 20th-century study establishing a documented list of 194 named attendees — puts the real number higher than that list but below the legend; the general modern estimate is roughly 250–320 bishops actually present, out of some 1,800 invited across the empire (~1,000 eastern, ~800 western). Most invited bishops, especially western ones, simply didn’t come.</p><p><strong>The dissent count needs the fuller picture, and the fuller picture strengthens the “political pressure” reading rather than softening it.</strong> The final holdouts — the two bishops who never signed — were Theonas of Marmarica and Secundus of Ptolemais, both exiled with Arius. But five bishops initially objected to the creed’s key term, homoousios: those two plus Eusebius of Nicomedia, Theognis of Nicaea, and Maris of Chalcedon. The latter three signed the creed itself but, on several accounts, held out longer on the attached anathemas against Arius or signed under evident pressure — Eusebius of Nicomedia in particular resumed open support for Arius within a few years and was separately exiled for it. Two final refusals understates how contested the actual signing process was.</p><p><strong>A source-reliability note worth having:</strong> the two chief accounts of the council — Socrates Scholasticus and Sozomen, both 5th-century — write from the winning, pro-Nicene side, decades after the fact. The dissenting side’s own history, by Philostorgius (Arian-sympathetic), survives only as a hostile summary written by a later opponent, the Patriarch Photius. The only surviving account from the losing side reaches us exclusively through its enemies’ digest of it — itself a data point on how thoroughly the outcome was managed.</p><span class="fld">CORRECTED</span><p class="hasfld"><em>No change to the substance — the “political pressure” framing survives audit and gets stronger with real numbers attached. “318 bishops” is a later legend with a Genesis 14:14 echo and a Greek numerological pun built in; the real attendance was probably 250–320 out of roughly 1,800 invited, most of them eastern. Two bishops (Theonas, Secundus) never signed and were exiled with Arius, but five initially objected to the creed’s key term, and the three who eventually signed did so under documented pressure — one of them resumed Arian sympathies within a few years. The dissenting side’s own account of events survives only through a hostile summary by the winning side’s later heirs.</em></p><span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span><strong>:</strong> the broad contours here — an emperor convening the council, exiling the losers, burning their books — are well documented and genuinely support the “political pressure” reading, so the claim wasn’t wrong. The risk was leaving it under-sourced: a true claim stated without its evidence reads exactly like an unsupported one, and “by a vote” without attendance or dissent numbers invites the same skepticism a false claim would.</p></div></details>
 </section><section id="sec-13.4"><h2 data-num="13.4" id="s13-4"><span class="num">§13.4</span>Logical Problems the Doctrine Produces</h2>
 <p><strong>The prayer problem:</strong></p>
 <p>• If Jesus is God, who is he praying to in Gethsemane? God praying to
@@ -1400,6 +1613,7 @@ doctrine require the word “mystery.”</p>
 (heresy). Every common analogy for the Trinity slides into a declared
 heresy. The doctrine is structured so any attempt to make it
 intelligible makes it wrong.</p>
+<details class="audit" data-status="overstated" id="a-logical-questions-the-traditional-answers-were-missing"><summary><span class="siglum">⚑</span><span class="atitle">Logical Questions: the Traditional Answers Were Missing</span><span class="stamp">CHECKED 10 AUG 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">the prayer problem, death problem, knowledge problem (Mark 13:32), forsaken problem (Mark 15:34), and “heresy trap” (<a class="xref" href="#s13-4">§13.4</a>), presented with no defenders’ response.</p><span class="fld">STATUS</span><p class="hasfld"><strong>Overstated by omission.</strong> The tensions themselves are real and taken seriously by theologians who write about them — that’s precisely why a defense literature exists. The original entry presented them as though undefended, which they are not.</p><span class="fld">AUDIT</span><p class="hasfld"></p><p><strong>The prayer problem has a standard, 1,500-year-old technical answer.</strong> The Council of Chalcedon (451 CE) defines one person (hypostasis) in two natures (physeis) “without confusion, without change, without division, without separation.” On this model, Jesus praying to the Father is the human nature addressing the Father in genuine, non-performed relation, while the divine nature/person remains constitutively one with the Father. This is the textbook Chalcedonian answer, not a modern patch.</p><p><strong>The death problem has an equally standard mechanism: communicatio idiomatum</strong> — “communication of attributes.” Properties of either nature (human: hunger, death, ignorance; divine: omniscience, immortality) may be predicated of the single person of Christ, because person, not nature, is the subject of predication. “God died” on this logic means the person who is God died according to his human nature — the divine nature does not itself cease. How far attributes “communicate” across natures produced real historical disagreement (Lutheran and Reformed traditions differ sharply on it), so this is a live internal fault line even among Chalcedonians — but the basic move answering the death problem is centuries old, not unaddressed.</p><p><strong>The knowledge problem (Mark 13:32) has two named, current, direct defenses.</strong> Thomas V. Morris <span class="camp">analytic theology</span>, <em>The Logic of God Incarnate</em> (Cornell University Press, 1986), develops the <strong>“two minds” view</strong>: Christ has two distinct ranges of consciousness, one divine (omniscient) and one properly human (limited, capable of not-knowing), related asymmetrically — the divine mind has access to the human mind’s content, not the reverse. This directly answers Mark 13:32: the human consciousness genuinely didn’t know; the divine mind did. Oliver Crisp, <em>Divinity and Humanity</em> (Cambridge, 2007), ch. 5, engages Philippians 2:7 (“emptied himself”) and explicitly <strong>rejects</strong> strong ontological kenoticism — the 19th-century-origin view that the Son actually divested himself of attributes like omniscience during the incarnation. Crisp’s alternative, <strong>krypsis</strong>, holds the divine attributes are veiled, not relinquished. Both sub-positions exist among the doctrine’s own defenders — this is an active argument, not silence.</p><p><strong>The forsaken problem (Mark 15:34) and the “heresy trap” are real, and this pass could not independently verify a specific named modern defender for either</strong> — flagged rather than asserted, per this project’s standing rule against citing unverified recall. The standard patristic-era move on the forsaken cry runs on the same communicatio idiomatum logic above (the human nature experiencing genuine dereliction); the “heresy trap” point — that Trinitarian language is deliberately apophatic, with “person” and “substance” functioning as technical terms rather than ordinary ones (the Cappadocian tradition) — is a standard theological move, but a specific current citation for it needs a follow-up search before it goes in this entry as a named source.</p><span class="fld">CORRECTED</span><p class="hasfld"><em>The prayer, death, and knowledge problems all have substantial, named answers in the theological literature — Chalcedonian two-natures Christology and communicatio idiomatum for the first two; Thomas Morris’s “two minds” view (1986) and Oliver Crisp’s “krypsis” (2007) for Mark 13:32 specifically. These are live, actively argued positions, not settled consensus — Lutheran and Reformed traditions still disagree on how far attributes communicate, and Morris’s and Crisp’s approaches are themselves distinct solutions, not one unified answer. The forsaken problem and the heresy trap remain real tensions; this entry does not yet have a verified named modern defender for either and should not claim one.</em></p><span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span><strong>:</strong> live philosophical tensions make a genuinely satisfying “gotcha,” and the tensions themselves are real — the error was treating “the doctrine’s defenders have answers” and “the answers resolve the tension to everyone’s satisfaction” as the same claim. They aren’t: noting that Morris and Crisp exist doesn’t mean the doctrine is uncontroversial, only that it isn’t undefended.</p></div></details>
 </section><section id="sec-13.5"><h2 data-num="13.5" id="s13-5"><span class="num">§13.5</span>Where High Christology Comes From</h2>
 <p>• Track it across the Gospels. In Mark — earliest — Jesus is fully
 human, surprised by things, asks questions. No birth narrative. In John
@@ -1437,6 +1651,7 @@ of Nicene position.</p>
 early high Christology is consistent with Jewish monotheism.</p>
 <p>• Letham, Robert. The Holy Trinity (2004) — thorough Reformed
 theological defense.</p>
+<details class="audit" data-status="overstated" id="a-where-high-christology-comes-from"><summary><span class="siglum">⚑</span><span class="atitle">Where High Christology Comes From</span><span class="stamp">CHECKED 10 AUG 2026</span><span class="badge overstated">Overstated</span><span class="chev">▶</span></summary><div class="abody"><span class="fld">AS RECORDED</span><p class="hasfld">“This is Hellenistic philosophy applied to a Jewish prophet… The divine identity is the endpoint of a 60-year theological development, not the starting point.” (<a class="xref" href="#s13-5">§13.5</a>)</p><span class="fld">STATUS</span><p class="hasfld"><strong>Overstated.</strong> The Mark-vs-John textual contrast is real and undisputed. The causal claim built on it — that high Christology is late and Hellenistic-imported — is one side of a genuine, still-live fight, stated here as though it were the settled critical position.</p><span class="fld">AUDIT</span><p class="hasfld"></p><p><strong>The “late Hellenistic import” model has a specific origin and a specific problem.</strong> Wilhelm Bousset <span class="camp">CRITICAL, foundational</span>, <em>Kyrios Christos</em> (1913), argued cultic “Kyrios” devotion to Jesus arose not in the earliest Palestinian Jewish community but among later Hellenistic Gentile congregations, importing pagan lord-cult categories onto a Jewish prophet. This defined the field’s agenda for most of the 20th century, but it is now widely regarded — including by non-evangelical specialists — as resting on an oversimplified Jewish/Hellenistic binary; more recent scholarship traces “Kyrios” language to Jewish, not pagan, tradition.</p><p><strong>The strongest current version of the “gradual/late” side is Bart Ehrman’s, and it is narrower than the corpus’s summary of it.</strong> Bart D. Ehrman <span class="camp">CRITICAL</span>, <em>How Jesus Became God</em> (HarperOne, 2014), argues the earliest Christology was already an exaltation Christology (Jesus raised to divine status at the resurrection), and that this “moment of exaltation” gets progressively telescoped earlier across the New Testament — resurrection → baptism (Mark) → birth (Matthew, Luke) → pre-existence (John, Paul in places). This is a chronological-telescoping model, not Bousset’s geographic Jewish/Hellenistic-diffusion model, and it has drawn documented criticism — including from Larry Hurtado directly — for overdrawing a hard exaltation/incarnation dichotomy and underweighting Jewish apocalyptic precedent for pre-existent eschatological figures (1 Enoch’s Son of Man), which would make early pre-existence language less anomalous than Ehrman treats it. Maurice Casey <span class="camp">CRITICAL</span>, <em>From Jewish Prophet to Gentile God</em> (James Clarke/Westminster John Knox, 1991), is a third gradual-development voice, arguing full incarnational Christology emerges specifically from the Johannine community’s social separation from the synagogue — a sociological mechanism, distinct from both Bousset and Ehrman.</p><p><strong>The strongest current version of the opposing side is not evangelical apologetics — it’s mainstream historical-critical scholarship, and it is generally credited with shifting the field.</strong> Larry Hurtado <span class="camp">CRITICAL, mainstream — University of Edinburgh, Chair of New Testament Language, Literature and Theology, emeritus</span>, <em>One God, One Lord</em> (Fortress, 1988) and <em>Lord Jesus Christ: Devotion to Jesus in Earliest Christianity</em> (Eerdmans, 2003), argues worship-level “Jesus devotion” — prayer, hymns, cultic invocation alongside God — is attested at the earliest recoverable stage of the movement, built from devotional practice, not just later titles or concepts. Richard Bauckham <span class="camp">CRITICAL, mainstream — St Andrews</span>, <em>God Crucified</em> (1998), expanded as <em>Jesus and the God of Israel</em> (Eerdmans, 2008), argues New Testament writers include Jesus within the unique “divine identity” of YHWH — using Second Temple Jewish monotheism’s own categories, not later Nicene ontology — already in the earliest strata: pre-Pauline formulas (Philippians 2:6-11), 1 Corinthians 8:6. On Bauckham’s argument this is present before any New Testament book was written. Both scholars work in critical-scholarship terms, not evangelical apologetics, even though their conclusions are congenial to later orthodoxy — they should be labeled by institutional and methodological position, not by who finds their conclusions comfortable. James D.G. Dunn, <em>Christology in the Making</em> (SCM/Westminster, 1980; 2nd ed. Eerdmans, 1996), originally argued against real pre-existence Christology before John; the 1996 edition adds a foreword responding to Hurtado’s and Casey’s critiques. <strong>This corpus has not yet verified exactly how far that foreword revises his original position — treat any specific claim about Dunn’s revised view as unconfirmed until checked directly, not as settled.</strong></p><span class="fld">CORRECTED</span><p class="hasfld"><em>Mark and John do present starkly different Christologies — low and human in Mark, cosmic and preexistent in John — and that observation holds. Whether the gap reflects a late Hellenistic import onto an originally low-Christology tradition (Bousset, 1913; Casey, 1991; Ehrman’s narrower exaltation-telescoping model, 2014) or an early “divine identity” Christology already present in the pre-Pauline material, which John then develops further rather than invents (Hurtado, 1988/2003; Bauckham, 1998/2008) is a live, unresolved argument in the field — and the balance of specialist opinion has moved toward the early-high side since the 1990s–2000s, with Hurtado and Bauckham generally credited with that shift. “The divine identity is the endpoint of a 60-year theological development, not the starting point” states the contested side as though it were settled.</em></p><span class="fld">WHY IT LOOKED RIGHT</span><p class="hasfld"><span class="mark inf">INFERENCE</span><strong>:</strong> the Mark/John contrast is vivid and textually real, and “later theology reads developed ideas back into earlier texts” is a pattern the corpus documents elsewhere and correctly (Nicaea and the Trinity are a clean example of exactly that). The error was extending that same pattern to Christology’s origin as though it were more of the same finding, without checking whether the specific causal claim — Hellenistic import, not earlier Jewish “divine identity” categories — was itself still contested. It was.</p></div></details>
 <h1 id="asking-for-empirical-evidence-responses-and-counters">14. ASKING
 FOR EMPIRICAL EVIDENCE — RESPONSES AND COUNTERS</h1>
 <p>When you ask a believer for empirical evidence, you are applying an
@@ -1464,8 +1679,8 @@ when asked to verify them.</p>
 specific claim you just made. That is a factual claim about the world.
 What supports it?”</p>
 <p>• Direct question: “Every religion requires faith in exactly the same way.
-Faith is not a method for determining which religion is true — it is a
-method for maintaining belief regardless of evidence.”</p>
+Faith is a method for maintaining belief regardless of evidence, not
+a method for determining which religion is true.”</p>
 </section><section id="sec-14.2"><h2 data-num="14.2" id="s14-2"><span class="num">§14.2</span>“Personal Experience / I Felt God / I Heard His Voice”</h2>
 <p><strong>What it is: </strong>Subjective testimony offered as
 empirical evidence for divine existence or action.</p>
@@ -1698,8 +1913,7 @@ unfalsifiable — and unfalsifiable beliefs are not claims about reality,
 they are commitments. That distinction matters.</p>
 <h1 id="god-and-women-what-the-text-actually-says">15. GOD AND WOMEN —
 WHAT THE TEXT ACTUALLY SAYS</h1>
-<p>This is not a peripheral issue. The subordination, silencing, and
-sexualization of women is structurally embedded in the theology — not
+<p>The subordination, silencing, and sexualization of women is structurally embedded in the theology — not
 limited to obscure passages.</p>
 </section><section id="sec-15.1"><h2 data-num="15.1" id="s15-1"><span class="num">§15.1</span>The Legal Framework — Women as Property</h2>
 <p>• Deuteronomy 22:13-21 — if a bride is found not to be a virgin on
@@ -1721,6 +1935,10 @@ is.</p>
 <p>• Numbers 31:17-18 — after defeating the Midianites, Moses commands
 the killing of all males and all women who are not virgins. The virgin
 girls are kept and distributed among the soldiers.</p>
+<p>• Leviticus 27:1-7 — the law of vow valuation states explicit prices:
+an adult male (20-60 years) is valued at 50 shekels of silver, an adult
+female at 30. A child male (5-20) is worth 20, a female child 10. The valuation is explicit — a stated monetary differential, a
+person priced by sex.</p>
 </section><section id="sec-15.2"><h2 data-num="15.2" id="s15-2"><span class="num">§15.2</span>The Prophets — Sexual Violence as Theology</h2>
 <p>This is already documented in the Study Notes but belongs here for
 completeness.</p>
@@ -1733,8 +1951,7 @@ expose his wife. The prophet marries a woman specifically to use her as
 a theological prop with no voice or agency.</p>
 <p>• The structure: God is always masculine husband. Israel is always
 feminine, subordinate, sinful wife. Punishment is always sexualized.
-This is not metaphor that happens to involve women — it is a theology
-that requires women’s bodies as the site of punishment.</p>
+The theology requires women’s bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.</p>
 </section><section id="sec-15.3"><h2 data-num="15.3" id="s15-3"><span class="num">§15.3</span>The New Testament — Silence and Submission</h2>
 <p>• 1 Corinthians 14:34-35 — “Women should remain silent in the
 churches. They are not allowed to speak… If they want to inquire about
@@ -1754,6 +1971,24 @@ hierarchy a theological principle, not a cultural <span class="gloss" tabindex="
 <p>• 1 Corinthians 11:7-9 — “man is the image and glory of God; but
 woman is the glory of man… woman was created for man.” Not disputed.
 Undisputed Paul.</p>
+<p>• 1 Timothy 2:15 — “she will be saved through childbearing — if they
+continue in faith and love and holiness, with self-control” (σωθήσεται
+διὰ τῆς τεκνογονίας). Sits directly after the teaching prohibition and
+the Eve-was-deceived grounding (2:11-14) — salvation language tied to a
+domestic role. Four real readings exist, none settled: (1) a
+literal/works-adjacent reading — theologically awkward against Pauline
+grace theology elsewhere, part of why critical scholarship reads the
+Pastorals as post-Pauline in the first place; (2) a Genesis 3:16
+curse-reversal reading — childbirth pain as curse, endurance through it
+as redemptive participation (Philip Towner’s New International Commentary on the New Testament entry takes this
+line) <span class="camp">CONSERVATIVE-EVANGELICAL</span>; (3) a
+definite-article reading — “the childbearing” pointing to a specific
+birth, Christ’s — grammatically weak, a minority position; (4) a
+social-control reading — restricting women to a domestic sphere as a
+corrective against women’s visible leadership in earlier, undisputed
+Pauline communities (Romans 16 names women deacons and an apostle,
+Junia) <span class="camp">CRITICAL</span> — Elisabeth Schüssler Fiorenza,
+James D.G. Dunn.</p>
 </section><section id="sec-15.4"><h2 data-num="15.4" id="s15-4"><span class="num">§15.4</span>The Theological Tension</h2>
 <p><strong>The standard response: </strong>”These were cultural norms of
 the time — God was working within the culture.”</p>
@@ -1791,6 +2026,85 @@ they did not believe them, because their words seemed to them like
 nonsense.” The founding testimony of the resurrection — given by women —
 was dismissed as nonsense by the male disciples. That is baked into the
 text.</p>
+</section><section id="sec-15.6"><h2 data-num="15.6" id="s15-6"><span class="num">§15.6</span>The Strongest Complementarian Case</h2>
+<p>The rest of this section states the critical position without
+running this corpus’s own method on it: name the strongest case for
+every side, including the traditional one. This is that case.</p>
+<p><strong>The core move: </strong>role distinction is not value
+distinction. <strong>John Piper and Wayne Grudem, eds., <em>Recovering
+Biblical Manhood and Womanhood: A Response to Evangelical
+Feminism</em></strong> (Crossway, 1991) — the foundational text, produced
+through the Council on Biblical Manhood and Womanhood (CBMW, est. 1987)
+— argues men and women hold full ontological equality (both made in
+God’s image, Genesis 1:27) alongside functional hierarchy in marriage
+and church leadership. <strong>Andreas Köstenberger and David W. Jones,
+<em>God, Marriage, and Family: Rebuilding the Biblical Foundation</em></strong>
+(Crossway, 2004) extends the same framework across the whole of family
+ethics.</p>
+<p><strong>The analogy that carries the weight: </strong>Grudem leans on
+the Trinity — the Son is fully equal in essence to the Father, yet
+eternally subordinate in role — as a template for “equal in worth,
+differentiated in function” being a coherent theological category rather
+than a contradiction. The Trinity analogy is the argument’s load-bearing structure — not a supporting illustration — usually called “eternal functional
+subordination” (EFS) or “eternal relations of authority and
+submission.”</p>
+<p><strong>Where the analogy breaks against Trinitarian orthodoxy, not
+just against feminist critique: Kevin Giles</strong>, <em>The Trinity
+&amp; Subordinationism</em> (InterVarsity Press, 2002), <em>Jesus and the
+Father</em> (Zondervan, 2006), and <em>The Eternal Generation of the
+Son</em> (InterVarsity Press, 2012) — argues EFS is itself a departure
+from Nicene orthodoxy, which holds the Son’s subordination is economic
+(meaning it belongs to the incarnation — God becoming human and acting in history — not to his eternal being) not eternal. The dispute broke out <strong>inside</strong>
+evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl
+Trueman publicly charged Grudem and Bruce Ware’s EFS with undermining
+Nicene trinitarianism, and the dispute reached the Evangelical
+Theological Society’s November 2016 annual meeting, where Grudem and Ware
+faced Giles and Millard Erickson directly. Both Grudem and Ware stated
+there that they affirmed the Nicene doctrine of the Son’s “eternal
+generation” — read by critics as a real, if partial, concession. The
+Trinity analogy complementarianism leans on hardest is contested by
+conservative Trinitarian theologians on Trinitarian grounds, independent
+of the gender question.</p>
+<p><strong>On Galatians 3:28: </strong>complementarians read “no longer
+male and female… one in Christ” as soteriological equality — equal
+standing before God, equal access to salvation — not functional equality
+in marriage or church office. Paul, on this reading, is answering “who
+is saved,” not “who leads.” On 1 Corinthians 11:7-9: read as a
+creation-order argument (Adam formed first) establishing a structure of
+headship, comparable to primogeniture (the right of the firstborn son to inherit by birth order) establishing inheritance order — a
+functional distinction, not a claim about lesser worth.</p>
+<p><strong>Where even sympathetic scholarship doesn’t fully defend the
+position: </strong>the Old Testament property and valuation texts
+(Leviticus 27’s shekel pricing, Numbers 5’s ordeal) are the hardest case
+for “equal worth, different roles” — a stated price differential is not
+role language, and no complementarian treatment of these specific texts
+as culturally-bound civil law rather than the moral core of scripture
+was found and verified for this entry; that gap is noted here rather
+than papered over with an uncited attribution.</p>
+<p><strong>The internal critique — an evangelical historian, not an
+outside critic: Beth Allison Barr</strong>, <em>The Making of Biblical
+Womanhood: How the Subjugation of Women Became Gospel Truth</em> (Brazos
+Press, 2021) — Barr teaches at Baylor and writes from inside the
+tradition, not against it — argues complementarianism already sorts
+biblical instructions into “cultural” and “timeless” categories (head
+coverings and holy kisses treated as cultural; headship and teaching
+restrictions treated as timeless) without acknowledging that sorting as
+an interpretive choice rather than something the text itself specifies.
+This is the same “who decided, and by what standard” tension already
+named at <a class="xref" href="#s15-4">§15.4</a>, now sourced to a critic
+writing from within complementarianism’s own tradition rather than
+outside it.</p>
+<p><strong>Conclusion: </strong>complementarianism is a serious,
+internally rigorous position with real defenders and real internal
+critics — not fringe apologetics. It has a substantive answer to the
+role texts (1 Corinthians 11, 1 Timothy 2): creation order establishes
+function, not worth. It does not have an equally developed answer to the
+property and valuation texts (Leviticus 27, Numbers 5) — those texts
+price and control bodies rather than assign roles, and “different roles,
+equal worth” does not obviously metabolize a stated shekel differential.
+The Trinity analogy meant to make the whole framework theologically
+coherent is itself contested by conservative Trinitarian scholars on
+grounds that have nothing to do with gender.</p>
 <p><strong>Sources — critical:</strong></p>
 <p>• Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of
 Biblical Narratives (1984) — foundational feminist biblical
@@ -1802,7 +2116,44 @@ an evangelical historian.</p>
 <p><strong>Sources — defending complementarianism:</strong></p>
 <p>• Piper, John &amp; Grudem, Wayne (eds.). Recovering Biblical Manhood
 and Womanhood (1991) — the comprehensive <span class="gloss" tabindex="0">complementarian<span class="tip"><b>complementarian</b>The view that men and women have different God-given roles, with male authority in church and marriage.</span></span> defense.</p>
-<p>• Köstenberger, Andreas. God, Marriage, and Family (2004).</p>
+<p>• Köstenberger, Andreas J. &amp; Jones, David W. God, Marriage, and
+Family: Rebuilding the Biblical Foundation (2004).</p>
+<p>• Giles, Kevin. The Trinity &amp; Subordinationism (2002); Jesus and
+the Father (2006) — Trinitarian critique of the Trinity analogy
+complementarianism relies on, from inside evangelical Trinitarian
+theology.</p>
+</section><section id="sec-15.7"><h2 data-num="15.7" id="s15-7"><span class="num">§15.7</span>The Architecture, Not the Anomaly</h2>
+<p><span class="mark you">YOURS</span> The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. Taken together, the asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex, not a collection of unfortunate passages in an otherwise egalitarian system.</p>
+<p><strong>The covenant sign.</strong> The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. The mark is male-only. It defines the primary parties at the founding moment.</p>
+<p><strong>The inheritance and succession law.</strong> Land flows through male lines by default. The Zelophehad daughters episode (Numbers 27, 36) is frequently cited as flexibility: the daughters inherit because there are no sons. But Numbers 36 immediately constrains that right — they must marry within their tribe so land does not transfer out of male tribal control. The correction to the anomaly is a rule that preserves male inheritance across tribal lines. The daughters' right was bounded from the moment it was granted.</p>
+<p><strong>The divine marriage metaphor.</strong> God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. The metaphor's logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate — the gendered roles are structural, not decorative. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. The gendered structure is what makes the metaphor legible; remove it and the comparison collapses. The violence in Ezekiel 16, Ezekiel 23, and Hosea is structural to the theology. God's fidelity is proven by the power to punish. That framing requires the wife's subordination as a given.</p>
+<p><strong>What makes it load-bearing.</strong> The legal asymmetries in <a class="xref" href="#s15-1">§15.1</a>, the prophetic material in <a class="xref" href="#s15-2">§15.2</a>, and the NT commands in <a class="xref" href="#s15-3">§15.3</a> are load-bearing. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.</p>
+<p><strong>One direction only.</strong> The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That is what a structural feature looks like, not a collection of accidents.</p>
+<p><strong>The alternative was available.</strong> The text occasionally shows capacity for a different vision — Jesus in extended theological dialogue with the Samaritan woman across multiple social prohibitions (John 4), Mary affirmed for choosing to learn over the domestic role her sister held (Luke 10:38-42). These moments demonstrate the alternative was demonstrably available and was not taken as a structural norm. That is the strongest evidence this is a human document reflecting human power arrangements rather than a timeless moral intelligence.</p>
+<p><strong>The fingerprint.</strong> <span class="mark inf">INFERENCE</span> A system this consistent — across law, narrative, prophecy, epistle, and the metaphysics of covenant — was produced by people for whom the asymmetry was not a problem requiring explanation. It was the world they were describing. The distinction between "intentional theological commitment to subordination" and "unexamined assumption of the authors' social world" is real, but it only appears when you hold the texts against the historical record of who wrote them and under what conditions. From inside the texts, the two are indistinguishable.</p>
+</section><section id="sec-15.8"><h2 data-num="15.8" id="s15-8"><span class="num">§15.8</span>What the System Permits on the Male Side</h2>
+<p><span class="mark doc">DOCUMENTED</span> The architecture documented in <a class="xref" href="#s15-1">§15.1</a>–<a class="xref" href="#s15-7">§15.7</a> becomes fully legible when read against what the system does not prohibit for men. The asymmetry is not incidental — it is the inverse proof that the framework is tracking property, lineage, and gender-role status rather than sexual morality as a universal principle.</p>
+<p><strong>What the text does not prohibit.</strong> Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.</p>
+<p><strong>Onan is not about what it is usually said to be.</strong> Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.</p>
+<p><strong>Levirate marriage states the framework directly.</strong> Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself.</p>
+<p><strong>Adultery is defined as a property violation.</strong> The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.</p>
+<p><strong>Numbers 5 states the structural asymmetry.</strong> The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.</p>
+<p><strong>The rape law confirms the framework.</strong> Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.</p>
+<hr>
+<p><strong>David and Jonathan.</strong> <span class="mark doc">DOCUMENTED</span> 1 Samuel 18:1 — "the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul." 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: "your love to me was extraordinary, surpassing the love of women."</p>
+<p>Tom Horner (<em>Jonathan Loved David: Homosexuality in Biblical Times</em>, Westminster Press, 1978) argued for a romantic and erotic reading. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb <em>ahav</em> (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (<em>I Samuel</em>, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference and treats the language as covenant loyalty within a formal political relationship.</p>
+<p><span class="mark inf">INFERENCE</span> The intensity of the language, the clothing transfer, and "surpassing the love of women" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.</p>
+<hr>
+<p><strong>qadesh — idolatry, not orientation.</strong> <span class="mark doc">DOCUMENTED</span> Deuteronomy 23:17 prohibits <em>qadesh</em>. The root <em>qdsh</em> means "consecrated one." 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation "male cult prostitute" is contested: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (<em>Homoeroticism in the Biblical World</em>, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the "cult prostitute" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.</p>
+<hr>
+<p><strong>Eunuchs — a third category the system accepts.</strong> <span class="mark doc">DOCUMENTED</span> Isaiah 56:3-5 explicitly includes eunuchs in the covenant: "I will give them a monument and a name better than sons and daughters." Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.</p>
+<hr>
+<p><strong>NT complications.</strong> <span class="mark doc">DOCUMENTED</span> Matthew 5:27-28 — "everyone who looks at a woman [Greek: <em>gynaika</em>] with lustful intent has already committed adultery with her in his heart." The internalization move is real, but the Greek word is <em>gynaika</em> (woman, not specifically "another man's wife") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.</p>
+<p><span class="mark doc">DOCUMENTED</span> 1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: "it is better to marry than to burn" (7:9). Paul's reasoning is explicitly eschatological — "the time is short" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.</p>
+<hr>
+<p><strong>Synthesis.</strong> <span class="mark inf">INFERENCE</span> The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. "Sexual morality as a universal principle applied equally to male and female" is not what this system is.</p>
+<p>The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (<em>One Hundred Years of Homosexuality</em>, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. "Being gay" as a category the text addresses is a modern retrofitting.</p>
+<p><span class="mark you">YOURS</span> The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.</p>
 <h1 id="incest-in-the-biblical-narrative">16. INCEST IN THE BIBLICAL
 NARRATIVE</h1>
 <p>The text does not hide this. It requires engagement because believers
@@ -2004,8 +2355,8 @@ election theology claims.</p>
 because God is using them (ch. 27), then says Babylon is evil and will
 be destroyed (ch. 50-51). The Gospels disagree on Jesus’s last words,
 what happened at the resurrection, and whether Jesus was surprised or in
-control. These aren’t minor tensions — they’re fundamental incoherence
-that most devotional reading strategies are designed to avoid
+control. These are fundamental incoherence that most devotional
+reading strategies are designed to avoid
 noticing.</p>
 </section><section id="sec-18.6"><h2 data-num="18.6" id="s18-6"><span class="num">§18.6</span>On the absence of Jesus’s own writings</h2>
 <p>Every version of Christianity is downstream of someone else’s
@@ -2030,498 +2381,93 @@ Malachi.</p>
 moving into Paul’s Letters. Up next: Romans, Galatians, 1-2 Corinthians
 (where Christian theology is actually constructed).</p>
 <p><em>Living document — update as reading progresses</em></p>
-<h1 id="quick-timeline-dates-you-need-mid-conversation">19. QUICK TIMELINE — DATES FOR READING AND CONVERSATION</h1>
-<p><em>Compressed from Historical Framework §2. This version is for
-grabbing fast, not for reading through. Dates before roughly 900 BCE are
-approximate; from the Assyrian period on, chronology is firm — anchored
-to dated eclipses and king lists.</em></p>
-</section><section id="sec-19.1"><h2 data-num="19.1" id="s19-1"><span class="num">§19.1</span>Before and during the kingdoms</h2>
-<table>
-<colgroup>
-<col style="width: 50%"/>
-<col style="width: 50%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>c. 1208 BCE</td>
-<td>Merneptah <span class="gloss" tabindex="0">Stele<span class="tip"><b>stele</b>An upright stone slab with an inscription. Plural: stelae.</span></span> — first extrabiblical mention of Israel, as a people
-not a place</td>
-</tr>
-<tr class="even">
-<td>c. 1200–1000</td>
-<td>Highland settlement in Canaan — gradual, no conquest layer</td>
-</tr>
-<tr class="odd">
-<td>c. 1000</td>
-<td>Traditional date for David — <strong>existence firm, scale
-disputed</strong></td>
-</tr>
-<tr class="even">
-<td>c. 840</td>
-<td>Tel Dan Stele (“House of David”) and Mesha Stele (earliest
-extrabiblical YHWH)</td>
-</tr>
-<tr class="odd">
-<td>722</td>
-<td>Assyria destroys the northern kingdom</td>
-</tr>
-<tr class="even">
-<td>701</td>
-<td>Sennacherib besieges Jerusalem — <strong>best-corroborated event in
-the Hebrew Bible</strong></td>
-</tr>
-<tr class="odd">
-<td>c. 622</td>
-<td>Josiah’s reform; “book of the law” found in the Temple</td>
-</tr>
-<tr class="even">
-<td>586</td>
-<td>Jerusalem falls; First Temple destroyed; exile</td>
-</tr>
-<tr class="odd">
-<td>539</td>
-<td>Cyrus takes Babylon</td>
-</tr>
-<tr class="even">
-<td>c. 516</td>
-<td>Second Temple completed</td>
-</tr>
-</tbody>
-</table>
-</section><section id="sec-19.2"><h2 data-num="19.2" id="s19-2"><span class="num">§19.2</span>The Second Temple period between the Testaments</h2>
-<p><em>Everything distinctive about first-century Judaism forms here.
-See Historical Framework <a class="xref" href="#s2-4">§2.4</a>.</em></p>
-<table>
-<colgroup>
-<col style="width: 50%"/>
-<col style="width: 50%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>333–332 BCE</td>
-<td>Alexander conquers the Levant; Greek becomes the elite language</td>
-</tr>
-<tr class="even">
-<td>c. 250</td>
-<td><span class="gloss" tabindex="0">Septuagint<span class="tip"><b>Septuagint</b>The Greek translation of the Hebrew scriptures, made around 250 BCE. What most New Testament authors actually quote.</span></span> — Hebrew scriptures translated into Greek</td>
-</tr>
-<tr class="odd">
-<td>c. 165</td>
-<td><strong>Daniel written</strong> — latest book in the Hebrew
-Bible</td>
-</tr>
-<tr class="even">
-<td>167–160</td>
-<td>Maccabean revolt</td>
-</tr>
-<tr class="odd">
-<td>63</td>
-<td>Pompey takes Jerusalem — Rome arrives</td>
-</tr>
-<tr class="even">
-<td>37–4</td>
-<td>Herod the Great; Temple expansion</td>
-</tr>
-</tbody>
-</table>
-<p><strong>What forms in this window:</strong> resurrection of the dead
-· hell · a cosmic Satan · angelology · messianic expectation ·
-Pharisees, Sadducees, Essenes, Zealots · synagogue and <span class="gloss" tabindex="0">Torah<span class="tip"><b>Torah</b>The first five books — Genesis to Deuteronomy. Also means 'teaching' or 'law' generally.</span></span> study.
-<strong>None of it is in the Torah.</strong></p>
-</section><section id="sec-19.3"><h2 data-num="19.3" id="s19-3"><span class="num">§19.3</span>Jesus and the New Testament</h2>
-<table>
-<colgroup>
-<col style="width: 50%"/>
-<col style="width: 50%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>6 CE</td>
-<td>Judea becomes a Roman province</td>
-</tr>
-<tr class="even">
-<td>26–36</td>
-<td>Pontius Pilate, <span class="gloss" tabindex="0">prefect<span class="tip"><b>prefect</b>The Roman governor of a minor province. Pilate's actual title.</span></span> — confirmed by the Pilate Stone, found
-1961</td>
-</tr>
-<tr class="odd">
-<td>c. 30–33</td>
-<td>Crucifixion</td>
-</tr>
-<tr class="even">
-<td><strong>c. 50–60</strong></td>
-<td><strong>Paul’s <span class="gloss" tabindex="0">undisputed letters<span class="tip"><b>undisputed letters</b>The seven letters nearly all scholars accept Paul actually wrote: Romans, 1–2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon.</span></span> — the earliest Christian writings
-that survive</strong></td>
-</tr>
-<tr class="odd">
-<td>66–73</td>
-<td>First Jewish Revolt</td>
-</tr>
-<tr class="even">
-<td><strong>70</strong></td>
-<td><strong>Jerusalem sacked, Second Temple destroyed — the
-hinge</strong></td>
-</tr>
-<tr class="odd">
-<td>c. 70</td>
-<td>Mark</td>
-</tr>
-<tr class="even">
-<td>c. 80–85</td>
-<td>Matthew and Luke</td>
-</tr>
-<tr class="odd">
-<td>c. 90–100</td>
-<td>John</td>
-</tr>
-<tr class="even">
-<td>c. 95</td>
-<td>Revelation</td>
-</tr>
-<tr class="odd">
-<td>132–135</td>
-<td>Bar Kokhba revolt; Jews barred from Jerusalem</td>
-</tr>
-</tbody>
-</table>
-</section><section id="sec-19.4"><h2 data-num="19.4" id="s19-4"><span class="num">§19.4</span>How the church and the canon formed</h2>
-<table>
-<colgroup>
-<col style="width: 50%"/>
-<col style="width: 50%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>c. 112</td>
-<td>Pliny the Younger’s letter — earliest outside description of
-Christian worship</td>
-</tr>
-<tr class="even">
-<td>c. 115</td>
-<td>Tacitus on Christus executed under Pilate</td>
-</tr>
-<tr class="odd">
-<td>c. 140</td>
-<td>Marcion’s canon — the first known list, declared heretical</td>
-</tr>
-<tr class="even">
-<td>c. 180</td>
-<td>Irenaeus argues for exactly four Gospels</td>
-</tr>
-<tr class="odd">
-<td>313</td>
-<td>Edict of Milan — Christianity legalised</td>
-</tr>
-<tr class="even">
-<td><strong>325</strong></td>
-<td><strong>Nicaea — Arian controversy and the Nicene Creed. NOT the
-canon.</strong></td>
-</tr>
-<tr class="odd">
-<td>367</td>
-<td>Athanasius’s 39th Festal Letter — first surviving list matching the
-27-book NT</td>
-</tr>
-<tr class="even">
-<td>380</td>
-<td>Edict of Thessalonica — Christianity becomes the state religion</td>
-</tr>
-<tr class="odd">
-<td>393 / 397</td>
-<td>Hippo and Carthage ratify regional canon lists</td>
-</tr>
-</tbody>
-</table>
-</section><section id="sec-19.5"><h2 data-num="19.5" id="s19-5"><span class="num">§19.5</span>Islam</h2>
-<table>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Event</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>c. 570–632</td>
-<td>Muhammad</td>
-</tr>
-<tr class="even">
-<td>610</td>
-<td>Traditional date of first revelation</td>
-</tr>
-<tr class="odd">
-<td>622</td>
-<td>Hijra — year 1 of the Islamic calendar</td>
-</tr>
-<tr class="even">
-<td>c. 650</td>
-<td>Uthmanic <span class="gloss" tabindex="0">recension<span class="tip"><b>recension</b>An officially revised and standardized edition of a text.</span></span> — standardized Quranic text</td>
-</tr>
-<tr class="odd">
-<td>8th–9th c.</td>
-<td><span class="gloss" tabindex="0">Hadith<span class="tip"><b>hadith</b>Reports of Muhammad's sayings and actions, collected and graded for reliability.</span></span> collections and <em><span class="gloss" tabindex="0">sira<span class="tip"><b>sira</b>The traditional biographies of Muhammad, written 100–200 years after his death.</span></span></em> biographies written down</td>
-</tr>
-</tbody>
-</table>
-</section><section id="sec-19.6"><h2 data-num="19.6" id="s19-6"><span class="num">§19.6</span>English Bibles</h2>
-<table>
-<colgroup>
-<col style="width: 50%"/>
-<col style="width: 50%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th>Date</th>
-<th>Version</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>1382</td>
-<td>Wycliffe — first complete English Bible</td>
-</tr>
-<tr class="even">
-<td>1526</td>
-<td>Tyndale New Testament — Tyndale executed 1536</td>
-</tr>
-<tr class="odd">
-<td>1611</td>
-<td>King James Version (<em><span class="gloss" tabindex="0">Textus Receptus<span class="tip"><b>Textus Receptus</b>The 16th-century Greek New Testament based on a few late manuscripts. The basis of the KJV.</span></span></em> base)</td>
-</tr>
-<tr class="even">
-<td>1901 / 1952</td>
-<td>ASV / RSV — the RSV’s “young woman” at Isaiah 7:14 gets copies
-publicly burned</td>
-</tr>
-<tr class="odd">
-<td>1978 / 2011</td>
-<td>NIV</td>
-</tr>
-<tr class="even">
-<td>2001</td>
-<td>ESV</td>
-</tr>
-<tr class="odd">
-<td>2021</td>
-<td>NRSVue — current academic standard</td>
-</tr>
-</tbody>
-</table>
-</section><section id="sec-19.7"><h2 data-num="19.7" id="s19-7"><span class="num">§19.7</span>Source gaps — key intervals to remember</h2>
-<p>These are the figures to have ready. Every one is a <em>gap between
-event and writing</em>, which is the single most important number in any
-source discussion.</p>
+</section>
+<h1 id="hearing-god-psychology">21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE</h1>
+<p>Evangelical Christianity presents prayer as a two-way conversation: God speaks personally, specifically, and recognizably to individual believers. This is not a metaphor. The claim is that the God of the universe identifies you by name, responds to your specific situation, and communicates in a manner you can distinguish from your own thoughts. The psychological and neurological literature on inner speech and voice-hearing documents what that experience actually is.</p>
+<section id="sec-21.1"><h2 data-num="21.1" id="s21-1"><span class="num">§21.1</span>Hearing God Is a Trained Skill</h2>
+<p><span class="mark doc">DOCUMENTED</span> T.M. Luhrmann (Stanford, anthropologist) conducted years of embedded fieldwork with evangelical charismatic Christians specifically studying how they learn to hear God speak. Core finding: hearing God is a trained skill, not a spontaneous supernatural event. The practice of prayer teaches people to reattribute their own inner speech — thoughts, mental images, internal narratives — as external divine communication. The inner voice doesn't change. The interpretive framework applied to it changes. (<em>When God Talks Back</em>, Knopf, 2012.)</p>
+<p><span class="mark doc">DOCUMENTED</span> Luhrmann, Nusbaum, and Thisted tested the absorption hypothesis — that people who pray regularly develop higher absorption (the tendency to become immersed in internal mental experience), and that absorption predicts the likelihood of hearing God speak. Finding confirmed. Absorption is a trainable cognitive trait, not a spiritual gift. ("The Absorption Hypothesis: Learning to Hear God in Evangelical Christianity," <em>American Anthropologist</em> 112(1): 66–78, 2010.)</p>
+</section><section id="sec-21.2"><h2 data-num="21.2" id="s21-2"><span class="num">§21.2</span>What Inner Speech Actually Is</h2>
+<p><span class="mark doc">DOCUMENTED</span> Charles Fernyhough (Durham, psychology) documents that inner speech is not monolithic. It operates on a spectrum from fully expanded — a complete voice with distinct tone, personality, emotional register — to compressed (wordless intuition). At the fully expanded end, inner speech can take on qualities distinct from the person's self-perception: a different emotional register, a different moral orientation, an apparently autonomous perspective. This is normal cognitive variation, not pathology. (<em>The Voices Within</em>, Basic Books, 2016.)</p>
+<p><span class="mark doc">DOCUMENTED</span> Inner speech is generated by the same neural machinery as external speech perception: Broca's area, Wernicke's area. The brain uses predictive processing to suppress the sensation of hearing your own thoughts as external. When that suppression is incomplete or trained away by contemplative practice, inner speech can phenomenologically feel as if it originates outside the self.</p>
+<p><span class="mark doc">DOCUMENTED</span> Alderson-Day and Fernyhough's review of inner speech research documents that inner speech routinely involves dialogic structure: people internally argue with themselves, hear responses, experience distinct "voices" in conversation. The structural format of inner speech already resembles conversation with another entity. The additional step — attributing that entity as God — is smaller than it appears from the outside. ("Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology," <em>Psychological Bulletin</em> 141(5): 931–965, 2015.)</p>
+</section><section id="sec-21.3"><h2 data-num="21.3" id="s21-3"><span class="num">§21.3</span>Voice-Hearing Is Not Rare and Its Content Is Culturally Installed</h2>
+<p><span class="mark doc">DOCUMENTED</span> Marius Romme and Sandra Escher established through a research program beginning in 1989 that voice-hearing exists on a continuum across the general population — not confined to psychosis. A substantial minority of the general population hears voices at some point without meeting criteria for any psychiatric disorder. ("Hearing Voices," <em>Schizophrenia Bulletin</em> 15(2): 209–216, 1989; <em>Accepting Voices</em>, Mind Publications, London, 1993.)</p>
+<p><span class="mark doc">DOCUMENTED</span> Luhrmann, Padmavati, Tharoor, and Osei conducted a cross-cultural study comparing voice-hearers in San Mateo (California), Accra (Ghana), and Chennai (India). Finding: same neurological phenomenon, culturally determined content. American voice-hearers reported more violent, disturbing, intrusive content. Ghanaian and Indian voice-hearers reported more positive, relational, often explicitly divine-coded content. The mechanism is the same. What gets attributed to it is culturally installed. ("Differences in Voice-Hearing Experiences of People with Psychosis in the USA, India and Ghana," <em>The British Journal of Psychiatry</em> 206(1): 41–44, 2015.)</p>
+</section><section id="sec-21.4"><h2 data-num="21.4" id="s21-4"><span class="num">§21.4</span>The Historical Frame — Jaynes</h2>
+<p><span class="mark doc">DOCUMENTED</span> Julian Jaynes argued that prior to roughly 1000 BCE, humans did not have the modern unified inner monologue. Instead, the right hemisphere generated speech that the left hemisphere experienced as an external voice — heard as gods, ancestors, divine commands. Ancient people were not metaphorically hearing gods; they were neurologically hearing voices and correctly reporting the experience. The shift to modern interiority accompanied the administrative complexity of expanding civilizations, which made bicameral command-and-response unworkable. (<em>The Origin of Consciousness in the Breakdown of the Bicameral Mind</em>, Houghton Mifflin, 1976.)</p>
+<p><span class="mark inf">INFERENCE</span> Jaynes's specific bicameral mechanism is not accepted in mainstream neuroscience. What the framework contributes — and what holds independent of the contested mechanism — is a reframing of the historical question: not "did ancient people really hear God" but "what were they actually hearing, and why did they interpret it that way." The ancient divine-voice experience is treated as a real neurological phenomenon rather than fraud or metaphor. That premise is more defensible than the specific mechanism.</p>
+</section><section id="sec-21.5"><h2 data-num="21.5" id="s21-5"><span class="num">§21.5</span>The Belief-Projection Evidence Already in Corpus</h2>
+<p><span class="mark doc">DOCUMENTED</span> Epley, Converse, Delbosc, Monteleone, and Cacioppo established, across correlational, experimental, and neuroimaging evidence, that people unconsciously attribute their own beliefs to God. When people's own beliefs are experimentally shifted, their estimates of God's beliefs shift to match — while their estimates of other people's beliefs do not. The God people believe in tracks the person doing the believing. ("Believers' Estimates of God's Beliefs Are More Egocentric Than Estimates of Other People's Beliefs," <em>PNAS</em> 106(51): 21533–21538, 2009.)</p>
+</section><section id="sec-21.6"><h2 data-num="21.6" id="s21-6"><span class="num">§21.6</span>The Study Not Yet Done</h2>
+<p><span class="mark inf">INFERENCE</span> The study that would close the argument at the voice level has not been done at the required precision: a direct comparison of a person's inner monologue characteristics — tone, vocabulary, moral framework, habitual concerns — with their described characteristics of the God or Jesus they hear. Luhrmann documents the reattribution process but stops short of the systematic comparison: does your God sound like you? Does your Jesus tell you things you already believe? Does the voice ever tell you something you genuinely didn't think or know?</p>
+<p><span class="mark inf">INFERENCE</span> The prediction is obvious. The God people describe hearing will reflect their own moral vocabulary, their own unresolved concerns, their own existing convictions. Epley establishes this at the level of attributed beliefs. The missing inner-monologue study would establish it at the level of the voice itself. The result would not be ambiguous, and the "personal relationship" would be, in measurable terms, a relationship with a culturally labelled projection of the self.</p>
+</section><section id="sec-21.7"><h2 data-num="21.7" id="s21-7"><span class="num">§21.7</span>How to Use This</h2>
+<p>The claim "God told me personally" cannot be evaluated from outside. The framework above makes it evaluable differently: not "did God actually speak" (unverifiable) but "is there an alternative mechanism that accounts for the experience at every level" (yes — documented with named scholarship across anthropology, neuroscience, and cross-cultural psychiatry).</p>
 <ul>
-<li><strong>~40 years</strong> — crucifixion (c. 30) to the first Gospel
-(c. 70)</li>
-<li><strong>~20 years</strong> — crucifixion to Paul’s earliest letter
-(c. 50), which contains <strong>no birth narrative, no empty tomb, no
-biography</strong></li>
-<li><strong>~60–70 years</strong> — crucifixion to John</li>
-<li><strong>~85 years</strong> — crucifixion to Tacitus</li>
-<li><strong>150+ years</strong> — the earliest substantial New Testament
-manuscripts are 2nd–3rd century. <strong>No manuscript can reach behind
-that.</strong></li>
-<li><strong>~600 years</strong> — the oldest complete Hebrew Bible
-manuscripts are medieval; the Dead Sea Scrolls close most but not all of
-that gap</li>
-<li><strong>100–200 years</strong> — Muhammad’s death (632) to the
-written <em>sira</em> and hadith</li>
-<li><strong>~1,000 years</strong> — Israel’s emergence (c. 1200 BCE) to
-the Torah’s likely final shaping (Persian period)</li>
+<li>The cross-cultural content data is the sharpest single point: if the mechanism were divine speech, you'd expect the content to be consistent across cultures. American voice-hearers hearing violent and disturbing content while Ghanaian and Indian voice-hearers hear warm, relational, divine content is exactly what you'd predict from a culturally loaded inner-speech mechanism — and the opposite of what you'd predict from a God who speaks.</li>
+<li>The absorption finding matters for the conversation about spiritual gifts: if hearing God is trainable through prayer practice, it is not a supernatural gift distributed by divine election. It is a learned skill, distributed according to practice.</li>
+<li>The Epley finding addresses the "personal relationship" claim at the belief level: people's God shares their political views, their moral judgments, their social priorities. The God of a pacifist opposes war. The God of a nationalist supports the nation. This is documented, not argued.</li>
+<li>Direct question for conversation: "When God told you that, did he tell you anything you didn't already think or believe?"</li>
 </ul>
-<p><strong>The line:</strong> <em>“How long between the event and the
-writing?”</em> It works on every source, in every tradition, including
-the ones you agree with.</p>
-<h1 id="standing-methodological-notes">8. STANDING METHODOLOGICAL
-NOTES</h1>
-<p>• Scholarly claims and personal inference must always be
-distinguished. Label which is which.</p>
-<p>• Sources on both sides are included by design. Goal is understanding
-the strongest version of every argument, not just the counters.</p>
-<p>• When a claim cannot be sourced, it is labeled as inference or
-observation until verified.</p>
-<p>• All entries are living — add corrections, reversals, and new
-observations as they come.</p>
-</section><section id="sec-8.1"><h2 data-num="8.1" id="s8-1"><span class="num">§8.1</span>Scholarly Survey Method (mirrored from Study Notes §11)</h2>
-<p>Applied to every contested passage from here forward, and
-retroactively to everything above:</p>
-<ol type="1">
-<li><strong>Name the scholars and the publications.</strong> Not “some
-scholars argue.” Author, title, journal, year.</li>
-<li><strong>Label the camp.</strong> Every name is tagged with where
-they are arguing from — <span class="camp">CRITICAL</span>, <span class="camp">CONSERVATIVE-EVANGELICAL</span>,
-<span class="camp"><span class="gloss" tabindex="0">NEO-DOCUMENTARIAN<span class="tip"><b>neo-documentarian</b>A modern scholar who still defends a version of the four-source theory. Mostly North American and Israeli.</span></span></span>, <span class="camp">EUROPEAN SCHOOL</span>, <span class="camp"><span class="gloss" tabindex="0">MINIMALIST<span class="tip"><b>minimalist</b>A scholar who thinks very little of the Hebrew Bible's history is historically reliable.</span></span></span>, <span class="camp">AFFIRMING</span>,
-<span class="camp">JEWISH CRITICAL</span>, etc. Position is context, not disqualification. A
-conservative can be right and a critic can be motivated.</li>
-<li><strong>Verify by search, not memory.</strong> Recall produces
-confident summaries of positions that do not exist.</li>
-<li><strong>Strongest case for each side, including the traditional
-one.</strong></li>
-<li><strong>Documented vs. inferred, marked every time.</strong> “X
-argues this in journal Y” and “one might infer” are different
-objects.</li>
-<li><strong>State a conclusion with reasoning.</strong> A survey that
-refuses to land is not an answer.</li>
-<li><strong>Correct overreach openly.</strong> Then stop hedging.</li>
+</section>
+<h1 id="theodicy-free-will">22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM</h1>
+<p>"God wants you free" is the most common way modern Christianity explains why evil exists. It is not primarily a biblical claim. It is a theological position constructed to patch a set of contradictions the text creates and then leaves unresolved. Understanding where the claim came from, what it fails to explain, and what the formal version of the problem looks like gives a much clearer picture of what the actual theological situation is.</p>
+<section id="sec-22.1"><h2 data-num="22.1" id="s22-1"><span class="num">§22.1</span>The Predestination Texts: What the Text Actually Says</h2>
+<p>The texts people use to support the "God wants you free" position are two: Deuteronomy 30:19 ("choose life, that you and your descendants may live") and Joshua 24:15 ("choose this day whom you will serve"). Both are real and belong in the picture.</p>
+<p>Against them the text places a substantially harder cluster:</p>
+<p><strong>Exodus — God hardens Pharaoh's heart.</strong> Not Pharaoh choosing to resist. God doing it. The text says this explicitly and repeatedly: Exodus 4:21, 7:3, 9:12, 10:1, 10:20, 10:27, 14:4, 14:8 — eight separate statements. Then punishes Pharaoh for the result. The text does not apologize for this.</p>
+<p><strong>Romans 9:18–21</strong> — "He has mercy on whom he wills, and he hardens whom he wills." Paul immediately anticipates the obvious objection — this seems unfair — and answers it: "Who are you, O man, to answer back to God? Will what is molded say to its molder, 'Why have you made me like this?'" Potter and clay. The text tells the reader not to push on this.</p>
+<p><strong>Ephesians 1:4–5</strong> — "He chose us in him before the foundation of the world … he predestined us for adoption." Not chosen because of future free choices. Before anything existed.</p>
+<p><strong>John 6:44</strong> — "No one can come to me unless the Father who sent me draws him." Not invites. Draws. The agency belongs to the Father, not the individual.</p>
+<p><strong>Acts 13:48</strong> — "As many as were appointed to eternal life believed." Appointment precedes belief. The causal sequence runs the other direction from the free-will reading.</p>
+<p>The text holds both the "choose" commands and the predestination cluster simultaneously without resolving the contradiction. Romans 9 is not an edge case — it is one of the densest theological passages in the canon and it ends by telling the reader to stop asking questions about it.</p>
+</section><section id="sec-22.2"><h2 data-num="22.2" id="s22-2"><span class="num">§22.2</span>Where "God Wants You Free" Actually Comes From</h2>
+<p><span class="mark doc">DOCUMENTED</span> The "God wants you free" framing is not the default reading of the tradition. It is <strong>Arminian theology</strong>, named for Jacob Arminius (1560–1609), a Dutch Reformed theologian who broke with strict Calvinist predestination. Following Arminius's death, his followers published the <em>Five Articles of the Remonstrance</em> (1610) — a formal theological challenge to Calvinist doctrine, arguing that predestination is conditional on God's foreknowledge of free choices, that Christ died for all and not only the elect, and that saving grace is resistible.</p>
+<p><span class="mark doc">DOCUMENTED</span> The <strong>Synod of Dort</strong> (1618–19) convened specifically to reject the five Arminian articles and affirm the classic Calvinist position: <strong>double predestination</strong> — some are predestined for salvation, others for damnation, by God's sovereign will apart from any foreseen merit or choice. John Calvin developed this most fully in the <em>Institutes of the Christian Religion</em>, Book III, chapters 21–24.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Jonathan Edwards</strong>, the American Calvinist theologian, gave the most rigorous philosophical defense of predestination's compatibility with genuine freedom in <em>A Careful and Strict Enquiry into … the Freedom of the Will</em> (1754). Edwards's compatibilism: freedom is acting according to your strongest desire, not being free from causal determination. A deterministically caused choice is free if it flows from your own desires — which is compatible with God having predetermined those desires.</p>
+<p><span class="mark inf">INFERENCE</span> Modern evangelical Christianity defaulted to the Arminian version rather than the Calvinist one. "God chose before you were born who goes to hell" is a harder sell than "God loves you and wants you free." This is a theological position adopted under cultural pressure, not exegetical force. The Calvinist reading of Romans 9 is at least as textually defensible as the Arminian one.</p>
+</section><section id="sec-22.3"><h2 data-num="22.3" id="s22-3"><span class="num">§22.3</span>Why Free Will Doesn't Solve the Structural Problem</h2>
+<p>Free will explains one category of problem: why humans make bad moral choices. It does not reach several others.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>The problem of natural evil</strong> is the formal name for the category free will cannot address. Natural evil: earthquakes, tsunamis, the <em>Ophiocordyceps</em> fungus that hijacks ant brains and directs their behavior before killing them, the <em>Loa loa</em> worm that lives in human eyeballs, cancer in children. These predate any human choice, involve no human agency, and are designed biological and geological systems functioning exactly as built. An omniscient creator who designed them knew what they would do. Free will does not touch any of it.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Alvin Plantinga's free will defense</strong> (<em>God, Freedom, and Evil</em>, Eerdmans, 1974) is the most rigorous modern formulation of the argument. Plantinga argues that God could not have created genuinely free creatures who always choose good — that is a logical contradiction, because a puppet that always chooses rightly is not genuinely choosing. Genuine freedom requires the possibility of choosing evil. Therefore moral evil is a logically necessary consequence of creating genuinely free beings.</p>
+<p><span class="mark doc">DOCUMENTED</span> Plantinga extends the free will defense to cover natural evil through the same logical machinery: the physical suffering caused by natural events could result from evil nonhuman free agents — Satan and fallen angels — whose free choices predate and cause the physical systems producing natural suffering (<em>God, Freedom, and Evil</em>, pp. 57–58). Plantinga is explicit that the Free Will Defender "does not assert that this is true but only that it is possible." This is a modal defense — showing the coexistence of God and natural evil is logically consistent — not a theodicy claiming to explain what actually caused it.</p>
+<p><span class="mark inf">INFERENCE</span> This move relocates the problem rather than solving it. Satan is a created being. A created being inside an omnipresent God. Psalm 139:7–10 establishes that there is nowhere outside God's presence: "Where shall I go from your Spirit? … If I make my bed in Sheol, you are there." A created being establishing a domain opposed to the creator <em>inside the creator's own omnipresence</em> is the structural contradiction the free will argument cannot address at any level — human or angelic. Moving the free will explanation to fallen angels just pushes the same incoherence one level up.</p>
+<p><span class="mark inf">INFERENCE</span> A second structural problem the text doesn't notice: the fall narrative requires God to be surpriseable within his own omniscience. Genesis 3 presents God walking in the garden looking for Adam and Eve — "Where are you?" — as though discovering what happened. This requires either that God didn't know (breaking omniscience) or that the scene is theater: a performance of discovery God authored to produce a predetermined result. The text holds both the omniscient God (1 John 3:20, Psalm 139) and the surprised-God narrative simultaneously without noticing they conflict.</p>
+</section><section id="sec-22.4"><h2 data-num="22.4" id="s22-4"><span class="num">§22.4</span>Classical Theist Responses and Where Each Fails</h2>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Augustine — the privation argument.</strong> Evil has no ontological substance. It is <em>privatio boni</em> — privation of good, an absence rather than a created thing. Darkness is not a substance God created; it is the absence of light. Evil is not a thing; it is the absence of good. Developed across <em>Enchiridion</em> (chapters 10–14) and <em>City of God</em>.</p>
+<p><span class="mark inf">INFERENCE</span> The argument handles abstract moral evil awkwardly but collapses on natural evil. A parasite that causes river blindness is not an absence. It is a biological system — a designed entity with a lifecycle — operating exactly as built. An omniscient God who designed the system knew what it would do. "I didn't create the darkness; I just built a room with no windows and foreknew exactly what the darkness would do to the people inside" is not a defense when God is the architect.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Calvin — God ordains everything.</strong> Calvin did not flinch. God is the ultimate cause of everything including evil, and this does not make God evil because God is the standard of goodness. Whatever God does is good by definition, because goodness is defined by God's nature, not by an independent standard. God cannot be judged by a criterion above himself.</p>
+<p><span class="mark inf">INFERENCE</span> This converts "God is good" from a meaningful claim into a tautology. If good means "whatever God does," then the statement has the same logical content as "God does what God does." Jonathan Edwards's compatibilism rescues the freedom argument but does not rescue the goodness claim — it restates the same move more carefully.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Gnosticism — the Demiurge.</strong> The most internally consistent theological response to the problem of evil was the one declared heretical. Gnostic cosmology — particularly Valentinian Gnosticism, documented by Irenaeus of Lyon in <em>Against Heresies</em> (c. 180 CE) and through primary Coptic texts from the Nag Hammadi library (discovered December 1945) — held that the creator God of Genesis is a lesser, intermediate being: the Demiurge, distinct from the true highest God. On Ptolemy's Valentinian account (<em>Letter to Flora</em>, preserved in Epiphanius), the Demiurge is not malevolent but ignorant — "just" in his own terms, but cut off from the higher divine reality and therefore deficient. An ignorant rather than omniscient creator accounts for a broken creation without requiring the omni-attributes to be reconciled. Early Christianity expended significant theological energy condemning this framework precisely because its internal logic is consistent.</p>
+<p><span class="mark inf">INFERENCE</span> Gnosticism relocates the problem rather than solving it. Where did the Demiurge come from? What is the nature of the highest God who permitted a lesser god to create a broken world? The explanatory regress moves one level up but does not end. It is a consistent alternative cosmology; it is not a resolution.</p>
+</section><section id="sec-22.5"><h2 data-num="22.5" id="s22-5"><span class="num">§22.5</span>The Euthyphro Dilemma</h2>
+<p><span class="mark doc">DOCUMENTED</span> The problem the Calvin observation unpacks into has a name and is 2,400 years old. Plato formulates it in the dialogue <em>Euthyphro</em> (c. 399–380 BCE): <em>Is something pious/good because the gods command it, or do the gods command it because it is pious/good?</em></p>
+<p>The dilemma has two horns and classical theism cannot cleanly exit through either:</p>
+<p><strong>Horn 1 — Good because God commands it (divine command theory):</strong> Goodness is whatever God wills. This makes goodness arbitrary — God could command cruelty and it would be good by definition. More precisely: it makes "God is good" a tautology with no independent content. The statement says nothing beyond "God does what God does." The "do as I say not as I do" structure is exactly this horn. Might makes right with theological packaging.</p>
+<p><strong>Horn 2 — God commands it because it is good:</strong> Goodness exists independently of God. God is subject to a standard above himself. God becomes a messenger of an independent moral order, not its source. God's supremacy is limited.</p>
+<p><span class="mark doc">DOCUMENTED</span> <strong>Aquinas's response</strong> — usually described as the "third horn" or the divine simplicity escape — argues that God does not follow an external standard (Horn 2) nor arbitrarily create goodness (Horn 1), because God's nature <em>is</em> goodness. God is <em>summum bonum</em> (highest good). Goodness is not a standard above God or a product of God's will — it is an essential attribute of what God is. Developed in <em>Summa Theologica</em>, Part I, Question 6 ("The Goodness of God").</p>
+<p><span class="mark inf">INFERENCE</span> The third-horn response is genuinely distinct from Horn 1. On Horn 1 (voluntarism), God could in principle have willed cruelty and it would have been good — goodness is contingent on God's arbitrary will. On Aquinas's account, this is incoherent: God's nature is necessary, not contingent, so God could not have willed cruelty, because cruelty would contradict what God necessarily is. The escape from the dilemma is real at that level. What the response requires, and asserts without establishing, is divine simplicity — the claim that God's essence, existence, and goodness are literally identical rather than merely correlated. Critics argue this is not a resolution but a metaphysical premise presented as one, and that "God's nature is goodness" is not obviously more coherent than the dilemma it is meant to dissolve. The dilemma has not been resolved in 2,400 years. The tradition has produced more sophisticated descriptions of the problem — not exits from it.</p>
+</section><section id="sec-22.6"><h2 data-num="22.6" id="s22-6"><span class="num">§22.6</span>The Honest State of the Problem</h2>
+<p><span class="mark doc">DOCUMENTED</span> J.L. Mackie, "Evil and Omnipotence" (<em>Mind</em> 64:254, 1955) formalized what this conversation reconstructs: there is a logical contradiction between omnipotence, omnibenevolence, and the existence of evil. This is not merely an evidential problem — "evil makes God's existence less likely" — but a logical incompatibility: these three claims cannot all be simultaneously true. This is Mackie's "hard" version of the problem of evil.</p>
+<p><span class="mark inf">INFERENCE</span> The omni-attributes as a formal package — omnipotent, omniscient, omnibenevolent — are not assembled as a package in the text. The philosophical vocabulary is not biblical. But the underlying claims are there: God knows everything (1 John 3:20, Psalm 139:1–4), God can do anything (Job 42:2, Jeremiah 32:17), God is good (Psalm 34:8, Mark 10:18). The theologians systematized what the text implies into formal language. The formalization exposed a contradiction the text was carrying without noticing. "The text doesn't use the word omnipotent" is not a resolution — the claims are there; the philosophical vocabulary only made the contradiction visible.</p>
+<p><span class="mark inf">INFERENCE</span> Every classical theist response to the problem of evil requires quietly abandoning at least one of the three attributes to maintain the others:</p>
+<ul>
+<li>Augustine's privation abandons omnipotence implicitly (God couldn't prevent the absence of good?)</li>
+<li>Calvin's divine command abandons meaningful omnibenevolence (good = whatever God does)</li>
+<li>Process theology abandons omnipotence explicitly (God persuades rather than determines; God is not all-powerful)</li>
+<li>Open theism abandons omniscience (God does not foreknow future free choices)</li>
+<li>Gnosticism abandons the creator's omnibenevolence by splitting the creator from the highest God</li>
+</ul>
+<p>The theological tradition has not resolved this. It has found more sophisticated ways to describe which attribute gets quietly dropped.</p>
+</section><section id="sec-22.7"><h2 data-num="22.7" id="s22-7"><span class="num">§22.7</span>How to Use This in Conversation</h2>
+<p>The "God wants you free" line usually arrives as a conversational explanation for why evil exists — God had to allow it to preserve genuine human freedom. The framework above gives four specific places it breaks down:</p>
+<ol>
+<li><strong>Free will addresses moral evil, not natural evil.</strong> Earthquakes, parasites, cancer predate human choice and involve no human agency. Free will does not touch them.</li>
+<li><strong>Free will doesn't resolve the omnipresence contradiction.</strong> An omnipresent God who has sections of creation "outside" God's presence, or a created being establishing a domain opposed to the creator inside the creator's own omnipresence — these are structural problems free will was not designed to address.</li>
+<li><strong>The Euthyphro Dilemma is 2,400 years old and has no clean exit.</strong> "God is good" is either a tautology (Horn 1) or it limits God's supremacy (Horn 2). Aquinas's escape is a more elegant restatement of Horn 1. If the person you're talking to says "God defines goodness by his nature," they have conceded the tautology.</li>
+<li><strong>The omni-attribute package the free-will argument is defending was not assembled by the text.</strong> The text makes the underlying claims; philosophy assembled them into a formal package; the package is logically incoherent; the text never noticed. "God never claimed to be omnipotent in those words" is not an exit — Job 42:2 says "I know that you can do all things." The claim is there.</li>
 </ol>
-<p><strong>Entry format:</strong> AS RECORDED / STATUS / AUDIT /
-CORRECTED / WHY IT LOOKED RIGHT.</p>
-<p><strong>Use note:</strong> do not present a line from an
-unaudited claim as though it were settled. The queue at <a class="xref" href="#s8-2">§8.2</a> lists what
-has not been checked.</p>
-</section><section id="sec-8.2"><h2 data-num="8.2" id="s8-2"><span class="num">§8.2</span>Where to Look While Reading or in Conversation</h2>
-<table>
-<colgroup>
-<col style="width: 50%"/>
-<col style="width: 50%"/>
-</colgroup>
-<thead>
-<tr class="header">
-<th>They say</th>
-<th>Go to</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>A date, an empire, an archaeological claim</td>
-<td>Historical Framework §2</td>
-</tr>
-<tr class="even">
-<td>“Constantine invented the Bible” / Nicaea</td>
-<td>Historical Framework §7 — <strong>the popular skeptic version is
-false</strong></td>
-</tr>
-<tr class="odd">
-<td>“5,800 manuscripts”</td>
-<td>Historical Framework §4 — concede the number, contest the
-inference</td>
-</tr>
-<tr class="even">
-<td>Josephus, Tacitus, extrabiblical evidence</td>
-<td>Historical Framework §3, Sources <a class="xref" href="#s2-3">§2.3</a> and §3</td>
-</tr>
-<tr class="odd">
-<td>“Archaeology confirms the Bible”</td>
-<td>Historical Framework <a class="xref" href="#s1-3">§1.3</a> and §10</td>
-</tr>
-<tr class="even">
-<td>A specific verse, and the wording matters</td>
-<td>Translations §5</td>
-</tr>
-<tr class="odd">
-<td>“That’s not what the Greek/Hebrew says”</td>
-<td>Translations §2 and §5, Sources <a class="xref" href="#s2-1">§2.1</a></td>
-</tr>
-<tr class="even">
-<td>Reading is literal here and metaphor there</td>
-<td>The Strongest Case §2 — the frameworks have names</td>
-</tr>
-<tr class="odd">
-<td>A named theologian or philosopher</td>
-<td>The Strongest Case §1</td>
-</tr>
-<tr class="even">
-<td>A word you don’t know</td>
-<td>Glossary</td>
-</tr>
-</tbody>
-</table>
-<p><strong>Standing rule from Sources <a class="xref" href="#s6-2">§6.2</a>:</strong> never cite a source
-you have not opened. A source you cannot locate is not evidence, it is a
-rumour with a footnote.</p>
-</section><section id="sec-8.3"><h2 data-num="8.3" id="s8-3"><span class="num">§8.3</span>Open Audit Queue — Claims Not Yet Verified</h2>
-<p>Ranked by expected exposure. Not yet audited.</p>
-<p><strong>Highest exposure</strong></p>
-<ul>
-<li><strong>“Delay of the <span class="gloss" tabindex="0">parousia<span class="tip"><b>parousia</b>The second coming of Christ. Greek for 'arrival' or 'presence'.</span></span> is the crisis John’s theology was
-built to solve”</strong> — Bultmann/Käsemann-era consensus, heavily
-challenged since. Recorded at §8.6 as settled. Probably is not.</li>
-<li><strong>“John is textually antisemitic”</strong> — recorded at §8.5.
-The <em><span class="gloss" tabindex="0">Ioudaioi<span class="tip"><b>Ioudaioi</b>The Greek word in John usually translated 'the Jews'. Whether it should be 'Judeans' is heavily contested.</span></span></em> translation question (“Jews” / “Judeans” / “Jewish
-authorities”) is among the most contested issues in Johannine studies.
-Only one side is currently represented.</li>
-</ul>
-<p><strong>Medium exposure</strong></p>
-<ul>
-<li><strong>Acts speeches as fictional constructions</strong> (§9) —
-Dibelius vs. Hemer and Bruce. The Thucydidean convention is real; how
-much it licenses is disputed.</li>
-<li><strong>Luke softening Roman culpability</strong> (<a class="xref" href="#s6-3">§6.3</a>) —
-defensible, with real pushback.</li>
-<li><strong>Deutero-Pauline pseudonymity</strong> (<a class="xref" href="#s6-5">§6.5</a>) — Pastorals
-strong; Colossians and 2 Thessalonians genuinely split; Ephesians in
-between. Currently flattened into one verdict.</li>
-</ul>
-<p><strong>Low exposure — expected to survive</strong></p>
-<ul>
-<li><span class="gloss" tabindex="0">Markan priority<span class="tip"><b>Markan priority</b>The majority view that Mark was written first and Matthew and Luke used it.</span></span> (<a class="xref" href="#s6-1">§6.1</a>). Near-consensus. “Most human Jesus” is
-interpretive gloss, not finding.</li>
-<li>Galatians 2 vs. Acts 15 contradiction (<a class="xref" href="#s9-3">§9.3</a>). Real; degree
-argued.</li>
-<li>Matthew’s use of prophecy (<a class="xref" href="#s6-2">§6.2</a>). Mechanism well documented;
-“retrofitted” is loaded framing worth testing.</li>
-<li>Isaiah 7:14 <em>almah</em>/<em>parthenos</em> (§2). Expected to
-hold, but the traditional counterargument has not been recorded.</li>
-<li>Ha-satan as adversarial role rather than cosmic villain (<a class="xref" href="#s1-3">§1.3</a>, §2).
-Expected to hold.</li>
-</ul>
-<p><em>Audit status: 7 of 11 complete. Corrections are filed inline
-beneath the claims they revise, marked ⚑. Originals preserved
-unaltered.</em></p>
-<h3 data-num="8.4" id="s8-4"><span class="num">§8.4</span>Observations Audit Status</h3>
-<p><strong>Corrected:</strong> <a class="xref" href="#s3-1">§3.1</a> Crusades (partial — Children’s
-Crusade dropped, defensive framing nuanced) · <a class="xref" href="#s4-1">§4.1</a> learned religious fear
-(supporting claim corrected; central observation holds).</p>
-<p><strong>Verified elsewhere and safe to use:</strong> <a class="xref" href="#s3-2">§3.2</a> biblical
-slavery — the undisputed-vs-disputed-letters framing is correct and is
-the stronger version of that argument (Study Notes <a class="xref" href="#s6-5">§6.5</a> audit). <a class="xref" href="#s4-2">§4.2</a>
-Epley et al. — the PNAS citation is sound.</p>
-<p><strong>Not yet audited in this document.</strong> Treat as usable
-but unverified: §1 logical moves · §2 common claims · §5 Jesus across
-the Gospels · §9 deflection phrases · §10 “don’t add your own
-understanding” · §11 moral frameworks · §12 key verses · §13 Trinity ·
-§14 empirical evidence · §15 God and women · §16 incest · §17 in-group
-exclusivity.</p>
-<p><strong>Two flagged for early attention when the audit
-resumes:</strong></p>
-<ul>
-<li><strong><a class="xref" href="#s12-8">§12.8</a> John 8:44</strong> — say <strong>anti-Jewish</strong>,
-not antisemitic. Antisemitism is a modern racial category dating from
-1879; applying it to a first-century text is anachronistic and invites a
-correction that lets an conversation partner dismiss the whole point. Run the
-argument on reception history, which does not require establishing
-intent. See Study Notes §8.5 audit.</li>
-<li><strong>§13 Trinity / Nicaea</strong> — verify against Historical
-Framework §7 before use. Nicaea did not vote on the canon and did not
-invent Jesus’s divinity. The true version — an emperor enforcing a
-theological outcome and exiling dissenters — is the documented account.</li>
-</ul>
-<p><em>Living document — update as conversations progress</em></p>
 </section>
 </main>
 <button id="top" aria-label="Back to top">↑</button>

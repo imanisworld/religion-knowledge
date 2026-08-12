@@ -7,6 +7,7 @@ const CANONICAL_SOURCES = [
   'Field_Guide_Conversation_Reference.md',
   'Glossary.md',
   'Historical_Framework.md',
+  'Method_and_Reference.md',
   'Sources_and_Primary_Texts.md',
   'The_Other_Side.md',
   'Translations.md',

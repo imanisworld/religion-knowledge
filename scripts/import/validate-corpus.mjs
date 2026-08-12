@@ -29,6 +29,7 @@ const aliases = new Map([
   ['field guide conversation reference', ['field guide']],
   ['glossary', ['glossary']],
   ['historical framework', ['history', 'historical framework']],
+  ['method and reference', ['method reference']],
   ['sources and primary texts', ['sources', 'sources and primary texts']],
   ['the other side', ['other side', 'the other side']],
   ['translations', ['translations']],

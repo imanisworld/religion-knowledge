@@ -203,14 +203,14 @@ fi
   >/tmp/religion-app-dom.html \
   2>/tmp/religion-browser.log
 
-if ! grep -Fq '<strong>1287</strong><span>Records</span>' /tmp/religion-app-dom.html; then
-  echo "Rendered app did not show the expected 1,287 record count" >&2
+if ! grep -Fq '<strong>1606</strong><span>Records</span>' /tmp/religion-app-dom.html; then
+  echo "Rendered app did not show the expected 1606 record count" >&2
   tail -100 /tmp/religion-browser.log >&2 || true
   exit 1
 fi
 
-if ! grep -Fq '<strong>661</strong><span>Review</span>' /tmp/religion-app-dom.html; then
-  echo "Rendered app did not show the expected 661 review count" >&2
+if ! grep -Fq '<strong>73</strong><span>Review</span>' /tmp/religion-app-dom.html; then
+  echo "Rendered app did not show the expected 73 review count" >&2
   tail -100 /tmp/religion-browser.log >&2 || true
   exit 1
 fi
@@ -246,8 +246,8 @@ if ! grep -Fq 'Original notes and parser output are never included or rewritten.
 fi
 
 SOURCE_LIBRARY_COUNT="$(grep -o 'data-source-library-file=' /tmp/religion-app-dom.html | wc -l | tr -d ' ')"
-if [[ "$SOURCE_LIBRARY_COUNT" != "7" ]]; then
-  echo "Expected 7 canonical source library cards, found $SOURCE_LIBRARY_COUNT" >&2
+if [[ "$SOURCE_LIBRARY_COUNT" != "8" ]]; then
+  echo "Expected 8 canonical source library cards, found $SOURCE_LIBRARY_COUNT" >&2
   exit 1
 fi
 
@@ -377,4 +377,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1287 review=661 positions=0 review_backup=present source_library=7 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=1606 review=73 positions=0 review_backup=present source_library=8 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"

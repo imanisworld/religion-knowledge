@@ -18,6 +18,7 @@
     'SOURCE',
     'INFERENCE',
     'REVIEW_REQUIRED',
+    'PRE_CONVENTION',
   ];
 
   function loadLocalOverrides() {
@@ -259,6 +260,7 @@
   function badgeClass(provenance) {
     if (['MY_WORDS', 'MY_POSITION', 'MY_QUESTION'].includes(provenance)) return 'mine';
     if (provenance === 'REVIEW_REQUIRED') return 'review';
+    if (provenance === 'PRE_CONVENTION') return 'pre-convention';
     if (provenance === 'SOURCE') return 'source';
     if (['CLAUDE', 'CHATGPT', 'INFERENCE'].includes(provenance)) return 'ai';
     return '';
@@ -271,7 +273,12 @@
   // Badge copy only — the dialog's detail rows keep the raw enum labels,
   // since that surface is the attribution audit trail.
   function badgeText(provenance) {
-    return provenance === 'REVIEW_REQUIRED' ? 'NEEDS REVIEW' : label(provenance);
+    if (provenance === 'REVIEW_REQUIRED') return 'NEEDS REVIEW';
+    // Neutral on purpose: this is a declared, closed dead end (the source
+    // document says the span is unrecoverably mixed), not an open item —
+    // it must not read as another orange "do something about this" badge.
+    if (provenance === 'PRE_CONVENTION') return 'MIXED — PRE-CONVENTION';
+    return label(provenance);
   }
 
   const DOC_TITLES = {
@@ -279,6 +286,7 @@
     'Field_Guide_Conversation_Reference.md': 'Observations',
     'Glossary.md': 'Glossary',
     'Historical_Framework.md': 'Historical Framework',
+    'Method_and_Reference.md': 'Method & Reference',
     'Sources_and_Primary_Texts.md': 'Sources & Primary Texts',
     'The_Other_Side.md': 'The Strongest Case',
     'Translations.md': 'Translations',

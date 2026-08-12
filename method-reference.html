@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Method &amp; Reference</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{overflow-x:hidden}html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;overflow-x:hidden;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.55rem;font-size:.875rem}
+#toc a.lvl3{padding-left:1.4rem;font-size:.8rem}
+#toc a.lvl4{padding-left:1.4rem;font-family:var(--f-mono);font-size:.7rem;letter-spacing:.02em;
+  color:#8E9C97;display:flex;align-items:center;gap:.4rem}
+#toc a.lvl4::before{content:"⚑";font-size:.75rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.lvl4.st-overstated::before{color:var(--overstated)}
+#toc a.lvl4.st-collapses::before{color:#C05252}
+#toc a.lvl4.st-holds::before{color:#4E9970}
+#toc a.lvl4.st-new::before{color:#5FA9A5}
+#toc a.dim{opacity:.22}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{opacity:.16;pointer-events:none}
+h2{font-family:var(--f-display);font-size:1.92rem;font-weight:500;letter-spacing:-.02em;
+  line-height:1.14;margin:3.6rem 0 1.3rem;padding-top:1.6rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem;display:flex;gap:.7rem;align-items:baseline}
+h2 .num{font-family:var(--f-mono);font-size:.78rem;color:var(--accent);letter-spacing:.06em;
+  font-weight:500;flex:none;padding-top:.42rem}
+h3{font-family:var(--f-display);font-size:1.24rem;font-weight:600;letter-spacing:-.008em;
+  margin:2.3rem 0 .7rem;scroll-margin-top:4.5rem;display:flex;gap:.6rem;align-items:baseline}
+h3 .num{font-family:var(--f-mono);font-size:.7rem;color:var(--ink3);flex:none;padding-top:.2rem}
+p{margin:0 0 1.05rem;max-width:var(--measure)}
+ul,ol{max-width:var(--measure);padding-left:1.2rem;margin:0 0 1.15rem}
+li{margin-bottom:.45rem}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+
+/* ---------- audit apparatus ---------- */
+.audit{position:relative;background:var(--paper);border:1px solid var(--rule);
+  border-radius:5px;margin:1.5rem 0 2.4rem;overflow:hidden;max-width:var(--measure)}
+.audit::before{content:"";position:absolute;left:0;top:0;bottom:0;width:3px;background:var(--ink3)}
+.audit[data-status=overstated]::before{background:var(--overstated)}
+.audit[data-status=collapses]::before{background:var(--collapses)}
+.audit[data-status=holds]::before{background:var(--holds)}
+.audit[data-status=new]::before{background:var(--new)}
+.audit > summary{list-style:none;cursor:pointer;padding:1rem 1.3rem 1rem 1.5rem;
+  display:flex;gap:.75rem;align-items:flex-start;flex-wrap:wrap;transition:background .15s}
+.audit > summary::-webkit-details-marker{display:none}
+.audit > summary:hover{background:#F6F8F7}
+.audit > summary:focus-visible{outline:2px solid var(--accent);outline-offset:-2px}
+.siglum{font-size:.95rem;line-height:1.4;flex:none;color:var(--ink3)}
+.audit[data-status=overstated] .siglum{color:var(--overstated)}
+.audit[data-status=collapses] .siglum{color:var(--collapses)}
+.audit[data-status=holds] .siglum{color:var(--holds)}
+.audit[data-status=new] .siglum{color:var(--new)}
+.audit .atitle{flex:1;min-width:14rem;font-family:var(--f-display);font-size:1.02rem;
+  font-weight:600;line-height:1.3}
+.badge{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.11em;text-transform:uppercase;
+  padding:.28rem .55rem;border-radius:99px;flex:none;font-weight:500;white-space:nowrap;
+  background:#EDEFEC;color:var(--ink2)}
+.badge.overstated{background:#FBF0DE;color:#7E4E11}
+.badge.collapses{background:#F9E6E6;color:#7A2222}
+.badge.holds{background:#E3F1E9;color:#1F4C38}
+.badge.new{background:var(--accent-soft);color:#134745}
+.stamp{font-family:var(--f-mono);font-size:.58rem;letter-spacing:.09em;color:var(--ink3);
+  flex:none;padding:.32rem .45rem;border:1px solid var(--rule);border-radius:3px;white-space:nowrap}
+.chev{flex:none;color:var(--ink3);font-size:.75rem;transition:transform .18s;margin-top:.28rem}
+.audit[open] .chev{transform:rotate(90deg)}
+.abody{padding:.2rem 1.5rem 1.35rem;border-top:1px solid var(--rule);margin-top:0}
+.abody > p:first-child{margin-top:1.1rem}
+.abody p{font-size:.925rem;margin-bottom:.9rem}
+.abody ul{font-size:.925rem}
+.abody em{color:var(--ink2)}
+
+/* field labels inside audits */
+.fld{display:block;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--ink3);margin:1.4rem 0 .3rem}
+.abody > p.hasfld{margin-top:0}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+.camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+
+/* cross-reference links */
+.xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
+  border-bottom:1px dotted currentColor;padding:0 .05em}
+.xref:hover{background:var(--accent-soft)}
+.gloss{border-bottom:1px dashed #B79A4E;cursor:help;position:relative}
+.gloss:hover,.gloss:focus{background:#FBF3D9;outline:none}
+.gloss .tip{position:absolute;left:0;top:calc(100% + 7px);width:min(21rem,78vw);
+  background:var(--ink);color:#E9EFEC;padding:.65rem .8rem;border-radius:5px;font-size:.8rem;
+  line-height:1.45;font-weight:400;font-style:normal;z-index:70;opacity:0;pointer-events:none;
+  transition:opacity .13s;box-shadow:0 6px 22px rgba(0,0,0,.24)}
+.gloss .tip b{display:block;font-family:var(--f-mono);font-size:.62rem;letter-spacing:.1em;
+  text-transform:uppercase;color:#8FBFBC;margin-bottom:.25rem}
+.gloss:hover .tip,.gloss:focus .tip{opacity:1}
+.gloss.flip .tip{left:auto;right:0}
+a.ext{color:var(--accent);font-weight:500;text-decoration:none;border-bottom:1px solid #A8CFCC;padding-bottom:1px}
+a.ext:hover{border-bottom-color:var(--accent);background:var(--accent-soft)}
+a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:super;opacity:.65}
+:target > .flashwrap,.flash{animation:flash 1.5s ease-out}
+@keyframes flash{0%,22%{background:#FBF0C9}100%{background:transparent}}
+
+/* related links */
+.related{margin:1.1rem 0 0;padding:.75rem 1rem;background:var(--accent-soft);
+  border-radius:4px;font-size:.83rem;max-width:var(--measure)}
+.related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
+  color:#134745;display:block;margin-bottom:.35rem}
+.related a{margin-right:.9rem;white-space:nowrap}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+.tbtn{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.08em;text-transform:uppercase;
+  padding:.42rem .7rem;border:1px solid var(--rule);background:var(--paper);color:var(--ink2);
+  border-radius:3px;cursor:pointer;transition:.15s}
+.tbtn:hover{border-color:var(--accent);color:var(--accent)}
+.tbtn.on{background:var(--ink);color:#fff;border-color:var(--ink)}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+table{display:block;overflow-x:auto;-webkit-overflow-scrolling:touch}table{border-collapse:collapse;width:100%;max-width:var(--measure);margin:0 0 1.6rem;font-size:.875rem}code,pre{overflow-wrap:anywhere;word-break:break-word}
+th{text-align:left;font-family:var(--f-mono);font-size:.63rem;letter-spacing:.11em;text-transform:uppercase;
+  color:var(--ink3);font-weight:500;padding:.5rem .7rem;border-bottom:1.5px solid var(--rule)}
+td{padding:.55rem .7rem;border-bottom:1px solid var(--rule);vertical-align:top}
+tr:hover td{background:#F6F8F7}
+td:first-child{font-family:var(--f-mono);font-size:.8rem;white-space:nowrap;color:var(--accent)}
+h2 span.flagmark{color:var(--collapses)}
+#top{position:fixed;right:1.5rem;bottom:1.5rem;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);visibility:hidden;width:300px;transition:transform .22s,visibility .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;visibility:visible;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.35rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+</style></head><body>
+<button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">Method &amp; Reference</p>
+    <p class="docsub">How claims get verified, and where to look</p>
+    <div class="docswitch"><a class="app-link" href="app/" title="Open the app">App</a><a href="master-notes.html">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a class="on" href="#">Method &amp; Reference</a><a href="glossary.html">Glossary</a></div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> Scholarly Survey Method</a>
+<a class="lvl2" href="#s2"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">2</span> Where to Look While Reading or in Conversation</a>
+<a class="lvl2" href="#s3"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">3</span> Study Notes Audit Queue — Closed</a>
+<a class="lvl2" href="#s4"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">4</span> Observations Audit Status</a>
+<a class="lvl2" href="#s5"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">5</span> Quick Timeline</a>
+<a class="lvl3" href="#s5-1">5.1 Before and during the kingdoms</a>
+<a class="lvl3" href="#s5-2">5.2 The Second Temple period</a>
+<a class="lvl3" href="#s5-3">5.3 Jesus and the New Testament</a>
+<a class="lvl3" href="#s5-4">5.4 How the church and canon formed</a>
+<a class="lvl3" href="#s5-5">5.5 Islam</a>
+<a class="lvl3" href="#s5-6">5.6 English Bibles</a>
+<a class="lvl3" href="#s5-7">5.7 Source gaps</a>
+<a class="lvl3" href="#s5-8">5.8 New Perspective on Paul</a>
+<a class="lvl2" href="#s6"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">6</span> Four Levels of a Claim</a>
+<a class="lvl2" href="#s7"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">7</span> Critical Thinking</a>
+<a class="lvl3" href="#s7-1">7.1 A working definition</a>
+<a class="lvl3" href="#s7-2">7.2 Why reasoning fails by default</a>
+<a class="lvl3" href="#s7-3">7.3 Confirmation bias vs. motivated reasoning</a>
+<a class="lvl3" href="#s7-4">7.4 A checklist for claims</a>
+<a class="lvl3" href="#s7-5">7.5 Falsifiability cuts both ways</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <p class="lens">How This Corpus Verifies Claims, and Where to Look</p>
+    <h1>Method &amp; Reference</h1>
+    <div class="meta"><span><b>Updated</b>10 August 2026</span><span><b>Companion</b><a href="field-guide.html">Observations</a></span></div>
+  </div>
+  <div id="tools"><span id="here"></span></div>
+  <div class="howto"><p><strong>Provenance.</strong> Moved out of Observations (<code>Field_Guide_Conversation_Reference.md</code>) on 10 August 2026. This is methodology and background reference — how claims get verified, where to look things up, a reading timeline — not observations about scripture, so it didn’t belong filed alongside them. Content is unchanged from the original; only its location and section numbers moved. <strong>Written by:</strong> the survey method (<a class="xref" href="#s1">§1</a>) and the timeline (<a class="xref" href="#s5">§5</a>) are Claude’s compilation from named sources, per the original provenance note in Observations.</p></div>
+  <div id="nores">No section matches that search.</div>
+  <section id="sec-intro">
+<blockquote>
+<p><strong>Who is saying what.</strong> Three markers run through all
+seven other documents:</p>
+<ul>
+<li><strong><span class="mark doc">DOCUMENTED</span></strong> — a named scholar in a named
+publication. Checkable. If no name is attached, it is not this.</li>
+<li><strong><span class="mark inf">INFERENCE</span></strong> — reasoning built on documented facts
+but not itself found in any source. Claude’s analysis. Defensible, but
+nobody has published it, and it should never be cited as though someone
+had.</li>
+<li><strong><span class="mark you">YOURS</span></strong> — your own observation, from reading or
+live conversation. Recorded because it held up, not because it was
+agreeable.</li>
+</ul>
+<p><strong>The rule:</strong> anything marked <span class="mark inf">INFERENCE</span> is Claude
+reasoning. Treat it exactly as sceptically as you treat everything else
+here.</p>
+</blockquote>
+</section><section id="sec-1"><h2 data-num="1" id="s1"><span class="num">§1</span>Scholarly Survey Method</h2>
+<p><em>Mirrored from Study Notes §11.</em> Applied to every contested passage across every document:</p>
+<ol>
+<li><strong>Name the scholars and the publications.</strong> Not “some scholars argue.” Author, title, journal, year.</li>
+<li><strong>Label the camp.</strong> Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.</li>
+<li><strong>Verify by search, not memory.</strong> Recall produces confident summaries of positions that do not exist.</li>
+<li><strong>Strongest case for each side, including the traditional one.</strong></li>
+<li><strong>Documented vs. inferred, marked every time.</strong> “X argues this in journal Y” and “one might infer” are different objects.</li>
+<li><strong>State a conclusion with reasoning.</strong> A survey that refuses to land is not an answer.</li>
+<li><strong>Correct overreach openly.</strong> Then stop hedging.</li>
+</ol>
+<p><strong>Entry format:</strong> AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.</p>
+<p><strong>Use note:</strong> do not present an unaudited claim as settled. The queue at <a class="xref" href="#s3">§3</a> lists what has not been checked.</p>
+</section><section id="sec-2"><h2 data-num="2" id="s2"><span class="num">§2</span>Where to Look While Reading or in Conversation</h2>
+<table>
+<thead><tr><th>Question or topic</th><th>Reference</th></tr></thead>
+<tbody>
+<tr class="odd"><td>A date, an empire, an archaeological claim</td><td>Historical Framework §2</td></tr>
+<tr class="even"><td>“Constantine invented the Bible” / Nicaea</td><td>Historical Framework §7 — <strong>the popular skeptic version is false</strong></td></tr>
+<tr class="odd"><td>“5,800 manuscripts”</td><td>Historical Framework §4 — verify the number and evaluate the inference separately</td></tr>
+<tr class="even"><td>Josephus, Tacitus, extrabiblical evidence</td><td>Historical Framework §3, Sources §2.3 and §3</td></tr>
+<tr class="odd"><td>“Archaeology confirms the Bible”</td><td>Historical Framework §1.3 and §10</td></tr>
+<tr class="even"><td>A specific verse, and the wording matters</td><td>Translations §5</td></tr>
+<tr class="odd"><td>“That’s not what the Greek/Hebrew says”</td><td>Translations §2 and §5, Sources §2.1</td></tr>
+<tr class="even"><td>Reading is literal here and metaphor there</td><td>The Strongest Case §2 — the frameworks have names</td></tr>
+<tr class="odd"><td>A named theologian or philosopher</td><td>The Strongest Case §1</td></tr>
+<tr class="even"><td>A word you don’t know</td><td>Glossary</td></tr>
+</tbody>
+</table>
+<p><strong>Standing rule from Sources §6.2:</strong> never cite a source you have not opened. A source you cannot locate is a rumour with a footnote, not evidence.</p>
+</section><section id="sec-3"><h2 data-num="3" id="s3"><span class="num">§3</span>Study Notes Audit Queue — Closed</h2>
+<p>All items originally flagged in Study Notes §11.2 have been audited; corrections sit inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit. Section numbers below refer to Study Notes (<code>Bible_Deep_Dive_Master_Notes.md</code>).</p>
+<p><strong>Formerly highest exposure</strong></p>
+<ul>
+<li><strong>“Delay of the parousia is the crisis John’s theology was built to solve”</strong> — audited at §8.6. Overstated.</li>
+<li><strong>“John is textually antisemitic”</strong> — audited at §8.5. Holds w/ revisions.</li>
+</ul>
+<p><strong>Formerly medium exposure</strong></p>
+<ul>
+<li><strong>Acts speeches as fictional constructions</strong> (§9) — audited. Holds w/ revisions.</li>
+<li><strong>Luke softening Roman culpability</strong> (§6.3) — audited. Holds w/ revisions.</li>
+<li><strong>Deutero-Pauline pseudonymity</strong> (§6.5) — audited. Overstated.</li>
+</ul>
+<p><strong>Formerly low exposure — held as expected</strong></p>
+<ul>
+<li>Markan priority (§6.1) — audited. Holds.</li>
+<li>Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.</li>
+<li>Matthew’s use of prophecy (§6.2) — audited. Holds w/ revisions.</li>
+<li>Isaiah 7:14 <em>almah</em>/<em>parthenos</em> (§2) — audited. Holds w/ revisions.</li>
+<li>Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.</li>
+</ul>
+<p><em>Audit status: 11 of 11 complete, queue empty. Mirrors Study Notes §11.2 exactly — see that section for the full AS RECORDED / STATUS / AUDIT / CORRECTED text of each entry.</em></p>
+</section><section id="sec-4"><h2 data-num="4" id="s4"><span class="num">§4</span>Observations Audit Status</h2>
+<p>All section numbers below refer to Observations (<code>Field_Guide_Conversation_Reference.md</code>).</p>
+<p><strong>Corrected:</strong> Observations §3.1 Crusades (partial — Children’s Crusade dropped, defensive framing nuanced) · Observations §4.1 Innate fear (collapsed, rebuilt).</p>
+<p><strong>Verified elsewhere:</strong> Observations §3.2 biblical slavery — the undisputed-vs-disputed-letters framing is supported (Study Notes §6.5 audit). Observations §4.2 Epley et al. — the PNAS citation is sound.</p>
+<p><strong>Not yet audited in Observations.</strong> Treat as unverified: §1 logical moves · §2 common claims · §5 Jesus across the Gospels · §9 conversation patterns · §10 “don’t add your own understanding” · §11 moral frameworks · §12 key verses (except §12.8, see below) · §14 empirical evidence · §15 God and women · §16 incest · §17 in-group exclusivity.</p>
+<p><strong>§13 Trinity — audited 10 Aug 2026.</strong> The Nicaea/canon mixup was corrected earlier (7 Aug 2026). A full scholarly-survey pass on the rest of the section followed: four ⚑ AUDIT blocks now sit inline in Observations — §13.2 adoptionism-in-Mark (overstated, corrected), §13.3 Nicaea attendance/dissent numbers (holds, strengthened with real figures against the “318 bishops” legend), §13.4 the doctrine’s logical tensions (overstated by omission — the traditional/Chalcedonian answers were missing and are now supplied), and §13.5 where high Christology comes from (overstated — the late-Hellenistic-import thesis was presented as settled when Hurtado and Bauckham’s early-high-Christology case is the mainstream challenger, not a fringe defense). §13.1’s list of unity-vs-subordination proof texts was left as a plain citation list, not audited as a contestable claim.</p>
+<p><strong>§12.8 John 8:44 — audited 10 Aug 2026, the last item on the original two-item early-attention list.</strong> Terminology corrected to <strong>anti-Jewish</strong>, not antisemitic (a modern racial category dating from 1879; anachronistic applied to a first-century text). The synagogue-expulsion (Martyn’s <em>aposynagogos</em>) explanation is flagged as a contested reconstruction, not settled background — Reinhartz critiques it directly. The “Judeans” translation is explicitly rejected as a fix, per the same Reinhartz/Levine/Crossley sourcing already established at Study Notes §8.5. Reception history stands as the strongest form of the claim and needs no theory of authorial intent. Both items originally flagged for early attention (§12.8, §13) are now closed — Task 2’s audit queue moves to the remaining unaudited sections listed above, with no further items singled out for priority.</p>
+</section><section id="sec-5"><h2 data-num="5" id="s5"><span class="num">§5</span>Quick Timeline — Dates for Reading and Conversation</h2>
+<p><em>Compressed from Historical Framework §2. This version is for grabbing fast, not for reading through. Dates before roughly 900 BCE are approximate; from the Assyrian period on, chronology is firm — anchored to dated eclipses and king lists.</em></p>
+</section><section id="sec-5.1"><h3 data-num="5.1" id="s5-1"><span class="num">§5.1</span>Before and during the kingdoms</h3>
+<table>
+<thead><tr><th>Date</th><th>Event</th></tr></thead>
+<tbody>
+<tr class="odd"><td>c. 1208 BCE</td><td>Merneptah Stele — first extrabiblical mention of Israel, as a people not a place</td></tr>
+<tr class="even"><td>c. 1200–1000</td><td>Highland settlement in Canaan — gradual, no conquest layer</td></tr>
+<tr class="odd"><td>c. 1000</td><td>Traditional date for David — <strong>existence firm, scale disputed</strong></td></tr>
+<tr class="even"><td>c. 840</td><td>Tel Dan Stele (“House of David”) and Mesha Stele (earliest extrabiblical YHWH)</td></tr>
+<tr class="odd"><td>722</td><td>Assyria destroys the northern kingdom</td></tr>
+<tr class="even"><td>701</td><td>Sennacherib besieges Jerusalem — <strong>best-corroborated event in the Hebrew Bible</strong></td></tr>
+<tr class="odd"><td>c. 622</td><td>Josiah’s reform; “book of the law” found in the Temple</td></tr>
+<tr class="even"><td>586</td><td>Jerusalem falls; First Temple destroyed; exile</td></tr>
+<tr class="odd"><td>539</td><td>Cyrus takes Babylon</td></tr>
+<tr class="even"><td>c. 516</td><td>Second Temple completed</td></tr>
+</tbody>
+</table>
+</section><section id="sec-5.2"><h3 data-num="5.2" id="s5-2"><span class="num">§5.2</span>The Second Temple period between the Testaments</h3>
+<p><em>Everything distinctive about first-century Judaism forms here. See Historical Framework §2.4.</em></p>
+<table>
+<thead><tr><th>Date</th><th>Event</th></tr></thead>
+<tbody>
+<tr class="odd"><td>333–332 BCE</td><td>Alexander conquers the Levant; Greek becomes the elite language</td></tr>
+<tr class="even"><td>c. 250</td><td>Septuagint — Hebrew scriptures translated into Greek</td></tr>
+<tr class="odd"><td>c. 165</td><td><strong>Daniel written</strong> — latest book in the Hebrew Bible</td></tr>
+<tr class="even"><td>167–160</td><td>Maccabean revolt</td></tr>
+<tr class="odd"><td>63</td><td>Pompey takes Jerusalem — Rome arrives</td></tr>
+<tr class="even"><td>37–4</td><td>Herod the Great; Temple expansion</td></tr>
+</tbody>
+</table>
+<p><strong>What forms in this window:</strong> resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. <strong>None of it is in the Torah.</strong></p>
+</section><section id="sec-5.3"><h3 data-num="5.3" id="s5-3"><span class="num">§5.3</span>Jesus and the New Testament</h3>
+<table>
+<thead><tr><th>Date</th><th>Event</th></tr></thead>
+<tbody>
+<tr class="odd"><td>6 CE</td><td>Judea becomes a Roman province</td></tr>
+<tr class="even"><td>26–36</td><td>Pontius Pilate, prefect — confirmed by the Pilate Stone, found 1961</td></tr>
+<tr class="odd"><td>c. 30–33</td><td>Crucifixion</td></tr>
+<tr class="even"><td><strong>c. 50–60</strong></td><td><strong>Paul’s undisputed letters — the earliest Christian writings that survive</strong></td></tr>
+<tr class="odd"><td>66–73</td><td>First Jewish Revolt</td></tr>
+<tr class="even"><td><strong>70</strong></td><td><strong>Jerusalem sacked, Second Temple destroyed — the hinge</strong></td></tr>
+<tr class="odd"><td>c. 70</td><td>Mark</td></tr>
+<tr class="even"><td>c. 80–85</td><td>Matthew and Luke</td></tr>
+<tr class="odd"><td>c. 90–100</td><td>John</td></tr>
+<tr class="even"><td>c. 95</td><td>Revelation</td></tr>
+<tr class="odd"><td>132–135</td><td>Bar Kokhba revolt; Jews barred from Jerusalem</td></tr>
+</tbody>
+</table>
+</section><section id="sec-5.4"><h3 data-num="5.4" id="s5-4"><span class="num">§5.4</span>How the church and the canon formed</h3>
+<table>
+<thead><tr><th>Date</th><th>Event</th></tr></thead>
+<tbody>
+<tr class="odd"><td>c. 112</td><td>Pliny the Younger’s letter — earliest outside description of Christian worship</td></tr>
+<tr class="even"><td>c. 115</td><td>Tacitus on Christus executed under Pilate</td></tr>
+<tr class="odd"><td>c. 140</td><td>Marcion’s canon — the first known list, declared heretical</td></tr>
+<tr class="even"><td>c. 180</td><td>Irenaeus argues for exactly four Gospels</td></tr>
+<tr class="odd"><td>313</td><td>Edict of Milan — Christianity legalised</td></tr>
+<tr class="even"><td><strong>325</strong></td><td><strong>Nicaea — Arian controversy and the Nicene Creed. NOT the canon.</strong></td></tr>
+<tr class="odd"><td>367</td><td>Athanasius’s 39th Festal Letter — first surviving list matching the 27-book NT</td></tr>
+<tr class="even"><td>380</td><td>Edict of Thessalonica — Christianity becomes the state religion</td></tr>
+<tr class="odd"><td>393 / 397</td><td>Hippo and Carthage ratify regional canon lists</td></tr>
+</tbody>
+</table>
+</section><section id="sec-5.5"><h3 data-num="5.5" id="s5-5"><span class="num">§5.5</span>Islam</h3>
+<table>
+<thead><tr><th>Date</th><th>Event</th></tr></thead>
+<tbody>
+<tr class="odd"><td>c. 570–632</td><td>Muhammad</td></tr>
+<tr class="even"><td>610</td><td>Traditional date of first revelation</td></tr>
+<tr class="odd"><td>622</td><td>Hijra — year 1 of the Islamic calendar</td></tr>
+<tr class="even"><td>c. 650</td><td>Uthmanic recension — standardized Quranic text</td></tr>
+<tr class="odd"><td>8th–9th c.</td><td>Hadith collections and <em>sira</em> biographies written down</td></tr>
+</tbody>
+</table>
+</section><section id="sec-5.6"><h3 data-num="5.6" id="s5-6"><span class="num">§5.6</span>English Bibles</h3>
+<table>
+<thead><tr><th>Date</th><th>Version</th></tr></thead>
+<tbody>
+<tr class="odd"><td>1382</td><td>Wycliffe — first complete English Bible</td></tr>
+<tr class="even"><td>1526</td><td>Tyndale New Testament — Tyndale executed 1536</td></tr>
+<tr class="odd"><td>1611</td><td>King James Version (<em>Textus Receptus</em> base)</td></tr>
+<tr class="even"><td>1901 / 1952</td><td>ASV / RSV — the RSV’s “young woman” at Isaiah 7:14 gets copies publicly burned</td></tr>
+<tr class="odd"><td>1978 / 2011</td><td>NIV</td></tr>
+<tr class="even"><td>2001</td><td>ESV</td></tr>
+<tr class="odd"><td>2021</td><td>NRSVue — current academic standard</td></tr>
+</tbody>
+</table>
+</section><section id="sec-5.7"><h3 data-num="5.7" id="s5-7"><span class="num">§5.7</span>Source gaps — key intervals to remember</h3>
+<p>These are the figures to have ready. Every one is a <em>gap between event and writing</em>, which is the single most important number in any source discussion.</p>
+<ul>
+<li><strong>~40 years</strong> — crucifixion (c. 30) to the first Gospel (c. 70)</li>
+<li><strong>~20 years</strong> — crucifixion to Paul’s earliest letter (c. 50), which contains <strong>no birth narrative, no empty tomb, no biography</strong></li>
+<li><strong>~60–70 years</strong> — crucifixion to John</li>
+<li><strong>~85 years</strong> — crucifixion to Tacitus</li>
+<li><strong>150+ years</strong> — the earliest substantial New Testament manuscripts are 2nd–3rd century. <strong>No manuscript can reach behind that.</strong></li>
+<li><strong>~600 years</strong> — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap</li>
+<li><strong>100–200 years</strong> — Muhammad’s death (632) to the written <em>sira</em> and hadith</li>
+<li><strong>~1,000 years</strong> — Israel’s emergence (c. 1200 BCE) to the Torah’s likely final shaping (Persian period)</li>
+</ul>
+<p><strong>Reference question:</strong> <em>“How long between the event and the writing?”</em> Apply it to every source, in every tradition, including the ones you agree with.</p>
+</section><section id="sec-5.8"><h3 data-num="5.8" id="s5-8"><span class="num">§5.8</span>New Perspective on Paul — who to read</h3>
+<p>The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (<em>Paul and Palestinian Judaism</em>, 1977), Dunn, and Wright argue Paul’s target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of “justification by faith” imports a 16th-century framework onto a 1st-century argument.</p>
+<p>Stephen Westerholm <span class="camp">EVANGELICAL</span>, <em>Perspectives Old and New on Paul: The Lutheran Paul and His Critics</em> (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate’s history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.</p>
+<p>Peter Stuhlmacher <span class="camp">LUTHERAN-CONFESSIONAL</span>, <em>Revisiting Paul’s Doctrine of Justification: A Challenge to the New Perspective</em> (IVP, 2001) — makes the traditional case more directly, grouped with Mark Seifrid and Seyoon Kim as the debate’s leading NPP critics.</p>
+<p>Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective’s case well enough to argue against it directly.</p>
+<p><strong>Full survey entry — Sanders/Dunn/Wright’s own positions, weighed against Westerholm/Stuhlmacher — still pending</strong>, per Study Notes’ reading log; scheduled for when the reading reaches Galatians 3–4.</p>
+<p><em>Living document — update as reading and conversations progress</em></p>
+</section><section id="sec-6"><h2 data-num="6" id="s6"><span class="num">§6</span>Four Levels of a Claim — Text, Interpretation, History, Doctrine</h2>
+<p>Most disputes in this corpus collapse when these four questions get
+separated. Most disputes get invented when they don’t.</p>
+<ol>
+<li><strong>TEXT</strong> — What does the earliest recoverable text
+actually say? A manuscript question, answered by textual criticism, not
+theology.</li>
+<li><strong>INTERPRETATION</strong> — What conclusions can reasonably be
+drawn from that text? A hermeneutical question. More than one
+interpretation can be reasonable from the same text — camp-labeling
+(<a class="xref" href="#s1">§1</a>) applies here, not at TEXT.</li>
+<li><strong>HISTORY</strong> — When did a particular interpretation
+first appear in the historical record? A dating question, answered from
+primary sources, not from how old an idea feels.</li>
+<li><strong>DOCTRINE</strong> — When did a church or institution
+formally require that interpretation? An institutional-power question,
+not a textual or historical one.</li>
+</ol>
+<p><strong>Why this matters:</strong> the most common move in these
+debates is arguing at one level while citing evidence from another —
+using a doctrine’s age to argue a text’s meaning, or an interpretation’s
+early appearance to argue it was the only one available.</p>
+<p><strong>Worked example — the Trinity</strong> (Observations §13,
+Historical Framework §7):</p>
+<ul>
+<li><strong>TEXT:</strong> the word “Trinity” appears in no biblical
+manuscript. Not disputed.</li>
+<li><strong>INTERPRETATION:</strong> John 1:1, Philippians 2:6, and
+similar texts support — not require — a high Christology reading. Other
+readings of the same texts are defensible.</li>
+<li><strong>HISTORY:</strong> proto-trinitarian formulas and “fully God,
+fully man” language appear in 2nd–3rd-century writers (Irenaeus,
+Tertullian), well before Nicaea, without creedal uniformity.</li>
+<li><strong>DOCTRINE:</strong> Nicaea (325) and Chalcedon (451) are when
+a specific, enforced doctrinal statement exists — not when the idea was
+invented, but when it became institutionally mandatory, with real
+consequences for dissent.</li>
+</ul>
+<p>Four different questions, four different kinds of evidence, four
+different answers. Treating any one as settling another is the error —
+not the tier itself.</p>
+<p><strong>Use note:</strong> apply this going forward, as a lens for
+new entries and audits, not as a retroactive re-tag of the corpus’s
+existing records. When auditing an existing claim
+(<a class="xref" href="#s1">§1</a>), identify which tier it is actually
+making a claim at before verifying it — a claim can be right at one tier
+and overstated at another.</p>
+</section><section id="sec-7"><h2 data-num="7" id="s7"><span class="num">§7</span>Critical Thinking — Definition and How to Apply It</h2>
+<p>This corpus runs on a method (<a class="xref" href="#s1">§1</a>) without ever defining the underlying skill the method is an application of. This section is that definition, built from named, verifiable sources rather than the vague “think critically” instruction that gets repeated without content.</p>
+<h3 data-num="7.1" id="s7-1"><span class="num">§7.1</span>A working definition</h3>
+<p>Richard Paul and Linda Elder, <em>Critical Thinking: Tools for Taking Charge of Your Learning and Your Life</em> (Pearson, 3rd ed., 2012), give the most widely used operational framework. Every act of reasoning has <strong>eight elements</strong> — purpose, the question at issue, information used, concepts applied, assumptions made, point of view, inferences drawn, and implications/consequences — and reasoning is evaluated against <strong>nine universal intellectual standards</strong>: clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. The framework’s use here: when a claim in this corpus (or in conversation) feels wrong but the reason isn’t obvious, run it against the elements first (what’s the actual question at issue? what’s the unstated assumption?) before reaching for the standards (is this precise, or just clear? is it fair to the opposing camp, or just internally logical?).</p>
+<h3 data-num="7.2" id="s7-2"><span class="num">§7.2</span>Why reasoning fails by default, not by exception</h3>
+<p>Daniel Kahneman, <em>Thinking, Fast and Slow</em> (Farrar, Straus and Giroux, 2011) — the mind runs on two systems: System 1, fast, automatic, intuitive, always on; System 2, slow, effortful, deliberate, and — this is the operative finding — lazy by default. System 2 doesn’t activate to check System 1’s output unless something forces it to. <span class="mark inf">INFERENCE</span> This is the mechanical precondition for the next two findings below: motivated reasoning isn’t a character flaw requiring dishonesty, it’s what happens when System 2 never gets called in, which is its default state. Kahneman does not make this connection to motivated reasoning himself — it is this corpus’s own inference bridging his work to Kunda’s.</p>
+<h3 data-num="7.3" id="s7-3"><span class="num">§7.3</span>Confirmation bias and motivated reasoning are two different failures, not one</h3>
+<p>Peter Wason, “On the failure to eliminate hypotheses in a conceptual task,” <em>Quarterly Journal of Experimental Psychology</em> 12(3) (1960): 129–140 — the founding 2-4-6 experiment. Subjects given a rule to discover overwhelmingly tested it by seeking confirming instances, almost never by trying to falsify it. This is confirmation bias: a search-strategy failure, present even when the person has no stake in the outcome. Ziva Kunda, “The Case for Motivated Reasoning,” <em>Psychological Bulletin</em> 108(3) (1990): 480–498 — a distinct mechanism: people reach conclusions they’re motivated to reach, but <em>constrained</em> by the need to construct a justification a neutral observer would find reasonable. Kunda’s own distinction: accuracy-motivated reasoning (trying to get it right) versus directionally-motivated reasoning (trying to arrive somewhere specific while still feeling like reasoning). The second one is what “God told me X” and “I already believed X and found the verse” have in common — not lying, a real cognitive process that produces sincere conviction.</p>
+<h3 data-num="7.4" id="s7-4"><span class="num">§7.4</span>A checklist for claims, not just a theory of error</h3>
+<p>Carl Sagan, <em>The Demon-Haunted World: Science as a Candle in the Dark</em> (Random House, 1995), ch. “The Fine Art of Baloney Detection” — nine tools, verified against the original text rather than the many garbled paraphrases circulating online: (1) seek independent confirmation of facts where possible; (2) encourage substantive debate on the evidence by knowledgeable proponents of all viewpoints; (3) arguments from authority carry little weight — “authorities” have been wrong before and will be again; (4) spin more than one hypothesis, and test ways to falsify each, rather than running with the first idea that appeals; (5) don’t get overly attached to a hypothesis just because it’s yours; (6) quantify where possible; (7) every link in a chain of argument must work, including the premise, not just the majority of links; (8) apply Occam’s Razor — when two hypotheses explain the data equally well, prefer the simpler; (9) ask whether the claim can be falsified at all, in principle. This is a direct, practical companion to §1’s survey method — item 2 is §1’s “strongest case for every side,” item 3 is §1’s “position is context, not disqualification,” item 9 connects straight to §7.5 below.</p>
+<h3 data-num="7.5" id="s7-5"><span class="num">§7.5</span>Falsifiability is a demarcation test, not a truth test — and it cuts both ways</h3>
+<p>Karl Popper, <em>The Logic of Scientific Discovery</em> (German, 1934; English translation, 1959) — a claim is scientific if some observation could in principle count against it, not if it happens to be true. Popper’s own point is narrower than it’s often used for: falsifiability sorts claims into “testable” and “not testable,” it does not sort them into “true” and “false.” An unfalsifiable claim isn’t thereby false. This matters directly for this corpus’s recurring “we can’t understand God’s reasons” pattern (see the theodicy material at Observations §10, §12.12): the honest conclusion from unfalsifiability is that the claim carries no evidential weight <em>in either direction</em> — it can’t be used to prove God’s conduct is justified, and by the same logic it can’t be used to prove it isn’t. Selectively invoking unfalsifiability only when the evidence looks bad is the actual move to watch for, not unfalsifiability itself.</p>
+<p><strong>Use note:</strong> this section is a toolkit, not a checklist to append to every entry. §7.4’s nine items and §1’s method overlap by design — apply §1 to the corpus’s own contested claims, and treat §7 as the underlying reason §1’s rules are the rules they are, useful for catching the same failures in live conversation where the formal survey method is overkill.</p>
+</section>
+</main>
+<button id="top" aria-label="Back to top">↑</button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy */
+const heads=$$('h2[id],h3[id]');
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+/* audit toggles */
+let openAll=false;
+const ta=$('#toggleAudits'); if(ta) ta.addEventListener('click',e=>{
+  openAll=!openAll; $$('.audit').forEach(d=>d.open=openAll);
+  e.target.classList.toggle('on',openAll);
+  e.target.textContent=openAll?'Collapse all audits':'Expand all audits';
+});
+/* status filter */
+$$('.filt').forEach(b=>b.addEventListener('click',()=>{
+  const on=b.classList.toggle('on');
+  $$('.filt').forEach(o=>{if(o!==b)o.classList.remove('on')});
+  const st=b.dataset.st;
+  if(!on){sec.forEach(s=>s.classList.remove('dim'));return}
+  sec.forEach(s=>s.classList.toggle('dim',!s.querySelector(`.audit[data-status="${st}"]`)));
+  $$('.audit').forEach(d=>d.open=d.dataset.status===st);
+}));
+
+/* xref flash + open target audit */
+addEventListener('click',e=>{
+  const a=e.target.closest('a[href^="#"]'); if(!a)return;
+  const t=$(a.getAttribute('href')); if(!t)return;
+  const d=t.closest('details'); if(d)d.open=true;
+  const dd=t.matches('details')?t:null; if(dd)dd.open=true;
+  t.classList.remove('flash'); void t.offsetWidth; t.classList.add('flash');
+});
+if(location.hash){const t=$(location.hash);const d=t&&t.closest('details');if(d)d.open=true;}
+
+$$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
+  const t=g.querySelector('.tip'); g.classList.remove('flip');
+  if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
+}));
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script></body></html>

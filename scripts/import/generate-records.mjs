@@ -2,12 +2,18 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { parseMarkdown, PARSER_VERSION } from './parse-markdown.mjs';
 
-const MAX_CHUNK_BYTES = 950_000;
+// Field_Guide_Conversation_Reference.md's §13 audit pass (10 Aug 2026) pushed
+// its chunk to ~981KB; bumped with modest headroom rather than trimming
+// sourced audit content to fit an arbitrary budget. The Curse of Ham (§3.3)
+// and complementarianism (§15.6) additions (11-12 Aug 2026) pushed it past
+// 1.05MB; bumped again for the same reason.
+const MAX_CHUNK_BYTES = 1_500_000; // §21 hearing God (12 Aug 2026) added ~15KB to Field Guide chunk; raised from 1.35MB
 const CANONICAL_FILES = [
   ['Bible_Deep_Dive_Master_Notes.md', 'records.master.js'],
   ['Field_Guide_Conversation_Reference.md', 'records.field-guide.js'],
   ['Glossary.md', 'records.glossary.js'],
   ['Historical_Framework.md', 'records.history.js'],
+  ['Method_and_Reference.md', 'records.method-reference.js'],
   ['Sources_and_Primary_Texts.md', 'records.sources.js'],
   ['The_Other_Side.md', 'records.other-side.js'],
   ['Translations.md', 'records.translations.js'],

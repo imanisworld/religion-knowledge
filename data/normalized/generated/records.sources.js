@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Sources_and_Primary_Texts.md
-// Parser version: 1.1.4
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -25,13 +25,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7bb80290d8f3ca3f941e",
@@ -55,13 +55,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3a6ad93484a7285cc730",
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_eaf8d4c9da62ff42c194",
@@ -121,7 +121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_aec2e7a91478fb65a88b",
@@ -145,13 +145,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_98504e1cb5a0b54ce062",
@@ -176,13 +176,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a0536b1e27342c5241f0",
@@ -208,13 +208,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_85711c5c75137b69e0a1",
@@ -246,7 +246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5dde4c6fb43699785ac9",
@@ -272,13 +272,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6b98d4852414d4ae8fe1",
@@ -304,13 +304,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5ddaa1b1c311647757c5",
@@ -336,13 +336,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_52585067008fb72b253a",
@@ -368,13 +368,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f193290e7f5c2f16b626",
@@ -406,12 +406,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d1d107413b2aa50560b2",
-    "text": "Why this one is worth reading in full.  The theology is identical in structure to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is not a uniquely Israelite theology; it is standard Iron Age Levantine political theology, and a neighbouring king with a different god states it in the same terms.",
-    "raw_text": "**Why this one is worth reading in full.** ⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩ The theology is *identical in structure* to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is not a uniquely Israelite theology; it is standard Iron Age Levantine political theology, and a neighbouring king with a different god states it in the same terms.",
+    "id": "rk_e0d95fa3242b28d7ce47",
+    "text": "Why this one is worth reading in full.  The theology is identical in structure to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is standard Iron Age Levantine political theology, not a uniquely Israelite one, and a neighbouring king with a different god states it in the same terms.",
+    "raw_text": "**Why this one is worth reading in full.** ⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩ The theology is *identical in structure* to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is standard Iron Age Levantine political theology, not a uniquely Israelite one, and a neighbouring king with a different god states it in the same terms.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -438,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0c0cb919bdfc26af1ec0",
@@ -464,13 +464,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e2597fc87edcd60436a3",
@@ -496,13 +496,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_de2b56eded3178262235",
@@ -528,13 +528,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_24fbe70238e76eb57ee3",
@@ -560,13 +560,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f581d7645a6a0444ff04",
@@ -598,7 +598,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c8582ca2a7f3226a5d8d",
@@ -624,13 +624,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_771394e188e921f1e15f",
@@ -656,13 +656,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e065489d61bd049adb0d",
@@ -688,13 +688,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b7d303a02a7b04378341",
@@ -720,13 +720,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_423a253e43798d6ba0f0",
@@ -758,7 +758,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4f2f61cd7c3a8544f0d7",
@@ -784,13 +784,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a0c0311e415732022655",
@@ -822,7 +822,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — a judgement about relative strength, not a quoted finding⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ce6ac0c8e54fb32ceb65",
@@ -848,13 +848,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_45b7c526954b80319c4a",
@@ -880,13 +880,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_91e3bc0d3bace57242e3",
@@ -912,13 +912,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fd95faee4f92c4b4caf1",
@@ -944,13 +944,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_58db1c992989f2e78a9f",
@@ -976,13 +976,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_12687ba8475024c22869",
@@ -1008,13 +1008,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_5ac935efa0a25322138e",
@@ -1040,13 +1040,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_38fcfcf19d5a834d2c94",
@@ -1072,13 +1072,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6cb2bf68cdf0f8939968",
@@ -1104,13 +1104,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8a8c6f92d700cad37775",
@@ -1142,7 +1142,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_32685909939672a268bf",
@@ -1168,13 +1168,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3e0ea7a336027ffe804c",
@@ -1200,13 +1200,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_17923bf90427cc41194d",
@@ -1232,13 +1232,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_22fe13ce36ed28f7ffec",
@@ -1264,13 +1264,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_01191442b3efe80fd6e5",
@@ -1296,13 +1296,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_0e5305805338d3c2b0a1",
@@ -1328,13 +1328,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b9fc136f05109e24a1c9",
@@ -1360,13 +1360,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c1fcf3e838cda65dcb8e",
@@ -1392,13 +1392,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a6703ce4b19fcd511ee2",
@@ -1424,13 +1424,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ec79766571ce6332592b",
@@ -1456,13 +1456,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ebadcb4fce5ff875e46a",
@@ -1494,7 +1494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_7843f87efb1ea9dae185",
@@ -1520,13 +1520,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3baaa82cabf31c9d5ae9",
@@ -1552,13 +1552,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2eed402cbe841c006b2c",
@@ -1584,13 +1584,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d12854ae3bb572bf15de",
@@ -1622,7 +1622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Sources document explicitly states what each source says is documented."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_44f94d3397aef6be4152",
@@ -1648,13 +1648,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f7a8d1c2652d45d95149",
@@ -1680,13 +1680,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_461dcf99f2cbe84bccc5",
@@ -1712,13 +1712,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_114a13ac976ca71cb840",
@@ -1744,13 +1744,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2e57558e0ffa353cf17b",
@@ -1776,13 +1776,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_fc451ae88b6a0cd91d1f",
@@ -1808,13 +1808,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3f2e15b2a57e827f6970",
@@ -1840,13 +1840,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3b097ac2c575045556b5",
@@ -1872,13 +1872,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_375063ccf050422f4642",
@@ -1904,13 +1904,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_2ce76e52607a3204055b",
@@ -1936,13 +1936,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d0b86fc8b73a464fdf68",
@@ -1968,13 +1968,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3268cdf1d41b35a1fb76",
@@ -1999,13 +1999,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_b1e08220eaaae4f27640",
@@ -2030,13 +2030,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4092beb1c7bee7460633",
@@ -2061,13 +2061,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_4bda701d2c14a5c42262",
@@ -2093,13 +2093,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1185c0f4be9f09c93470",
@@ -2125,13 +2125,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3ba486d69d354c01bc06",
@@ -2157,13 +2157,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_330f1e640a85507ecbe3",
@@ -2189,13 +2189,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_c497c3f7c20aae8688e2",
@@ -2221,18 +2221,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_16b41176e4f146a6054a",
-    "text": "A source you cannot locate is not evidence. It is a rumour with a footnote.",
-    "raw_text": "A source you cannot locate is not evidence. It is a rumour with a footnote.",
+    "id": "rk_10338d8e864482b7ff1f",
+    "text": "A source you cannot locate is a rumour with a footnote, not evidence.",
+    "raw_text": "A source you cannot locate is a rumour with a footnote, not evidence.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -2253,12 +2253,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Sources & Primary Texts provenance explicitly states the document was written by Claude; interpretation of what sources establish is Claude's reading unless separately marked."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   }
 ]);

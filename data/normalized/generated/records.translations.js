@@ -1,6 +1,6 @@
 // GENERATED FILE — DO NOT HAND EDIT.
 // Source: Translations.md
-// Parser version: 1.1.4
+// Parser version: 1.2.0
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
@@ -25,18 +25,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6885a349260889d87761",
-    "text": "Companion to: Study Notes · Observations · History · Sources · The Strongest Case · Glossary\nLast updated: 7 August 2026",
-    "raw_text": "**Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Glossary\n**Last updated:** 7 August 2026",
+    "id": "rk_690209f9314b19271b07",
+    "text": "Companion to: Study Notes · Observations · History · Sources · The Strongest Case · Glossary\nLast updated: 10 August 2026",
+    "raw_text": "**Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Glossary\n**Last updated:** 10 August 2026",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -55,18 +55,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_66125abdd13d5a450acb",
-    "text": "Provenance. Written by: Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements.",
-    "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements.",
+    "id": "rk_5428d43cf5d9b85496da",
+    "text": "Provenance. Written by: Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements. Updated 10 August 2026 for a switch in primary translation from ESV to NRSVue (§6); the new NRSVue-specific claims added at that time were independently re-verified by search, not carried over from the earlier ESV-primary draft.",
+    "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026, verified by search. The ESV case at §4 is documented step by step, including Crossway's own statements. Updated 10 August 2026 for a switch in primary translation from ESV to NRSVue (§6); the new NRSVue-specific claims added at that time were independently re-verified by search, not carried over from the earlier ESV-primary draft.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -85,13 +85,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ff063d370d51c943ed01",
@@ -121,12 +121,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "Paragraph contains multiple provenance marker types (YOURS, INFERENCE, DOCUMENTED); marker mentions cannot prove authorship."
     },
     "review_required": true,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f68c0d1cca34e8a80e5b",
-    "text": "The short version. There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n\nYou are reading the ESV. That is a fine choice and you should keep it as your main read. But it is a conservative translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
-    "raw_text": "> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is not trivia — it is often the entire argument.\n>\n> **You are reading the ESV.** That is a fine choice and you should keep it as your main read. But it is a *conservative* translation with a documented theological programme, and §4 walks through the case that proves it — including the part where they announced a change was permanent forever, then reversed it twice.",
+    "id": "rk_f05196d347650f3179f9",
+    "text": "The short version. There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is often the entire argument.\n\nYou started on the ESV, then switched to NRSVue. Both stay in this document. The ESV case at §4 is unchanged and still the clearest documented example in this corpus of a translation committee's theology showing up in the English — including the part where they announced a change was permanent forever, then reversed it twice. §6 explains what the switch does and doesn't affect: none of the corpus's audited analytical claims (Isaiah 7:14, Sheol, Ioudaioi, etc.) run through any one English translation — they're built from the Hebrew/Greek and named scholarship. Translation choice only does work at the specific verses logged in §5.",
+    "raw_text": "> **The short version.** There is no neutral English Bible. Every translation is a series of decisions made by a committee, and committees have theology. Knowing which committee made which decision is often the entire argument.\n>\n> **You started on the ESV, then switched to NRSVue.** Both stay in this document. The ESV case at §4 is unchanged and still the clearest documented example in this corpus of a translation committee's theology showing up in the English — including the part where they announced a change was permanent forever, then reversed it twice. §6 explains what the switch does and doesn't affect: none of the corpus's audited analytical claims (Isaiah 7:14, Sheol, Ioudaioi, etc.) run through any one English translation — they're built from the Hebrew/Greek and named scholarship. Translation choice only does work at the specific verses logged in §5.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -145,13 +145,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f693379f79f7effaf0d0",
@@ -176,13 +176,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_6b2f85777cc92b1a313a",
@@ -207,13 +207,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ff9c894a938b822927a4",
@@ -238,13 +238,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_d7c1fd3f656268ded4c3",
@@ -269,18 +269,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_18a4fb582293f54a303e",
-    "text": "The trap in both directions. Formal equivalence is not more accurate; it is more literal, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is not looser; it is more decided. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
-    "raw_text": "**The trap in both directions.** Formal equivalence is not more accurate; it is more *literal*, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is not looser; it is more *decided*. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
+    "id": "rk_bd47700139f5c3ac4aab",
+    "text": "The trap in both directions. Formal equivalence is more literal, not more accurate, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is more decided, not looser. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
+    "raw_text": "**The trap in both directions.** Formal equivalence is more *literal*, not more accurate, and literal can mislead badly when Greek idiom does not map onto English. Functional equivalence is more *decided*, not looser. Neither philosophy protects against bias — the ESV's most contested rendering (§4) is a formal-equivalence translation making a highly interpretive move.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -300,13 +300,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_828ee53fc9698fe09f6b",
@@ -331,13 +331,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_52eb92d311ce2bb1acc8",
@@ -362,18 +362,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d406214e25b754596069",
-    "text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. These are not deletions — they are additions that were later identified. See Sources §4.1; you can look at Codex Sinaiticus yourself.",
-    "raw_text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. **These are not deletions — they are additions that were later identified.** See Sources §4.1; you can look at Codex Sinaiticus yourself.",
+    "id": "rk_20ee51d53d93b26dfa2b",
+    "text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. These are additions that were later identified, not deletions. See Sources §4.1; you can look at Codex Sinaiticus yourself.",
+    "raw_text": "This is why verses go missing. The Johannine Comma (1 John 5:7–8), the only explicit Trinity proof text in the Bible, is in the KJV and in no modern translation, because it is absent from every Greek manuscript before the 14th century. Mark 16:9–20 and John 7:53–8:11 are bracketed or footnoted in modern versions. **These are additions that were later identified, not deletions.** See Sources §4.1; you can look at Codex Sinaiticus yourself.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -393,13 +393,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_775282b368a0d6d676f4",
@@ -424,20 +424,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a7d7487afa518b26c09a",
-    "text": "NRSVue — the academic standard. Produced by an ecumenical committee including Protestant, Catholic, Orthodox, and Jewish scholars. Used in most university and seminary settings. Gender-inclusive where the underlying word is inclusive (adelphoi rendered \"brothers and sisters\" when a mixed group is meant). Footnotes textual variants generously. This is the one to read alongside your ESV. Where the two disagree, you have found something worth looking into.",
-    "raw_text": "**NRSVue** — the academic standard. Produced by an ecumenical committee including Protestant, Catholic, Orthodox, and Jewish scholars. Used in most university and seminary settings. Gender-inclusive where the underlying word is inclusive (*adelphoi* rendered \"brothers and sisters\" when a mixed group is meant). Footnotes textual variants generously. **This is the one to read alongside your ESV.** Where the two disagree, you have found something worth looking into.",
+    "id": "rk_4f1874a33a63f1b5100e",
+    "text": "NRSVue — the academic standard, and your primary translation now. Commissioned by the National Council of Churches, directed by the Society of Biblical Literature, whose stated aim was translation and review teams \"ecumenical and interfaith in composition\" (Baptist News Global, After 30 Years, the NRSV Gets an Update, 2021). Ecumenical Protestant/Catholic/Orthodox participation is well documented;  the exact scale of Jewish scholarly participation on the Old Testament section is not confirmed here and shouldn't be overstated. Used in most university and seminary settings, and the version most secondary scholarship actually quotes. Gender-inclusive for generic human referents only — adelphoi rendered \"brothers and sisters\" when a mixed group is meant — never for God-language, which both NRSV and NRSVue retain as traditionally masculine (Bruce Metzger, \"To the Reader,\" NRSV preface, 1989/2021). Footnotes textual variants generously. Keep the ESV as your check at the points logged in §5 — where the two disagree, you have found something worth looking into.",
+    "raw_text": "**NRSVue** — the academic standard, and your primary translation now. Commissioned by the National Council of Churches, directed by the Society of Biblical Literature, whose stated aim was translation and review teams \"ecumenical and interfaith in composition\" (Baptist News Global, *After 30 Years, the NRSV Gets an Update*, 2021). Ecumenical Protestant/Catholic/Orthodox participation is well documented; ⟨INFERENCE⟩ the exact scale of Jewish scholarly participation on the Old Testament section is not confirmed here and shouldn't be overstated. Used in most university and seminary settings, and the version most secondary scholarship actually quotes. Gender-inclusive for generic human referents only — *adelphoi* rendered \"brothers and sisters\" when a mixed group is meant — never for God-language, which both NRSV and NRSVue retain as traditionally masculine (Bruce Metzger, \"To the Reader,\" NRSV preface, 1989/2021). Footnotes textual variants generously. **Keep the ESV as your check at the points logged in §5** — where the two disagree, you have found something worth looking into.",
     "provenance_type": "CLAUDE",
-    "representation_type": "SUMMARY",
+    "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "Translations",
@@ -457,11 +457,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "citation": null,
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_provenance",
-      "value": "Translations provenance explicitly states: Written by Claude, verified by search."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_dd24fd29664367e7b707",
@@ -486,13 +486,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_aa9e2461e8d328589e8c",
@@ -517,13 +517,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_51c7100a827e44efc1aa",
@@ -548,13 +548,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_1f0b236476927580a564",
@@ -579,13 +579,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_3d3628f90b5e4c81981e",
@@ -610,24 +610,24 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_892dbefa7bab8c50287c",
-    "text": "Not to talk you out of it. To show you what a translation committee is.",
-    "raw_text": "Not to talk you out of it. To show you what a translation committee is.",
+    "id": "rk_a4b31ed43cedf9347ec6",
+    "text": "The clearest documented case in this corpus, kept regardless of which translation is primary.",
+    "raw_text": "The clearest documented case in this corpus, kept regardless of which translation is primary.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -635,30 +635,30 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:21",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e249e374886d04f3cd9f",
-    "text": "Background. The ESV (2001, Crossway) is a revision of the RSV, produced by a conservative evangelical committee. It is openly complementarian — the theological position that men and women have different God-ordained roles. The committee had no women on it.",
-    "raw_text": "**Background.** The ESV (2001, Crossway) is a revision of the RSV, produced by a conservative evangelical committee. It is openly complementarian — the theological position that men and women have different God-ordained roles. The committee had no women on it.",
+    "id": "rk_375505edf562340da951",
+    "text": "Background. The ESV (2001, Crossway) is a revision of the RSV, produced by a conservative evangelical committee. It is openly complementarian — the theological position that men and women have different God-ordained roles. The committee had no women on it — historian Kristin Kobes Du Mez (Calvin University; author, Jesus and John Wayne, 2020) reviewed the ESV's published 15-member Oversight Committee and roughly 50-name Review Scholars roster and found no women on either (An Open Letter to the ESV Translation Committee, The Anxious Bench, Patheos, Sept. 2016) [CRITICAL], independently corroborated by Marg Mowczko's separate roster analysis (Female Bible Translators, margmowczko.com).",
+    "raw_text": "**Background.** The ESV (2001, Crossway) is a revision of the RSV, produced by a conservative evangelical committee. It is openly complementarian — the theological position that men and women have different God-ordained roles. The committee had no women on it — historian Kristin Kobes Du Mez (Calvin University; author, *Jesus and John Wayne*, 2020) reviewed the ESV's published 15-member Oversight Committee and roughly 50-name Review Scholars roster and found no women on either (*An Open Letter to the ESV Translation Committee*, The Anxious Bench, Patheos, Sept. 2016) [CRITICAL], independently corroborated by Marg Mowczko's separate roster analysis (*Female Bible Translators*, margmowczko.com).",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -666,22 +666,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:22",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_32cbc6d80cbff40549eb",
+    "id": "rk_26d1bb50496f17f957bc",
     "text": "Genesis 3:16 — the full arc, and it is remarkable.",
     "raw_text": "**Genesis 3:16 — the full arc, and it is remarkable.**",
     "provenance_type": "CLAUDE",
@@ -689,7 +689,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -697,22 +697,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:23",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d482e160486bf5a462e7",
+    "id": "rk_1e7118994b43ac9b73e3",
     "text": "2001 ESV: \"Your desire shall be for your husband, and he shall rule over you.\" The traditional rendering, shared with the RSV, NASB, and NKJV.\n2016 ESV: changed to \"Your desire shall be contrary to your husband, but he shall rule over you.\" The woman's desire becomes a desire to usurp; the man's rule becomes the corrective.\nThe Hebrew problem. The preposition is 'el. As one Old Testament professor put it: <cite index=\"80-1\">'el appears hundreds of times in the Hebrew Bible, but never with the meaning \"contrary to.\"</cite> The related word teshûqâ is the other half of the problem — <cite index=\"84-1\">Macintosh's study of how early translators, the Targum, and the Dead Sea Scrolls understood teshûqâ found that none of them take it to mean \"contrary\" or \"control.\"</cite>\nCrossway then declared the 2016 text permanent — <cite index=\"79-1\">stating in their August 3rd press release that they were establishing the Permanent Text of the ESV Bible, unchanged forever, in perpetuity,</cite> likening it to the settled KJV.\nBacklash. Reversal one. Within weeks <cite index=\"79-1\">Crossway reversed its decision to fix the text, leaving the window for revision open.</cite> <cite index=\"80-1\">Their statement said they had become convinced the decision was a mistake, and apologised.</cite>\nReversal two — and this is the part I did not know until checking. Crossway later changed the translation itself back: <cite index=\"83-1\">the committee changed the 2016 rendering of 'el from \"contrary to\" back to the original 2001 \"for,\" restoring continuity with the RSV, NASB, and NKJV and preserving the range of interpretive options, with alternatives now in a footnote — \"Or to, or toward, or against.\" The conjunction \"but\" was changed to \"and\" in Genesis 3:16 and 4:7 so as not to impose a contrast that is not explicit in the Hebrew.</cite>",
     "raw_text": "- **2001 ESV:** \"Your desire shall be *for* your husband, and he shall rule over you.\" The traditional rendering, shared with the RSV, NASB, and NKJV.\n- **2016 ESV:** changed to \"Your desire shall be *contrary to* your husband, **but** he shall rule over you.\" The woman's desire becomes a desire to usurp; the man's rule becomes the corrective.\n- **The Hebrew problem.** The preposition is *'el*. As one Old Testament professor put it: <cite index=\"80-1\">'el appears hundreds of times in the Hebrew Bible, but never with the meaning \"contrary to.\"</cite> The related word *teshûqâ* is the other half of the problem — <cite index=\"84-1\">Macintosh's study of how early translators, the Targum, and the Dead Sea Scrolls understood teshûqâ found that none of them take it to mean \"contrary\" or \"control.\"</cite>\n- **Crossway then declared the 2016 text permanent** — <cite index=\"79-1\">stating in their August 3rd press release that they were establishing the Permanent Text of the ESV Bible, unchanged forever, in perpetuity,</cite> likening it to the settled KJV.\n- **Backlash. Reversal one.** Within weeks <cite index=\"79-1\">Crossway reversed its decision to fix the text, leaving the window for revision open.</cite> <cite index=\"80-1\">Their statement said they had become convinced the decision was a mistake, and apologised.</cite>\n- **Reversal two — and this is the part I did not know until checking.** Crossway later changed the translation itself back: <cite index=\"83-1\">the committee changed the 2016 rendering of 'el from \"contrary to\" back to the original 2001 \"for,\" restoring continuity with the RSV, NASB, and NKJV and preserving the range of interpretive options, with alternatives now in a footnote — \"Or to, or toward, or against.\" The conjunction \"but\" was changed to \"and\" in Genesis 3:16 and 4:7 so as not to impose a contrast that is not explicit in the Hebrew.</cite>",
     "provenance_type": "CLAUDE",
@@ -720,7 +720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -728,22 +728,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:24",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_49072633463276ad4e10",
+    "id": "rk_ab10cb6b200849e9eee7",
     "text": "What this case actually demonstrates.  Not that the ESV is corrupt. Something more useful:",
     "raw_text": "**What this case actually demonstrates.** ⟨INFERENCE — every step above is documented, including Crossway's own wording; this reading of what it means is Claude's.⟩ Not that the ESV is corrupt. Something more useful:",
     "provenance_type": "CLAUDE",
@@ -751,7 +751,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -759,7 +759,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:25",
     "parent_id": null,
     "related_ids": [],
@@ -771,10 +771,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "value": "⟨INFERENCE — every step above is documented, including Crossway's own wording; this reading of what it means is Claude's.⟩"
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_34339f5f34af12aa7a9c",
+    "id": "rk_c202f4bb4a4aefbdc1ed",
     "text": "1. A translation choice was made that fit a theological position and did not fit the Hebrew.\n2. It was declared unchangeable.\n3. Scholarly pressure — including from conservatives — reversed the permanence.\n4. Further pressure reversed the rendering.",
     "raw_text": "1. A translation choice was made that fit a theological position and did not fit the Hebrew.\n2. It was declared unchangeable.\n3. Scholarly pressure — including from conservatives — reversed the permanence.\n4. Further pressure reversed the rendering.",
     "provenance_type": "CLAUDE",
@@ -782,7 +782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -790,22 +790,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:26",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d3b1f1684c70b4e7c5f7",
+    "id": "rk_d72a0ad02fb134bf0e51",
     "text": "The text did not change. The committee did. That is the whole argument about translation in one documented episode, and you can cite every step of it.",
     "raw_text": "**The text did not change. The committee did.** That is the whole argument about translation in one documented episode, and you can cite every step of it.",
     "provenance_type": "CLAUDE",
@@ -813,7 +813,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -821,22 +821,22 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:27",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3d37e372d01f8ec3889f",
+    "id": "rk_d329bd4189ec3f5fe4d3",
     "text": "Note the honest complication: the critics here were largely other evangelicals and Hebrew specialists, and the system corrected itself. Do not present this as a conspiracy. Present it as evidence that translation is a human editorial process operating under theological pressure — which is the true and stronger claim.",
     "raw_text": "**Note the honest complication:** the critics here were largely other evangelicals and Hebrew specialists, and the system corrected itself. Do not present this as a conspiracy. Present it as evidence that translation is a human editorial process operating under theological pressure — which is the true and stronger claim.",
     "provenance_type": "CLAUDE",
@@ -844,7 +844,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Translations",
-      "4. The ESV Case — Why Your Own Translation Is Worth Knowing"
+      "4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -852,19 +852,19 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Translations.md",
-    "source_section": "Translations > 4. The ESV Case — Why Your Own Translation Is Worth Knowing",
+    "source_section": "Translations > 4. The ESV Case — What a Translation Committee's Theology Looks Like in the Text",
     "source_reference": "paragraph:28",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_e291c27cf4c740d1806e",
@@ -889,13 +889,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_a1639d6a2ea5ace04fff",
@@ -920,18 +920,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bcf89f6aaaf56be8980a",
-    "text": "*1 Corinthians 6:9 — malakoi and arsenokoitai. ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue: renders them separately. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. Careful: the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
-    "raw_text": "**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue: renders them separately. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
+    "id": "rk_b2d1a108bdd93b8906e2",
+    "text": "*1 Corinthians 6:9 — malakoi and arsenokoitai. ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue (2021 update): \"male prostitutes, men who engage in illicit sex,\" footnoted \"meaning of Gk uncertain\" — a deliberate move away from the older NRSV's \"male prostitutes, sodomites,\" criticized by The Gospel Coalition [CONSERVATIVE-EVANGELICAL] as a step back from clarity rather than toward it, 2021. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. Careful: the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
+    "raw_text": "**1 Corinthians 6:9 — *malakoi* and *arsenokoitai*.** ESV: \"men who practice homosexuality\" (collapsing both words into one). NRSVue (2021 update): \"male prostitutes, men who engage in illicit sex,\" footnoted \"meaning of Gk uncertain\" — a deliberate move away from the older NRSV's \"male prostitutes, sodomites,\" criticized by The Gospel Coalition [CONSERVATIVE-EVANGELICAL] as a step back from clarity rather than toward it, 2021. KJV: \"effeminate\" and \"abusers of themselves with mankind.\" The RSV in 1946 was the first major English Bible to use the word \"homosexuals\" here, and later revised it. *Arsenokoitai* is a rare compound, probably coined from the Greek of Leviticus 20:13, and its precise reference is debated — see Study Notes §4. **Careful:** the popular claim that a 1946 mistranslation single-handedly created Christian opposition to homosexuality overstates it badly. The interpretive tradition long predates 1946. The real point is narrower and defensible: \"homosexual\" is a 19th-century category imported into a text that has no such word.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -951,13 +951,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_ccc4d3360b9357fdc9bf",
@@ -982,13 +982,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_f07afc21b266b4d39a0e",
@@ -1013,18 +1013,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8d0520111859b6920556",
-    "text": "Philippians 2:6. Whether Christ did not consider equality with God \"a thing to be grasped\" (something he lacked and might seize) or \"something to be exploited\" (something he had and declined to use). Opposite Christologies, one Greek word, harpagmos.",
-    "raw_text": "**Philippians 2:6.** Whether Christ did not consider equality with God \"a thing to be grasped\" (something he lacked and might seize) or \"something to be exploited\" (something he had and declined to use). Opposite Christologies, one Greek word, *harpagmos*.",
+    "id": "rk_925814c691c99a0537e8",
+    "text": "Philippians 2:6. Whether Christ did not consider equality with God \"a thing to be grasped\" (something he lacked and might seize) or \"something to be exploited\" (something he had and declined to use). Opposite Christologies, one Greek word, harpagmos. NRSVue's \"exploited\" reading follows R.W. Hoover's philological case that harpagmos means using something already possessed to one's advantage, not seizing something not yet held (The Harpagmos Enigma: A Philological Solution, Harvard Theological Review 64, 1971) — the ESV's older \"a thing to be grasped\" reflects the pre-1971 reading it revised from.",
+    "raw_text": "**Philippians 2:6.** Whether Christ did not consider equality with God \"a thing to be grasped\" (something he lacked and might seize) or \"something to be exploited\" (something he had and declined to use). Opposite Christologies, one Greek word, *harpagmos*. NRSVue's \"exploited\" reading follows R.W. Hoover's philological case that *harpagmos* means using something already possessed to one's advantage, not seizing something not yet held (*The Harpagmos Enigma: A Philological Solution*, *Harvard Theological Review* 64, 1971) — the ESV's older \"a thing to be grasped\" reflects the pre-1971 reading it revised from.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1044,13 +1044,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_8aa944cdcb6890dfc78e",
@@ -1075,13 +1075,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_90c9b3b0c8f64a93a8b6",
@@ -1106,13 +1106,13 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
     "id": "rk_55f261d2418d69adc5cc",
@@ -1137,18 +1137,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_59c4019caef4ac631ee8",
-    "text": "Keep the ESV as your main read. Switching now would cost continuity for little gain, and formal equivalence is the right kind of translation for what you are doing.",
-    "raw_text": "**Keep the ESV as your main read.** Switching now would cost continuity for little gain, and formal equivalence is the right kind of translation for what you are doing.",
+    "id": "rk_6df058b271a676051e5c",
+    "text": "NRSVue is now your main read, as of 10 August 2026. Both translations sit on the same side of §1's line — NRSVue's own preface commits to being \"as literal as possible, as free as necessary\" and calls the result \"essentially a literal translation\" (Bruce Metzger, \"To the Reader,\" 1989/2021), not a swing toward dynamic equivalence. The practical reason to switch: NRSVue is what critical scholarship and university religion departments actually cite, so quotations you meet in secondary sources will usually match its phrasing, not the ESV's.",
+    "raw_text": "**NRSVue is now your main read**, as of 10 August 2026. Both translations sit on the same side of §1's line — NRSVue's own preface commits to being \"as literal as possible, as free as necessary\" and calls the result \"essentially a literal translation\" (Bruce Metzger, \"To the Reader,\" 1989/2021), not a swing toward dynamic equivalence. The practical reason to switch: NRSVue is what critical scholarship and university religion departments actually cite, so quotations you meet in secondary sources will usually match its phrasing, not the ESV's.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1168,18 +1168,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6aa062ab6de1f00387cb",
-    "text": "Add the NRSVue as your check. Read anything contested in both. Where they diverge, something is happening.",
-    "raw_text": "**Add the NRSVue as your check.** Read anything contested in both. Where they diverge, something is happening.",
+    "id": "rk_c03fc2af5521df2e17d6",
+    "text": "Keep the ESV as your check, specifically at the points already logged in §5 — Genesis 3:16, 1 Corinthians 6:9, Romans 16:7 (Junia), 1 Timothy 3:2, Philippians 2:6. Those are the verses where a committee's theological commitments visibly shape the English. Read them in both; where they diverge, something is happening.",
+    "raw_text": "**Keep the ESV as your check**, specifically at the points already logged in §5 — Genesis 3:16, 1 Corinthians 6:9, Romans 16:7 (Junia), 1 Timothy 3:2, Philippians 2:6. Those are the verses where a committee's theological commitments visibly shape the English. Read them in both; where they diverge, something is happening.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1199,18 +1199,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ae4318216f44250ea0ae",
-    "text": "Use the NET Bible when you want to know why. Its notes show the argument, not just the outcome.",
-    "raw_text": "**Use the NET Bible when you want to know why.** Its notes show the argument, not just the outcome.",
+    "id": "rk_ea9908825c3cfb0e8cb5",
+    "text": "What doesn't change: every audited claim already in Master Notes and the Field Guide runs on the Hebrew/Greek text and named scholarship — Isaiah 7:14's almah/betulah distinction, the Ioudaioi question, Sheol — not on which English Bible sits on your desk. Switching primaries doesn't require revisiting any of it.",
+    "raw_text": "**What doesn't change:** every audited claim already in Master Notes and the Field Guide runs on the Hebrew/Greek text and named scholarship — Isaiah 7:14's *almah*/*betulah* distinction, the *Ioudaioi* question, Sheol — not on which English Bible sits on your desk. Switching primaries doesn't require revisiting any of it.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1230,18 +1230,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f119fd282b12fe884ac3",
-    "text": "Add the JPS for the Old Testament. No Christian reading pressure. It is the cleanest way to see how much of the \"Old Testament predicts Jesus\" case depends on translation choices.",
-    "raw_text": "**Add the JPS for the Old Testament.** No Christian reading pressure. It is the cleanest way to see how much of the \"Old Testament predicts Jesus\" case depends on translation choices.",
+    "id": "rk_a74f39a38c865f13a180",
+    "text": "Use the NET Bible when you want to know why. Its notes show the argument, not just the outcome.",
+    "raw_text": "**Use the NET Bible when you want to know why.** Its notes show the argument, not just the outcome.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1261,18 +1261,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_146e70e13a51c885d7f6",
-    "text": "Free, and enough for all of this:\n→ [BibleGateway — parallel translations side by side](https://www.biblegateway.com/) · [NET Bible with translators' notes](https://netbible.org/) · [Sefaria — JPS and Hebrew](https://www.sefaria.org/texts) · [STEP Bible — original languages, word by word](https://www.stepbible.org/)",
-    "raw_text": "**Free, and enough for all of this:**\n→ [BibleGateway — parallel translations side by side](https://www.biblegateway.com/) · [NET Bible with translators' notes](https://netbible.org/) · [Sefaria — JPS and Hebrew](https://www.sefaria.org/texts) · [STEP Bible — original languages, word by word](https://www.stepbible.org/)",
+    "id": "rk_2b05fcc170ff157ac8fa",
+    "text": "Add the JPS for the Old Testament. No Christian reading pressure. It is the cleanest way to see how much of the \"Old Testament predicts Jesus\" case depends on translation choices.",
+    "raw_text": "**Add the JPS for the Old Testament.** No Christian reading pressure. It is the cleanest way to see how much of the \"Old Testament predicts Jesus\" case depends on translation choices.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1292,18 +1292,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9588f565e6e68e393f53",
-    "text": "The standing question, which works on any verse: Which translation are you using, and what do the others say? It is not a gotcha. It is the fastest way to find out whether a disagreement is about the text or about English.",
-    "raw_text": "**The standing question, which works on any verse:** *Which translation are you using, and what do the others say?* It is not a gotcha. It is the fastest way to find out whether a disagreement is about the text or about English.",
+    "id": "rk_1de92bf9b3e12e2bfed1",
+    "text": "Free, and enough for all of this:\n→ [BibleGateway — parallel translations side by side](https://www.biblegateway.com/) · [NET Bible with translators' notes](https://netbible.org/) · [Sefaria — JPS and Hebrew](https://www.sefaria.org/texts) · [STEP Bible — original languages, word by word](https://www.stepbible.org/)",
+    "raw_text": "**Free, and enough for all of this:**\n→ [BibleGateway — parallel translations side by side](https://www.biblegateway.com/) · [NET Bible with translators' notes](https://netbible.org/) · [Sefaria — JPS and Hebrew](https://www.sefaria.org/texts) · [STEP Bible — original languages, word by word](https://www.stepbible.org/)",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1323,12 +1323,43 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "DOCUMENT_DEFAULT",
     "attribution_evidence": {
       "method": "document_provenance",
       "value": "Translations provenance explicitly states: Written by Claude, verified by search."
     },
     "review_required": false,
-    "parser_version": "1.1.4"
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f687c890d07f05199b71",
+    "text": "The standing question, which works on any verse: Which translation are you using, and what do the others say? It's the fastest way to find out whether a disagreement is about the text or about English.",
+    "raw_text": "**The standing question, which works on any verse:** *Which translation are you using, and what do the others say?* It's the fastest way to find out whether a disagreement is about the text or about English.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Translations",
+      "6. How to Actually Use This"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Translations.md",
+    "source_section": "Translations > 6. How to Actually Use This",
+    "source_reference": "paragraph:44",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Translations provenance explicitly states: Written by Claude, verified by search."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
   }
 ]);

@@ -1,68 +1,75 @@
 {
-  "parser_version": "1.1.4",
-  "canonical_files": 7,
-  "records": 1287,
+  "parser_version": "1.2.0",
+  "canonical_files": 8,
+  "records": 1606,
   "warnings": 6,
-  "review_required": 661,
+  "review_required": 73,
   "provenance_counts": {
-    "MY_WORDS": 26,
-    "REVIEW_REQUIRED": 661,
-    "SOURCE": 197,
-    "CLAUDE": 403
+    "REVIEW_REQUIRED": 73,
+    "PRE_CONVENTION": 708,
+    "SOURCE": 347,
+    "CLAUDE": 470,
+    "MY_WORDS": 8
   },
   "record_type_counts": {
-    "OBSERVATION": 969,
-    "AUDIT_NOTE": 153,
-    "CLAIM": 11,
-    "AUDIT_STATUS": 16,
-    "CORRECTION": 14,
-    "AUDIT_REASONING": 12,
+    "OBSERVATION": 1152,
+    "AUDIT_NOTE": 241,
+    "CLAIM": 22,
+    "AUDIT_STATUS": 27,
+    "CORRECTION": 26,
+    "AUDIT_REASONING": 24,
     "AUDIT_SURVIVAL": 1,
-    "QUESTION": 17,
+    "QUESTION": 19,
     "DEFINITION": 94
   },
   "chunks": [
     {
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
-      "records": 263,
-      "size_bytes": 473356
+      "records": 277,
+      "size_bytes": 509164
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
-      "records": 664,
-      "size_bytes": 904950
+      "records": 896,
+      "size_bytes": 1428412
     },
     {
       "source_file": "Glossary.md",
       "file": "records.glossary.js",
       "records": 95,
-      "size_bytes": 106061
+      "size_bytes": 107001
     },
     {
       "source_file": "Historical_Framework.md",
       "file": "records.history.js",
-      "records": 94,
-      "size_bytes": 153591
+      "records": 110,
+      "size_bytes": 203727
+    },
+    {
+      "source_file": "Method_and_Reference.md",
+      "file": "records.method-reference.js",
+      "records": 56,
+      "size_bytes": 104671
     },
     {
       "source_file": "Sources_and_Primary_Texts.md",
       "file": "records.sources.js",
       "records": 71,
-      "size_bytes": 112298
+      "size_bytes": 112874
     },
     {
       "source_file": "The_Other_Side.md",
       "file": "records.other-side.js",
       "records": 57,
-      "size_bytes": 92471
+      "size_bytes": 92965
     },
     {
       "source_file": "Translations.md",
       "file": "records.translations.js",
-      "records": 43,
-      "size_bytes": 64019
+      "records": 44,
+      "size_bytes": 71909
     }
   ]
 }

@@ -4,7 +4,7 @@
   const BACKUP_VERSION = 1;
   const ALLOWED = new Set([
     'MY_WORDS', 'MY_POSITION', 'MY_QUESTION', 'CLAUDE',
-    'CHATGPT', 'SOURCE', 'INFERENCE', 'REVIEW_REQUIRED',
+    'CHATGPT', 'SOURCE', 'INFERENCE', 'REVIEW_REQUIRED', 'PRE_CONVENTION',
   ]);
 
   function readOverrides() {

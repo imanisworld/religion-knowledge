@@ -4,7 +4,7 @@ Instructions for Claude Code working in this repo. Read this before touching any
 
 ## What this is
 
-A long-running critical study of the Bible and religious belief systems, approached historically and analytically rather than devotionally. Seven cross-linked reference documents, written in Markdown, built into a static HTML site.
+A long-running critical study of the Bible and religious belief systems, approached historically and analytically rather than devotionally. Eight cross-linked reference documents, written in Markdown, built into a static HTML site.
 
 The owner is not a scholar and does not want to be talked down to. Responses should be dense, direct, and free of hedging. Do not soften findings to be agreeable. The single most valuable thing done in this project so far was auditing prior claims and discovering several were wrong.
 
@@ -30,6 +30,7 @@ for pair in "Bible_Deep_Dive_Master_Notes:master" \
             "Sources_and_Primary_Texts:src" \
             "The_Other_Side:other" \
             "Translations:trans" \
+            "Method_and_Reference:method" \
             "Glossary:gloss"; do
   src="${pair%%:*}"; dst="${pair##*:}"
   pandoc "$src.md" -t html5 -o "${dst}_frag.html"
@@ -49,7 +50,7 @@ Always check for broken anchors after building:
 from playwright.sync_api import sync_playwright
 with sync_playwright() as p:
     b = p.chromium.launch()
-    for f in ['master-notes','field-guide','history','sources','other-side','translations','glossary']:
+    for f in ['master-notes','field-guide','history','sources','other-side','translations','method-reference','glossary']:
         pg = b.new_page(); pg.goto(f'file://{PATH}/{f}.html'); pg.wait_for_timeout(1500)
         bad = pg.evaluate('''() => [...document.querySelectorAll('a[href^="#"]')]
             .map(a => a.getAttribute('href'))
@@ -135,6 +136,8 @@ Seven of roughly thirteen claims are audited. Remaining, from `Bible_Deep_Dive_M
 Each gets the full method above. Expect some to survive intact — record that outcome explicitly, since "holds" is a real result and the badge exists for it.
 
 > **Status note (7 Aug 2026):** items 1, 2, 4, 5, and 6 above have since been audited and inserted into `Bible_Deep_Dive_Master_Notes.md` (§11.1/§11.2 now read "11 of 11 complete, queue empty"). Item 3 (Isaiah 7:14 — almah/parthenos) was not part of that batch and is still open.
+>
+> **Status note (11 Aug 2026):** item 3 (Isaiah 7:14 — almah/parthenos) has since been audited too, closing out Task 1 entirely — Study Notes §11.2 now reads "11 of 11 complete, queue empty," matching the other five. STATUS: Holds — 'almah does not mean virgin, but the "virgin" reading is not Matthew's invention; the Septuagint's parthenos rendering predates him by two centuries. Named sources: Hans Wildberger [CRITICAL], Alec Motyer [CONSERVATIVE-EVANGELICAL]. This correction was also missing from `README.md` and `Method_and_Reference.md` §3, both of which still listed the Study Notes queue as partially open — both corrected in the same pass.
 
 ### Task 2 — audit the Observations
 
@@ -144,6 +147,8 @@ Each gets the full method above. Expect some to survive intact — record that o
 - §13 Trinity / Nicaea — verify against `Historical_Framework.md §7`. Nicaea did not vote on the canon and did not invent Jesus's divinity. The documented history concerns an emperor convening a theological dispute, enforcing its outcome, and exiling dissenters.
 
 > **Status note (7 Aug 2026):** the §13 Nicaea/canon mixup has since been corrected in `Field_Guide_Conversation_Reference.md`. §12.8 (John 8:44) is still open.
+
+> **Status note (10 Aug 2026):** the rest of §13 has since been run through a full scholarly-survey audit — four `#### ⚑ AUDIT` blocks inserted at §13.2 (adoptionism-in-Mark: overstated, corrected), §13.3 (Nicaea attendance/dissent numbers: holds, strengthened with real figures), §13.4 (logical questions: overstated by omission — traditional/Chalcedonian answers were missing and are now supplied), and §13.5 (where high Christology comes from: overstated — the late-Hellenistic-import thesis was stated as settled when Hurtado/Bauckham's early-high-Christology case is the mainstream challenger). §12.8 (John 8:44) has since been audited too — terminology corrected to anti-Jewish (not antisemitic, an anachronistic modern racial category), the synagogue-expulsion explanation flagged as Martyn's contested reconstruction rather than settled fact, and the "Judeans" translation explicitly rejected as a fix, following the sourcing already established at `Bible_Deep_Dive_Master_Notes.md` §8.5. Both items originally flagged for early attention under Task 2 are now closed.
 
 ### Task 3 — retroactive attribution
 
@@ -179,6 +184,6 @@ Dense and factual. No rhetorical scaffolding, no walking the reader up to conclu
 
 ## Note on the current in-repo pipeline (added 7 Aug 2026)
 
-The `build.py` / `glossary_data.py` / pandoc pipeline described above is **not yet committed to this repo** (Task 0 is still open). The seven `*.html` readers currently in the repo (`master-notes.html`, `field-guide.html`, `glossary.html`, `history.html`, `sources.html`, `other-side.html`, `translations.html`) were produced by that pipeline elsewhere and checked in as static files; nothing in this repo's CI regenerates or validates their content against the `.md` sources — `scripts/import/validate-corpus.mjs` only checks that each canonical `.md` file has a correspondingly named `.html` file, not that its content matches.
+The `build.py` / `glossary_data.py` / pandoc pipeline described above is **not yet committed to this repo** (Task 0 is still open). The eight `*.html` readers currently in the repo (`master-notes.html`, `field-guide.html`, `glossary.html`, `history.html`, `sources.html`, `other-side.html`, `translations.html`, `method-reference.html`) were produced by that pipeline elsewhere and checked in as static files, or (for `method-reference.html`, added 10 Aug 2026) hand-authored directly against the same conventions in the absence of that pipeline; nothing in this repo's CI regenerates or validates their content against the `.md` sources — `scripts/import/validate-corpus.mjs` only checks that each canonical `.md` file has a correspondingly named `.html` file, not that its content matches.
 
 Separately, this repo has a second, fully-committed and CI-enforced pipeline that the mobile app depends on: `scripts/import/parse-markdown.mjs` → `scripts/import/generate-records.mjs` → `data/normalized/generated/records.*.js`, validated by `scripts/import/validate-corpus.mjs`, `scripts/import/validate-app-data.mjs`, `tests/parser.test.mjs`, and `scripts/test-browser.sh` on every PR via `.github/workflows/validate-corpus.yml`. It recognizes the same `⟨DOCUMENTED⟩` / `⟨INFERENCE⟩` / `⟨YOURS⟩` markers and the same `#### ⚑ AUDIT` block format described above, so edits made under this file's conventions parse correctly into the app's data layer without further work. Keep both pipelines in mind: edits to the `.md` files feed the app automatically; getting them to also regenerate the polished `.html` readers still requires Task 0.

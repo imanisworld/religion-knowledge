@@ -42,7 +42,7 @@ These are the hard anchors. They are physical objects with dates, and they are n
 
 **What it says.** <cite index="55-1">King Mesha of Moab records that Chemosh, the god of Moab, had been angry with his people and allowed them to be subjugated by the kingdom of Israel — and that Chemosh then returned, helped Mesha throw off the Israelite yoke, and restored Moab's lands.</cite>
 
-**Why this one is worth reading in full.** ⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩ The theology is *identical in structure* to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is not a uniquely Israelite theology; it is standard Iron Age Levantine political theology, and a neighbouring king with a different god states it in the same terms.
+**Why this one is worth reading in full.** ⟨INFERENCE — the inscription's content is documented; this structural comparison is Claude's⟩ The theology is *identical in structure* to the Deuteronomistic history: national god is angry, permits defeat by enemies, relents, delivers his people. Mesha is running the exact interpretive framework the biblical authors run. That is the argument. It is standard Iron Age Levantine political theology, not a uniquely Israelite one, and a neighbouring king with a different god states it in the same terms.
 
 **What else it establishes.** <cite index="55-1">It is the most extensive inscription ever recovered referring to the kingdom of Israel — the "House of Omri" — and it bears the earliest certain extrabiblical reference to YHWH.</cite>
 
@@ -201,4 +201,4 @@ Three questions before relying on any source:
 2. **How long between the event and the writing?**
 3. **Is this independent, or does it trace back to something I have already counted?**
 
-A source you cannot locate is not evidence. It is a rumour with a footnote.
+A source you cannot locate is a rumour with a footnote, not evidence.

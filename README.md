@@ -1,6 +1,6 @@
 # Bible Deep Dive — Document Set
 
-*Seven documents. Last rebuilt August 2026.*
+*Eight documents. Last rebuilt August 2026.*
 
 ## The two formats, and why it matters
 
@@ -32,14 +32,15 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 | 4 | **Sources & Primary Texts** | What each primary source says, with links to free full texts |
 | 5 | **The Strongest Case** | Theologians and apologists worth engaging, plus how the literal/allegorical switch works |
 | 6 | **Translations** | Translation philosophies, committee bias, and where versions diverge |
-| 7 | **Glossary** | Every technical term in plain English |
+| 7 | **Method & Reference** | Survey method, where to look things up, audit-status tracking, and the reading timeline |
+| 8 | **Glossary** | Every technical term in plain English |
 
 ## Reading order for the HTML set
 
-Open `master-notes.html` first. All seven link to each other from the sidebar — keep them in the same folder or the links break.
+Open `master-notes.html` first. All eight link to each other from the sidebar — keep them in the same folder or the links break.
 
 ## Current status
 
-- Audit: 7 of 11 claims complete. Remaining queue at Study Notes §11.2.
-- Reading: Old Testament complete; New Testament through Acts; Pauline epistles in progress.
+- Audit: Study Notes queue closed — 11 of 11 complete (§11.2). Observations queue in progress — see Method & Reference §4.
+- Reading: Old Testament complete; New Testament through Acts; Pauline epistles in progress (Acts → Galatians → Romans → Corinthians).
 - Standing method at Study Notes §11.1 — applies to everything.
