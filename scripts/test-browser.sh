@@ -203,8 +203,8 @@ fi
   >/tmp/religion-app-dom.html \
   2>/tmp/religion-browser.log
 
-if ! grep -Fq '<strong>2013</strong><span>Records</span>' /tmp/religion-app-dom.html; then
-  echo "Rendered app did not show the expected 2013 record count" >&2
+if ! grep -Fq '<strong>2022</strong><span>Records</span>' /tmp/religion-app-dom.html; then
+  echo "Rendered app did not show the expected 2022 record count" >&2
   tail -100 /tmp/religion-browser.log >&2 || true
   exit 1
 fi
@@ -377,4 +377,4 @@ if grep -Eqi 'Uncaught|ReferenceError|TypeError|SyntaxError' /tmp/religion-brows
   exit 1
 fi
 
-printf 'BROWSER_SMOKE=PASS viewport=390x844 records=2013 review=432 positions=0 review_backup=present source_library=8 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"
+printf 'BROWSER_SMOKE=PASS viewport=390x844 records=2022 review=432 positions=0 review_backup=present source_library=8 source_browse=Glossary.md source_link=%s more_sheet=pass filter_badge=pass search_summary=pass topic_search=pass review_speed=pass\n' "$SOURCE_HREF"
