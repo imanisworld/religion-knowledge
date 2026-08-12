@@ -1,0 +1,614 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cited Persons</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --holds:#2D6A4F; --overstated:#A8681B; --collapses:#8E2B2B; --new:#1F5E5B;
+  --camp:#57478C; --camp-soft:#EEEAF6;
+  --rail:320px; --measure:70ch;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html{overflow-x:hidden}html{scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{animation:none!important;transition:none!important}}
+body{margin:0;overflow-x:hidden;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16.5px;line-height:1.62;-webkit-font-smoothing:antialiased}
+
+/* ---------- rail ---------- */
+#rail{position:fixed;inset:0 auto 0 0;width:var(--rail);background:var(--ink);
+  color:#C9D2CE;display:flex;flex-direction:column;z-index:40}
+#rail header{padding:1.35rem 1.4rem 1rem;border-bottom:1px solid #2C3833}
+#rail .doctitle{font-family:var(--f-display);font-size:1.16rem;line-height:1.2;
+  color:#F2F5F3;font-weight:500;letter-spacing:-.01em;margin:0 0 .3rem}
+#rail .docsub{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.13em;
+  text-transform:uppercase;color:#7F8D88}
+.docswitch{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.85rem}
+.docswitch a{flex:1;text-align:center;font-family:var(--f-mono);font-size:.63rem;
+  letter-spacing:.07em;text-transform:uppercase;padding:.45rem .3rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s}
+.docswitch a:hover{color:#E6EDEA;border-color:#3E4C46}
+.docswitch a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#search{margin:.9rem 1.4rem;padding:.55rem .7rem;border-radius:4px;border:1px solid #2C3833;
+  background:#0F1614;color:#E6EDEA;font-family:var(--f-body);font-size:.85rem;width:calc(100% - 2.8rem)}
+#search::placeholder{color:#5E6C67}
+#search:focus{outline:2px solid var(--accent);outline-offset:1px;border-color:transparent}
+#toc{flex:1;overflow-y:auto;padding:0 .7rem 2rem}
+#toc a{display:block;text-decoration:none;color:#A8B4B0;padding:.32rem .7rem;
+  border-radius:3px;font-size:.845rem;line-height:1.35;border-left:2px solid transparent}
+#toc a:hover{color:#F2F5F3;background:#212C28}
+#toc a.lvl2{font-weight:600;color:#D6DEDA;margin-top:.35rem;font-size:1rem}
+#toc a.here{background:#26332E;color:#fff;border-left-color:var(--accent)}
+#toc a.dim{opacity:.22}
+
+/* ---------- main ---------- */
+main{margin-left:var(--rail);padding:0 3.5rem 8rem;max-width:calc(var(--measure) + 12rem)}
+#progress{position:fixed;top:0;left:var(--rail);right:0;height:2px;background:transparent;z-index:50}
+#progress i{display:block;height:100%;background:var(--accent);width:0}
+
+.masthead{padding:4rem 0 2.2rem;border-bottom:1px solid var(--rule);margin-bottom:2.5rem}
+.masthead h1{font-family:var(--f-display);font-size:clamp(2.1rem,4.2vw,3.05rem);
+  font-weight:400;letter-spacing:-.025em;line-height:1.06;margin:0 0 .8rem}
+.masthead .lens{font-family:var(--f-mono);font-size:.7rem;letter-spacing:.16em;
+  text-transform:uppercase;color:var(--accent);margin-bottom:1.4rem}
+.meta{display:flex;flex-wrap:wrap;gap:.5rem 1.6rem;font-size:.82rem;color:var(--ink2)}
+.meta b{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.1em;
+  text-transform:uppercase;color:var(--ink3);font-weight:500;margin-right:.35rem}
+
+.howto{background:var(--paper);border:1px solid var(--rule);border-left:3px solid var(--accent);
+  border-radius:0 5px 5px 0;padding:1.3rem 1.5rem;margin:0 0 3rem;max-width:var(--measure)}
+.howto p{margin:0 0 .75rem;font-size:.925rem;color:var(--ink2)}
+.howto p:last-child{margin-bottom:0}
+.howto strong{color:var(--ink)}
+
+section{max-width:var(--measure);margin-bottom:3.4rem;scroll-margin-top:4.5rem}
+section.dim{opacity:.16;pointer-events:none}
+h2{font-family:var(--f-display);font-size:2.4rem;font-weight:400;letter-spacing:-.025em;
+  line-height:1.14;margin:3.6rem 0 1rem;padding-top:1.4rem;border-top:1px solid var(--rule);
+  max-width:var(--measure);scroll-margin-top:4.5rem}
+p{margin:0 0 .85rem;max-width:var(--measure);border-bottom:1px solid var(--rule);padding-bottom:.75rem}
+p:last-child{border-bottom:none}
+strong{font-weight:600}
+hr{display:none}
+a{color:var(--accent);text-underline-offset:2px}
+em{font-style:italic}
+
+/* ---------- flag styling ---------- */
+.flag-tag{display:block;margin-top:.45rem;background:#FDF4E7;border-left:3px solid var(--overstated);
+  padding:.5rem .75rem;border-radius:0 4px 4px 0;font-size:.9rem;color:var(--ink)}
+.flag-tag strong{color:var(--overstated)}
+
+/* camp tags */
+.mark{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.07em;padding:.12rem .4rem;
+  border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
+.mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
+.mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
+
+/* toolbar */
+#tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
+  padding:.7rem 0;margin:0 0 0;z-index:30;display:flex;gap:.5rem;align-items:center;
+  border-bottom:1px solid var(--rule);flex-wrap:wrap}
+#here{margin-left:auto;font-family:var(--f-mono);font-size:.66rem;color:var(--ink3);
+  letter-spacing:.05em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:20rem}
+#nores{display:none;padding:2rem 0;color:var(--ink3);font-size:.9rem}
+
+#top{position:fixed;right:1.5rem;bottom:1.5rem;width:2.6rem;height:2.6rem;border-radius:50%;
+  background:var(--ink);color:#fff;border:none;cursor:pointer;font-size:.9rem;opacity:0;
+  transition:opacity .2s;z-index:45}
+#top.show{opacity:.85}
+#top:hover{opacity:1}
+
+@media(max-width:1080px){
+  :root{--rail:0px}
+  #rail{transform:translateX(-100%);visibility:hidden;width:300px;transition:transform .22s,visibility .22s;inset:0 auto 0 0}
+  #rail.open{transform:none;visibility:visible;box-shadow:0 0 40px rgba(0,0,0,.3)}
+  main{padding:0 1.35rem 6rem;max-width:none}
+  #menu{display:block!important}
+  #progress{left:0}
+  .masthead{padding-top:4.2rem}
+}
+#menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
+  color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
+</style></head><body>
+<button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="progress"><i></i></div>
+<nav id="rail" aria-label="Contents">
+  <header>
+    <p class="doctitle">Cited Persons</p>
+    <p class="docsub">Consider the source</p>
+    <div class="docswitch"><a class="app-link" href="app/" title="Open the app">App</a><a href="master-notes.html">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a href="glossary.html">Glossary</a><a class="on" href="#">Cited Persons</a></div>
+  </header>
+  <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
+  <div id="toc"><a class="lvl2" href="#sA">A</a>
+<a class="lvl2" href="#sB">B</a>
+<a class="lvl2" href="#sC">C</a>
+<a class="lvl2" href="#sD">D</a>
+<a class="lvl2" href="#sE">E</a>
+<a class="lvl2" href="#sF">F</a>
+<a class="lvl2" href="#sG">G</a>
+<a class="lvl2" href="#sH">H</a>
+<a class="lvl2" href="#sI">I</a>
+<a class="lvl2" href="#sJ">J</a>
+<a class="lvl2" href="#sK">K</a>
+<a class="lvl2" href="#sL">L</a>
+<a class="lvl2" href="#sM">M</a>
+<a class="lvl2" href="#sN">N</a>
+<a class="lvl2" href="#sO">O</a>
+<a class="lvl2" href="#sP">P</a>
+<a class="lvl2" href="#sR">R</a>
+<a class="lvl2" href="#sS">S</a>
+<a class="lvl2" href="#sT">T</a>
+<a class="lvl2" href="#sV">V</a>
+<a class="lvl2" href="#sW">W</a>
+<a class="lvl2" href="#sY">Y</a>
+<a class="lvl2" href="#sZ">Z</a></div>
+</nav>
+<main>
+  <div class="masthead">
+    <p class="lens">Consider the Source</p>
+    <h1>Cited Persons</h1>
+    <div class="meta"><span><b>Updated</b>12 August 2026</span><span><b>Companion</b><a href="master-notes.html">Study Notes §12</a></span></div>
+  </div>
+  <div id="tools"><span id="here"></span></div>
+  <div class="howto"><p><strong>Purpose.</strong> Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable. Entries with an <span style="color:var(--overstated);font-weight:600">Important flag</span> carry moral or ideological context that is relevant whenever that person is cited.</p></div>
+  <div id="nores">No entry matches that search.</div>
+  <section id="sec-A"><h2 id="sA">A</h2>
+<p><strong>Adams, Robert Merrihew</strong> — Analytic philosopher; evangelical Christian; "Modified Divine Command Theory" (1973). Defending divine command theory while trying to soften its moral problems.</p>
+<p><strong>Adolph, Karen</strong> — Developmental psychologist; secular academic. Research shows infants do not have an innate fear of heights — it develops with locomotor experience. Used here to dismantle the "two innate fears" claim.</p>
+<p><strong>Alcorn, Randy</strong> — Conservative evangelical pastor and author (Eternal Perspective Ministries). Concedes the plain historical reading of Jeremiah 29:11 (corporate address to exiles) but argues for typological transfer to individual Christians today.</p>
+<p><strong>Allen, Pauline</strong> — Patristics scholar; translated Maximus the Confessor's trial and exile documents.</p>
+<p><strong>Allison, Dale</strong> — Critical scholar and Christian; notable for unusual intellectual honesty — willing to acknowledge evidence that cuts against his own tradition's conclusions on the resurrection.</p>
+<p><strong>Alston, William</strong> — Analytic philosopher; Christian; <em>Perceiving God</em> (1991). The strongest philosophical defense of religious experience as evidence for God.</p>
+<p><strong>Ambrose of Milan</strong> (c. 340–397) — Church Father; bishop; major influence on Augustine. He participated in early Christian political power consolidation. Drew the 318-bishop Genesis numerology applied to Nicaea.</p>
+<p><strong>Andersen, Francis</strong> — Critical scholar; co-authored the Anchor Bible Amos commentary with Freedman. Reads Amos 5:21–24 as targeting ritual without justice, not the cult itself.</p>
+<p><strong>Annius of Viterbo</strong> — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.</p>
+<p><strong>Aquila</strong> (c. 135 CE) — Jewish reviser of the Greek Old Testament. Switched Isaiah 7:14 from <em>parthenos</em> (virgin) back to <em>neanis</em> (young woman) — a deliberate anti-Christian correction.</p>
+<p><strong>Aquinas, Thomas</strong> (1225–1274) — Medieval Catholic theologian; Dominican friar. His tripartite division of the Law (moral/civil/ceremonial) underlies selective OT application today. Also developed the classic philosophical case for divine atemporality.</p>
+<p><strong>Archer, Gleason</strong> — Conservative evangelical. Rejects the <em>eleph</em> proposal outright and defends the Numbers census figures as literally accurate.</p>
+<p><strong>Arminius, Jacobus</strong> (1560–1609) — Reformed theologian who broke from Calvinist predestination. Named in the Calvinist/Arminian split over universal versus limited atonement.</p>
+<p><strong>Arius</strong> (4th century) — Presbyter; argued the Son was created and subordinate to the Father. His position was exegetically defensible and had a large following. Lost politically at Nicaea.</p>
+<p><strong>Athanasius of Alexandria</strong> (c. 296–373) — Church Father; defended Jesus's full divinity against Arius. His 367 CE Festal Letter is the first surviving list matching the 27-book New Testament. Exiled repeatedly.</p>
+<p><strong>Attridge, Harold W.</strong> — Critical scholar; <em>Hebrews</em> (Hermeneia). Places Hebrews in the 60–95 CE range.</p>
+<p><strong>Augustine of Hippo</strong> (354–430) — Church Father; bishop; architect of original sin, grace, and predestination doctrines in Western Christianity. His framework became the dominant lens for reading Paul in the West — the one the New Perspective on Paul is specifically correcting. The phrase "hate the sin, love the sinner" traces to his <em>Letter 211</em>. Entertained universal restoration (later condemned). On the "days" of Genesis, he argued they were not necessarily literal solar days.</p>
+<p><strong>Aune, David</strong> — Critical scholar. Argued the parousia delay lacks a demonstrable causal link to early Christian theological transformation — part of the dismantling of the mid-20th-century parousia-crisis framework.</p>
+</section>
+<section id="sec-B"><h2 id="sB">B</h2>
+<p><strong>Baden, Joel</strong> — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.</p>
+<p><strong>Baggett, David</strong> — Evangelical philosopher; <em>Good God</em> (2011). Defending theistic moral realism.</p>
+<p><strong>Barr, Beth Allison</strong> — Evangelical historian (Baylor); <em>The Making of Biblical Womanhood</em> (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as "cultural" or "timeless" without acknowledging that sorting as an interpretive choice.</p>
+<p><strong>Barrett, C.K.</strong> — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.</p>
+<p><strong>Barrett, Justin</strong> — Cognitive scientist of religion; himself a believing scholar. <em>Why Would Anyone Believe in God?</em> (2004) — argues belief in God arises from normal cognitive architecture, not evidence.</p>
+<p><strong>Barth, Karl</strong> (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.</p>
+<p><strong>Barton, John</strong> — Anglican priest and critical scholar; <em>A History of the Bible</em>, <em>Ethics in Ancient Israel</em> (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.</p>
+<p><strong>Basil the Great</strong> (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.</p>
+<p><strong>Bauckham, Richard</strong> — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.</p>
+<p><strong>Bauer, Walter</strong> — Critical scholar; <em>Orthodoxy and Heresy in Earliest Christianity</em> (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The "Church Father" label encodes who won.</p>
+<p><strong>Ben Zvi, Ehud</strong> — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (<em>rîb</em>) convention.</p>
+<p><strong>Bergen, Doris L.</strong> — Critical historian; <em>Twisted Cross</em> (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.</p>
+<p><strong>Bernstein, Alan</strong> — Historian; <em>The Formation of Hell</em> (1993). Scholarly treatment of how hell developed as a doctrine.</p>
+<p><strong>Bertenthal, B.I. / Campos, J.J. / Kermoian</strong> — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.</p>
+<p><strong>Best, George</strong> — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.</p>
+<p><strong>Betz, Hans Dieter</strong> — Critical scholar; <em>Galatians</em> (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.</p>
+<p><strong>Bird, Michael</strong> — Evangelical scholar; <em>Jesus the Eternal Son</em> (2017). Rebuts adoptionist readings of Mark.</p>
+<p><strong>Blenkinsopp, Joseph</strong> — Critical scholar; <em>Isaiah 1–39</em> (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.</p>
+<p><strong>Blomberg, Craig</strong> — Conservative evangelical; <em>The Historical Reliability of John's Gospel</em> (2001). Defends Johannine authenticity.</p>
+<p><strong>Blundell, Mary Whitlock</strong> — Classical scholar; <em>Helping Friends and Harming Enemies</em> (1989). Standard reference for "help friends, harm enemies" as Greco-Roman popular ethics — context for Matthew 5:43.</p>
+<p><strong>Boethius</strong> (6th century CE) — Late Roman philosopher; <em>The Consolation of Philosophy</em>. Original philosophical formulation of divine atemporality (God outside time entirely).</p>
+<p><strong>Bonaventure</strong> (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.</p>
+<p><strong>Bonhoeffer, Dietrich</strong> — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.</p>
+<p><strong>Bousset, Wilhelm</strong> — Critical scholar; <em>Kyrios Christos</em> (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.</p>
+<p><strong>Boyd, Gregory</strong> — Open theist evangelical; <em>God of the Possible</em> (2000). God does not foreknow free choices.</p>
+<p><strong>Boyce, Mary</strong> — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.</p>
+<p><strong>Briggs, Peter</strong> — Applied the <em>eleph</em> proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.</p>
+<p><strong>Bright, John</strong> — Critical scholar; <em>Jeremiah</em> (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.</p>
+<p><strong>Brown, Raymond E.</strong> — Critical Catholic scholar; <em>The Gospel According to John</em> (Anchor Bible). Standard commentary; dates John c. 90–100 CE.</p>
+<p><strong>Bruce, F.F.</strong> — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.</p>
+<p><strong>Brueggemann, Walter</strong> — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.</p>
+<p><strong>Bultmann, Rudolf</strong> (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms ("demythologization"). Resolved the parousia by dissolving it into the existential now.</p>
+</section>
+<section id="sec-C"><h2 id="sC">C</h2>
+<p><strong>Caird, G.B.</strong> — Moderate critical scholar; <em>The Gospel of St. Luke</em> (Pelican). Reads Luke 14:26 "hate" as an Aramaic idiom.</p>
+<p><strong>Calvin, John</strong> (1509–1564) — Protestant reformer. Developed "accommodation" — God speaks in terms adjusted to human capacity, like nurses speaking to infants. Also developed the lesser-magistrate doctrine making Romans 13 compatible with resistance by legitimate authorities against a tyrant.</p>
+<p><strong>Caneday, Ardel B.</strong> — Evangelical scholar. Reads Galatians 4:21–31 as typology (prefiguring) rather than Philonic allegory.</p>
+<p><strong>Carroll, Sean</strong> — Physicist; atheist; "Why (Almost All) Cosmologists Are Atheists" (2005). Against cosmological and design arguments.</p>
+<p><strong>Carson, D.A.</strong> — Conservative evangelical; <em>The Gospel According to John</em> (Pillar NT Commentary); <em>The Gagging of God</em> (1996). Defends Johannine authenticity and Christian exclusivism.</p>
+<p><strong>Casey, Maurice</strong> — Critical secular scholar; <em>From Jewish Prophet to Gentile God</em> (1991). Argues full incarnational Christology is only Johannine — but also wrote the book-length refutation of mythicism.</p>
+<p><strong>Chan, Francis</strong> — Evangelical pastor; <em>Erasing Hell</em> (2011). Defends eternal conscious torment.</p>
+<p><strong>Chrysostom, John</strong> (c. 349–407) — Church Father; bishop; major preacher in the Antiochene school. <span class="flag-tag"><strong>Important flag:</strong> also delivered eight notoriously hostile anti-Jewish homilies in Antioch. Academic scholarship explicitly studies their rhetorical structure. Essential context whenever he is cited on Jews, Judaism, or Christian ethics.</span></p>
+<p><strong>Clement of Rome</strong> (late 1st century) — Early Church Father. Wrote on church order, authority, unity.</p>
+<p><strong>Colenso</strong> (1871) — Early critical scholar who recognized the Numbers census numbers as non-historical. Full name not given in the text.</p>
+<p><strong>Collins, Robin</strong> — Philosopher; defends the fine-tuning design argument.</p>
+<p><strong>Conzelmann, Hans</strong> — Critical scholar. Applied the parousia-delay thesis to Luke-Acts: you do not write the history of the church if you expect the world to end tomorrow.</p>
+<p><strong>Copan, Paul</strong> — Evangelical philosopher; <em>Is God a Moral Monster?</em> (2011). Theistic moral realism and evangelical response to OT violence critiques.</p>
+<p><strong>Craig, William Lane</strong> — Evangelical philosopher; public debater. Kalam cosmological argument; defends divine command ethics; has defended the Canaanite conquest on divine-command grounds. His second Kalam premise depends on contested cosmology.</p>
+<p><strong>Cranfield, C.E.B.</strong> — Conservative critical scholar; <em>Romans</em> commentary. Standard positive-institution reading of Romans 13.</p>
+<p><strong>Crisp, Oliver</strong> — Analytic theologian; <em>Divinity and Humanity</em> (2007). Proposes "krypsis" (divine attributes veiled, not relinquished) to answer Mark 13:32's knowledge problem.</p>
+<p><strong>Crossan, John Dominic</strong> — Critical scholar; <em>Who Killed Jesus?</em> (1995). Frames the trajectory of increasing Pilate-sympathy in the Gospels as the root of later Christian anti-Judaism.</p>
+<p><strong>Crossley, James</strong> — Critical scholar. Argues the "Judeans" translation, pushed to its endpoint, severs modern Jews from the biblical text entirely — more dangerous than the original rendering.</p>
+<p><strong>Cuany</strong> — Critical scholar (<em>JSNT</em> 2017). Reads the Barabbas exchange as doing Christological work in Luke, not primarily anti-Jewish blame-shifting.</p>
+<p><strong>Cullmann, Oscar</strong> — Critical scholar; <em>The State in the New Testament</em> (1956). Reads <em>exousiai</em> in Romans 13 as encompassing angelic powers behind human government — the state is God's servant only when functioning as such.</p>
+<p><strong>Cunningham / Bock</strong> — Conservative scholars. Argue Matthew's formula-quotations are something different from true midrash because the narrative exists independently and the citations serve it.</p>
+<p><strong>Cyprian of Carthage</strong> (c. 200–258) — Church Father; bishop. Developed doctrines of church authority and baptism.</p>
+<p><strong>Cyril of Alexandria</strong> (c. 376–444) — Church Father; bishop; opposed Nestorius at Ephesus (431).</p>
+</section>
+<section id="sec-D"><h2 id="sD">D</h2>
+<p><strong>Davies, Eryl W.</strong> — Critical scholar. States plainly that OT scholars have long recognized the Numbers census figures cannot represent historical population counts.</p>
+<p><strong>Day, Peggy L.</strong> — Critical scholar; <em>An Adversary in Heaven</em> (1988). The field's classic monograph establishing ha-satan as a bounded, subordinate prosecutorial role within the divine council — not a cosmic villain.</p>
+<p><strong>deClaissé-Walford, Nancy</strong> — Critical scholar. Reads imprecatory psalms as confronting violence rather than endorsing it.</p>
+<p><strong>de Waal, Frans</strong> — Primatologist and ethologist; secular. <em>Primates and Philosophers</em> (2006) — evolutionary basis for altruism and cooperation. Used to argue moral behavior does not require religious grounding.</p>
+<p><strong>Dershowitz, Idan</strong> — Critical scholar. Proposes a redactional hypothesis: an earlier incest-only stratum underlies Leviticus 18:22.</p>
+<p><strong>Dever, William</strong> — Critical archaeologist; explicitly anti-minimalist. Attacks biblical literalism and minimalism simultaneously. Anachronisms in the Exodus narrative (Philistines, domesticated camels) indicate Iron Age or later redaction.</p>
+<p><strong>Dibelius, Martin</strong> — Critical scholar; foundational form-critical case that the Acts speeches are Lukan compositions, not transcripts.</p>
+<p><strong>Dillmann</strong> (1886) — Early critical scholar who recognized the Numbers census figures are not historical.</p>
+<p><strong>Dodd, C.H.</strong> — Critical scholar; "Oxbridge" school. Mapped shared kerygmatic structure across Acts speeches — both speakers sound like Luke, not like themselves, a compositional signature. Associated with "realized eschatology."</p>
+<p><strong>Du Mez, Kristin Kobes</strong> — Evangelical historian (Calvin University); <em>Jesus and John Wayne</em> (2020). Reviewed the ESV translation committee rosters and found no women on either the oversight or review panels.</p>
+<p><strong>Dunn, James D.G.</strong> — Critical scholar; coined "New Perspective on Paul" (1983). <em>Christology in the Making</em> (1980). Argues "works of the law" in Galatians refers to ethnic boundary markers, not works-righteousness generally.</p>
+</section>
+<section id="sec-E"><h2 id="sE">E</h2>
+<p><strong>Egeria</strong> (4th century) — Pilgrim and writer; one of the few early Christian women whose voice survives. Her <em>Itinerarium</em> is a major source for early Christian liturgy in Jerusalem.</p>
+<p><strong>Ehrman, Bart D.</strong> — Critical secular scholar (agnostic); <em>How Jesus Became God</em>, <em>Misquoting Jesus</em>, <em>Lost Christianities</em>, and others. Exaltation Christology model (resurrection → baptism → birth → pre-existence as successive stages). Extends Bauer's heresy-orthodoxy framework. Also wrote the book-length refutation of mythicism.</p>
+<p><strong>Elder, Linda</strong> — <em>Critical Thinking</em> (Pearson), with Richard Paul. The most widely used operational framework for reasoning: eight elements evaluated against nine intellectual standards.</p>
+<p><strong>Elukin, Jonathan</strong> — Critical scholar. Notes that "anti-Judaism" is applied inconsistently across the scholarly literature.</p>
+<p><strong>Enns, Peter</strong> — Progressive evangelical; <em>The Bible Tells Me So</em> (2014); <em>Inspiration and Incarnation</em>. Accepts essentially all critical findings and argues the doctrine of inspiration must be revised to fit them. Was pushed out of Westminster Theological Seminary for it.</p>
+<p><strong>Epley, Nicholas et al.</strong> — Social psychologists. Showed that believers' perception of God's views tracks their own preferences via unconscious projection (<em>PNAS</em>, 2009).</p>
+<p><strong>Ericksen, Robert P.</strong> — Critical historian; <em>Theologians Under Hitler</em> (Yale, 1985). Standard source on Reich-aligned German theologians who used Romans 13 to frame submission to Hitler as divinely ordained.</p>
+<p><strong>Erickson, Millard</strong> — Evangelical theologian who publicly confronted Grudem and Ware's Eternal Functional Subordination position at the 2016 Evangelical Theological Society meeting.</p>
+<p><strong>Esler, Philip</strong> — Advocate for translating <em>Ioudaioi</em> as "Judeans." Reinhartz and Levine argue this translation is more dangerous than the original.</p>
+<p><strong>Eusebius of Caesarea</strong> (4th century) — Church Father; bishop; wrote the first major church history from the pro-Nicene side. Said roughly 250 bishops attended Nicaea — one of several eyewitness counts that disagree with each other and with the later legend of 318.</p>
+<p><strong>Eusebius of Nicomedia</strong> (4th century) — Bishop; initially objected to the Nicene creed's <em>homoousios</em>; signed under evident pressure; resumed open support for Arius within years and was separately exiled.</p>
+<p><strong>Eustathius of Antioch</strong> (4th century) — Bishop; said roughly 270 bishops attended Nicaea.</p>
+</section>
+<section id="sec-F"><h2 id="sF">F</h2>
+<p><strong>Farmer, William R.</strong> — Critical scholar (not evangelical); <em>The Synoptic Problem</em> (1964). Revived the Griesbach hypothesis (Matthew first, Mark last). His methodological charge: Markan priority's triumph was driven by theological preference, not decisive textual evidence.</p>
+<p><strong>Felicity</strong> — Martyred at Carthage, 7 March 203 CE, alongside Perpetua.</p>
+<p><strong>Feser, Edward</strong> — Thomist philosopher; <em>Aquinas</em>, <em>Five Proofs</em>. His central argument: most atheist critiques attack a version of the cosmological argument Aquinas never made.</p>
+<p><strong>Finkelstein, Israel</strong> — Critical archaeologist (Tel Aviv); "low chronology." 10th-century Jerusalem was a modest highland town; the united monarchy as described is a 7th-century retrojection; treats the Exodus as a charter myth.</p>
+<p><strong>Finnis, John</strong> — Natural law philosopher; <em>Natural Law and Natural Rights</em> (1980). Attempts to bridge the is-ought gap via natural teleology.</p>
+<p><strong>Firth, David G.</strong> — Conservative evangelical; <em>Surrendering Retribution in the Psalms</em> (2005). Argues the psalmist cedes vengeance to God rather than acting on it.</p>
+<p><strong>Fitzmyer, Joseph</strong> — Critical Catholic scholar; Anchor Bible Luke and Acts commentaries. Documents that Matthew's prophetic citations are editorial insertions layered onto pre-existing narrative. Reads Luke's three explicit innocence declarations as more specific than Mark's.</p>
+<p><strong>Flew, Antony</strong> — Philosopher; "Theology and Falsification" (1950). The invisible gardener parable — foundational essay on unfalsifiability in theology. (Note: Flew later claimed to become a theist shortly before his death; the quality of that late-life change is disputed.)</p>
+<p><strong>Ford, John Jarrett</strong> — Evangelical scholar. Reads Galatians 4:21–31 as typology rather than Philonic allegory.</p>
+<p><strong>Fouts, David</strong> — Conservative evangelical. Applied the <em>eleph</em> proposal to Numbers; one of several whose different applications produce wildly different results.</p>
+<p><strong>Frame, John</strong> — Presuppositional apologist; <em>The Doctrine of the Knowledge of God</em> (1987). Defends self-attesting Scripture against circular-reasoning objections.</p>
+<p><strong>France, R.T.</strong> — Evangelical scholar. Coined the term "formula-quotations" for Matthew's recurring editorial citation pattern.</p>
+<p><strong>Fredriksen, Paula</strong> — Critical historian of ancient Christianity. Documented that the parousia-delay framework functioned as a "controlling matrix" in mid-20th-century scholarship, not a settled finding from the evidence.</p>
+<p><strong>Freedman, David Noel</strong> — Critical scholar; co-authored the Anchor Bible Amos commentary with Andersen.</p>
+<p><strong>Freeman, Charles</strong> — Historian; <em>AD 381</em> (2008). Documents the political finalization of Trinitarian Christianity under Theodosius at Constantinople.</p>
+<p><strong>Friedman, Richard Elliott</strong> — Critical scholar; <em>Who Wrote the Bible?</em> (1987). Documentary hypothesis and source differentiation.</p>
+<p><strong>Fudge, Edward</strong> — Evangelical; <em>The Fire That Consumes</em> (1982). Evangelical case for annihilationism.</p>
+</section>
+<section id="sec-G"><h2 id="sG">G</h2>
+<p><strong>Gagnon, Robert</strong> — Conservative evangelical; <em>The Bible and Homosexual Practice</em> (2001). The most thorough conservative treatment; broad prohibition reading of Leviticus 18:22.</p>
+<p><strong>Garfinkel, Yosef</strong> — Archaeologist; Khirbet Qeiyafa, radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.</p>
+<p><strong>Geisler, Norman</strong> — Conservative evangelical; <em>A General Introduction to the Bible</em> (1986). Standard evangelical defense of biblical authority.</p>
+<p><strong>Gertz, Jan Christian</strong> — European school; Pentateuchal composition. Disagrees with the Neo-Documentarians on whether sources J and E exist as discrete documents.</p>
+<p><strong>Gibson, Eleanor</strong> — Developmental psychologist; <em>The Visual Cliff</em> (1960). The experiment tested infants who could already crawl (aged 6–14 months), not newborns — undermining the "innate fear of falling" claim.</p>
+<p><strong>Giles, Kevin</strong> — Critical scholar; <em>The Trinity & Subordinationism</em> (2002). Argues Eternal Functional Subordination (EFS) is a departure from Nicene orthodoxy on its own terms.</p>
+<p><strong>Goldenberg, David M.</strong> — Critical/Judaic Studies scholar; <em>The Curse of Ham</em> (Princeton, 2003). Traces the roughly 1,500-year process by which a text mentioning neither blackness nor Ham's guilt became the cornerstone for justifying African slavery.</p>
+<p><strong>Goligher, Liam</strong> — Reformed theologian. Publicly charged Grudem and Ware's EFS with undermining Nicene trinitarianism (June 2016).</p>
+<p><strong>Goodacre, Mark</strong> — Critical scholar (Duke); Farrer hypothesis — Mark was first, Luke used both Mark and Matthew directly, eliminating Q. A serious active challenge to the two-source hypothesis.</p>
+<p><strong>Gottwald, Norman</strong> — Critical scholar with sociological approach; applied the <em>eleph</em> proposal to Numbers census figures (1979).</p>
+<p><strong>Gray</strong> (1903) — Early critical scholar who recognized the Numbers census figures are not historical.</p>
+<p><strong>Grayling, A.C.</strong> — Secular humanist philosopher; <em>The God Argument</em> (2013).</p>
+<p><strong>Gregory of Nazianzus</strong> (c. 329–390) — Church Father; Trinitarian theology.</p>
+<p><strong>Gregory of Nyssa</strong> (c. 335–395) — Church Father; Trinitarian theology, spiritual development, resurrection. Theologically closer to Eastern thought than later Augustinian Western Christianity.</p>
+<p><strong>Gregory the Great</strong> (pope 590–604) — Church Father; major Western pope-theologian. Associated Augustine's fourfold sense with faith, hope, and love in the text.</p>
+<p><strong>Griffiths, Roland et al.</strong> — Johns Hopkins psychopharmacologists. Psilocybin studies showing religious experiences have known physical correlates.</p>
+<p><strong>Groenewald, Alphonso</strong> — Critical scholar; names the Amos 5:21–24 interpretation an "ongoing either-or dilemma" in the scholarly guild — not a resolved finding.</p>
+<p><strong>Grudem, Wayne</strong> — Conservative evangelical; co-edited <em>Recovering Biblical Manhood and Womanhood</em> (1991). The foundational complementarian text. Uses a Trinity analogy (Son equal in essence, subordinate in role) to argue for gender hierarchy — the Trinitarian structure of that argument is contested by Giles and Goligher on Nicene orthodoxy grounds.</p>
+</section>
+<section id="sec-H"><h2 id="sH">H</h2>
+<p><strong>Habermas, Gary</strong> — Evangelical; "minimal facts" argument for the resurrection; <em>The Case for the Resurrection of Jesus</em> (2004). Works from a small set of claims he argues the majority of critical scholars grant.</p>
+<p><strong>Haidt, Jonathan</strong> — Social psychologist; secular; <em>The Righteous Mind</em> (2012). Six universal moral foundations; motivated reasoning as moral intuition dressed in post-hoc justification.</p>
+<p><strong>Hamblin, C.L.</strong> — Philosopher; <em>Fallacies</em> (1970). Standard reference on informal fallacy.</p>
+<p><strong>Harnack, Adolf von</strong> — Critical historian; <em>Marcion</em> (1921). Thesis that Marcion's challenge probably accelerated NT canon formation.</p>
+<p><strong>Haynes, Stephen R.</strong> — Critical historian; <em>Noah's Curse</em> (Oxford, 2002). Documents how the Curse of Ham was deployed to justify American slavery.</p>
+<p><strong>Heinsch, Ryan</strong> — Critical scholar. The Galatians 4 parallel with Qumran pesher-style exegesis is closer than Paul's explicit <em>allegoroumena</em> label suggests.</p>
+<p><strong>Hemer, Colin</strong> — Conservative evangelical; <em>The Book of Acts in the Setting of Hellenistic History</em> (1989). Acts is accurate on incidental external detail.</p>
+<p><strong>Heschel, Abraham Joshua</strong> — Jewish theologian; <em>The Prophets</em> (1962). Reads Amos 5 as expressing God's pain at betrayal.</p>
+<p><strong>Heschel, Susannah</strong> — Jewish critical scholar. Built the historiographical case for distinguishing anti-Judaism from antisemitism.</p>
+<p><strong>Hick, John</strong> — Philosopher; moved from evangelical Christianity to religious pluralism. Religions may be culturally conditioned responses to an ultimate transcendent Reality rather than one religion possessing the entire truth.</p>
+<p><strong>Hilary of Poitiers</strong> (4th century) — Church Father; bishop. Drew the Genesis 14:14 numerological parallel underlying the 318-bishops legend.</p>
+<p><strong>Hillers, Delbert R.</strong> — Critical scholar; <em>Micah</em> (Hermeneia). Identified the covenant-lawsuit (<em>rîb</em>) form in Micah.</p>
+<p><strong>Hoffmann, Paul</strong> — Critical scholar; co-editor of <em>The Critical Edition of Q</em> (2000).</p>
+<p><strong>Hoffmeier, James K.</strong> — Conservative evangelical Egyptologist; <em>Israel in Egypt</em> (1997). The strongest conservative Egyptological case for the Exodus.</p>
+<p><strong>Holladay, William</strong> — Critical scholar; <em>Jeremiah 2</em> (Hermeneia). Jeremiah 31 commentary.</p>
+<p><strong>Hollenback, George</strong> — Critical scholar. Validates Walsh's inverted reading of Leviticus 18:22.</p>
+<p><strong>Holtzmann</strong> — 1863 foundational work on Markan priority, before Streeter's 1924 refinement.</p>
+<p><strong>Honigmann, Ernest</strong> — 20th-century prosopographical study establishing 194 documented attendees at Nicaea, against the legendary 318.</p>
+<p><strong>Hood, Ralph</strong> — Psychologist of religion; <em>The Psychology of Religion</em> (2009). Research on religious experience.</p>
+<p><strong>Hoover, R.W.</strong> — Philologist; "The Harpagmos Enigma" (<em>Harvard Theological Review</em>, 1971). Argues <em>harpagmos</em> means using something already possessed to one's advantage — underpins NRSVue's "exploited" rendering at Philippians 2:6.</p>
+<p><strong>Howard-Brook, Wesley</strong> — Liberation theology scholar. Reads John as calling its audience back to the covenant, not away from Judaism.</p>
+<p><strong>Howard-Snyder, Daniel</strong> — Philosopher; skeptical theism tradition.</p>
+<p><strong>Humphreys, Colin</strong> — Physicist; <em>eleph</em>-as-military-unit proposal (1998/2000). One of the solutions to the implausibly large census numbers in Numbers.</p>
+<p><strong>Hurtado, Larry</strong> — Critical scholar (Edinburgh); <em>One God, One Lord</em> (1988), <em>Lord Jesus Christ</em> (2003). Argues high Christology appears in the earliest devotional practice, not as a late Hellenistic import. Credited with shifting the field on this question.</p>
+</section>
+<section id="sec-I"><h2 id="sI">I</h2>
+<p><strong>Ibn Ezra, Abraham</strong> — Medieval Jewish commentator. Near-term reading of Isaiah 7:14 — fulfillment in Hezekiah's reign, not a distant messianic figure.</p>
+<p><strong>Ibn Hisham</strong> — Preserved Ibn Ishaq's biography of Muhammad in a later edition; the only surviving form.</p>
+<p><strong>Ibn Ishaq</strong> — Earliest biographer of Muhammad. His work survives only through Ibn Hisham's later edition — a transmission gap comparable to or worse than the Gospels'.</p>
+<p><strong>Ibn Khaldun</strong> (14th century) — Muslim historian; <em>Muqaddimah</em>. Dissented from the racialized reading of the Curse of Ham, noting that the Torah says nothing about blackness.</p>
+<p><strong>Ignatius of Antioch</strong> (early 2nd century) — Church Father; letters on bishops, Eucharist, and martyrdom.</p>
+<p><strong>Irenaeus of Lyons</strong> (c. 130–202) — Church Father; <em>Against Heresies</em>. Anti-Gnostic. Argues for exactly four Gospels because there are four winds and four corners of the earth — cited as an example of pre-critical canon-formation reasoning.</p>
+</section>
+<section id="sec-J"><h2 id="sJ">J</h2>
+<p><strong>Jacobson, Rolf A.</strong> — Editor of <em>Soundings in the Theology of Psalms</em> (2011).</p>
+<p><strong>Jeon, Jaeyoung</strong> — Critical scholar. Argues major parts of the wilderness narrative were composed in the Persian period by competing scribal circles.</p>
+<p><strong>Jerome</strong> (c. 347–420) — Church Father; produced the Latin Vulgate. Collaborated with Paula and Marcella. Strong ascetic advocate; the view that celibacy is clearly superior to marriage is largely his.</p>
+<p><strong>Jewett, Robert</strong> — Critical scholar; <em>Romans</em> (Hermeneia, 2007). Reads Romans 13:1–7 as a specific, occasional argument addressed to the situation of corrupt tax-farming around 57–58 CE, not timeless political doctrine.</p>
+<p><strong>John Chrysostom</strong> — See Chrysostom above.</p>
+<p><strong>John of Damascus</strong> (c. 675–749) — Theologian; defended icons against Byzantine Iconoclasm.</p>
+<p><strong>Johnson, Luke Timothy</strong> — Critical Catholic scholar; "The New Testament's Anti-Jewish Slander and the Conventions of Ancient Polemic" (<em>JBL</em>, 1989). NT anti-Jewish invective fits conventions of period-typical sectarian polemic.</p>
+<p><strong>Jones, David W.</strong> — Evangelical complementarian; <em>God, Marriage, and Family</em> (Crossway, 2004).</p>
+<p><strong>Josephus, Flavius</strong> (c. 37–100 CE) — Jewish aristocrat and priest; surrendered to the Romans; wrote under Flavian patronage. <em>Jewish War</em> and <em>Antiquities of the Jews</em>. <span class="flag-tag"><strong>Important flag:</strong> He was a Roman client with clear interests in how Jewish history was presented to a Roman audience. The two Jesus passages in <em>Antiquities</em> (18.63–64, the <em>Testimonium Flavianum</em>, and 20.200, the James reference) must be read with this in mind.</span></p>
+<p><strong>Justin Martyr</strong> (c. 100–165) — Early apologist; <em>Dialogue with Trypho</em> (c. 160 CE). Records Christians and Jews arguing over <em>almah/parthenos</em>. Accused later Jewish revisers of anti-Christian tampering in Isaiah 7:14.</p>
+</section>
+<section id="sec-K"><h2 id="sK">K</h2>
+<p><strong>Kahneman, Daniel</strong> — Psychologist; <em>Thinking, Fast and Slow</em> (2011). System 1/System 2; motivated reasoning as the default of a lazy System 2.</p>
+<p><strong>Kant, Immanuel</strong> — Enlightenment philosopher; Categorical Imperative; <em>Groundwork of the Metaphysics of Morals</em> (1785). <span class="flag-tag"><strong>Important flag:</strong> Also participated in early modern racial theorizing and developed hierarchical ideas about human races. The modern philosophical literature treats this as a serious internal problem in his work, not an irrelevant biographical footnote.</span></p>
+<p><strong>Käsemann, Ernst</strong> — Critical scholar. Applied the delay-of-parousia thesis to Luke-Acts.</p>
+<p><strong>Kelly, Henry Ansgar</strong> — Critical scholar; <em>Satan: A Biography</em> (Cambridge, 2006). Ha-satan as a bounded subordinate role within the divine council; never called a fallen angel in the Hebrew Bible.</p>
+<p><strong>Kim, Seyoon</strong> — Evangelical NPP critic.</p>
+<p><strong>Kitcher, Philip</strong> — Philosopher of science; <em>Abusing Science: The Case Against Creationism</em> (1982).</p>
+<p><strong>Kitchen, K.A.</strong> — Conservative evangelical Egyptologist; <em>On the Reliability of the Old Testament</em> (2003). The strongest conservative Egyptological case alongside Hoffmeier.</p>
+<p><strong>Kloppenborg, John S.</strong> — Critical scholar; co-editor of <em>The Critical Edition of Q</em> (2000).</p>
+<p><strong>Knohl, Israel</strong> — Critical scholar; <em>The Sanctuary of Silence</em> (1995). On the Priestly source within the Documentary Hypothesis.</p>
+<p><strong>Köstenberger, Andreas J.</strong> — Conservative evangelical complementarian; <em>God, Marriage, and Family</em> (Crossway, 2004).</p>
+<p><strong>Kuhrt, Amélie</strong> — Critical ancient historian. Argues the Cyrus Cylinder's restoration language is a literary device for legitimizing a new dynasty, not a description of actual policy.</p>
+<p><strong>Kunda, Ziva</strong> — Psychologist; "The Case for Motivated Reasoning" (<em>Psychological Bulletin</em>, 1990). Distinction between accuracy-motivated and directionally-motivated reasoning — the key methodological paper in the motivated reasoning literature.</p>
+</section>
+<section id="sec-L"><h2 id="sL">L</h2>
+<p><strong>Langmuir, Gavin</strong> — Critical historian; <em>Toward a Definition of Antisemitism</em> (UC Press, 1990). <span class="flag-tag"><strong>Important flag:</strong> Built the anti-Judaism/antisemitism distinction specifically to argue <em>continuity</em> between the two forms, not severance — the opposite of how the distinction is often used in popular apologetics.</span></p>
+<p><strong>LeDoux, Joseph</strong> — Neuroscientist; <em>The Emotional Brain</em> (1996). Emotion and cognition.</p>
+<p><strong>Leo the Great</strong> (c. 400–461) — Church Father; pope; papal authority; Christology at Chalcedon (451).</p>
+<p><strong>Letham, Robert</strong> — Reformed theologian; <em>The Holy Trinity</em> (2004). Thorough Reformed Trinitarian defense.</p>
+<p><strong>Levenson, Jon D.</strong> — Jewish critical scholar (Harvard); <em>Sinai and Zion</em> (1985). Covenant texts read as continuity and national restoration, not supersessionist replacement.</p>
+<p><strong>Levine, Amy-Jill</strong> — Jewish critical scholar. Defends "Jews" as the accurate translation of <em>Ioudaioi</em>; warns "Judeans" erases continuity between ancient and modern Jewish identity.</p>
+<p><strong>Licona, Michael</strong> — Evangelical historian; <em>The Resurrection of Jesus</em> (2010). Notable for being attacked by his own side for suggesting Matthew 27:52–53 might be apocalyptic imagery — that episode illustrates the constraints inerrantists operate under.</p>
+<p><strong>Lightfoot, J.B.</strong> — Conservative scholar; argued for the authenticity of Colossians (1875/1879).</p>
+<p><strong>Louth, Andrew</strong> — Patristics scholar; <em>Maximus the Confessor</em> (Routledge, 1996).</p>
+<p><strong>Lowe, Malcolm</strong> — Advocate for translating <em>Ioudaioi</em> as "Judeans."</p>
+<p><strong>Ludemann, Gerd</strong> — Critical secular scholar; <em>The Resurrection of Jesus</em> (1994). Naturalistic explanation of the resurrection appearances.</p>
+<p><strong>Luther, Martin</strong> (1483–1546) — Protestant reformer; foundational for the Lutheran tradition. <span class="flag-tag"><strong>Important flag:</strong> His later writings on Jews advocated destroying synagogues and Jewish homes, restricting Jewish religious activity, forced labor, and expulsion. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics. The <em>Institutes</em> (Calvin) and the Reformation table cite Luther on doctrinal history; his antisemitic writings are a separate but documented part of the same life.</span></p>
+</section>
+<section id="sec-M"><h2 id="sM">M</h2>
+<p><strong>MacDonald, Dennis R.</strong> — Critical scholar; <em>There Is No Male and Female</em> (1987). Argues the "no male and female" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.</p>
+<p><strong>MacIntyre, Alasdair</strong> — Philosopher; "Hume on Is and Ought" (1959). The is-ought problem in meta-ethics.</p>
+<p><strong>Mackie, J.L.</strong> — Philosopher; atheist; <em>Ethics: Inventing Right and Wrong</em> (1977); "Evil and Omnipotence" (<em>Mind</em>, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.</p>
+<p><strong>Macrina the Younger</strong> (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.</p>
+<p><strong>Maitzen, Stephen</strong> — Philosopher; "Divine Hiddenness and the Demographics of Theism" (<em>Religious Studies</em>, 2006). Moral paralysis objection to skeptical theism.</p>
+<p><strong>Maimonides</strong> — Medieval Jewish philosopher; <em>Sefer HaMitzvot</em>. His enumeration of 613 commandments using fourteen governing principles illustrates that the list never sorts itself — someone always does the sorting.</p>
+<p><strong>Malamat, Abraham</strong> — Critical scholar; <em>eleph</em>-as-military-unit proposal (1967).</p>
+<p><strong>Marcella of Rome</strong> — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.</p>
+<p><strong>Marcion</strong> (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.</p>
+<p><strong>Martin Luther King Jr.</strong> — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in "Letter from Birmingham Jail" (April 1963). Treated as a confirmed primary source for the verse's reception history.</p>
+<p><strong>Martyn, J. Louis</strong> — Critical scholar; <em>History and Theology in the Fourth Gospel</em> (1968); <em>Galatians</em> (Anchor Bible, 1997). Two-level-drama reconstruction of the <em>aposynagogos</em> — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.</p>
+<p><strong>Mason, Steve</strong> — Critical scholar. Argues "Judeans" is the strongest translation specifically for Josephus.</p>
+<p><strong>Maximus the Confessor</strong> (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).</p>
+<p><strong>Mays, James Luther</strong> — Critical scholar; <em>Amos</em> (OT Library, 1969); <em>Micah</em> (OT Library, 1976).</p>
+<p><strong>Mazar, Amihai</strong> — Critical archaeologist; "modified conventional chronology." Middle position on the scale of David's kingdom.</p>
+<p><strong>McDowell, Sean</strong> — Popular evangelical apologist.</p>
+<p><strong>McDonald, Lee Martin</strong> — <em>The Biblical Canon</em> (2007). Scholarly treatment of canon formation.</p>
+<p><strong>McKnight, Scot</strong> — Evangelical critical scholar; <em>Sermon on the Mount</em> (2013). Cites Qumran Community Rule as context for Matthew 5:43.</p>
+<p><strong>Meeks, Wayne</strong> — Critical scholar; "The Image of the Androgyne" (<em>History of Religions</em>, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.</p>
+<p><strong>Melania the Elder</strong> — Asceticism; monastic patronage; associated with Origenist circles.</p>
+<p><strong>Melania the Younger</strong> — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.</p>
+<p><strong>Mendenhall, George</strong> — Critical scholar; <em>eleph</em>-as-military-unit proposal (1958).</p>
+<p><strong>Merkle, Benjamin L.</strong> — Evangelical complementarian; reads Galatians 3:28 through the Genesis 1:27 echo as unity-in-Christ without erasing functional distinctions.</p>
+<p><strong>Metzger, Bruce</strong> — Critical scholar; <em>The Canon of the New Testament</em> (1987). Wrote the preface to the NRSV/NRSVue.</p>
+<p><strong>Milgrom, Jacob</strong> — Jewish critical scholar; <em>Leviticus</em> (Anchor Bible, 2000). Leviticus 18:22 ban is absolute and unique in the ANE but restricted to Israelite men in the land; lesbianism not prohibited.</p>
+<p><strong>Mineka, Susan</strong> — Psychologist; preparedness model of fear acquisition.</p>
+<p><strong>Monica</strong> — Augustine's mother; known through his account in the <em>Confessions</em>, not through her own surviving writing.</p>
+<p><strong>Montanus</strong> — "New Prophecy" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.</p>
+<p><strong>Moo, Douglas</strong> — Conservative evangelical; <em>Romans</em> (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.</p>
+<p><strong>Moore, A.L.</strong> — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.</p>
+<p><strong>Moore, G.E.</strong> — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.</p>
+<p><strong>Moore, Russell</strong> — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.</p>
+<p><strong>Moreland, J.P.</strong> — Evangelical philosopher; <em>Philosophical Foundations for a Christian Worldview</em> (2003).</p>
+<p><strong>Morris, Thomas V.</strong> — Analytic theologian; <em>The Logic of God Incarnate</em> (1986). "Two minds" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.</p>
+<p><strong>Motyer, Alec</strong> — Conservative evangelical; <em>The Prophecy of Isaiah</em> (IVP, 1993). <em>Sensus plenior</em>/double-fulfillment reading of Isaiah 7–11.</p>
+<p><strong>Mowczko, Marg</strong> — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.</p>
+<p><strong>Munro, Winsome</strong> — Critical scholar; "Romans 13:1–7: Apartheid's Last Biblical Refuge" (<em>JSNT</em>, 1990). Confirms the Dutch Reformed Church used Romans 13 as the "ultimate sanction" for apartheid.</p>
+</section>
+<section id="sec-N"><h2 id="sN">N</h2>
+<p><strong>Neil, Bronwen</strong> — Patristics scholar; <em>Maximus the Confessor and His Companions</em> (OUP, 2002).</p>
+<p><strong>Nestorius</strong> — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label "Nestorian" likely misrepresents both him and the Church of the East.</p>
+<p><strong>Nirenberg, David</strong> — Critical historian; <em>Anti-Judaism: The Western Tradition</em> (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought.</p>
+<p><strong>Nix, William</strong> — Conservative evangelical; <em>A General Introduction to the Bible</em> (1986).</p>
+<p><strong>Noll, Mark A.</strong> — Evangelical historian; <em>The Civil War as a Theological Crisis</em> (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act.</p>
+</section>
+<section id="sec-O"><h2 id="sO">O</h2>
+<p><strong>O'Neill, Tim</strong> — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions.</p>
+<p><strong>Ohman, Arne</strong> — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate.</p>
+<p><strong>Olyan, Saul</strong> — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner.</p>
+<p><strong>Olson, Ken</strong> — Critical scholar. Argued the <em>Testimonium Flavianum</em> is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position.</p>
+<p><strong>Olympias the Deaconess</strong> — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures.</p>
+<p><strong>Oppy, Graham</strong> — Philosopher; atheist/naturalist (Monash); <em>Arguing About Gods</em> (2006). Analytic philosophy of religion from a secular perspective.</p>
+<p><strong>Origen</strong> (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading.</p>
+</section>
+<section id="sec-P"><h2 id="sP">P</h2>
+<p><strong>Page, Frank</strong> — Conservative evangelical; <em>Amos, Obadiah, Jonah</em> (New American Commentary, 1995).</p>
+<p><strong>Parfit, Derek</strong> — Philosopher; <em>On What Matters</em> (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do.</p>
+<p><strong>Parker, Pierson</strong> — Critical scholar (<em>JBL</em>, 1967). Argues Galatians 2 and Acts 15 describe the same meeting.</p>
+<p><strong>Paul, Richard</strong> — <em>Critical Thinking</em> (Pearson), with Elder. Widely used reasoning framework.</p>
+<p><strong>Paul, Shalom M.</strong> — Jewish critical scholar; <em>Amos</em> (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5.</p>
+<p><strong>Paula of Rome</strong> — Worked closely with Jerome; funded and collaborated on his biblical scholarship.</p>
+<p><strong>Pelagius</strong> — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism.</p>
+<p><strong>Perpetua</strong> — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account.</p>
+<p><strong>Persinger, Michael</strong> — Neuroscientist; <em>Neuropsychological Bases of God Beliefs</em> (1987). Temporal lobe stimulation and religious experience.</p>
+<p><strong>Petrie, W.M.F. (Flinders Petrie)</strong> — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an <em>eleph</em>-as-military-unit proposal (1931).</p>
+<p><strong>Philo of Alexandria</strong> (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower.</p>
+<p><strong>Philostorgius</strong> — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands.</p>
+<p><strong>Photius</strong> (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea.</p>
+<p><strong>Pinker, Steven</strong> — Psychologist; <em>The Better Angels of Our Nature</em> (2011). Secular case that human moral progress has tracked a reduction of violence.</p>
+<p><strong>Pinnock, Clark</strong> — Evangelical; argues Paul's eschatology matured rather than changed.</p>
+<p><strong>Piper, John</strong> — Conservative evangelical; co-edited <em>Recovering Biblical Manhood and Womanhood</em> (Crossway, 1991). <span class="flag-tag"><strong>Flag:</strong> His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment.</span></p>
+<p><strong>Plantinga, Alvin</strong> — Reformed epistemologist; belief in God as "properly basic" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the <em>logical</em> problem of evil. The <em>evidential</em> problem of evil survives and is where the live argument now happens.</p>
+<p><strong>Pliny the Younger</strong> — Roman administrator; <em>Letters</em> 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics.</p>
+<p><strong>Polycarp of Smyrna</strong> (2nd century) — Church Father; martyred c. 155.</p>
+<p><strong>Popper, Karl</strong> — Philosopher of science; <em>The Logic of Scientific Discovery</em> (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction.</p>
+<p><strong>Porter, Stanley</strong> — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the <em>general sense</em> of what was said, not license for invention.</p>
+<p><strong>Postell, Seth</strong> — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward.</p>
+<p><strong>Priest, Josiah</strong> — <span class="flag-tag"><strong>Major flag:</strong> He wrote <em>Bible Defence of Slavery</em> and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable.</span></p>
+<p><strong>Proba</strong> (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil.</p>
+</section>
+<section id="sec-R"><h2 id="sR">R</h2>
+<p><strong>Rachels, James</strong> — Philosopher; <em>The Elements of Moral Philosophy</em> (1986).</p>
+<p><strong>Raedts, Peter</strong> — Historian; reassessed Children's Crusade sources — found <em>pueri</em> denotes a social class of impoverished landless peasants, not an age group.</p>
+<p><strong>Rashi (Rabbi Shlomo Yitzchaki)</strong> — Medieval Jewish commentator. Near-term reading of Isaiah 7:14.</p>
+<p><strong>Ratzinger, Joseph / Benedict XVI</strong> — Catholic conservative theologian; challenges the developmental parousia-delay thesis.</p>
+<p><strong>Reinhartz, Adele</strong> — Jewish critical scholar; <em>Cast Out of the Covenant</em> (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends "Jews" as the accurate translation of <em>Ioudaioi</em>; warns "Judeans" erases continuity between ancient and modern Jewish identity.</p>
+<p><strong>Rendtorff, Rolf</strong> — European school; supplementary models for Pentateuchal composition.</p>
+<p><strong>Riley-Smith, Jonathan</strong> — Historian; <em>The Crusades: A History</em> (2005). Apologetic and contextualizing treatment of the Crusades.</p>
+<p><strong>Roberts, Colin H.</strong> — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity.</p>
+<p><strong>Robinson, James M.</strong> — Critical scholar; co-editor of <em>The Critical Edition of Q</em> (2000).</p>
+<p><strong>Robinson, Thomas A.</strong> — <em>The Bauer Thesis Examined</em> (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims.</p>
+<p><strong>Rogerson, John W.</strong> — Critical scholar; recognized the Numbers census figures as not historical (1984).</p>
+<p><strong>Römer, Thomas</strong> — European school; redaction-critical. Studies of the Torah's literary formation.</p>
+<p><strong>Ross, W.D.</strong> — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.</p>
+<p><strong>Rubenstein, Jay</strong> — Critical historian; <em>Armies of Heaven</em> (2011). Critical history of the Crusades.</p>
+<p><strong>Ruether, Rosemary Radford</strong> — Catholic feminist/liberation theologian; <em>Faith and Fratricide: The Theological Roots of Anti-Semitism</em> (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative.</p>
+</section>
+<section id="sec-S"><h2 id="sS">S</h2>
+<p><strong>Sagan, Carl</strong> — Astronomer; secular; <em>The Demon-Haunted World</em> (1995). Nine-tool "baloney detection" checklist. <span class="flag-tag"><strong>Flag:</strong> Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.</span></p>
+<p><strong>Sanders, E.P.</strong> — Critical scholar; <em>Paul and Palestinian Judaism</em> (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.</p>
+<p><strong>Sarah of the Desert (Amma Sarah)</strong> — Desert Mother; one of three named women in the <em>Apophthegmata Patrum</em>.</p>
+<p><strong>Scanlon, T.M.</strong> — Philosopher; <em>What We Owe to Each Other</em> (1998). Contractualism: moral principles are those no one could reasonably reject.</p>
+<p><strong>Schaeffer, Francis</strong> — Evangelical; <em>How Should We Then Live?</em> (1976). Evangelical critique of humanist foundations.</p>
+<p><strong>Schemm, Peter R., Jr.</strong> — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. <span class="flag-tag"><strong>Flag:</strong> Same commitment as Grudem and Piper on gender roles.</span></p>
+<p><strong>Schmid, Konrad</strong> — European school; Pentateuchal composition; "The Neo-Documentarian Manifesto: A Critical Reading" (<em>JBL</em>, 2021).</p>
+<p><strong>Schreiner, Thomas</strong> — Evangelical; Galatians 3:10 and the law; <em>Israel's Law and the Church's Faith</em> (1988).</p>
+<p><strong>Schüssler Fiorenza, Elisabeth</strong> — Feminist critical theologian (Harvard); <em>In Memory of Her</em> (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.</p>
+<p><strong>Secundus of Ptolemais</strong> — Refused to sign the Nicene Creed; exiled with Arius.</p>
+<p><strong>Seifrid, Mark</strong> — Evangelical NPP critic.</p>
+<p><strong>Shafer-Landau, Russ</strong> — Philosopher; <em>Moral Realism: A Defence</em> (2003). Non-naturalist moral realism without God.</p>
+<p><strong>Sheridan, Ruth</strong> — Critical scholar. "Judeans" translation carries its own hermeneutical risks.</p>
+<p><strong>Smith, Billy K.</strong> — Conservative evangelical; <em>Amos, Obadiah, Jonah</em> (New American Commentary, 1995).</p>
+<p><strong>Smith, Gary V.</strong> — Conservative evangelical; <em>Hosea, Amos, Micah</em> (NIV Application Commentary).</p>
+<p><strong>Snapp, Jim</strong> — Internal objections to the <em>eleph</em> proposal: a "squad" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.</p>
+<p><strong>Sobel, Jordan Howard</strong> — Philosopher; <em>Logic and Theism</em> (2004). Analytic philosophy of religion.</p>
+<p><strong>Socrates Scholasticus</strong> — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. <span class="flag-tag"><strong>Flag:</strong> He was a participant in the winning side's tradition, not a modern neutral historian.</span></p>
+<p><strong>Soards, Marion</strong> — Critical scholar; <em>The Speeches in Acts</em> (1994). Classifies the Acts speeches by setting and function.</p>
+<p><strong>Sozomen</strong> — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. <strong>Same flag as Socrates.</strong></p>
+<p><strong>Sprinkle, Preston</strong> — Evangelical; <em>Erasing Hell</em> (2011). Evangelical defense of eternal conscious torment.</p>
+<p><strong>Stackert, Jeffrey</strong> — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.</p>
+<p><strong>Stark, Rodney</strong> — Sociologist; <em>God's Battalions</em> (2009). Defensive-war framing of the Crusades.</p>
+<p><strong>Stone, Mark Preston</strong> — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that "homosexuality" as an orientation category is not what the verse condemns.</p>
+<p><strong>Streeter, B.H.</strong> — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).</p>
+<p><strong>Stringfellow, Thornton</strong> — <span class="flag-tag"><strong>Major flag:</strong> Baptist minister and explicit biblical defender of slavery; <em>A Brief Examination of Scripture Testimony on the Institution of Slavery</em> (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.</span></p>
+<p><strong>Stuhlmacher, Peter</strong> — Lutheran-confessional; <em>Revisiting Paul's Doctrine of Justification</em> (IVP, 2001). Traditional reading against the NPP.</p>
+<p><strong>Stump, Eleonore</strong> — Catholic analytic philosopher; <em>Wandering in Darkness</em>. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.</p>
+<p><strong>Swinburne, Richard</strong> — Analytic/Bayesian philosopher; <em>The Existence of God</em>; <em>Providence and the Problem of Evil</em> (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.</p>
+<p><strong>Symmachus</strong> — Jewish reviser of the Septuagint who switched <em>parthenos</em> to <em>neanis</em> in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.</p>
+<p><strong>Syncletica of Alexandria</strong> — Desert Mother; teachings on temptation, discipline, and prayer.</p>
+</section>
+<section id="sec-T"><h2 id="sT">T</h2>
+<p><strong>Tacitus</strong> — Roman historian; <em>Annals</em> 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight.</p>
+<p><strong>Tannehill, Robert</strong> — Critical scholar. Classifies the Acts speeches alongside Soards.</p>
+<p><strong>Thecla</strong> — Literary figure in the apocryphal <em>Acts of Paul and Thecla</em> (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text "out of love of Paul."</p>
+<p><strong>Theodora (Amma Theodora)</strong> — Desert Mother; one of three named women in the <em>Apophthegmata Patrum</em>.</p>
+<p><strong>Theodore of Mopsuestia</strong> — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius.</p>
+<p><strong>Theodotus of Byzantium</strong> — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way.</p>
+<p><strong>Theodotion</strong> — Jewish reviser of the Septuagint who switched <em>parthenos</em> to <em>neanis</em> in Isaiah 7:14, alongside Symmachus.</p>
+<p><strong>Theognis of Nicaea</strong> — Initially objected to the Nicene Creed's key term <em>homoousios</em> at Nicaea.</p>
+<p><strong>Theonas of Marmarica</strong> — Refused to sign the Nicene Creed; exiled with Arius.</p>
+<p><strong>Thucydides</strong> — Greek historian; <em>History of the Peloponnesian War</em> 1.22.1. States he kept as close as possible to the <em>general sense of what was actually said</em> — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage.</p>
+<p><strong>Tiessen, Terrance</strong> — Evangelical; <em>Who Can Be Saved?</em> (2004). Treatment of salvation and the unevangelized.</p>
+<p><strong>Tomasello, Michael</strong> — Developmental psychologist; <em>A Natural History of Human Morality</em> (2016). Evolutionary and developmental moral psychology.</p>
+<p><strong>Towner, Philip</strong> — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal.</p>
+<p><strong>Trible, Phyllis</strong> — Feminist biblical scholar; <em>Texts of Terror</em> (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails.</p>
+<p><strong>Trobisch, David</strong> — Critical scholar; <em>On the Origin of Christian Scripture</em> (2024). Argues the canonical New Testament reads as a deliberate, centrally edited "second edition" responding to a Marcionite prototype.</p>
+<p><strong>Trueman, Carl</strong> — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016).</p>
+<p><strong>Turek, Frank</strong> — Popular evangelical apologist.</p>
+<p><strong>Turner, H.E.W.</strong> — <em>The Pattern of Christian Truth</em> (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure.</p>
+</section>
+<section id="sec-V"><h2 id="sV">V</h2>
+<p><strong>Voltaire</strong> — Enlightenment critic of church power and superstition. <span class="flag-tag"><strong>Flag:</strong> Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (<em>Synodicon Vetus</em>) and carried it to mass culture.</span></p>
+</section>
+<section id="sec-W"><h2 id="sW">W</h2>
+<p><strong>Walk, Richard</strong> — Psychologist; <em>The Visual Cliff</em> (<em>Scientific American</em>, 1960). See Gibson above.</p>
+<p><strong>Wallace, J. Warner</strong> — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics.</p>
+<p><strong>Walls, Jerry</strong> — Philosopher; <em>Good God: The Theistic Foundations of Morality</em> (2011).</p>
+<p><strong>Walsh, Jerome T.</strong> — Critical scholar (<em>JBL</em>, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one.</p>
+<p><strong>Waltke, Bruce K.</strong> — Conservative evangelical; <em>A Commentary on Micah</em> (Eerdmans, 2007). Micah did not repeal the institution of sacrifice.</p>
+<p><strong>Walton, Douglas</strong> — Philosopher; <em>Begging the Question</em> (1991).</p>
+<p><strong>Ware, Bruce</strong> — Conservative evangelical; Eternal Functional Subordination. <span class="flag-tag"><strong>Flag:</strong> His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds.</span></p>
+<p><strong>Warfield, B.B.</strong> — Reformed; <em>The Inspiration and Authority of the Bible</em> (1948). Classic Reformed defense of self-attesting Scripture.</p>
+<p><strong>Wason, Peter</strong> — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome.</p>
+<p><strong>Watson and Rayner</strong> — Psychologists; "Little Albert" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting.</p>
+<p><strong>Wellhausen, Julius</strong> — Critical scholar; "prophets-versus-priests" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult.</p>
+<p><strong>Wenham, Gordon</strong> — Evangelical critical scholar; <em>Genesis</em> (Word Biblical Commentary, 1987).</p>
+<p><strong>Wenham, John</strong> — Conservative evangelical; <em>eleph</em>-as-military-unit proposals (1967, 1981).</p>
+<p><strong>Westerholm, Stephen</strong> — Evangelical; <em>Perspectives Old and New on Paul</em> (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading.</p>
+<p><strong>Whitford, David M.</strong> — <em>The Curse of Ham in the Early Modern Era</em> (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope.</p>
+<p><strong>Wielenberg, Erik</strong> — Philosopher; <em>Robust Ethics</em> (2014); <em>Value and Virtue in a Godless Universe</em> (2005). Secular moral realism.</p>
+<p><strong>Wildberger, Hans</strong> — Critical scholar; <em>Isaiah 1–12</em> (Fortress, 1991). Defines <em>almah</em> simply as "a young woman until the birth of her first child" — no built-in virginity claim.</p>
+<p><strong>Winter, Bruce</strong> — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.</p>
+<p><strong>Witherington, Ben, III</strong> — Conservative evangelical; <em>The Acts of the Apostles</em> (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius.</p>
+<p><strong>Wood, Bryant</strong> — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised.</p>
+<p><strong>Wright, N.T.</strong> — Anglican historian; <em>The Resurrection of the Son of God</em> (2003); <em>The Climax of the Covenant</em> (1992); <em>Galatians</em> (2021); <em>Paul and the Faithfulness of God</em> (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing.</p>
+</section>
+<section id="sec-Y"><h2 id="sY">Y</h2>
+<p><strong>Yoder, John Howard</strong> — Pacifist/Anabaptist ethicist; <em>The Politics of Jesus</em> (Eerdmans, 1972/1994). Key philological point: Paul's verb <em>hypotassō</em> ("subordinate") is not the Greek word for obedience (<em>hypakouō</em>) — subordination is compatible with refusal, obedience is not. <span class="flag-tag"><strong>Important flag:</strong> Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior.</span></p>
+<p><strong>Young, Frances</strong> — Critical scholar; <em>Biblical Exegesis and the Formation of Christian Culture</em> (Cambridge, 1997). Argues the "Alexandria equals allegory, Antioch equals literal history" textbook binary is overdrawn.</p>
+</section>
+<section id="sec-Z"><h2 id="sZ">Z</h2>
+<p><strong>Zenger, Erich</strong> — Critical Catholic scholar; <em>A God of Vengeance?</em> (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators.</p>
+<p><strong>Zuckerman, Phil</strong> — Sociologist; secular; <em>Society Without God</em> (2008). Secular people exhibit the same wellbeing outcomes as religious people.</p>
+<p><strong>Zwingli, Ulrich</strong> — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin.</p>
+</section>
+</main>
+<button id="top" aria-label="Back to top">↑</button>
+<script>
+const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
+
+/* progress */
+addEventListener('scroll',()=>{
+  const h=document.documentElement, p=h.scrollTop/(h.scrollHeight-h.clientHeight)*100;
+  $('#progress i').style.width=p+'%';
+  $('#top').classList.toggle('show',h.scrollTop>600);
+},{passive:true});
+
+/* scrollspy */
+const heads=$$('h2[id]');
+const spy=new IntersectionObserver(es=>{
+  es.forEach(e=>{if(!e.isIntersecting)return;
+    const id=e.target.id;
+    $$('#toc a').forEach(a=>a.classList.toggle('here',a.getAttribute('href')==='#'+id));
+    const l=$('#toc a.here'); if(l){$('#here').textContent=l.textContent;
+      const r=l.getBoundingClientRect(),c=$('#toc').getBoundingClientRect();
+      if(r.top<c.top||r.bottom>c.bottom)l.scrollIntoView({block:'center'});}
+  });
+},{rootMargin:'-70px 0px -72% 0px'});
+heads.forEach(h=>spy.observe(h));
+
+/* search */
+const sec=$$('main section'), tocA=$$('#toc a');
+$('#search').addEventListener('input',e=>{
+  const q=e.target.value.trim().toLowerCase();
+  if(!q){sec.forEach(s=>s.classList.remove('dim'));tocA.forEach(a=>a.classList.remove('dim'));
+    $('#nores').style.display='none';return;}
+  let hits=0;
+  sec.forEach(s=>{const m=s.textContent.toLowerCase().includes(q);
+    s.classList.toggle('dim',!m); if(m)hits++;});
+  tocA.forEach(a=>{const t=$(a.getAttribute('href'));
+    const s=t&&t.closest('section'); a.classList.toggle('dim',!(s&&!s.classList.contains('dim')));});
+  $('#nores').style.display=hits?'none':'block';
+});
+
+$('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
+$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+addEventListener('keydown',e=>{
+  if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
+  if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
+});
+</script></body></html>
