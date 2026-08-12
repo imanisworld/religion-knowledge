@@ -7788,9 +7788,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_534326c4b2ce28e0a2a8",
-    "text": "What this establishes, independent of any Acts comparison: the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
-    "raw_text": "**What this establishes, independent of any Acts comparison:** the picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict, in the words of one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
+    "id": "rk_78fa5d2e7ac07d8192cf",
+    "text": "The picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict — this is Paul's own testimony, one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
+    "raw_text": "The picture of unified apostolic leadership Acts presents is not how it looked from inside the conflict — this is Paul's own testimony, one of the two men present at the confrontation. Paul's testimony shows Christianity's founding leadership in open, public dispute over what the movement required of a Gentile convert, with Paul's position and authority under active challenge.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -7820,9 +7820,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a66014e07fb24e309d8a",
-    "text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be accursed (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would go the whole way and castrate themselves — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.",
-    "raw_text": "The circumcision/law controversy in Galatians is not a minor ritual dispute. Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.",
+    "id": "rk_1d62761aad811bc3cef5",
+    "text": "Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be accursed (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would go the whole way and castrate themselves — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.",
+    "raw_text": "Paul states the stakes in the most extreme terms available to him: anyone preaching a different gospel — even an angel from heaven — is to be **accursed** (1:8–9, repeated for emphasis). And in 5:12, about those pushing circumcision on his Gentile converts, Paul writes that he wishes they would **go the whole way and castrate themselves** — the Greek is unambiguous and most modern translations no longer soften it. This is Paul at his angriest, writing to a congregation he believes is being taken from him — not measured theological prose.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,

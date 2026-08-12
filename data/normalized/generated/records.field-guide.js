@@ -15729,9 +15729,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5d5467ffcf5f5e995a45",
-    "text": "Reading and conversation note: Hatred is not a biblical sin category. It is a bounded prohibition — against hating members of one's own group — sitting alongside commanded hatred of evil, of God's enemies, and of specific rejected persons, with God explicitly modeled as a hater in multiple psalms. \"The Bible says hatred is a sin\" is a selection presented as a summary: true for one scope word (brother, neighbor), false the moment the target changes.",
-    "raw_text": "**Reading and conversation note: **Hatred is not a biblical sin category. It is a bounded prohibition — against hating members of one's own group — sitting alongside commanded hatred of evil, of God's enemies, and of specific rejected persons, with God explicitly modeled as a hater in multiple psalms. \"The Bible says hatred is a sin\" is a selection presented as a summary: true for one scope word (*brother*, *neighbor*), false the moment the target changes.",
+    "id": "rk_6d5cff26de7da017b092",
+    "text": "Reading and conversation note: Hatred is a bounded prohibition in the biblical text — against hating members of one's own group — sitting alongside commanded hatred of evil, of God's enemies, and of specific rejected persons, with God explicitly modeled as a hater in multiple psalms. \"The Bible says hatred is a sin\" is a selection presented as a summary: true for one scope word (brother, neighbor), false the moment the target changes.",
+    "raw_text": "**Reading and conversation note: **Hatred is a bounded prohibition in the biblical text — against hating members of one's own group — sitting alongside commanded hatred of evil, of God's enemies, and of specific rejected persons, with God explicitly modeled as a hater in multiple psalms. \"The Bible says hatred is a sin\" is a selection presented as a summary: true for one scope word (*brother*, *neighbor*), false the moment the target changes.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22031,9 +22031,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cc94a699fb029bdfc293",
-    "text": "This is not a peripheral issue. The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
-    "raw_text": "This is not a peripheral issue. The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
+    "id": "rk_37dfb23a5ff014bd5053",
+    "text": "The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
+    "raw_text": "The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22216,9 +22216,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9b12d283b9d02fe52b50",
-    "text": "•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. This is not an inferred asymmetry — it is a stated monetary differential, a person priced by sex.",
-    "raw_text": "•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. This is not an inferred asymmetry — it is a stated monetary differential, a person priced by sex.",
+    "id": "rk_e7dd1703ca829221bf83",
+    "text": "•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. The valuation is explicit — a stated monetary differential, a person priced by sex.",
+    "raw_text": "•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. The valuation is explicit — a stated monetary differential, a person priced by sex.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22340,9 +22340,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_43ea58283f6eaeb7c00e",
-    "text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.",
-    "raw_text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. This is a theology that requires women's bodies as the site of punishment, not metaphor that happens to involve women.",
+    "id": "rk_afb7c5d1636def48309b",
+    "text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. The theology requires women's bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.",
+    "raw_text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. The theology requires women's bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22836,9 +22836,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ebd3116b3ba78f052e09",
-    "text": "The analogy that carries the weight: Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. This is not a minor rhetorical flourish; it is the argument's load-bearing structure, usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
-    "raw_text": "**The analogy that carries the weight: **Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. This is not a minor rhetorical flourish; it is the argument's load-bearing structure, usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
+    "id": "rk_38ea41fc2151fd2df87b",
+    "text": "The analogy that carries the weight: Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. The Trinity analogy is the argument's load-bearing structure — not a supporting illustration — usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
+    "raw_text": "**The analogy that carries the weight: **Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. The Trinity analogy is the argument's load-bearing structure — not a supporting illustration — usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22867,9 +22867,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cd2fbfa8bbdd55f8740c",
-    "text": "Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles, The Trinity & Subordinationism (InterVarsity Press, 2002), Jesus and the Father (Zondervan, 2006), and The Eternal Generation of the Son (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (in the incarnation) not eternal. This is not a critical-scholarship-versus-evangelical fight — it broke out inside evangelicalism: in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
-    "raw_text": "**Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles**, *The Trinity & Subordinationism* (InterVarsity Press, 2002), *Jesus and the Father* (Zondervan, 2006), and *The Eternal Generation of the Son* (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (in the incarnation) not eternal. This is not a critical-scholarship-versus-evangelical fight — it broke out **inside** evangelicalism: in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
+    "id": "rk_d95af017fcd55c8bcf72",
+    "text": "Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles, The Trinity & Subordinationism (InterVarsity Press, 2002), Jesus and the Father (Zondervan, 2006), and The Eternal Generation of the Son (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (in the incarnation) not eternal. The dispute broke out inside evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
+    "raw_text": "**Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles**, *The Trinity & Subordinationism* (InterVarsity Press, 2002), *Jesus and the Father* (Zondervan, 2006), and *The Eternal Generation of the Son* (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (in the incarnation) not eternal. The dispute broke out **inside** evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23270,9 +23270,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_df5ba70894addd40f372",
-    "text": "The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. The pattern across them is not a collection of unfortunate passages sitting inside an otherwise egalitarian system. The asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex.",
-    "raw_text": "⟨YOURS⟩ The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. The pattern across them is not a collection of unfortunate passages sitting inside an otherwise egalitarian system. The asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex.",
+    "id": "rk_c080e58e635a04172bb7",
+    "text": "The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. Taken together, the asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex, not a collection of unfortunate passages in an otherwise egalitarian system.",
+    "raw_text": "⟨YOURS⟩ The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. Taken together, the asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex, not a collection of unfortunate passages in an otherwise egalitarian system.",
     "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
     "speaker": "user",
@@ -23301,9 +23301,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_510741f7d5ccbf40cb0c",
-    "text": "The covenant sign. The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. This is not a peripheral ritual. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. Making it male-only is not incidental. It defines the primary parties at the founding moment.",
-    "raw_text": "**The covenant sign.** The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. This is not a peripheral ritual. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. Making it male-only is not incidental. It defines the primary parties at the founding moment.",
+    "id": "rk_531d46abee70e028196c",
+    "text": "The covenant sign. The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. The mark is male-only. It defines the primary parties at the founding moment.",
+    "raw_text": "**The covenant sign.** The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. The mark is male-only. It defines the primary parties at the founding moment.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23363,9 +23363,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_412bc648994c3fb3c2d8",
-    "text": "The divine marriage metaphor. God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. This is not a metaphor that happens to use gendered language. Its logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. It cannot do that without inverting the social structure that makes the metaphor legible. The violence in Ezekiel 16, Ezekiel 23, and Hosea is not incidental to the theology. It is the theology. God's fidelity is proven by his power to punish. That framing only works if the wife's subordination is assumed.",
-    "raw_text": "**The divine marriage metaphor.** God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. This is not a metaphor that happens to use gendered language. Its logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. It cannot do that without inverting the social structure that makes the metaphor legible. The violence in Ezekiel 16, Ezekiel 23, and Hosea is not incidental to the theology. It is the theology. God's fidelity is proven by his power to punish. That framing only works if the wife's subordination is assumed.",
+    "id": "rk_47c8ed7dacc6c9431fb1",
+    "text": "The divine marriage metaphor. God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. The metaphor's logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate — the gendered roles are structural, not decorative. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. The gendered structure is what makes the metaphor legible; remove it and the comparison collapses. The violence in Ezekiel 16, Ezekiel 23, and Hosea is structural to the theology. God's fidelity is proven by the power to punish. That framing requires the wife's subordination as a given.",
+    "raw_text": "**The divine marriage metaphor.** God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. The metaphor's logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate — the gendered roles are structural, not decorative. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. The gendered structure is what makes the metaphor legible; remove it and the comparison collapses. The violence in Ezekiel 16, Ezekiel 23, and Hosea is structural to the theology. God's fidelity is proven by the power to punish. That framing requires the wife's subordination as a given.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23394,9 +23394,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b82de079c4ad8cbcda38",
-    "text": "What makes it load-bearing. The legal asymmetries in §15.1, the prophetic material in §15.2, and the NT commands in §15.3 are not passages that could be removed without disrupting the system. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.",
-    "raw_text": "**What makes it load-bearing.** The legal asymmetries in §15.1, the prophetic material in §15.2, and the NT commands in §15.3 are not passages that could be removed without disrupting the system. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.",
+    "id": "rk_9e10912acfc02b5b5979",
+    "text": "What makes it load-bearing. The legal asymmetries in §15.1, the prophetic material in §15.2, and the NT commands in §15.3 are load-bearing. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.",
+    "raw_text": "**What makes it load-bearing.** The legal asymmetries in §15.1, the prophetic material in §15.2, and the NT commands in §15.3 are load-bearing. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23425,9 +23425,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bfebbbffac6fbdd9d63e",
-    "text": "One direction only. The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That uniformity is not what accidents look like.",
-    "raw_text": "**One direction only.** The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That uniformity is not what accidents look like.",
+    "id": "rk_610294e6180ba283a15d",
+    "text": "One direction only. The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That is what a structural feature looks like, not a collection of accidents.",
+    "raw_text": "**One direction only.** The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That is what a structural feature looks like, not a collection of accidents.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
