@@ -917,6 +917,46 @@ N.T. Wright, *The Climax of the Covenant* (Fortress, 1992) [MODERATE EVANGELICAL
 
 **Reference: **Mark 13:24-30; Matthew 16:27-28; compare John 5:24 for the theological revision.
 
+#### ⚑ AUDIT — Mark 13 / Matthew 16: Preterist Counter-Reading and the Parousia-Delay Thesis
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "Specific deadlines. Both passed without fulfillment... The early church expected the end imminently. John's Gospel (written later) shifts to a present-mystical framework precisely because these deadlines failed... compare John 5:24 for the theological revision." (§12.4)
+
+**STATUS: Overstated** — the entry states one interpretive position (the apocalyptic-failure reading) as settled fact, omits the principal scholarly alternative (preterist fulfillment in 70 CE), misidentifies a contested mid-twentieth-century thesis as the explanation for John's eschatology, and cherry-picks John 5:24 while omitting John 5:28-29 immediately following.
+
+**AUDIT**
+
+**On "both passed without fulfillment" — the entry presents one side of a live scholarly debate.**
+
+**Albert Schweitzer**, *The Quest of the Historical Jesus* (German 1906; English trans. Montgomery, A. & C. Black, 1910; expanded trans. Bowden, Fortress Press, 2001) [CRITICAL], argued Jesus held a thoroughgoing apocalyptic expectation that did not come to pass. **Bart Ehrman**, *Jesus: Apocalyptic Prophet of the New Millennium* (Oxford University Press, 1999) [CRITICAL], updates the conclusion: Mark 13:30's "this generation" means the generation alive when Jesus spoke, and the cosmic events he predicts (sun and moon darkened, Son of Man coming in clouds) did not occur within that lifetime. On this reading, the entry is correct.
+
+However: **N.T. Wright**, *Jesus and the Victory of God* (SPCK/Fortress Press, 1996) [MODERATE CRITICAL], offers a full counter-reading. Wright argues the cosmic imagery in Mark 13 (sun darkened, moon not giving its light, stars falling) is conventional apocalyptic idiom — the same literary language used in Isaiah 13:10 and 34:4 to describe the fall of Babylon and Edom, events no one reads as involving literal astronomical events. On this reading the imagery describes the catastrophic collapse of Jerusalem's world in 70 CE. "This generation" means what it says: the people living at the time of speaking lived to see it, through the Roman siege, the burning of the temple, and the sack of Jerusalem. Wright also reads the Daniel 7 enthronement language ("Son of Man coming on the clouds") as movement earth-to-heaven — vindication before the Ancient of Days rather than descent to earth — so Jesus predicted his own vindication through Israel's national catastrophe, and it happened on schedule.
+
+**R.T. France**, *The Gospel of Matthew* (New International Commentary on the New Testament, Eerdmans, 2007) and *The Gospel of Mark* (New International Greek Testament Commentary, Eerdmans, 2002) [CONSERVATIVE-EVANGELICAL], takes a similar view for Mark 13; he reads Matthew 16:28 ("some standing here who will not taste death until they see the Son of Man coming in his kingdom") as fulfilled at the Transfiguration six days later in Matthew 17. Wright and France are among the most cited New Testament scholars of the past three decades — this is not a fringe position.
+
+**G.B. Caird**, *The Language and Imagery of the Bible* (Duckworth, 1980) [CRITICAL], makes the methodological point: first-century Jewish readers understood "sun and moon darkened" as political catastrophe language; the genre convention was already well established in the prophets. Reading it as literal astronomy imports a modern hermeneutic foreign to the form.
+
+The entry does not mention any of these positions. Treating "both passed without fulfillment" as established fact when France, Wright, and Caird represent a serious and populated scholarly alternative is an overstated conclusion.
+
+**On John's Gospel and the delay of the parousia — CLAUDE.md flags this explicitly as a pattern of error.**
+
+The entry states John shifts to a present-mystical framework "precisely because these deadlines failed." This is the **delay-of-the-parousia thesis**, originating with **Rudolf Bultmann**, *Theology of the New Testament* (1948–53; English trans. Scribner's, 1951–55) [CRITICAL], and **Hans Conzelmann**, *The Theology of St. Luke* (1954; English trans. Fortress Press, 1961) [CRITICAL] — the hypothesis that early Christianity progressively reframed an imminent expectation as it receded.
+
+CLAUDE.md under "Things that have gone wrong before": *"The delay-of-the-parousia thesis was stated as settled. It is a mid-twentieth-century framework that has been substantially dismantled."*
+
+**Richard Bauckham**, "The Delay of the Parousia," *Tyndale Bulletin* 31 (1980): 3–36 [MODERATE CRITICAL], directly challenges the thesis: the New Testament documents do not show the anxiety about delay that Bultmann and Conzelmann treat as their driving force, and the texts taken as evidence of "delay consciousness" do not require that explanation. Bauckham argues the framework is a modern scholarly projection, not a pattern embedded in the texts themselves.
+
+More directly: John's Gospel does not eliminate futurist eschatology. John 5:28-29 — the very next verses after John 5:24 — read: "the hour is coming in which all who are in the tombs will hear his voice and will come out — those who have done good, to the resurrection of life, and those who have done evil, to the resurrection of condemnation." John 6:39-40, 6:44, and 11:24 all contain explicit futurist eschatology ("raise up on the last day"). The thesis that John represents a purely present-mystical revision requires treating these as later redactional additions — a move Bultmann made, but one rejected by most subsequent Johannine scholarship. **C.H. Dodd**, *The Interpretation of the Fourth Gospel* (Cambridge University Press, 1953) [CRITICAL], whose realized-eschatology reading is often cited for John's "present" emphasis, still recognized the futurist passages as part of the text and did not excise them.
+
+**On "compare John 5:24 for the theological revision."** John 5:24 is a present-tense formulation ("has crossed from death to life"). Citing it while omitting 5:28-29 — part of the same discourse, running in the opposite direction — is selective reading. The cross-reference implies John revised the eschatology away from futurity; the next sentence in John's own text contradicts that revision.
+
+**CORRECTED:** *Mark 13:30 and Matthew 16:28 are genuine temporal claims, and the texts should be read that way rather than harmonized away. What is overstated: (a) "Both passed without fulfillment" names only the Schweitzer-Ehrman position; France and Wright argue the events did happen — Jerusalem's destruction in 70 CE satisfies the Mark 13 timeline on a preterist reading. This is a live scholarly dispute, not a settled conclusion. (b) The claim that John's present-mystical framework was a response to deadline failure repeats the Bultmann-Conzelmann delay-of-the-parousia thesis, which Bauckham challenges directly and which John 5:28-29, 6:39-40, and 11:24 directly complicate. (c) John 5:24 is not a clean cross-reference for "theological revision" when 5:28-29 immediately follows with explicit future resurrection language.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The Schweitzer-Ehrman reading dominates popular-critical discourse because it is clean and damaging to a naive inerrancy claim. The preterist counter (France, Wright) is less often encountered outside specialist scholarship and requires knowing that apocalyptic cosmic imagery is a genre convention, not literal astronomy — a point that feels like apologetics when it is actually form criticism. The John 5:24 cross-reference worked because realized eschatology is genuinely present in John; the problem is using a single verse to imply a pattern that the surrounding verses contradict. The delay-of-the-parousia thesis sounded authoritative because it has a German pedigree (Bultmann) and a tidy explanatory arc, and the flag on it in CLAUDE.md was written after that arc was already recorded here.
+
+---
+
 ## 12.5 Romans 13:1
 
 **Commonly used for: **Christian submission to government authority — "governing authorities are God-ordained."
