@@ -1383,6 +1383,8 @@ This is not a peripheral issue. The subordination, silencing, and sexualization 
 
 •  Numbers 31:17-18 — after defeating the Midianites, Moses commands the killing of all males and all women who are not virgins. The virgin girls are kept and distributed among the soldiers.
 
+•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. This is not an inferred asymmetry — it is a stated monetary differential, a person priced by sex.
+
 ## 15.2 The Prophets — Sexual Violence as Theology
 
 This is already documented in the Study Notes but belongs here for completeness.
@@ -1402,6 +1404,8 @@ This is already documented in the Study Notes but belongs here for completeness.
 •  Ephesians 5:22-24 — "Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church." Also disputed letter. The headship model makes marital hierarchy a theological principle, not a cultural accommodation.
 
 •  1 Corinthians 11:7-9 — "man is the image and glory of God; but woman is the glory of man... woman was created for man." Not disputed. Undisputed Paul.
+
+•  1 Timothy 2:15 — "she will be saved through childbearing — if they continue in faith and love and holiness, with self-control" (σωθήσεται διὰ τῆς τεκνογονίας). Sits directly after the teaching prohibition and the Eve-was-deceived grounding (2:11-14) — salvation language tied to a domestic role. Four real readings exist, none settled: (1) a literal/works-adjacent reading — theologically awkward against Pauline grace theology elsewhere, part of why critical scholarship reads the Pastorals as post-Pauline in the first place; (2) a Genesis 3:16 curse-reversal reading — childbirth pain as curse, endurance through it as redemptive participation (Philip Towner's NICNT commentary takes this line) [CONSERVATIVE-EVANGELICAL]; (3) a definite-article reading — "the childbearing" pointing to a specific birth, Christ's — grammatically weak, a minority position; (4) a social-control reading — restricting women to a domestic sphere as a corrective against women's visible leadership in earlier, undisputed Pauline communities (Romans 16 names women deacons and an apostle, Junia) [CRITICAL — Elisabeth Schüssler Fiorenza, James D.G. Dunn].
 
 ## 15.4 The Theological Tension
 
@@ -1423,6 +1427,24 @@ This is already documented in the Study Notes but belongs here for completeness.
 
 **The problem with Mary Magdalene: **She is first at the tomb in the resurrection accounts. But the same tradition excluded her testimony: Luke 24:11 — the disciples heard the women's account "but they did not believe them, because their words seemed to them like nonsense." The founding testimony of the resurrection — given by women — was dismissed as nonsense by the male disciples. That is baked into the text.
 
+## 15.6 The Strongest Complementarian Case
+
+The rest of this section states the critical position without running this corpus's own method on it: name the strongest case for every side, including the traditional one. This is that case.
+
+**The core move: **role distinction is not value distinction. **John Piper and Wayne Grudem, eds., *Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism* (Crossway, 1991)** — the foundational text, produced through the Council on Biblical Manhood and Womanhood (CBMW, est. 1987) — argues men and women hold full ontological equality (both made in God's image, Genesis 1:27) alongside functional hierarchy in marriage and church leadership. **Andreas Köstenberger and David W. Jones, *God, Marriage, and Family: Rebuilding the Biblical Foundation* (Crossway, 2004)** extends the same framework across the whole of family ethics.
+
+**The analogy that carries the weight: **Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for "equal in worth, differentiated in function" being a coherent theological category rather than a contradiction. This is not a minor rhetorical flourish; it is the argument's load-bearing structure, usually called "eternal functional subordination" (EFS) or "eternal relations of authority and submission."
+
+**Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles**, *The Trinity & Subordinationism* (InterVarsity Press, 2002), *Jesus and the Father* (Zondervan, 2006), and *The Eternal Generation of the Son* (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (in the incarnation) not eternal. This is not a critical-scholarship-versus-evangelical fight — it broke out **inside** evangelicalism: in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's "eternal generation" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.
+
+**On Galatians 3:28: **complementarians read "no longer male and female... one in Christ" as soteriological equality — equal standing before God, equal access to salvation — not functional equality in marriage or church office. Paul, on this reading, is answering "who is saved," not "who leads." On 1 Corinthians 11:7-9: read as a creation-order argument (Adam formed first) establishing a structure of headship, comparable to primogeniture establishing inheritance order — a functional distinction, not a claim about lesser worth.
+
+**Where even sympathetic scholarship doesn't fully defend the position: **the Old Testament property and valuation texts (Leviticus 27's shekel pricing, Numbers 5's ordeal) are the hardest case for "equal worth, different roles" — a stated price differential is not role language, and no complementarian treatment of these specific texts as culturally-bound civil law rather than the moral core of scripture was found and verified for this entry; that gap is noted here rather than papered over with an uncited attribution.
+
+**The internal critique — an evangelical historian, not an outside critic: Beth Allison Barr**, *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth* (Brazos Press, 2021) [Barr teaches at Baylor and writes from inside the tradition, not against it] — argues complementarianism already sorts biblical instructions into "cultural" and "timeless" categories (head coverings and holy kisses treated as cultural; headship and teaching restrictions treated as timeless) without acknowledging that sorting as an interpretive choice rather than something the text itself specifies. This is the same "who decided, and by what standard" tension already named at §15.4, now sourced to a critic writing from within complementarianism's own tradition rather than outside it.
+
+**Conclusion: **complementarianism is a serious, internally rigorous position with real defenders and real internal critics — not fringe apologetics. It has a substantive answer to the role texts (1 Corinthians 11, 1 Timothy 2): creation order establishes function, not worth. It does not have an equally developed answer to the property and valuation texts (Leviticus 27, Numbers 5) — those texts price and control bodies rather than assign roles, and "different roles, equal worth" does not obviously metabolize a stated shekel differential. The Trinity analogy meant to make the whole framework theologically coherent is itself contested by conservative Trinitarian scholars on grounds that have nothing to do with gender.
+
 **Sources — critical:**
 
 •  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.
@@ -1435,7 +1457,9 @@ This is already documented in the Study Notes but belongs here for completeness.
 
 •  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.
 
-•  Köstenberger, Andreas. God, Marriage, and Family (2004).
+•  Köstenberger, Andreas J. & Jones, David W. God, Marriage, and Family: Rebuilding the Biblical Foundation (2004).
+
+•  Giles, Kevin. The Trinity & Subordinationism (2002); Jesus and the Father (2006) — Trinitarian critique of the Trinity analogy complementarianism relies on, from inside evangelical Trinitarian theology.
 
 # 16. INCEST IN THE BIBLICAL NARRATIVE
 
