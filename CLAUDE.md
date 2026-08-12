@@ -182,6 +182,21 @@ Dense and factual. No rhetorical scaffolding, no walking the reader up to conclu
 
 ---
 
+## Note on mobile responsiveness (added 12 Aug 2026)
+
+The eight `*.html` reader files had a mobile breakpoint at `max-width:1080px` that collapsed the sidebar correctly, but several CSS rules inside the content caused horizontal overflow on phone screens. Fixed in PR #43 (merged 12 Aug 2026), applied uniformly to all eight files:
+
+- `.camp{white-space:nowrap}` → `white-space:normal` at mobile breakpoint. Some camp labels are paragraph-length strings; nowrap forced horizontal scroll.
+- `.related a{white-space:nowrap}` → `white-space:normal` at mobile breakpoint.
+- `.audit .atitle{min-width:14rem}` → `min-width:0` at mobile breakpoint.
+- `td:first-child{white-space:nowrap}` → `white-space:normal` at mobile breakpoint.
+- `#here` (section-name chip in the sticky toolbar) hidden at mobile breakpoint — was up to `max-width:20rem` and pushed the toolbar past screen edge.
+- Added `#overlay` backdrop (semi-transparent, z-index:39) that appears behind the sidebar when open; tapping it closes the sidebar. JS updated to toggle overlay on menu button, dismiss it on overlay click, and clear it on TOC link click.
+
+**Important for anyone regenerating the HTML:** if `build.py` is ever wired up and run, it will overwrite these files and lose the mobile fixes. The fixes need to be baked into the build pipeline's CSS template before Task 0 is completed.
+
+---
+
 ## Note on the current in-repo pipeline (added 7 Aug 2026)
 
 The `build.py` / `glossary_data.py` / pandoc pipeline described above is **not yet committed to this repo** (Task 0 is still open). The eight `*.html` readers currently in the repo (`master-notes.html`, `field-guide.html`, `glossary.html`, `history.html`, `sources.html`, `other-side.html`, `translations.html`, `method-reference.html`) were produced by that pipeline elsewhere and checked in as static files, or (for `method-reference.html`, added 10 Aug 2026) hand-authored directly against the same conventions in the absence of that pipeline; nothing in this repo's CI regenerates or validates their content against the `.md` sources — `scripts/import/validate-corpus.mjs` only checks that each canonical `.md` file has a correspondingly named `.html` file, not that its content matches.
