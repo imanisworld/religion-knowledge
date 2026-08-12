@@ -1014,6 +1014,50 @@ More directly: John's Gospel does not eliminate futurist eschatology. John 5:28-
 
 **Reference: **Galatians 3:26-29; Colossians 3:18-25; Ephesians 6:1-9.
 
+#### ⚑ AUDIT — Galatians 3:28 / Household Codes: Authorship Overstated for Colossians; "Real Paul" Framing Complicated by 1 Corinthians 7
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "Galatians is undisputed Paul. Colossians and Ephesians are disputed — most critical scholars classify them as deutero-Pauline (written after Paul's death in Paul's name). This makes the contradiction starker: the real Paul vs. someone writing in Paul's name." (§12.6)
+
+**STATUS: Holds on the structural contradiction and reception history. Overstated on two specific points: (1) Colossians authorship — the field is approximately evenly divided, not a critical majority; (2) the "real Paul vs. pseudonymous" framing — the undisputed Paul in 1 Corinthians 7 and Philemon also does not advocate abolition, so the contradiction pre-dates the pseudonymous letters. Missing: the strongest traditional counter on Galatians 3:28's scope.**
+
+**AUDIT**
+
+**On "most critical scholars classify them as deutero-Pauline" — accurate for Ephesians, overstated for Colossians.**
+
+The entry treats the two letters identically. They are not.
+
+*Ephesians:* **Andrew T. Lincoln** [CRITICAL], *Ephesians* (Word Biblical Commentary 42, Word Books, 1990), argues deutero-Pauline on the combined weight of vocabulary, style, theological development, and heavy literary dependence on Colossians as a source. Lincoln's position represents strong critical consensus: a substantial majority of critical scholars do classify Ephesians as post-Pauline. "Most critical scholars" is accurate here.
+
+*Colossians:* The field is approximately evenly divided. Multiple survey sources place the split near 50/50. **James D.G. Dunn** [CRITICAL], *The Epistles to the Colossians and to Philemon* (New International Greek Testament Commentary, Eerdmans, 1996) — the flagship critical commentary — holds a middle position: Timothy composed the letter under Paul's direction during Paul's lifetime, so the distinction between "Pauline" and "post-Pauline" "becomes relatively blurred." Dunn is cited as a critical scholar but he does not simply accept post-mortem pseudonymity. **Peter O'Brien** [CONSERVATIVE-EVANGELICAL], *Colossians, Philemon* (Word Biblical Commentary 44, Word Books, 1982), defends straightforward Pauline authorship against the stylistic and theological objections. **Michael Wolter** [CRITICAL] accepts only the undisputed seven and classes Colossians with the deutero-Paulines. **Nijay Gupta**, "What is in a Name? The Hermeneutics of Authorship Analysis Concerning Colossians," *Currents in Biblical Research* 11.3 (SAGE, 2013), frames the split as genuinely unresolved. The entry needs to distinguish the two letters: Ephesians' authorship is a majority-critical-consensus question; Colossians' is a genuine scholarly dispute.
+
+**On "the real Paul vs. someone writing in Paul's name" — the undisputed Paul is not unambiguously on the abolitionist side.**
+
+The framing implies the historical Paul would have opposed the slave codes. The undisputed letters do not clearly support this. **1 Corinthians 7:20-22** — "Each person should remain in the condition in which they were called. Were you a slave when called? Do not be concerned about it" — is undisputed Pauline text. The following clause (*mallon chrēsai*) is genuinely ambiguous: the ESV and **Gordon Fee** [CRITICAL], *The First Epistle to the Corinthians* (New International Commentary on the New Testament, Eerdmans, 1987), read it as "avail yourself of the opportunity for freedom" — permission to seek freedom. The NRSV renders it as "make use of your present condition now more than ever" — the opposite instruction. Both translations are philologically defensible. The chapter's primary frame is "remain in your calling," whatever the parenthetical means.
+
+**Philemon** (undisputed Paul) returns the escaped slave Onesimus to his master Philemon without issuing a command of manumission. **N.T. Wright** [MODERATE CRITICAL], *Colossians and Philemon* (Tyndale New Testament Commentaries, IVP, 1986), argues Paul redefines the relationship as "no longer a slave, better than a slave, a brother" — an implicit subversion — while never commanding what Philemon must do with legal title. **John Knox** [CRITICAL], *Philemon Among the Letters of Paul* (Abingdon, 1959), reads an implicit manumission request encoded in the letter's rhetoric. **F.F. Bruce** [CONSERVATIVE-EVANGELICAL], *The Epistles to the Colossians, to Philemon, and to the Ephesians* (New International Commentary on the New Testament, Eerdmans, 1984), concludes the letter amounts to an implicit demand for release. The scholarly divide over whether a manumission request is embedded — and Paul's silence about commanding it — complicates the "real Paul is the egalitarian" reading.
+
+The structural contradiction between Galatians 3:28 and the slave codes is real. But it exists within the Pauline corpus broadly, not only between the undisputed letters and the pseudonymous ones.
+
+**The household codes' form is Greco-Roman, not Pauline innovation.**
+
+**David L. Balch** [CRITICAL], "Neopythagorean Moralists and the New Testament Household Codes," *Aufstieg und Niedergang der römischen Welt* II.26.1 (De Gruyter, 1992), pp. 380–411, establishes that Colossians and Ephesians adapt Aristotle's household management schema (*Politics* I: the three pairs husband/wife, father/children, master/slave) as a framework for Christian moral instruction. The *Haustafeln* (household codes) are not Pauline theological deductions — they are adoptions of a well-established Greco-Roman topos. This matters for how the "contradiction" is interpreted: the slave codes may reflect cultural accommodation to prevailing social structure rather than a positive theological claim about slavery's legitimacy.
+
+**The strongest traditional counter on Galatians 3:28's scope — entirely absent from the entry.**
+
+**Thomas R. Schreiner** [CONSERVATIVE-EVANGELICAL], *Galatians* (Zondervan Exegetical Commentary on the New Testament, Zondervan, 2010), argues Galatians 3:28 addresses soteriological standing before God — oneness in Christ with respect to salvation — not a blueprint for dissolving functional social or ecclesiastical distinctions. This is the standard complementarian response and it is a serious exegetical position, not special pleading: the context is baptism into Christ (3:27), and "all one in Christ Jesus" governs the inheritance of Abraham's promise, not a social program. **Richard Longenecker** [CRITICAL], *Galatians* (Word Biblical Commentary 41, Word Books, 1990), takes the opposite view — the verse's declared principle has binding social-ethical implications — but Schreiner's reading is the traditional counterweight this entry's method requires to include. Giving the traditional reading a name (soteriological equality, not social charter) rather than dismissing it is the task.
+
+**What holds without qualification.**
+
+The structural contradiction is real and historically documented. **Willard M. Swartley** [ANABAPTIST/PACIFIST], *Slavery, Sabbath, War, and Women: Case Issues in Biblical Interpretation* (Herald Press, 1983), explicitly documents both proslavery and abolitionist uses of scripture in a symmetrical survey. **Mark A. Noll** [CRITICAL], *The Civil War as a Theological Crisis* (University of North Carolina Press, 2006), reconstructs the biblical proslavery argument — Ephesians 6:5 and Galatians 3:28 both appear — and shows both sides were using actual scripture with internal consistency. "The structural contradiction that made the Bible usable for both slavery's justification and its resistance" is well supported.
+
+**CORRECTED:** *The structural contradiction is real and the reception history holds: both sides used actual scripture. Two specific framings need adjustment. First, "most critical scholars classify them as deutero-Pauline" is accurate for Ephesians but overstated for Colossians, where the field is approximately evenly divided and the leading critical commentary (Dunn, NIGTC) holds a middle position. Second, "the real Paul vs. someone writing in Paul's name" implies the historical Paul was on the egalitarian side of the debate, which 1 Corinthians 7:20-22 and Philemon complicate. The contradiction runs through the undisputed letters as well. The traditional counter — Galatians 3:28 addresses soteriological standing before God, not a social program — should be registered and named rather than omitted.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The deutero-Pauline authorship of Colossians and Ephesians is genuinely well-established enough that treating them as a single block feels reasonable — especially since both contain household codes and both are disputed. But the Colossians consensus is much softer than the Ephesians one, and conflating them understates the scholarly uncertainty about Colossians' authorship without being dishonest about Ephesians. The "real Paul vs. pseudonymous" framing was attractive because it explains the contradiction as later drift from an original egalitarian vision — tidier than the messier truth, which is that Paul himself in undisputed letters also did not call for abolition and returned a slave to his owner.
+
+---
+
 ## 12.7 John 14:6
 
 **Commonly used for: **"No one comes to the Father except through me" — exclusive salvation claim, Christianity as the only valid path.
