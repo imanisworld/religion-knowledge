@@ -17433,9 +17433,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c4eab7fa13f1a96786ba",
-    "text": "The standard escape hatch, and where it holds vs. breaks: The usual defense is that Hebrew śānēʾ and Greek miseō carry a comparative sense — \"love less,\" not literal hatred. This is genuinely attested: Genesis 29:31-33 calls Leah \"hated\" when the text has just said Jacob loved Rachel more; Deuteronomy 21:15-17 legislates for a \"hated\" wife meaning disfavored, not despised. But it doesn't cover every case. Malachi 1:3 doesn't stop at preference — it has God laying Esau's inheritance waste, more than \"loved less\" can carry. And on Luke 14:26: the wording is generally read as reflecting an original Aramaic idiom operating in extremes, without a middle register — G.B. Caird [MODERATE CRITICAL], The Gospel of St. Luke (Pelican, 1963), 179, glosses it as family given \"second place in their affections,\" not literal hatred. The \"loves me more\" wording at the parallel in Matthew 10:37 is usually read as the softened version — the standard critical reconstruction of Q (The Critical Edition of Q, ed. James M. Robinson, Paul Hoffmann, and John S. Kloppenborg, Peeters, 2000) retains Luke's harsher \"hate\" as closer to the shared source, meaning Matthew did the softening, not Luke the sharpening.  Read that way, Luke 14:26 fits a documented pattern in the historical-Jesus material — Jesus as an apocalyptic figure demanding real disruption of family loyalty (Mark 3:31-35; the Q material behind Matthew 10:34-36/Luke 12:51-53) — though this specific verse-to-thesis connection is this corpus's own extension of that broader argument, not a citation of any named scholar making it about 14:26 in particular.",
-    "raw_text": "**The standard escape hatch, and where it holds vs. breaks: **The usual defense is that Hebrew *śānēʾ* and Greek *miseō* carry a comparative sense — \"love less,\" not literal hatred. This is genuinely attested: Genesis 29:31-33 calls Leah \"hated\" when the text has just said Jacob loved Rachel more; Deuteronomy 21:15-17 legislates for a \"hated\" wife meaning disfavored, not despised. But it doesn't cover every case. Malachi 1:3 doesn't stop at preference — it has God laying Esau's inheritance waste, more than \"loved less\" can carry. And on Luke 14:26: the wording is generally read as reflecting an original Aramaic idiom operating in extremes, without a middle register — G.B. Caird [MODERATE CRITICAL], *The Gospel of St. Luke* (Pelican, 1963), 179, glosses it as family given \"second place in their affections,\" not literal hatred. The \"loves me more\" wording at the parallel in Matthew 10:37 is usually read as the softened version — the standard critical reconstruction of Q (*The Critical Edition of Q*, ed. James M. Robinson, Paul Hoffmann, and John S. Kloppenborg, Peeters, 2000) retains Luke's harsher \"hate\" as closer to the shared source, meaning Matthew did the softening, not Luke the sharpening. ⟨INFERENCE⟩ Read that way, Luke 14:26 fits a documented pattern in the historical-Jesus material — Jesus as an apocalyptic figure demanding real disruption of family loyalty (Mark 3:31-35; the Q material behind Matthew 10:34-36/Luke 12:51-53) — though this specific verse-to-thesis connection is this corpus's own extension of that broader argument, not a citation of any named scholar making it about 14:26 in particular.",
+    "id": "rk_ec7c81f82ba32c8d0b2d",
+    "text": "The standard escape hatch, and where it holds vs. breaks: The usual defense is that Hebrew śānēʾ and Greek miseō carry a comparative sense — \"love less,\" not literal hatred. This is genuinely attested: Genesis 29:31-33 calls Leah \"hated\" when the text has just said Jacob loved Rachel more; Deuteronomy 21:15-17 legislates for a \"hated\" wife meaning disfavored, not despised. But it doesn't cover every case. Malachi 1:3 doesn't stop at preference — it has God laying Esau's inheritance waste, more than \"loved less\" can carry. And on Luke 14:26: the wording is generally read as reflecting an original Aramaic idiom operating in extremes, without a middle register — G.B. Caird [MODERATE CRITICAL], The Gospel of St. Luke (Pelican, 1963), 179, glosses it as family given \"second place in their affections,\" not literal hatred. The \"loves me more\" wording at the parallel in Matthew 10:37 is usually read as the softened version — the standard critical reconstruction of Q (The Critical Edition of Q, ed. James M. Robinson, Paul Hoffmann, and John S. Kloppenborg, Fortress Press / Peeters, 2000) retains Luke's harsher \"hate\" as closer to the shared source, meaning Matthew did the softening, not Luke the sharpening.  Read that way, Luke 14:26 fits a documented pattern in the historical-Jesus material — Jesus as an apocalyptic figure demanding real disruption of family loyalty (Mark 3:31-35; the Q material behind Matthew 10:34-36/Luke 12:51-53) — though this specific verse-to-thesis connection is this corpus's own extension of that broader argument, not a citation of any named scholar making it about 14:26 in particular.",
+    "raw_text": "**The standard escape hatch, and where it holds vs. breaks: **The usual defense is that Hebrew *śānēʾ* and Greek *miseō* carry a comparative sense — \"love less,\" not literal hatred. This is genuinely attested: Genesis 29:31-33 calls Leah \"hated\" when the text has just said Jacob loved Rachel more; Deuteronomy 21:15-17 legislates for a \"hated\" wife meaning disfavored, not despised. But it doesn't cover every case. Malachi 1:3 doesn't stop at preference — it has God laying Esau's inheritance waste, more than \"loved less\" can carry. And on Luke 14:26: the wording is generally read as reflecting an original Aramaic idiom operating in extremes, without a middle register — G.B. Caird [MODERATE CRITICAL], *The Gospel of St. Luke* (Pelican, 1963), 179, glosses it as family given \"second place in their affections,\" not literal hatred. The \"loves me more\" wording at the parallel in Matthew 10:37 is usually read as the softened version — the standard critical reconstruction of Q (*The Critical Edition of Q*, ed. James M. Robinson, Paul Hoffmann, and John S. Kloppenborg, Fortress Press / Peeters, 2000) retains Luke's harsher \"hate\" as closer to the shared source, meaning Matthew did the softening, not Luke the sharpening. ⟨INFERENCE⟩ Read that way, Luke 14:26 fits a documented pattern in the historical-Jesus material — Jesus as an apocalyptic figure demanding real disruption of family loyalty (Mark 3:31-35; the Q material behind Matthew 10:34-36/Luke 12:51-53) — though this specific verse-to-thesis connection is this corpus's own extension of that broader argument, not a citation of any named scholar making it about 14:26 in particular.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -17805,9 +17805,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ef7657a48f01f95ac947",
-    "text": "•  Robinson, James M., Paul Hoffmann, and John S. Kloppenborg, eds. The Critical Edition of Q. Peeters, 2000.",
-    "raw_text": "•  Robinson, James M., Paul Hoffmann, and John S. Kloppenborg, eds. The Critical Edition of Q. Peeters, 2000.",
+    "id": "rk_a01d781b8428287931ad",
+    "text": "•  Robinson, James M., Paul Hoffmann, and John S. Kloppenborg, eds. The Critical Edition of Q. Fortress Press / Peeters, 2000.",
+    "raw_text": "•  Robinson, James M., Paul Hoffmann, and John S. Kloppenborg, eds. The Critical Edition of Q. Fortress Press / Peeters, 2000.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17898,7 +17898,302 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_054d6cfa06eba8c0eae6",
+    "id": "rk_8f65d13d1179c4788a42",
+    "text": "CHECKED 12 AUG 2026",
+    "raw_text": "`CHECKED 12 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:571",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_cd722162c1ca7e26ff18",
+    "text": "AS RECORDED: §12.14 — \"the strongest hate-compound in the New Testament, appearing nowhere else\" (Romans 12:9, apostygountes to ponēron); The Critical Edition of Q cited as published by \"Peeters, 2000.\"",
+    "raw_text": "**AS RECORDED:** §12.14 — \"the strongest hate-compound in the New Testament, appearing nowhere else\" (Romans 12:9, *apostygountes to ponēron*); *The Critical Edition of Q* cited as published by \"Peeters, 2000.\"",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "CLAIM",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:572",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [
+      "rk_d17fb8a9b9ae61f10d76"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_df6472287badb173c6ed",
+    "text": "STATUS: Holds — all core claims and citations verified by independent search; one citation corrected (Critical Edition of Q publisher: Fortress Press is the primary co-publisher, omitted in the original); apostygountes as \"strongest\" confirmed as hapax legomenon but the intensity ranking is a morphological assessment, not a designated lexicographic category.",
+    "raw_text": "**STATUS: Holds** — all core claims and citations verified by independent search; one citation corrected (Critical Edition of Q publisher: Fortress Press is the primary co-publisher, omitted in the original); *apostygountes* as \"strongest\" confirmed as hapax legomenon but the intensity ranking is a morphological assessment, not a designated lexicographic category.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "Holds — all core claims and citations verified by independent search; one citation corrected (Critical Edition of Q publisher: Fortress Press is the primary co-publisher, omitted in the original); apostygountes as \"strongest\" confirmed as hapax legomenon but the intensity ranking is a morphological assessment, not a designated lexicographic category.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:573",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [
+      "rk_d17fb8a9b9ae61f10d76"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9b4faa5c87a51e6399d0",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:574",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9959e4da65fa110aa09a",
+    "text": "Citations verified. G.B. Caird [MODERATE CRITICAL], The Gospel of St. Luke (Pelican New Testament Commentaries, 1963), p.179: confirmed — Caird glosses Luke 14:26's \"hate\" as the Semitic idiom for family given \"second place in their affections,\" explicitly grounding it in the observation that the Semitic mind \"is comfortable only with extremes — light and darkness, truth and falsehood, love and hate — primary colours with no half-shades of compromise in between.\" The discussion spans pp.178-179; \"Pelican\" alone is recognizable shorthand for the Pelican New Testament Commentaries series (the full series name is more precise). 1QS 1:9-11 (Community Rule) content: confirmed — the passage is an oath sworn by new members to \"love all the sons of light, each according to his lot in the council of God, and to hate all the sons of darkness, each according to his guilt in the vengeance of God.\" Explicit hatred language, institutionally commanded, not analogical. Augustine, Letter 211 (c. 424 CE): confirmed — letter written to a community of nuns at Hippo following a revolt over the appointment of a new superior; the Latin phrase cum dilectione hominum et odio vitiorum (\"with love of mankind and hatred of sins/vices\") is the genuine origin of \"hate the sin, love the sinner,\" and the letter is the correct source. Mary Whitlock Blundell, Helping Friends and Harming Enemies (Cambridge University Press, 1989): confirmed (author's later legal name is Ruby Blondell; both appear in catalog records). Scot McKnight, Sermon on the Mount (Story of God Bible Commentary, Zondervan, 2013): publication details confirmed; the Qumran connection for Matthew 5:43 is the standard scholarly move for this verse.",
+    "raw_text": "*Citations verified.* G.B. Caird [MODERATE CRITICAL], *The Gospel of St. Luke* (Pelican New Testament Commentaries, 1963), p.179: confirmed — Caird glosses Luke 14:26's \"hate\" as the Semitic idiom for family given \"second place in their affections,\" explicitly grounding it in the observation that the Semitic mind \"is comfortable only with extremes — light and darkness, truth and falsehood, love and hate — primary colours with no half-shades of compromise in between.\" The discussion spans pp.178-179; \"Pelican\" alone is recognizable shorthand for the Pelican New Testament Commentaries series (the full series name is more precise). 1QS 1:9-11 (Community Rule) content: confirmed — the passage is an oath sworn by new members to \"love all the sons of light, each according to his lot in the council of God, and to hate all the sons of darkness, each according to his guilt in the vengeance of God.\" Explicit hatred language, institutionally commanded, not analogical. Augustine, *Letter 211* (c. 424 CE): confirmed — letter written to a community of nuns at Hippo following a revolt over the appointment of a new superior; the Latin phrase *cum dilectione hominum et odio vitiorum* (\"with love of mankind and hatred of sins/vices\") is the genuine origin of \"hate the sin, love the sinner,\" and the letter is the correct source. Mary Whitlock Blundell, *Helping Friends and Harming Enemies* (Cambridge University Press, 1989): confirmed (author's later legal name is Ruby Blondell; both appear in catalog records). Scot McKnight, *Sermon on the Mount* (Story of God Bible Commentary, Zondervan, 2013): publication details confirmed; the Qumran connection for Matthew 5:43 is the standard scholarly move for this verse.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:575",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6afba437a619d2f39a10",
+    "text": "The one error — Critical Edition of Q publisher. The corpus cites The Critical Edition of Q as \"Peeters, 2000.\" The actual publication is a co-publication: Fortress Press (Minneapolis) and Peeters Publishers (Leuven), 2000, part of the Hermeneia Supplements series (ISBN 9780800631499 is held under the Fortress Press catalog). Citing it as \"Peeters\" alone omits the primary North American publisher. The substantive Q-text claim is confirmed: the International Q Project's reconstruction of Q 14:26 reads \"The one who does not hate father and mother cannot be my disciple\" — retaining Luke's harsher \"hate\" as closer to the shared source, with Matthew 10:37's \"loves me more than\" treated as Matthew's comparative softening.",
+    "raw_text": "*The one error — Critical Edition of Q publisher.* The corpus cites *The Critical Edition of Q* as \"Peeters, 2000.\" The actual publication is a co-publication: **Fortress Press (Minneapolis) and Peeters Publishers (Leuven), 2000**, part of the Hermeneia Supplements series (ISBN 9780800631499 is held under the Fortress Press catalog). Citing it as \"Peeters\" alone omits the primary North American publisher. The substantive Q-text claim is confirmed: the International Q Project's reconstruction of Q 14:26 reads \"The one who does not hate father and mother cannot be my disciple\" — retaining Luke's harsher \"hate\" as closer to the shared source, with Matthew 10:37's \"loves me more than\" treated as Matthew's comparative softening.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:576",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_31b66f88a65ac7975ff4",
+    "text": "On apostygountes as \"the strongest hate-compound.\" Romans 12:9's apostygountes to ponēron is confirmed as a hapax legomenon — appears exactly once in the Greek New Testament (Strong's G655). The \"strongest\" characterization is morphologically defensible: apostygeō combines the intensifying prefix apo- with stygeō (\"to hate, to shudder with horror\"), producing a compound that carries both severity and a sense of active separation/removal — stronger in construction than the common miseō. But \"strongest hate-compound in the New Testament\" is a morphological assessment, not a formally designated scholarly category; it should be read as interpretive rather than an established lexicographic ruling.",
+    "raw_text": "*On *apostygountes* as \"the strongest hate-compound.\"* Romans 12:9's *apostygountes to ponēron* is confirmed as a hapax legomenon — appears exactly once in the Greek New Testament (Strong's G655). The \"strongest\" characterization is morphologically defensible: *apostygeō* combines the intensifying prefix *apo-* with *stygeō* (\"to hate, to shudder with horror\"), producing a compound that carries both severity and a sense of active separation/removal — stronger in construction than the common *miseō*. But \"strongest hate-compound in the New Testament\" is a morphological assessment, not a formally designated scholarly category; it should be read as interpretive rather than an established lexicographic ruling.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:577",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d17fb8a9b9ae61f10d76",
+    "text": "CORRECTED: In the Sources section, \"Peeters, 2000\" corrected to \"Fortress Press / Peeters, 2000.\" The same correction applies to the inline citation in the escape-hatch paragraph above. All other citations verified accurate. The apostygountes \"strongest hate-compound\" characterization stands as a morphological assessment; it is not a fixed scholarly designation and should be read as such.",
+    "raw_text": "**CORRECTED:** *In the Sources section, \"Peeters, 2000\" corrected to \"Fortress Press / Peeters, 2000.\" The same correction applies to the inline citation in the escape-hatch paragraph above. All other citations verified accurate. The *apostygountes* \"strongest hate-compound\" characterization stands as a morphological assessment; it is not a fixed scholarly designation and should be read as such.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:578",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [
+      "rk_cd722162c1ca7e26ff18",
+      "rk_df6472287badb173c6ed"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_99e292c52dc9e2ce8c0e",
+    "text": "WHY IT LOOKED RIGHT : Peeters is one of two real publishers and the one more associated with European biblical scholarship; Fortress Press is the North American co-publisher. In European library catalogs, Peeters often appears as the primary publisher; in North American catalogs, Fortress Press holds the primary ISBN. The citation followed the European convention. Because both publishers are real and the book is real, the error is nonfatal to identification — a search for \"Peeters 2000\" will surface the book — which is why it was not caught earlier.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** Peeters is one of two real publishers and the one more associated with European biblical scholarship; Fortress Press is the North American co-publisher. In European library catalogs, Peeters often appears as the primary publisher; in North American catalogs, Fortress Press holds the primary ISBN. The citation followed the European convention. Because both publishers are real and the book is real, the error is nonfatal to identification — a search for \"Peeters 2000\" will surface the book — which is why it was not caught earlier.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE)",
+      "12.14 Is Hatred a Sin?",
+      "⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "12. KEY VERSES WITH CONTEXT (LOOKUP REFERENCE) > 12.14 Is Hatred a Sin? > ⚑ AUDIT — Is Hatred a Sin?: Citation Verification Pass",
+    "source_reference": "paragraph:579",
+    "parent_id": "audit_e18a894e1006fb583677",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d6639987f2b45cb2a3e8",
     "text": "First fact: The word \"Trinity\" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.",
     "raw_text": "**First fact: **The word \"Trinity\" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.",
     "provenance_type": "PRE_CONVENTION",
@@ -17914,285 +18209,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-    "source_reference": "paragraph:571",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e0f8c5bfc33ec2bd738d",
-    "text": "Texts used to support unity/co-equality:",
-    "raw_text": "**Texts used to support unity/co-equality:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:572",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1d76c9a0ea2399d5468a",
-    "text": "•  John 10:30 — \"I and the Father are one\"",
-    "raw_text": "•  John 10:30 — \"I and the Father are one\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:573",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_00c74585990053e612ee",
-    "text": "•  John 1:1 — \"the Word was God\"",
-    "raw_text": "•  John 1:1 — \"the Word was God\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:574",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_cfcf4e9131b2087f50a9",
-    "text": "•  John 14:9 — \"Whoever has seen me has seen the Father\"",
-    "raw_text": "•  John 14:9 — \"Whoever has seen me has seen the Father\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:575",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3701a4976ab172057487",
-    "text": "Texts that support distinction and subordination — the problem:",
-    "raw_text": "**Texts that support distinction and subordination — the problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:576",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f5213d034ed865cfa5c5",
-    "text": "•  Mark 13:32 — Jesus says about the end times: \"not even the Son\" knows the day or hour, only the Father. If Jesus is fully God and God is omniscient, how does a person of the Godhead not know something the Father knows?",
-    "raw_text": "•  Mark 13:32 — Jesus says about the end times: \"not even the Son\" knows the day or hour, only the Father. If Jesus is fully God and God is omniscient, how does a person of the Godhead not know something the Father knows?",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "QUESTION",
-    "status": "OPEN",
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:577",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_18273ea8de55d77eeb52",
-    "text": "•  John 14:28 — \"the Father is greater than I\"",
-    "raw_text": "•  John 14:28 — \"the Father is greater than I\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:578",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3a03afe1736005430c01",
-    "text": "•  Mark 15:34 — on the cross: \"My God, my God, why have you forsaken me?\" God calling out to God. God abandoning God.",
-    "raw_text": "•  Mark 15:34 — on the cross: \"My God, my God, why have you forsaken me?\" God calling out to God. God abandoning God.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
-    "source_reference": "paragraph:579",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a92205beeba62d662653",
-    "text": "•  John 17:3 — Jesus refers to the Father as \"the only true God\" and himself as someone the Father sent — distinction, not identity.",
-    "raw_text": "•  John 17:3 — Jesus refers to the Father as \"the only true God\" and himself as someone the Father sent — distinction, not identity.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.1 What the Bible says — and where it contradicts itself"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
     "source_reference": "paragraph:580",
     "parent_id": null,
     "related_ids": [],
@@ -18207,9 +18223,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cf76af8066a59a7fc066",
-    "text": "•  1 Corinthians 15:28 — after the end, \"the Son himself will also be subjected to him who put all things in subjection under him.\" Eternal subordination of the Son to the Father — even after everything is complete.",
-    "raw_text": "•  1 Corinthians 15:28 — after the end, \"the Son himself will also be subjected to him who put all things in subjection under him.\" Eternal subordination of the Son to the Father — even after everything is complete.",
+    "id": "rk_985cd9902b993584b966",
+    "text": "Texts used to support unity/co-equality:",
+    "raw_text": "**Texts used to support unity/co-equality:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18238,9 +18254,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9d87399942734ca849f6",
-    "text": "•  Mark 10:18 — \"Why do you call me good? No one is good except God alone.\" Jesus distinguishes himself from God.",
-    "raw_text": "•  Mark 10:18 — \"Why do you call me good? No one is good except God alone.\" Jesus distinguishes himself from God.",
+    "id": "rk_f83343f57a9e9f8f5725",
+    "text": "•  John 10:30 — \"I and the Father are one\"",
+    "raw_text": "•  John 10:30 — \"I and the Father are one\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18269,9 +18285,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_87164cbeac6fc49ec211",
-    "text": "The texts that produce the Trinity and the texts that undermine it are in the same book. The doctrine is an attempt to hold them together without resolving them.",
-    "raw_text": "The texts that produce the Trinity and the texts that undermine it are in the same book. The doctrine is an attempt to hold them together without resolving them.",
+    "id": "rk_aea06d40e7b71b689341",
+    "text": "•  John 1:1 — \"the Word was God\"",
+    "raw_text": "•  John 1:1 — \"the Word was God\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18300,7 +18316,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_96f5c88645fd8a554054",
+    "id": "rk_3e10b1d7904190846f45",
+    "text": "•  John 14:9 — \"Whoever has seen me has seen the Father\"",
+    "raw_text": "•  John 14:9 — \"Whoever has seen me has seen the Father\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:584",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1a8ec5a21a1c93c31989",
+    "text": "Texts that support distinction and subordination — the problem:",
+    "raw_text": "**Texts that support distinction and subordination — the problem:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:585",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1f6691f469753c622af7",
+    "text": "•  Mark 13:32 — Jesus says about the end times: \"not even the Son\" knows the day or hour, only the Father. If Jesus is fully God and God is omniscient, how does a person of the Godhead not know something the Father knows?",
+    "raw_text": "•  Mark 13:32 — Jesus says about the end times: \"not even the Son\" knows the day or hour, only the Father. If Jesus is fully God and God is omniscient, how does a person of the Godhead not know something the Father knows?",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "QUESTION",
+    "status": "OPEN",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:586",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6f376876a37dd06d0dec",
+    "text": "•  John 14:28 — \"the Father is greater than I\"",
+    "raw_text": "•  John 14:28 — \"the Father is greater than I\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:587",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_91aa174bb08c52a21cae",
+    "text": "•  Mark 15:34 — on the cross: \"My God, my God, why have you forsaken me?\" God calling out to God. God abandoning God.",
+    "raw_text": "•  Mark 15:34 — on the cross: \"My God, my God, why have you forsaken me?\" God calling out to God. God abandoning God.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:588",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_91258565fa0dd839b28f",
+    "text": "•  John 17:3 — Jesus refers to the Father as \"the only true God\" and himself as someone the Father sent — distinction, not identity.",
+    "raw_text": "•  John 17:3 — Jesus refers to the Father as \"the only true God\" and himself as someone the Father sent — distinction, not identity.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:589",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_901af3a5b07ff5ed3762",
+    "text": "•  1 Corinthians 15:28 — after the end, \"the Son himself will also be subjected to him who put all things in subjection under him.\" Eternal subordination of the Son to the Father — even after everything is complete.",
+    "raw_text": "•  1 Corinthians 15:28 — after the end, \"the Son himself will also be subjected to him who put all things in subjection under him.\" Eternal subordination of the Son to the Father — even after everything is complete.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:590",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_300ee836040bcb758797",
+    "text": "•  Mark 10:18 — \"Why do you call me good? No one is good except God alone.\" Jesus distinguishes himself from God.",
+    "raw_text": "•  Mark 10:18 — \"Why do you call me good? No one is good except God alone.\" Jesus distinguishes himself from God.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:591",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e1828ee83fdf821a6ab4",
+    "text": "The texts that produce the Trinity and the texts that undermine it are in the same book. The doctrine is an attempt to hold them together without resolving them.",
+    "raw_text": "The texts that produce the Trinity and the texts that undermine it are in the same book. The doctrine is an attempt to hold them together without resolving them.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.1 What the Bible says — and where it contradicts itself"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.1 What the Bible says — and where it contradicts itself",
+    "source_reference": "paragraph:592",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f67c7f2bff9060cc190f",
     "text": "Before Nicaea there was no settled doctrine. Multiple positions were held by sincere Christians reading the same texts for nearly 300 years.",
     "raw_text": "Before Nicaea there was no settled doctrine. Multiple positions were held by sincere Christians reading the same texts for nearly 300 years.",
     "provenance_type": "PRE_CONVENTION",
@@ -18317,7 +18612,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
-    "source_reference": "paragraph:584",
+    "source_reference": "paragraph:593",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18331,7 +18626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2a566ffc911fe62eebc0",
+    "id": "rk_77ccb19d84dc91dfbea8",
     "text": "Adoptionism:",
     "raw_text": "**Adoptionism:**",
     "provenance_type": "PRE_CONVENTION",
@@ -18348,7 +18643,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
-    "source_reference": "paragraph:585",
+    "source_reference": "paragraph:594",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18362,7 +18657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53debcd44b1c68dfaab2",
+    "id": "rk_762f94b1492ccba8bc1d",
     "text": "•  Jesus was a human who became God's son at his baptism or resurrection. Supported structurally by Mark's Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent.",
     "raw_text": "•  Jesus was a human who became God's son at his baptism or resurrection. Supported structurally by Mark's Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent.",
     "provenance_type": "PRE_CONVENTION",
@@ -18379,7 +18674,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context",
-    "source_reference": "paragraph:586",
+    "source_reference": "paragraph:595",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18393,7 +18688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_24669817b0abbca9ccda",
+    "id": "rk_23c2c7562203b13cea3a",
     "text": "CHECKED 10 AUG 2026",
     "raw_text": "`CHECKED 10 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -18411,7 +18706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:587",
+    "source_reference": "paragraph:596",
     "parent_id": "audit_6dc9c1e3bfb58d2ab520",
     "related_ids": [],
     "tags": [],
@@ -18425,7 +18720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cbb6e3e99b847ca15528",
+    "id": "rk_456accfb9506fc55b5bc",
     "text": "AS RECORDED: Jesus was a human who became God's son at his baptism or resurrection. Supported structurally by Mark's Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent. (§13.2)",
     "raw_text": "**AS RECORDED:** Jesus was a human who became God's son at his baptism or resurrection. Supported structurally by Mark's Gospel: no birth narrative, Spirit descends at baptism, Jesus asks questions and seems surprised. This reading of Mark is coherent. (§13.2)",
     "provenance_type": "SOURCE",
@@ -18443,10 +18738,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:588",
+    "source_reference": "paragraph:597",
     "parent_id": "audit_6dc9c1e3bfb58d2ab520",
     "related_ids": [
-      "rk_4072c5fb07c624e9aa82"
+      "rk_3c388f13a83bb8558e87"
     ],
     "tags": [],
     "citation": null,
@@ -18459,7 +18754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_61a190f71250bb06e483",
+    "id": "rk_486f9fb94e353918de5b",
     "text": "STATUS: Overstated. The textual features are real. \"Coherent\" oversells it — no named modern scholar argues this as a thesis for Mark specifically, and Mark contains internal evidence that cuts against it.",
     "raw_text": "**STATUS: Overstated.** The textual features are real. \"Coherent\" oversells it — no named modern scholar argues this as a thesis for Mark specifically, and Mark contains internal evidence that cuts against it.",
     "provenance_type": "SOURCE",
@@ -18477,302 +18772,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:589",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [
-      "rk_4072c5fb07c624e9aa82"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7692b5725576a36bc4d9",
-    "text": "AUDIT",
-    "raw_text": "**AUDIT**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:590",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_98ec125a1d16939d4829",
-    "text": "No one currently argues \"Mark is adoptionist\" as a stated position. The closest documented view is Bart D. Ehrman [CRITICAL], How Jesus Became God (HarperOne, 2014), and Ehrman deliberately avoids the word \"adoptionist\" for exactly this reason. His model is exaltation Christology: Jesus attains divine status at baptism — paralleling Roman adoption practice, where an adopted son takes the adopting father's rank — as one point on a trajectory that starts even earlier (resurrection, in the earliest strata) and gets pushed progressively backward across the Gospels: baptism (Mark) → birth (Matthew, Luke) → pre-existence (John). That is a claim about status, not about origin, and Ehrman is explicit the two are different questions. Calling this \"adoptionism\" collapses a distinction its own leading proponent insists on.",
-    "raw_text": "**No one currently argues \"Mark is adoptionist\" as a stated position.** The closest documented view is **Bart D. Ehrman** [CRITICAL], *How Jesus Became God* (HarperOne, 2014), and Ehrman deliberately avoids the word \"adoptionist\" for exactly this reason. His model is **exaltation Christology**: Jesus attains divine *status* at baptism — paralleling Roman adoption practice, where an adopted son takes the adopting father's rank — as one point on a trajectory that starts even earlier (resurrection, in the earliest strata) and gets pushed progressively backward across the Gospels: baptism (Mark) → birth (Matthew, Luke) → pre-existence (John). That is a claim about status, not about origin, and Ehrman is explicit the two are different questions. Calling this \"adoptionism\" collapses a distinction its own leading proponent insists on.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:591",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_4232b577f3a4d860e08a",
-    "text": "Mark itself contains evidence against the stronger reading, independent of any confessional commitment. A deliberately adoptionist author would be expected to use Psalm 2:7's \"begetting\" language (\"today I have begotten you\") at the baptism — Mark's version doesn't have it (compare the Codex Bezae variant at Luke 3:22, which does add it, and is a live, separate textual-criticism debate about Luke, not evidence about Mark). Demons in Mark recognize Jesus's divine sonship from the Gospel's opening chapter, before any \"adoption\" could have occurred, and sonship language recurs at the transfiguration and crucifixion in ways a one-time adoption event doesn't obviously explain.",
-    "raw_text": "**Mark itself contains evidence against the stronger reading, independent of any confessional commitment.** A deliberately adoptionist author would be expected to use Psalm 2:7's \"begetting\" language (\"today I have begotten you\") at the baptism — Mark's version doesn't have it (compare the Codex Bezae variant at Luke 3:22, which does add it, and is a live, separate textual-criticism debate about Luke, not evidence about Mark). Demons in Mark recognize Jesus's divine sonship from the Gospel's opening chapter, before any \"adoption\" could have occurred, and sonship language recurs at the transfiguration and crucifixion in ways a one-time adoption event doesn't obviously explain.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:592",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_284efd92ad16c740b8c1",
-    "text": "Named modern rebuttal, direct on point: Michael F. Bird [CONSERVATIVE-EVANGELICAL], Jesus the Eternal Son: Answering Adoptionist Christology (Eerdmans, 2017) — a book-length response to exactly this line of argument.",
-    "raw_text": "**Named modern rebuttal, direct on point:** **Michael F. Bird** [CONSERVATIVE-EVANGELICAL], *Jesus the Eternal Son: Answering Adoptionist Christology* (Eerdmans, 2017) — a book-length response to exactly this line of argument.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:593",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_bd58e7bdd5a4f34e3043",
-    "text": "Where \"adoptionism\" properly belongs historically: the label names later movements that used Mark's baptismal scene this way — Theodotus of Byzantium and the Theodotians (late 2nd–early 3rd c. CE), the first group historically identified with explicit adoptionism. The Ebionites are linked to adoptionism in older scholarship, but modern specialists flag this as an oversimplification — the Ebionites are better described as a diverse grouping with a \"possession\" Christology, resistant to a single fixed label.",
-    "raw_text": "**Where \"adoptionism\" properly belongs historically:** the label names later movements that used Mark's baptismal scene this way — **Theodotus of Byzantium** and the Theodotians (late 2nd–early 3rd c. CE), the first group historically identified with explicit adoptionism. The Ebionites are linked to adoptionism in older scholarship, but modern specialists flag this as an oversimplification — the Ebionites are better described as a diverse grouping with a \"possession\" Christology, resistant to a single fixed label.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:594",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_4072c5fb07c624e9aa82",
-    "text": "CORRECTED: Mark's baptism scene — no birth narrative, sonship declared at baptism rather than assumed from eternity — supplied the textual raw material that later adoptionist movements (the Theodotians, 2nd–3rd c.) built on. It does not by itself establish that Mark's author held an adoptionist Christology: the text lacks the Psalm 2:7 \"begetting\" language a deliberate adoptionist framing would be expected to use, demons recognize Jesus's sonship from the opening chapter, and the closest modern scholarly analogue — Ehrman's \"exaltation Christology\" — deliberately avoids the adoptionist label because it is making a narrower claim about status, not origin. Michael Bird's Jesus the Eternal Son (2017) is the dedicated rebuttal to the broader argument.",
-    "raw_text": "**CORRECTED:** *Mark's baptism scene — no birth narrative, sonship declared at baptism rather than assumed from eternity — supplied the textual raw material that later adoptionist movements (the Theodotians, 2nd–3rd c.) built on. It does not by itself establish that Mark's author held an adoptionist Christology: the text lacks the Psalm 2:7 \"begetting\" language a deliberate adoptionist framing would be expected to use, demons recognize Jesus's sonship from the opening chapter, and the closest modern scholarly analogue — Ehrman's \"exaltation Christology\" — deliberately avoids the adoptionist label because it is making a narrower claim about status, not origin. Michael Bird's* Jesus the Eternal Son *(2017) is the dedicated rebuttal to the broader argument.*",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "CORRECTION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:595",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [
-      "rk_cbb6e3e99b847ca15528",
-      "rk_61a190f71250bb06e483"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e0b6b232a720fc006555",
-    "text": "WHY IT LOOKED RIGHT : Mark's textual features really are the same ones later adoptionists pointed to, so the error was a small, natural slide — treating \"supplied the raw material a later position was built from\" as though it meant \"holds that position,\" without checking whether any current scholar actually defends the stronger claim for Mark itself.",
-    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** Mark's textual features really are the same ones later adoptionists pointed to, so the error was a small, natural slide — treating \"supplied the raw material a later position was built from\" as though it meant \"holds that position,\" without checking whether any current scholar actually defends the stronger claim for Mark itself.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_REASONING",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:596",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE⟩"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_84383c7e00cb6a4456ab",
-    "text": "Arianism:",
-    "raw_text": "**Arianism:**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
-    "source_reference": "paragraph:597",
-    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_883ea57c6a9cf28519c8",
-    "text": "•  Jesus is the first and greatest creation of God — divine but subordinate, not co-equal and not co-eternal. Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually.",
-    "raw_text": "•  Jesus is the first and greatest creation of God — divine but subordinate, not co-equal and not co-eternal. Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.2 Pre-Nicene Diversity — Historical Context",
-      "⚑ AUDIT — Adoptionism in Mark"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
     "source_reference": "paragraph:598",
     "parent_id": "audit_6dc9c1e3bfb58d2ab520",
-    "related_ids": [],
+    "related_ids": [
+      "rk_3c388f13a83bb8558e87"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -18784,9 +18788,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_20ab92b2006f50c2065e",
-    "text": "Modalism / Sabellianism:",
-    "raw_text": "**Modalism / Sabellianism:**",
+    "id": "rk_1e0e4a18b98487c12b4b",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -18816,9 +18820,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_96d4f443ffb5b08e04e6",
-    "text": "•  Father, Son, and Spirit are not three distinct persons but three modes or faces of the same God — like water, ice, and steam. Declared heresy. But most people explaining the Trinity to each other accidentally describe modalism.",
-    "raw_text": "•  Father, Son, and Spirit are not three distinct persons but three modes or faces of the same God — like water, ice, and steam. Declared heresy. But most people explaining the Trinity to each other accidentally describe modalism.",
+    "id": "rk_f916de2a6e11b9e7e39d",
+    "text": "No one currently argues \"Mark is adoptionist\" as a stated position. The closest documented view is Bart D. Ehrman [CRITICAL], How Jesus Became God (HarperOne, 2014), and Ehrman deliberately avoids the word \"adoptionist\" for exactly this reason. His model is exaltation Christology: Jesus attains divine status at baptism — paralleling Roman adoption practice, where an adopted son takes the adopting father's rank — as one point on a trajectory that starts even earlier (resurrection, in the earliest strata) and gets pushed progressively backward across the Gospels: baptism (Mark) → birth (Matthew, Luke) → pre-existence (John). That is a claim about status, not about origin, and Ehrman is explicit the two are different questions. Calling this \"adoptionism\" collapses a distinction its own leading proponent insists on.",
+    "raw_text": "**No one currently argues \"Mark is adoptionist\" as a stated position.** The closest documented view is **Bart D. Ehrman** [CRITICAL], *How Jesus Became God* (HarperOne, 2014), and Ehrman deliberately avoids the word \"adoptionist\" for exactly this reason. His model is **exaltation Christology**: Jesus attains divine *status* at baptism — paralleling Roman adoption practice, where an adopted son takes the adopting father's rank — as one point on a trajectory that starts even earlier (resurrection, in the earliest strata) and gets pushed progressively backward across the Gospels: baptism (Mark) → birth (Matthew, Luke) → pre-existence (John). That is a claim about status, not about origin, and Ehrman is explicit the two are different questions. Calling this \"adoptionism\" collapses a distinction its own leading proponent insists on.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -18848,9 +18852,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b659ca8083291bab706a",
-    "text": "Full Trinitarianism:",
-    "raw_text": "**Full Trinitarianism:**",
+    "id": "rk_b367794c1ce052954ace",
+    "text": "Mark itself contains evidence against the stronger reading, independent of any confessional commitment. A deliberately adoptionist author would be expected to use Psalm 2:7's \"begetting\" language (\"today I have begotten you\") at the baptism — Mark's version doesn't have it (compare the Codex Bezae variant at Luke 3:22, which does add it, and is a live, separate textual-criticism debate about Luke, not evidence about Mark). Demons in Mark recognize Jesus's divine sonship from the Gospel's opening chapter, before any \"adoption\" could have occurred, and sonship language recurs at the transfiguration and crucifixion in ways a one-time adoption event doesn't obviously explain.",
+    "raw_text": "**Mark itself contains evidence against the stronger reading, independent of any confessional commitment.** A deliberately adoptionist author would be expected to use Psalm 2:7's \"begetting\" language (\"today I have begotten you\") at the baptism — Mark's version doesn't have it (compare the Codex Bezae variant at Luke 3:22, which does add it, and is a live, separate textual-criticism debate about Luke, not evidence about Mark). Demons in Mark recognize Jesus's divine sonship from the Gospel's opening chapter, before any \"adoption\" could have occurred, and sonship language recurs at the transfiguration and crucifixion in ways a one-time adoption event doesn't obviously explain.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -18880,9 +18884,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_daa13bbf460a233edbd2",
-    "text": "•  Three co-equal, co-eternal, co-substantial persons in one God. This won at Nicaea — by a vote, under political pressure from Constantine.",
-    "raw_text": "•  Three co-equal, co-eternal, co-substantial persons in one God. This won at Nicaea — by a vote, under political pressure from Constantine.",
+    "id": "rk_e1cdbbc270cf42091d5d",
+    "text": "Named modern rebuttal, direct on point: Michael F. Bird [CONSERVATIVE-EVANGELICAL], Jesus the Eternal Son: Answering Adoptionist Christology (Eerdmans, 2017) — a book-length response to exactly this line of argument.",
+    "raw_text": "**Named modern rebuttal, direct on point:** **Michael F. Bird** [CONSERVATIVE-EVANGELICAL], *Jesus the Eternal Son: Answering Adoptionist Christology* (Eerdmans, 2017) — a book-length response to exactly this line of argument.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -18912,9 +18916,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dda507d695dc09c75fe0",
-    "text": "All of these were live Christian options for 300 years. The doctrine that won is not self-evident from the text.",
-    "raw_text": "All of these were live Christian options for 300 years. The doctrine that won is not self-evident from the text.",
+    "id": "rk_67f4185784f86046dba0",
+    "text": "Where \"adoptionism\" properly belongs historically: the label names later movements that used Mark's baptismal scene this way — Theodotus of Byzantium and the Theodotians (late 2nd–early 3rd c. CE), the first group historically identified with explicit adoptionism. The Ebionites are linked to adoptionism in older scholarship, but modern specialists flag this as an oversimplification — the Ebionites are better described as a diverse grouping with a \"possession\" Christology, resistant to a single fixed label.",
+    "raw_text": "**Where \"adoptionism\" properly belongs historically:** the label names later movements that used Mark's baptismal scene this way — **Theodotus of Byzantium** and the Theodotians (late 2nd–early 3rd c. CE), the first group historically identified with explicit adoptionism. The Ebionites are linked to adoptionism in older scholarship, but modern specialists flag this as an oversimplification — the Ebionites are better described as a diverse grouping with a \"possession\" Christology, resistant to a single fixed label.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -18944,7 +18948,298 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0a122b8c79cca54e4cac",
+    "id": "rk_3c388f13a83bb8558e87",
+    "text": "CORRECTED: Mark's baptism scene — no birth narrative, sonship declared at baptism rather than assumed from eternity — supplied the textual raw material that later adoptionist movements (the Theodotians, 2nd–3rd c.) built on. It does not by itself establish that Mark's author held an adoptionist Christology: the text lacks the Psalm 2:7 \"begetting\" language a deliberate adoptionist framing would be expected to use, demons recognize Jesus's sonship from the opening chapter, and the closest modern scholarly analogue — Ehrman's \"exaltation Christology\" — deliberately avoids the adoptionist label because it is making a narrower claim about status, not origin. Michael Bird's Jesus the Eternal Son (2017) is the dedicated rebuttal to the broader argument.",
+    "raw_text": "**CORRECTED:** *Mark's baptism scene — no birth narrative, sonship declared at baptism rather than assumed from eternity — supplied the textual raw material that later adoptionist movements (the Theodotians, 2nd–3rd c.) built on. It does not by itself establish that Mark's author held an adoptionist Christology: the text lacks the Psalm 2:7 \"begetting\" language a deliberate adoptionist framing would be expected to use, demons recognize Jesus's sonship from the opening chapter, and the closest modern scholarly analogue — Ehrman's \"exaltation Christology\" — deliberately avoids the adoptionist label because it is making a narrower claim about status, not origin. Michael Bird's* Jesus the Eternal Son *(2017) is the dedicated rebuttal to the broader argument.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "CORRECTION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:604",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [
+      "rk_456accfb9506fc55b5bc",
+      "rk_486f9fb94e353918de5b"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bbd0a8695a3efc7d9109",
+    "text": "WHY IT LOOKED RIGHT : Mark's textual features really are the same ones later adoptionists pointed to, so the error was a small, natural slide — treating \"supplied the raw material a later position was built from\" as though it meant \"holds that position,\" without checking whether any current scholar actually defends the stronger claim for Mark itself.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** Mark's textual features really are the same ones later adoptionists pointed to, so the error was a small, natural slide — treating \"supplied the raw material a later position was built from\" as though it meant \"holds that position,\" without checking whether any current scholar actually defends the stronger claim for Mark itself.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_REASONING",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:605",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_ca8288f3d2c544724525",
+    "text": "Arianism:",
+    "raw_text": "**Arianism:**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:606",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3d628afc4f4a70f38f39",
+    "text": "•  Jesus is the first and greatest creation of God — divine but subordinate, not co-equal and not co-eternal. Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually.",
+    "raw_text": "•  Jesus is the first and greatest creation of God — divine but subordinate, not co-equal and not co-eternal. Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:607",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_51bdc9900f91da955c93",
+    "text": "Modalism / Sabellianism:",
+    "raw_text": "**Modalism / Sabellianism:**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:608",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c8943e71724b2d483424",
+    "text": "•  Father, Son, and Spirit are not three distinct persons but three modes or faces of the same God — like water, ice, and steam. Declared heresy. But most people explaining the Trinity to each other accidentally describe modalism.",
+    "raw_text": "•  Father, Son, and Spirit are not three distinct persons but three modes or faces of the same God — like water, ice, and steam. Declared heresy. But most people explaining the Trinity to each other accidentally describe modalism.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:609",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6b3fb04b5691da71088e",
+    "text": "Full Trinitarianism:",
+    "raw_text": "**Full Trinitarianism:**",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:610",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c73812038c7933ece678",
+    "text": "•  Three co-equal, co-eternal, co-substantial persons in one God. This won at Nicaea — by a vote, under political pressure from Constantine.",
+    "raw_text": "•  Three co-equal, co-eternal, co-substantial persons in one God. This won at Nicaea — by a vote, under political pressure from Constantine.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:611",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_ee1abb95e2b1e2738150",
+    "text": "All of these were live Christian options for 300 years. The doctrine that won is not self-evident from the text.",
+    "raw_text": "All of these were live Christian options for 300 years. The doctrine that won is not self-evident from the text.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.2 Pre-Nicene Diversity — Historical Context",
+      "⚑ AUDIT — Adoptionism in Mark"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.2 Pre-Nicene Diversity — Historical Context > ⚑ AUDIT — Adoptionism in Mark",
+    "source_reference": "paragraph:612",
+    "parent_id": "audit_6dc9c1e3bfb58d2ab520",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4e61b60fb2bb1ae43c58",
     "text": "•  Emperor Constantine — not a theologian, a political leader — called the council in 325 CE primarily to unify a fracturing empire. The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned.",
     "raw_text": "•  Emperor Constantine — not a theologian, a political leader — called the council in 325 CE primarily to unify a fracturing empire. The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned.",
     "provenance_type": "PRE_CONVENTION",
@@ -18961,7 +19256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was",
-    "source_reference": "paragraph:604",
+    "source_reference": "paragraph:613",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18975,7 +19270,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0f4707428e62ea340ac8",
+    "id": "rk_e687b938aa67caf9506c",
     "text": "•  The key word in the Nicene formula — \"homoousios\" (same substance) — is not in the Bible. It is a Greek philosophical term. The Trinity doctrine is formally articulated using categories the Hebrew authors of the Old Testament did not use and would not have recognized.",
     "raw_text": "•  The key word in the Nicene formula — \"homoousios\" (same substance) — is not in the Bible. It is a Greek philosophical term. The Trinity doctrine is formally articulated using categories the Hebrew authors of the Old Testament did not use and would not have recognized.",
     "provenance_type": "PRE_CONVENTION",
@@ -18992,7 +19287,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was",
-    "source_reference": "paragraph:605",
+    "source_reference": "paragraph:614",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19006,7 +19301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6f09668ce5b8bde58312",
+    "id": "rk_c530d3e6825b5d0af4f7",
     "text": "•  The Holy Spirit was not formally added to the Trinity formula until the Council of Constantinople in 381 CE. The full doctrine took 56 years after Nicaea to finalize.",
     "raw_text": "•  The Holy Spirit was not formally added to the Trinity formula until the Council of Constantinople in 381 CE. The full doctrine took 56 years after Nicaea to finalize.",
     "provenance_type": "PRE_CONVENTION",
@@ -19023,7 +19318,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was",
-    "source_reference": "paragraph:606",
+    "source_reference": "paragraph:615",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19037,7 +19332,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_13f8032f56bcfb25d2af",
+    "id": "rk_6e1de390a242ee4bbd21",
     "text": "CHECKED 10 AUG 2026",
     "raw_text": "`CHECKED 10 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -19055,7 +19350,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:607",
+    "source_reference": "paragraph:616",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [],
     "tags": [],
@@ -19069,7 +19364,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ff265441f5f1e9c27dda",
+    "id": "rk_2deab5f10fe3b9771f7b",
     "text": "AS RECORDED: \"This won at Nicaea — by a vote, under political pressure from Constantine\" (§13.2, Full Trinitarianism); \"Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually\" (§13.2, Arianism); \"The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned\" (§13.3).",
     "raw_text": "**AS RECORDED:** \"This won at Nicaea — by a vote, under political pressure from Constantine\" (§13.2, Full Trinitarianism); \"Arius had a massive following. His position was exegetically defensible. He lost politically at Nicaea, not necessarily textually\" (§13.2, Arianism); \"The vote was between Arius and Athanasius. Athanasius won. The losing side was exiled and their books burned\" (§13.3).",
     "provenance_type": "SOURCE",
@@ -19087,10 +19382,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:608",
+    "source_reference": "paragraph:617",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [
-      "rk_a4329ba5c2dde0d9af3d"
+      "rk_729aa732764b6de04093"
     ],
     "tags": [],
     "citation": null,
@@ -19103,7 +19398,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_be14a54e439878b23a0c",
+    "id": "rk_20cd741d02bb0090aef5",
     "text": "STATUS: Holds — and it holds more strongly once the actual numbers are added. The original framing was directionally correct but thin enough to read as assertion rather than evidence.",
     "raw_text": "**STATUS: Holds — and it holds more strongly once the actual numbers are added. The original framing was directionally correct but thin enough to read as assertion rather than evidence.**",
     "provenance_type": "SOURCE",
@@ -19121,10 +19416,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:609",
+    "source_reference": "paragraph:618",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [
-      "rk_a4329ba5c2dde0d9af3d"
+      "rk_729aa732764b6de04093"
     ],
     "tags": [],
     "citation": null,
@@ -19137,7 +19432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_64c5c3f28dcd0abee555",
+    "id": "rk_5e076cdd8f080f322c8d",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -19155,7 +19450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:610",
+    "source_reference": "paragraph:619",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [],
     "tags": [],
@@ -19169,7 +19464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_31d722088b44e568aa7c",
+    "id": "rk_cdd4b5810545c6876161",
     "text": "The traditional \"318 bishops\" figure is not a reliable headcount — it's a legend, and ancient writers say so themselves. Eyewitnesses disagreed at the time: Eusebius of Caesarea said roughly 250 attended, Eustathius of Antioch said roughly 270, Athanasius of Alexandria (present as a deacon) said 318. Later historians converged on 318 within a generation, but 318 is not neutral — it echoes Genesis 14:14 (Abraham's 318 trained servants), a parallel Hilary of Poitiers and Ambrose both drew explicitly, and it doubles as a numerological pun in Greek letter-numerals (Τ-Ι-Η = 318, readable as a cross-shape combined with the first two letters of \"Jesus\"). Modern prosopographical work — Ernest Honigmann's 20th-century study establishing a documented list of 194 named attendees — puts the real number higher than that list but below the legend; the general modern estimate is roughly 250–320 bishops actually present, out of some 1,800 invited across the empire (~1,000 eastern, ~800 western). Most invited bishops, especially western ones, simply didn't come.",
     "raw_text": "**The traditional \"318 bishops\" figure is not a reliable headcount — it's a legend, and ancient writers say so themselves.** Eyewitnesses disagreed at the time: **Eusebius of Caesarea** said roughly 250 attended, **Eustathius of Antioch** said roughly 270, **Athanasius of Alexandria** (present as a deacon) said 318. Later historians converged on 318 within a generation, but 318 is not neutral — it echoes Genesis 14:14 (Abraham's 318 trained servants), a parallel **Hilary of Poitiers** and **Ambrose** both drew explicitly, and it doubles as a numerological pun in Greek letter-numerals (Τ-Ι-Η = 318, readable as a cross-shape combined with the first two letters of \"Jesus\"). Modern prosopographical work — **Ernest Honigmann**'s 20th-century study establishing a documented list of 194 named attendees — puts the real number higher than that list but below the legend; the general modern estimate is roughly 250–320 bishops actually present, out of some 1,800 invited across the empire (~1,000 eastern, ~800 western). Most invited bishops, especially western ones, simply didn't come.",
     "provenance_type": "SOURCE",
@@ -19187,7 +19482,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:611",
+    "source_reference": "paragraph:620",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [],
     "tags": [],
@@ -19201,7 +19496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b6f89c113369baaddc5a",
+    "id": "rk_63a79b7173d7a92526ea",
     "text": "The dissent count needs the fuller picture, and the fuller picture strengthens the \"political pressure\" reading rather than softening it. The final holdouts — the two bishops who never signed — were Theonas of Marmarica and Secundus of Ptolemais, both exiled with Arius. But five bishops initially objected to the creed's key term, homoousios: those two plus Eusebius of Nicomedia, Theognis of Nicaea, and Maris of Chalcedon. The latter three signed the creed itself but, on several accounts, held out longer on the attached anathemas against Arius or signed under evident pressure — Eusebius of Nicomedia in particular resumed open support for Arius within a few years and was separately exiled for it. Two final refusals understates how contested the actual signing process was.",
     "raw_text": "**The dissent count needs the fuller picture, and the fuller picture strengthens the \"political pressure\" reading rather than softening it.** The final holdouts — the two bishops who never signed — were **Theonas of Marmarica** and **Secundus of Ptolemais**, both exiled with Arius. But five bishops initially objected to the creed's key term, *homoousios*: those two plus **Eusebius of Nicomedia**, **Theognis of Nicaea**, and **Maris of Chalcedon**. The latter three signed the creed itself but, on several accounts, held out longer on the attached anathemas against Arius or signed under evident pressure — Eusebius of Nicomedia in particular resumed open support for Arius within a few years and was separately exiled for it. Two final refusals understates how contested the actual signing process was.",
     "provenance_type": "SOURCE",
@@ -19219,7 +19514,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:612",
+    "source_reference": "paragraph:621",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [],
     "tags": [],
@@ -19233,7 +19528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d80e526428e939d16c2b",
+    "id": "rk_33aa235d476f96722e91",
     "text": "A source-reliability note worth having: the two chief accounts of the council — Socrates Scholasticus and Sozomen, both 5th-century — write from the winning, pro-Nicene side, decades after the fact. The dissenting side's own history, by Philostorgius (Arian-sympathetic), survives only as a hostile summary written by a later opponent, the Patriarch Photius. The only surviving account from the losing side reaches us exclusively through its enemies' digest of it — itself a data point on how thoroughly the outcome was managed.",
     "raw_text": "**A source-reliability note worth having:** the two chief accounts of the council — **Socrates Scholasticus** and **Sozomen**, both 5th-century — write from the winning, pro-Nicene side, decades after the fact. The dissenting side's own history, by **Philostorgius** (Arian-sympathetic), survives only as a hostile summary written by a later opponent, the Patriarch **Photius**. The only surviving account from the losing side reaches us exclusively through its enemies' digest of it — itself a data point on how thoroughly the outcome was managed.",
     "provenance_type": "SOURCE",
@@ -19251,7 +19546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:613",
+    "source_reference": "paragraph:622",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [],
     "tags": [],
@@ -19265,7 +19560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a4329ba5c2dde0d9af3d",
+    "id": "rk_729aa732764b6de04093",
     "text": "CORRECTED: No change to the substance — the \"political pressure\" framing survives audit and gets stronger with real numbers attached. \"318 bishops\" is a later legend with a Genesis 14:14 echo and a Greek numerological pun built in; the real attendance was probably 250–320 out of roughly 1,800 invited, most of them eastern. Two bishops (Theonas, Secundus) never signed and were exiled with Arius, but five initially objected to the creed's key term, and the three who eventually signed did so under documented pressure — one of them resumed Arian sympathies within a few years. The dissenting side's own account of events survives only through a hostile summary by the winning side's later heirs.",
     "raw_text": "**CORRECTED:** *No change to the substance — the \"political pressure\" framing survives audit and gets stronger with real numbers attached. \"318 bishops\" is a later legend with a Genesis 14:14 echo and a Greek numerological pun built in; the real attendance was probably 250–320 out of roughly 1,800 invited, most of them eastern. Two bishops (Theonas, Secundus) never signed and were exiled with Arius, but five initially objected to the creed's key term, and the three who eventually signed did so under documented pressure — one of them resumed Arian sympathies within a few years. The dissenting side's own account of events survives only through a hostile summary by the winning side's later heirs.*",
     "provenance_type": "SOURCE",
@@ -19283,11 +19578,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:614",
+    "source_reference": "paragraph:623",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [
-      "rk_ff265441f5f1e9c27dda",
-      "rk_be14a54e439878b23a0c"
+      "rk_2deab5f10fe3b9771f7b",
+      "rk_20cd741d02bb0090aef5"
     ],
     "tags": [],
     "citation": null,
@@ -19300,7 +19595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_044037db091447db411e",
+    "id": "rk_f70ab21c9c5bf413bec9",
     "text": "WHY IT LOOKED RIGHT : the broad contours here — an emperor convening the council, exiling the losers, burning their books — are well documented and genuinely support the \"political pressure\" reading, so the claim wasn't wrong. The risk was leaving it under-sourced: a true claim stated without its evidence reads exactly like an unsupported one, and \"by a vote\" without attendance or dissent numbers invites the same skepticism a false claim would.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the broad contours here — an emperor convening the council, exiling the losers, burning their books — are well documented and genuinely support the \"political pressure\" reading, so the claim wasn't wrong. The risk was leaving it under-sourced: a true claim stated without its evidence reads exactly like an unsupported one, and \"by a vote\" without attendance or dissent numbers invites the same skepticism a false claim would.",
     "provenance_type": "CLAUDE",
@@ -19318,7 +19613,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.3 What Nicaea Actually Was > ⚑ AUDIT — Nicaea's \"Vote\": Attendance and Dissent",
-    "source_reference": "paragraph:615",
+    "source_reference": "paragraph:624",
     "parent_id": "audit_9b09c3475bb4fab2528f",
     "related_ids": [],
     "tags": [],
@@ -19332,288 +19627,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_141534297c6c689e61e0",
+    "id": "rk_c8691ac13350bd3784f8",
     "text": "The prayer problem:",
     "raw_text": "**The prayer problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:616",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1f78a800d3b110a32e7e",
-    "text": "•  If Jesus is God, who is he praying to in Gethsemane? God praying to himself requires either genuine distinction between persons — pushing toward three Gods (tritheism) — or prayer as performance with no real addressee.",
-    "raw_text": "•  If Jesus is God, who is he praying to in Gethsemane? God praying to himself requires either genuine distinction between persons — pushing toward three Gods (tritheism) — or prayer as performance with no real addressee.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:617",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_87abbdacb2e5242a24b7",
-    "text": "The death problem:",
-    "raw_text": "**The death problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:618",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_9543a28f04b75733bd40",
-    "text": "•  God by definition cannot die. If only Jesus's human nature died on the cross, humanity's debt was paid by a man, not God — which undermines the atonement logic. If God died, that requires explaining how an eternal omnipotent being ceased to exist for three days.",
-    "raw_text": "•  God by definition cannot die. If only Jesus's human nature died on the cross, humanity's debt was paid by a man, not God — which undermines the atonement logic. If God died, that requires explaining how an eternal omnipotent being ceased to exist for three days.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:619",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_30e82da52399701dcf17",
-    "text": "The knowledge problem:",
-    "raw_text": "**The knowledge problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:620",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_48a911aca12b777ce75b",
-    "text": "•  Mark 13:32 — if Jesus is fully God and fully omniscient, his not knowing the day or hour is incoherent. The theological patch is that Jesus \"set aside\" divine attributes during the incarnation — but a God who can be less than fully God creates new problems.",
-    "raw_text": "•  Mark 13:32 — if Jesus is fully God and fully omniscient, his not knowing the day or hour is incoherent. The theological patch is that Jesus \"set aside\" divine attributes during the incarnation — but a God who can be less than fully God creates new problems.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:621",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ef6c2e05973e3d51e5f8",
-    "text": "The forsaken problem:",
-    "raw_text": "**The forsaken problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:622",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_10ba82ac470ed1b66a85",
-    "text": "•  God abandoning God is incoherent under any strict unity model. The Trinity requires enough distinction that genuine abandonment is possible — but enough unity that they are one God. Holding both is what makes the doctrine require the word \"mystery.\"",
-    "raw_text": "•  God abandoning God is incoherent under any strict unity model. The Trinity requires enough distinction that genuine abandonment is possible — but enough unity that they are one God. Holding both is what makes the doctrine require the word \"mystery.\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:623",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_277a28350b83b34e4636",
-    "text": "The heresy trap:",
-    "raw_text": "**The heresy trap:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.4 Logical Questions Raised by the Doctrine"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
-    "source_reference": "paragraph:624",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_bb2fdd3685d16f73e89d",
-    "text": "•  \"Three roles\" = modalism (heresy). \"Father is greater\" = Arianism (heresy). Every common analogy for the Trinity slides into a declared heresy. The doctrine is structured so any attempt to make it intelligible makes it wrong.",
-    "raw_text": "•  \"Three roles\" = modalism (heresy). \"Father is greater\" = Arianism (heresy). Every common analogy for the Trinity slides into a declared heresy. The doctrine is structured so any attempt to make it intelligible makes it wrong.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19642,7 +19658,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4b522e1b53a99f21fc3a",
+    "id": "rk_f49aed05286cef7774a8",
+    "text": "•  If Jesus is God, who is he praying to in Gethsemane? God praying to himself requires either genuine distinction between persons — pushing toward three Gods (tritheism) — or prayer as performance with no real addressee.",
+    "raw_text": "•  If Jesus is God, who is he praying to in Gethsemane? God praying to himself requires either genuine distinction between persons — pushing toward three Gods (tritheism) — or prayer as performance with no real addressee.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:626",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9d2b8db379e6509e9281",
+    "text": "The death problem:",
+    "raw_text": "**The death problem:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:627",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3cde47bc4e78ec6a3cd2",
+    "text": "•  God by definition cannot die. If only Jesus's human nature died on the cross, humanity's debt was paid by a man, not God — which undermines the atonement logic. If God died, that requires explaining how an eternal omnipotent being ceased to exist for three days.",
+    "raw_text": "•  God by definition cannot die. If only Jesus's human nature died on the cross, humanity's debt was paid by a man, not God — which undermines the atonement logic. If God died, that requires explaining how an eternal omnipotent being ceased to exist for three days.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:628",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5ae667799a4e865c0c0a",
+    "text": "The knowledge problem:",
+    "raw_text": "**The knowledge problem:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:629",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_46d326210b036701c833",
+    "text": "•  Mark 13:32 — if Jesus is fully God and fully omniscient, his not knowing the day or hour is incoherent. The theological patch is that Jesus \"set aside\" divine attributes during the incarnation — but a God who can be less than fully God creates new problems.",
+    "raw_text": "•  Mark 13:32 — if Jesus is fully God and fully omniscient, his not knowing the day or hour is incoherent. The theological patch is that Jesus \"set aside\" divine attributes during the incarnation — but a God who can be less than fully God creates new problems.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:630",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c86591de612d97902722",
+    "text": "The forsaken problem:",
+    "raw_text": "**The forsaken problem:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:631",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2b781eba47fd4ae60df0",
+    "text": "•  God abandoning God is incoherent under any strict unity model. The Trinity requires enough distinction that genuine abandonment is possible — but enough unity that they are one God. Holding both is what makes the doctrine require the word \"mystery.\"",
+    "raw_text": "•  God abandoning God is incoherent under any strict unity model. The Trinity requires enough distinction that genuine abandonment is possible — but enough unity that they are one God. Holding both is what makes the doctrine require the word \"mystery.\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:632",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0796539a389d6a18c750",
+    "text": "The heresy trap:",
+    "raw_text": "**The heresy trap:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:633",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_badf6d731a8f90d6cae4",
+    "text": "•  \"Three roles\" = modalism (heresy). \"Father is greater\" = Arianism (heresy). Every common analogy for the Trinity slides into a declared heresy. The doctrine is structured so any attempt to make it intelligible makes it wrong.",
+    "raw_text": "•  \"Three roles\" = modalism (heresy). \"Father is greater\" = Arianism (heresy). Every common analogy for the Trinity slides into a declared heresy. The doctrine is structured so any attempt to make it intelligible makes it wrong.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.4 Logical Questions Raised by the Doctrine"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine",
+    "source_reference": "paragraph:634",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_108a360b2a729fc72fcc",
     "text": "CHECKED 10 AUG 2026",
     "raw_text": "`CHECKED 10 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -19660,7 +19955,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:626",
+    "source_reference": "paragraph:635",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19674,7 +19969,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8a900c88e05bf6418866",
+    "id": "rk_4192e40ce393410df4ca",
     "text": "AS RECORDED: the prayer problem, death problem, knowledge problem (Mark 13:32), forsaken problem (Mark 15:34), and \"heresy trap\" (§13.4), presented with no defenders' response.",
     "raw_text": "**AS RECORDED:** the prayer problem, death problem, knowledge problem (Mark 13:32), forsaken problem (Mark 15:34), and \"heresy trap\" (§13.4), presented with no defenders' response.",
     "provenance_type": "SOURCE",
@@ -19692,10 +19987,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:627",
+    "source_reference": "paragraph:636",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [
-      "rk_6bfced623b5fb178ea81"
+      "rk_9a5dd704286578bc1ff0"
     ],
     "tags": [],
     "citation": null,
@@ -19708,7 +20003,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4cecd3cf921467d8b0c2",
+    "id": "rk_3181dd84d8e5a98b758b",
     "text": "STATUS: Overstated by omission. The tensions themselves are real and taken seriously by theologians who write about them — that's precisely why a defense literature exists. The original entry presented them as though undefended, which they are not.",
     "raw_text": "**STATUS: Overstated by omission.** The tensions themselves are real and taken seriously by theologians who write about them — that's precisely why a defense literature exists. The original entry presented them as though undefended, which they are not.",
     "provenance_type": "SOURCE",
@@ -19726,10 +20021,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:628",
+    "source_reference": "paragraph:637",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [
-      "rk_6bfced623b5fb178ea81"
+      "rk_9a5dd704286578bc1ff0"
     ],
     "tags": [],
     "citation": null,
@@ -19742,7 +20037,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2cdab29767ba795fef95",
+    "id": "rk_6b951dec7be852d65d38",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -19760,7 +20055,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:629",
+    "source_reference": "paragraph:638",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19774,7 +20069,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4bd3a1b249fedbd6e83a",
+    "id": "rk_4cbf27a45daedf729729",
     "text": "The prayer problem has a standard, 1,500-year-old technical answer. The Council of Chalcedon (451 CE) defines one person (hypostasis) in two natures (physeis) \"without confusion, without change, without division, without separation.\" On this model, Jesus praying to the Father is the human nature addressing the Father in genuine, non-performed relation, while the divine nature/person remains constitutively one with the Father. This is the textbook Chalcedonian answer, not a modern patch.",
     "raw_text": "**The prayer problem has a standard, 1,500-year-old technical answer.** The Council of Chalcedon (451 CE) defines one person (*hypostasis*) in two natures (*physeis*) \"without confusion, without change, without division, without separation.\" On this model, Jesus praying to the Father is the *human* nature addressing the Father in genuine, non-performed relation, while the divine nature/person remains constitutively one with the Father. This is the textbook Chalcedonian answer, not a modern patch.",
     "provenance_type": "SOURCE",
@@ -19792,7 +20087,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:630",
+    "source_reference": "paragraph:639",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19806,7 +20101,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8fe58b0fe0cee1447463",
+    "id": "rk_3886ccda24a57972b3de",
     "text": "*The death problem has an equally standard mechanism: communicatio idiomatum** — \"communication of attributes.\" Properties of either nature (human: hunger, death, ignorance; divine: omniscience, immortality) may be predicated of the single person of Christ, because person, not nature, is the subject of predication. \"God died\" on this logic means the person who is God died according to his human nature* — the divine nature does not itself cease. How far attributes \"communicate\" across natures produced real historical disagreement (Lutheran and Reformed traditions differ sharply on it), so this is a live internal fault line even among Chalcedonians — but the basic move answering the death problem is centuries old, not unaddressed.",
     "raw_text": "**The death problem has an equally standard mechanism: *communicatio idiomatum*** — \"communication of attributes.\" Properties of either nature (human: hunger, death, ignorance; divine: omniscience, immortality) may be predicated of the single *person* of Christ, because person, not nature, is the subject of predication. \"God died\" on this logic means the person who is God died *according to his human nature* — the divine nature does not itself cease. How far attributes \"communicate\" across natures produced real historical disagreement (Lutheran and Reformed traditions differ sharply on it), so this is a live internal fault line even among Chalcedonians — but the basic move answering the death problem is centuries old, not unaddressed.",
     "provenance_type": "SOURCE",
@@ -19824,7 +20119,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:631",
+    "source_reference": "paragraph:640",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19838,7 +20133,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_80238c4e4aa6dc231532",
+    "id": "rk_ae58964978d70932721f",
     "text": "The knowledge problem (Mark 13:32) has two named, current, direct defenses. Thomas V. Morris [analytic theology], The Logic of God Incarnate (Cornell University Press, 1986), develops the \"two minds\" view: Christ has two distinct ranges of consciousness, one divine (omniscient) and one properly human (limited, capable of not-knowing), related asymmetrically — the divine mind has access to the human mind's content, not the reverse. This directly answers Mark 13:32: the human consciousness genuinely didn't know; the divine mind did. Oliver Crisp, Divinity and Humanity (Cambridge, 2007), ch. 5, engages Philippians 2:7 (\"emptied himself\") and explicitly rejects strong ontological kenoticism — the 19th-century-origin view that the Son actually divested himself of attributes like omniscience during the incarnation. Crisp's alternative, krypsis, holds the divine attributes are veiled, not relinquished. Both sub-positions exist among the doctrine's own defenders — this is an active argument, not silence.",
     "raw_text": "**The knowledge problem (Mark 13:32) has two named, current, direct defenses.** **Thomas V. Morris** [analytic theology], *The Logic of God Incarnate* (Cornell University Press, 1986), develops the **\"two minds\" view**: Christ has two distinct ranges of consciousness, one divine (omniscient) and one properly human (limited, capable of not-knowing), related asymmetrically — the divine mind has access to the human mind's content, not the reverse. This directly answers Mark 13:32: the human consciousness genuinely didn't know; the divine mind did. **Oliver Crisp**, *Divinity and Humanity* (Cambridge, 2007), ch. 5, engages Philippians 2:7 (\"emptied himself\") and explicitly **rejects** strong ontological kenoticism — the 19th-century-origin view that the Son actually divested himself of attributes like omniscience during the incarnation. Crisp's alternative, **krypsis**, holds the divine attributes are *veiled*, not relinquished. Both sub-positions exist among the doctrine's own defenders — this is an active argument, not silence.",
     "provenance_type": "SOURCE",
@@ -19856,7 +20151,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:632",
+    "source_reference": "paragraph:641",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19870,7 +20165,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_189998790273b3f47a34",
+    "id": "rk_ddfadaef43392c18a859",
     "text": "The forsaken problem (Mark 15:34) and the \"heresy trap\" are real, and this pass could not independently verify a specific named modern defender for either — flagged rather than asserted, per this project's standing rule against citing unverified recall. The standard patristic-era move on the forsaken cry runs on the same communicatio idiomatum logic above (the human nature experiencing genuine dereliction); the \"heresy trap\" point — that Trinitarian language is deliberately apophatic, with \"person\" and \"substance\" functioning as technical terms rather than ordinary ones (the Cappadocian tradition) — is a standard theological move, but a specific current citation for it needs a follow-up search before it goes in this entry as a named source.",
     "raw_text": "**The forsaken problem (Mark 15:34) and the \"heresy trap\" are real, and this pass could not independently verify a specific named modern defender for either** — flagged rather than asserted, per this project's standing rule against citing unverified recall. The standard patristic-era move on the forsaken cry runs on the same *communicatio idiomatum* logic above (the human nature experiencing genuine dereliction); the \"heresy trap\" point — that Trinitarian language is deliberately apophatic, with \"person\" and \"substance\" functioning as technical terms rather than ordinary ones (the Cappadocian tradition) — is a standard theological move, but a specific current citation for it needs a follow-up search before it goes in this entry as a named source.",
     "provenance_type": "SOURCE",
@@ -19888,7 +20183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:633",
+    "source_reference": "paragraph:642",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19902,7 +20197,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6bfced623b5fb178ea81",
+    "id": "rk_9a5dd704286578bc1ff0",
     "text": "CORRECTED: The prayer, death, and knowledge problems all have substantial, named answers in the theological literature — Chalcedonian two-natures Christology and communicatio idiomatum for the first two; Thomas Morris's \"two minds\" view (1986) and Oliver Crisp's \"krypsis\" (2007) for Mark 13:32 specifically. These are live, actively argued positions, not settled consensus — Lutheran and Reformed traditions still disagree on how far attributes communicate, and Morris's and Crisp's approaches are themselves distinct solutions, not one unified answer. The forsaken problem and the heresy trap remain real tensions; this entry does not yet have a verified named modern defender for either and should not claim one.",
     "raw_text": "**CORRECTED:** *The prayer, death, and knowledge problems all have substantial, named answers in the theological literature — Chalcedonian two-natures Christology and* communicatio idiomatum *for the first two; Thomas Morris's \"two minds\" view (1986) and Oliver Crisp's \"krypsis\" (2007) for Mark 13:32 specifically. These are live, actively argued positions, not settled consensus — Lutheran and Reformed traditions still disagree on how far attributes communicate, and Morris's and Crisp's approaches are themselves distinct solutions, not one unified answer. The forsaken problem and the heresy trap remain real tensions; this entry does not yet have a verified named modern defender for either and should not claim one.*",
     "provenance_type": "SOURCE",
@@ -19920,11 +20215,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:634",
+    "source_reference": "paragraph:643",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [
-      "rk_8a900c88e05bf6418866",
-      "rk_4cecd3cf921467d8b0c2"
+      "rk_4192e40ce393410df4ca",
+      "rk_3181dd84d8e5a98b758b"
     ],
     "tags": [],
     "citation": null,
@@ -19937,7 +20232,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8335627811c909fac4a7",
+    "id": "rk_943fec2e6424d6633378",
     "text": "WHY IT LOOKED RIGHT : live philosophical tensions make a genuinely satisfying \"gotcha,\" and the tensions themselves are real — the error was treating \"the doctrine's defenders have answers\" and \"the answers resolve the tension to everyone's satisfaction\" as the same claim. They aren't: noting that Morris and Crisp exist doesn't mean the doctrine is uncontroversial, only that it isn't undefended.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** live philosophical tensions make a genuinely satisfying \"gotcha,\" and the tensions themselves are real — the error was treating \"the doctrine's defenders have answers\" and \"the answers resolve the tension to everyone's satisfaction\" as the same claim. They aren't: noting that Morris and Crisp exist doesn't mean the doctrine is uncontroversial, only that it isn't undefended.",
     "provenance_type": "CLAUDE",
@@ -19955,7 +20250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.4 Logical Questions Raised by the Doctrine > ⚑ AUDIT — Logical Questions: the Traditional Answers Were Missing",
-    "source_reference": "paragraph:635",
+    "source_reference": "paragraph:644",
     "parent_id": "audit_edeeed3ec89aec670160",
     "related_ids": [],
     "tags": [],
@@ -19969,288 +20264,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_10605d43bc7102d1decb",
+    "id": "rk_4bf23909380e9509cdb6",
     "text": "•  Track it across the Gospels. In Mark — earliest — Jesus is fully human, surprised by things, asks questions. No birth narrative. In John — latest, 60+ years after Jesus died — \"In the beginning was the Word, and the Word was with God, and the Word was God.\"",
     "raw_text": "•  Track it across the Gospels. In Mark — earliest — Jesus is fully human, surprised by things, asks questions. No birth narrative. In John — latest, 60+ years after Jesus died — \"In the beginning was the Word, and the Word was with God, and the Word was God.\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:636",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_afe520a22d19bdc0aa24",
-    "text": "•  John 1:1 deliberately echoes Genesis 1:1. The Logos concept in John comes directly from Stoic and Platonic Greek philosophy — the divine rational principle underlying the cosmos. The author takes that Greek philosophical category and identifies it with Jesus.",
-    "raw_text": "•  John 1:1 deliberately echoes Genesis 1:1. The Logos concept in John comes directly from Stoic and Platonic Greek philosophy — the divine rational principle underlying the cosmos. The author takes that Greek philosophical category and identifies it with Jesus.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:637",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7651c6acb52e0beb591b",
-    "text": "•  This is Hellenistic philosophy applied to a Jewish prophet. The Hebrew authors of the Old Testament did not think in these categories.",
-    "raw_text": "•  This is Hellenistic philosophy applied to a Jewish prophet. The Hebrew authors of the Old Testament did not think in these categories.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:638",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_865713ad1dc800710f91",
-    "text": "•  The divine identity is the endpoint of a 60-year theological development, not the starting point.",
-    "raw_text": "•  The divine identity is the endpoint of a 60-year theological development, not the starting point.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:639",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_c4b07e2ed8ec50647e57",
-    "text": "Key references:",
-    "raw_text": "**Key references:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:640",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f416eb4db397fc033469",
-    "text": "•  Mark 13:32; Mark 10:18; Mark 15:34 — subordination and distinction",
-    "raw_text": "•  Mark 13:32; Mark 10:18; Mark 15:34 — subordination and distinction",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:641",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_fb6be4da6c0de0425746",
-    "text": "•  John 1:1-18 — the Logos hymn and maximum divine claim",
-    "raw_text": "•  John 1:1-18 — the Logos hymn and maximum divine claim",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:642",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3acea5a8e06026834e17",
-    "text": "•  John 14:28; John 17:3 — Jesus distinguishing himself from the Father",
-    "raw_text": "•  John 14:28; John 17:3 — Jesus distinguishing himself from the Father",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:643",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5ddd57ed36c2f9e52fd3",
-    "text": "•  1 Corinthians 15:24-28 — eternal subordination of the Son",
-    "raw_text": "•  1 Corinthians 15:24-28 — eternal subordination of the Son",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
-      "13.5 Where High Christology Comes From"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
-    "source_reference": "paragraph:644",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_86e8a38620df8ab3f836",
-    "text": "•  Philippians 2:5-11 — the kenosis passage, Jesus \"emptying\" himself of divine attributes",
-    "raw_text": "•  Philippians 2:5-11 — the kenosis passage, Jesus \"emptying\" himself of divine attributes",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20279,9 +20295,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_50920da45aae7a65c93e",
-    "text": "Sources — critical:",
-    "raw_text": "**Sources — critical:**",
+    "id": "rk_01d278972784cd74e284",
+    "text": "•  John 1:1 deliberately echoes Genesis 1:1. The Logos concept in John comes directly from Stoic and Platonic Greek philosophy — the divine rational principle underlying the cosmos. The author takes that Greek philosophical category and identifies it with Jesus.",
+    "raw_text": "•  John 1:1 deliberately echoes Genesis 1:1. The Logos concept in John comes directly from Stoic and Platonic Greek philosophy — the divine rational principle underlying the cosmos. The author takes that Greek philosophical category and identifies it with Jesus.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20310,9 +20326,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_124a142d6c7b31df17f5",
-    "text": "•  Ehrman, Bart D. How Jesus Became God (2014) — full historical development.",
-    "raw_text": "•  Ehrman, Bart D. How Jesus Became God (2014) — full historical development.",
+    "id": "rk_0c40ba562537aecc8824",
+    "text": "•  This is Hellenistic philosophy applied to a Jewish prophet. The Hebrew authors of the Old Testament did not think in these categories.",
+    "raw_text": "•  This is Hellenistic philosophy applied to a Jewish prophet. The Hebrew authors of the Old Testament did not think in these categories.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20341,9 +20357,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8296d7118d1e22ea9205",
-    "text": "•  Dunn, James D.G. Christology in the Making (1980) — careful tracing across NT.",
-    "raw_text": "•  Dunn, James D.G. Christology in the Making (1980) — careful tracing across NT.",
+    "id": "rk_758186c396763273e5e9",
+    "text": "•  The divine identity is the endpoint of a 60-year theological development, not the starting point.",
+    "raw_text": "•  The divine identity is the endpoint of a 60-year theological development, not the starting point.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20372,9 +20388,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5fa6185a8542dd221026",
-    "text": "•  Freeman, Charles. AD 381 (2008) — Constantinople and political finalization.",
-    "raw_text": "•  Freeman, Charles. AD 381 (2008) — Constantinople and political finalization.",
+    "id": "rk_c5b79c680d1441c29b19",
+    "text": "Key references:",
+    "raw_text": "**Key references:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20403,9 +20419,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_93f544a6125ba31b18fa",
-    "text": "Sources — defending:",
-    "raw_text": "**Sources — defending:**",
+    "id": "rk_0709b4280a9971309aa7",
+    "text": "•  Mark 13:32; Mark 10:18; Mark 15:34 — subordination and distinction",
+    "raw_text": "•  Mark 13:32; Mark 10:18; Mark 15:34 — subordination and distinction",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20434,9 +20450,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b61e4d329d96b889a901",
-    "text": "•  Athanasius. On the Incarnation (4th century CE) — original defense of Nicene position.",
-    "raw_text": "•  Athanasius. On the Incarnation (4th century CE) — original defense of Nicene position.",
+    "id": "rk_7ae6eeeb5a1dff66b8bd",
+    "text": "•  John 1:1-18 — the Logos hymn and maximum divine claim",
+    "raw_text": "•  John 1:1-18 — the Logos hymn and maximum divine claim",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20465,9 +20481,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_77978adf38c93b32ceea",
-    "text": "•  Bauckham, Richard. Jesus and the God of Israel (2008) — argues early high Christology is consistent with Jewish monotheism.",
-    "raw_text": "•  Bauckham, Richard. Jesus and the God of Israel (2008) — argues early high Christology is consistent with Jewish monotheism.",
+    "id": "rk_c59646d5ee0bff83417c",
+    "text": "•  John 14:28; John 17:3 — Jesus distinguishing himself from the Father",
+    "raw_text": "•  John 14:28; John 17:3 — Jesus distinguishing himself from the Father",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20496,9 +20512,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a6ad87b8f68da8703dca",
-    "text": "•  Letham, Robert. The Holy Trinity (2004) — thorough Reformed theological defense.",
-    "raw_text": "•  Letham, Robert. The Holy Trinity (2004) — thorough Reformed theological defense.",
+    "id": "rk_d078c371504409bfe386",
+    "text": "•  1 Corinthians 15:24-28 — eternal subordination of the Son",
+    "raw_text": "•  1 Corinthians 15:24-28 — eternal subordination of the Son",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20527,7 +20543,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_111b354442b57b396589",
+    "id": "rk_753d1e06e4a6f9df676a",
+    "text": "•  Philippians 2:5-11 — the kenosis passage, Jesus \"emptying\" himself of divine attributes",
+    "raw_text": "•  Philippians 2:5-11 — the kenosis passage, Jesus \"emptying\" himself of divine attributes",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:654",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_81fa0d365e07d66b5af3",
+    "text": "Sources — critical:",
+    "raw_text": "**Sources — critical:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:655",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8861f31440f99ed04a30",
+    "text": "•  Ehrman, Bart D. How Jesus Became God (2014) — full historical development.",
+    "raw_text": "•  Ehrman, Bart D. How Jesus Became God (2014) — full historical development.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:656",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8f46dc4cf538d9e8d5c3",
+    "text": "•  Dunn, James D.G. Christology in the Making (1980) — careful tracing across NT.",
+    "raw_text": "•  Dunn, James D.G. Christology in the Making (1980) — careful tracing across NT.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:657",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0da18acec38142daefae",
+    "text": "•  Freeman, Charles. AD 381 (2008) — Constantinople and political finalization.",
+    "raw_text": "•  Freeman, Charles. AD 381 (2008) — Constantinople and political finalization.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:658",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_907ab811d3e56e7d4bcb",
+    "text": "Sources — defending:",
+    "raw_text": "**Sources — defending:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:659",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6522d5c5ba628cb98b78",
+    "text": "•  Athanasius. On the Incarnation (4th century CE) — original defense of Nicene position.",
+    "raw_text": "•  Athanasius. On the Incarnation (4th century CE) — original defense of Nicene position.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:660",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_60a0bd4913770a8eea22",
+    "text": "•  Bauckham, Richard. Jesus and the God of Israel (2008) — argues early high Christology is consistent with Jewish monotheism.",
+    "raw_text": "•  Bauckham, Richard. Jesus and the God of Israel (2008) — argues early high Christology is consistent with Jewish monotheism.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:661",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_20fd0c1b8a3bbd7b9617",
+    "text": "•  Letham, Robert. The Holy Trinity (2004) — thorough Reformed theological defense.",
+    "raw_text": "•  Letham, Robert. The Holy Trinity (2004) — thorough Reformed theological defense.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM",
+      "13.5 Where High Christology Comes From"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From",
+    "source_reference": "paragraph:662",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e13858548522c3187124",
     "text": "CHECKED 10 AUG 2026",
     "raw_text": "`CHECKED 10 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -20545,7 +20840,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:654",
+    "source_reference": "paragraph:663",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [],
     "tags": [],
@@ -20559,7 +20854,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0741593db7627fc1175a",
+    "id": "rk_81ab0aed0aaea68ef3c4",
     "text": "AS RECORDED: \"This is Hellenistic philosophy applied to a Jewish prophet... The divine identity is the endpoint of a 60-year theological development, not the starting point.\" (§13.5)",
     "raw_text": "**AS RECORDED:** \"This is Hellenistic philosophy applied to a Jewish prophet... The divine identity is the endpoint of a 60-year theological development, not the starting point.\" (§13.5)",
     "provenance_type": "SOURCE",
@@ -20577,10 +20872,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:655",
+    "source_reference": "paragraph:664",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [
-      "rk_3432389b2bdfb4bda6db"
+      "rk_4279657fd16f3d5da3ce"
     ],
     "tags": [],
     "citation": null,
@@ -20593,7 +20888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_49811ec30c4f0e15a1d8",
+    "id": "rk_d71bc33498dfa0ca9001",
     "text": "STATUS: Overstated. The Mark-vs-John textual contrast is real and undisputed. The causal claim built on it — that high Christology is late and Hellenistic-imported — is one side of a genuine, still-live fight, stated here as though it were the settled critical position.",
     "raw_text": "**STATUS: Overstated.** The Mark-vs-John textual contrast is real and undisputed. The causal claim built on it — that high Christology is late and Hellenistic-imported — is one side of a genuine, still-live fight, stated here as though it were the settled critical position.",
     "provenance_type": "SOURCE",
@@ -20611,10 +20906,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:656",
+    "source_reference": "paragraph:665",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [
-      "rk_3432389b2bdfb4bda6db"
+      "rk_4279657fd16f3d5da3ce"
     ],
     "tags": [],
     "citation": null,
@@ -20627,7 +20922,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_00293af72ca9718e3a33",
+    "id": "rk_96706e51f405e58eeefe",
     "text": "AUDIT",
     "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
@@ -20645,7 +20940,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:657",
+    "source_reference": "paragraph:666",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [],
     "tags": [],
@@ -20659,7 +20954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6ea3d7ba7c58601ad9c1",
+    "id": "rk_7ba568e0527c298a98ab",
     "text": "The \"late Hellenistic import\" model has a specific origin and a specific problem. Wilhelm Bousset [CRITICAL, foundational], Kyrios Christos (1913), argued cultic \"Kyrios\" devotion to Jesus arose not in the earliest Palestinian Jewish community but among later Hellenistic Gentile congregations, importing pagan lord-cult categories onto a Jewish prophet. This defined the field's agenda for most of the 20th century, but it is now widely regarded — including by non-evangelical specialists — as resting on an oversimplified Jewish/Hellenistic binary; more recent scholarship traces \"Kyrios\" language to Jewish, not pagan, tradition.",
     "raw_text": "**The \"late Hellenistic import\" model has a specific origin and a specific problem.** **Wilhelm Bousset** [CRITICAL, foundational], *Kyrios Christos* (1913), argued cultic \"Kyrios\" devotion to Jesus arose not in the earliest Palestinian Jewish community but among later Hellenistic Gentile congregations, importing pagan lord-cult categories onto a Jewish prophet. This defined the field's agenda for most of the 20th century, but it is now widely regarded — including by non-evangelical specialists — as resting on an oversimplified Jewish/Hellenistic binary; more recent scholarship traces \"Kyrios\" language to Jewish, not pagan, tradition.",
     "provenance_type": "SOURCE",
@@ -20677,7 +20972,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:658",
+    "source_reference": "paragraph:667",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [],
     "tags": [],
@@ -20691,7 +20986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f6f73cb766cb936df077",
+    "id": "rk_f19b53f7ae71e1b47f6e",
     "text": "The strongest current version of the \"gradual/late\" side is Bart Ehrman's, and it is narrower than the corpus's summary of it. Bart D. Ehrman [CRITICAL], How Jesus Became God (HarperOne, 2014), argues the earliest Christology was already an exaltation Christology (Jesus raised to divine status at the resurrection), and that this \"moment of exaltation\" gets progressively telescoped earlier across the New Testament — resurrection → baptism (Mark) → birth (Matthew, Luke) → pre-existence (John, Paul in places). This is a chronological-telescoping model, not Bousset's geographic Jewish/Hellenistic-diffusion model, and it has drawn documented criticism — including from Larry Hurtado directly — for overdrawing a hard exaltation/incarnation dichotomy and underweighting Jewish apocalyptic precedent for pre-existent eschatological figures (1 Enoch's Son of Man), which would make early pre-existence language less anomalous than Ehrman treats it. Maurice Casey [CRITICAL], From Jewish Prophet to Gentile God (James Clarke/Westminster John Knox, 1991), is a third gradual-development voice, arguing full incarnational Christology emerges specifically from the Johannine community's social separation from the synagogue — a sociological mechanism, distinct from both Bousset and Ehrman.",
     "raw_text": "**The strongest current version of the \"gradual/late\" side is Bart Ehrman's, and it is narrower than the corpus's summary of it.** **Bart D. Ehrman** [CRITICAL], *How Jesus Became God* (HarperOne, 2014), argues the earliest Christology was already an *exaltation* Christology (Jesus raised to divine status at the resurrection), and that this \"moment of exaltation\" gets progressively telescoped earlier across the New Testament — resurrection → baptism (Mark) → birth (Matthew, Luke) → pre-existence (John, Paul in places). This is a chronological-telescoping model, not Bousset's geographic Jewish/Hellenistic-diffusion model, and it has drawn documented criticism — including from **Larry Hurtado** directly — for overdrawing a hard exaltation/incarnation dichotomy and underweighting Jewish apocalyptic precedent for pre-existent eschatological figures (1 Enoch's Son of Man), which would make early pre-existence language less anomalous than Ehrman treats it. **Maurice Casey** [CRITICAL], *From Jewish Prophet to Gentile God* (James Clarke/Westminster John Knox, 1991), is a third gradual-development voice, arguing full incarnational Christology emerges specifically from the Johannine community's social separation from the synagogue — a sociological mechanism, distinct from both Bousset and Ehrman.",
     "provenance_type": "SOURCE",
@@ -20709,7 +21004,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:659",
+    "source_reference": "paragraph:668",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [],
     "tags": [],
@@ -20723,7 +21018,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d376d60dbcc45a113bee",
+    "id": "rk_69ba991fcb69a57ba872",
     "text": "The strongest current version of the opposing side is not evangelical apologetics — it's mainstream historical-critical scholarship, and it is generally credited with shifting the field. Larry Hurtado [CRITICAL, mainstream — University of Edinburgh, Chair of New Testament Language, Literature and Theology, emeritus], One God, One Lord (Fortress, 1988) and Lord Jesus Christ: Devotion to Jesus in Earliest Christianity (Eerdmans, 2003), argues worship-level \"Jesus devotion\" — prayer, hymns, cultic invocation alongside God — is attested at the earliest recoverable stage of the movement, built from devotional practice, not just later titles or concepts. Richard Bauckham [CRITICAL, mainstream — St Andrews], God Crucified (1998), expanded as Jesus and the God of Israel (Eerdmans, 2008), argues New Testament writers include Jesus within the unique \"divine identity\" of YHWH — using Second Temple Jewish monotheism's own categories, not later Nicene ontology — already in the earliest strata: pre-Pauline formulas (Philippians 2:6-11), 1 Corinthians 8:6. On Bauckham's argument this is present before any New Testament book was written. Both scholars work in critical-scholarship terms, not evangelical apologetics, even though their conclusions are congenial to later orthodoxy — they should be labeled by institutional and methodological position, not by who finds their conclusions comfortable. James D.G. Dunn, Christology in the Making (SCM/Westminster, 1980; 2nd ed. Eerdmans, 1996), originally argued against real pre-existence Christology before John; the 1996 edition adds a foreword responding to Hurtado's and Casey's critiques. This corpus has not yet verified exactly how far that foreword revises his original position — treat any specific claim about Dunn's revised view as unconfirmed until checked directly, not as settled.",
     "raw_text": "**The strongest current version of the opposing side is not evangelical apologetics — it's mainstream historical-critical scholarship, and it is generally credited with shifting the field.** **Larry Hurtado** [CRITICAL, mainstream — University of Edinburgh, Chair of New Testament Language, Literature and Theology, emeritus], *One God, One Lord* (Fortress, 1988) and *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity* (Eerdmans, 2003), argues worship-level \"Jesus devotion\" — prayer, hymns, cultic invocation alongside God — is attested at the *earliest* recoverable stage of the movement, built from devotional *practice*, not just later titles or concepts. **Richard Bauckham** [CRITICAL, mainstream — St Andrews], *God Crucified* (1998), expanded as *Jesus and the God of Israel* (Eerdmans, 2008), argues New Testament writers include Jesus within the unique \"divine identity\" of YHWH — using Second Temple Jewish monotheism's own categories, not later Nicene ontology — already in the earliest strata: pre-Pauline formulas (Philippians 2:6-11), 1 Corinthians 8:6. On Bauckham's argument this is present before any New Testament book was written. Both scholars work in critical-scholarship terms, not evangelical apologetics, even though their conclusions are congenial to later orthodoxy — they should be labeled by institutional and methodological position, not by who finds their conclusions comfortable. **James D.G. Dunn**, *Christology in the Making* (SCM/Westminster, 1980; 2nd ed. Eerdmans, 1996), originally argued against real pre-existence Christology before John; the 1996 edition adds a foreword responding to Hurtado's and Casey's critiques. **This corpus has not yet verified exactly how far that foreword revises his original position — treat any specific claim about Dunn's revised view as unconfirmed until checked directly, not as settled.**",
     "provenance_type": "SOURCE",
@@ -20741,7 +21036,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:660",
+    "source_reference": "paragraph:669",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [],
     "tags": [],
@@ -20755,7 +21050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3432389b2bdfb4bda6db",
+    "id": "rk_4279657fd16f3d5da3ce",
     "text": "CORRECTED: Mark and John do present starkly different Christologies — low and human in Mark, cosmic and preexistent in John — and that observation holds. Whether the gap reflects a late Hellenistic import onto an originally low-Christology tradition (Bousset, 1913; Casey, 1991; Ehrman's narrower exaltation-telescoping model, 2014) or an early \"divine identity\" Christology already present in the pre-Pauline material, which John then develops further rather than invents (Hurtado, 1988/2003; Bauckham, 1998/2008) is a live, unresolved argument in the field — and the balance of specialist opinion has moved toward the early-high side since the 1990s–2000s, with Hurtado and Bauckham generally credited with that shift. \"The divine identity is the endpoint of a 60-year theological development, not the starting point\" states the contested side as though it were settled.",
     "raw_text": "**CORRECTED:** *Mark and John do present starkly different Christologies — low and human in Mark, cosmic and preexistent in John — and that observation holds. Whether the gap reflects a late Hellenistic import onto an originally low-Christology tradition (Bousset, 1913; Casey, 1991; Ehrman's narrower exaltation-telescoping model, 2014) or an early \"divine identity\" Christology already present in the pre-Pauline material, which John then develops further rather than invents (Hurtado, 1988/2003; Bauckham, 1998/2008) is a live, unresolved argument in the field — and the balance of specialist opinion has moved toward the early-high side since the 1990s–2000s, with Hurtado and Bauckham generally credited with that shift. \"The divine identity is the endpoint of a 60-year theological development, not the starting point\" states the contested side as though it were settled.*",
     "provenance_type": "SOURCE",
@@ -20773,11 +21068,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:661",
+    "source_reference": "paragraph:670",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [
-      "rk_0741593db7627fc1175a",
-      "rk_49811ec30c4f0e15a1d8"
+      "rk_81ab0aed0aaea68ef3c4",
+      "rk_d71bc33498dfa0ca9001"
     ],
     "tags": [],
     "citation": null,
@@ -20790,7 +21085,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4aabfcf704e1b95904cd",
+    "id": "rk_57127dff0db13af76659",
     "text": "WHY IT LOOKED RIGHT : the Mark/John contrast is vivid and textually real, and \"later theology reads developed ideas back into earlier texts\" is a pattern the corpus documents elsewhere and correctly (Nicaea and the Trinity are a clean example of exactly that). The error was extending that same pattern to Christology's origin as though it were more of the same finding, without checking whether the specific causal claim — Hellenistic import, not earlier Jewish \"divine identity\" categories — was itself still contested. It was.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the Mark/John contrast is vivid and textually real, and \"later theology reads developed ideas back into earlier texts\" is a pattern the corpus documents elsewhere and correctly (Nicaea and the Trinity are a clean example of exactly that). The error was extending that same pattern to Christology's *origin* as though it were more of the same finding, without checking whether the specific causal claim — Hellenistic import, not earlier Jewish \"divine identity\" categories — was itself still contested. It was.",
     "provenance_type": "CLAUDE",
@@ -20808,7 +21103,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM > 13.5 Where High Christology Comes From > ⚑ AUDIT — Where High Christology Comes From",
-    "source_reference": "paragraph:662",
+    "source_reference": "paragraph:671",
     "parent_id": "audit_0c0e7a3543869eca7b00",
     "related_ids": [],
     "tags": [],
@@ -20822,7 +21117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0a25739fd6a9cdbfcde0",
+    "id": "rk_2b8a3690b356d93df4e8",
     "text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
     "raw_text": "Religious claims sometimes concern observable events and sometimes concern matters understood to lie beyond empirical testing. This section distinguishes those categories and records common ways evidence is interpreted.",
     "provenance_type": "PRE_CONVENTION",
@@ -20838,7 +21133,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-    "source_reference": "paragraph:663",
+    "source_reference": "paragraph:672",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20852,7 +21147,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_96cc273c4913ed81f92c",
+    "id": "rk_b5732433c924d040fe32",
     "text": "The verse behind it: Hebrews 11:1 — \"Faith is the substance of things hoped for, the evidence of things not seen.\"",
     "raw_text": "**The verse behind it: **Hebrews 11:1 — \"Faith is the substance of things hoped for, the evidence of things not seen.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -20869,7 +21164,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:664",
+    "source_reference": "paragraph:673",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20883,7 +21178,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9f3c3fd921ebef5dd8aa",
+    "id": "rk_e9edf765fbcee80a4035",
     "text": "What it is doing: Redefining \"evidence\" to mean belief itself, then presenting that redefinition as a response to the request for evidence. Also implicitly conceding that empirical evidence does not exist or is not required.",
     "raw_text": "**What it is doing: **Redefining \"evidence\" to mean belief itself, then presenting that redefinition as a response to the request for evidence. Also implicitly conceding that empirical evidence does not exist or is not required.",
     "provenance_type": "PRE_CONVENTION",
@@ -20900,7 +21195,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:665",
+    "source_reference": "paragraph:674",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20914,7 +21209,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c1438df09d249887abdd",
+    "id": "rk_82ae9b80d13eee1ce6bc",
     "text": "The problem:",
     "raw_text": "**The problem:**",
     "provenance_type": "PRE_CONVENTION",
@@ -20931,7 +21226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:666",
+    "source_reference": "paragraph:675",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20945,7 +21240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d784cc60581b9facc052",
+    "id": "rk_4752ae9c7768da2c816a",
     "text": "•  If faith not requiring evidence is a virtue, then any belief held without evidence is equally virtuous — including false beliefs. The framework cannot distinguish between true and false claims.",
     "raw_text": "•  If faith not requiring evidence is a virtue, then any belief held without evidence is equally virtuous — including false beliefs. The framework cannot distinguish between true and false claims.",
     "provenance_type": "PRE_CONVENTION",
@@ -20962,7 +21257,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:667",
+    "source_reference": "paragraph:676",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20976,7 +21271,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f9c2f102dc67e748b3f0",
+    "id": "rk_d7c222381f497e4ffb5f",
     "text": "•  When believers make claims in the empirical world — \"God healed my aunt,\" \"prayer works,\" \"God answers prayers\" — they are making empirical claims. Those claims require empirical evidence. You cannot make empirical claims and then retreat to \"faith doesn't require evidence\" when asked to verify them.",
     "raw_text": "•  When believers make claims in the empirical world — \"God healed my aunt,\" \"prayer works,\" \"God answers prayers\" — they are making empirical claims. Those claims require empirical evidence. You cannot make empirical claims and then retreat to \"faith doesn't require evidence\" when asked to verify them.",
     "provenance_type": "PRE_CONVENTION",
@@ -20993,7 +21288,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:668",
+    "source_reference": "paragraph:677",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -21007,7 +21302,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6add38761d8942878650",
+    "id": "rk_d18c5f988ff38f4d3eb4",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
@@ -21024,7 +21319,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:669",
+    "source_reference": "paragraph:678",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -21038,7 +21333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ca4c8a86f01189ccc6f6",
+    "id": "rk_3263062e1cfe4b0f2a5e",
     "text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
     "raw_text": "•  Clarifying question: \"I am not asking about your faith. I am asking about the specific claim you just made. That is a factual claim about the world. What supports it?\"",
     "provenance_type": "PRE_CONVENTION",
@@ -21055,7 +21350,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:670",
+    "source_reference": "paragraph:679",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -21069,7 +21364,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fb7deb535e3ad4bec527",
+    "id": "rk_b5b97eec822b47d7cde7",
     "text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true.\"",
     "raw_text": "•  Direct question: \"Every religion requires faith in exactly the same way. Faith is a method for maintaining belief regardless of evidence, not a method for determining which religion is true.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -21086,285 +21381,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.1 \"Faith doesn't require evidence\"",
-    "source_reference": "paragraph:671",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_9971b9d1ee5c9d87b000",
-    "text": "What it is: Subjective testimony offered as empirical evidence for divine existence or action.",
-    "raw_text": "**What it is: **Subjective testimony offered as empirical evidence for divine existence or action.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:672",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7040c31eb7943d0e921f",
-    "text": "Why it fails as evidence: Personal experience is not falsifiable, not reproducible, cannot be independently verified, and cannot distinguish between divine and non-divine causes. The same type of experience is reported across every religion — including mutually exclusive ones. Muslims, Hindus, Buddhists, and Pentecostals all report powerful subjective encounters with the divine. They cannot all be right about what the experience means.",
-    "raw_text": "**Why it fails as evidence: **Personal experience is not falsifiable, not reproducible, cannot be independently verified, and cannot distinguish between divine and non-divine causes. The same type of experience is reported across every religion — including mutually exclusive ones. Muslims, Hindus, Buddhists, and Pentecostals all report powerful subjective encounters with the divine. They cannot all be right about what the experience means.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:673",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_0e4c6a83623abb9f68f0",
-    "text": "The Epley problem:",
-    "raw_text": "**The Epley problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:674",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_73ae133c171c79a9af11",
-    "text": "•  Research shows that believers' sense of what God is saying tracks their own preferences via unconscious projection (Epley et al., PNAS 2009). The experience of divine communication is empirically indistinguishable from the experience of one's own preferences felt strongly.",
-    "raw_text": "•  Research shows that believers' sense of what God is saying tracks their own preferences via unconscious projection (Epley et al., PNAS 2009). The experience of divine communication is empirically indistinguishable from the experience of one's own preferences felt strongly.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:675",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_96d097c4a15a35461275",
-    "text": "The neurological problem:",
-    "raw_text": "**The neurological problem:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:676",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_075e47027f22a3cd01df",
-    "text": "•  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.",
-    "raw_text": "•  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:677",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7f4b4aabd28ce5f7cf1b",
-    "text": "Why this assessment holds — questions for conversation:",
-    "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:678",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7b1d3f763437f878c0db",
-    "text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
-    "raw_text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
-    "source_reference": "paragraph:679",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_9b5eed739da8179f891f",
-    "text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
-    "raw_text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:680",
     "parent_id": null,
     "related_ids": [],
@@ -21379,9 +21395,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_60fb748910e2f40816ee",
-    "text": "Sources:",
-    "raw_text": "**Sources:**",
+    "id": "rk_5a00b3a1cfe8cf3a59f1",
+    "text": "What it is: Subjective testimony offered as empirical evidence for divine existence or action.",
+    "raw_text": "**What it is: **Subjective testimony offered as empirical evidence for divine existence or action.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21410,9 +21426,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_478ca6ae523563cee5e0",
-    "text": "•  Persinger, Michael. Neuropsychological Bases of God Beliefs (1987) — temporal lobe stimulation and religious experience.",
-    "raw_text": "•  Persinger, Michael. Neuropsychological Bases of God Beliefs (1987) — temporal lobe stimulation and religious experience.",
+    "id": "rk_6e3b5351ce52ba438697",
+    "text": "Why it fails as evidence: Personal experience is not falsifiable, not reproducible, cannot be independently verified, and cannot distinguish between divine and non-divine causes. The same type of experience is reported across every religion — including mutually exclusive ones. Muslims, Hindus, Buddhists, and Pentecostals all report powerful subjective encounters with the divine. They cannot all be right about what the experience means.",
+    "raw_text": "**Why it fails as evidence: **Personal experience is not falsifiable, not reproducible, cannot be independently verified, and cannot distinguish between divine and non-divine causes. The same type of experience is reported across every religion — including mutually exclusive ones. Muslims, Hindus, Buddhists, and Pentecostals all report powerful subjective encounters with the divine. They cannot all be right about what the experience means.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21441,9 +21457,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_151a4711f1c5e8a1b132",
-    "text": "•  Griffiths, Roland et al. \"Psilocybin can occasion mystical-type experiences.\" Psychopharmacology (2006) — Johns Hopkins psilocybin studies.",
-    "raw_text": "•  Griffiths, Roland et al. \"Psilocybin can occasion mystical-type experiences.\" Psychopharmacology (2006) — Johns Hopkins psilocybin studies.",
+    "id": "rk_646c5418822883f79ba8",
+    "text": "The Epley problem:",
+    "raw_text": "**The Epley problem:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21472,9 +21488,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4ff67ec59a347a840d32",
-    "text": "•  Alston, William. Perceiving God (1991) — the strongest philosophical defense of religious experience as evidence.",
-    "raw_text": "•  Alston, William. Perceiving God (1991) — the strongest philosophical defense of religious experience as evidence.",
+    "id": "rk_5963f88661814e90c107",
+    "text": "•  Research shows that believers' sense of what God is saying tracks their own preferences via unconscious projection (Epley et al., PNAS 2009). The experience of divine communication is empirically indistinguishable from the experience of one's own preferences felt strongly.",
+    "raw_text": "•  Research shows that believers' sense of what God is saying tracks their own preferences via unconscious projection (Epley et al., PNAS 2009). The experience of divine communication is empirically indistinguishable from the experience of one's own preferences felt strongly.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21503,15 +21519,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_979b79a3ace8f904da36",
-    "text": "The cosmological argument (Kalam): Everything that begins to exist has a cause. The universe began to exist. Therefore the universe has a cause. That cause is God.",
-    "raw_text": "**The cosmological argument (Kalam): **Everything that begins to exist has a cause. The universe began to exist. Therefore the universe has a cause. That cause is God.",
+    "id": "rk_9616f5de9ca2c77b2974",
+    "text": "The neurological problem:",
+    "raw_text": "**The neurological problem:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21519,7 +21535,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:685",
     "parent_id": null,
     "related_ids": [],
@@ -21534,15 +21550,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1cd9cf6ee3b8ccbf9170",
-    "text": "Problems:",
-    "raw_text": "**Problems:**",
+    "id": "rk_fc3a12acc9c94eab4516",
+    "text": "•  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.",
+    "raw_text": "•  Religious experiences are reproducible via temporal lobe stimulation (Persinger), psychedelic compounds (psilocybin studies at Johns Hopkins), sensory deprivation, fasting, and sleep deprivation. The experience has known physical correlates. That does not prove God is absent — but it means the experience alone cannot establish God's presence.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21550,7 +21566,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:686",
     "parent_id": null,
     "related_ids": [],
@@ -21565,15 +21581,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_55c2aba893658625e586",
-    "text": "•  \"Everything that begins to exist has a cause\" — quantum mechanics documents uncaused events at the subatomic level (radioactive decay, virtual particle pairs). The premise is empirically contested.",
-    "raw_text": "•  \"Everything that begins to exist has a cause\" — quantum mechanics documents uncaused events at the subatomic level (radioactive decay, virtual particle pairs). The premise is empirically contested.",
+    "id": "rk_c41e99dd237afad9063f",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21581,7 +21597,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:687",
     "parent_id": null,
     "related_ids": [],
@@ -21596,15 +21612,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c67d37d1eb9da9c8f55c",
-    "text": "•  Even if the universe had a cause, that cause being specifically the God of the Bible is a massive unargued leap. The argument supports \"some cause\" — not personhood, not morality, not the resurrection.",
-    "raw_text": "•  Even if the universe had a cause, that cause being specifically the God of the Bible is a massive unargued leap. The argument supports \"some cause\" — not personhood, not morality, not the resurrection.",
+    "id": "rk_b7e834f55723dfdc8a15",
+    "text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
+    "raw_text": "•  Clarifying question: \"I believe you had a real experience. The question is what caused it. How do you distinguish between genuinely hearing from God and feeling your own convictions very strongly?\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21612,7 +21628,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:688",
     "parent_id": null,
     "related_ids": [],
@@ -21627,15 +21643,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_99644b205f1aaea2d08f",
-    "text": "•  The standard counter: \"What caused God?\" The answer \"God is uncaused/eternal\" — if accepted — makes an uncaused eternal cause possible, which eliminates the need for God by allowing the universe itself to be uncaused or eternal.",
-    "raw_text": "•  The standard counter: \"What caused God?\" The answer \"God is uncaused/eternal\" — if accepted — makes an uncaused eternal cause possible, which eliminates the need for God by allowing the universe itself to be uncaused or eternal.",
+    "id": "rk_27cb9b71249b18f41d1a",
+    "text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
+    "raw_text": "•  Direct question: \"A Muslim has the same experience and concludes Allah is real. A Hindu has it and concludes Brahman is real. The experience cannot verify the content — only that the experience happened.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21643,7 +21659,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:689",
     "parent_id": null,
     "related_ids": [],
@@ -21658,15 +21674,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_58593fd353fad9441428",
-    "text": "The fine-tuning / design argument: The universe's physical constants are precisely calibrated for life to exist. This cannot be coincidence. Therefore a designer exists.",
-    "raw_text": "**The fine-tuning / design argument: **The universe's physical constants are precisely calibrated for life to exist. This cannot be coincidence. Therefore a designer exists.",
+    "id": "rk_4e768a13cdcb5d0f5e7b",
+    "text": "Sources:",
+    "raw_text": "**Sources:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21674,7 +21690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:690",
     "parent_id": null,
     "related_ids": [],
@@ -21689,15 +21705,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d02213805218a2e68b10",
-    "text": "Problems:",
-    "raw_text": "**Problems:**",
+    "id": "rk_3a92eb670ccfdb56909c",
+    "text": "•  Persinger, Michael. Neuropsychological Bases of God Beliefs (1987) — temporal lobe stimulation and religious experience.",
+    "raw_text": "•  Persinger, Michael. Neuropsychological Bases of God Beliefs (1987) — temporal lobe stimulation and religious experience.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21705,7 +21721,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:691",
     "parent_id": null,
     "related_ids": [],
@@ -21720,15 +21736,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9e12ea59d98083ad98f4",
-    "text": "•  Selection bias: we observe a universe compatible with our existence because we exist in it. In any universe containing observers, the observers will find the universe compatible with their existence. No designer required.",
-    "raw_text": "•  Selection bias: we observe a universe compatible with our existence because we exist in it. In any universe containing observers, the observers will find the universe compatible with their existence. No designer required.",
+    "id": "rk_5ade3bbb84ecbdf8f72c",
+    "text": "•  Griffiths, Roland et al. \"Psilocybin can occasion mystical-type experiences.\" Psychopharmacology (2006) — Johns Hopkins psilocybin studies.",
+    "raw_text": "•  Griffiths, Roland et al. \"Psilocybin can occasion mystical-type experiences.\" Psychopharmacology (2006) — Johns Hopkins psilocybin studies.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21736,7 +21752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:692",
     "parent_id": null,
     "related_ids": [],
@@ -21751,15 +21767,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_eb72f9d07f3c3f511973",
-    "text": "•  Multiverse hypothesis: if many universes exist with varying constants, the existence of one compatible with life is expected probability, not design.",
-    "raw_text": "•  Multiverse hypothesis: if many universes exist with varying constants, the existence of one compatible with life is expected probability, not design.",
+    "id": "rk_97bcd0b67ba5438fe33e",
+    "text": "•  Alston, William. Perceiving God (1991) — the strongest philosophical defense of religious experience as evidence.",
+    "raw_text": "•  Alston, William. Perceiving God (1991) — the strongest philosophical defense of religious experience as evidence.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+      "14.2 \"Personal Experience / I Felt God / I Heard His Voice\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -21767,7 +21783,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.2 \"Personal Experience / I Felt God / I Heard His Voice\"",
     "source_reference": "paragraph:693",
     "parent_id": null,
     "related_ids": [],
@@ -21782,9 +21798,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_566ffc8a87bcd8c83bd7",
-    "text": "•  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports \"a designer\" at most.",
-    "raw_text": "•  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports \"a designer\" at most.",
+    "id": "rk_87c999f507a742ec4f99",
+    "text": "The cosmological argument (Kalam): Everything that begins to exist has a cause. The universe began to exist. Therefore the universe has a cause. That cause is God.",
+    "raw_text": "**The cosmological argument (Kalam): **Everything that begins to exist has a cause. The universe began to exist. Therefore the universe has a cause. That cause is God.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21813,9 +21829,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f09facc9922bd839ea03",
-    "text": "Why this assessment holds — questions for conversation:",
-    "raw_text": "**Why this assessment holds — questions for conversation:**",
+    "id": "rk_fc9d25b722adf6900eb4",
+    "text": "Problems:",
+    "raw_text": "**Problems:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21844,9 +21860,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_310d9c09708df7a05b0a",
-    "text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
-    "raw_text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "id": "rk_adf0fc9f6729835b0c92",
+    "text": "•  \"Everything that begins to exist has a cause\" — quantum mechanics documents uncaused events at the subatomic level (radioactive decay, virtual particle pairs). The premise is empirically contested.",
+    "raw_text": "•  \"Everything that begins to exist has a cause\" — quantum mechanics documents uncaused events at the subatomic level (radioactive decay, virtual particle pairs). The premise is empirically contested.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21875,9 +21891,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_31876320398356163e71",
-    "text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
-    "raw_text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "id": "rk_5ea9da8d2ee50efe26ee",
+    "text": "•  Even if the universe had a cause, that cause being specifically the God of the Bible is a massive unargued leap. The argument supports \"some cause\" — not personhood, not morality, not the resurrection.",
+    "raw_text": "•  Even if the universe had a cause, that cause being specifically the God of the Bible is a massive unargued leap. The argument supports \"some cause\" — not personhood, not morality, not the resurrection.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21906,9 +21922,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0a0dd3d9c886b46a4522",
-    "text": "Sources — defending:",
-    "raw_text": "**Sources — defending:**",
+    "id": "rk_709ab7888af78e6a5c6b",
+    "text": "•  The standard counter: \"What caused God?\" The answer \"God is uncaused/eternal\" — if accepted — makes an uncaused eternal cause possible, which eliminates the need for God by allowing the universe itself to be uncaused or eternal.",
+    "raw_text": "•  The standard counter: \"What caused God?\" The answer \"God is uncaused/eternal\" — if accepted — makes an uncaused eternal cause possible, which eliminates the need for God by allowing the universe itself to be uncaused or eternal.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21937,9 +21953,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_842c9059f99b52c1f1ca",
-    "text": "•  Craig, William Lane. The Kalam Cosmological Argument (1979).",
-    "raw_text": "•  Craig, William Lane. The Kalam Cosmological Argument (1979).",
+    "id": "rk_dd718d4abd4d61050dd6",
+    "text": "The fine-tuning / design argument: The universe's physical constants are precisely calibrated for life to exist. This cannot be coincidence. Therefore a designer exists.",
+    "raw_text": "**The fine-tuning / design argument: **The universe's physical constants are precisely calibrated for life to exist. This cannot be coincidence. Therefore a designer exists.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21968,9 +21984,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ebf211952622bf15c2e",
-    "text": "•  Collins, Robin. \"The Teleological Argument\" in The Blackwell Companion to Natural Theology (2009).",
-    "raw_text": "•  Collins, Robin. \"The Teleological Argument\" in The Blackwell Companion to Natural Theology (2009).",
+    "id": "rk_dfc31765b3fa415d3336",
+    "text": "Problems:",
+    "raw_text": "**Problems:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -21999,9 +22015,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fcc1cb616f0ae84f9286",
-    "text": "Sources — against:",
-    "raw_text": "**Sources — against:**",
+    "id": "rk_4babe5049ae096b61bec",
+    "text": "•  Selection bias: we observe a universe compatible with our existence because we exist in it. In any universe containing observers, the observers will find the universe compatible with their existence. No designer required.",
+    "raw_text": "•  Selection bias: we observe a universe compatible with our existence because we exist in it. In any universe containing observers, the observers will find the universe compatible with their existence. No designer required.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22030,9 +22046,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8e61b5c92672cedfde7e",
-    "text": "•  Mackie, J.L. The Miracle of Theism (1982) — rigorous critique of cosmological and design arguments.",
-    "raw_text": "•  Mackie, J.L. The Miracle of Theism (1982) — rigorous critique of cosmological and design arguments.",
+    "id": "rk_c431b0925365bb9cf7d9",
+    "text": "•  Multiverse hypothesis: if many universes exist with varying constants, the existence of one compatible with life is expected probability, not design.",
+    "raw_text": "•  Multiverse hypothesis: if many universes exist with varying constants, the existence of one compatible with life is expected probability, not design.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22061,9 +22077,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e6da3dfec0cdb09918d3",
-    "text": "•  Sobel, Jordan Howard. Logic and Theism (2004) — comprehensive philosophical analysis.",
-    "raw_text": "•  Sobel, Jordan Howard. Logic and Theism (2004) — comprehensive philosophical analysis.",
+    "id": "rk_25af8239cc0fd4945082",
+    "text": "•  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports \"a designer\" at most.",
+    "raw_text": "•  Even granting a designer — that designer being specifically the God of the Bible, with his specific moral commands, specific history, specific requirement for faith in Jesus, is not supported by the argument. The argument supports \"a designer\" at most.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22092,9 +22108,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_350469fc16e166ff33cd",
-    "text": "•  Carroll, Sean. \"Why (Almost All) Cosmologists Are Atheists.\" Faith and Philosophy (2005).",
-    "raw_text": "•  Carroll, Sean. \"Why (Almost All) Cosmologists Are Atheists.\" Faith and Philosophy (2005).",
+    "id": "rk_aee3cccead3cff1fbf91",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22123,7 +22139,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_beaa1833e96c3e97258b",
+    "id": "rk_77eb4dbcfd6c5d8eb5e1",
+    "text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "raw_text": "•  Clarifying question: \"Even if I accept both arguments, you have established that some cause or designer exists. You have not established that it is the God of the Bible specifically. That is a much larger claim.\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:705",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c41e1f14c355364e80c1",
+    "text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "raw_text": "•  Direct question: \"The argument works equally well for any god or no god. Pointing at the universe gets you to deism at most — not to the Trinity, not to the resurrection, not to the Bible.\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:706",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b202512826518d872e17",
+    "text": "Sources — defending:",
+    "raw_text": "**Sources — defending:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:707",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_36d923d9e59f6b4232e3",
+    "text": "•  Craig, William Lane. The Kalam Cosmological Argument (1979).",
+    "raw_text": "•  Craig, William Lane. The Kalam Cosmological Argument (1979).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:708",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_11be73b56d39af2e1312",
+    "text": "•  Collins, Robin. \"The Teleological Argument\" in The Blackwell Companion to Natural Theology (2009).",
+    "raw_text": "•  Collins, Robin. \"The Teleological Argument\" in The Blackwell Companion to Natural Theology (2009).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:709",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8b337a276f31bdf69399",
+    "text": "Sources — against:",
+    "raw_text": "**Sources — against:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:710",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fa4a4206a1f1665f2674",
+    "text": "•  Mackie, J.L. The Miracle of Theism (1982) — rigorous critique of cosmological and design arguments.",
+    "raw_text": "•  Mackie, J.L. The Miracle of Theism (1982) — rigorous critique of cosmological and design arguments.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:711",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9b0faebe41008cf0ad1b",
+    "text": "•  Sobel, Jordan Howard. Logic and Theism (2004) — comprehensive philosophical analysis.",
+    "raw_text": "•  Sobel, Jordan Howard. Logic and Theism (2004) — comprehensive philosophical analysis.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:712",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_47ab448db4620f2e43ce",
+    "text": "•  Carroll, Sean. \"Why (Almost All) Cosmologists Are Atheists.\" Faith and Philosophy (2005).",
+    "raw_text": "•  Carroll, Sean. \"Why (Almost All) Cosmologists Are Atheists.\" Faith and Philosophy (2005).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.3 \"Look at Creation / The Universe\" — Cosmological and Design Arguments",
+    "source_reference": "paragraph:713",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_aeb38ef4d9e81a8a6cbb",
     "text": "What it is: Inserting God into gaps in current scientific knowledge. Consciousness, the origin of life, the fine-tuning of constants — \"science has no explanation, therefore God.\"",
     "raw_text": "**What it is: **Inserting God into gaps in current scientific knowledge. Consciousness, the origin of life, the fine-tuning of constants — \"science has no explanation, therefore God.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -22140,7 +22435,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:705",
+    "source_reference": "paragraph:714",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22154,7 +22449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d9497fbb64697b3f1ab0",
+    "id": "rk_bdf7039270d075d9774c",
     "text": "The logical problem: Unexplained phenomena are not evidence for God. They are gaps in current knowledge. The history of science is a history of previously God-attributed phenomena receiving natural explanations — lightning, disease, epilepsy, the movement of planets. Inserting God into current gaps predicts that as knowledge expands, God retreats. This is not a stable position.",
     "raw_text": "**The logical problem: **Unexplained phenomena are not evidence for God. They are gaps in current knowledge. The history of science is a history of previously God-attributed phenomena receiving natural explanations — lightning, disease, epilepsy, the movement of planets. Inserting God into current gaps predicts that as knowledge expands, God retreats. This is not a stable position.",
     "provenance_type": "PRE_CONVENTION",
@@ -22171,7 +22466,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:706",
+    "source_reference": "paragraph:715",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22185,7 +22480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b48b5d05c4e6b98e2720",
+    "id": "rk_db55b1ffeddc4787cbac",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
@@ -22202,7 +22497,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:707",
+    "source_reference": "paragraph:716",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22216,7 +22511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_905046060ad52e664337",
+    "id": "rk_8deb173113a741740bf8",
     "text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
     "raw_text": "•  Clarifying question: \"'We don't know yet' and 'God did it' are not equivalent. One is honest about uncertainty. The other fills uncertainty with a specific claim that also requires evidence.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -22233,7 +22528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:708",
+    "source_reference": "paragraph:717",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22247,7 +22542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7ce1104da227b38e01b2",
+    "id": "rk_83fd0bdb73db24e8cb55",
     "text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
     "raw_text": "•  Direct question: \"Every gap you are pointing to was larger 500 years ago. The gaps keep shrinking. Is that the trajectory you want to anchor your theology to?\"",
     "provenance_type": "PRE_CONVENTION",
@@ -22264,7 +22559,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:709",
+    "source_reference": "paragraph:718",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22278,7 +22573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_32fe148e70c26cbcc653",
+    "id": "rk_9b937d1a3d43be77f653",
     "text": "Sources:",
     "raw_text": "**Sources:**",
     "provenance_type": "PRE_CONVENTION",
@@ -22295,7 +22590,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:710",
+    "source_reference": "paragraph:719",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22309,7 +22604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_459895831c02ee74c230",
+    "id": "rk_f25da524ccaf023849f7",
     "text": "•  Sagan, Carl. The Demon-Haunted World (1995) — science as a candle in the dark against God-of-gaps thinking.",
     "raw_text": "•  Sagan, Carl. The Demon-Haunted World (1995) — science as a candle in the dark against God-of-gaps thinking.",
     "provenance_type": "PRE_CONVENTION",
@@ -22326,7 +22621,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:711",
+    "source_reference": "paragraph:720",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -22340,7 +22635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cdcb514e441e7bbdc603",
+    "id": "rk_a72ffca130bae8ee80aa",
     "text": "•  Kitcher, Philip. Abusing Science: The Case Against Creationism (1982).",
     "raw_text": "•  Kitcher, Philip. Abusing Science: The Case Against Creationism (1982).",
     "provenance_type": "PRE_CONVENTION",
@@ -22357,285 +22652,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.4 \"Science Can't Explain Everything\" — God of the Gaps",
-    "source_reference": "paragraph:712",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_918180edc08025a557f9",
-    "text": "The claim: The resurrection of Jesus is historically verified — the most attested miracle claim in history.",
-    "raw_text": "**The claim: **The resurrection of Jesus is historically verified — the most attested miracle claim in history.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:713",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_0a250e2f46a4a905e2e9",
-    "text": "The actual evidential situation: The sources for the resurrection are exclusively documents written by believers, decades after the event, in communities with theological agendas, contradicting each other on key details (who went to the tomb, what they saw, where the appearances occurred, what Jesus said). There are no contemporary secular accounts.",
-    "raw_text": "**The actual evidential situation: **The sources for the resurrection are exclusively documents written by believers, decades after the event, in communities with theological agendas, contradicting each other on key details (who went to the tomb, what they saw, where the appearances occurred, what Jesus said). There are no contemporary secular accounts.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:714",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_cf3616ed86410b5b531a",
-    "text": "The \"minimal facts\" approach (Habermas, Licona):",
-    "raw_text": "**The ****\"****minimal facts****\"**** approach (Habermas, Licona):**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:715",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_2a4dd029e2c6e0b1bbd4",
-    "text": "•  Argues that even skeptical historians accept: Jesus died by crucifixion, disciples believed they saw him risen, Paul and James converted after seeing the risen Jesus, the tomb was empty.",
-    "raw_text": "•  Argues that even skeptical historians accept: Jesus died by crucifixion, disciples believed they saw him risen, Paul and James converted after seeing the risen Jesus, the tomb was empty.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:716",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_564c91d0d9336020e66d",
-    "text": "•  Counter: \"The disciples believed they saw him risen\" is a psychological fact about the disciples, not a physical fact about resurrection. People sincerely believe mistaken things. Vision experiences, grief experiences, and motivated reasoning are documented. The minimal facts establish sincere belief — not the event that produced the belief.",
-    "raw_text": "•  Counter: \"The disciples believed they saw him risen\" is a psychological fact about the disciples, not a physical fact about resurrection. People sincerely believe mistaken things. Vision experiences, grief experiences, and motivated reasoning are documented. The minimal facts establish sincere belief — not the event that produced the belief.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:717",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_c74d5a6c819c9aa3829a",
-    "text": "The contradictions:",
-    "raw_text": "**The contradictions:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:718",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7df8b1203ab8ab844292",
-    "text": "•  Mark (oldest) — women flee, say nothing to anyone, no appearances in original text.",
-    "raw_text": "•  Mark (oldest) — women flee, say nothing to anyone, no appearances in original text.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:719",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_0f364a61db7b0749dea2",
-    "text": "•  Matthew — appearances in Galilee.",
-    "raw_text": "•  Matthew — appearances in Galilee.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
-    "source_reference": "paragraph:720",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_16e95de1b9723e3b517b",
-    "text": "•  Luke — appearances in Jerusalem, disciples told to stay there.",
-    "raw_text": "•  Luke — appearances in Jerusalem, disciples told to stay there.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.5 \"The Resurrection is Historical Fact\""
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:721",
     "parent_id": null,
     "related_ids": [],
@@ -22650,9 +22666,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9bab36296ce504effcde",
-    "text": "•  John — multiple Jerusalem appearances, then Galilee.",
-    "raw_text": "•  John — multiple Jerusalem appearances, then Galilee.",
+    "id": "rk_16faff812f872f9f8d4a",
+    "text": "The claim: The resurrection of Jesus is historically verified — the most attested miracle claim in history.",
+    "raw_text": "**The claim: **The resurrection of Jesus is historically verified — the most attested miracle claim in history.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22681,9 +22697,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_94d59540a41d4a20c0fd",
-    "text": "•  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.",
-    "raw_text": "•  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.",
+    "id": "rk_44bf558e6ae17685dcff",
+    "text": "The actual evidential situation: The sources for the resurrection are exclusively documents written by believers, decades after the event, in communities with theological agendas, contradicting each other on key details (who went to the tomb, what they saw, where the appearances occurred, what Jesus said). There are no contemporary secular accounts.",
+    "raw_text": "**The actual evidential situation: **The sources for the resurrection are exclusively documents written by believers, decades after the event, in communities with theological agendas, contradicting each other on key details (who went to the tomb, what they saw, where the appearances occurred, what Jesus said). There are no contemporary secular accounts.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22712,9 +22728,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_19b84521f8dae278c08d",
-    "text": "Why this assessment holds — questions for conversation:",
-    "raw_text": "**Why this assessment holds — questions for conversation:**",
+    "id": "rk_38874a0926e8a371a1c5",
+    "text": "The \"minimal facts\" approach (Habermas, Licona):",
+    "raw_text": "**The ****\"****minimal facts****\"**** approach (Habermas, Licona):**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22743,9 +22759,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_62165974f8f5fdeff943",
-    "text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
-    "raw_text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
+    "id": "rk_7b48c273f7a5d0fcca2b",
+    "text": "•  Argues that even skeptical historians accept: Jesus died by crucifixion, disciples believed they saw him risen, Paul and James converted after seeing the risen Jesus, the tomb was empty.",
+    "raw_text": "•  Argues that even skeptical historians accept: Jesus died by crucifixion, disciples believed they saw him risen, Paul and James converted after seeing the risen Jesus, the tomb was empty.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22774,9 +22790,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cab5a58a3f6eabb63334",
-    "text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
-    "raw_text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
+    "id": "rk_50665cbf27b6317756d2",
+    "text": "•  Counter: \"The disciples believed they saw him risen\" is a psychological fact about the disciples, not a physical fact about resurrection. People sincerely believe mistaken things. Vision experiences, grief experiences, and motivated reasoning are documented. The minimal facts establish sincere belief — not the event that produced the belief.",
+    "raw_text": "•  Counter: \"The disciples believed they saw him risen\" is a psychological fact about the disciples, not a physical fact about resurrection. People sincerely believe mistaken things. Vision experiences, grief experiences, and motivated reasoning are documented. The minimal facts establish sincere belief — not the event that produced the belief.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22805,9 +22821,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_50139fb795a0dc446b7c",
-    "text": "Sources — defending resurrection:",
-    "raw_text": "**Sources — defending resurrection:**",
+    "id": "rk_10283b83abbe811beffc",
+    "text": "The contradictions:",
+    "raw_text": "**The contradictions:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22836,9 +22852,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e44471643fe154d102db",
-    "text": "•  Habermas, Gary & Licona, Michael. The Case for the Resurrection of Jesus (2004).",
-    "raw_text": "•  Habermas, Gary & Licona, Michael. The Case for the Resurrection of Jesus (2004).",
+    "id": "rk_f4f9bb1cd4a45f90a8d9",
+    "text": "•  Mark (oldest) — women flee, say nothing to anyone, no appearances in original text.",
+    "raw_text": "•  Mark (oldest) — women flee, say nothing to anyone, no appearances in original text.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22867,9 +22883,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8bbbab48b855e5373375",
-    "text": "•  Wright, N.T. The Resurrection of the Son of God (2003) — most thorough scholarly defense.",
-    "raw_text": "•  Wright, N.T. The Resurrection of the Son of God (2003) — most thorough scholarly defense.",
+    "id": "rk_3514a03a619ab45c2f0b",
+    "text": "•  Matthew — appearances in Galilee.",
+    "raw_text": "•  Matthew — appearances in Galilee.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22898,9 +22914,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c7ac50bf9e7534380cc8",
-    "text": "Sources — critical:",
-    "raw_text": "**Sources — critical:**",
+    "id": "rk_03e15f124c140d6c4ebb",
+    "text": "•  Luke — appearances in Jerusalem, disciples told to stay there.",
+    "raw_text": "•  Luke — appearances in Jerusalem, disciples told to stay there.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22929,9 +22945,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e4902ead06fcc1cabb12",
-    "text": "•  Ehrman, Bart D. Did Jesus Rise from the Dead? (debate transcript, various) and Jesus: Apocalyptic Prophet (1999).",
-    "raw_text": "•  Ehrman, Bart D. Did Jesus Rise from the Dead? (debate transcript, various) and Jesus: Apocalyptic Prophet (1999).",
+    "id": "rk_43861ee6bd22a289377a",
+    "text": "•  John — multiple Jerusalem appearances, then Galilee.",
+    "raw_text": "•  John — multiple Jerusalem appearances, then Galilee.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22960,9 +22976,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5f6913f2fb86b0840fd5",
-    "text": "•  Ludemann, Gerd. The Resurrection of Jesus: History, Experience, Theology (1994).",
-    "raw_text": "•  Ludemann, Gerd. The Resurrection of Jesus: History, Experience, Theology (1994).",
+    "id": "rk_dab45830a9b25893e288",
+    "text": "•  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.",
+    "raw_text": "•  Paul (earliest, 1 Corinthians 15) — lists appearances in an order inconsistent with the Gospels, includes an appearance to 500 people that no Gospel records.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -22991,15 +23007,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5d40f9f621360f06d456",
-    "text": "What it is: Pointing to the psychological and social benefits of religious belief as evidence of its truth.",
-    "raw_text": "**What it is: **Pointing to the psychological and social benefits of religious belief as evidence of its truth.",
+    "id": "rk_2c039cea5bb836e0c926",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23007,7 +23023,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:733",
     "parent_id": null,
     "related_ids": [],
@@ -23022,15 +23038,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d50ec371aeb5ae4e484b",
-    "text": "The logical problem: This is evidence that belief is useful, not that it is true. Placebos produce measurable physical healing. Delusions can be stabilizing. The psychological utility of a belief says nothing about whether its claims correspond to reality.",
-    "raw_text": "**The logical problem: **This is evidence that belief is useful, not that it is true. Placebos produce measurable physical healing. Delusions can be stabilizing. The psychological utility of a belief says nothing about whether its claims correspond to reality.",
+    "id": "rk_bbe637b888295dafb1ea",
+    "text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
+    "raw_text": "•  Clarifying question: \"The only sources are documents written by believers decades after the event. What would count as independent verification?\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23038,7 +23054,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:734",
     "parent_id": null,
     "related_ids": [],
@@ -23053,15 +23069,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2b965e275f5fa37106ea",
-    "text": "•  Cults also produce changed lives, community, purpose, and meaning. This does not verify their claims.",
-    "raw_text": "•  Cults also produce changed lives, community, purpose, and meaning. This does not verify their claims.",
+    "id": "rk_adb4a8db64e25a923de3",
+    "text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
+    "raw_text": "•  Direct question: \"The resurrection accounts contradict each other on basic facts — who went, what they saw, where the appearances happened. Eyewitness testimony this inconsistent would not hold up in court.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23069,7 +23085,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:735",
     "parent_id": null,
     "related_ids": [],
@@ -23084,15 +23100,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_41cbf2797f3c9b86452d",
-    "text": "•  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.",
-    "raw_text": "•  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.",
+    "id": "rk_85042bb2e07bfd105527",
+    "text": "Sources — defending resurrection:",
+    "raw_text": "**Sources — defending resurrection:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23100,7 +23116,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:736",
     "parent_id": null,
     "related_ids": [],
@@ -23115,15 +23131,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40f777036fa4e7a49e04",
-    "text": "Why this assessment holds — questions for conversation:",
-    "raw_text": "**Why this assessment holds — questions for conversation:**",
+    "id": "rk_ea31c83e3f092c9cd83e",
+    "text": "•  Habermas, Gary & Licona, Michael. The Case for the Resurrection of Jesus (2004).",
+    "raw_text": "•  Habermas, Gary & Licona, Michael. The Case for the Resurrection of Jesus (2004).",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23131,7 +23147,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:737",
     "parent_id": null,
     "related_ids": [],
@@ -23146,15 +23162,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_23bd3129413c29a6d53f",
-    "text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
-    "raw_text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
+    "id": "rk_052539b4312f69393d8e",
+    "text": "•  Wright, N.T. The Resurrection of the Son of God (2003) — most thorough scholarly defense.",
+    "raw_text": "•  Wright, N.T. The Resurrection of the Son of God (2003) — most thorough scholarly defense.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23162,7 +23178,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:738",
     "parent_id": null,
     "related_ids": [],
@@ -23177,15 +23193,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_02d61d6cbf295737cfcd",
-    "text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
-    "raw_text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
+    "id": "rk_655a96b9a564f29285c2",
+    "text": "Sources — critical:",
+    "raw_text": "**Sources — critical:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23193,7 +23209,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:739",
     "parent_id": null,
     "related_ids": [],
@@ -23208,15 +23224,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dab17915736bbf0185cf",
-    "text": "Sources:",
-    "raw_text": "**Sources:**",
+    "id": "rk_eb3daf392f10ba3b6a50",
+    "text": "•  Ehrman, Bart D. Did Jesus Rise from the Dead? (debate transcript, various) and Jesus: Apocalyptic Prophet (1999).",
+    "raw_text": "•  Ehrman, Bart D. Did Jesus Rise from the Dead? (debate transcript, various) and Jesus: Apocalyptic Prophet (1999).",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23224,7 +23240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:740",
     "parent_id": null,
     "related_ids": [],
@@ -23239,15 +23255,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_49520d16158a774a1051",
-    "text": "•  Hood, Ralph et al. The Psychology of Religion: An Empirical Approach (2009).",
-    "raw_text": "•  Hood, Ralph et al. The Psychology of Religion: An Empirical Approach (2009).",
+    "id": "rk_38cb0bb41822941bfbd5",
+    "text": "•  Ludemann, Gerd. The Resurrection of Jesus: History, Experience, Theology (1994).",
+    "raw_text": "•  Ludemann, Gerd. The Resurrection of Jesus: History, Experience, Theology (1994).",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.6 \"Changed Lives / Look What Belief Does for People\""
+      "14.5 \"The Resurrection is Historical Fact\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23255,7 +23271,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.5 \"The Resurrection is Historical Fact\"",
     "source_reference": "paragraph:741",
     "parent_id": null,
     "related_ids": [],
@@ -23270,9 +23286,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0a5ec464b32b210971ff",
-    "text": "•  Zuckerman, Phil. Society Without God (2008) — secular people exhibit same wellbeing outcomes.",
-    "raw_text": "•  Zuckerman, Phil. Society Without God (2008) — secular people exhibit same wellbeing outcomes.",
+    "id": "rk_16c3156326f044a40eea",
+    "text": "What it is: Pointing to the psychological and social benefits of religious belief as evidence of its truth.",
+    "raw_text": "**What it is: **Pointing to the psychological and social benefits of religious belief as evidence of its truth.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23301,15 +23317,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e20dc891afc559b10cdf",
-    "text": "The claim: \"You cannot use empirical tools to detect a non-empirical being. Demanding physical evidence is a category error.\"",
-    "raw_text": "**The claim: **\"You cannot use empirical tools to detect a non-empirical being. Demanding physical evidence is a category error.\"",
+    "id": "rk_891edbfb6ac01c1b2d22",
+    "text": "The logical problem: This is evidence that belief is useful, not that it is true. Placebos produce measurable physical healing. Delusions can be stabilizing. The psychological utility of a belief says nothing about whether its claims correspond to reality.",
+    "raw_text": "**The logical problem: **This is evidence that belief is useful, not that it is true. Placebos produce measurable physical healing. Delusions can be stabilizing. The psychological utility of a belief says nothing about whether its claims correspond to reality.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23317,7 +23333,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:743",
     "parent_id": null,
     "related_ids": [],
@@ -23332,15 +23348,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_31a0e1cc1679df6c7aab",
-    "text": "Why this is self-defeating: If God's existence produces no detectable effects in the material world, then answered prayers, miraculous healings, divine providence, and the parting of the Red Sea are also impossible. You cannot claim God acts in the physical world and simultaneously claim God is undetectable by physical methods. Pick one.",
-    "raw_text": "**Why this is self-defeating: **If God's existence produces no detectable effects in the material world, then answered prayers, miraculous healings, divine providence, and the parting of the Red Sea are also impossible. You cannot claim God acts in the physical world and simultaneously claim God is undetectable by physical methods. Pick one.",
+    "id": "rk_0de023f66513c50baae7",
+    "text": "•  Cults also produce changed lives, community, purpose, and meaning. This does not verify their claims.",
+    "raw_text": "•  Cults also produce changed lives, community, purpose, and meaning. This does not verify their claims.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23348,7 +23364,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:744",
     "parent_id": null,
     "related_ids": [],
@@ -23363,15 +23379,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ef9954eaeb2c4b5c4988",
-    "text": "The unfalsifiability problem:",
-    "raw_text": "**The unfalsifiability problem:**",
+    "id": "rk_3ccb093fa3fcbe633776",
+    "text": "•  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.",
+    "raw_text": "•  Secular communities — humanist groups, ethical culture societies, therapeutic communities — produce the same psychological outcomes without theological claims.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23379,7 +23395,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:745",
     "parent_id": null,
     "related_ids": [],
@@ -23394,15 +23410,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a59b8b1e29b0685f552b",
-    "text": "•  A claim that is compatible with any possible evidence — including the total absence of evidence — is not making a claim about reality. It is a logical tautology dressed as theology.",
-    "raw_text": "•  A claim that is compatible with any possible evidence — including the total absence of evidence — is not making a claim about reality. It is a logical tautology dressed as theology.",
+    "id": "rk_b78328978728457bb60e",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23410,7 +23426,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:746",
     "parent_id": null,
     "related_ids": [],
@@ -23425,15 +23441,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b2d0b98955fbc5612e6c",
-    "text": "•  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. \"God exists but leaves no detectable trace\" fails this test.",
-    "raw_text": "•  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. \"God exists but leaves no detectable trace\" fails this test.",
+    "id": "rk_ef985c30aebb119a3031",
+    "text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
+    "raw_text": "•  Clarifying question: \"I believe belief genuinely helps people. The question is whether it helps because it is true, or because the human mind responds well to meaning frameworks regardless of their accuracy.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23441,7 +23457,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:747",
     "parent_id": null,
     "related_ids": [],
@@ -23456,15 +23472,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e89d06adaa5d53ee944b",
-    "text": "Why this assessment holds — questions for conversation:",
-    "raw_text": "**Why this assessment holds — questions for conversation:**",
+    "id": "rk_40011c410669b77c1cdc",
+    "text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
+    "raw_text": "•  Direct question: \"Every religion and most ideologies produce changed lives and community. That cannot be what distinguishes the true one.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23472,7 +23488,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:748",
     "parent_id": null,
     "related_ids": [],
@@ -23487,15 +23503,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9f6a693e2b242b622aa8",
-    "text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
-    "raw_text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "id": "rk_53c5309d947cc9b0fe99",
+    "text": "Sources:",
+    "raw_text": "**Sources:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23503,7 +23519,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:749",
     "parent_id": null,
     "related_ids": [],
@@ -23518,15 +23534,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_510214842885bb8be5b2",
-    "text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
-    "raw_text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "id": "rk_c77871e3986df88adecd",
+    "text": "•  Hood, Ralph et al. The Psychology of Religion: An Empirical Approach (2009).",
+    "raw_text": "•  Hood, Ralph et al. The Psychology of Religion: An Empirical Approach (2009).",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23534,7 +23550,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:750",
     "parent_id": null,
     "related_ids": [],
@@ -23549,15 +23565,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08a99fe3ea6ab6369969",
-    "text": "Sources:",
-    "raw_text": "**Sources:**",
+    "id": "rk_cfa42b362b2eb2bf8625",
+    "text": "•  Zuckerman, Phil. Society Without God (2008) — secular people exhibit same wellbeing outcomes.",
+    "raw_text": "•  Zuckerman, Phil. Society Without God (2008) — secular people exhibit same wellbeing outcomes.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
-      "14.7 \"God is Not Detectable by Material Methods\""
+      "14.6 \"Changed Lives / Look What Belief Does for People\""
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -23565,7 +23581,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.6 \"Changed Lives / Look What Belief Does for People\"",
     "source_reference": "paragraph:751",
     "parent_id": null,
     "related_ids": [],
@@ -23580,9 +23596,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d01f51d2f8bf28eb831e",
-    "text": "•  Popper, Karl. The Logic of Scientific Discovery (1934/1959) — falsifiability criterion.",
-    "raw_text": "•  Popper, Karl. The Logic of Scientific Discovery (1934/1959) — falsifiability criterion.",
+    "id": "rk_b964647895f704d8bfba",
+    "text": "The claim: \"You cannot use empirical tools to detect a non-empirical being. Demanding physical evidence is a category error.\"",
+    "raw_text": "**The claim: **\"You cannot use empirical tools to detect a non-empirical being. Demanding physical evidence is a category error.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23611,9 +23627,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_70db98c47999e79b6d60",
-    "text": "•  Flew, Antony. \"Theology and Falsification\" (1950) — the parable of the invisible gardener, foundational essay on unfalsifiability in theology.",
-    "raw_text": "•  Flew, Antony. \"Theology and Falsification\" (1950) — the parable of the invisible gardener, foundational essay on unfalsifiability in theology.",
+    "id": "rk_722db1352afdb0d6e32f",
+    "text": "Why this is self-defeating: If God's existence produces no detectable effects in the material world, then answered prayers, miraculous healings, divine providence, and the parting of the Red Sea are also impossible. You cannot claim God acts in the physical world and simultaneously claim God is undetectable by physical methods. Pick one.",
+    "raw_text": "**Why this is self-defeating: **If God's existence produces no detectable effects in the material world, then answered prayers, miraculous healings, divine providence, and the parting of the Red Sea are also impossible. You cannot claim God acts in the physical world and simultaneously claim God is undetectable by physical methods. Pick one.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23642,9 +23658,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c72037045b834b6d8ef6",
-    "text": "•  Swinburne, Richard. The Existence of God (1979) — attempts to make theism a probabilistic empirical hypothesis, the most serious effort from the defending side.",
-    "raw_text": "•  Swinburne, Richard. The Existence of God (1979) — attempts to make theism a probabilistic empirical hypothesis, the most serious effort from the defending side.",
+    "id": "rk_a855f53f91ecd039d44c",
+    "text": "The unfalsifiability problem:",
+    "raw_text": "**The unfalsifiability problem:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -23673,7 +23689,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c196453e2db6f1d5c67e",
+    "id": "rk_eb5e8a8ac7e42f870a7e",
+    "text": "•  A claim that is compatible with any possible evidence — including the total absence of evidence — is not making a claim about reality. It is a logical tautology dressed as theology.",
+    "raw_text": "•  A claim that is compatible with any possible evidence — including the total absence of evidence — is not making a claim about reality. It is a logical tautology dressed as theology.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:755",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_531e07ff9ea27272d71e",
+    "text": "•  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. \"God exists but leaves no detectable trace\" fails this test.",
+    "raw_text": "•  Karl Popper's falsifiability criterion: a meaningful empirical claim must be capable of being proven wrong by some possible observation. \"God exists but leaves no detectable trace\" fails this test.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:756",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6ce49e99f992d21ee2bb",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:757",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_acffe061094f01451db8",
+    "text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "raw_text": "•  Clarifying question: \"If God acts in the world — answers prayers, heals people, guides history — those actions should be detectable. Either God acts in the world or he doesn't. Which is it?\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:758",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_834ea8ed64d7668f30d2",
+    "text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "raw_text": "•  Direct question: \"A God who is indistinguishable from no God is, for all practical purposes, no God. If there is no possible observation that could change your belief, you are not making a claim about reality — you are making a commitment.\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:759",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c2db9c32783c978f457f",
+    "text": "Sources:",
+    "raw_text": "**Sources:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:760",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e654f13900424996d7d5",
+    "text": "•  Popper, Karl. The Logic of Scientific Discovery (1934/1959) — falsifiability criterion.",
+    "raw_text": "•  Popper, Karl. The Logic of Scientific Discovery (1934/1959) — falsifiability criterion.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:761",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fec571a97352f0ee4c39",
+    "text": "•  Flew, Antony. \"Theology and Falsification\" (1950) — the parable of the invisible gardener, foundational essay on unfalsifiability in theology.",
+    "raw_text": "•  Flew, Antony. \"Theology and Falsification\" (1950) — the parable of the invisible gardener, foundational essay on unfalsifiability in theology.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:762",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_dc8020dbfefb6eddf4e1",
+    "text": "•  Swinburne, Richard. The Existence of God (1979) — attempts to make theism a probabilistic empirical hypothesis, the most serious effort from the defending side.",
+    "raw_text": "•  Swinburne, Richard. The Existence of God (1979) — attempts to make theism a probabilistic empirical hypothesis, the most serious effort from the defending side.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION",
+      "14.7 \"God is Not Detectable by Material Methods\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.7 \"God is Not Detectable by Material Methods\"",
+    "source_reference": "paragraph:763",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_44f199d80b161a92ffb1",
     "text": "The most important pattern to notice: when you ask for empirical evidence, the believer typically moves through a sequence of positions without acknowledging the moves.",
     "raw_text": "The most important pattern to notice: when you ask for empirical evidence, the believer typically moves through a sequence of positions without acknowledging the moves.",
     "provenance_type": "PRE_CONVENTION",
@@ -23690,7 +23985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:755",
+    "source_reference": "paragraph:764",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23704,7 +23999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2576a0780f09fdd9cee1",
+    "id": "rk_915608f524f5b2c8f820",
     "text": "•  Position 1: \"Here is evidence\" — personal experience, creation, changed lives.",
     "raw_text": "•  Position 1: \"Here is evidence\" — personal experience, creation, changed lives.",
     "provenance_type": "PRE_CONVENTION",
@@ -23721,7 +24016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:756",
+    "source_reference": "paragraph:765",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23735,7 +24030,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9fb2e64088f028f66b6f",
+    "id": "rk_997a1d98da2fa6c01c91",
     "text": "•  Position 2 when pressed: \"Faith doesn't require evidence.\"",
     "raw_text": "•  Position 2 when pressed: \"Faith doesn't require evidence.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -23752,7 +24047,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:757",
+    "source_reference": "paragraph:766",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23766,7 +24061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_310b4a8782f18fa0c6a5",
+    "id": "rk_d8272cd356d1fce4b02f",
     "text": "•  Position 3 when pressed further: \"God is outside our categories — you can't apply those standards.\"",
     "raw_text": "•  Position 3 when pressed further: \"God is outside our categories — you can't apply those standards.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -23783,7 +24078,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:758",
+    "source_reference": "paragraph:767",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23797,7 +24092,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_07fa7f6aa4b1fe0916ed",
+    "id": "rk_3a2415c9483e3e52a338",
     "text": "•  Position 4: \"You're just scared of the truth / your heart is hardened.\"",
     "raw_text": "•  Position 4: \"You're just scared of the truth / your heart is hardened.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -23814,7 +24109,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:759",
+    "source_reference": "paragraph:768",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23828,7 +24123,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_320c41379cd5f9b06ba1",
+    "id": "rk_2e973d00aa7a3447e867",
     "text": "Each move is a retreat from the previous position's evidentiary standard. Name the retreat each time it happens. The question to return to: \"What evidence would convince you that your belief is wrong? If the answer is nothing — that is worth examining.\"",
     "raw_text": "Each move is a retreat from the previous position's evidentiary standard. Name the retreat each time it happens. The question to return to: \"What evidence would convince you that your belief is wrong? If the answer is nothing — that is worth examining.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -23845,7 +24140,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:760",
+    "source_reference": "paragraph:769",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23859,7 +24154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_29cf922a2f91c2491e66",
+    "id": "rk_4a1c84be24693b964e8e",
     "text": "The key question: \"What would count as evidence against your belief?\" If nothing could count against it, the belief is unfalsifiable — and unfalsifiable beliefs are not claims about reality, they are commitments. That distinction matters.",
     "raw_text": "**The key question: **\"What would count as evidence against your belief?\" If nothing could count against it, the belief is unfalsifiable — and unfalsifiable beliefs are not claims about reality, they are commitments. That distinction matters.",
     "provenance_type": "PRE_CONVENTION",
@@ -23876,7 +24171,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "14. EMPIRICAL CLAIMS — EVIDENCE AND INTERPRETATION > 14.8 Changing Standards of Evidence",
-    "source_reference": "paragraph:761",
+    "source_reference": "paragraph:770",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23890,7 +24185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5509a032fe3486141d62",
+    "id": "rk_c8b49dec080a1a17b179",
     "text": "The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
     "raw_text": "The subordination, silencing, and sexualization of women is structurally embedded in the theology — not limited to obscure passages.",
     "provenance_type": "PRE_CONVENTION",
@@ -23906,7 +24201,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-    "source_reference": "paragraph:762",
+    "source_reference": "paragraph:771",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23920,7 +24215,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6732c5ca6f92bcdbd5ca",
+    "id": "rk_4daf657dab5c9d988e84",
     "text": "•  Deuteronomy 22:13-21 — if a bride is found not to be a virgin on her wedding night, she is stoned to death at her father's door. No equivalent punishment exists for men. Her lack of virginity is framed as a property defect, not a moral failing.",
     "raw_text": "•  Deuteronomy 22:13-21 — if a bride is found not to be a virgin on her wedding night, she is stoned to death at her father's door. No equivalent punishment exists for men. Her lack of virginity is framed as a property defect, not a moral failing.",
     "provenance_type": "PRE_CONVENTION",
@@ -23937,7 +24232,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
-    "source_reference": "paragraph:763",
+    "source_reference": "paragraph:772",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23951,7 +24246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4fcb44fec67c46c3ca06",
+    "id": "rk_53d9c30f50fd66549117",
     "text": "•  Deuteronomy 22:28-29 — if a man rapes an unbetrothed virgin, he pays her father 50 shekels of silver and must marry her. The victim has no voice. The fine goes to the father — her owner — not her. The rapist gets a wife.",
     "raw_text": "•  Deuteronomy 22:28-29 — if a man rapes an unbetrothed virgin, he pays her father 50 shekels of silver and must marry her. The victim has no voice. The fine goes to the father — her owner — not her. The rapist gets a wife.",
     "provenance_type": "PRE_CONVENTION",
@@ -23968,7 +24263,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
-    "source_reference": "paragraph:764",
+    "source_reference": "paragraph:773",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23982,7 +24277,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3d9fc7a37b8c90c4fa17",
+    "id": "rk_936101011eb53f6cd33d",
     "text": "•  Numbers 5 — the \"bitter water\" ordeal for a wife suspected of adultery. She drinks water mixed with dust from the tabernacle floor. If she is guilty, her body swells and she becomes infertile. No equivalent exists for men. Adultery by men is addressed differently.",
     "raw_text": "•  Numbers 5 — the \"bitter water\" ordeal for a wife suspected of adultery. She drinks water mixed with dust from the tabernacle floor. If she is guilty, her body swells and she becomes infertile. No equivalent exists for men. Adultery by men is addressed differently.",
     "provenance_type": "PRE_CONVENTION",
@@ -23999,7 +24294,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
-    "source_reference": "paragraph:765",
+    "source_reference": "paragraph:774",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24013,7 +24308,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_685fd8f829ea3597e24c",
+    "id": "rk_34e4771bf8a51ccd8b8c",
     "text": "•  Leviticus 12 — a woman is ritually unclean for 33 days after bearing a son, 66 days after bearing a daughter. Having a daughter makes a mother twice as unclean. The reason is not stated. The asymmetry is.",
     "raw_text": "•  Leviticus 12 — a woman is ritually unclean for 33 days after bearing a son, 66 days after bearing a daughter. Having a daughter makes a mother twice as unclean. The reason is not stated. The asymmetry is.",
     "provenance_type": "PRE_CONVENTION",
@@ -24030,7 +24325,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
-    "source_reference": "paragraph:766",
+    "source_reference": "paragraph:775",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24044,7 +24339,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2fac5c0843730ca25fd0",
+    "id": "rk_4b20a622ba60b70c5d70",
     "text": "•  Numbers 31:17-18 — after defeating the Midianites, Moses commands the killing of all males and all women who are not virgins. The virgin girls are kept and distributed among the soldiers.",
     "raw_text": "•  Numbers 31:17-18 — after defeating the Midianites, Moses commands the killing of all males and all women who are not virgins. The virgin girls are kept and distributed among the soldiers.",
     "provenance_type": "PRE_CONVENTION",
@@ -24061,7 +24356,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
-    "source_reference": "paragraph:767",
+    "source_reference": "paragraph:776",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24075,7 +24370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e934e1e9541a582d401c",
+    "id": "rk_e650d8c10b3ecb4f0191",
     "text": "•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. The valuation is explicit — a stated monetary differential, a person priced by sex.",
     "raw_text": "•  Leviticus 27:1-7 — the law of vow valuation states explicit prices: an adult male (20-60 years) is valued at 50 shekels of silver, an adult female at 30. A child male (5-20) is worth 20, a female child 10. The valuation is explicit — a stated monetary differential, a person priced by sex.",
     "provenance_type": "PRE_CONVENTION",
@@ -24092,7 +24387,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.1 The Legal Framework — Women as Property",
-    "source_reference": "paragraph:768",
+    "source_reference": "paragraph:777",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24106,7 +24401,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_97f65136fe414c8c8978",
+    "id": "rk_06b2e9716ab86c018e60",
     "text": "This is already documented in the Study Notes but belongs here for completeness.",
     "raw_text": "This is already documented in the Study Notes but belongs here for completeness.",
     "provenance_type": "PRE_CONVENTION",
@@ -24123,7 +24418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
-    "source_reference": "paragraph:769",
+    "source_reference": "paragraph:778",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24137,7 +24432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2e74ae6efd270a22a7a0",
+    "id": "rk_cffd89c754744d8572ba",
     "text": "•  Ezekiel 16 and 23 — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented explicitly as God's love. Cutting off noses and ears, public stripping, mob violence — divine romance.",
     "raw_text": "•  Ezekiel 16 and 23 — Israel described as a prostitute punished by gang rape, mutilation, and stoning. Presented explicitly as God's love. Cutting off noses and ears, public stripping, mob violence — divine romance.",
     "provenance_type": "PRE_CONVENTION",
@@ -24154,7 +24449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
-    "source_reference": "paragraph:770",
+    "source_reference": "paragraph:779",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24168,7 +24463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_235d9e540d2ee27cf7ad",
+    "id": "rk_d08bfe291f408b563ebd",
     "text": "•  Hosea — God as wronged husband, threatening to strip, starve, and expose his wife. The prophet marries a woman specifically to use her as a theological prop with no voice or agency.",
     "raw_text": "•  Hosea — God as wronged husband, threatening to strip, starve, and expose his wife. The prophet marries a woman specifically to use her as a theological prop with no voice or agency.",
     "provenance_type": "PRE_CONVENTION",
@@ -24185,7 +24480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
-    "source_reference": "paragraph:771",
+    "source_reference": "paragraph:780",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24199,7 +24494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_704437f7233e20e1a05a",
+    "id": "rk_b18cbf06a5f1b79b38a6",
     "text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. The theology requires women's bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.",
     "raw_text": "•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. The theology requires women's bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.",
     "provenance_type": "PRE_CONVENTION",
@@ -24216,7 +24511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.2 The Prophets — Sexual Violence as Theology",
-    "source_reference": "paragraph:772",
+    "source_reference": "paragraph:781",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24230,7 +24525,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dfdabea9b125aa524035",
+    "id": "rk_fdf1469c150644c6f826",
     "text": "•  1 Corinthians 14:34-35 — \"Women should remain silent in the churches. They are not allowed to speak... If they want to inquire about something, they should ask their own husbands at home.\" This is undisputed Paul — not deutero-Pauline. The strongest egalitarian Pauline verse (Galatians 3:28) is in tension with this in the same corpus.",
     "raw_text": "•  1 Corinthians 14:34-35 — \"Women should remain silent in the churches. They are not allowed to speak... If they want to inquire about something, they should ask their own husbands at home.\" This is undisputed Paul — not deutero-Pauline. The strongest egalitarian Pauline verse (Galatians 3:28) is in tension with this in the same corpus.",
     "provenance_type": "PRE_CONVENTION",
@@ -24247,7 +24542,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
-    "source_reference": "paragraph:773",
+    "source_reference": "paragraph:782",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24261,7 +24556,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5b741b6227ab6e2d0b24",
+    "id": "rk_86d816fe56f857f0e1ad",
     "text": "•  1 Timothy 2:11-15 — \"I do not permit a woman to teach or to assume authority over a man; she must be quiet. For Adam was formed first, then Eve. And Adam was not the one deceived; it was the woman who was deceived.\" Disputed letter (deutero-Pauline by most critical scholars), but canonized and used for centuries to bar women from church leadership.",
     "raw_text": "•  1 Timothy 2:11-15 — \"I do not permit a woman to teach or to assume authority over a man; she must be quiet. For Adam was formed first, then Eve. And Adam was not the one deceived; it was the woman who was deceived.\" Disputed letter (deutero-Pauline by most critical scholars), but canonized and used for centuries to bar women from church leadership.",
     "provenance_type": "PRE_CONVENTION",
@@ -24278,7 +24573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
-    "source_reference": "paragraph:774",
+    "source_reference": "paragraph:783",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24292,7 +24587,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_725376efa7332b3b1625",
+    "id": "rk_a6ab47f00a301ac1845c",
     "text": "•  Ephesians 5:22-24 — \"Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church.\" Also disputed letter. The headship model makes marital hierarchy a theological principle, not a cultural accommodation.",
     "raw_text": "•  Ephesians 5:22-24 — \"Wives, submit to your husbands as to the Lord. For the husband is the head of the wife as Christ is the head of the church.\" Also disputed letter. The headship model makes marital hierarchy a theological principle, not a cultural accommodation.",
     "provenance_type": "PRE_CONVENTION",
@@ -24309,7 +24604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
-    "source_reference": "paragraph:775",
+    "source_reference": "paragraph:784",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24323,7 +24618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_62de84e25eca6bc12576",
+    "id": "rk_b22c6f02bfb4c2848775",
     "text": "•  1 Corinthians 11:7-9 — \"man is the image and glory of God; but woman is the glory of man... woman was created for man.\" Not disputed. Undisputed Paul.",
     "raw_text": "•  1 Corinthians 11:7-9 — \"man is the image and glory of God; but woman is the glory of man... woman was created for man.\" Not disputed. Undisputed Paul.",
     "provenance_type": "PRE_CONVENTION",
@@ -24340,7 +24635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
-    "source_reference": "paragraph:776",
+    "source_reference": "paragraph:785",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24354,7 +24649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_067c0f8a6eaf753284ca",
+    "id": "rk_1d94b85bdd2f08a8f6fd",
     "text": "•  1 Timothy 2:15 — \"she will be saved through childbearing — if they continue in faith and love and holiness, with self-control\" (σωθήσεται διὰ τῆς τεκνογονίας). Sits directly after the teaching prohibition and the Eve-was-deceived grounding (2:11-14) — salvation language tied to a domestic role. Four real readings exist, none settled: (1) a literal/works-adjacent reading — theologically awkward against Pauline grace theology elsewhere, part of why critical scholarship reads the Pastorals as post-Pauline in the first place; (2) a Genesis 3:16 curse-reversal reading — childbirth pain as curse, endurance through it as redemptive participation (Philip Towner's New International Commentary on the New Testament entry takes this line) [CONSERVATIVE-EVANGELICAL]; (3) a definite-article reading — \"the childbearing\" pointing to a specific birth, Christ's — grammatically weak, a minority position; (4) a social-control reading — restricting women to a domestic sphere as a corrective against women's visible leadership in earlier, undisputed Pauline communities (Romans 16 names women deacons and an apostle, Junia) [CRITICAL — Elisabeth Schüssler Fiorenza, James D.G. Dunn].",
     "raw_text": "•  1 Timothy 2:15 — \"she will be saved through childbearing — if they continue in faith and love and holiness, with self-control\" (σωθήσεται διὰ τῆς τεκνογονίας). Sits directly after the teaching prohibition and the Eve-was-deceived grounding (2:11-14) — salvation language tied to a domestic role. Four real readings exist, none settled: (1) a literal/works-adjacent reading — theologically awkward against Pauline grace theology elsewhere, part of why critical scholarship reads the Pastorals as post-Pauline in the first place; (2) a Genesis 3:16 curse-reversal reading — childbirth pain as curse, endurance through it as redemptive participation (Philip Towner's New International Commentary on the New Testament entry takes this line) [CONSERVATIVE-EVANGELICAL]; (3) a definite-article reading — \"the childbearing\" pointing to a specific birth, Christ's — grammatically weak, a minority position; (4) a social-control reading — restricting women to a domestic sphere as a corrective against women's visible leadership in earlier, undisputed Pauline communities (Romans 16 names women deacons and an apostle, Junia) [CRITICAL — Elisabeth Schüssler Fiorenza, James D.G. Dunn].",
     "provenance_type": "PRE_CONVENTION",
@@ -24371,7 +24666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.3 The New Testament — Silence and Submission",
-    "source_reference": "paragraph:777",
+    "source_reference": "paragraph:786",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24385,7 +24680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fcf130a5ca6831639417",
+    "id": "rk_61765394e6f02428239e",
     "text": "The standard response: \"These were cultural norms of the time — God was working within the culture.\"",
     "raw_text": "**The standard response: **\"These were cultural norms of the time — God was working within the culture.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -24402,7 +24697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
-    "source_reference": "paragraph:778",
+    "source_reference": "paragraph:787",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24416,7 +24711,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0051af60274e6e3c1640",
+    "id": "rk_1ffda643e04c6bce7d33",
     "text": "Why this creates a tension: If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
     "raw_text": "**Why this creates a tension: **If God encoded cultural norms of the ancient Near East as divine law, then divine inspiration means something different from \"timeless truth from a transcendent moral being.\" Cultural accommodation may explain the historical form of the text, but it also requires a method for distinguishing accommodated norms from enduring ones.",
     "provenance_type": "PRE_CONVENTION",
@@ -24433,7 +24728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
-    "source_reference": "paragraph:779",
+    "source_reference": "paragraph:788",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24447,7 +24742,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d12d53e6039c91db4227",
+    "id": "rk_d9a2c8844e5bdea927b0",
     "text": "The alternative: \"These are God's actual commands for all time.\" Then they should still be practiced — stoning non-virgin brides, keeping silent in churches, wives submitting in everything. Most modern Christians reject this. So they are selectively applying their own judgment about which commands are timeless and which are cultural. Which is exactly what critics say they are doing.",
     "raw_text": "**The alternative: **\"These are God's actual commands for all time.\" Then they should still be practiced — stoning non-virgin brides, keeping silent in churches, wives submitting in everything. Most modern Christians reject this. So they are selectively applying their own judgment about which commands are timeless and which are cultural. Which is exactly what critics say they are doing.",
     "provenance_type": "PRE_CONVENTION",
@@ -24464,7 +24759,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
-    "source_reference": "paragraph:780",
+    "source_reference": "paragraph:789",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24478,7 +24773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_04ea969972d622259da2",
+    "id": "rk_c320f3c0f99956d36d0c",
     "text": "The question that clarifies the tension:",
     "raw_text": "**The question that clarifies the tension:**",
     "provenance_type": "PRE_CONVENTION",
@@ -24495,7 +24790,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
-    "source_reference": "paragraph:781",
+    "source_reference": "paragraph:790",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24509,7 +24804,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8ee2d14315380ae7054c",
+    "id": "rk_3046c9ce9a6d0d3d35ca",
     "text": "•  \"If these passages are just cultural, who decided that, and by what standard? Because the people who decided were using their own moral judgment — the same judgment you told me cannot be trusted without God.\"",
     "raw_text": "•  \"If these passages are just cultural, who decided that, and by what standard? Because the people who decided were using their own moral judgment — the same judgment you told me cannot be trusted without God.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -24526,7 +24821,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.4 The Theological Tension",
-    "source_reference": "paragraph:782",
+    "source_reference": "paragraph:791",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24540,7 +24835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7047adc1e477dd503518",
+    "id": "rk_a2ed25e44e5404b14237",
     "text": "Common response: \"But Deborah was a judge and prophet. Mary Magdalene was first at the tomb. The Bible honors women.\"",
     "raw_text": "**Common response: **\"But Deborah was a judge and prophet. Mary Magdalene was first at the tomb. The Bible honors women.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -24557,7 +24852,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
-    "source_reference": "paragraph:783",
+    "source_reference": "paragraph:792",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24571,7 +24866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c6aad2bebd82449c458d",
+    "id": "rk_3c629517491f9fedf860",
     "text": "The problem with Deborah: Deborah is a descriptive historical account in Judges — a book largely documenting moral chaos and national failure. Her existence as a leader does not constitute a prescriptive command for women's leadership. The later explicit prohibitions on women speaking in church (1 Corinthians 14, 1 Timothy 2) are prescriptive commands. Those override a historical example.",
     "raw_text": "**The problem with Deborah: **Deborah is a descriptive historical account in Judges — a book largely documenting moral chaos and national failure. Her existence as a leader does not constitute a prescriptive command for women's leadership. The later explicit prohibitions on women speaking in church (1 Corinthians 14, 1 Timothy 2) are prescriptive commands. Those override a historical example.",
     "provenance_type": "PRE_CONVENTION",
@@ -24588,7 +24883,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
-    "source_reference": "paragraph:784",
+    "source_reference": "paragraph:793",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24602,7 +24897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6bae5596bdb06f312435",
+    "id": "rk_77a399a639171cd4845b",
     "text": "The problem with Mary Magdalene: She is first at the tomb in the resurrection accounts. But the same tradition excluded her testimony: Luke 24:11 — the disciples heard the women's account \"but they did not believe them, because their words seemed to them like nonsense.\" The founding testimony of the resurrection — given by women — was dismissed as nonsense by the male disciples. That is baked into the text.",
     "raw_text": "**The problem with Mary Magdalene: **She is first at the tomb in the resurrection accounts. But the same tradition excluded her testimony: Luke 24:11 — the disciples heard the women's account \"but they did not believe them, because their words seemed to them like nonsense.\" The founding testimony of the resurrection — given by women — was dismissed as nonsense by the male disciples. That is baked into the text.",
     "provenance_type": "PRE_CONVENTION",
@@ -24619,285 +24914,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.5 Deborah and Mary Magdalene in Egalitarian Readings",
-    "source_reference": "paragraph:785",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1f4d28aced0f391fde10",
-    "text": "The rest of this section states the critical position without running this corpus's own method on it: name the strongest case for every side, including the traditional one. This is that case.",
-    "raw_text": "The rest of this section states the critical position without running this corpus's own method on it: name the strongest case for every side, including the traditional one. This is that case.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:786",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_9f11230f342f37cfef7a",
-    "text": "The core move: role distinction is not value distinction. *John Piper and Wayne Grudem, eds., Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism (Crossway, 1991) — the foundational text, produced through the Council on Biblical Manhood and Womanhood (CBMW, est. 1987) — argues men and women hold full ontological equality (both made in God's image, Genesis 1:27) alongside functional hierarchy in marriage and church leadership. Andreas Köstenberger and David W. Jones, God, Marriage, and Family: Rebuilding the Biblical Foundation (Crossway, 2004)* extends the same framework across the whole of family ethics.",
-    "raw_text": "**The core move: **role distinction is not value distinction. **John Piper and Wayne Grudem, eds., *Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism* (Crossway, 1991)** — the foundational text, produced through the Council on Biblical Manhood and Womanhood (CBMW, est. 1987) — argues men and women hold full ontological equality (both made in God's image, Genesis 1:27) alongside functional hierarchy in marriage and church leadership. **Andreas Köstenberger and David W. Jones, *God, Marriage, and Family: Rebuilding the Biblical Foundation* (Crossway, 2004)** extends the same framework across the whole of family ethics.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:787",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ac248691fee5d90d46b8",
-    "text": "The analogy that carries the weight: Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. The Trinity analogy is the argument's load-bearing structure — not a supporting illustration — usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
-    "raw_text": "**The analogy that carries the weight: **Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. The Trinity analogy is the argument's load-bearing structure — not a supporting illustration — usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:788",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_c5ef9085126b15cadbb6",
-    "text": "Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles, The Trinity & Subordinationism (InterVarsity Press, 2002), Jesus and the Father (Zondervan, 2006), and The Eternal Generation of the Son (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (meaning it belongs to the incarnation — God becoming human and acting in history — not to his eternal being) not eternal. The dispute broke out inside evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
-    "raw_text": "**Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles**, *The Trinity & Subordinationism* (InterVarsity Press, 2002), *Jesus and the Father* (Zondervan, 2006), and *The Eternal Generation of the Son* (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (meaning it belongs to the incarnation — God becoming human and acting in history — not to his eternal being) not eternal. The dispute broke out **inside** evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:789",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e0e9efcb720b9a36961c",
-    "text": "On Galatians 3:28: complementarians read \"no longer male and female... one in Christ\" as soteriological equality — equal standing before God, equal access to salvation — not functional equality in marriage or church office. Paul, on this reading, is answering \"who is saved,\" not \"who leads.\" On 1 Corinthians 11:7-9: read as a creation-order argument (Adam formed first) establishing a structure of headship, comparable to primogeniture (the right of the firstborn son to inherit by birth order) establishing inheritance order — a functional distinction, not a claim about lesser worth.",
-    "raw_text": "**On Galatians 3:28: **complementarians read \"no longer male and female... one in Christ\" as soteriological equality — equal standing before God, equal access to salvation — not functional equality in marriage or church office. Paul, on this reading, is answering \"who is saved,\" not \"who leads.\" On 1 Corinthians 11:7-9: read as a creation-order argument (Adam formed first) establishing a structure of headship, comparable to primogeniture (the right of the firstborn son to inherit by birth order) establishing inheritance order — a functional distinction, not a claim about lesser worth.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:790",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e8687de16a816f8d5dac",
-    "text": "Where even sympathetic scholarship doesn't fully defend the position: the Old Testament property and valuation texts (Leviticus 27's shekel pricing, Numbers 5's ordeal) are the hardest case for \"equal worth, different roles\" — a stated price differential is not role language, and no complementarian treatment of these specific texts as culturally-bound civil law rather than the moral core of scripture was found and verified for this entry; that gap is noted here rather than papered over with an uncited attribution.",
-    "raw_text": "**Where even sympathetic scholarship doesn't fully defend the position: **the Old Testament property and valuation texts (Leviticus 27's shekel pricing, Numbers 5's ordeal) are the hardest case for \"equal worth, different roles\" — a stated price differential is not role language, and no complementarian treatment of these specific texts as culturally-bound civil law rather than the moral core of scripture was found and verified for this entry; that gap is noted here rather than papered over with an uncited attribution.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:791",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_fa0ac700453eeb90af8c",
-    "text": "The internal critique — an evangelical historian, not an outside critic: Beth Allison Barr, The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth (Brazos Press, 2021) [Barr teaches at Baylor and writes from inside the tradition, not against it] — argues complementarianism already sorts biblical instructions into \"cultural\" and \"timeless\" categories (head coverings and holy kisses treated as cultural; headship and teaching restrictions treated as timeless) without acknowledging that sorting as an interpretive choice rather than something the text itself specifies. This is the same \"who decided, and by what standard\" tension already named at §15.4, now sourced to a critic writing from within complementarianism's own tradition rather than outside it.",
-    "raw_text": "**The internal critique — an evangelical historian, not an outside critic: Beth Allison Barr**, *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth* (Brazos Press, 2021) [Barr teaches at Baylor and writes from inside the tradition, not against it] — argues complementarianism already sorts biblical instructions into \"cultural\" and \"timeless\" categories (head coverings and holy kisses treated as cultural; headship and teaching restrictions treated as timeless) without acknowledging that sorting as an interpretive choice rather than something the text itself specifies. This is the same \"who decided, and by what standard\" tension already named at §15.4, now sourced to a critic writing from within complementarianism's own tradition rather than outside it.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:792",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_610e234c223b25ba1342",
-    "text": "Conclusion: complementarianism is a serious, internally rigorous position with real defenders and real internal critics — not fringe apologetics. It has a substantive answer to the role texts (1 Corinthians 11, 1 Timothy 2): creation order establishes function, not worth. It does not have an equally developed answer to the property and valuation texts (Leviticus 27, Numbers 5) — those texts price and control bodies rather than assign roles, and \"different roles, equal worth\" does not obviously metabolize a stated shekel differential. The Trinity analogy meant to make the whole framework theologically coherent is itself contested by conservative Trinitarian scholars on grounds that have nothing to do with gender.",
-    "raw_text": "**Conclusion: **complementarianism is a serious, internally rigorous position with real defenders and real internal critics — not fringe apologetics. It has a substantive answer to the role texts (1 Corinthians 11, 1 Timothy 2): creation order establishes function, not worth. It does not have an equally developed answer to the property and valuation texts (Leviticus 27, Numbers 5) — those texts price and control bodies rather than assign roles, and \"different roles, equal worth\" does not obviously metabolize a stated shekel differential. The Trinity analogy meant to make the whole framework theologically coherent is itself contested by conservative Trinitarian scholars on grounds that have nothing to do with gender.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
-    "source_reference": "paragraph:793",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a3270cf7784149438a4b",
-    "text": "Sources — critical:",
-    "raw_text": "**Sources — critical:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.6 The Strongest Complementarian Case"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
     "source_reference": "paragraph:794",
     "parent_id": null,
     "related_ids": [],
@@ -24912,9 +24928,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6ea01258783a0871e19d",
-    "text": "•  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.",
-    "raw_text": "•  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.",
+    "id": "rk_c1fa86f8abc7b241e829",
+    "text": "The rest of this section states the critical position without running this corpus's own method on it: name the strongest case for every side, including the traditional one. This is that case.",
+    "raw_text": "The rest of this section states the critical position without running this corpus's own method on it: name the strongest case for every side, including the traditional one. This is that case.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -24943,9 +24959,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4d44191077d053643323",
-    "text": "•  Schussler Fiorenza, Elisabeth. In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983).",
-    "raw_text": "•  Schussler Fiorenza, Elisabeth. In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983).",
+    "id": "rk_8add294e8a1565466c1e",
+    "text": "The core move: role distinction is not value distinction. *John Piper and Wayne Grudem, eds., Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism (Crossway, 1991) — the foundational text, produced through the Council on Biblical Manhood and Womanhood (CBMW, est. 1987) — argues men and women hold full ontological equality (both made in God's image, Genesis 1:27) alongside functional hierarchy in marriage and church leadership. Andreas Köstenberger and David W. Jones, God, Marriage, and Family: Rebuilding the Biblical Foundation (Crossway, 2004)* extends the same framework across the whole of family ethics.",
+    "raw_text": "**The core move: **role distinction is not value distinction. **John Piper and Wayne Grudem, eds., *Recovering Biblical Manhood and Womanhood: A Response to Evangelical Feminism* (Crossway, 1991)** — the foundational text, produced through the Council on Biblical Manhood and Womanhood (CBMW, est. 1987) — argues men and women hold full ontological equality (both made in God's image, Genesis 1:27) alongside functional hierarchy in marriage and church leadership. **Andreas Köstenberger and David W. Jones, *God, Marriage, and Family: Rebuilding the Biblical Foundation* (Crossway, 2004)** extends the same framework across the whole of family ethics.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -24974,9 +24990,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ebdad898417942899c04",
-    "text": "•  Barr, Beth Allison. The Making of Biblical Womanhood (2021) — from an evangelical historian.",
-    "raw_text": "•  Barr, Beth Allison. The Making of Biblical Womanhood (2021) — from an evangelical historian.",
+    "id": "rk_8ac631f23d50df93b547",
+    "text": "The analogy that carries the weight: Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. The Trinity analogy is the argument's load-bearing structure — not a supporting illustration — usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
+    "raw_text": "**The analogy that carries the weight: **Grudem leans on the Trinity — the Son is fully equal in essence to the Father, yet eternally subordinate in role — as a template for \"equal in worth, differentiated in function\" being a coherent theological category rather than a contradiction. The Trinity analogy is the argument's load-bearing structure — not a supporting illustration — usually called \"eternal functional subordination\" (EFS) or \"eternal relations of authority and submission.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25005,9 +25021,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6fadc433267bc9aac5bc",
-    "text": "Sources — defending complementarianism:",
-    "raw_text": "**Sources — defending complementarianism:**",
+    "id": "rk_c99e3ced72e724078fbd",
+    "text": "Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles, The Trinity & Subordinationism (InterVarsity Press, 2002), Jesus and the Father (Zondervan, 2006), and The Eternal Generation of the Son (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (meaning it belongs to the incarnation — God becoming human and acting in history — not to his eternal being) not eternal. The dispute broke out inside evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
+    "raw_text": "**Where the analogy breaks against Trinitarian orthodoxy, not just against feminist critique: Kevin Giles**, *The Trinity & Subordinationism* (InterVarsity Press, 2002), *Jesus and the Father* (Zondervan, 2006), and *The Eternal Generation of the Son* (InterVarsity Press, 2012) — argues EFS is itself a departure from Nicene orthodoxy, which holds the Son's subordination is economic (meaning it belongs to the incarnation — God becoming human and acting in history — not to his eternal being) not eternal. The dispute broke out **inside** evangelicalism — in June 2016, Reformed theologians Liam Goligher and Carl Trueman publicly charged Grudem and Bruce Ware's EFS with undermining Nicene trinitarianism, and the dispute reached the Evangelical Theological Society's November 2016 annual meeting, where Grudem and Ware faced Giles and Millard Erickson directly. Both Grudem and Ware stated there that they affirmed the Nicene doctrine of the Son's \"eternal generation\" — read by critics as a real, if partial, concession. The Trinity analogy complementarianism leans on hardest is contested by conservative Trinitarian theologians on Trinitarian grounds, independent of the gender question.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25036,9 +25052,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9e6ddd7f201093049deb",
-    "text": "•  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.",
-    "raw_text": "•  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.",
+    "id": "rk_55ddafd232dc5957a3e0",
+    "text": "On Galatians 3:28: complementarians read \"no longer male and female... one in Christ\" as soteriological equality — equal standing before God, equal access to salvation — not functional equality in marriage or church office. Paul, on this reading, is answering \"who is saved,\" not \"who leads.\" On 1 Corinthians 11:7-9: read as a creation-order argument (Adam formed first) establishing a structure of headship, comparable to primogeniture (the right of the firstborn son to inherit by birth order) establishing inheritance order — a functional distinction, not a claim about lesser worth.",
+    "raw_text": "**On Galatians 3:28: **complementarians read \"no longer male and female... one in Christ\" as soteriological equality — equal standing before God, equal access to salvation — not functional equality in marriage or church office. Paul, on this reading, is answering \"who is saved,\" not \"who leads.\" On 1 Corinthians 11:7-9: read as a creation-order argument (Adam formed first) establishing a structure of headship, comparable to primogeniture (the right of the firstborn son to inherit by birth order) establishing inheritance order — a functional distinction, not a claim about lesser worth.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25067,9 +25083,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a75539e7eecf445bcdca",
-    "text": "•  Köstenberger, Andreas J. & Jones, David W. God, Marriage, and Family: Rebuilding the Biblical Foundation (2004).",
-    "raw_text": "•  Köstenberger, Andreas J. & Jones, David W. God, Marriage, and Family: Rebuilding the Biblical Foundation (2004).",
+    "id": "rk_b7ddf3f011cd9c2c6c8b",
+    "text": "Where even sympathetic scholarship doesn't fully defend the position: the Old Testament property and valuation texts (Leviticus 27's shekel pricing, Numbers 5's ordeal) are the hardest case for \"equal worth, different roles\" — a stated price differential is not role language, and no complementarian treatment of these specific texts as culturally-bound civil law rather than the moral core of scripture was found and verified for this entry; that gap is noted here rather than papered over with an uncited attribution.",
+    "raw_text": "**Where even sympathetic scholarship doesn't fully defend the position: **the Old Testament property and valuation texts (Leviticus 27's shekel pricing, Numbers 5's ordeal) are the hardest case for \"equal worth, different roles\" — a stated price differential is not role language, and no complementarian treatment of these specific texts as culturally-bound civil law rather than the moral core of scripture was found and verified for this entry; that gap is noted here rather than papered over with an uncited attribution.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25098,9 +25114,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_116e084e0b94a047674c",
-    "text": "•  Giles, Kevin. The Trinity & Subordinationism (2002); Jesus and the Father (2006) — Trinitarian critique of the Trinity analogy complementarianism relies on, from inside evangelical Trinitarian theology.",
-    "raw_text": "•  Giles, Kevin. The Trinity & Subordinationism (2002); Jesus and the Father (2006) — Trinitarian critique of the Trinity analogy complementarianism relies on, from inside evangelical Trinitarian theology.",
+    "id": "rk_7950e7b3c737b9c142b2",
+    "text": "The internal critique — an evangelical historian, not an outside critic: Beth Allison Barr, The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth (Brazos Press, 2021) [Barr teaches at Baylor and writes from inside the tradition, not against it] — argues complementarianism already sorts biblical instructions into \"cultural\" and \"timeless\" categories (head coverings and holy kisses treated as cultural; headship and teaching restrictions treated as timeless) without acknowledging that sorting as an interpretive choice rather than something the text itself specifies. This is the same \"who decided, and by what standard\" tension already named at §15.4, now sourced to a critic writing from within complementarianism's own tradition rather than outside it.",
+    "raw_text": "**The internal critique — an evangelical historian, not an outside critic: Beth Allison Barr**, *The Making of Biblical Womanhood: How the Subjugation of Women Became Gospel Truth* (Brazos Press, 2021) [Barr teaches at Baylor and writes from inside the tradition, not against it] — argues complementarianism already sorts biblical instructions into \"cultural\" and \"timeless\" categories (head coverings and holy kisses treated as cultural; headship and teaching restrictions treated as timeless) without acknowledging that sorting as an interpretive choice rather than something the text itself specifies. This is the same \"who decided, and by what standard\" tension already named at §15.4, now sourced to a critic writing from within complementarianism's own tradition rather than outside it.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25129,7 +25145,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b7948f7dc9f36a96ecc5",
+    "id": "rk_dcbfddc1fa3f29b7b84d",
+    "text": "Conclusion: complementarianism is a serious, internally rigorous position with real defenders and real internal critics — not fringe apologetics. It has a substantive answer to the role texts (1 Corinthians 11, 1 Timothy 2): creation order establishes function, not worth. It does not have an equally developed answer to the property and valuation texts (Leviticus 27, Numbers 5) — those texts price and control bodies rather than assign roles, and \"different roles, equal worth\" does not obviously metabolize a stated shekel differential. The Trinity analogy meant to make the whole framework theologically coherent is itself contested by conservative Trinitarian scholars on grounds that have nothing to do with gender.",
+    "raw_text": "**Conclusion: **complementarianism is a serious, internally rigorous position with real defenders and real internal critics — not fringe apologetics. It has a substantive answer to the role texts (1 Corinthians 11, 1 Timothy 2): creation order establishes function, not worth. It does not have an equally developed answer to the property and valuation texts (Leviticus 27, Numbers 5) — those texts price and control bodies rather than assign roles, and \"different roles, equal worth\" does not obviously metabolize a stated shekel differential. The Trinity analogy meant to make the whole framework theologically coherent is itself contested by conservative Trinitarian scholars on grounds that have nothing to do with gender.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:802",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_90029e4c878eea06d3ee",
+    "text": "Sources — critical:",
+    "raw_text": "**Sources — critical:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:803",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1f2b566e0dc115e64153",
+    "text": "•  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.",
+    "raw_text": "•  Trible, Phyllis. Texts of Terror: Literary-Feminist Readings of Biblical Narratives (1984) — foundational feminist biblical criticism.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:804",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9c3dfa6433d63691aadb",
+    "text": "•  Schussler Fiorenza, Elisabeth. In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983).",
+    "raw_text": "•  Schussler Fiorenza, Elisabeth. In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (1983).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:805",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5d48a493a2169a0f4c64",
+    "text": "•  Barr, Beth Allison. The Making of Biblical Womanhood (2021) — from an evangelical historian.",
+    "raw_text": "•  Barr, Beth Allison. The Making of Biblical Womanhood (2021) — from an evangelical historian.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:806",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_7f7e1bc1ecfc8d33efdd",
+    "text": "Sources — defending complementarianism:",
+    "raw_text": "**Sources — defending complementarianism:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:807",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0150c62678ad1212ccce",
+    "text": "•  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.",
+    "raw_text": "•  Piper, John & Grudem, Wayne (eds.). Recovering Biblical Manhood and Womanhood (1991) — the comprehensive complementarian defense.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:808",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4e31009e4cebc077f2c0",
+    "text": "•  Köstenberger, Andreas J. & Jones, David W. God, Marriage, and Family: Rebuilding the Biblical Foundation (2004).",
+    "raw_text": "•  Köstenberger, Andreas J. & Jones, David W. God, Marriage, and Family: Rebuilding the Biblical Foundation (2004).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:809",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_7c9708b2a3dc7abd05fb",
+    "text": "•  Giles, Kevin. The Trinity & Subordinationism (2002); Jesus and the Father (2006) — Trinitarian critique of the Trinity analogy complementarianism relies on, from inside evangelical Trinitarian theology.",
+    "raw_text": "•  Giles, Kevin. The Trinity & Subordinationism (2002); Jesus and the Father (2006) — Trinitarian critique of the Trinity analogy complementarianism relies on, from inside evangelical Trinitarian theology.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.6 The Strongest Complementarian Case"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.6 The Strongest Complementarian Case",
+    "source_reference": "paragraph:810",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a6699b53c6c4075c39be",
     "text": "The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. Taken together, the asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex, not a collection of unfortunate passages in an otherwise egalitarian system.",
     "raw_text": "⟨YOURS⟩ The preceding sections document specific asymmetries: property law, valuation differentials, sexual violence as theology, teaching prohibitions. Taken together, the asymmetry is the system's architecture — load-bearing across three structural pillars from covenant foundation to metaphysical apex, not a collection of unfortunate passages in an otherwise egalitarian system.",
     "provenance_type": "MY_WORDS",
@@ -25146,7 +25441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:802",
+    "source_reference": "paragraph:811",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25160,7 +25455,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9c20dbe04970ff4926f6",
+    "id": "rk_f968c01f2e1276fc646c",
     "text": "The covenant sign. The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. The mark is male-only. It defines the primary parties at the founding moment.",
     "raw_text": "**The covenant sign.** The foundational covenant mark is circumcision (Genesis 17). Women are not parties to the covenant as individuals — they are in the covenant community as daughters and wives of covenant men. Circumcision is the physical mark of the entire Abraham → Isaac → Jacob → nation sequence, the sign of who the covenant is with. The mark is male-only. It defines the primary parties at the founding moment.",
     "provenance_type": "PRE_CONVENTION",
@@ -25177,7 +25472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:803",
+    "source_reference": "paragraph:812",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25191,7 +25486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c2bd16015f04004d2b86",
+    "id": "rk_7dc5f31c03caafa67b54",
     "text": "The inheritance and succession law. Land flows through male lines by default. The Zelophehad daughters episode (Numbers 27, 36) is frequently cited as flexibility: the daughters inherit because there are no sons. But Numbers 36 immediately constrains that right — they must marry within their tribe so land does not transfer out of male tribal control. The correction to the anomaly is a rule that preserves male inheritance across tribal lines. The daughters' right was bounded from the moment it was granted.",
     "raw_text": "**The inheritance and succession law.** Land flows through male lines by default. The Zelophehad daughters episode (Numbers 27, 36) is frequently cited as flexibility: the daughters inherit because there are no sons. But Numbers 36 immediately constrains that right — they must marry within their tribe so land does not transfer out of male tribal control. The correction to the anomaly is a rule that preserves male inheritance across tribal lines. The daughters' right was bounded from the moment it was granted.",
     "provenance_type": "PRE_CONVENTION",
@@ -25208,7 +25503,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:804",
+    "source_reference": "paragraph:813",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25222,7 +25517,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_477b0f9f47915e8fc27a",
+    "id": "rk_189924d4a9dc860b10ea",
     "text": "The divine marriage metaphor. God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. The metaphor's logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate — the gendered roles are structural, not decorative. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. The gendered structure is what makes the metaphor legible; remove it and the comparison collapses. The violence in Ezekiel 16, Ezekiel 23, and Hosea is structural to the theology. God's fidelity is proven by the power to punish. That framing requires the wife's subordination as a given.",
     "raw_text": "**The divine marriage metaphor.** God is consistently the husband. Israel is consistently the wife: wayward, adulterous, subject to punishment. The metaphor's logic requires one party to be the faithful, sovereign owner and the other the faithless subordinate — the gendered roles are structural, not decorative. Running it in the other direction — God as wife, Israel as husband — would require the entire prophetic tradition to reconceive how authority works in marriage. The gendered structure is what makes the metaphor legible; remove it and the comparison collapses. The violence in Ezekiel 16, Ezekiel 23, and Hosea is structural to the theology. God's fidelity is proven by the power to punish. That framing requires the wife's subordination as a given.",
     "provenance_type": "PRE_CONVENTION",
@@ -25239,7 +25534,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:805",
+    "source_reference": "paragraph:814",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25253,7 +25548,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b3787a64b4b938b964b4",
+    "id": "rk_f7a9c037690a90d7cdbe",
     "text": "What makes it load-bearing. The legal asymmetries in §15.1, the prophetic material in §15.2, and the NT commands in §15.3 are load-bearing. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.",
     "raw_text": "**What makes it load-bearing.** The legal asymmetries in §15.1, the prophetic material in §15.2, and the NT commands in §15.3 are load-bearing. Remove the assumption of female subordination and the covenant sign needs a different embodiment, the inheritance law needs a different default, and the central metaphor of Israel's relationship to God needs a different structure. They are connected, not accumulated.",
     "provenance_type": "PRE_CONVENTION",
@@ -25270,7 +25565,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:806",
+    "source_reference": "paragraph:815",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25284,7 +25579,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c338d5d61447c33b4fb4",
+    "id": "rk_b402df99c3104ce275d5",
     "text": "One direction only. The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That is what a structural feature looks like, not a collection of accidents.",
     "raw_text": "**One direction only.** The strongest evidence this is architectural rather than anecdotal: no male counterpart exists for any female-specific legal mechanism. No male bitter-water ordeal triggered by suspicion alone. No male body treated as property damage with the fine paid to a parent. No male valuation differential set in shekels. Across a thousand years of composition by dozens of authors, the asymmetry runs one direction only. That is what a structural feature looks like, not a collection of accidents.",
     "provenance_type": "PRE_CONVENTION",
@@ -25301,7 +25596,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:807",
+    "source_reference": "paragraph:816",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25315,7 +25610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_edc79f0d81be318280f2",
+    "id": "rk_f56b1d8018e3bc810772",
     "text": "The alternative was available. The text occasionally shows capacity for a different vision — Jesus in extended theological dialogue with the Samaritan woman across multiple social prohibitions (John 4), Mary affirmed for choosing to learn over the domestic role her sister held (Luke 10:38-42). These moments demonstrate the alternative was demonstrably available and was not taken as a structural norm. That is the strongest evidence this is a human document reflecting human power arrangements rather than a timeless moral intelligence.",
     "raw_text": "**The alternative was available.** The text occasionally shows capacity for a different vision — Jesus in extended theological dialogue with the Samaritan woman across multiple social prohibitions (John 4), Mary affirmed for choosing to learn over the domestic role her sister held (Luke 10:38-42). These moments demonstrate the alternative was demonstrably available and was not taken as a structural norm. That is the strongest evidence this is a human document reflecting human power arrangements rather than a timeless moral intelligence.",
     "provenance_type": "PRE_CONVENTION",
@@ -25332,7 +25627,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:808",
+    "source_reference": "paragraph:817",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25346,7 +25641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cff86edb386e8f06d208",
+    "id": "rk_d0f8a6d8ba24abbbf93d",
     "text": "The fingerprint.  A system this consistent — across law, narrative, prophecy, epistle, and the metaphysics of covenant — was produced by people for whom the asymmetry was not a problem requiring explanation. It was the world they were describing. The distinction between \"intentional theological commitment to subordination\" and \"unexamined assumption of the authors' social world\" is real, but it only appears when you hold the texts against the historical record of who wrote them and under what conditions. From inside the texts, the two are indistinguishable.",
     "raw_text": "**The fingerprint.** ⟨INFERENCE⟩ A system this consistent — across law, narrative, prophecy, epistle, and the metaphysics of covenant — was produced by people for whom the asymmetry was not a problem requiring explanation. It was the world they were describing. The distinction between \"intentional theological commitment to subordination\" and \"unexamined assumption of the authors' social world\" is real, but it only appears when you hold the texts against the historical record of who wrote them and under what conditions. From inside the texts, the two are indistinguishable.",
     "provenance_type": "CLAUDE",
@@ -25363,7 +25658,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.7 The Architecture, Not the Anomaly",
-    "source_reference": "paragraph:809",
+    "source_reference": "paragraph:818",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25377,290 +25672,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_be5c346f89c2a6c9a430",
+    "id": "rk_362b6d750914e6db49bf",
     "text": "The architecture documented in §15.1–15.7 becomes fully legible when read against what the system does not prohibit for men. The asymmetry is not incidental — it is the inverse proof that the framework is tracking property, lineage, and gender-role status rather than sexual morality as a universal principle.",
     "raw_text": "⟨DOCUMENTED⟩ The architecture documented in §15.1–15.7 becomes fully legible when read against what the system does not prohibit for men. The asymmetry is not incidental — it is the inverse proof that the framework is tracking property, lineage, and gender-role status rather than sexual morality as a universal principle.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:810",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨DOCUMENTED⟩"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a0dfdfab5ea51a07611d",
-    "text": "What the text does not prohibit.",
-    "raw_text": "**What the text does not prohibit.**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:811",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f5fb2ca3bc228667e7fc",
-    "text": "Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.",
-    "raw_text": "Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:812",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5efa922707dbe5abd618",
-    "text": "Onan is not about what it is usually said to be.",
-    "raw_text": "**Onan is not about what it is usually said to be.**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:813",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f793ecc314455ee1732c",
-    "text": "Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.",
-    "raw_text": "Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:814",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a9f81938391752f4d713",
-    "text": "Levirate marriage states the framework directly.",
-    "raw_text": "**Levirate marriage states the framework directly.**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:815",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_56b0c6b3b7aa1b3daac6",
-    "text": "Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself, not inferred from it.",
-    "raw_text": "Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself, not inferred from it.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:816",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_8b5b73d10bf721c741b3",
-    "text": "Adultery is defined as a property violation.",
-    "raw_text": "**Adultery is defined as a property violation.**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:817",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_47d76f7aadfb30e88a64",
-    "text": "The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. The definition itself makes the property structure visible: the wrong is the taking of another man's possession, not infidelity as a category. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.",
-    "raw_text": "The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. The definition itself makes the property structure visible: the wrong is the taking of another man's possession, not infidelity as a category. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
-      "15.8 What the System Permits on the Male Side"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
-    "source_reference": "paragraph:818",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_77045a9d174a089c11a8",
-    "text": "Numbers 5 states the structural asymmetry.",
-    "raw_text": "**Numbers 5 states the structural asymmetry.**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
@@ -25678,18 +25694,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f96f1bf7ef866c59b231",
-    "text": "The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.",
-    "raw_text": "The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.",
+    "id": "rk_e4fbcc8857f18521520c",
+    "text": "What the text does not prohibit.",
+    "raw_text": "**What the text does not prohibit.**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25718,9 +25734,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_83ed208f7ea31fdc8730",
-    "text": "The rape law confirms the framework.",
-    "raw_text": "**The rape law confirms the framework.**",
+    "id": "rk_8f0b6c2d0f79d97aad21",
+    "text": "Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.",
+    "raw_text": "Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25749,9 +25765,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d76ba6d74a6a089cd1fe",
-    "text": "Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.",
-    "raw_text": "Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.",
+    "id": "rk_04e2bc2d360416c8721c",
+    "text": "Onan is not about what it is usually said to be.",
+    "raw_text": "**Onan is not about what it is usually said to be.**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25780,9 +25796,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d2f7b91b5807ef5295f7",
-    "text": "David and Jonathan.",
-    "raw_text": "**David and Jonathan.**",
+    "id": "rk_98891fea09266b08dae7",
+    "text": "Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.",
+    "raw_text": "Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25811,11 +25827,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c4ade1d4ec4c56a287c1",
-    "text": "1 Samuel 18:1 — \"the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.\" 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: \"your love to me was extraordinary, surpassing the love of women.\"",
-    "raw_text": "⟨DOCUMENTED⟩ 1 Samuel 18:1 — \"the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.\" 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: \"your love to me was extraordinary, surpassing the love of women.\"",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
+    "id": "rk_3494a07f5c7735a34b22",
+    "text": "Levirate marriage states the framework directly.",
+    "raw_text": "**Levirate marriage states the framework directly.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
@@ -25833,18 +25849,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨DOCUMENTED⟩"
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0049299039706fe4b5cb",
-    "text": "Tom Horner (Jonathan Loved David: Homosexuality in Biblical Times, Westminster Press, 1978) argued for a romantic and erotic reading of the relationship. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb ahav (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (I Samuel, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference for these passages and treats the language as covenant loyalty within a formal political relationship.",
-    "raw_text": "Tom Horner (*Jonathan Loved David: Homosexuality in Biblical Times*, Westminster Press, 1978) argued for a romantic and erotic reading of the relationship. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb *ahav* (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (*I Samuel*, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference for these passages and treats the language as covenant loyalty within a formal political relationship.",
+    "id": "rk_5884f847171534ec053a",
+    "text": "Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself, not inferred from it.",
+    "raw_text": "Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself, not inferred from it.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25873,12 +25889,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_076a4dc4ae4c62c1caf0",
-    "text": "The intensity of the language, the clothing transfer, and \"surpassing the love of women\" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.",
-    "raw_text": "⟨INFERENCE⟩ The intensity of the language, the clothing transfer, and \"surpassing the love of women\" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
+    "id": "rk_c49d841633ae67a55b0f",
+    "text": "Adultery is defined as a property violation.",
+    "raw_text": "**Adultery is defined as a property violation.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.8 What the System Permits on the Male Side"
@@ -25895,18 +25911,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE⟩"
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d6e6a3a8080ef39f0427",
-    "text": "qadesh — idolatry, not orientation.",
-    "raw_text": "**qadesh — idolatry, not orientation.**",
+    "id": "rk_72af52271dfd1817d2fd",
+    "text": "The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. The definition itself makes the property structure visible: the wrong is the taking of another man's possession, not infidelity as a category. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.",
+    "raw_text": "The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. The definition itself makes the property structure visible: the wrong is the taking of another man's possession, not infidelity as a category. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25935,11 +25951,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0d56c2852f2c5da5e02a",
-    "text": "Deuteronomy 23:17 prohibits qadesh. The root qdsh means \"consecrated one.\" 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation \"male cult prostitute\" is contested in critical scholarship: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (Homoeroticism in the Biblical World, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the \"cult prostitute\" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.",
-    "raw_text": "⟨DOCUMENTED⟩ Deuteronomy 23:17 prohibits *qadesh*. The root *qdsh* means \"consecrated one.\" 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation \"male cult prostitute\" is contested in critical scholarship: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (*Homoeroticism in the Biblical World*, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the \"cult prostitute\" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
+    "id": "rk_aed96a014840bd03cedd",
+    "text": "Numbers 5 states the structural asymmetry.",
+    "raw_text": "**Numbers 5 states the structural asymmetry.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
@@ -25957,18 +25973,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨DOCUMENTED⟩"
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1d30b5bf8f9f53a22de1",
-    "text": "Eunuchs — a third category the system accepts.",
-    "raw_text": "**Eunuchs — a third category the system accepts.**",
+    "id": "rk_8104bbf90a00978bfcde",
+    "text": "The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.",
+    "raw_text": "The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -25997,11 +26013,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5553790654b5eb6d51c0",
-    "text": "Isaiah 56:3-5 explicitly includes eunuchs in the covenant: \"I will give them a monument and a name better than sons and daughters.\" Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. Eunuchs occupied a recognized third-gender category in the ancient world. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.",
-    "raw_text": "⟨DOCUMENTED⟩ Isaiah 56:3-5 explicitly includes eunuchs in the covenant: \"I will give them a monument and a name better than sons and daughters.\" Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. Eunuchs occupied a recognized third-gender category in the ancient world. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
+    "id": "rk_0ee55db56ff877fb5d3f",
+    "text": "The rape law confirms the framework.",
+    "raw_text": "**The rape law confirms the framework.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
@@ -26019,18 +26035,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨DOCUMENTED⟩"
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_60382b137ad325414e25",
-    "text": "NT complications.",
-    "raw_text": "**NT complications.**",
+    "id": "rk_5ec026d284dbf9726281",
+    "text": "Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.",
+    "raw_text": "Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26059,11 +26075,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_34c4699b1af9935b2082",
-    "text": "Matthew 5:27-28 — \"everyone who looks at a woman [Greek: gynaika] with lustful intent has already committed adultery with her in his heart.\" The internalization move is real, but the Greek word is gynaika (woman, not specifically \"another man's wife\") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.",
-    "raw_text": "⟨DOCUMENTED⟩ Matthew 5:27-28 — \"everyone who looks at a woman [Greek: *gynaika*] with lustful intent has already committed adultery with her in his heart.\" The internalization move is real, but the Greek word is *gynaika* (woman, not specifically \"another man's wife\") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
+    "id": "rk_5ef53cab0a340cfaf600",
+    "text": "David and Jonathan.",
+    "raw_text": "**David and Jonathan.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
@@ -26081,18 +26097,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "UNKNOWN",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨DOCUMENTED⟩"
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ce57c08920251abcd8b",
-    "text": "1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: \"it is better to marry than to burn\" (7:9). This is a departure from the OT reproductive mandate. But Paul's reasoning is explicitly eschatological — \"the time is short\" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.",
-    "raw_text": "⟨DOCUMENTED⟩ 1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: \"it is better to marry than to burn\" (7:9). This is a departure from the OT reproductive mandate. But Paul's reasoning is explicitly eschatological — \"the time is short\" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.",
+    "id": "rk_f035db1f946798cbe0db",
+    "text": "1 Samuel 18:1 — \"the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.\" 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: \"your love to me was extraordinary, surpassing the love of women.\"",
+    "raw_text": "⟨DOCUMENTED⟩ 1 Samuel 18:1 — \"the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.\" 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: \"your love to me was extraordinary, surpassing the love of women.\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -26121,9 +26137,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0dcf55a967fd95066fd0",
-    "text": "Synthesis.",
-    "raw_text": "**Synthesis.**",
+    "id": "rk_26483673254a20038185",
+    "text": "Tom Horner (Jonathan Loved David: Homosexuality in Biblical Times, Westminster Press, 1978) argued for a romantic and erotic reading of the relationship. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb ahav (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (I Samuel, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference for these passages and treats the language as covenant loyalty within a formal political relationship.",
+    "raw_text": "Tom Horner (*Jonathan Loved David: Homosexuality in Biblical Times*, Westminster Press, 1978) argued for a romantic and erotic reading of the relationship. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb *ahav* (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (*I Samuel*, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference for these passages and treats the language as covenant loyalty within a formal political relationship.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26152,9 +26168,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39649a753366395009c1",
-    "text": "The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic — mixing what must stay separate — applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. \"Sexual morality as a universal principle applied equally to male and female\" is not what this system is.",
-    "raw_text": "⟨INFERENCE⟩ The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic — mixing what must stay separate — applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. \"Sexual morality as a universal principle applied equally to male and female\" is not what this system is.",
+    "id": "rk_db385ccb8d7ce34388d5",
+    "text": "The intensity of the language, the clothing transfer, and \"surpassing the love of women\" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.",
+    "raw_text": "⟨INFERENCE⟩ The intensity of the language, the clothing transfer, and \"surpassing the love of women\" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -26183,9 +26199,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0f2c726bdff32d6e12e0",
-    "text": "The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (One Hundred Years of Homosexuality, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. \"Being gay\" as a category the text addresses is a modern retrofitting.",
-    "raw_text": "The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (*One Hundred Years of Homosexuality*, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. \"Being gay\" as a category the text addresses is a modern retrofitting.",
+    "id": "rk_75e54bcff0d1b0365461",
+    "text": "qadesh — idolatry, not orientation.",
+    "raw_text": "**qadesh — idolatry, not orientation.**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26214,12 +26230,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b05ab8b1ab5fbfbff26a",
-    "text": "The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.",
-    "raw_text": "⟨YOURS⟩ The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.",
-    "provenance_type": "MY_WORDS",
-    "representation_type": "VERBATIM",
-    "speaker": "user",
+    "id": "rk_7a34d97db587efb330a1",
+    "text": "Deuteronomy 23:17 prohibits qadesh. The root qdsh means \"consecrated one.\" 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation \"male cult prostitute\" is contested in critical scholarship: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (Homoeroticism in the Biblical World, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the \"cult prostitute\" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.",
+    "raw_text": "⟨DOCUMENTED⟩ Deuteronomy 23:17 prohibits *qadesh*. The root *qdsh* means \"consecrated one.\" 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation \"male cult prostitute\" is contested in critical scholarship: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (*Homoeroticism in the Biblical World*, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the \"cult prostitute\" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
     "topics": [
       "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
       "15.8 What the System Permits on the Male Side"
@@ -26239,13 +26255,292 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "attribution_confidence": "PROVEN",
     "attribution_evidence": {
       "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fe423ec1bc7928268dce",
+    "text": "Eunuchs — a third category the system accepts.",
+    "raw_text": "**Eunuchs — a third category the system accepts.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:838",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_32afe2891d572ed3780c",
+    "text": "Isaiah 56:3-5 explicitly includes eunuchs in the covenant: \"I will give them a monument and a name better than sons and daughters.\" Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. Eunuchs occupied a recognized third-gender category in the ancient world. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.",
+    "raw_text": "⟨DOCUMENTED⟩ Isaiah 56:3-5 explicitly includes eunuchs in the covenant: \"I will give them a monument and a name better than sons and daughters.\" Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. Eunuchs occupied a recognized third-gender category in the ancient world. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:839",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2faa533c0ebff45bfc42",
+    "text": "NT complications.",
+    "raw_text": "**NT complications.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:840",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_702009a97114c0b646c1",
+    "text": "Matthew 5:27-28 — \"everyone who looks at a woman [Greek: gynaika] with lustful intent has already committed adultery with her in his heart.\" The internalization move is real, but the Greek word is gynaika (woman, not specifically \"another man's wife\") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.",
+    "raw_text": "⟨DOCUMENTED⟩ Matthew 5:27-28 — \"everyone who looks at a woman [Greek: *gynaika*] with lustful intent has already committed adultery with her in his heart.\" The internalization move is real, but the Greek word is *gynaika* (woman, not specifically \"another man's wife\") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:841",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3f4a9efaa68dc48bf8ef",
+    "text": "1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: \"it is better to marry than to burn\" (7:9). This is a departure from the OT reproductive mandate. But Paul's reasoning is explicitly eschatological — \"the time is short\" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.",
+    "raw_text": "⟨DOCUMENTED⟩ 1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: \"it is better to marry than to burn\" (7:9). This is a departure from the OT reproductive mandate. But Paul's reasoning is explicitly eschatological — \"the time is short\" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:842",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_40c5d7303c013b2e7900",
+    "text": "Synthesis.",
+    "raw_text": "**Synthesis.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:843",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c59ea7f5c59de0dc32cb",
+    "text": "The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic — mixing what must stay separate — applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. \"Sexual morality as a universal principle applied equally to male and female\" is not what this system is.",
+    "raw_text": "⟨INFERENCE⟩ The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic — mixing what must stay separate — applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. \"Sexual morality as a universal principle applied equally to male and female\" is not what this system is.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:844",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1cd75ccabd992f8e7766",
+    "text": "The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (One Hundred Years of Homosexuality, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. \"Being gay\" as a category the text addresses is a modern retrofitting.",
+    "raw_text": "The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (*One Hundred Years of Homosexuality*, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. \"Being gay\" as a category the text addresses is a modern retrofitting.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:845",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f47110da0182cfcbe80c",
+    "text": "The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.",
+    "raw_text": "⟨YOURS⟩ The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:846",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
       "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_801c1dfd1d561cb5758f",
+    "id": "rk_064122c63c42cb0eff66",
     "text": "The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.",
     "raw_text": "The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.",
     "provenance_type": "PRE_CONVENTION",
@@ -26261,7 +26556,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE",
-    "source_reference": "paragraph:838",
+    "source_reference": "paragraph:847",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26275,7 +26570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_633941c631a05f9bb95b",
+    "id": "rk_a4b4bf5b1ec1100c6582",
     "text": "Adam and Eve taken literally: If all humans descend from two people, the entire first generation are siblings marrying siblings. The text does not address this. It cannot — because on its own terms, there is no one else. Cain goes to the land of Nod and finds a wife (Genesis 4:17). At that point in the narrative the only humans are Adam, Eve, Cain, and Abel (Abel is dead). Who is she? The text does not say. Traditional answer: Adam and Eve had many unnamed children. That still makes Cain's wife his sister.",
     "raw_text": "**Adam and Eve taken literally: **If all humans descend from two people, the entire first generation are siblings marrying siblings. The text does not address this. It cannot — because on its own terms, there is no one else. Cain goes to the land of Nod and finds a wife (Genesis 4:17). At that point in the narrative the only humans are Adam, Eve, Cain, and Abel (Abel is dead). Who is she? The text does not say. Traditional answer: Adam and Eve had many unnamed children. That still makes Cain's wife his sister.",
     "provenance_type": "PRE_CONVENTION",
@@ -26292,7 +26587,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.1 The Genesis Foundation Problem",
-    "source_reference": "paragraph:839",
+    "source_reference": "paragraph:848",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26306,7 +26601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f7c67c8a72bac6d623cc",
+    "id": "rk_9e77730b9c27325dae68",
     "text": "The Leviticus problem: Leviticus 18 explicitly prohibits sex with sisters, half-sisters, aunts, daughters-in-law. Leviticus 20:17 adds penalties. These prohibitions come after the patriarchal narratives in which the patriarchs do exactly what is later prohibited. Either: (a) God's law changed — which undermines timeless divine command, or (b) different communities wrote these texts at different times with no awareness of the contradiction — which supports the documentary hypothesis.",
     "raw_text": "**The Leviticus problem: **Leviticus 18 explicitly prohibits sex with sisters, half-sisters, aunts, daughters-in-law. Leviticus 20:17 adds penalties. These prohibitions come after the patriarchal narratives in which the patriarchs do exactly what is later prohibited. Either: (a) God's law changed — which undermines timeless divine command, or (b) different communities wrote these texts at different times with no awareness of the contradiction — which supports the documentary hypothesis.",
     "provenance_type": "PRE_CONVENTION",
@@ -26323,7 +26618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.1 The Genesis Foundation Problem",
-    "source_reference": "paragraph:840",
+    "source_reference": "paragraph:849",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26337,7 +26632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f5f7abd250f47bbb5695",
+    "id": "rk_357bebde8ef8a278f625",
     "text": "•  Abraham and Sarah — Genesis 20:12: Sarah is Abraham's half-sister. Same father, different mother. God makes his foundational covenant with a man in a half-sibling marriage.",
     "raw_text": "•  Abraham and Sarah — Genesis 20:12: Sarah is Abraham's half-sister. Same father, different mother. God makes his foundational covenant with a man in a half-sibling marriage.",
     "provenance_type": "PRE_CONVENTION",
@@ -26354,7 +26649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:841",
+    "source_reference": "paragraph:850",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26368,7 +26663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1f7b5665068ba458089e",
+    "id": "rk_fcc3a6648e047cb5f507",
     "text": "•  Amram and Jochebed — Exodus 6:20: Moses's father married his father's sister — his own aunt. Moses, the lawgiver who delivers the prohibitions in Leviticus, is the product of an aunt-nephew marriage.",
     "raw_text": "•  Amram and Jochebed — Exodus 6:20: Moses's father married his father's sister — his own aunt. Moses, the lawgiver who delivers the prohibitions in Leviticus, is the product of an aunt-nephew marriage.",
     "provenance_type": "PRE_CONVENTION",
@@ -26385,7 +26680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:842",
+    "source_reference": "paragraph:851",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26399,7 +26694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e255f246bf177d97ba8f",
+    "id": "rk_ce93340c4e2cc8a0bde5",
     "text": "•  Isaac and Rebekah — cousins. Jacob, Leah, and Rachel — cousins. Cousin marriage is the norm across the patriarchal narratives.",
     "raw_text": "•  Isaac and Rebekah — cousins. Jacob, Leah, and Rachel — cousins. Cousin marriage is the norm across the patriarchal narratives.",
     "provenance_type": "PRE_CONVENTION",
@@ -26416,7 +26711,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:843",
+    "source_reference": "paragraph:852",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26430,7 +26725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a43a34f2cf209b6f84e4",
+    "id": "rk_727aa608c1e8a3d0a1c3",
     "text": "•  Lot and his daughters — Genesis 19:30-38: after Sodom, the daughters get Lot drunk and sleep with him to preserve the lineage. The text records no divine condemnation of Lot. The daughters are presented as acting for survival. The nations produced — Moab and Ammon — become real peoples. The text treats this as origin narrative, not moral failure.",
     "raw_text": "•  Lot and his daughters — Genesis 19:30-38: after Sodom, the daughters get Lot drunk and sleep with him to preserve the lineage. The text records no divine condemnation of Lot. The daughters are presented as acting for survival. The nations produced — Moab and Ammon — become real peoples. The text treats this as origin narrative, not moral failure.",
     "provenance_type": "PRE_CONVENTION",
@@ -26447,7 +26742,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:844",
+    "source_reference": "paragraph:853",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26461,7 +26756,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_89e46133fbd5fde1e200",
+    "id": "rk_feb4df95c7ca50468a70",
     "text": "•  Tamar and Judah — Genesis 38: Judah sleeps with his daughter-in-law Tamar, who has disguised herself as a prostitute. When he discovers the truth, he says: \"She is more righteous than I.\" God kills his sons in this chapter. He does not address the act with Tamar.",
     "raw_text": "•  Tamar and Judah — Genesis 38: Judah sleeps with his daughter-in-law Tamar, who has disguised herself as a prostitute. When he discovers the truth, he says: \"She is more righteous than I.\" God kills his sons in this chapter. He does not address the act with Tamar.",
     "provenance_type": "PRE_CONVENTION",
@@ -26478,285 +26773,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:845",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1516fbbfbc224f875e7b",
-    "text": "Not cherry-picking: These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
-    "raw_text": "**Not cherry-picking: **These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:846",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3bcd008a52ddcde372ba",
-    "text": "The three options: (a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
-    "raw_text": "**The three options: **(a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:847",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ed679281a2d234c85ce3",
-    "text": "None of these support inerrancy: All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
-    "raw_text": "**None of these support inerrancy: **All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:848",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f49ab40593d3e12f9f6c",
-    "text": "Why this assessment holds — questions for conversation:",
-    "raw_text": "**Why this assessment holds — questions for conversation:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:849",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_767c6058380aa0678965",
-    "text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
-    "raw_text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:850",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_4a9cc1155ab975d468c5",
-    "text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
-    "raw_text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:851",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ad0ba8f697ff88118c1e",
-    "text": "Sources — critical:",
-    "raw_text": "**Sources — critical:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:852",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_eec8260ec5271c9d285c",
-    "text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
-    "raw_text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:853",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_d06bd19a7be1212a88b6",
-    "text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
-    "raw_text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "16. INCEST IN THE BIBLICAL NARRATIVE",
-      "16.3 The Analytical Point"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
     "source_reference": "paragraph:854",
     "parent_id": null,
     "related_ids": [],
@@ -26771,9 +26787,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_68ee574e46c2b4995ceb",
-    "text": "Sources — defending harmony:",
-    "raw_text": "**Sources — defending harmony:**",
+    "id": "rk_c27226b1a80143a5c064",
+    "text": "Not cherry-picking: These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
+    "raw_text": "**Not cherry-picking: **These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26802,9 +26818,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b817035561654bf14d9b",
-    "text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
-    "raw_text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
+    "id": "rk_ef1194047523208fe9e8",
+    "text": "The three options: (a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
+    "raw_text": "**The three options: **(a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26833,9 +26849,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a4fa189c9e6b85c4c8bc",
-    "text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
-    "raw_text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
+    "id": "rk_b26757cfc14f309cedd0",
+    "text": "None of these support inerrancy: All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
+    "raw_text": "**None of these support inerrancy: **All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -26864,7 +26880,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a6b7a189c900702caf71",
+    "id": "rk_06a1c2b4bd3febb024d8",
+    "text": "Why this assessment holds — questions for conversation:",
+    "raw_text": "**Why this assessment holds — questions for conversation:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:858",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_99577ebd48365284bcab",
+    "text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
+    "raw_text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:859",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_28c6840b95da583cd712",
+    "text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
+    "raw_text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:860",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_36b09144d76563168334",
+    "text": "Sources — critical:",
+    "raw_text": "**Sources — critical:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:861",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1a0ed0ce58840680170a",
+    "text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
+    "raw_text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:862",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2dd567cd56fe22ef78ea",
+    "text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
+    "raw_text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:863",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0d0a8060893a8c221206",
+    "text": "Sources — defending harmony:",
+    "raw_text": "**Sources — defending harmony:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:864",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1cd554735fb619159801",
+    "text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
+    "raw_text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:865",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3d10b26edd44d652c770",
+    "text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
+    "raw_text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "16. INCEST IN THE BIBLICAL NARRATIVE",
+      "16.3 The Analytical Point"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
+    "source_reference": "paragraph:866",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_445827e440350b7b1103",
     "text": "The claim: Jesus's life, death, and resurrection were specifically for believers — for \"his people.\" Everything he did was for the elect, the saved, the in-group.",
     "raw_text": "**The claim: **Jesus's life, death, and resurrection were specifically for believers — for \"his people.\" Everything he did was for the elect, the saved, the in-group.",
     "provenance_type": "PRE_CONVENTION",
@@ -26881,7 +27176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
-    "source_reference": "paragraph:858",
+    "source_reference": "paragraph:867",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26895,7 +27190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_faf5cca1c14d2bf962bd",
+    "id": "rk_a5a39a5138ad223b2124",
     "text": "What it does socially: Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about \"us\" is a projection of in-group loyalty dressed as theology.",
     "raw_text": "**What it does socially: **Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about \"us\" is a projection of in-group loyalty dressed as theology.",
     "provenance_type": "PRE_CONVENTION",
@@ -26912,7 +27207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
-    "source_reference": "paragraph:859",
+    "source_reference": "paragraph:868",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26926,7 +27221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_83b5fad4b6ec9840560d",
+    "id": "rk_ca7e352ad02c720e49c0",
     "text": "•  Matthew 10:5-6 — Jesus explicitly restricts the disciples' mission: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" The historical Jesus's stated program is Israel-specific, not universal.",
     "raw_text": "•  Matthew 10:5-6 — Jesus explicitly restricts the disciples' mission: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" The historical Jesus's stated program is Israel-specific, not universal.",
     "provenance_type": "PRE_CONVENTION",
@@ -26943,7 +27238,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:860",
+    "source_reference": "paragraph:869",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26957,7 +27252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2dc48b2abed3eb5ef33c",
+    "id": "rk_ddfaac3e7a10eb529ce3",
     "text": "•  Mark 7:24-30 — A Gentile woman asks Jesus to heal her daughter. Jesus responds: \"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.\" He calls her a dog — standard Jewish pejorative for Gentiles. She persists. He heals her. But the initial response is ethnic exclusion. This is the most uncomfortable passage in the Synoptics for universal atonement claims.",
     "raw_text": "•  Mark 7:24-30 — A Gentile woman asks Jesus to heal her daughter. Jesus responds: \"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.\" He calls her a dog — standard Jewish pejorative for Gentiles. She persists. He heals her. But the initial response is ethnic exclusion. This is the most uncomfortable passage in the Synoptics for universal atonement claims.",
     "provenance_type": "PRE_CONVENTION",
@@ -26974,7 +27269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:861",
+    "source_reference": "paragraph:870",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -26988,7 +27283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1583637f5691f0155dbb",
+    "id": "rk_3d0265084d3808154e17",
     "text": "•  John 10:14-16 — \"I have other sheep that are not of this fold. I must bring them also.\" Typically interpreted as Gentile believers joining Jewish believers — not universal salvation regardless of belief.",
     "raw_text": "•  John 10:14-16 — \"I have other sheep that are not of this fold. I must bring them also.\" Typically interpreted as Gentile believers joining Jewish believers — not universal salvation regardless of belief.",
     "provenance_type": "PRE_CONVENTION",
@@ -27005,7 +27300,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:862",
+    "source_reference": "paragraph:871",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27019,7 +27314,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fa9fc4bfc4ad47f60cc7",
+    "id": "rk_876aab1e8da5cb07f282",
     "text": "•  Matthew 25:31-46 — the sheep and goats judgment: people are judged on whether they fed the hungry, clothed the naked, visited the sick and imprisoned. No mention of belief, prayer, or church attendance. The criterion for salvation here is material care for the vulnerable — not faith in Jesus.",
     "raw_text": "•  Matthew 25:31-46 — the sheep and goats judgment: people are judged on whether they fed the hungry, clothed the naked, visited the sick and imprisoned. No mention of belief, prayer, or church attendance. The criterion for salvation here is material care for the vulnerable — not faith in Jesus.",
     "provenance_type": "PRE_CONVENTION",
@@ -27036,7 +27331,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:863",
+    "source_reference": "paragraph:872",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27050,7 +27345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_26a0006ada4559200dfd",
+    "id": "rk_fc3ceed538e1bd611ab3",
     "text": "Limited atonement (Calvinist): Jesus died specifically for the elect — those God chose before creation. Not for everyone. The \"for us\" is the elect only, predetermined before birth. Romans 9:13 — \"Jacob I loved, Esau I hated, before either had done anything good or bad.\"",
     "raw_text": "**Limited atonement (Calvinist): **Jesus died specifically for the elect — those God chose before creation. Not for everyone. The \"for us\" is the elect only, predetermined before birth. Romans 9:13 — \"Jacob I loved, Esau I hated, before either had done anything good or bad.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -27067,7 +27362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
-    "source_reference": "paragraph:864",
+    "source_reference": "paragraph:873",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27081,7 +27376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_76208b47fbbcdd8bea0d",
+    "id": "rk_cc3028c2a5d172166242",
     "text": "Universal atonement (Arminian): Jesus died for everyone but salvation is conditional on faith. The \"for us\" is potentially everyone who responds.",
     "raw_text": "**Universal atonement (Arminian): **Jesus died for everyone but salvation is conditional on faith. The \"for us\" is potentially everyone who responds.",
     "provenance_type": "PRE_CONVENTION",
@@ -27098,7 +27393,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
-    "source_reference": "paragraph:865",
+    "source_reference": "paragraph:874",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27112,7 +27407,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5c1c56bba7cf5ce55101",
+    "id": "rk_2f1e7a32e3e7dc663814",
     "text": "Why this matters: These are contradictory positions and both use the same Bible, the same Jesus, the same Paul. The claim that Jesus \"did it for you\" means completely different things depending on which camp is speaking. They cannot both be right. The text does not resolve it — which is why the debate has continued for 500 years since Calvin and Arminius.",
     "raw_text": "**Why this matters: **These are contradictory positions and both use the same Bible, the same Jesus, the same Paul. The claim that Jesus \"did it for you\" means completely different things depending on which camp is speaking. They cannot both be right. The text does not resolve it — which is why the debate has continued for 500 years since Calvin and Arminius.",
     "provenance_type": "PRE_CONVENTION",
@@ -27129,7 +27424,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
-    "source_reference": "paragraph:866",
+    "source_reference": "paragraph:875",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27143,7 +27438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0e96e039fe35c598c8b3",
+    "id": "rk_f38ceda71c40fa69c16e",
     "text": "Historical Jesus vs. Pauline Christianity: The universalization of Jesus's mission — from Israel to all nations — is a post-resurrection development. It is Paul's theological project, not Jesus's stated program during his ministry. Acts 10 (Peter's vision) and the Jerusalem Council (Acts 15) document the argument about whether Gentiles are included. It was contested, not obvious.",
     "raw_text": "**Historical Jesus vs. Pauline Christianity: **The universalization of Jesus's mission — from Israel to all nations — is a post-resurrection development. It is Paul's theological project, not Jesus's stated program during his ministry. Acts 10 (Peter's vision) and the Jerusalem Council (Acts 15) document the argument about whether Gentiles are included. It was contested, not obvious.",
     "provenance_type": "PRE_CONVENTION",
@@ -27160,7 +27455,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
-    "source_reference": "paragraph:867",
+    "source_reference": "paragraph:876",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27174,7 +27469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_226eec4aa9d0ddc16105",
+    "id": "rk_636ef09c9ecfce4f1e73",
     "text": "The Matthew 28 Great Commission: \"Go and make disciples of all nations\" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.",
     "raw_text": "**The Matthew 28 Great Commission: **\"Go and make disciples of all nations\" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.",
     "provenance_type": "PRE_CONVENTION",
@@ -27191,7 +27486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
-    "source_reference": "paragraph:868",
+    "source_reference": "paragraph:877",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27205,7 +27500,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_17dad0d9ed868de8f316",
+    "id": "rk_eebe14c2914de283376e",
     "text": "The implication: If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then \"Jesus did it for everyone\" is a Pauline conclusion, not a statement Jesus made about himself during his life.",
     "raw_text": "**The implication: **If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then \"Jesus did it for everyone\" is a Pauline conclusion, not a statement Jesus made about himself during his life.",
     "provenance_type": "PRE_CONVENTION",
@@ -27222,285 +27517,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
-    "source_reference": "paragraph:869",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_10fcdb530d17acdc96ef",
-    "text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
-    "raw_text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "QUESTION",
-    "status": "OPEN",
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:870",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5ec8ff5d352ce143f577",
-    "text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
-    "raw_text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:871",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5d9afc870105a17497bc",
-    "text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
-    "raw_text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:872",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e8381313e33ccf6cde07",
-    "text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
-    "raw_text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:873",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_76754ffca46b0fef62fc",
-    "text": "The question:",
-    "raw_text": "**The question:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:874",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_49bc5d6af6f90e0cae6a",
-    "text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
-    "raw_text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:875",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_fb8325b4729dec0b58f0",
-    "text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
-    "raw_text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:876",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_15bffd2e55be6f048ad4",
-    "text": "Sources — critical:",
-    "raw_text": "**Sources — critical:**",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:877",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_93229af5510b92e7ab80",
-    "text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
-    "raw_text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
-      "17.5 The Suffering of Non-Believers"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
     "source_reference": "paragraph:878",
     "parent_id": null,
     "related_ids": [],
@@ -27515,9 +27531,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ea33183f34a3d3fc6daa",
-    "text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
-    "raw_text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
+    "id": "rk_3744c8a268f735498cd1",
+    "text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
+    "raw_text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -27526,8 +27542,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "17.5 The Suffering of Non-Believers"
     ],
     "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
+    "record_type": "QUESTION",
+    "status": "OPEN",
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
@@ -27546,9 +27562,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aa69bf507001be659c8a",
-    "text": "Sources — defending exclusivism:",
-    "raw_text": "**Sources — defending exclusivism:**",
+    "id": "rk_747f5feb7fcc2a526560",
+    "text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
+    "raw_text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -27577,9 +27593,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e73f67ca909c28df307b",
-    "text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
-    "raw_text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
+    "id": "rk_0c0325951e90deb1310c",
+    "text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
+    "raw_text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -27608,9 +27624,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2d311aedd652b38b484e",
-    "text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
-    "raw_text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
+    "id": "rk_451576fbe3de826843b5",
+    "text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
+    "raw_text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -27639,7 +27655,286 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d403166fea50c14b7104",
+    "id": "rk_393959f46d03c6ed99d2",
+    "text": "The question:",
+    "raw_text": "**The question:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:883",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a11ec832f3b9533d36dd",
+    "text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
+    "raw_text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:884",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_916cdab68739d39f5f73",
+    "text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
+    "raw_text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:885",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_777fde1c50db236ed250",
+    "text": "Sources — critical:",
+    "raw_text": "**Sources — critical:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:886",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_db65246f4c9ef8286a54",
+    "text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
+    "raw_text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:887",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_429a3b88741f9ba28b82",
+    "text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
+    "raw_text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:888",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2c31d7a0dea4760439ca",
+    "text": "Sources — defending exclusivism:",
+    "raw_text": "**Sources — defending exclusivism:**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:889",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bad306a5ca9d0b70af5c",
+    "text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
+    "raw_text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:890",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bf86408f1ea10543a6b0",
+    "text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
+    "raw_text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY",
+      "17.5 The Suffering of Non-Believers"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
+    "source_reference": "paragraph:891",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_02474cec9f9271489569",
     "text": "That verse is from a letter to exiles in Babylon being told to settle in for 70 years of captivity. The 'plans' are for eventual national restoration, not personal goals. Verses 16-19 right before it describe God sending sword, famine, and plague to those still in Jerusalem. Using it as a graduation card slogan strips all context.",
     "raw_text": "That verse is from a letter to exiles in Babylon being told to settle in for 70 years of captivity. The 'plans' are for eventual national restoration, not personal goals. Verses 16-19 right before it describe God sending sword, famine, and plague to those still in Jerusalem. Using it as a graduation card slogan strips all context.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27656,7 +27951,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
-    "source_reference": "paragraph:883",
+    "source_reference": "paragraph:892",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27670,7 +27965,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e38a7a11fcff8237eedd",
+    "id": "rk_d111748163d607f83c3b",
     "text": "Jeremiah 31:31 says the new covenant is with 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Jewish tradition reads this as future restoration of Israel. Christians retrofitted this centuries later; nothing in Jeremiah's context suggests it refers to Jesus.",
     "raw_text": "Jeremiah 31:31 says the new covenant is with 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Jewish tradition reads this as future restoration of Israel. Christians retrofitted this centuries later; nothing in Jeremiah's context suggests it refers to Jesus.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27687,7 +27982,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
-    "source_reference": "paragraph:884",
+    "source_reference": "paragraph:893",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27701,7 +27996,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9fc1ffce57d3e84415c1",
+    "id": "rk_16a023eb43e238ee07ff",
     "text": "God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings, won't listen to worship music. What God wants: justice rolling down like waters. Micah 6:8 says God requires justice, kindness, and humility — not ritual. These passages directly contradict the elaborate worship requirements in Exodus/Leviticus.",
     "raw_text": "God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings, won't listen to worship music. What God wants: justice rolling down like waters. Micah 6:8 says God requires justice, kindness, and humility — not ritual. These passages directly contradict the elaborate worship requirements in Exodus/Leviticus.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27718,7 +28013,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
-    "source_reference": "paragraph:885",
+    "source_reference": "paragraph:894",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27732,7 +28027,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a0c2a7ca571043afb741",
+    "id": "rk_45ee1e16b36612b92743",
     "text": "God explicitly cares about Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. The book critiques Jonah's nationalism as petty. If God shows mercy to Israel's destroyers, the 'chosen people' ideology is more complicated than simple election theology claims.",
     "raw_text": "God explicitly cares about Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. The book critiques Jonah's nationalism as petty. If God shows mercy to Israel's destroyers, the 'chosen people' ideology is more complicated than simple election theology claims.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27749,7 +28044,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.4 On Jonah vs. nationalist theology",
-    "source_reference": "paragraph:886",
+    "source_reference": "paragraph:895",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27763,7 +28058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9178e7c159061da1c74f",
+    "id": "rk_4028cd7139c0d6d7e575",
     "text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.",
     "raw_text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27780,7 +28075,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
-    "source_reference": "paragraph:887",
+    "source_reference": "paragraph:896",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27794,7 +28089,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08835d0bcfec5b59ea42",
+    "id": "rk_e03398975de501f955c2",
     "text": "Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.",
     "raw_text": "Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27811,7 +28106,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.6 On the absence of Jesus's own writings",
-    "source_reference": "paragraph:888",
+    "source_reference": "paragraph:897",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27825,7 +28120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_61566339c3fa721688a8",
+    "id": "rk_babfb9e5d12ed2fabe4b",
     "text": "What has actually been read cover to cover. Relevant in live conversation: do not argue from a book not yet read.",
     "raw_text": "*What has actually been read cover to cover. Relevant in live conversation: do not argue from a book not yet read.*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27841,7 +28136,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:889",
+    "source_reference": "paragraph:898",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27855,7 +28150,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fad4d4a980ffc914056c",
+    "id": "rk_4c58824153ff0936e3e0",
     "text": "Old Testament — Completed",
     "raw_text": "**Old Testament — Completed**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27871,7 +28166,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:890",
+    "source_reference": "paragraph:899",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27885,7 +28180,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_49068634301bf8090c16",
+    "id": "rk_a687c97aac2b7a6ad535",
     "text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "raw_text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27901,7 +28196,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:891",
+    "source_reference": "paragraph:900",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27915,7 +28210,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7742d8a264fb386bcfdc",
+    "id": "rk_a6879309b6a6510a3bf9",
     "text": "New Testament — In Progress",
     "raw_text": "**New Testament — In Progress**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27931,7 +28226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:892",
+    "source_reference": "paragraph:901",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27945,7 +28240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bd50db1f84e87468961a",
+    "id": "rk_622c1a398e8e9fab584d",
     "text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "raw_text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27961,7 +28256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:893",
+    "source_reference": "paragraph:902",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -27975,7 +28270,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_be111e836100e5e49c4f",
+    "id": "rk_37d6a7f775580a4fb8b6",
     "text": "Living document — update as reading progresses",
     "raw_text": "*Living document — update as reading progresses*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -27991,7 +28286,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:894",
+    "source_reference": "paragraph:903",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28005,7 +28300,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1cb0ad4c3e1ee64978d4",
+    "id": "rk_b109f441cc868ee183e3",
     "text": "Evangelical Christianity presents prayer as a two-way conversation: God speaks personally, specifically, and recognizably to individual believers. This is not a metaphor. The claim is that the God of the universe identifies you by name, responds to your specific situation, and communicates in a manner you can distinguish from your own thoughts. The psychological and neurological literature on inner speech and voice-hearing documents what that experience actually is.",
     "raw_text": "Evangelical Christianity presents prayer as a two-way conversation: God speaks personally, specifically, and recognizably to individual believers. This is not a metaphor. The claim is that the God of the universe identifies you by name, responds to your specific situation, and communicates in a manner you can distinguish from your own thoughts. The psychological and neurological literature on inner speech and voice-hearing documents what that experience actually is.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28021,7 +28316,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE",
-    "source_reference": "paragraph:895",
+    "source_reference": "paragraph:904",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28035,7 +28330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5af5c839e94e52d21824",
+    "id": "rk_8dec8659e265093f6344",
     "text": "T.M. Luhrmann (Stanford, anthropologist) conducted years of embedded fieldwork with evangelical charismatic Christians specifically studying how they learn to hear God speak. Core finding: hearing God is a trained skill, not a spontaneous supernatural event. The practice of prayer teaches people to reattribute their own inner speech — thoughts, mental images, internal narratives — as external divine communication. The inner voice doesn't change. The interpretive framework applied to it changes. (When God Talks Back, Knopf, 2012.)",
     "raw_text": "⟨DOCUMENTED⟩ T.M. Luhrmann (Stanford, anthropologist) conducted years of embedded fieldwork with evangelical charismatic Christians specifically studying how they learn to hear God speak. Core finding: hearing God is a trained skill, not a spontaneous supernatural event. The practice of prayer teaches people to reattribute their own inner speech — thoughts, mental images, internal narratives — as external divine communication. The inner voice doesn't change. The interpretive framework applied to it changes. (*When God Talks Back*, Knopf, 2012.)",
     "provenance_type": "SOURCE",
@@ -28052,7 +28347,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.1 Hearing God Is a Trained Skill",
-    "source_reference": "paragraph:896",
+    "source_reference": "paragraph:905",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28066,7 +28361,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_432640844a543b7c1857",
+    "id": "rk_02cde959e1260a50bbdd",
     "text": "Luhrmann, Nusbaum, and Thisted tested the absorption hypothesis — that people who pray regularly develop higher absorption (the tendency to become immersed in internal mental experience), and that absorption predicts the likelihood of hearing God speak. Finding confirmed. Absorption is a trainable cognitive trait. (\"The Absorption Hypothesis: Learning to Hear God in Evangelical Christianity,\" American Anthropologist 112(1): 66–78, 2010.)",
     "raw_text": "⟨DOCUMENTED⟩ Luhrmann, Nusbaum, and Thisted tested the absorption hypothesis — that people who pray regularly develop higher absorption (the tendency to become immersed in internal mental experience), and that absorption predicts the likelihood of hearing God speak. Finding confirmed. Absorption is a trainable cognitive trait. (\"The Absorption Hypothesis: Learning to Hear God in Evangelical Christianity,\" *American Anthropologist* 112(1): 66–78, 2010.)",
     "provenance_type": "SOURCE",
@@ -28083,7 +28378,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.1 Hearing God Is a Trained Skill",
-    "source_reference": "paragraph:897",
+    "source_reference": "paragraph:906",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28097,7 +28392,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9fc446fa133affc3e23c",
+    "id": "rk_8dcb92bc2deac610e517",
     "text": "Charles Fernyhough (Durham, psychology) documents that inner speech is not monolithic. It operates on a spectrum from fully expanded — a complete voice with distinct tone, personality, emotional register — to compressed (wordless intuition). At the fully expanded end, inner speech can take on qualities distinct from the person's self-perception: a different emotional register, a different moral orientation, an apparently autonomous perspective. This is normal cognitive variation, not pathology. (The Voices Within, Basic Books, 2016.)",
     "raw_text": "⟨DOCUMENTED⟩ Charles Fernyhough (Durham, psychology) documents that inner speech is not monolithic. It operates on a spectrum from fully expanded — a complete voice with distinct tone, personality, emotional register — to compressed (wordless intuition). At the fully expanded end, inner speech can take on qualities distinct from the person's self-perception: a different emotional register, a different moral orientation, an apparently autonomous perspective. This is normal cognitive variation, not pathology. (*The Voices Within*, Basic Books, 2016.)",
     "provenance_type": "SOURCE",
@@ -28114,7 +28409,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.2 What Inner Speech Actually Is",
-    "source_reference": "paragraph:898",
+    "source_reference": "paragraph:907",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28128,7 +28423,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a15262a7ff9d82a87c05",
+    "id": "rk_d63d8cf8fbb8c0a061d9",
     "text": "Inner speech is generated by the same neural machinery as external speech perception: Broca's area, Wernicke's area. The brain uses predictive processing to suppress the sensation of hearing your own thoughts as external. When that suppression is incomplete or trained away by contemplative practice, inner speech can phenomenologically feel as if it originates outside the self.",
     "raw_text": "⟨DOCUMENTED⟩ Inner speech is generated by the same neural machinery as external speech perception: Broca's area, Wernicke's area. The brain uses predictive processing to suppress the sensation of hearing your own thoughts as external. When that suppression is incomplete or trained away by contemplative practice, inner speech can phenomenologically feel as if it originates outside the self.",
     "provenance_type": "SOURCE",
@@ -28145,7 +28440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.2 What Inner Speech Actually Is",
-    "source_reference": "paragraph:899",
+    "source_reference": "paragraph:908",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28159,7 +28454,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6ccbcb76593461c1f441",
+    "id": "rk_2deb328f4718a4062d56",
     "text": "Alderson-Day and Fernyhough's review of inner speech research documents that inner speech routinely involves dialogic structure: people internally argue with themselves, hear responses, experience distinct \"voices\" in conversation. The structural format of inner speech already resembles conversation with another entity. The additional step — attributing that entity as God — is smaller than it appears from the outside. (\"Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology,\" Psychological Bulletin 141(5): 931–965, 2015.)",
     "raw_text": "⟨DOCUMENTED⟩ Alderson-Day and Fernyhough's review of inner speech research documents that inner speech routinely involves dialogic structure: people internally argue with themselves, hear responses, experience distinct \"voices\" in conversation. The structural format of inner speech already resembles conversation with another entity. The additional step — attributing that entity as God — is smaller than it appears from the outside. (\"Inner Speech: Development, Cognitive Functions, Phenomenology, and Neurobiology,\" *Psychological Bulletin* 141(5): 931–965, 2015.)",
     "provenance_type": "SOURCE",
@@ -28176,7 +28471,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.2 What Inner Speech Actually Is",
-    "source_reference": "paragraph:900",
+    "source_reference": "paragraph:909",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28190,7 +28485,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ad1e736758ea6fb2319c",
+    "id": "rk_34c25e2cf9ee054efb7e",
     "text": "Marius Romme and Sandra Escher established through a research program beginning in 1989 that voice-hearing exists on a continuum across the general population — not confined to psychosis. A substantial minority of the general population hears voices at some point without meeting criteria for any psychiatric disorder. (\"Hearing Voices,\" Schizophrenia Bulletin 15(2): 209–216, 1989; Accepting Voices, Mind Publications, London, 1993.)",
     "raw_text": "⟨DOCUMENTED⟩ Marius Romme and Sandra Escher established through a research program beginning in 1989 that voice-hearing exists on a continuum across the general population — not confined to psychosis. A substantial minority of the general population hears voices at some point without meeting criteria for any psychiatric disorder. (\"Hearing Voices,\" *Schizophrenia Bulletin* 15(2): 209–216, 1989; *Accepting Voices*, Mind Publications, London, 1993.)",
     "provenance_type": "SOURCE",
@@ -28207,7 +28502,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.3 Voice-Hearing Is Not Rare and Its Content Is Culturally Installed",
-    "source_reference": "paragraph:901",
+    "source_reference": "paragraph:910",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28221,7 +28516,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a880466c115705ae124f",
+    "id": "rk_d795954298bf3143808b",
     "text": "Luhrmann, Padmavati, Tharoor, and Osei conducted a cross-cultural study comparing voice-hearers in San Mateo (California), Accra (Ghana), and Chennai (India). Finding: same neurological phenomenon, culturally determined content. American voice-hearers reported more violent, disturbing, intrusive content. Ghanaian and Indian voice-hearers reported more positive, relational, often explicitly divine-coded content. The mechanism is the same. What gets attributed to it is culturally installed. (\"Differences in Voice-Hearing Experiences of People with Psychosis in the USA, India and Ghana,\" The British Journal of Psychiatry 206(1): 41–44, 2015.)",
     "raw_text": "⟨DOCUMENTED⟩ Luhrmann, Padmavati, Tharoor, and Osei conducted a cross-cultural study comparing voice-hearers in San Mateo (California), Accra (Ghana), and Chennai (India). Finding: same neurological phenomenon, culturally determined content. American voice-hearers reported more violent, disturbing, intrusive content. Ghanaian and Indian voice-hearers reported more positive, relational, often explicitly divine-coded content. The mechanism is the same. What gets attributed to it is culturally installed. (\"Differences in Voice-Hearing Experiences of People with Psychosis in the USA, India and Ghana,\" *The British Journal of Psychiatry* 206(1): 41–44, 2015.)",
     "provenance_type": "SOURCE",
@@ -28238,7 +28533,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.3 Voice-Hearing Is Not Rare and Its Content Is Culturally Installed",
-    "source_reference": "paragraph:902",
+    "source_reference": "paragraph:911",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28252,7 +28547,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5aab80bc05a9a5679382",
+    "id": "rk_6a1c6b8f1a1ca50db091",
     "text": "Julian Jaynes argued that prior to roughly 1000 BCE, humans did not have the modern unified inner monologue. Instead, the right hemisphere generated speech that the left hemisphere experienced as an external voice — heard as gods, ancestors, divine commands. Ancient people were not metaphorically hearing gods; they were neurologically hearing voices and correctly reporting the experience. The shift to modern interiority accompanied the administrative complexity of expanding civilizations, which made bicameral command-and-response unworkable. (The Origin of Consciousness in the Breakdown of the Bicameral Mind, Houghton Mifflin, 1976.)",
     "raw_text": "⟨DOCUMENTED⟩ Julian Jaynes argued that prior to roughly 1000 BCE, humans did not have the modern unified inner monologue. Instead, the right hemisphere generated speech that the left hemisphere experienced as an external voice — heard as gods, ancestors, divine commands. Ancient people were not metaphorically hearing gods; they were neurologically hearing voices and correctly reporting the experience. The shift to modern interiority accompanied the administrative complexity of expanding civilizations, which made bicameral command-and-response unworkable. (*The Origin of Consciousness in the Breakdown of the Bicameral Mind*, Houghton Mifflin, 1976.)",
     "provenance_type": "SOURCE",
@@ -28269,7 +28564,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.4 The Historical Frame — Jaynes",
-    "source_reference": "paragraph:903",
+    "source_reference": "paragraph:912",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28283,7 +28578,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f23bc1f52e4808898c2b",
+    "id": "rk_26313ad0b2b02d8e19e8",
     "text": "Jaynes's specific bicameral mechanism is not accepted in mainstream neuroscience. What the framework contributes — and what holds independent of the contested mechanism — is a reframing of the historical question: not \"did ancient people really hear God\" but \"what were they actually hearing, and why did they interpret it that way.\" The ancient divine-voice experience is treated as a real neurological phenomenon rather than fraud or metaphor. That premise is more defensible than the specific mechanism.",
     "raw_text": "⟨INFERENCE⟩ Jaynes's specific bicameral mechanism is not accepted in mainstream neuroscience. What the framework contributes — and what holds independent of the contested mechanism — is a reframing of the historical question: not \"did ancient people really hear God\" but \"what were they actually hearing, and why did they interpret it that way.\" The ancient divine-voice experience is treated as a real neurological phenomenon rather than fraud or metaphor. That premise is more defensible than the specific mechanism.",
     "provenance_type": "CLAUDE",
@@ -28300,7 +28595,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.4 The Historical Frame — Jaynes",
-    "source_reference": "paragraph:904",
+    "source_reference": "paragraph:913",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28314,7 +28609,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9c5c1a14731d0a897485",
+    "id": "rk_bd8aca3bc61235dd65a0",
     "text": "Epley, Converse, Delbosc, Monteleone, and Cacioppo established, across correlational, experimental, and neuroimaging evidence, that people unconsciously attribute their own beliefs to God. When people's own beliefs are experimentally shifted, their estimates of God's beliefs shift to match — while their estimates of other people's beliefs do not. The God people believe in tracks the person doing the believing. (\"Believers' Estimates of God's Beliefs Are More Egocentric Than Estimates of Other People's Beliefs,\" PNAS 106(51): 21533–21538, 2009.)",
     "raw_text": "⟨DOCUMENTED⟩ Epley, Converse, Delbosc, Monteleone, and Cacioppo established, across correlational, experimental, and neuroimaging evidence, that people unconsciously attribute their own beliefs to God. When people's own beliefs are experimentally shifted, their estimates of God's beliefs shift to match — while their estimates of other people's beliefs do not. The God people believe in tracks the person doing the believing. (\"Believers' Estimates of God's Beliefs Are More Egocentric Than Estimates of Other People's Beliefs,\" *PNAS* 106(51): 21533–21538, 2009.)",
     "provenance_type": "SOURCE",
@@ -28331,7 +28626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.5 The Belief-Projection Evidence Already in Corpus",
-    "source_reference": "paragraph:905",
+    "source_reference": "paragraph:914",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28345,7 +28640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f52139070172be2f6511",
+    "id": "rk_bf5479793d482c247745",
     "text": "The study that would close the argument at the voice level has not been done at the required precision: a direct comparison of a person's inner monologue characteristics — tone, vocabulary, moral framework, habitual concerns — with their described characteristics of the God or Jesus they hear. Luhrmann documents the reattribution process but stops short of the systematic comparison: does your God sound like you? Does your Jesus tell you things you already believe? Does the voice ever tell you something you genuinely didn't think or know?",
     "raw_text": "⟨INFERENCE⟩ The study that would close the argument at the voice level has not been done at the required precision: a direct comparison of a person's inner monologue characteristics — tone, vocabulary, moral framework, habitual concerns — with their described characteristics of the God or Jesus they hear. Luhrmann documents the reattribution process but stops short of the systematic comparison: does your God sound like you? Does your Jesus tell you things you already believe? Does the voice ever tell you something you genuinely didn't think or know?",
     "provenance_type": "CLAUDE",
@@ -28362,7 +28657,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.6 The Study Not Yet Done",
-    "source_reference": "paragraph:906",
+    "source_reference": "paragraph:915",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28376,7 +28671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1da16d26018705389533",
+    "id": "rk_4771bc060d4d7c76b974",
     "text": "The prediction is obvious. The God people describe hearing will reflect their own moral vocabulary, their own unresolved concerns, their own existing convictions. Epley establishes this at the level of attributed beliefs. The missing inner-monologue study would establish it at the level of the voice itself. The result would not be ambiguous, and the \"personal relationship\" would be, in measurable terms, a relationship with a culturally labelled projection of the self.",
     "raw_text": "⟨INFERENCE⟩ The prediction is obvious. The God people describe hearing will reflect their own moral vocabulary, their own unresolved concerns, their own existing convictions. Epley establishes this at the level of attributed beliefs. The missing inner-monologue study would establish it at the level of the voice itself. The result would not be ambiguous, and the \"personal relationship\" would be, in measurable terms, a relationship with a culturally labelled projection of the self.",
     "provenance_type": "CLAUDE",
@@ -28393,7 +28688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.6 The Study Not Yet Done",
-    "source_reference": "paragraph:907",
+    "source_reference": "paragraph:916",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28407,7 +28702,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bbcea1540ff667f31098",
+    "id": "rk_a5d627c383bb60eac14c",
     "text": "The claim \"God told me personally\" cannot be evaluated from outside. The framework above makes it evaluable differently: not \"did God actually speak\" (unverifiable) but \"is there an alternative mechanism that accounts for the experience at every level\" (yes — documented with named scholarship across anthropology, neuroscience, and cross-cultural psychiatry).",
     "raw_text": "The claim \"God told me personally\" cannot be evaluated from outside. The framework above makes it evaluable differently: not \"did God actually speak\" (unverifiable) but \"is there an alternative mechanism that accounts for the experience at every level\" (yes — documented with named scholarship across anthropology, neuroscience, and cross-cultural psychiatry).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28424,7 +28719,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
-    "source_reference": "paragraph:908",
+    "source_reference": "paragraph:917",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28438,7 +28733,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_abd4880f5b3e72e25e27",
+    "id": "rk_e6107c8c2d0f69b17148",
     "text": "•  The cross-cultural content data is the sharpest single point: if the mechanism were divine speech, you'd expect the content to be consistent across cultures. American voice-hearers hearing violent and disturbing content while Ghanaian and Indian voice-hearers hear warm, relational, divine content is exactly what you'd predict from a culturally loaded inner-speech mechanism — and the opposite of what you'd predict from a God who speaks.",
     "raw_text": "•  The cross-cultural content data is the sharpest single point: if the mechanism were divine speech, you'd expect the content to be consistent across cultures. American voice-hearers hearing violent and disturbing content while Ghanaian and Indian voice-hearers hear warm, relational, divine content is exactly what you'd predict from a culturally loaded inner-speech mechanism — and the opposite of what you'd predict from a God who speaks.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28455,7 +28750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
-    "source_reference": "paragraph:909",
+    "source_reference": "paragraph:918",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28469,7 +28764,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_acd6990883aa6c32d0ae",
+    "id": "rk_76fa0f852649ec2cbbe4",
     "text": "•  The absorption finding matters for the conversation about spiritual gifts: if hearing God is trainable through prayer practice, it is not a supernatural gift distributed by divine election. It is a learned skill, like any other skill, distributed according to practice.",
     "raw_text": "•  The absorption finding matters for the conversation about spiritual gifts: if hearing God is trainable through prayer practice, it is not a supernatural gift distributed by divine election. It is a learned skill, like any other skill, distributed according to practice.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28486,7 +28781,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
-    "source_reference": "paragraph:910",
+    "source_reference": "paragraph:919",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28500,7 +28795,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7f57e596080d339ea70c",
+    "id": "rk_fb3086db907f2446d111",
     "text": "•  The Epley finding addresses the \"personal relationship\" claim at the belief level: people's God shares their political views, their moral judgments, their social priorities. The God of a pacifist opposes war. The God of a nationalist supports the nation. This is documented, not argued.",
     "raw_text": "•  The Epley finding addresses the \"personal relationship\" claim at the belief level: people's God shares their political views, their moral judgments, their social priorities. The God of a pacifist opposes war. The God of a nationalist supports the nation. This is documented, not argued.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28517,7 +28812,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
-    "source_reference": "paragraph:911",
+    "source_reference": "paragraph:920",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28531,7 +28826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_70ca67aac5140c8ccd56",
+    "id": "rk_7558918955209a558d53",
     "text": "•  Direct question for conversation: \"When God told you that, did he tell you anything you didn't already think or believe?\"",
     "raw_text": "•  Direct question for conversation: \"When God told you that, did he tell you anything you didn't already think or believe?\"",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28548,7 +28843,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "21. HEARING GOD — THE PSYCHOLOGY OF DIVINE VOICE EXPERIENCE > 21.7 How to Use This",
-    "source_reference": "paragraph:912",
+    "source_reference": "paragraph:921",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28562,7 +28857,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_118222f36192365abca3",
+    "id": "rk_5f8ee641ea452b149e87",
     "text": "\"God wants you free\" is the most common way modern Christianity explains why evil exists. It is not primarily a biblical claim. It is a theological position constructed to patch a set of contradictions the text creates and then leaves unresolved. Understanding where the claim came from, what it fails to explain, and what the formal version of the problem looks like gives a much clearer picture of what the actual theological situation is.",
     "raw_text": "\"God wants you free\" is the most common way modern Christianity explains why evil exists. It is not primarily a biblical claim. It is a theological position constructed to patch a set of contradictions the text creates and then leaves unresolved. Understanding where the claim came from, what it fails to explain, and what the formal version of the problem looks like gives a much clearer picture of what the actual theological situation is.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28578,7 +28873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM",
-    "source_reference": "paragraph:913",
+    "source_reference": "paragraph:922",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28592,7 +28887,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e3d65a02326f5921b2ed",
+    "id": "rk_163230e7eacf75ad2f45",
     "text": "The texts people use to support the \"God wants you free\" position are two: Deuteronomy 30:19 (\"choose life, that you and your descendants may live\") and Joshua 24:15 (\"choose this day whom you will serve\"). Both are real and belong in the picture.",
     "raw_text": "The texts people use to support the \"God wants you free\" position are two: Deuteronomy 30:19 (\"choose life, that you and your descendants may live\") and Joshua 24:15 (\"choose this day whom you will serve\"). Both are real and belong in the picture.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28609,7 +28904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:914",
+    "source_reference": "paragraph:923",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28623,7 +28918,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b3e19ef1e27e618132e3",
+    "id": "rk_3f57f65f582bda1b0c41",
     "text": "Against them the text places a substantially harder cluster:",
     "raw_text": "Against them the text places a substantially harder cluster:",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28640,7 +28935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:915",
+    "source_reference": "paragraph:924",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28654,7 +28949,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_67ba107691ae39da85c1",
+    "id": "rk_e7015ac719e486d7cfdd",
     "text": "Exodus — God hardens Pharaoh's heart. Not Pharaoh choosing to resist. God doing it. The text says this explicitly and repeatedly: Exodus 4:21, 7:3, 9:12, 10:1, 10:20, 10:27, 14:4, 14:8 — eight separate statements. Then punishes Pharaoh for the result. The text does not apologize for this.",
     "raw_text": "**Exodus — God hardens Pharaoh's heart.** Not Pharaoh choosing to resist. God doing it. The text says this explicitly and repeatedly: Exodus 4:21, 7:3, 9:12, 10:1, 10:20, 10:27, 14:4, 14:8 — eight separate statements. Then punishes Pharaoh for the result. The text does not apologize for this.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28671,7 +28966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:916",
+    "source_reference": "paragraph:925",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28685,7 +28980,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1a3c2136953250f3a507",
+    "id": "rk_fc598bb87b85e9d3517d",
     "text": "Romans 9:18–21 — \"He has mercy on whom he wills, and he hardens whom he wills.\" Paul immediately anticipates the obvious objection — this seems unfair — and answers it: \"Who are you, O man, to answer back to God? Will what is molded say to its molder, 'Why have you made me like this?'\" Potter and clay. The text tells the reader not to push on this.",
     "raw_text": "**Romans 9:18–21** — \"He has mercy on whom he wills, and he hardens whom he wills.\" Paul immediately anticipates the obvious objection — this seems unfair — and answers it: \"Who are you, O man, to answer back to God? Will what is molded say to its molder, 'Why have you made me like this?'\" Potter and clay. The text tells the reader not to push on this.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28702,7 +28997,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:917",
+    "source_reference": "paragraph:926",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28716,7 +29011,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c59b0e5b8bd560132d6",
+    "id": "rk_5e04478c76cddadb7956",
     "text": "Ephesians 1:4–5 — \"He chose us in him before the foundation of the world … he predestined us for adoption.\" Not chosen because of future free choices. Before anything existed.",
     "raw_text": "**Ephesians 1:4–5** — \"He chose us in him before the foundation of the world … he predestined us for adoption.\" Not chosen because of future free choices. Before anything existed.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28733,7 +29028,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:918",
+    "source_reference": "paragraph:927",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28747,7 +29042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5f9e3a4340b8dee80d04",
+    "id": "rk_651b8134032a8e46ced4",
     "text": "John 6:44 — \"No one can come to me unless the Father who sent me draws him.\" Not invites. Draws. The agency belongs to the Father, not the individual.",
     "raw_text": "**John 6:44** — \"No one can come to me unless the Father who sent me draws him.\" Not invites. Draws. The agency belongs to the Father, not the individual.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28764,7 +29059,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:919",
+    "source_reference": "paragraph:928",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28778,7 +29073,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_19c432dcf142a06817bf",
+    "id": "rk_295bbde050963d640a8c",
     "text": "Acts 13:48 — \"As many as were appointed to eternal life believed.\" Appointment precedes belief. The causal sequence runs the other direction from the free-will reading.",
     "raw_text": "**Acts 13:48** — \"As many as were appointed to eternal life believed.\" Appointment precedes belief. The causal sequence runs the other direction from the free-will reading.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28795,7 +29090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:920",
+    "source_reference": "paragraph:929",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28809,7 +29104,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c0d627673e16d714d920",
+    "id": "rk_efeee028a8ba7089b349",
     "text": "The text holds both the \"choose\" commands and the predestination cluster simultaneously without resolving the contradiction. Romans 9 is not an edge case — it is one of the densest theological passages in the canon and it ends by telling the reader to stop asking questions about it.",
     "raw_text": "The text holds both the \"choose\" commands and the predestination cluster simultaneously without resolving the contradiction. Romans 9 is not an edge case — it is one of the densest theological passages in the canon and it ends by telling the reader to stop asking questions about it.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28826,7 +29121,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.1 The Predestination Texts: What the Text Actually Says",
-    "source_reference": "paragraph:921",
+    "source_reference": "paragraph:930",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28840,7 +29135,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e69354d716dac0489316",
+    "id": "rk_bab23f38f70abc71389e",
     "text": "The \"God wants you free\" framing is not the default reading of the tradition. It is Arminian theology, named for Jacob Arminius (1560–1609), a Dutch Reformed theologian who broke with strict Calvinist predestination. Following Arminius's death, his followers published the Five Articles of the Remonstrance (1610) — a formal theological challenge to Calvinist doctrine, arguing that predestination is conditional on God's foreknowledge of free choices, that Christ died for all and not only the elect, and that saving grace is resistible.",
     "raw_text": "⟨DOCUMENTED⟩ The \"God wants you free\" framing is not the default reading of the tradition. It is **Arminian theology**, named for Jacob Arminius (1560–1609), a Dutch Reformed theologian who broke with strict Calvinist predestination. Following Arminius's death, his followers published the *Five Articles of the Remonstrance* (1610) — a formal theological challenge to Calvinist doctrine, arguing that predestination is conditional on God's foreknowledge of free choices, that Christ died for all and not only the elect, and that saving grace is resistible.",
     "provenance_type": "SOURCE",
@@ -28857,7 +29152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.2 Where \"God Wants You Free\" Actually Comes From",
-    "source_reference": "paragraph:922",
+    "source_reference": "paragraph:931",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28871,7 +29166,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5199ea7ccf8a57f5b2db",
+    "id": "rk_edbbb709b1f74b7cb578",
     "text": "The Synod of Dort (1618–19) convened specifically to reject the five Arminian articles and affirm the classic Calvinist position: double predestination — some are predestined for salvation, others for damnation, by God's sovereign will apart from any foreseen merit or choice. John Calvin developed this most fully in the Institutes of the Christian Religion, Book III, chapters 21–24.",
     "raw_text": "⟨DOCUMENTED⟩ The **Synod of Dort** (1618–19) convened specifically to reject the five Arminian articles and affirm the classic Calvinist position: **double predestination** — some are predestined for salvation, others for damnation, by God's sovereign will apart from any foreseen merit or choice. John Calvin developed this most fully in the *Institutes of the Christian Religion*, Book III, chapters 21–24.",
     "provenance_type": "SOURCE",
@@ -28888,7 +29183,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.2 Where \"God Wants You Free\" Actually Comes From",
-    "source_reference": "paragraph:923",
+    "source_reference": "paragraph:932",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28902,7 +29197,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c13dd1099768b53cc9e3",
+    "id": "rk_8e1b0953a05c5aa4afdc",
     "text": "Jonathan Edwards, the American Calvinist theologian, gave the most rigorous philosophical defense of predestination's compatibility with genuine freedom in A Careful and Strict Enquiry into … the Freedom of the Will (1754). Edwards's compatibilism: freedom is acting according to your strongest desire, not being free from causal determination. A deterministically caused choice is free if it flows from your own desires — which is compatible with God having predetermined those desires.",
     "raw_text": "⟨DOCUMENTED⟩ **Jonathan Edwards**, the American Calvinist theologian, gave the most rigorous philosophical defense of predestination's compatibility with genuine freedom in *A Careful and Strict Enquiry into … the Freedom of the Will* (1754). Edwards's compatibilism: freedom is acting according to your strongest desire, not being free from causal determination. A deterministically caused choice is free if it flows from your own desires — which is compatible with God having predetermined those desires.",
     "provenance_type": "SOURCE",
@@ -28919,7 +29214,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.2 Where \"God Wants You Free\" Actually Comes From",
-    "source_reference": "paragraph:924",
+    "source_reference": "paragraph:933",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28933,7 +29228,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3e402c02030105ce813e",
+    "id": "rk_89c00ad08b772b6b54f4",
     "text": "Modern evangelical Christianity defaulted to the Arminian version rather than the Calvinist one. \"God chose before you were born who goes to hell\" is a harder sell than \"God loves you and wants you free.\" This is a theological position adopted under cultural pressure, not exegetical force. The Calvinist reading of Romans 9 is at least as textually defensible as the Arminian one.",
     "raw_text": "⟨INFERENCE⟩ Modern evangelical Christianity defaulted to the Arminian version rather than the Calvinist one. \"God chose before you were born who goes to hell\" is a harder sell than \"God loves you and wants you free.\" This is a theological position adopted under cultural pressure, not exegetical force. The Calvinist reading of Romans 9 is at least as textually defensible as the Arminian one.",
     "provenance_type": "CLAUDE",
@@ -28950,7 +29245,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.2 Where \"God Wants You Free\" Actually Comes From",
-    "source_reference": "paragraph:925",
+    "source_reference": "paragraph:934",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28964,7 +29259,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8e1b957c90c278dbbc4d",
+    "id": "rk_fd71aea8d38167a6f7e6",
     "text": "Free will explains one category of problem: why humans make bad moral choices. It does not reach several others.",
     "raw_text": "Free will explains one category of problem: why humans make bad moral choices. It does not reach several others.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -28981,7 +29276,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.3 Why Free Will Doesn't Solve the Structural Problem",
-    "source_reference": "paragraph:926",
+    "source_reference": "paragraph:935",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -28995,7 +29290,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6b31d73e1bfa6b002f98",
+    "id": "rk_26ebaf4daff616e16852",
     "text": "The problem of natural evil is the formal name for the category free will cannot address. Natural evil: earthquakes, tsunamis, the Ophiocordyceps fungus that hijacks ant brains and directs their behavior before killing them, the Loa loa worm that lives in human eyeballs, cancer in children. These predate any human choice, involve no human agency, and are designed biological and geological systems functioning exactly as built. An omniscient creator who designed them knew what they would do. Free will does not touch any of it.",
     "raw_text": "⟨DOCUMENTED⟩ **The problem of natural evil** is the formal name for the category free will cannot address. Natural evil: earthquakes, tsunamis, the *Ophiocordyceps* fungus that hijacks ant brains and directs their behavior before killing them, the *Loa loa* worm that lives in human eyeballs, cancer in children. These predate any human choice, involve no human agency, and are designed biological and geological systems functioning exactly as built. An omniscient creator who designed them knew what they would do. Free will does not touch any of it.",
     "provenance_type": "SOURCE",
@@ -29012,7 +29307,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.3 Why Free Will Doesn't Solve the Structural Problem",
-    "source_reference": "paragraph:927",
+    "source_reference": "paragraph:936",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29026,7 +29321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e7f724dac1f6b66921a6",
+    "id": "rk_3b602790ecd78d1a786f",
     "text": "Alvin Plantinga's free will defense (God, Freedom, and Evil, Eerdmans, 1974) is the most rigorous modern formulation of the argument. Plantinga argues that God could not have created genuinely free creatures who always choose good — that is a logical contradiction, because a puppet that always chooses rightly is not genuinely choosing. Genuine freedom requires the possibility of choosing evil. Therefore moral evil is a logically necessary consequence of creating genuinely free beings.",
     "raw_text": "⟨DOCUMENTED⟩ **Alvin Plantinga's free will defense** (*God, Freedom, and Evil*, Eerdmans, 1974) is the most rigorous modern formulation of the argument. Plantinga argues that God could not have created genuinely free creatures who always choose good — that is a logical contradiction, because a puppet that always chooses rightly is not genuinely choosing. Genuine freedom requires the possibility of choosing evil. Therefore moral evil is a logically necessary consequence of creating genuinely free beings.",
     "provenance_type": "SOURCE",
@@ -29043,7 +29338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.3 Why Free Will Doesn't Solve the Structural Problem",
-    "source_reference": "paragraph:928",
+    "source_reference": "paragraph:937",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29057,7 +29352,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4bfe57dd81892be8a90d",
+    "id": "rk_888d1090dacc3f5e31b7",
     "text": "Plantinga extends the free will defense to cover natural evil through the same logical machinery: the physical suffering caused by natural events could result from evil nonhuman free agents — Satan and fallen angels — whose free choices predate and cause the physical systems producing natural suffering (God, Freedom, and Evil, pp. 57–58). Plantinga is explicit that the Free Will Defender \"does not assert that this is true but only that it is possible.\" This is a modal defense — showing the coexistence of God and natural evil is logically consistent — not a theodicy claiming to explain what actually caused it.",
     "raw_text": "⟨DOCUMENTED⟩ Plantinga extends the free will defense to cover natural evil through the same logical machinery: the physical suffering caused by natural events could result from evil nonhuman free agents — Satan and fallen angels — whose free choices predate and cause the physical systems producing natural suffering (*God, Freedom, and Evil*, pp. 57–58). Plantinga is explicit that the Free Will Defender \"does not assert that this is true but only that it is possible.\" This is a modal defense — showing the coexistence of God and natural evil is logically consistent — not a theodicy claiming to explain what actually caused it.",
     "provenance_type": "SOURCE",
@@ -29074,7 +29369,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.3 Why Free Will Doesn't Solve the Structural Problem",
-    "source_reference": "paragraph:929",
+    "source_reference": "paragraph:938",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29088,7 +29383,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e40b675309121726c9ea",
+    "id": "rk_d9bbf366ab2b284f45a1",
     "text": "This move relocates the problem rather than solving it. Satan is a created being. A created being inside an omnipresent God. Psalm 139:7–10 establishes that there is nowhere outside God's presence: \"Where shall I go from your Spirit? … If I make my bed in Sheol, you are there.\" A created being establishing a domain opposed to the creator inside the creator's own omnipresence is the structural contradiction the free will argument cannot address at any level — human or angelic. Moving the free will explanation to fallen angels just pushes the same incoherence one level up.",
     "raw_text": "⟨INFERENCE⟩ This move relocates the problem rather than solving it. Satan is a created being. A created being inside an omnipresent God. Psalm 139:7–10 establishes that there is nowhere outside God's presence: \"Where shall I go from your Spirit? … If I make my bed in Sheol, you are there.\" A created being establishing a domain opposed to the creator *inside the creator's own omnipresence* is the structural contradiction the free will argument cannot address at any level — human or angelic. Moving the free will explanation to fallen angels just pushes the same incoherence one level up.",
     "provenance_type": "CLAUDE",
@@ -29105,7 +29400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.3 Why Free Will Doesn't Solve the Structural Problem",
-    "source_reference": "paragraph:930",
+    "source_reference": "paragraph:939",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29119,7 +29414,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_18c6e1688ca710659657",
+    "id": "rk_42efbad6187f1568450d",
     "text": "A second structural problem the text doesn't notice: the fall narrative requires God to be surpriseable within his own omniscience. Genesis 3 presents God walking in the garden looking for Adam and Eve — \"Where are you?\" — as though discovering what happened. This requires either that God didn't know (breaking omniscience) or that the scene is theater: a performance of discovery God authored to produce a predetermined result. The text holds both the omniscient God (1 John 3:20, Psalm 139) and the surprised-God narrative simultaneously without noticing they conflict.",
     "raw_text": "⟨INFERENCE⟩ A second structural problem the text doesn't notice: the fall narrative requires God to be surpriseable within his own omniscience. Genesis 3 presents God walking in the garden looking for Adam and Eve — \"Where are you?\" — as though discovering what happened. This requires either that God didn't know (breaking omniscience) or that the scene is theater: a performance of discovery God authored to produce a predetermined result. The text holds both the omniscient God (1 John 3:20, Psalm 139) and the surprised-God narrative simultaneously without noticing they conflict.",
     "provenance_type": "CLAUDE",
@@ -29136,7 +29431,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.3 Why Free Will Doesn't Solve the Structural Problem",
-    "source_reference": "paragraph:931",
+    "source_reference": "paragraph:940",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29150,7 +29445,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_42790f7ce9551b0a53d9",
+    "id": "rk_47fb525e7b288970438a",
     "text": "Augustine — the privation argument. Evil has no ontological substance. It is privatio boni — privation of good, an absence rather than a created thing. Darkness is not a substance God created; it is the absence of light. Evil is not a thing; it is the absence of good. Developed across Enchiridion (chapters 10–14) and City of God.",
     "raw_text": "⟨DOCUMENTED⟩ **Augustine — the privation argument.** Evil has no ontological substance. It is *privatio boni* — privation of good, an absence rather than a created thing. Darkness is not a substance God created; it is the absence of light. Evil is not a thing; it is the absence of good. Developed across *Enchiridion* (chapters 10–14) and *City of God*.",
     "provenance_type": "SOURCE",
@@ -29167,7 +29462,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.4 Classical Theist Responses and Where Each Fails",
-    "source_reference": "paragraph:932",
+    "source_reference": "paragraph:941",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29181,7 +29476,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bff112311f88db3a8d9b",
+    "id": "rk_6244d0d4213c04566c3d",
     "text": "The argument handles abstract moral evil awkwardly but collapses on natural evil. A parasite that causes river blindness is not an absence. It is a biological system — a designed entity with a lifecycle — operating exactly as built. An omniscient God who designed the system knew what it would do. \"I didn't create the darkness; I just built a room with no windows and foreknew exactly what the darkness would do to the people inside\" is not a defense when God is the architect.",
     "raw_text": "⟨INFERENCE⟩ The argument handles abstract moral evil awkwardly but collapses on natural evil. A parasite that causes river blindness is not an absence. It is a biological system — a designed entity with a lifecycle — operating exactly as built. An omniscient God who designed the system knew what it would do. \"I didn't create the darkness; I just built a room with no windows and foreknew exactly what the darkness would do to the people inside\" is not a defense when God is the architect.",
     "provenance_type": "CLAUDE",
@@ -29198,7 +29493,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.4 Classical Theist Responses and Where Each Fails",
-    "source_reference": "paragraph:933",
+    "source_reference": "paragraph:942",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29212,7 +29507,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2a051856227da51e9600",
+    "id": "rk_ea59f3472c9409323b0d",
     "text": "Calvin — God ordains everything. Calvin did not flinch. God is the ultimate cause of everything including evil, and this does not make God evil because God is the standard of goodness. Whatever God does is good by definition, because goodness is defined by God's nature, not by an independent standard. God cannot be judged by a criterion above himself.",
     "raw_text": "⟨DOCUMENTED⟩ **Calvin — God ordains everything.** Calvin did not flinch. God is the ultimate cause of everything including evil, and this does not make God evil because God is the standard of goodness. Whatever God does is good by definition, because goodness is defined by God's nature, not by an independent standard. God cannot be judged by a criterion above himself.",
     "provenance_type": "SOURCE",
@@ -29229,7 +29524,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.4 Classical Theist Responses and Where Each Fails",
-    "source_reference": "paragraph:934",
+    "source_reference": "paragraph:943",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29243,7 +29538,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7ef73f9f6237c0366099",
+    "id": "rk_ca30bce70c578c5bbad6",
     "text": "This converts \"God is good\" from a meaningful claim into a tautology. If good means \"whatever God does,\" then the statement has the same logical content as \"God does what God does.\" Jonathan Edwards's compatibilism rescues the freedom argument but does not rescue the goodness claim — it restates the same move more carefully.",
     "raw_text": "⟨INFERENCE⟩ This converts \"God is good\" from a meaningful claim into a tautology. If good means \"whatever God does,\" then the statement has the same logical content as \"God does what God does.\" Jonathan Edwards's compatibilism rescues the freedom argument but does not rescue the goodness claim — it restates the same move more carefully.",
     "provenance_type": "CLAUDE",
@@ -29260,7 +29555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.4 Classical Theist Responses and Where Each Fails",
-    "source_reference": "paragraph:935",
+    "source_reference": "paragraph:944",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29274,7 +29569,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_97ea91df2efb98e0e115",
+    "id": "rk_4a562854c447e14a951a",
     "text": "Gnosticism — the Demiurge. The most internally consistent theological response to the problem of evil was the one declared heretical. Gnostic cosmology — particularly Valentinian Gnosticism, documented by Irenaeus of Lyon in Against Heresies (c. 180 CE) and through primary Coptic texts from the Nag Hammadi library (discovered December 1945) — held that the creator God of Genesis is a lesser, intermediate being: the Demiurge, distinct from the true highest God. On Ptolemy's Valentinian account (Letter to Flora, preserved in Epiphanius), the Demiurge is not malevolent but ignorant — \"just\" in his own terms, but cut off from the higher divine reality and therefore deficient. An ignorant rather than omniscient creator accounts for a broken creation without requiring the omni-attributes to be reconciled. Early Christianity expended significant theological energy condemning this framework precisely because its internal logic is consistent.",
     "raw_text": "⟨DOCUMENTED⟩ **Gnosticism — the Demiurge.** The most internally consistent theological response to the problem of evil was the one declared heretical. Gnostic cosmology — particularly Valentinian Gnosticism, documented by Irenaeus of Lyon in *Against Heresies* (c. 180 CE) and through primary Coptic texts from the Nag Hammadi library (discovered December 1945) — held that the creator God of Genesis is a lesser, intermediate being: the Demiurge, distinct from the true highest God. On Ptolemy's Valentinian account (*Letter to Flora*, preserved in Epiphanius), the Demiurge is not malevolent but ignorant — \"just\" in his own terms, but cut off from the higher divine reality and therefore deficient. An ignorant rather than omniscient creator accounts for a broken creation without requiring the omni-attributes to be reconciled. Early Christianity expended significant theological energy condemning this framework precisely because its internal logic is consistent.",
     "provenance_type": "SOURCE",
@@ -29291,7 +29586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.4 Classical Theist Responses and Where Each Fails",
-    "source_reference": "paragraph:936",
+    "source_reference": "paragraph:945",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29305,7 +29600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0c91e3cb04e5f793c966",
+    "id": "rk_597ac6738e8d7339e08e",
     "text": "Gnosticism relocates the problem rather than solving it. Where did the Demiurge come from? What is the nature of the highest God who permitted a lesser god to create a broken world? The explanatory regress moves one level up but does not end. It is a consistent alternative cosmology; it is not a resolution.",
     "raw_text": "⟨INFERENCE⟩ Gnosticism relocates the problem rather than solving it. Where did the Demiurge come from? What is the nature of the highest God who permitted a lesser god to create a broken world? The explanatory regress moves one level up but does not end. It is a consistent alternative cosmology; it is not a resolution.",
     "provenance_type": "CLAUDE",
@@ -29322,7 +29617,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.4 Classical Theist Responses and Where Each Fails",
-    "source_reference": "paragraph:937",
+    "source_reference": "paragraph:946",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29336,7 +29631,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_06e6f5a1cb6f4667ab9d",
+    "id": "rk_89700208883e00fd7657",
     "text": "The problem the Calvin observation unpacks into has a name and is 2,400 years old. Plato formulates it in the dialogue Euthyphro (c. 399–380 BCE): Is something pious/good because the gods command it, or do the gods command it because it is pious/good?",
     "raw_text": "⟨DOCUMENTED⟩ The problem the Calvin observation unpacks into has a name and is 2,400 years old. Plato formulates it in the dialogue *Euthyphro* (c. 399–380 BCE): *Is something pious/good because the gods command it, or do the gods command it because it is pious/good?*",
     "provenance_type": "SOURCE",
@@ -29353,7 +29648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.5 The Euthyphro Dilemma",
-    "source_reference": "paragraph:938",
+    "source_reference": "paragraph:947",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29367,7 +29662,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bcf3b410665771c8f425",
+    "id": "rk_5ccb5776f078246a7bdc",
     "text": "The dilemma has two horns and classical theism cannot cleanly exit through either:",
     "raw_text": "The dilemma has two horns and classical theism cannot cleanly exit through either:",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29384,7 +29679,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.5 The Euthyphro Dilemma",
-    "source_reference": "paragraph:939",
+    "source_reference": "paragraph:948",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29398,7 +29693,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c4a7331263bac7cc5ce6",
+    "id": "rk_beb8c903cb504d5d68ea",
     "text": "Horn 1 — Good because God commands it (divine command theory): Goodness is whatever God wills. This makes goodness arbitrary — God could command cruelty and it would be good by definition. More precisely: it makes \"God is good\" a tautology with no independent content. The statement says nothing beyond \"God does what God does.\" The \"do as I say not as I do\" structure is exactly this horn. Might makes right with theological packaging.",
     "raw_text": "**Horn 1 — Good because God commands it (divine command theory):** Goodness is whatever God wills. This makes goodness arbitrary — God could command cruelty and it would be good by definition. More precisely: it makes \"God is good\" a tautology with no independent content. The statement says nothing beyond \"God does what God does.\" The \"do as I say not as I do\" structure is exactly this horn. Might makes right with theological packaging.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29415,7 +29710,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.5 The Euthyphro Dilemma",
-    "source_reference": "paragraph:940",
+    "source_reference": "paragraph:949",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29429,7 +29724,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_56a965f0d8bbcb5783d1",
+    "id": "rk_a2c2a816933e26fcebc5",
     "text": "Horn 2 — God commands it because it is good: Goodness exists independently of God. God is subject to a standard above himself. God becomes a messenger of an independent moral order, not its source. God's supremacy is limited.",
     "raw_text": "**Horn 2 — God commands it because it is good:** Goodness exists independently of God. God is subject to a standard above himself. God becomes a messenger of an independent moral order, not its source. God's supremacy is limited.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29446,7 +29741,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.5 The Euthyphro Dilemma",
-    "source_reference": "paragraph:941",
+    "source_reference": "paragraph:950",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29460,7 +29755,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9910ea5d386732cbdc56",
+    "id": "rk_c27e031cac940608a8cd",
     "text": "Aquinas's response — usually described as the \"third horn\" or the divine simplicity escape — argues that God does not follow an external standard (Horn 2) nor arbitrarily create goodness (Horn 1), because God's nature is goodness. God is summum bonum (highest good). Goodness is not a standard above God or a product of God's will — it is an essential attribute of what God is. Developed in Summa Theologica, Part I, Question 6 (\"The Goodness of God\").",
     "raw_text": "⟨DOCUMENTED⟩ **Aquinas's response** — usually described as the \"third horn\" or the divine simplicity escape — argues that God does not follow an external standard (Horn 2) nor arbitrarily create goodness (Horn 1), because God's nature *is* goodness. God is *summum bonum* (highest good). Goodness is not a standard above God or a product of God's will — it is an essential attribute of what God is. Developed in *Summa Theologica*, Part I, Question 6 (\"The Goodness of God\").",
     "provenance_type": "SOURCE",
@@ -29477,7 +29772,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.5 The Euthyphro Dilemma",
-    "source_reference": "paragraph:942",
+    "source_reference": "paragraph:951",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29491,7 +29786,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_98037d9cad685ffaf396",
+    "id": "rk_002ab3bcf3a33673cb07",
     "text": "The third-horn response is genuinely distinct from Horn 1. On Horn 1 (voluntarism), God could in principle have willed cruelty and it would have been good — goodness is contingent on God's arbitrary will. On Aquinas's account, this is incoherent: God's nature is necessary, not contingent, so God could not have willed cruelty, because cruelty would contradict what God necessarily is. The escape from the dilemma is real at that level. What the response requires, and asserts without establishing, is divine simplicity — the claim that God's essence, existence, and goodness are literally identical rather than merely correlated. Critics argue this is not a resolution but a metaphysical premise presented as one, and that \"God's nature is goodness\" is not obviously more coherent than the dilemma it is meant to dissolve. The dilemma has not been resolved in 2,400 years. The tradition has produced more sophisticated descriptions of the problem — not exits from it.",
     "raw_text": "⟨INFERENCE⟩ The third-horn response is genuinely distinct from Horn 1. On Horn 1 (voluntarism), God could in principle have willed cruelty and it would have been good — goodness is contingent on God's arbitrary will. On Aquinas's account, this is incoherent: God's nature is necessary, not contingent, so God could not have willed cruelty, because cruelty would contradict what God necessarily is. The escape from the dilemma is real at that level. What the response requires, and asserts without establishing, is divine simplicity — the claim that God's essence, existence, and goodness are literally identical rather than merely correlated. Critics argue this is not a resolution but a metaphysical premise presented as one, and that \"God's nature is goodness\" is not obviously more coherent than the dilemma it is meant to dissolve. The dilemma has not been resolved in 2,400 years. The tradition has produced more sophisticated descriptions of the problem — not exits from it.",
     "provenance_type": "CLAUDE",
@@ -29508,7 +29803,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.5 The Euthyphro Dilemma",
-    "source_reference": "paragraph:943",
+    "source_reference": "paragraph:952",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29522,7 +29817,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0f51e2b1ac662e71de26",
+    "id": "rk_2453a216ddc040b671c0",
     "text": "J.L. Mackie, \"Evil and Omnipotence\" (Mind 64:254, 1955) formalized what this conversation reconstructs: there is a logical contradiction between omnipotence, omnibenevolence, and the existence of evil. This is not merely an evidential problem — \"evil makes God's existence less likely\" — but a logical incompatibility: these three claims cannot all be simultaneously true. This is Mackie's \"hard\" version of the problem of evil.",
     "raw_text": "⟨DOCUMENTED⟩ J.L. Mackie, \"Evil and Omnipotence\" (*Mind* 64:254, 1955) formalized what this conversation reconstructs: there is a logical contradiction between omnipotence, omnibenevolence, and the existence of evil. This is not merely an evidential problem — \"evil makes God's existence less likely\" — but a logical incompatibility: these three claims cannot all be simultaneously true. This is Mackie's \"hard\" version of the problem of evil.",
     "provenance_type": "SOURCE",
@@ -29539,7 +29834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.6 The Honest State of the Problem",
-    "source_reference": "paragraph:944",
+    "source_reference": "paragraph:953",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29553,7 +29848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dfe28d7a723889c932da",
+    "id": "rk_73cf452acee1531e06d1",
     "text": "The omni-attributes as a formal package — omnipotent, omniscient, omnibenevolent — are not assembled as a package in the text. The philosophical vocabulary is not biblical. But the underlying claims are there: God knows everything (1 John 3:20, Psalm 139:1–4), God can do anything (Job 42:2, Jeremiah 32:17), God is good (Psalm 34:8, Mark 10:18). The theologians systematized what the text implies into formal language. The formalization exposed a contradiction the text was carrying without noticing. \"The text doesn't use the word omnipotent\" is not a resolution — the claims are there; the philosophical vocabulary only made the contradiction visible.",
     "raw_text": "⟨INFERENCE⟩ The omni-attributes as a formal package — omnipotent, omniscient, omnibenevolent — are not assembled as a package in the text. The philosophical vocabulary is not biblical. But the underlying claims are there: God knows everything (1 John 3:20, Psalm 139:1–4), God can do anything (Job 42:2, Jeremiah 32:17), God is good (Psalm 34:8, Mark 10:18). The theologians systematized what the text implies into formal language. The formalization exposed a contradiction the text was carrying without noticing. \"The text doesn't use the word omnipotent\" is not a resolution — the claims are there; the philosophical vocabulary only made the contradiction visible.",
     "provenance_type": "CLAUDE",
@@ -29570,7 +29865,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.6 The Honest State of the Problem",
-    "source_reference": "paragraph:945",
+    "source_reference": "paragraph:954",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29584,7 +29879,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_77ec73e81fca1b5ac363",
+    "id": "rk_5f99307f09b6b1427214",
     "text": "Every classical theist response to the problem of evil requires quietly abandoning at least one of the three attributes to maintain the others:",
     "raw_text": "⟨INFERENCE⟩ Every classical theist response to the problem of evil requires quietly abandoning at least one of the three attributes to maintain the others:",
     "provenance_type": "CLAUDE",
@@ -29601,7 +29896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.6 The Honest State of the Problem",
-    "source_reference": "paragraph:946",
+    "source_reference": "paragraph:955",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29615,7 +29910,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dafd1b47cccb90985093",
+    "id": "rk_30b63e19e2903a92ad74",
     "text": "Augustine's privation abandons omnipotence implicitly (God couldn't prevent the absence of good?)\nCalvin's divine command abandons meaningful omnibenevolence (good = whatever God does)\nProcess theology abandons omnipotence explicitly (God persuades rather than determines; God is not all-powerful)\nOpen theism abandons omniscience (God does not foreknow future free choices)\nGnosticism abandons the creator's omnibenevolence by splitting the creator from the highest God",
     "raw_text": "- Augustine's privation abandons omnipotence implicitly (God couldn't prevent the absence of good?)\n- Calvin's divine command abandons meaningful omnibenevolence (good = whatever God does)\n- Process theology abandons omnipotence explicitly (God persuades rather than determines; God is not all-powerful)\n- Open theism abandons omniscience (God does not foreknow future free choices)\n- Gnosticism abandons the creator's omnibenevolence by splitting the creator from the highest God",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29632,7 +29927,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.6 The Honest State of the Problem",
-    "source_reference": "paragraph:947",
+    "source_reference": "paragraph:956",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29646,7 +29941,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d12592d10c68d593cc15",
+    "id": "rk_3b05fe088424d3bde7f8",
     "text": "The theological tradition has not resolved this. It has found more sophisticated ways to describe which attribute gets quietly dropped.",
     "raw_text": "The theological tradition has not resolved this. It has found more sophisticated ways to describe which attribute gets quietly dropped.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29663,7 +29958,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.6 The Honest State of the Problem",
-    "source_reference": "paragraph:948",
+    "source_reference": "paragraph:957",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29677,7 +29972,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_30787f6ab2a3c024457f",
+    "id": "rk_70220e5dc54fc137781d",
     "text": "The \"God wants you free\" line usually arrives as a conversational explanation for why evil exists — God had to allow it to preserve genuine human freedom. The framework above gives four specific places it breaks down:",
     "raw_text": "The \"God wants you free\" line usually arrives as a conversational explanation for why evil exists — God had to allow it to preserve genuine human freedom. The framework above gives four specific places it breaks down:",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29694,7 +29989,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.7 How to Use This in Conversation",
-    "source_reference": "paragraph:949",
+    "source_reference": "paragraph:958",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29708,7 +30003,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f2b43586d90e7009f283",
+    "id": "rk_d65099d0b85611e2c47c",
     "text": "1. Free will addresses moral evil, not natural evil. Earthquakes, parasites, cancer predate human choice and involve no human agency. Free will does not touch them.",
     "raw_text": "1. **Free will addresses moral evil, not natural evil.** Earthquakes, parasites, cancer predate human choice and involve no human agency. Free will does not touch them.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29725,7 +30020,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.7 How to Use This in Conversation",
-    "source_reference": "paragraph:950",
+    "source_reference": "paragraph:959",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29739,7 +30034,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a1d54c4ae0692149da24",
+    "id": "rk_5fafdc40f687e3f708c0",
     "text": "2. Free will doesn't resolve the omnipresence contradiction. An omnipresent God who has sections of creation \"outside\" God's presence, or a created being establishing a domain opposed to the creator inside the creator's own omnipresence — these are structural problems free will was not designed to address.",
     "raw_text": "2. **Free will doesn't resolve the omnipresence contradiction.** An omnipresent God who has sections of creation \"outside\" God's presence, or a created being establishing a domain opposed to the creator inside the creator's own omnipresence — these are structural problems free will was not designed to address.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29756,7 +30051,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.7 How to Use This in Conversation",
-    "source_reference": "paragraph:951",
+    "source_reference": "paragraph:960",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29770,7 +30065,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d6cb6a91959421c0dac1",
+    "id": "rk_b2462a4e06ee558d4497",
     "text": "3. The Euthyphro Dilemma is 2,400 years old and has no clean exit. \"God is good\" is either a tautology (Horn 1) or it limits God's supremacy (Horn 2). Aquinas's escape is a more elegant restatement of Horn 1. If the person you're talking to says \"God defines goodness by his nature,\" they have conceded the tautology.",
     "raw_text": "3. **The Euthyphro Dilemma is 2,400 years old and has no clean exit.** \"God is good\" is either a tautology (Horn 1) or it limits God's supremacy (Horn 2). Aquinas's escape is a more elegant restatement of Horn 1. If the person you're talking to says \"God defines goodness by his nature,\" they have conceded the tautology.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29787,7 +30082,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.7 How to Use This in Conversation",
-    "source_reference": "paragraph:952",
+    "source_reference": "paragraph:961",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -29801,7 +30096,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4f3012f2016110908496",
+    "id": "rk_bcc739c08fee71840a4c",
     "text": "4. The omni-attribute package the free-will argument is defending was not assembled by the text. The text makes the underlying claims; philosophy assembled them into a formal package; the package is logically incoherent; the text never noticed. \"God never claimed to be omnipotent in those words\" is not an exit — Job 42:2 says \"I know that you can do all things.\" The claim is there.",
     "raw_text": "4. **The omni-attribute package the free-will argument is defending was not assembled by the text.** The text makes the underlying claims; philosophy assembled them into a formal package; the package is logically incoherent; the text never noticed. \"God never claimed to be omnipotent in those words\" is not an exit — Job 42:2 says \"I know that you can do all things.\" The claim is there.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -29818,7 +30113,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "22. THEODICY AND FREE WILL — THE LOGICAL STRUCTURE OF THE PROBLEM > 22.7 How to Use This in Conversation",
-    "source_reference": "paragraph:953",
+    "source_reference": "paragraph:962",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
