@@ -883,6 +883,30 @@ N.T. Wright, *The Climax of the Covenant* (Fortress, 1992) [MODERATE EVANGELICAL
 
 **Reference: **Isaiah 7:1-17 — read from the beginning of the chapter for full political context.
 
+#### ⚑ AUDIT — Isaiah 7:14: Matthew Quotes the Septuagint, Not His Own Translation
+
+`CHECKED 12 Aug 2026`
+
+**AS RECORDED:** "Hebrew uses 'almah' — young woman. Not the Hebrew word for virgin ('betulah'). Matthew translates it with the Greek 'parthenos' (virgin) when quoting it. The verse in Isaiah is about events in Isaiah's own time — a sign to King Ahaz about an imminent military threat, not a 700-year-forward prophecy." (§12.3)
+
+**STATUS: Holds on the philology and near-term reading. Overstated on Matthew — he is not translating; he is quoting a translation already centuries old. The strongest traditional counter is missing.**
+
+**AUDIT**
+
+**The philology is settled.** *'Almah* appears seven times in the Hebrew Bible; it denotes a young woman of marriageable or childbearing age. The dedicated Hebrew word for *virgo intacta* is *betulah*. **Hans Wildberger** [CRITICAL], *Isaiah 1–12: A Continental Commentary* (Fortress, 1991), defines 'almah simply as "a young woman until the birth of her first child" — no built-in virginity claim. **Alec Motyer** [CONSERVATIVE-EVANGELICAL], *The Prophecy of Isaiah* (IVP, 1993), pushes back on a common inference: "there is no ground for the common assertion that had Isaiah intended *virgo intacta* he would have used *betulah*" — the cultural default for an unmarried young woman was virginity, so 'almah doesn't rule the reading out even if it doesn't require it either. On the underlying word: the critical and evangelical scholars land in the same place — 'almah does not mean virgin as a definitional matter.
+
+**Matthew is citing, not inventing.** Jewish translators in Alexandria, working roughly three centuries before Matthew and with no Christian stake in the outcome, rendered 'almah as *parthenos* ("virgin") in Isaiah 7:14 — one of only two occurrences of the word across the Hebrew Bible given that specific Greek term. Matthew 1:23 quotes that existing Greek text. The more precise claim is that the Septuagint translators, not Matthew, made the lexical choice; Matthew applies the established translation to a new referent. The dispute was live enough in antiquity that later Jewish revisers — **Aquila** (c. 135 CE), Symmachus, and Theodotion — switched to *neanis* ("young woman"), and **Justin Martyr**'s *Dialogue with Trypho* (c. 160 CE) records Christians and Jews arguing over this specific word within a generation. The revisers' correction, not Justin's accusation of tampering, is how later Christian scholarship reads the episode.
+
+**The near-term referent is strongly supported.** **Joseph Blenkinsopp** [CRITICAL], *Isaiah 1–39* (Anchor Bible, Doubleday, 2000), reads the sign as timed to the Syro-Ephraimite crisis (734–732 BCE): before the child named in the sign is old enough to "refuse evil and choose good," the two kings threatening Ahaz — Rezin of Aram and Pekah of Israel — will be removed. That timeframe anchors the sign squarely in Ahaz's own generation. Jewish tradition agrees: **Rashi** and **Ibn Ezra** [JEWISH CRITICAL] read it as contemporary reassurance; Ibn Ezra places fulfillment in Hezekiah's reign, though the child's precise identity (Hezekiah himself, or Isaiah's own son named in 8:3) is disputed within this reading since regnal chronology places Hezekiah's birth before the oracle.
+
+**The strongest traditional counter: double-fulfillment.** The case against the entry is not "Isaiah predicted Mary" outright. Motyer argues Isaiah 7–11 deliberately interweaves near and far horizons (*sensus plenior*): a real sign in Ahaz's day does not exclude a fuller pattern realized later. This is the same typological mechanism — a text meaning one thing in its original context and another in its new application — documented for Hosea 11:1 / Matthew 2:15. Giving it a name (typology, *sensus plenior*) rather than dismissing it is what this project's method requires: name the move, then evaluate its limits.
+
+**CORRECTED:** *'Almah does not mean virgin — that is betulah's job — and the sign in Isaiah 7 is explicitly timed to Ahaz's own crisis, not a messiah seven centuries away. The philology and near-term reading hold. But Matthew did not translate 'almah as parthenos to construct the narrative: pre-Christian Jewish translators had already rendered it that way in the Septuagint, and Matthew is quoting that existing text. The typological (double-fulfillment) argument — that a real near-term sign can also prefigure a later pattern — is the traditional move, not a flat claim that Isaiah predicted Mary. It uses the same interpretive method as Hosea 11:1, and dismissing it requires engaging typology on its own terms.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** "Matthew translates 'almah as parthenos" is technically true in the sense that Matthew's text contains the Greek word — but it implies Matthew made the lexical choice, which collapses a real step. The Septuagint parthenos reading was already in the Bible Matthew's community used, made three centuries earlier by Jewish translators with nothing to gain from a virgin birth. The entry was making a point about the word being wrong, and the Matthew shorthand served that point, but the sharper and more accurate version is that Matthew applies an existing disputed translation to a new context — which is the move that actually needs examining.
+
+---
+
 ## 12.4 Mark 13:30 / Matthew 16:28
 
 **Commonly used for: **Usually not cited by believers — avoided.
