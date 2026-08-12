@@ -117,6 +117,8 @@ function stableId(sourceFile, sectionPath, ordinal, rawText) {
     .replace(/Source Verification/g, 'Checking Yourself')
     .replace(/COMMON CLAIMS — CONTEXT AND QUESTIONS/g, 'COMMON CLAIMS & RESPONSES')
     .replace(/HISTORICAL CASE STUDIES/g, 'HISTORICAL COUNTERS')
+    .replace(/Learned Religious Fear/g, 'Innate vs. Learned Fear')
+    .replace(/AUDIT — Is Religious Fear Innate or Learned\?/g, 'AUDIT — "Only Two Innate Fears"')
     .replace(/QUESTIONS FOR CONVERSATION/g, 'QUESTIONS TO ASK IN LIVE CONVERSATION')
     .replace(/Clarifying circular reasoning:/g, 'Exposing circular reasoning:')
     .replace(/Clarifying the Euthyphro dilemma:/g, 'Exposing the Euthyphro dilemma:')

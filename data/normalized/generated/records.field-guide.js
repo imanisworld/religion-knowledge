@@ -5051,15 +5051,15 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e00a5407a3f0a2cc802b",
-    "text": "What is innate: Only two fears are documented as truly innate: (1) Loud noises — acoustic startle reflex, present at birth. (2) Falling — confirmed by visual cliff experiments (Gibson & Walk, 1960).",
-    "raw_text": "**What is innate: **Only two fears are documented as truly innate: (1) Loud noises — acoustic startle reflex, present at birth. (2) Falling — confirmed by visual cliff experiments (Gibson & Walk, 1960).",
-    "provenance_type": "PRE_CONVENTION",
+    "id": "rk_0332ae6528348ef9c57e",
+    "text": "Central observation : Humans are not born fearing God, hell, or divine punishment. Those specific fears require language, doctrine, and instruction; they are learned rather than present at birth.",
+    "raw_text": "**Central observation** ⟨YOURS⟩**:** Humans are not born fearing God, hell, or divine punishment. Those specific fears require language, doctrine, and instruction; they are learned rather than present at birth.",
+    "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
-    "speaker": null,
+    "speaker": "user",
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear"
+      "4.1 Learned Religious Fear"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -5067,16 +5067,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear",
     "source_reference": "paragraph:164",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -5090,8 +5090,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5099,9 +5099,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:165",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5114,27 +5114,29 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3be78d507285d4b45ad2",
-    "text": "STATUS: Collapses as stated. Do not use the \"two fears\" line. The conclusion below survives on better grounds — use the rebuilt version.",
-    "raw_text": "**STATUS: Collapses as stated. Do not use the \"two fears\" line. The conclusion below survives on better grounds — use the rebuilt version.**",
+    "id": "rk_83d4971e22d73f49d027",
+    "text": "STATUS: The original supporting claim was wrong; the central observation holds.",
+    "raw_text": "**STATUS: The original supporting claim was wrong; the central observation holds.**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_STATUS",
-    "status": "Collapses as stated. Do not use the \"two fears\" line. The conclusion below survives on better grounds — use the rebuilt version.",
+    "status": "The original supporting claim was wrong; the central observation holds.",
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:166",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
-    "related_ids": [],
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
+    "related_ids": [
+      "rk_44ed3183d74b3b954184"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -5146,27 +5148,29 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e772eeaa26efb710770d",
-    "text": "Why it fails. It rests on two studies and neither supports it.",
-    "raw_text": "**Why it fails.** It rests on two studies and neither supports it.",
+    "id": "rk_747374d3c3bab7c6977e",
+    "text": "AS RECORDED: Humans are born with only two fears, loud noises and falling. The studies commonly cited for that claim do not support it.",
+    "raw_text": "**AS RECORDED:** Humans are born with only two fears, loud noises and falling. The studies commonly cited for that claim do not support it.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CLAIM",
     "status": null,
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:167",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
-    "related_ids": [],
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
+    "related_ids": [
+      "rk_44ed3183d74b3b954184"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -5186,8 +5190,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5195,9 +5199,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:168",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5218,8 +5222,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5227,9 +5231,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:169",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5250,8 +5254,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5259,9 +5263,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:170",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5282,8 +5286,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5291,9 +5295,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:171",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5306,33 +5310,36 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_866e5f23c6088f0a81e6",
-    "text": "REBUILT VERSION.  Every prepared bias humans have is toward immediate, physically present, evolutionarily ancient threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.",
-    "raw_text": "**REBUILT VERSION.** ⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩ Every prepared bias humans have is toward **immediate, physically present, evolutionarily ancient** threats. Abstract supernatural fear is in none of them. Fear of hell requires language, narrative, doctrine, and instruction — it cannot be acquired without being taught.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
+    "id": "rk_44ed3183d74b3b954184",
+    "text": "CORRECTED: Newborns have defensive reflexes and humans have prepared biases that make some threats easier to learn. Neither amounts to an inborn fear of a particular god, hell, or divine punishment. Those concepts must first be communicated before they can become objects of fear.",
+    "raw_text": "**CORRECTED:** Newborns have defensive reflexes and humans have prepared biases that make some threats easier to learn. Neither amounts to an inborn fear of a particular god, hell, or divine punishment. Those concepts must first be communicated before they can become objects of fear.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CORRECTION",
     "status": null,
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:172",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
-    "related_ids": [],
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
+    "related_ids": [
+      "rk_747374d3c3bab7c6977e",
+      "rk_83d4971e22d73f49d027"
+    ],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "CONTEXTUAL",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE — the preparedness research is documented; applying it to religious fear is Claude's reasoning.⟩"
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -5346,8 +5353,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5355,9 +5362,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:173",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5370,16 +5377,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3b50ea734bf9b379372f",
-    "text": "•  \"There's no prepared fear response for an abstract afterlife. Every fear humans acquire fast is about something physically in front of them. Hell has to be taught — it can't be caught.\"",
-    "raw_text": "•  \"There's no prepared fear response for an abstract afterlife. Every fear humans acquire fast is about something physically in front of them. Hell has to be taught — it can't be caught.\"",
+    "id": "rk_1a72667a82c0c4ad3195",
+    "text": "•  \"Fear of hell depends on first learning what hell is; it is not present at birth.\"",
+    "raw_text": "•  \"Fear of hell depends on first learning what hell is; it is not present at birth.\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5387,9 +5394,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:174",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5402,16 +5409,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b05a4d48db4e95c507c3",
-    "text": "•  \"A child raised without the doctrine never spontaneously develops it. That's not true of heights or loud noises.\"",
-    "raw_text": "•  \"A child raised without the doctrine never spontaneously develops it. That's not true of heights or loud noises.\"",
+    "id": "rk_194719b4cf695ce00892",
+    "text": "•  \"Which parts of this fear came from experience, and which came from teaching?\"",
+    "raw_text": "•  \"Which parts of this fear came from experience, and which came from teaching?\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5419,9 +5426,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:175",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5442,8 +5449,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5451,9 +5458,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:176",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5474,8 +5481,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5483,9 +5490,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:177",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5498,16 +5505,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ac01737ade8eb445a40",
-    "text": "The nuance — this is now the main argument, not a footnote: Ohman and Mineka's preparedness model holds that certain fears are faster to acquire because they were evolutionary threats. Not innate; a faster learning channel. Still learned. Every prepared category is a physically present, ancient threat. Divine punishment is in none of them.",
-    "raw_text": "**The nuance — this is now the main argument, not a footnote: **Ohman and Mineka's preparedness model holds that certain fears are faster to acquire because they were evolutionary threats. Not innate; a faster learning channel. Still learned. Every prepared category is a physically present, ancient threat. Divine punishment is in none of them.",
+    "id": "rk_dfbb87b9dd4a33e52d18",
+    "text": "The nuance: Ohman and Mineka's preparedness model holds that certain fears are faster to acquire because they involve recurrent evolutionary threats. That is a learning bias, not evidence that a person is born with a specific religious fear.",
+    "raw_text": "**The nuance: **Ohman and Mineka's preparedness model holds that certain fears are faster to acquire because they involve recurrent evolutionary threats. That is a learning bias, not evidence that a person is born with a specific religious fear.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5515,9 +5522,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:178",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5538,8 +5545,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5547,9 +5554,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:179",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5562,16 +5569,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d99f956b98e68d3a83b9",
-    "text": "•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.",
-    "raw_text": "•  Fear of divine punishment is learned fear — culturally transmitted by the same religion that offers an answer to it. That sequence deserves examination.",
+    "id": "rk_ee700e20cc232a4ca228",
+    "text": "•  Fear of divine punishment depends on culturally transmitted concepts and teachings. That sequence deserves examination.",
+    "raw_text": "•  Fear of divine punishment depends on culturally transmitted concepts and teachings. That sequence deserves examination.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5579,9 +5586,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:180",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5602,8 +5609,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5611,9 +5618,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:181",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5626,16 +5633,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_30d64390738127e3b213",
-    "text": "•  \"The fear of God is a learned fear. Religion created the problem it claims to solve.\"",
-    "raw_text": "•  \"The fear of God is a learned fear. Religion created the problem it claims to solve.\"",
+    "id": "rk_ae57010804c24d3d7cd4",
+    "text": "•  \"Fear of God is learned through particular ideas, stories, and teachings.\"",
+    "raw_text": "•  \"Fear of God is learned through particular ideas, stories, and teachings.\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5643,9 +5650,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:182",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5666,8 +5673,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5675,9 +5682,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:183",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5690,16 +5697,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b7e45eddfaa5b025d75d",
-    "text": "•  \"Every fear humans are primed to learn fast is about something physically present — heights, loud noises, snakes, angry faces. Nothing abstract. Hell has to be taught.\"",
-    "raw_text": "•  \"Every fear humans are primed to learn fast is about something physically present — heights, loud noises, snakes, angry faces. Nothing abstract. Hell has to be taught.\"",
+    "id": "rk_c1b0871687014f7ef0b9",
+    "text": "•  \"How should the fact that this fear was learned affect the moral weight given to it?\"",
+    "raw_text": "•  \"How should the fact that this fear was learned affect the moral weight given to it?\"",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5707,9 +5714,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:184",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5730,8 +5737,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5739,9 +5746,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:185",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5762,8 +5769,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5771,9 +5778,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:186",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5794,8 +5801,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5803,9 +5810,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:187",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5826,8 +5833,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5835,9 +5842,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:188",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5858,8 +5865,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5867,9 +5874,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:189",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5890,8 +5897,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5899,9 +5906,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:190",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -5922,8 +5929,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": null,
     "topics": [
       "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY",
-      "4.1 Innate vs. Learned Fear",
-      "⚑ AUDIT — \"Only Two Innate Fears\""
+      "4.1 Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -5931,9 +5938,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
-    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Innate vs. Learned Fear > ⚑ AUDIT — \"Only Two Innate Fears\"",
+    "source_section": "4. FEAR, BELIEF, AND HUMAN PSYCHOLOGY > 4.1 Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:191",
-    "parent_id": "audit_ad1c7accc8c22ad29b5e",
+    "parent_id": "audit_ecd2e0586f9c2cde2d07",
     "related_ids": [],
     "tags": [],
     "citation": null,

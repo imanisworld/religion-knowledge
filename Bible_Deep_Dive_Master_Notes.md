@@ -26,19 +26,23 @@ Reading the Bible as historical/political literature, not devotional text. The g
 
 The Bible reads as: political theology, national origin myth and trauma literature, an evolving belief system, and an edited library — not one voice.
 
-**Core stance:**
+**Reading lens:**
 
-Not arguing for or against God. Evaluating moral coherence, justice framework, contradictions, and power dynamics. No 'God works in mysterious ways' hand-waving. Treat as literature shaped by politics and trauma, not a single divine manual.
+Historical, literary, and moral analysis of the text: its composition, context, internal differences, ethical claims, and treatment of power. The notes keep factual claims, source-grounded interpretations, and personal observations distinct so they can be checked while reading and revisited in conversation.
 
 ## 1. Big Framework Takeaways (Old Testament)
 
 ### 1.1 The Bible is not consistent
 
-'God' portrayal changes across centuries: tribal war-god → covenant lawgiver → cosmic judge → distant deity → comforter → universal ruler. Contradictions are preserved side-by-side, suggesting multiple sources and later editing across centuries.
+Biblical texts preserve different portrayals of God — warrior, lawgiver, judge, comforter, and universal ruler — sometimes side by side.
 
 ### 1.2 Early Israelite religion is transactional
 
-Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.
+Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is not the original point.
+
+**⟨DOCUMENTED — Babylonian Chronicles and standard historical chronology; see Historical Framework §2.2⟩:** Jerusalem fell and the Babylonian exile began in 586 BCE.
+
+**⟨INFERENCE — Claude's synthesis⟩:** Later biblical texts revisit covenant, suffering, and restoration in the aftermath of that catastrophe.
 
 ### 1.3 Job exposes flaws of that model
 
@@ -82,35 +86,31 @@ Why do later communities keep 'men don't sleep with men' but ignore mixed fabric
 
 When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.
 
-#### ⚑ AUDIT — "Humans Are Born With Only Two Innate Fears"
+### Learned Religious Fear
+
+⟨YOURS⟩ Humans are not born fearing God, hell, or divine punishment. Those specific fears require language, doctrine, and instruction; they are learned rather than present at birth.
+
+The earlier “only two innate fears” claim was incorrect, but it was never the central point. See Observations §4.1 for the developmental-psychology audit and corrected supporting evidence.
+
+#### ⚑ AUDIT — Is Religious Fear Innate or Learned?
 
 `CHECKED 7 AUG 2026`
 
-**AS RECORDED:** "Humans appear to be born with only two innate fears (loud noises, falling); culturally installed fear frameworks — including fear of divine punishment — are learned, not intrinsic." (Session notes.)
+**STATUS: The original supporting claim was wrong; the central observation holds.**
 
-**STATUS: Collapses as stated. The conclusion it was supporting survives on better grounds.**
+**AS RECORDED:** humans are born with only two fears, loud noises and falling. Developmental psychology does not support that count.
 
-**AUDIT**
+**Visual-cliff correction:** the classic study tested infants old enough to crawl, and later research ties wariness of heights to locomotor experience rather than showing an inborn fear of falling.
 
-The claim's circulation pattern is the first warning: CNN health features, motivational books, Facebook and Instagram posts. It is a pop-psychology staple, not a finding developmental psychology asserts.
+**Startle correction:** an acoustic startle reflex is a defensive reflex, not evidence of a fully formed emotional fear.
 
-It rests on exactly two studies, and neither supports it:
+**Category distinction:** innate defensive responses and prepared threat-learning biases are not the same as being born afraid of a specific religious concept.
 
-**Gibson & Walk (1960), the "visual cliff."** Tested infants aged **6 to 14 months** — children who could already crawl. That is not "born with." The standard developmental reading is that avoidance of the drop-off is tied to **locomotor experience** — crawling — not to age. **[VERIFIED, August 2026.]** Campos, Bertenthal & Kermoian, *Psychological Science* 3 (1992), report four studies: holding age constant, locomotor experience accounts for wariness of heights; artificial experience in a walker generates it; an orthopedically handicapped infant tested over time showed no wariness so long as he had no locomotor experience; and regardless of the age crawling begins, it is the *duration* of crawling and not age that predicts avoidance. Crawling infants show elevated heart rate on the deep side; pre-locomotor infants do not. Karen Adolph's later work pushes further still, arguing infants do not acquire a generalized fear of heights at all but learn what their own body can currently do. Either way, the fear is **built through experience**, which is the opposite of innate.
+**What the evidence supports:** a person must first learn the concepts of God, hell, and divine punishment before those concepts can become objects of fear.
 
-**Watson & Rayner (1920), "Little Albert."** Watson **hypothesized** that fear of loud noises is an innate unconditioned response — it was his premise, not his result. He also conceded in the published article that the fear he conditioned in the infant was neither strong nor lasting. The study is separately notorious on methodological and ethical grounds.
+**CORRECTED:** *The “two innate fears” claim was wrong. The observation that fear of God, hell, and divine punishment is learned still holds.*
 
-**The core category error:** the acoustic startle reflex and the Moro reflex are **reflexes** — brainstem-level defensive responses — not fears. Fear is a functional emotional state with appraisal. Conflating the two is what makes the claim sound rigorous.
-
-**What developmental psychology actually holds:** newborns display a limited set of innate defensive responses (startle to loud sound, Moro reflex to sudden loss of support, withdrawal from pain). Fear as a functional emotion develops through innate predispositions plus maturation plus learning. And the predispositions are **not two** — infants are biased toward rapid threat learning about loud abrupt sounds, sudden loss of support, looming objects, snake- and spider-like visual features, angry faces, and social separation. Stranger anxiety and separation anxiety emerge around 6–12 months; fear of the dark, animals, and the unknown in toddlerhood; cognitive fears of social evaluation, harm, and death from school age.
-
-**CORRECTED:** *Humans are not born with two fears. Newborns have defensive reflexes, and a broader set of evolutionarily prepared biases that make certain threats fast to learn. Fear as an emotion is constructed developmentally.*
-
-**WHAT SURVIVES, AND IT IS THE PART THAT MATTERED** ⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩**:** Fear of divine punishment is not innate. That conclusion never needed the "two fears" premise, and it stands on stronger ground without it — the prepared biases are all toward **immediate, physically present, evolutionarily ancient** threat classes. Abstract supernatural fears are in none of them. Fear of hell requires language, narrative, doctrine, and instruction. It is transmitted, not inherited. Make that argument instead; it is both true and unfalsifiable by the counterexample that sinks the two-fears version.
-
-**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It is clean, memorable, quantified, and it arrives pre-packaged as a fact. Numbers in a claim create an impression of measurement. The specificity of "two" is doing rhetorical work that no study supports.
-
----
+**Sources and fuller audit:** Observations §4.1; Campos, Bertenthal & Kermoian (1992); Adolph's work on posture-specific learning; Ohman & Mineka (2001).
 
 ### 1.7 Israel as people vs. place
 

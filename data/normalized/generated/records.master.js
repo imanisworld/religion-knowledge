@@ -216,9 +216,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f6c4a611c175f21e6a86",
-    "text": "Core stance:",
-    "raw_text": "**Core stance:**",
+    "id": "rk_ed06b74428a4632db851",
+    "text": "Reading lens:",
+    "raw_text": "**Reading lens:**",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -227,7 +227,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "0. Reading Approach & Stance"
     ],
     "subtopics": [],
-    "record_type": "POSITION",
+    "record_type": "OBSERVATION",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -247,9 +247,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fe0c9d9188f7bf5cbaf8",
-    "text": "Not arguing for or against God. Evaluating moral coherence, justice framework, contradictions, and power dynamics. No 'God works in mysterious ways' hand-waving. Treat as literature shaped by politics and trauma, not a single divine manual.",
-    "raw_text": "Not arguing for or against God. Evaluating moral coherence, justice framework, contradictions, and power dynamics. No 'God works in mysterious ways' hand-waving. Treat as literature shaped by politics and trauma, not a single divine manual.",
+    "id": "rk_bd932cc3cce849010afd",
+    "text": "Historical, literary, and moral analysis of the text: its composition, context, internal differences, ethical claims, and treatment of power. The notes keep factual claims, source-grounded interpretations, and personal observations distinct so they can be checked while reading and revisited in conversation.",
+    "raw_text": "Historical, literary, and moral analysis of the text: its composition, context, internal differences, ethical claims, and treatment of power. The notes keep factual claims, source-grounded interpretations, and personal observations distinct so they can be checked while reading and revisited in conversation.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -278,9 +278,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e9ed6553b0633b9f6e42",
-    "text": "'God' portrayal changes across centuries: tribal war-god → covenant lawgiver → cosmic judge → distant deity → comforter → universal ruler. Contradictions are preserved side-by-side, suggesting multiple sources and later editing across centuries.",
-    "raw_text": "'God' portrayal changes across centuries: tribal war-god → covenant lawgiver → cosmic judge → distant deity → comforter → universal ruler. Contradictions are preserved side-by-side, suggesting multiple sources and later editing across centuries.",
+    "id": "rk_4021e5ad4bdc4856aa02",
+    "text": "Biblical texts preserve different portrayals of God — warrior, lawgiver, judge, comforter, and universal ruler — sometimes side by side.",
+    "raw_text": "Biblical texts preserve different portrayals of God — warrior, lawgiver, judge, comforter, and universal ruler — sometimes side by side.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -310,9 +310,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a01d0bf90c5a6d54494c",
-    "text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.",
-    "raw_text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is NOT the original point. After Jerusalem's destruction and the exile in 586 BCE, later biblical texts reinterpret covenant, suffering, and restoration in response to the catastrophe.",
+    "id": "rk_d7e6745c3b3e9a996793",
+    "text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is not the original point.",
+    "raw_text": "Covenant model: obey = blessings (now), disobey = suffering (now). Afterlife theology is not the original point.",
     "provenance_type": "PRE_CONVENTION",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -342,7 +342,71 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_123d19c75c01e4694b86",
+    "id": "rk_95baa4d944bd8be4dd72",
+    "text": ": Jerusalem fell and the Babylonian exile began in 586 BCE.",
+    "raw_text": "**⟨DOCUMENTED — Babylonian Chronicles and standard historical chronology; see Historical Framework §2.2⟩:** Jerusalem fell and the Babylonian exile began in 586 BCE.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.2 Early Israelite religion is transactional"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.2 Early Israelite religion is transactional",
+    "source_reference": "paragraph:12",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED — Babylonian Chronicles and standard historical chronology; see Historical Framework §2.2⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d92dad4590d7022c26f0",
+    "text": ": Later biblical texts revisit covenant, suffering, and restoration in the aftermath of that catastrophe.",
+    "raw_text": "**⟨INFERENCE — Claude's synthesis⟩:** Later biblical texts revisit covenant, suffering, and restoration in the aftermath of that catastrophe.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.2 Early Israelite religion is transactional"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.2 Early Israelite religion is transactional",
+    "source_reference": "paragraph:13",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE — Claude's synthesis⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8d71df1337697578690d",
     "text": "Job challenges the idea that suffering proves guilt. God answers with power and riddles, not moral explanation. 'Ha-satan' appears as the Accuser — a legal/adversarial role in the divine court, not a personified cosmic evil. This is a major theological pivot.",
     "raw_text": "Job challenges the idea that suffering proves guilt. God answers with power and riddles, not moral explanation. 'Ha-satan' appears as the Accuser — a legal/adversarial role in the divine court, not a personified cosmic evil. This is a major theological pivot.",
     "provenance_type": "PRE_CONVENTION",
@@ -360,7 +424,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model",
-    "source_reference": "paragraph:12",
+    "source_reference": "paragraph:14",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -374,7 +438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c988247dceb131de9e11",
+    "id": "rk_b7c5905cc12b28a03149",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -393,7 +457,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:13",
+    "source_reference": "paragraph:15",
     "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
@@ -407,7 +471,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a24ceb703582cc8ad4d9",
+    "id": "rk_718b65363cfbb4a2adc4",
     "text": "AS RECORDED: Job's Satan is a functionary in the divine court, not the cosmic devil of later tradition. (§1.3, §2.)",
     "raw_text": "**AS RECORDED:** Job's Satan is a functionary in the divine court, not the cosmic devil of later tradition. (§1.3, §2.)",
     "provenance_type": "SOURCE",
@@ -426,10 +490,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:14",
+    "source_reference": "paragraph:16",
     "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [
-      "rk_5e1c2f7df46ec3431c4e"
+      "rk_85c4cfda014637cdf523"
     ],
     "tags": [],
     "citation": null,
@@ -442,7 +506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d3aec1da17a26d95cd67",
+    "id": "rk_ebca4a1a66d150f49e0d",
     "text": "STATUS: Holds, cleanly. This is one of the best-supported claims in the entire document — strengthen the citation, no correction needed to the substance.",
     "raw_text": "**STATUS: Holds, cleanly. This is one of the best-supported claims in the entire document — strengthen the citation, no correction needed to the substance.**",
     "provenance_type": "SOURCE",
@@ -461,77 +525,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:15",
-    "parent_id": "audit_daa183fa5477c6313078",
-    "related_ids": [
-      "rk_5e1c2f7df46ec3431c4e"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_2fea4bd1497d7a3a182f",
-    "text": "AUDIT",
-    "raw_text": "**AUDIT**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.3 Job exposes flaws of that model",
-      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:16",
-    "parent_id": "audit_daa183fa5477c6313078",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ed2abfe39938b4abe212",
-    "text": "The philology is not contested. Ha-satan — the definite article ha plus satan (\"adversary,\" \"accuser,\" carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the bene ha-elohim (\"sons of God\"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. The standing scholarly reference for this reading is Peggy L. Day [CRITICAL], An Adversary in Heaven: śāṭān in the Hebrew Bible (Scholars Press, 1988) — the field's classic monograph on exactly this claim. Henry Ansgar Kelly [CRITICAL], Satan: A Biography (Cambridge, 2006), covers the same ground in more recent, broader scope.",
-    "raw_text": "**The philology is not contested.** *Ha-satan* — the definite article *ha* plus *satan* (\"adversary,\" \"accuser,\" carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the *bene ha-elohim* (\"sons of God\"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. **The standing scholarly reference for this reading is Peggy L. Day** [CRITICAL], *An Adversary in Heaven: śāṭān in the Hebrew Bible* (Scholars Press, 1988) — the field's classic monograph on exactly this claim. **Henry Ansgar Kelly** [CRITICAL], *Satan: A Biography* (Cambridge, 2006), covers the same ground in more recent, broader scope.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.3 Job exposes flaws of that model",
-      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
     "source_reference": "paragraph:17",
     "parent_id": "audit_daa183fa5477c6313078",
-    "related_ids": [],
+    "related_ids": [
+      "rk_85c4cfda014637cdf523"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -543,9 +541,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6f773c84d36a24d557b3",
-    "text": "One precise detail worth adding, because it closes an obvious objection: ha-satan is never once called a malakh (\"angel\" / \"messenger\") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the malakhim who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.",
-    "raw_text": "**One precise detail worth adding, because it closes an obvious objection:** ha-satan is never once called a *malakh* (\"angel\" / \"messenger\") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the *malakhim* who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.",
+    "id": "rk_5786c7647c46882be555",
+    "text": "AUDIT",
+    "raw_text": "**AUDIT**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -576,9 +574,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f1ea928bc1cefa99529e",
-    "text": "The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely. It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: 1 Enoch has rebel \"Watchers\" descending and corrupting the earth. Jubilees introduces a named prince, Mastema, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The Testament of Job (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the original figure as bounded and subordinate.",
-    "raw_text": "**The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely.** It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: **1 Enoch** has rebel \"Watchers\" descending and corrupting the earth. **Jubilees** introduces a named prince, **Mastema**, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The **Testament of Job** (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the *original* figure as bounded and subordinate.",
+    "id": "rk_372e7cd2afe5219144b7",
+    "text": "The philology is not contested. Ha-satan — the definite article ha plus satan (\"adversary,\" \"accuser,\" carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the bene ha-elohim (\"sons of God\"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. The standing scholarly reference for this reading is Peggy L. Day [CRITICAL], An Adversary in Heaven: śāṭān in the Hebrew Bible (Scholars Press, 1988) — the field's classic monograph on exactly this claim. Henry Ansgar Kelly [CRITICAL], Satan: A Biography (Cambridge, 2006), covers the same ground in more recent, broader scope.",
+    "raw_text": "**The philology is not contested.** *Ha-satan* — the definite article *ha* plus *satan* (\"adversary,\" \"accuser,\" carrying legal/prosecutorial connotation) — is a title, not a proper name. Job 1:6 introduces him among the *bene ha-elohim* (\"sons of God\"), members of the divine council, presenting himself before YHWH like every other courtier. He cannot act without explicit divine authorization (1:12, 2:6) and operates within stated limits at every step. Zechariah 3:1–2 shows the same figure functioning as a prosecuting attorney in a heavenly courtroom scene involving the high priest Joshua. **The standing scholarly reference for this reading is Peggy L. Day** [CRITICAL], *An Adversary in Heaven: śāṭān in the Hebrew Bible* (Scholars Press, 1988) — the field's classic monograph on exactly this claim. **Henry Ansgar Kelly** [CRITICAL], *Satan: A Biography* (Cambridge, 2006), covers the same ground in more recent, broader scope.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -609,9 +607,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_52e8a0e0981d84a44a59",
-    "text": "On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4: the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — Mary Boyce [CRITICAL, the standard Zoroastrian-studies authority], Zoroastrians: Their Religious Beliefs and Practices. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.",
-    "raw_text": "**On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4:** the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — **Mary Boyce** [CRITICAL, the standard Zoroastrian-studies authority], *Zoroastrians: Their Religious Beliefs and Practices*. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.",
+    "id": "rk_e5d28b8a16b178289b9e",
+    "text": "One precise detail worth adding, because it closes an obvious objection: ha-satan is never once called a malakh (\"angel\" / \"messenger\") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the malakhim who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.",
+    "raw_text": "**One precise detail worth adding, because it closes an obvious objection:** ha-satan is never once called a *malakh* (\"angel\" / \"messenger\") anywhere in the Hebrew Bible. Angels in the Hebrew Bible are a distinct category — messengers, like the figure warning Balaam (Numbers 22) or the *malakhim* who destroy Sodom (Genesis 19). Ha-satan belongs to a different category: a courtroom/prosecutorial role within the divine council, not the messenger class later tradition folds him into.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -642,7 +640,73 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5e1c2f7df46ec3431c4e",
+    "id": "rk_f615b1a87505857fd550",
+    "text": "The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely. It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: 1 Enoch has rebel \"Watchers\" descending and corrupting the earth. Jubilees introduces a named prince, Mastema, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The Testament of Job (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the original figure as bounded and subordinate.",
+    "raw_text": "**The development into the cosmic villain is genuinely post-biblical, and the timeline is worth having precisely.** It does not happen in the Hebrew Bible. It happens in Second Temple intertestamental literature: **1 Enoch** has rebel \"Watchers\" descending and corrupting the earth. **Jubilees** introduces a named prince, **Mastema**, who commands demons and petitions God directly for jurisdiction over the disobedient — a figure with subordinates, territory, and an agenda, which ha-satan in Job never has. The **Testament of Job** (1st c. BCE/CE) rewrites the Job narrative itself with an openly hostile, rebellious antagonist — a late reinterpretation of the very story that shows the *original* figure as bounded and subordinate.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:21",
+    "parent_id": "audit_daa183fa5477c6313078",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b959b5fd749782113cfc",
+    "text": "On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4: the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — Mary Boyce [CRITICAL, the standard Zoroastrian-studies authority], Zoroastrians: Their Religious Beliefs and Practices. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.",
+    "raw_text": "**On foreign influence — flag this as contested rather than asserted, per the general Second Temple correction already applied at Historical Framework §2.4:** the resemblance between Second Temple dualism (a cosmic evil figure opposed to God) and Zoroastrian cosmology (Angra Mainyu / the Hostile Spirit opposed to Ahura Mazda, under Persian imperial rule over Judea) is real and widely noted — **Mary Boyce** [CRITICAL, the standard Zoroastrian-studies authority], *Zoroastrians: Their Religious Beliefs and Practices*. But direct textual borrowing is not provable from the evidence that survives. State it as a documented resonance worth taking seriously, not as demonstrated influence — this is the same caution already built into the corrected §2.4 language, and it should be applied consistently here rather than re-litigated as settled.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "1.3 Job exposes flaws of that model",
+      "⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
+    "source_reference": "paragraph:22",
+    "parent_id": "audit_daa183fa5477c6313078",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_85c4cfda014637cdf523",
     "text": "CORRECTED: No change to the substance — this claim survives audit intact. Ha-satan in Job and Zechariah is a bounded, subordinate prosecutorial role within the divine council, never called an angel, operating only under explicit divine authorization. The cosmic-adversary Satan of later Christian tradition develops in identifiable post-biblical texts — 1 Enoch, Jubilees, the Testament of Job — not in the Hebrew Bible itself. Possible Zoroastrian influence on that later development is a real scholarly conversation, not a demonstrated fact.",
     "raw_text": "**CORRECTED:** *No change to the substance — this claim survives audit intact. Ha-satan in Job and Zechariah is a bounded, subordinate prosecutorial role within the divine council, never called an angel, operating only under explicit divine authorization. The cosmic-adversary Satan of later Christian tradition develops in identifiable post-biblical texts — 1 Enoch, Jubilees, the Testament of Job — not in the Hebrew Bible itself. Possible Zoroastrian influence on that later development is a real scholarly conversation, not a demonstrated fact.*",
     "provenance_type": "SOURCE",
@@ -661,11 +725,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:21",
+    "source_reference": "paragraph:23",
     "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [
-      "rk_a24ceb703582cc8ad4d9",
-      "rk_d3aec1da17a26d95cd67"
+      "rk_718b65363cfbb4a2adc4",
+      "rk_ebca4a1a66d150f49e0d"
     ],
     "tags": [],
     "citation": null,
@@ -678,7 +742,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1e858861b9cc9fc3a8be",
+    "id": "rk_619e10f78565a5b70c3b",
     "text": "WHY IT LOOKED RIGHT : because it's correct — this is the one item in the queue that needed no correction, only better sourcing. Worth noting for calibration: not everything in the original notes was overstated. Recording \"holds, no change\" is as much the point of the audit process as recording a collapse.",
     "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** because it's correct — this is the one item in the queue that needed no correction, only better sourcing. Worth noting for calibration: not everything in the original notes was overstated. Recording \"holds, no change\" is as much the point of the audit process as recording a collapse.",
     "provenance_type": "CLAUDE",
@@ -697,7 +761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:22",
+    "source_reference": "paragraph:24",
     "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
@@ -711,7 +775,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d188ec3b542bcb595280",
+    "id": "rk_c3969cd7200969a247d3",
     "text": "Reading and conversation note: Job 1 itself never says that ha-satan rebels, falls, or acts independently of God. That later rebellion story should be distinguished from the role presented in this earlier text.",
     "raw_text": "**Reading and conversation note:** Job 1 itself never says that ha-satan rebels, falls, or acts independently of God. That later rebellion story should be distinguished from the role presented in this earlier text.",
     "provenance_type": "SOURCE",
@@ -730,7 +794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.3 Job exposes flaws of that model > ⚑ AUDIT — Ha-Satan: Adversarial Role, Not Cosmic Villain",
-    "source_reference": "paragraph:23",
+    "source_reference": "paragraph:25",
     "parent_id": "audit_daa183fa5477c6313078",
     "related_ids": [],
     "tags": [],
@@ -744,7 +808,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0cc24b6e28a7cbf70efc",
+    "id": "rk_120e64aeadc030d21b1e",
     "text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
     "raw_text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
     "provenance_type": "PRE_CONVENTION",
@@ -762,7 +826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.4 Moral discomfort is constant",
-    "source_reference": "paragraph:24",
+    "source_reference": "paragraph:26",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -776,7 +840,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b7e553930460c4a624e6",
+    "id": "rk_134f14f90cf9a22a7484",
     "text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
     "raw_text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
     "provenance_type": "PRE_CONVENTION",
@@ -794,7 +858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.5 Selective law-keeping exposes human power",
-    "source_reference": "paragraph:25",
+    "source_reference": "paragraph:27",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -808,7 +872,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_99a291b0fdf165458bf9",
+    "id": "rk_d60ce744aa1c9ef00557",
     "text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
     "raw_text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
     "provenance_type": "PRE_CONVENTION",
@@ -826,7 +890,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing",
-    "source_reference": "paragraph:26",
+    "source_reference": "paragraph:28",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -840,7 +904,71 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_842c569fff106cdbce90",
+    "id": "rk_a047cef1e5fdf263421b",
+    "text": "Humans are not born fearing God, hell, or divine punishment. Those specific fears require language, doctrine, and instruction; they are learned rather than present at birth.",
+    "raw_text": "⟨YOURS⟩ Humans are not born fearing God, hell, or divine punishment. Those specific fears require language, doctrine, and instruction; they are learned rather than present at birth.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "Learned Religious Fear"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear",
+    "source_reference": "paragraph:29",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e0d06bdf82dfb576f3ad",
+    "text": "The earlier “only two innate fears” claim was incorrect, but it was never the central point. See Observations §4.1 for the developmental-psychology audit and corrected supporting evidence.",
+    "raw_text": "The earlier “only two innate fears” claim was incorrect, but it was never the central point. See Observations §4.1 for the developmental-psychology audit and corrected supporting evidence.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "Learned Religious Fear"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear",
+    "source_reference": "paragraph:30",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fde549e9d2f884edfc88",
     "text": "CHECKED 7 AUG 2026",
     "raw_text": "`CHECKED 7 AUG 2026`",
     "provenance_type": "SOURCE",
@@ -849,8 +977,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -858,9 +986,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:27",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
+    "source_reference": "paragraph:31",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -873,17 +1001,52 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8e86686fd6898ab1cd40",
-    "text": "AS RECORDED: \"Humans appear to be born with only two innate fears (loud noises, falling); culturally installed fear frameworks — including fear of divine punishment — are learned, not intrinsic.\" (Session notes.)",
-    "raw_text": "**AS RECORDED:** \"Humans appear to be born with only two innate fears (loud noises, falling); culturally installed fear frameworks — including fear of divine punishment — are learned, not intrinsic.\" (Session notes.)",
+    "id": "rk_628fccda63616027c3cc",
+    "text": "STATUS: The original supporting claim was wrong; the central observation holds.",
+    "raw_text": "**STATUS: The original supporting claim was wrong; the central observation holds.**",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_STATUS",
+    "status": "The original supporting claim was wrong; the central observation holds.",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
+    "source_reference": "paragraph:32",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
+    "related_ids": [
+      "rk_5dd64a643874e4908051"
+    ],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_30d51b78e1e5b9920d43",
+    "text": "AS RECORDED: humans are born with only two fears, loud noises and falling. Developmental psychology does not support that count.",
+    "raw_text": "**AS RECORDED:** humans are born with only two fears, loud noises and falling. Developmental psychology does not support that count.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "CLAIM",
@@ -891,179 +1054,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:28",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [
-      "rk_7547132df08203961aab"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_eac534bdf2030f1e06a7",
-    "text": "STATUS: Collapses as stated. The conclusion it was supporting survives on better grounds.",
-    "raw_text": "**STATUS: Collapses as stated. The conclusion it was supporting survives on better grounds.**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_STATUS",
-    "status": "Collapses as stated. The conclusion it was supporting survives on better grounds.",
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:29",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [
-      "rk_7547132df08203961aab"
-    ],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5031e1a3ce1eb05fd483",
-    "text": "AUDIT",
-    "raw_text": "**AUDIT**",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:30",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_8638f32dde7d0bedb522",
-    "text": "The claim's circulation pattern is the first warning: CNN health features, motivational books, Facebook and Instagram posts. It is a pop-psychology staple, not a finding developmental psychology asserts.",
-    "raw_text": "The claim's circulation pattern is the first warning: CNN health features, motivational books, Facebook and Instagram posts. It is a pop-psychology staple, not a finding developmental psychology asserts.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:31",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_794886ab40d0c2c42910",
-    "text": "It rests on exactly two studies, and neither supports it:",
-    "raw_text": "It rests on exactly two studies, and neither supports it:",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:32",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "CONTEXTUAL",
-    "attribution_evidence": {
-      "method": "audit_body_rule",
-      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_842c843de3651483697e",
-    "text": "Gibson & Walk (1960), the \"visual cliff.\" Tested infants aged 6 to 14 months — children who could already crawl. That is not \"born with.\" The standard developmental reading is that avoidance of the drop-off is tied to locomotor experience — crawling — not to age. [VERIFIED, August 2026.] Campos, Bertenthal & Kermoian, Psychological Science 3 (1992), report four studies: holding age constant, locomotor experience accounts for wariness of heights; artificial experience in a walker generates it; an orthopedically handicapped infant tested over time showed no wariness so long as he had no locomotor experience; and regardless of the age crawling begins, it is the duration of crawling and not age that predicts avoidance. Crawling infants show elevated heart rate on the deep side; pre-locomotor infants do not. Karen Adolph's later work pushes further still, arguing infants do not acquire a generalized fear of heights at all but learn what their own body can currently do. Either way, the fear is built through experience, which is the opposite of innate.",
-    "raw_text": "**Gibson & Walk (1960), the \"visual cliff.\"** Tested infants aged **6 to 14 months** — children who could already crawl. That is not \"born with.\" The standard developmental reading is that avoidance of the drop-off is tied to **locomotor experience** — crawling — not to age. **[VERIFIED, August 2026.]** Campos, Bertenthal & Kermoian, *Psychological Science* 3 (1992), report four studies: holding age constant, locomotor experience accounts for wariness of heights; artificial experience in a walker generates it; an orthopedically handicapped infant tested over time showed no wariness so long as he had no locomotor experience; and regardless of the age crawling begins, it is the *duration* of crawling and not age that predicts avoidance. Crawling infants show elevated heart rate on the deep side; pre-locomotor infants do not. Karen Adolph's later work pushes further still, arguing infants do not acquire a generalized fear of heights at all but learn what their own body can currently do. Either way, the fear is **built through experience**, which is the opposite of innate.",
-    "provenance_type": "SOURCE",
-    "representation_type": "PARAPHRASE",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_NOTE",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:33",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [],
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
+    "related_ids": [
+      "rk_5dd64a643874e4908051"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -1075,17 +1071,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bb48bf208b0c85d9ca01",
-    "text": "Watson & Rayner (1920), \"Little Albert.\" Watson hypothesized that fear of loud noises is an innate unconditioned response — it was his premise, not his result. He also conceded in the published article that the fear he conditioned in the infant was neither strong nor lasting. The study is separately notorious on methodological and ethical grounds.",
-    "raw_text": "**Watson & Rayner (1920), \"Little Albert.\"** Watson **hypothesized** that fear of loud noises is an innate unconditioned response — it was his premise, not his result. He also conceded in the published article that the fear he conditioned in the infant was neither strong nor lasting. The study is separately notorious on methodological and ethical grounds.",
+    "id": "rk_c0691dd70f3b5cf1b048",
+    "text": "Visual-cliff correction: the classic study tested infants old enough to crawl, and later research ties wariness of heights to locomotor experience rather than showing an inborn fear of falling.",
+    "raw_text": "**Visual-cliff correction:** the classic study tested infants old enough to crawl, and later research ties wariness of heights to locomotor experience rather than showing an inborn fear of falling.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -1093,9 +1089,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:34",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1108,17 +1104,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8fb6345bbc7f73589fdc",
-    "text": "The core category error: the acoustic startle reflex and the Moro reflex are reflexes — brainstem-level defensive responses — not fears. Fear is a functional emotional state with appraisal. Conflating the two is what makes the claim sound rigorous.",
-    "raw_text": "**The core category error:** the acoustic startle reflex and the Moro reflex are **reflexes** — brainstem-level defensive responses — not fears. Fear is a functional emotional state with appraisal. Conflating the two is what makes the claim sound rigorous.",
+    "id": "rk_c38412f2e000c37c4a3f",
+    "text": "Startle correction: an acoustic startle reflex is a defensive reflex, not evidence of a fully formed emotional fear.",
+    "raw_text": "**Startle correction:** an acoustic startle reflex is a defensive reflex, not evidence of a fully formed emotional fear.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -1126,9 +1122,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:35",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1141,17 +1137,17 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ad51ab689e313adb2212",
-    "text": "What developmental psychology actually holds: newborns display a limited set of innate defensive responses (startle to loud sound, Moro reflex to sudden loss of support, withdrawal from pain). Fear as a functional emotion develops through innate predispositions plus maturation plus learning. And the predispositions are not two — infants are biased toward rapid threat learning about loud abrupt sounds, sudden loss of support, looming objects, snake- and spider-like visual features, angry faces, and social separation. Stranger anxiety and separation anxiety emerge around 6–12 months; fear of the dark, animals, and the unknown in toddlerhood; cognitive fears of social evaluation, harm, and death from school age.",
-    "raw_text": "**What developmental psychology actually holds:** newborns display a limited set of innate defensive responses (startle to loud sound, Moro reflex to sudden loss of support, withdrawal from pain). Fear as a functional emotion develops through innate predispositions plus maturation plus learning. And the predispositions are **not two** — infants are biased toward rapid threat learning about loud abrupt sounds, sudden loss of support, looming objects, snake- and spider-like visual features, angry faces, and social separation. Stranger anxiety and separation anxiety emerge around 6–12 months; fear of the dark, animals, and the unknown in toddlerhood; cognitive fears of social evaluation, harm, and death from school age.",
+    "id": "rk_bb36347b35b386ed5f45",
+    "text": "Category distinction: innate defensive responses and prepared threat-learning biases are not the same as being born afraid of a specific religious concept.",
+    "raw_text": "**Category distinction:** innate defensive responses and prepared threat-learning biases are not the same as being born afraid of a specific religious concept.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "AUDIT_NOTE",
@@ -1159,9 +1155,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:36",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
     "related_ids": [],
     "tags": [],
     "citation": null,
@@ -1174,17 +1170,50 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7547132df08203961aab",
-    "text": "CORRECTED: Humans are not born with two fears. Newborns have defensive reflexes, and a broader set of evolutionarily prepared biases that make certain threats fast to learn. Fear as an emotion is constructed developmentally.",
-    "raw_text": "**CORRECTED:** *Humans are not born with two fears. Newborns have defensive reflexes, and a broader set of evolutionarily prepared biases that make certain threats fast to learn. Fear as an emotion is constructed developmentally.*",
+    "id": "rk_ad9858a7aa9f60444eb6",
+    "text": "What the evidence supports: a person must first learn the concepts of God, hell, and divine punishment before those concepts can become objects of fear.",
+    "raw_text": "**What the evidence supports:** a person must first learn the concepts of God, hell, and divine punishment before those concepts can become objects of fear.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
+    ],
+    "subtopics": [],
+    "record_type": "AUDIT_NOTE",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
+    "source_reference": "paragraph:37",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "CONTEXTUAL",
+    "attribution_evidence": {
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5dd64a643874e4908051",
+    "text": "CORRECTED: The “two innate fears” claim was wrong. The observation that fear of God, hell, and divine punishment is learned still holds.",
+    "raw_text": "**CORRECTED:** *The “two innate fears” claim was wrong. The observation that fear of God, hell, and divine punishment is learned still holds.*",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "1. Big Framework Takeaways (Old Testament)",
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
     "record_type": "CORRECTION",
@@ -1192,12 +1221,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:37",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
+    "source_reference": "paragraph:38",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
     "related_ids": [
-      "rk_8e86686fd6898ab1cd40",
-      "rk_eac534bdf2030f1e06a7"
+      "rk_30d51b78e1e5b9920d43",
+      "rk_628fccda63616027c3cc"
     ],
     "tags": [],
     "citation": null,
@@ -1210,67 +1239,34 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0342d1b95d900f519c7a",
-    "text": "WHAT SURVIVES, AND IT IS THE PART THAT MATTERED : Fear of divine punishment is not innate. That conclusion never needed the \"two fears\" premise, and it stands on stronger ground without it — the prepared biases are all toward immediate, physically present, evolutionarily ancient threat classes. Abstract supernatural fears are in none of them. Fear of hell requires language, narrative, doctrine, and instruction. It is transmitted, not inherited. Make that argument instead; it is both true and unfalsifiable by the counterexample that sinks the two-fears version.",
-    "raw_text": "**WHAT SURVIVES, AND IT IS THE PART THAT MATTERED** ⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩**:** Fear of divine punishment is not innate. That conclusion never needed the \"two fears\" premise, and it stands on stronger ground without it — the prepared biases are all toward **immediate, physically present, evolutionarily ancient** threat classes. Abstract supernatural fears are in none of them. Fear of hell requires language, narrative, doctrine, and instruction. It is transmitted, not inherited. Make that argument instead; it is both true and unfalsifiable by the counterexample that sinks the two-fears version.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
+    "id": "rk_75191d866b1d881d24bc",
+    "text": "Sources and fuller audit: Observations §4.1; Campos, Bertenthal & Kermoian (1992); Adolph's work on posture-specific learning; Ohman & Mineka (2001).",
+    "raw_text": "**Sources and fuller audit:** Observations §4.1; Campos, Bertenthal & Kermoian (1992); Adolph's work on posture-specific learning; Ohman & Mineka (2001).",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
+      "Learned Religious Fear",
+      "⚑ AUDIT — Is Religious Fear Innate or Learned?"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_SURVIVAL",
+    "record_type": "AUDIT_NOTE",
     "status": null,
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
-    "source_reference": "paragraph:38",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "PROVEN",
-    "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE — the developmental findings are documented; applying them to religious fear is Claude's reasoning⟩"
-    },
-    "review_required": false,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e7cb97cb110c29b72ef5",
-    "text": "WHY IT LOOKED RIGHT : It is clean, memorable, quantified, and it arrives pre-packaged as a fact. Numbers in a claim create an impression of measurement. The specificity of \"two\" is doing rhetorical work that no study supports.",
-    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** It is clean, memorable, quantified, and it arrives pre-packaged as a fact. Numbers in a claim create an impression of measurement. The specificity of \"two\" is doing rhetorical work that no study supports.",
-    "provenance_type": "CLAUDE",
-    "representation_type": "INFERENCE",
-    "speaker": "Claude",
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "1. Big Framework Takeaways (Old Testament)",
-      "1.6 Misattribution of healing",
-      "⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\""
-    ],
-    "subtopics": [],
-    "record_type": "AUDIT_REASONING",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > 1.6 Misattribution of healing > ⚑ AUDIT — \"Humans Are Born With Only Two Innate Fears\"",
+    "source_section": "Bible Deep Dive: Study Notes > 1. Big Framework Takeaways (Old Testament) > Learned Religious Fear > ⚑ AUDIT — Is Religious Fear Innate or Learned?",
     "source_reference": "paragraph:39",
-    "parent_id": "audit_6ddb64507d3b54f0846b",
+    "parent_id": "audit_2f35acdd0ff48556c0f2",
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "PROVEN",
+    "attribution_confidence": "CONTEXTUAL",
     "attribution_evidence": {
-      "method": "explicit_marker",
-      "value": "⟨INFERENCE⟩"
+      "method": "audit_body_rule",
+      "value": "Unmarked audit-body claim; document provenance rule says unmarked audit claims are documented."
     },
     "review_required": false,
     "parser_version": "1.2.0"
