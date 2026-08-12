@@ -8108,7 +8108,455 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1be19bf454c09249bdc2",
+    "id": "rk_f3e2ff0f9250e8f3c7a0",
+    "text": "Paul's chain: Abraham believed and it was \"reckoned to him as righteousness\" (3:6, quoting Genesis 15:6) → \"those who believe are the descendants of Abraham\" (3:7) → \"cursed be anyone who does not observe and obey all the things written in the book of the law\" (3:10, quoting Deuteronomy 27:26) → Christ \"redeemed us from the curse of the law by becoming a curse for us\" (3:13, quoting Deuteronomy 21:23).",
+    "raw_text": "Paul's chain: Abraham believed and it was \"reckoned to him as righteousness\" (3:6, quoting Genesis 15:6) → \"those who believe are the descendants of Abraham\" (3:7) → \"cursed be anyone who does not observe and obey all the things written in the book of the law\" (3:10, quoting Deuteronomy 27:26) → Christ \"redeemed us from the curse of the law by becoming a curse for us\" (3:13, quoting Deuteronomy 21:23).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.3 The Abraham argument and the curse of the law (3:6–14)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.3 The Abraham argument and the curse of the law (3:6–14)",
+    "source_reference": "paragraph:248",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3487fec9c44c12c44f4c",
+    "text": "The traditional reading holds the curse falls on the impossibility of total law observance — nobody keeps all of it, so anyone relying on law-keeping is under the curse by definition. Thomas Schreiner [EVANGELICAL], \"Is Perfect Obedience to the Law Possible? A Re-Examination of Galatians 3:10,\" Journal of the Evangelical Theological Society 27.2 (1984): 151–160, is the direct exegetical defense of this reading. Stephen Westerholm [EVANGELICAL] makes the same case in Israel's Law and the Church's Faith: Paul and His Recent Interpreters (Eerdmans, 1988), specifically criticizing Dunn's narrower reading below.",
+    "raw_text": "**The traditional reading** holds the curse falls on the impossibility of *total* law observance — nobody keeps all of it, so anyone relying on law-keeping is under the curse by definition. **Thomas Schreiner** [EVANGELICAL], \"Is Perfect Obedience to the Law Possible? A Re-Examination of Galatians 3:10,\" *Journal of the Evangelical Theological Society* 27.2 (1984): 151–160, is the direct exegetical defense of this reading. **Stephen Westerholm** [EVANGELICAL] makes the same case in *Israel's Law and the Church's Faith: Paul and His Recent Interpreters* (Eerdmans, 1988), specifically criticizing Dunn's narrower reading below.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.3 The Abraham argument and the curse of the law (3:6–14)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.3 The Abraham argument and the curse of the law (3:6–14)",
+    "source_reference": "paragraph:249",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3d5e96b2a68ec506440c",
+    "text": "The NPP side turns out not to be one position — a finding worth recording on its own. Three named scholars, all filed under \"New Perspective,\" give three different mechanisms for the same verses:",
+    "raw_text": "**The NPP side turns out not to be one position — a finding worth recording on its own.** Three named scholars, all filed under \"New Perspective,\" give three different mechanisms for the same verses:",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.3 The Abraham argument and the curse of the law (3:6–14)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.3 The Abraham argument and the curse of the law (3:6–14)",
+    "source_reference": "paragraph:250",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_624e2c8c98e8751a813b",
+    "text": "James D.G. Dunn [CRITICAL], \"Works of the Law and the Curse of the Law (Galatians 3.10–14),\" New Testament Studies 31.4 (1985): 523–542 — the curse falls on Jewish exclusivism, on restricting the Abrahamic blessing to insiders marked by circumcision, food laws, and sabbath. The dispute is about who counts as included, not whether good works save.\nN.T. Wright [ANGLICAN], The Climax of the Covenant: Christ and the Law in Pauline Theology (T&T Clark, 1991), ch. \"Curse and Covenant: Galatians 3.10–14\" — a different mechanism entirely: the curse invoked is the national covenant curse of exile pronounced in Deuteronomy 27–30, and Israel as a whole — not just excluded Gentiles — is under it. The Messiah, as Israel's representative, absorbs the exile-curse on the cross, releasing the Abrahamic blessing outward to the nations. Wright calls 3:10–14 \"among the two or three most difficult passages in the Pauline corpus.\" His later Galatians commentary (Eerdmans, 2021) applies this framework to the letter directly.\nE.P. Sanders [CRITICAL] is, on this specific passage, the most skeptical of the three — his \"plight-to-solution\" argument (Paul, the Law, and the Jewish People, Fortress Press, 1983) holds that Paul reasons backward from the Christ-event to a diagnosis of the law's inadequacy, rather than building an independently coherent argument that 3:10–13 can be read as a tight chain of logic at all.",
+    "raw_text": "- **James D.G. Dunn** [CRITICAL], \"Works of the Law and the Curse of the Law (Galatians 3.10–14),\" *New Testament Studies* 31.4 (1985): 523–542 — the curse falls on Jewish exclusivism, on restricting the Abrahamic blessing to insiders marked by circumcision, food laws, and sabbath. The dispute is about who counts as included, not whether good works save.\n- **N.T. Wright** [ANGLICAN], *The Climax of the Covenant: Christ and the Law in Pauline Theology* (T&T Clark, 1991), ch. \"Curse and Covenant: Galatians 3.10–14\" — a different mechanism entirely: the curse invoked is the *national* covenant curse of exile pronounced in Deuteronomy 27–30, and Israel as a whole — not just excluded Gentiles — is under it. The Messiah, as Israel's representative, absorbs the exile-curse on the cross, releasing the Abrahamic blessing outward to the nations. Wright calls 3:10–14 \"among the two or three most difficult passages in the Pauline corpus.\" His later *Galatians* commentary (Eerdmans, 2021) applies this framework to the letter directly.\n- **E.P. Sanders** [CRITICAL] is, on this specific passage, the most skeptical of the three — his \"plight-to-solution\" argument (*Paul, the Law, and the Jewish People*, Fortress Press, 1983) holds that Paul reasons *backward* from the Christ-event to a diagnosis of the law's inadequacy, rather than building an independently coherent argument that 3:10–13 can be read as a tight chain of logic at all.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.3 The Abraham argument and the curse of the law (3:6–14)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.3 The Abraham argument and the curse of the law (3:6–14)",
+    "source_reference": "paragraph:251",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2432efe9f2e4cdab1687",
+    "text": "The corpus's earlier framing at §9.5.2 — \"the New Perspective\" as a single alternative to the traditional reading — understates this. Dunn's boundary-marker mechanism, Wright's national-exile mechanism, and Sanders's skepticism-about-the-argument's-coherence are three different claims about what 3:10–14 is doing, not three restatements of one claim. Treating \"NPP\" as monolithic is the same kind of flattening this corpus's method exists to catch elsewhere (see §6.5 on deutero-Pauline pseudonymity, audited on exactly this point — three tiers, not one verdict).",
+    "raw_text": "⟨INFERENCE⟩ **The corpus's earlier framing at §9.5.2 — \"the New Perspective\" as a single alternative to the traditional reading — understates this.** Dunn's boundary-marker mechanism, Wright's national-exile mechanism, and Sanders's skepticism-about-the-argument's-coherence are three different claims about what 3:10–14 is doing, not three restatements of one claim. Treating \"NPP\" as monolithic is the same kind of flattening this corpus's method exists to catch elsewhere (see §6.5 on deutero-Pauline pseudonymity, audited on exactly this point — three tiers, not one verdict).",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.3 The Abraham argument and the curse of the law (3:6–14)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.3 The Abraham argument and the curse of the law (3:6–14)",
+    "source_reference": "paragraph:252",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2ea86c7aa594594bcd95",
+    "text": "Conclusion: the traditional reading and Dunn's boundary-marker reading are genuinely incompatible — they disagree about what \"works of the law\" refers to. Wright's exile-curse reading can coexist with either, since it answers a different question (which curse, not which works). No side has full command of the field; treat this as open, and read Romans 3–4 — the traditional reading's strongest textual ground — before revisiting.",
+    "raw_text": "**Conclusion:** the traditional reading and Dunn's boundary-marker reading are genuinely incompatible — they disagree about what \"works of the law\" refers to. Wright's exile-curse reading can coexist with either, since it answers a different question (which curse, not which works). No side has full command of the field; treat this as open, and read Romans 3–4 — the traditional reading's strongest textual ground — before revisiting.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.3 The Abraham argument and the curse of the law (3:6–14)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.3 The Abraham argument and the curse of the law (3:6–14)",
+    "source_reference": "paragraph:253",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4756b3ee06c37fc8f5b6",
+    "text": "The formula predates Paul. Hans Dieter Betz [CRITICAL], Galatians: A Commentary on Paul's Letter to the Churches in Galatia, Hermeneia (Fortress Press, 1979) — 3:27–28 reflects a pre-Pauline baptismal formula, paralleled at 1 Corinthians 12:13 and Colossians 3:11: Paul is quoting existing liturgical tradition, not composing new theology in the moment. Wayne Meeks [CRITICAL], \"The Image of the Androgyne: Some Uses of a Symbol in Earliest Christianity,\" History of Religions 13.3 (1974): 165–208 — traces the formula to Genesis 1:27 androgyne traditions, read as ritually enacting a reunification symbolism in earliest Christian baptismal practice. Dennis R. MacDonald [CRITICAL], There Is No Male and Female: The Fate of a Dominical Saying in Paul and Gnosticism (Fortress Press, 1987) — argues the \"no male and female\" clause specifically circulated as an independent saying attributed to Jesus, attested separately in Gospel of Thomas logion 22, before Paul folded it into the formula.",
+    "raw_text": "**The formula predates Paul.** Hans Dieter Betz [CRITICAL], *Galatians: A Commentary on Paul's Letter to the Churches in Galatia*, Hermeneia (Fortress Press, 1979) — 3:27–28 reflects a pre-Pauline baptismal formula, paralleled at 1 Corinthians 12:13 and Colossians 3:11: Paul is quoting existing liturgical tradition, not composing new theology in the moment. Wayne Meeks [CRITICAL], \"The Image of the Androgyne: Some Uses of a Symbol in Earliest Christianity,\" *History of Religions* 13.3 (1974): 165–208 — traces the formula to Genesis 1:27 androgyne traditions, read as ritually enacting a reunification symbolism in earliest Christian baptismal practice. Dennis R. MacDonald [CRITICAL], *There Is No Male and Female: The Fate of a Dominical Saying in Paul and Gnosticism* (Fortress Press, 1987) — argues the \"no male and female\" clause specifically circulated as an independent saying attributed to Jesus, attested separately in *Gospel of Thomas* logion 22, before Paul folded it into the formula.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\"",
+    "source_reference": "paragraph:254",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d421fc2500903b77a37d",
+    "text": "Social practice, not only spiritual metaphor. Elisabeth Schüssler Fiorenza [FEMINIST CRITICAL], In Memory of Her: A Feminist Theological Reconstruction of Christian Origins (Crossroad, 1983) — reads 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities, baptism replacing circumcision as the marker of full membership regardless of ethnicity, status, or sex.  She is the named source for the tension already flagged elsewhere in this corpus (Field Guide §3.2, §12.6) between 3:28 and the household codes at Ephesians 6:5 and Colossians 3:22 — her argument is that the household codes represent a later institutional walking-back of the baptismal ethos, not an independent tradition that happens to sit uneasily beside it.",
+    "raw_text": "**Social practice, not only spiritual metaphor.** Elisabeth Schüssler Fiorenza [FEMINIST CRITICAL], *In Memory of Her: A Feminist Theological Reconstruction of Christian Origins* (Crossroad, 1983) — reads 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities, baptism replacing circumcision as the marker of full membership regardless of ethnicity, status, or sex. ⟨DOCUMENTED⟩ She is the named source for the tension already flagged elsewhere in this corpus (Field Guide §3.2, §12.6) between 3:28 and the household codes at Ephesians 6:5 and Colossians 3:22 — her argument is that the household codes represent a later institutional walking-back of the baptismal ethos, not an independent tradition that happens to sit uneasily beside it.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\"",
+    "source_reference": "paragraph:255",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d30d768a7e884ee3b494",
+    "text": "The complementarian pushback, stated fairly: Benjamin L. Merkle [EVANGELICAL, COMPLEMENTARIAN], \"Male and Female in Galatians 3:28,\" Southeastern Theological Review 13.1, and Peter R. Schemm Jr. [EVANGELICAL, COMPLEMENTARIAN], writing in the Journal of Biblical Manhood and Womanhood — both read the verse, via its Genesis 1:27 echo, as describing unity-in-Christ without erasing functional or creational distinctions between men and women. On this reading 3:28 is being asked to do more work than it was built for when it is deployed as a freestanding argument for eliminating gender-role distinctions rather than as a statement about equal standing before God.",
+    "raw_text": "**The complementarian pushback**, stated fairly: Benjamin L. Merkle [EVANGELICAL, COMPLEMENTARIAN], \"Male and Female in Galatians 3:28,\" *Southeastern Theological Review* 13.1, and Peter R. Schemm Jr. [EVANGELICAL, COMPLEMENTARIAN], writing in the *Journal of Biblical Manhood and Womanhood* — both read the verse, via its Genesis 1:27 echo, as describing unity-in-Christ without erasing functional or creational distinctions between men and women. On this reading 3:28 is being asked to do more work than it was built for when it is deployed as a freestanding argument for eliminating gender-role distinctions rather than as a statement about equal standing before God.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\"",
+    "source_reference": "paragraph:256",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b2210f1a43df65d4db32",
+    "text": "Conclusion: the historical claim (pre-Pauline baptismal formula, genuine social practice for a time) and the theological claim (what it implies for ongoing church practice, including gender roles) are separable, and most of the real disagreement is at the second level, not the first. Camp-label accordingly — don't let \"the verse is contested\" blur into \"the formula's origin is contested,\" which it isn't.",
+    "raw_text": "**Conclusion:** the historical claim (pre-Pauline baptismal formula, genuine social practice for a time) and the theological claim (what it implies for ongoing church practice, including gender roles) are separable, and most of the real disagreement is at the second level, not the first. Camp-label accordingly — don't let \"the verse is contested\" blur into \"the formula's origin is contested,\" which it isn't.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\""
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.4 Galatians 3:28 — \"no longer Jew or Greek, slave or free, male and female\"",
+    "source_reference": "paragraph:257",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c79a2ee96624df1110a9",
+    "text": "Paul reads Genesis' two sons of Abraham — Ishmael by the slave Hagar, Isaac by the free Sarah — as standing for two covenants, and says explicitly that he is doing this: hatina estin allēgoroumena, \"these things are being allegorized\" or \"are to be taken figuratively\" (4:24). He casts the Jerusalem of his own day, and by extension law-observant Judaism, on Hagar's side — \"the present Jerusalem... is in slavery with her children\" (4:25) — and closes by quoting Genesis 21:10: \"cast out the slave and her child\" (4:30).",
+    "raw_text": "Paul reads Genesis' two sons of Abraham — Ishmael by the slave Hagar, Isaac by the free Sarah — as standing for two covenants, and says explicitly that he is doing this: *hatina estin allēgoroumena*, \"these things are being allegorized\" or \"are to be taken figuratively\" (4:24). He casts the Jerusalem of his own day, and by extension law-observant Judaism, on Hagar's side — \"the present Jerusalem... is in slavery with her children\" (4:25) — and closes by quoting Genesis 21:10: \"cast out the slave and her child\" (4:30).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.5 The Hagar/Sarah allegory (4:21–31)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.5 The Hagar/Sarah allegory (4:21–31)",
+    "source_reference": "paragraph:258",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d8e214de80ea60e5ea69",
+    "text": "Is this Philo's method, or something else? Philo of Alexandria's allegorical method, the obvious comparison for a first-century Jewish writer using this term, is characterized in the literature by etymological wordplay, numerology, and a fair amount of interpretive latitude. Two evangelical-camp treatments argue Paul is doing something narrower and more constrained: Ardel B. Caneday [EVANGELICAL], \"Covenant Lineage Allegorically Prefigured: 'Which Things Are Written Allegorically' (Galatians 4:21–31),\" Southern Baptist Journal of Theology 14.3 (2010): 50–77, and a 2022 Southern Baptist Theological Seminary dissertation by John Jarrett Ford — both hold that Paul's move is closer to typology (an earlier historical pattern read as prefiguring a later one) than to Philonic allegory (a text's surface meaning treated as a cipher for something else entirely). A mainstream critical (non-evangelical) source directly comparing Paul's method here to Philo or to rabbinic midrash was not located in this pass — this section currently represents only one camp on that specific question, and should not be read as reflecting a cross-camp consensus.",
+    "raw_text": "**Is this Philo's method, or something else?** Philo of Alexandria's allegorical method, the obvious comparison for a first-century Jewish writer using this term, is characterized in the literature by etymological wordplay, numerology, and a fair amount of interpretive latitude. Two evangelical-camp treatments argue Paul is doing something narrower and more constrained: Ardel B. Caneday [EVANGELICAL], \"Covenant Lineage Allegorically Prefigured: 'Which Things Are Written Allegorically' (Galatians 4:21–31),\" *Southern Baptist Journal of Theology* 14.3 (2010): 50–77, and a 2022 Southern Baptist Theological Seminary dissertation by John Jarrett Ford — both hold that Paul's move is closer to typology (an earlier historical pattern read as prefiguring a later one) than to Philonic allegory (a text's surface meaning treated as a cipher for something else entirely). *A mainstream critical (non-evangelical) source directly comparing Paul's method here to Philo or to rabbinic midrash was not located in this pass — this section currently represents only one camp on that specific question, and should not be read as reflecting a cross-camp consensus.*",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.5 The Hagar/Sarah allegory (4:21–31)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.5 The Hagar/Sarah allegory (4:21–31)",
+    "source_reference": "paragraph:259",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_571523e2348f665ccf4e",
+    "text": "The supersessionist reading, and the strongest named pushback. Read plainly, \"cast out the slave and her child\" applied to a rival group claiming Abrahamic descent is about as sharp a supersessionist image as exists in the Pauline corpus. Ryan Heinsch [CRITICAL], The Figure of Hagar in Ancient Judaism and Galatians, Wissenschaftliche Untersuchungen zum Neuen Testament 2. Reihe, vol. 579 (Mohr Siebeck, 2022) — the most recent monograph on this exact passage — argues Paul stands in continuity with existing Second Temple Jewish traditions that already read Hagar and her descendants as representing non-Jews, and that 4:21–31 is an allegory about the status of Gentiles being grafted in, not a polemic against Jews or against the law's continuing validity for Jews. On this reading the passage's target is exclusion of Gentiles from full status, which Paul is arguing against, not Judaism itself. J. Louis Martyn [CRITICAL], Galatians, Anchor Bible (Doubleday, 1997) — the major recent critical commentary on the whole letter, reading it from a thoroughgoing apocalyptic-Paul framework distinct from both the traditional and NPP camps — is worth having on hand as a third lens across all of §9.5.3–9.5.5, though his verse-level argument on 4:21–31 specifically was not pulled for this entry.",
+    "raw_text": "**The supersessionist reading, and the strongest named pushback.** Read plainly, \"cast out the slave and her child\" applied to a rival group claiming Abrahamic descent is about as sharp a supersessionist image as exists in the Pauline corpus. Ryan Heinsch [CRITICAL], *The Figure of Hagar in Ancient Judaism and Galatians*, Wissenschaftliche Untersuchungen zum Neuen Testament 2. Reihe, vol. 579 (Mohr Siebeck, 2022) — the most recent monograph on this exact passage — argues Paul stands in continuity with existing Second Temple Jewish traditions that already read Hagar and her descendants as representing non-Jews, and that 4:21–31 is an allegory about the status of *Gentiles* being grafted in, not a polemic against Jews or against the law's continuing validity for Jews. On this reading the passage's target is exclusion of Gentiles from full status, which Paul is arguing against, not Judaism itself. J. Louis Martyn [CRITICAL], *Galatians*, Anchor Bible (Doubleday, 1997) — the major recent critical commentary on the whole letter, reading it from a thoroughgoing apocalyptic-Paul framework distinct from both the traditional and NPP camps — is worth having on hand as a third lens across all of §9.5.3–9.5.5, though his verse-level argument on 4:21–31 specifically was not pulled for this entry.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.5 The Hagar/Sarah allegory (4:21–31)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.5 The Hagar/Sarah allegory (4:21–31)",
+    "source_reference": "paragraph:260",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b3d1159b0b7d5287df41",
+    "text": "Conclusion: the passage's supersessionist surface reading is real and shouldn't be explained away, but it is not uncontested — Heinsch's is a serious, recent, specifically-targeted counter-reading, not a generic \"context matters\" deflection, and belongs in any presentation of this passage alongside the plain-reading problem. The Philo-vs-typology question is a genuine open item in this corpus's sourcing, not a settled one — flagged rather than resolved.",
+    "raw_text": "**Conclusion:** the passage's supersessionist *surface reading* is real and shouldn't be explained away, but it is not uncontested — Heinsch's is a serious, recent, specifically-targeted counter-reading, not a generic \"context matters\" deflection, and belongs in any presentation of this passage alongside the plain-reading problem. The Philo-vs-typology question is a genuine open item in this corpus's sourcing, not a settled one — flagged rather than resolved.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.5 Galatians — The Angriest Letter in the Canon",
+      "9.5.5 The Hagar/Sarah allegory (4:21–31)"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.5 Galatians — The Angriest Letter in the Canon > 9.5.5 The Hagar/Sarah allegory (4:21–31)",
+    "source_reference": "paragraph:261",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2351a28541802e06c65a",
     "text": "Old Testament — Completed",
     "raw_text": "**Old Testament — Completed**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8125,7 +8573,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:248",
+    "source_reference": "paragraph:262",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8139,7 +8587,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6bc393d9e74555561b79",
+    "id": "rk_103fa17d08e9dcf0d4cc",
     "text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "raw_text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8156,7 +8604,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:249",
+    "source_reference": "paragraph:263",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8170,7 +8618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5c420d2f99755a04b2d8",
+    "id": "rk_09f48d3a4f48de789047",
     "text": "New Testament — In Progress",
     "raw_text": "**New Testament — In Progress**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8187,7 +8635,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:250",
+    "source_reference": "paragraph:264",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8201,7 +8649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4317ab3602ec35a704d9",
+    "id": "rk_86438282f0367694db5a",
     "text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "raw_text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8218,7 +8666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:251",
+    "source_reference": "paragraph:265",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8232,7 +8680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c8879f05f9423248a3dc",
+    "id": "rk_40c8baf70d628aa2c70a",
     "text": "Living document — update as reading progresses",
     "raw_text": "*Living document — update as reading progresses*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8249,7 +8697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:252",
+    "source_reference": "paragraph:266",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8263,7 +8711,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a4ac652b742ef04b98ec",
+    "id": "rk_416766c5b97bc41c2441",
     "text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "raw_text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8281,7 +8729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:253",
+    "source_reference": "paragraph:267",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8295,7 +8743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a4fbd12711d0141d7ad0",
+    "id": "rk_1be9425b0d7ac1534fe4",
     "text": "1. Name the scholars and the publications. Not \"some scholars argue.\" Author, title, journal, year.\n2. Label the camp. Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. Verify by search, not memory. Recall produces confident summaries of positions that do not exist.\n4. Strongest case for each side, including the traditional one.\n5. Documented vs. inferred, marked every time. \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. State a conclusion with reasoning. A survey that refuses to land is not an answer.\n7. Correct overreach openly. Then stop hedging.",
     "raw_text": "1. **Name the scholars and the publications.** Not \"some scholars argue.\" Author, title, journal, year.\n2. **Label the camp.** Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. **Verify by search, not memory.** Recall produces confident summaries of positions that do not exist.\n4. **Strongest case for each side, including the traditional one.**\n5. **Documented vs. inferred, marked every time.** \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. **State a conclusion with reasoning.** A survey that refuses to land is not an answer.\n7. **Correct overreach openly.** Then stop hedging.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8313,7 +8761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:254",
+    "source_reference": "paragraph:268",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8327,7 +8775,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a7495a172070e6f2acb4",
+    "id": "rk_66d878faaccf58376c97",
     "text": "Entry format: AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "raw_text": "**Entry format:** AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8345,7 +8793,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:255",
+    "source_reference": "paragraph:269",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8359,7 +8807,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7f5f16e0bbdc93d34629",
+    "id": "rk_224d9e24cbaf602e7964",
     "text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
     "raw_text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8377,7 +8825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:256",
+    "source_reference": "paragraph:270",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8391,7 +8839,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1559f37f75755189c5cd",
+    "id": "rk_0f1860d71ef7b67f4dc1",
     "text": "Formerly highest exposure",
     "raw_text": "**Formerly highest exposure**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8409,7 +8857,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:257",
+    "source_reference": "paragraph:271",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8423,7 +8871,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_28a69fbe80a25f365ee4",
+    "id": "rk_3f1401ea993c93dffe19",
     "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n\"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — audited at §8.6. Overstated.\n- **\"John is textually antisemitic\"** — audited at §8.5. Holds w/ revisions.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8441,7 +8889,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:258",
+    "source_reference": "paragraph:272",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8455,7 +8903,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2646f6f2242e50e49bb9",
+    "id": "rk_c54b480f8b6bb9cc3d58",
     "text": "Formerly medium exposure",
     "raw_text": "**Formerly medium exposure**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8473,7 +8921,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:259",
+    "source_reference": "paragraph:273",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8487,7 +8935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_70de34122517a2baf365",
+    "id": "rk_dcef1aefa7a4bdbc49a3",
     "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\nLuke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\nDeutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.\n- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.\n- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8505,7 +8953,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:260",
+    "source_reference": "paragraph:274",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8519,7 +8967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bd82a7e87001f5b12511",
+    "id": "rk_4d8721f3162bc1052cd3",
     "text": "Formerly low exposure — held as expected",
     "raw_text": "**Formerly low exposure — held as expected**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8537,7 +8985,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:261",
+    "source_reference": "paragraph:275",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8551,7 +8999,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14b5d0b89cf66905a8f6",
+    "id": "rk_5390f727346a93a2ab9c",
     "text": "Markan priority (§6.1) — audited. Holds.\nGalatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\nMatthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\nIsaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\nHa-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "raw_text": "- Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8569,7 +9017,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:262",
+    "source_reference": "paragraph:276",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8583,7 +9031,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5f17add13506b9017917",
+    "id": "rk_ca7d83662180b03bea10",
     "text": "Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
     "raw_text": "*Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8601,7 +9049,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:263",
+    "source_reference": "paragraph:277",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
