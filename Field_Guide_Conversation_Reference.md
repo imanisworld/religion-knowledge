@@ -823,6 +823,26 @@ Verses are listed by reference only — look them up in the ESV or any translati
 
 **Reference: **Jeremiah 29:1-19 — read the whole passage.
 
+#### ⚑ AUDIT — Jeremiah 29:11 and the Strongest Traditional Reading
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "A letter to Jewish exiles in Babylon telling them to settle in for 70 years of captivity. The 'plans' are for eventual national restoration after a generation of exile... Not a personal promise. The people receiving it were being told to stop expecting rescue." (§12.1)
+
+**STATUS: Holds — every factual claim checks out. What's missing is the strongest version of the traditional counter-argument, which is not the greeting-card use.**
+
+**AUDIT**
+
+The historical-critical reading is uncontested across camps. The letter addresses the elders, priests, prophets, and people taken in the 597 BCE deportation (Jehoiachin and court), written to counter false prophets (Hananiah, ch. 28; Shemaiah, ch. 29) promising a quick return. It instructs the exiles to build houses, marry, and settle in — because the exile will run 70 years. John Bright, *Jeremiah* (Anchor Bible, Doubleday, 1965); William Holladay, *Jeremiah 2* (Hermeneia, Fortress, 1989); Walter Brueggemann, *A Commentary on Jeremiah: Exile and Homecoming* (Eerdmans, 1998) [all CRITICAL] agree the address is corporate and plural throughout, and verses 16-19's judgment on those left in Jerusalem — sword, famine, plague — is accurately described.
+
+**What the entry omits: the strongest traditional case isn't naive individual-promise misreading, it's typological.** Russell Moore [CONSERVATIVE-EVANGELICAL], "Does Jeremiah 29:11 Apply to You?" (The Gospel Coalition, 2017), and Randy Alcorn [CONSERVATIVE-EVANGELICAL], "Does Jeremiah 29:11 Apply to New Testament Believers Today?" (Eternal Perspective Ministries, 2016), both concede the plain-sense, original-audience reading entirely — then argue the promise transfers to the church via union with Christ as heir of Israel's promises (2 Cor 1:20; Gal 3:13-14, 29), on the same hermeneutical precedent Paul himself uses in 1 Cor 10, reading Israel's wilderness history as "example" for the church. That is a considered theological move, not a mistake about what the verse originally meant — and it should be named as the real opposing case rather than left implicit as "people misuse this."
+
+**CORRECTED:** *The historical-critical reading stands without qualification: this is a corporate promise of national restoration to a specific exiled community, not an individual promise, and the surrounding verses describe judgment on those who stayed behind. The strongest version of the traditional counter-case does not dispute this — it concedes it, then argues the promise transfers typologically to the church through union with Christ (Moore, Alcorn), following the same interpretive move Paul makes with Israel's own history in 1 Corinthians 10. That argument can be evaluated on its own terms; it is not the same claim as the graduation-card misreading.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the popular devotional use of this verse is such an obvious flattening of the text that "not a personal promise" reads as a complete rebuttal — but it only refutes the naive version of the traditional use, not the more careful typological argument serious defenders actually make.
+
+---
+
 ## 12.2 Jeremiah 31:31 (The "New Covenant")
 
 **Commonly used for: **Christianity as the fulfillment of prophecy — the new covenant replacing the old, pointing to Jesus.
@@ -830,6 +850,30 @@ Verses are listed by reference only — look them up in the ESV or any translati
 **Actual context: **The new covenant is explicitly with "the house of Israel and the house of Judah" — not Gentiles, not a new religion. Jewish tradition reads this as future national restoration of Israel. Nothing in Jeremiah's context indicates this refers to Jesus. Christians retrofitted this centuries later.
 
 **Reference: **Jeremiah 31:27-40 — note who the covenant is explicitly with.
+
+#### ⚑ AUDIT — "Centuries Later" Is Wrong on Timeline
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "Nothing in Jeremiah's context indicates this refers to Jesus. Christians retrofitted this centuries later." (§12.2)
+
+**STATUS: Overstated — the "centuries later" timeline claim is factually wrong. The original-context reading holds without qualification.**
+
+**AUDIT**
+
+The reading of Jeremiah 31 in its own context is uncontested across camps. Jon D. Levenson [JEWISH CRITICAL], *Sinai and Zion: An Entry into the Jewish Bible* (Harper & Row, 1985), reads covenant renewal texts throughout as continuity and national restoration, not replacement — the passage concerns the reunification of Israel and Judah under renewed covenant terms, not a new religion. William Holladay, *Jeremiah 2* (Hermeneia, Fortress, 1989) [CRITICAL] and Walter Brueggemann, *A Commentary on Jeremiah: Exile and Homecoming* (Eerdmans, 1998) [CRITICAL] concur: "house of Israel and house of Judah" means literal Israel. That part stands.
+
+**The timeline claim does not.** The first attested Christian application of Jeremiah 31 is not "centuries later" — it is 1 Corinthians 11:25 (~53 CE), where Paul quotes Jesus's Last Supper words ("This cup is the new covenant in my blood"), invoking Jeremiah's language directly. That is roughly two decades after the crucifixion (~30 CE), in the earliest surviving Christian document using this passage. Hebrews 8:8-12 then quotes Jeremiah 31:31-34 in full — the longest single Hebrew Bible quotation anywhere in the NT — as the epistle's central argument; Harold W. Attridge, *The Epistle to the Hebrews* (Hermeneia, Fortress, 1989) [CRITICAL] places Hebrews at 60-95 CE. Decades after Jesus, not centuries. Paul's related development in 2 Corinthians 3 (undisputed, ~55 CE) uses the "new covenant" category as well.
+
+**What is "centuries later"** is the fully systematized supersessionist doctrine — the theological claim that this application *replaces* or abolishes Jewish covenant standing — which runs from 2nd-century patristic writers (Justin Martyr, *Dialogue with Trypho*) through the Reformation into later covenant theology. That is a real, consequential development; it's a different claim than "the initial application." The entry conflates the two.
+
+N.T. Wright, *The Climax of the Covenant* (Fortress, 1992) [MODERATE EVANGELICAL] argues the new-covenant framework is the lens the earliest NT writers used from the beginning, rooted in Jesus's own Last Supper language. Notably, a pre-Christian Jewish community (Qumran's Damascus Document) was already applying "new covenant" language from Jeremiah typologically to its own present community — meaning contemporizing application of this passage predates Christianity.
+
+**CORRECTED:** *In Jeremiah's own context — national covenant renewal with literal Israel and Judah, not a new religion — the reading holds, and holds across both Jewish critical (Levenson) and mainstream critical (Holladay, Brueggemann) scholarship. The error is timeline: Christians applied this passage within their own generation (1 Corinthians 11:25, ~53 CE; Hebrews 8:8-12, 60-95 CE), not "centuries later." The doctrine of replacement — that this application supersedes Jewish covenant standing — is genuinely centuries later, a 2nd-century patristic development (Justin Martyr onward). Those are different claims, and the entry stated the stronger one without warrant.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the full supersessionist doctrine is what makes the Christian reading historically consequential, and it is centuries later. The collapse of "the initial typological application" into "centuries-later retrofit" happens because the doctrine that crystallized later is what is actually doing damage in the world — and tracing it all to the same move feels accurate. But there's a meaningful difference between "Paul and Jesus's own disciples applied this within a generation" and "Origen and later systematizers built a replacement theology out of it" — and the entry needed the distinction, not the blunt claim.
+
+---
 
 ## 12.3 Isaiah 7:14
 
@@ -859,6 +903,43 @@ Verses are listed by reference only — look them up in the ESV or any translati
 
 **Reference: **Romans 13:1-7; Acts 5:27-29.
 
+#### ⚑ AUDIT — Romans 13: Historical Uses Confirmed; Counter-Tradition Missing
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "Written under Nero. Used for centuries to justify slavery, colonial rule, apartheid, and political authoritarianism. Also used by the Nazi German church to justify submission to Hitler. The same verse was quoted to tell enslaved people to obey their masters... Peter and the apostles in Acts 5:29 say 'We must obey God rather than men' — directly opposing submission to authority when it conflicts with conscience." (§12.5)
+
+**STATUS: Holds on the historical uses, which are all documented. Missing: the substantial counter-tradition within Christian scholarship that reads Romans 13 as conditional, not absolute — required by this project's "strongest case for every side" rule.**
+
+**AUDIT**
+
+**Historical uses — all three confirmed with named sources.**
+
+**(a) American slavery.** Mark A. Noll, *The Civil War as a Theological Crisis* (University of North Carolina Press, 2006) [CRITICAL] documents that southern proslavery theologians built their biblical defense using a literalist hermeneutic, and that Romans 13 was invoked especially after the 1850 Fugitive Slave Act to override abolitionist appeals to conscience.
+
+**(b) Apartheid.** Winsome Munro, "Romans 13:1-7: Apartheid's Last Biblical Refuge," *Journal for the Study of the New Testament* (1990) [CRITICAL] confirms the Dutch Reformed Church (*Niederduitse Gereformeerde Kerk*) used Romans 13:1-7 as the "ultimate sanction" for submission to apartheid law. The 1985-86 Kairos Document (Black and liberation theologians) explicitly named this as "state theology" and idolatry; the DRC was expelled from the World Alliance of Reformed Churches in the 1980s.
+
+**(c) Deutsche Christen / Nazi Germany.** Robert P. Ericksen, *Theologians Under Hitler* (Yale University Press, 1985) [CRITICAL]; Doris L. Bergen, *Twisted Cross: The German Christian Movement in the Third Reich* (University of North Carolina Press, 1996) [CRITICAL] — the standard scholarly sources on the ~600,000-member Deutsche Christen movement. Reich Bishop-aligned theologians invoked Romans 13 to frame submission to Hitler as divinely ordained.
+
+**One clarification needed on context:** Romans was written ~57 CE, in the early years of Nero's reign — the period administered under Seneca and Burrus, widely regarded as comparatively stable government. Nero's persecution of Christians began July 64 CE, seven years after Paul wrote this letter. "Written under Nero" is technically accurate but implies Paul was counseling submission to a regime already persecuting Christians, which reverses the actual timeline. Paul wrote under Nero's best-governed years, not under duress.
+
+**The counter-tradition — the entry's real gap.** The same verse produced serious internal theological opposition to each regime that weaponized it:
+
+- Dietrich Bonhoeffer and Karl Barth authored the Barmen Declaration (May 1934) asserting Christ's exclusive lordship against the German Christians' Romans-13-as-absolute-obedience reading — their theological resistance to Hitler was grounded in the same Christian tradition, reading the same text. This is the load-bearing complication the entry needs: Romans 13 did not mechanically produce authoritarian submission, because serious theologians in the same crisis read it as grounds for principled resistance.
+- **John Howard Yoder**, *The Politics of Jesus* (Eerdmans, 1972/1994) [PACIFIST/ANABAPTIST] raises a key philological point: Paul's verb (*hypotassō*, "subordinate") is not the Greek word for obedience (*hypakouō*). Yoder argues Paul calls for taking one's place in a structure of accountability, not for doing whatever the state commands — subordination is compatible with refusal; obedience is not.
+- **Robert Jewett**, *Romans: A Commentary* (Hermeneia, Fortress, 2007) [CRITICAL] situates Romans 13:1-7 in a specific ~57-58 CE crisis over corrupt indirect tax-farming in Rome — an occasional argument addressed to a specific situation, not a timeless universal doctrine of state authority.
+- N.T. Wright [MODERATE EVANGELICAL], in his Romans commentary (NIB) and *Paul and the Faithfulness of God* (Fortress, 2013), reads Romans 13 as subversive: rulers are demoted to delegated, accountable authorities under the one God, relativizing rather than absolutizing Caesar's claim — read alongside Romans 12's refusal of retaliation and the letter's "Lord Jesus" language set against the imperial cult.
+- **Oscar Cullmann**, *The State in the New Testament* (Scribner's, 1956) [CRITICAL] reads *exousiai* ("authorities") as encompassing the angelic powers standing behind human government — the state is God's servant only when functioning as such, and can become demonic.
+- The strongest traditional case, honestly given: C.E.B. Cranfield and **Douglas Moo**, *The Epistle to the Romans* (NICNT, Eerdmans, 1996) [CONSERVATIVE-EVANGELICAL] read Romans 13 as a genuine, straightforward mandate — government is a positive institution ordained by God, and the text should not be pushed beyond its plain sense. Notably, John Calvin himself (*Institutes*, Book IV) read Romans 13 as compatible with resistance by *lesser magistrates* against a tyrannical higher ruler — a doctrine formalized in the Magdeburg Confession (1550) and influential on later Huguenot and American revolutionary resistance theory. Calvin did not read Romans 13 as forbidding all resistance, only unauthorized private resistance.
+
+**On the Acts 5:29 pairing:** Acts 5:27-29 has Peter and the apostles before the *Sanhedrin* (Jewish religious council), refusing an order not to preach — a conflict with religious authority, not civil government. Applying it as a direct counterweight to Romans 13's civil-government context is an analogical extension across categories, not scripture directly contradicting itself in the same domain. The extension is legitimate and widely made, but the entry should note the distinction rather than imply these verses operate in exactly the same sphere.
+
+**CORRECTED:** *The historical uses of Romans 13 to justify slavery, apartheid, and submission to Hitler are documented and accurate. What's missing: the same text was read by serious theologians in each context as grounds for principled resistance — Bonhoeffer and Barth in Germany, the Kairos Document's authors in South Africa, Yoder's pacifist tradition — and the dominant scholarly tradition (Jewett, Wright, Yoder, Cullmann) reads the passage as more conditional and historically specific than the "absolute submission" use implies. Calvin himself allowed lesser-magistrate resistance. The Acts 5:29 counterexample is legitimate but operates in a different domain (religious authority vs. civil government) and should be framed as analogical extension, not same-category contradiction.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the misuse history is so thoroughgoing — slavery, apartheid, Hitler — that presenting Romans 13 as the thing used to justify authoritarianism, period, reads as complete. But a text this contested between serious theologians is precisely the one where the counter-tradition needs to be named: Bonhoeffer didn't abandon Christian theology to resist Hitler; he read the same scripture differently, and that difference is the most important piece of context the entry was missing.
+
+---
+
 ## 12.6 Galatians 3:28 vs. Colossians 3:22 / Ephesians 6:5
 
 **The contradiction: **Galatians 3:28 — "There is neither Jew nor Greek, there is neither slave nor free, there is no male and female, for you are all one in Christ Jesus." Colossians 3:22 and Ephesians 6:5 — "Slaves, obey your earthly masters." These cannot both be governing moral principles simultaneously.
@@ -876,6 +957,34 @@ Verses are listed by reference only — look them up in the ESV or any translati
 **Actual context: **Appears only in John — the latest Gospel (~90-100 CE), written 60+ years after Jesus died. Zero equivalent in Mark, the earliest Gospel. The exclusivity of the claim escalates across the Gospels as theology develops. Jesus in John speaks very differently than in the Synoptics — long theological monologues, explicit divine claims — because John's community has already concluded Jesus is God and is constructing the argument backward.
 
 **Reference: **John 14:1-14. Compare to Mark's Jesus for the tonal difference.
+
+#### ⚑ AUDIT — "Constructing the Argument Backward" Overstates the Q Evidence
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "The exclusivity of the claim escalates across the Gospels as theology develops... because John's community has already concluded Jesus is God and is constructing the argument backward." (§12.7)
+
+**STATUS: Overstated — the "constructing backward" framing treats exclusive Father-Son language as a Johannine invention, but that language appears in Q (~50 CE), decades before John. The same correction applies here that §13.5 already made for high Christology generally.**
+
+**AUDIT**
+
+John's dating at ~90-100 CE is standard critical consensus, confirmed by Raymond E. Brown, *The Gospel According to John* (Anchor Bible, 2 vols., 1966/1970) [CRITICAL/CATHOLIC-CRITICAL]. The absence of John 14:6-style wording in Mark's Gospel is accurate. John's distinctive monologue style and high-Christology discourse differ markedly from the Synoptic Jesus — the tonal comparison holds.
+
+**What overclaims: the implication that exclusive Father-Son revelatory language is a Johannine invention retroiected backward.** Matthew 11:27 and Luke 10:22 — Q material, dated by the standard two-source hypothesis to ~50 CE, approximately 40-50 years before John — read: "No one knows the Son except the Father, and no one knows the Father except the Son and anyone to whom the Son chooses to reveal him." Mainstream critical scholarship calls this the "Johannine thunderbolt" in the Synoptics precisely because it sounds fully Johannine — exclusive mutual-knowledge, Father/Son grammar — embedded in the earliest recoverable stratum of the Jesus tradition. Q predates Mark. The exclusive Father-Son revelatory motif is *not* a late Johannine invention; it is attested from the earliest available source layer.
+
+John 14:6's formulation ("no one comes to the Father except through me") is the most developed and explicitly soteriological form of this motif — it extends the exclusive-access grammar to salvation specifically. That development may be Johannine elaboration. But "constructing the argument backward from a conclusion reached after Jesus died" is too flat: it credits John with originating a motif for which there is early, independent Synoptic evidence.
+
+**The Martyn background, with the same caveat as §12.8:** J. Louis Martyn, *History and Theology in the Fourth Gospel* (1968, rev. 2003) [CRITICAL] — the standard explanation for John's high Christology — argues the community's synagogue expulsion shaped its distinctive theological development, reading back into the Jesus narrative. This framework is mainstream for understanding why John's Christology is more developed. However, as established at §12.8, Martyn's specific historical reconstruction of a formal synagogue expulsion (*aposynagōgos*) has been substantially contested since the 1990s (Reinhartz; more recent Johannine scholarship reassessing the *Birkat ha-Minim* connection). Cite Martyn as the standard explanatory framework; flag the expulsion mechanism specifically as a contested reconstruction.
+
+**Hurtado/Bauckham — what they do and don't establish here:** Larry Hurtado [CRITICAL], *Lord Jesus Christ* (Eerdmans, 2003), and Richard Bauckham [CRITICAL], *God Crucified* (Eerdmans, 1998), argue high Christological claims (divine identity, worship-worthiness) appear within 20 years of the crucifixion in Paul — undercutting a generic "divinity claims escalate gradually to John" narrative. But their evidence base is cultic devotion and divine-identity inclusion, not the exclusivist-soteriology formula ("no one comes to the Father except through me"). Do not let this correction claim Hurtado/Bauckham validate John 14:6's exclusivism specifically — their argument is about worship patterns, not access-to-salvation grammar.
+
+**Traditional/evangelical case:** D.A. Carson, *The Gospel According to John* (Pillar NT Commentary, Eerdmans, 1991) [CONSERVATIVE-EVANGELICAL] and Craig Blomberg, *The Historical Reliability of John's Gospel* (InterVarsity, 2001) [CONSERVATIVE-EVANGELICAL] argue John renders authentic Jesus tradition in the community's own theological idiom, consistent with ancient *bios* conventions permitting paraphrase, and point specifically to the Q logion (Matt 11:27/Luke 10:22) as independent early evidence that the Father-Son exclusivity motif predates John. This is a real, documented case — it rests on a textual fact (Q's priority) that even non-evangelical scholars acknowledge.
+
+**CORRECTED:** *John 14:6 is the most developed and explicit form of an exclusive Father-Son revelatory motif that appears in seed form as early as Q (~50 CE, Matt 11:27/Luke 10:22). "Constructing the argument backward" overstates the case; "theological development and intensification of an early motif" is the defensible framing. John's date is late, its Christological elaboration is distinctive, and the tonal difference from Mark is real. What it is not is an invention from scratch — the motif has early attestation that independent of Johannine authorship.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the dramatic tonal gap between John's Jesus and Mark's Jesus makes it natural to read John as the origin point for escalating divine claims — and in terms of the *degree* of development, it may well be. But "origin" and "highest expression" are different claims, and the Q evidence means the exclusive Father-Son language predates John rather than being traceable to it alone.
+
+---
 
 ## 12.8 John 8:44
 
@@ -957,6 +1066,32 @@ Verses are listed by reference only — look them up in the ESV or any translati
 
 **Reference: **Amos 5:18-27.
 
+#### ⚑ AUDIT — Prophetic Hyperbole Prioritizing Ethics, Not a Canonical Contradiction
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "Directly contradicts the elaborate ritual worship requirements in Exodus and Leviticus. God rejecting the very worship system the law commands is a significant internal tension the text itself does not resolve." (§12.10)
+
+**STATUS: Overstated — this presents one reading of a live scholarly dilemma as flat fact, while omitting the dominant cross-camp reading: prophetic rhetorical hyperbole (escalating first-person repudiation) aimed at ritual performed without justice, not at the sacrificial system itself.**
+
+**AUDIT**
+
+Shalom M. Paul, *Amos: A Commentary* (Hermeneia, Fortress, 1991) [JEWISH CRITICAL] treats the passage's escalating first-person formula ("I hate... I despise... I take no delight... I do not accept... I will not look upon... I will not listen") as a deliberately stacked rhetorical repudiation. James Luther Mays, *Amos: A Commentary* (OTL, Westminster, 1969) [CRITICAL] and Francis Andersen & David Noel Freedman, *Amos* (Anchor Bible 24A, Doubleday, 1989) [CRITICAL] both document the passage as prophetic rhetoric targeting the illegitimate *use* of the cult — militaristic self-congratulation, ritual performed without repentant faith — rather than the cult's legitimacy as such. Andersen and Freedman lean toward reading the target as the *combination* of oppression-of-the-poor and temple worship, not temple worship per se.
+
+**The documented scholarly pattern:** this exact genre appears identically across the eighth-century prophets — 1 Samuel 15:22 ("to obey is better than sacrifice"), Hosea 6:6 ("I desire steadfast love and not sacrifice"), Isaiah 1:11-17, Micah 6:6-8 (see §12.11 audit). Alphonso Groenewald, "'But let justice roll down like waters...' Social justice versus cult criticism in Amos (5:21–24) and Isaiah (1:10–20): A trauma perspective," *HTS Teologiese Studies* 75/3 (2019) [CRITICAL] explicitly names this an ongoing "either-or dilemma" in the scholarly guild — not resolved, not consensus either direction. Abraham Joshua Heschel, *The Prophets* (Harper & Row, 1962) [JEWISH THEOLOGICAL] reads it as "God's pain at betrayal" — condemning ritual *combined with iniquity*, a coherent theological unity rather than an irresolvable contradiction.
+
+The strongest conservative case (Billy K. Smith & Frank Page, *Amos, Obadiah, Jonah*, NAC, B&H, 1995 [CONSERVATIVE-EVANGELICAL]; Gary V. Smith, *Hosea, Amos, Micah*, NIVAC, Zondervan [CONSERVATIVE-EVANGELICAL]) argues YHWH does not reject the sacrificial system itself, but its illegitimate use — a position independently reached by cross-camp scholars including Andersen & Freedman, meaning it is not special pleading confined to evangelical apologetics.
+
+**MLK attribution: confirmed accurate, and doubly attested.** King quoted Amos 5:24 in "I Have a Dream" (March on Washington, August 28, 1963) and in "Letter from Birmingham Jail" (April 1963). Both are confirmed independent primary sources.
+
+**Note on sourcing:** Mays, Andersen-Freedman, and the conservative commentaries were verified through search-snippet paraphrase, not direct text retrieval (proxy restrictions blocked bookseller and journal domains). The cited positions are independently corroborated across multiple sources; verbatim quotation from the primary commentary volumes was not achievable in this pass.
+
+**CORRECTED:** *Amos 5:21-24, stated in absolute terms, reads as a repudiation of the sacrificial system — but this is a documented prophetic-rhetoric convention (irony, hyperbole, escalating divine rejection formula) attested identically in 1 Sam 15:22, Hos 6:6, Isa 1:11-17, and Mic 6:6-8. The dominant reading across critical and conservative scholarship is that God condemns ritual performed without justice, not the cult's legitimacy as such. "Directly contradicts... the text itself does not resolve" overstates: whether this is irresolvable contradiction or rhetorical prioritization is an active, named debate in the guild (Groenewald 2019), not a settled finding either way.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the language of the passage is absolute and first-person ("I hate," "I despise"), which makes a literal reading natural — and there IS a real critical tradition (tracing back to Wellhausen's prophets-vs-priests dichotomy) that reads the classical prophets as opposing the priestly cult. But that older framework has been substantially contested in modern scholarship, and the rhetorical-genre reading now dominates across camp lines, making "internal tension the text itself does not resolve" a stronger claim than the scholarship supports.
+
+---
+
 ## 12.11 Micah 6:8
 
 **Commonly used for: **The most concise ethical statement in the Old Testament.
@@ -966,6 +1101,32 @@ Verses are listed by reference only — look them up in the ESV or any translati
 **Why it matters: **Directly contradicts the elaborate ritual requirements in Exodus/Leviticus. If Micah is right, the entire sacrificial and purity system is not what God requires. If Exodus/Leviticus are right, Micah's summary is dangerously incomplete. The Bible does not resolve this.
 
 **Reference: **Micah 6:1-8.
+
+#### ⚑ AUDIT — Ethics-Summarizing Language Continuous with Torah, Not in Contradiction to It
+
+`CHECKED 12 AUG 2026`
+
+**AS RECORDED:** "Directly contradicts the elaborate ritual requirements in Exodus/Leviticus. If Micah is right, the entire sacrificial and purity system is not what God requires. If Exodus/Leviticus are right, Micah's summary is dangerously incomplete. The Bible does not resolve this." (§12.11)
+
+**STATUS: Overstated — same disposition as the Amos 5:21-24 companion entry (§12.10 audit). The scholarly literature treats both as instances of the same prophetic genre, and two additional structural facts make "directly contradicts" harder to maintain here than even for Amos.**
+
+**AUDIT**
+
+James Luther Mays, *Micah: A Commentary* (OTL, Westminster, 1976) [CRITICAL] reads the passage as covenant-lawsuit (*rîb*) rhetoric — not a system-referendum on whether the cult should exist, but a redefinition of what authentic covenant fidelity requires. Delbert R. Hillers, *Micah* (Hermeneia, Fortress, 1984) [CRITICAL] is the companion volume, analyzing the *rîb*-oracle form underlying 6:1-8. Walter Brueggemann [CRITICAL], writing on prophetic rhetoric generally, flags the escalation structure in 6:6-7 (calves → thousands of rams → ten thousand rivers of oil → firstborn child) as the structural key: the list climaxes in child sacrifice, which Torah itself explicitly prohibits (Lev 18:21; 20:2-5). This is decisive: 6:6-7 is not an inventory of "the elaborate ritual requirements in Exodus/Leviticus" — it is a rhetorical escalation into the absurd and the criminally prohibited. It cannot be read as a synecdoche for the Levitical cult without misreading what the list is doing. Bruce K. Waltke, *A Commentary on Micah* (Eerdmans, 2007) [CONSERVATIVE-EVANGELICAL] states explicitly: "Micah did not repeal the institution of sacrifice... wages war against the misconception of sacrifice, but does not thereby protest against its use." John Barton, *Ethics in Ancient Israel* (Oxford, 2014) [CRITICAL] treats Micah 6:6-8 as the most explicit instance of a cross-prophetic pattern — cultic condemnation targeting sacrifice divorced from moral reform, not cultic practice per se.
+
+**The Deuteronomy connection is decisive.** Micah 6:8's formula ("what does the LORD require of you but to...") is a near-verbatim echo of Deuteronomy 10:12-13 ("what does the LORD your God require of you but to fear the LORD your God... to love him... to keep the commandments"). This cross-reference is standard in the commentaries. Deuteronomy is Torah — it is the law Exodus/Leviticus's ritual system sits alongside. The formula Micah uses is Deuteronomic tradition *inside* Torah, not a prophetic voice set against it. "The Bible does not resolve this" misses that Deuteronomy already does what Micah is accused of doing.
+
+**Matthew 23:23 parallel:** Jesus uses the same rhetorical move ("weightier matters of the law — justice, mercy, and faithfulness — without neglecting the others"), explicitly retaining the "without neglecting the others" qualifier. Multiple commentaries treat this as the natural completion of Micah's logic — prioritization, not abolition.
+
+**Consistency with Amos 5:21-24:** Ehud Ben Zvi, *Micah* (FOTL XXIB, Eerdmans, 2000) [CRITICAL] situates 6:1-8 within the same covenant-lawsuit convention as the Amos material, and a survey of cross-prophetic scholarship (Theology of Work Project; Barton) groups Micah 6:6-8, Amos 5:21-24, and Hosea 4:1-10 explicitly as instances of the same genre and the same debate. These two audits should land with the same STATUS and the same corrected framing — they are the same scholarly question asked of two eighth-century texts.
+
+**Where the old framing may trace back:** the "prophets-vs.-priests" contradiction reading is the legacy of Wellhausen's 19th-century developmental framework (the "prophetic religion of the spirit" against the "priestly religion of the letter"). That framework has been substantially contested and largely set aside in modern scholarship (Milgrom and others), but it still shapes popular presentations of these texts. If the original entry's instinct traces there, it's naming an outdated framework as current consensus.
+
+**CORRECTED:** *Micah 6:6-8 is covenant-lawsuit rhetoric (*rîb*), not a referendum on whether the Levitical system should exist. The rhetorical escalation in 6:6-7 runs to child sacrifice — something Torah explicitly criminalizes — so it is not a synecdoche for legitimate cultic requirements. Micah 6:8's "what does the LORD require" formula echoes Deuteronomy 10:12-13 directly, meaning the ethics-summarizing move is inside Torah, not against it. The dominant reading across critical (Mays, Hillers, Barton, Ben Zvi) and conservative (Waltke) scholarship is rhetorical prioritization of ethics over ritual-without-ethics, not canonical contradiction. Same verdict as the companion Amos 5:21-24 audit.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the absoluteness of "what does the LORD require of you *but*" makes the reading "just this, nothing else" feel like the plain sense — and there is a long critical tradition (Wellhausen) that reads the classical prophets exactly that way. The "dangerously incomplete" frame is the natural conclusion if you read Micah as prescriptive and comprehensive. But the genre (covenant-lawsuit), the rhetorical structure (escalation to the prohibited), and the Deuteronomic echo all point toward prioritization, not abrogation — and that's the cross-camp scholarly consensus, not just an evangelical harmonization.
+
+---
 
 ## 12.12 Isaiah 55:8-9
 
