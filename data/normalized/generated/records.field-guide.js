@@ -23518,7 +23518,875 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ae78830fa88b4fb9332",
+    "id": "rk_23d4ce7d7ea2d70cdbdb",
+    "text": "The architecture documented in §15.1–15.7 becomes fully legible when read against what the system does not prohibit for men. The asymmetry is not incidental — it is the inverse proof that the framework is tracking property, lineage, and gender-role status rather than sexual morality as a universal principle.",
+    "raw_text": "⟨DOCUMENTED⟩ The architecture documented in §15.1–15.7 becomes fully legible when read against what the system does not prohibit for men. The asymmetry is not incidental — it is the inverse proof that the framework is tracking property, lineage, and gender-role status rather than sexual morality as a universal principle.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:753",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6c85fe0a2fffc918dbd3",
+    "text": "What the text does not prohibit.",
+    "raw_text": "**What the text does not prohibit.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:754",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_35fa549fac40d68a37e4",
+    "text": "Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.",
+    "raw_text": "Polygamy appears throughout the canon without condemnation as a sexual ethics violation. Abraham, Jacob, David, and Solomon (700 wives, 300 concubines: 1 Kings 11:3) all practice it. The concern is not how many women a man has access to — only whether he violates another man's claim. Concubinage was a legally recognized institution below wife status: Bilhah, Zilpah, David's concubines. Formal property arrangements; zero condemnation. A man visiting a prostitute is recorded without condemnation of the act: Samson in Gaza (Judges 16:1); Judah in Genesis 38. The condemnation in Genesis 38 falls on Judah's failure to provide levirate marriage, not the prostitution visit.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:755",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_875c5b68f23d6acad04c",
+    "text": "Onan is not about what it is usually said to be.",
+    "raw_text": "**Onan is not about what it is usually said to be.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:756",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_ece9bea50ca0435f808b",
+    "text": "Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.",
+    "raw_text": "Genesis 38:9-10 records Onan spilling his seed to avoid raising offspring for his dead brother. The text explicitly states his reason — refusing his levirate obligation. He is killed for the property and lineage violation, not the act. The traditional reading (divine condemnation of contraception or masturbation) contradicts the text's own stated reason. Mainstream critical consensus.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:757",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_682ddb46fb67d0fb02e1",
+    "text": "Levirate marriage states the framework directly.",
+    "raw_text": "**Levirate marriage states the framework directly.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:758",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a23fdb623e0dde56cc57",
+    "text": "Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself, not inferred from it.",
+    "raw_text": "Deuteronomy 25:5-10 requires a man to marry his dead brother's widow and produce offspring. The purpose is stated in the law: preserve the dead man's name and inheritance. Sex is a property and lineage function, stated in the text itself, not inferred from it.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:759",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a303039b1963ab328e80",
+    "text": "Adultery is defined as a property violation.",
+    "raw_text": "**Adultery is defined as a property violation.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:760",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_baaa58a7a2ef9888c3fb",
+    "text": "The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. The definition itself makes the property structure visible: the wrong is the taking of another man's possession, not infidelity as a category. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.",
+    "raw_text": "The prohibition (Exodus 20:14, Deuteronomy 5:18) applies to sex with another man's wife. A married man sleeping with an unmarried woman is not adultery in the Hebrew Bible's legal framework. The definition itself makes the property structure visible: the wrong is the taking of another man's possession, not infidelity as a category. Nathan's condemnation of David (2 Samuel 12) deploys a property parable — a rich man takes a poor man's one ewe lamb — to name the sin. The property frame of the condemnation is in the text itself.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:761",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_733c1d693e3747528480",
+    "text": "Numbers 5 states the structural asymmetry.",
+    "raw_text": "**Numbers 5 states the structural asymmetry.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:762",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8302d42d1bd60fb592cb",
+    "text": "The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.",
+    "raw_text": "The ordeal of bitter water (Numbers 5) is triggered by a husband's suspicion of his wife. No equivalent procedure exists for wives who suspect husbands. The asymmetry is structural to the mechanism, not a gap.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:763",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5b8d34cc9003ddcefd33",
+    "text": "The rape law confirms the framework.",
+    "raw_text": "**The rape law confirms the framework.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:764",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4d83a517f3e8dd273662",
+    "text": "Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.",
+    "raw_text": "Deuteronomy 22:28-29: a man rapes an unbetrothed virgin; he pays her father 50 shekels and must marry her without possibility of divorce. The fine goes to the father. No punishment addresses the violation to the woman — the violation the law addresses is to the father's property claim.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:765",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_613278e786c60d9e9cc1",
+    "text": "David and Jonathan.",
+    "raw_text": "**David and Jonathan.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:766",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4e17fc4b7c68e3ff58b8",
+    "text": "1 Samuel 18:1 — \"the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.\" 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: \"your love to me was extraordinary, surpassing the love of women.\"",
+    "raw_text": "⟨DOCUMENTED⟩ 1 Samuel 18:1 — \"the soul of Jonathan was knit to the soul of David, and Jonathan loved him as his own soul.\" 1 Samuel 18:3-4 — Jonathan strips himself of his robe, armor, sword, bow, and belt and gives them to David — a covenant transfer of significant weight in the ANE context. 2 Samuel 1:26 — David's lament: \"your love to me was extraordinary, surpassing the love of women.\"",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:767",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c7f65abf81897da10a07",
+    "text": "Tom Horner (Jonathan Loved David: Homosexuality in Biblical Times, Westminster Press, 1978) argued for a romantic and erotic reading of the relationship. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb ahav (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (I Samuel, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference for these passages and treats the language as covenant loyalty within a formal political relationship.",
+    "raw_text": "Tom Horner (*Jonathan Loved David: Homosexuality in Biblical Times*, Westminster Press, 1978) argued for a romantic and erotic reading of the relationship. This is the minority scholarly position. Mainstream critical scholarship reads the language as covenant loyalty and political alliance — the verb *ahav* (love) is deployed throughout ANE treaty literature for political relationships, not exclusively romantic ones. P. Kyle McCarter Jr. (*I Samuel*, Anchor Bible vol. 8, Doubleday, 1980) is the standard critical reference for these passages and treats the language as covenant loyalty within a formal political relationship.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:768",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_04382fabd290571bf7c3",
+    "text": "The intensity of the language, the clothing transfer, and \"surpassing the love of women\" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.",
+    "raw_text": "⟨INFERENCE⟩ The intensity of the language, the clothing transfer, and \"surpassing the love of women\" are textually real. What they mean is genuinely contested. What is not contested: the text never condemns whatever is happening between them. Given Leviticus 20:13 exists in the same canon, that silence is a fact worth noting.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:769",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9a8467b4fbc12aceb4b9",
+    "text": "qadesh — idolatry, not orientation.",
+    "raw_text": "**qadesh — idolatry, not orientation.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:770",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_dad79c6fe57705b50773",
+    "text": "Deuteronomy 23:17 prohibits qadesh. The root qdsh means \"consecrated one.\" 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation \"male cult prostitute\" is contested in critical scholarship: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (Homoeroticism in the Biblical World, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the \"cult prostitute\" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.",
+    "raw_text": "⟨DOCUMENTED⟩ Deuteronomy 23:17 prohibits *qadesh*. The root *qdsh* means \"consecrated one.\" 1 Kings 14:24 and 15:12 reference the practice as an abomination imported from Canaanite religion. The traditional translation \"male cult prostitute\" is contested in critical scholarship: the sexual element is inferred from the Deuteronomistic polemical context rather than established lexically. Martti Nissinen (*Homoeroticism in the Biblical World*, trans. Kirsi Stjerna, Fortress Press, 1998) documents the problem with the \"cult prostitute\" reading. The prohibition's stated concern is religious-boundary violation — idolatry — not same-sex attraction as a category.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:771",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4c371eca30ffa3ad4357",
+    "text": "Eunuchs — a third category the system accepts.",
+    "raw_text": "**Eunuchs — a third category the system accepts.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:772",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c0beab179a09a28cbbe9",
+    "text": "Isaiah 56:3-5 explicitly includes eunuchs in the covenant: \"I will give them a monument and a name better than sons and daughters.\" Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. Eunuchs occupied a recognized third-gender category in the ancient world. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.",
+    "raw_text": "⟨DOCUMENTED⟩ Isaiah 56:3-5 explicitly includes eunuchs in the covenant: \"I will give them a monument and a name better than sons and daughters.\" Matthew 19:12 names three types of eunuchs without condemnation. Acts 8 — Philip baptizes the Ethiopian eunuch with no requirement to change his status and no question raised. Eunuchs occupied a recognized third-gender category in the ancient world. The consistent biblical treatment is inclusion. This sits in tension with a reading of the Leviticus framework as sexual purity operating as a universal principle: if purity were the animating concern, eunuchs would be excluded, not welcomed.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:773",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1ce8f836b72de82b1426",
+    "text": "NT complications.",
+    "raw_text": "**NT complications.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:774",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_95088767cf05b1e7e0e2",
+    "text": "Matthew 5:27-28 — \"everyone who looks at a woman [Greek: gynaika] with lustful intent has already committed adultery with her in his heart.\" The internalization move is real, but the Greek word is gynaika (woman, not specifically \"another man's wife\") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.",
+    "raw_text": "⟨DOCUMENTED⟩ Matthew 5:27-28 — \"everyone who looks at a woman [Greek: *gynaika*] with lustful intent has already committed adultery with her in his heart.\" The internalization move is real, but the Greek word is *gynaika* (woman, not specifically \"another man's wife\") — Jesus generalizes the object beyond the strict property boundary of the adultery prohibition, though the subject remains male and the object female. The structural asymmetry holds; the framework is extended inward rather than replaced.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:775",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_84b418d9f94b139ad199",
+    "text": "1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: \"it is better to marry than to burn\" (7:9). This is a departure from the OT reproductive mandate. But Paul's reasoning is explicitly eschatological — \"the time is short\" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.",
+    "raw_text": "⟨DOCUMENTED⟩ 1 Corinthians 7 — Paul advocates celibacy as ideal, marriage as concession to desire: \"it is better to marry than to burn\" (7:9). This is a departure from the OT reproductive mandate. But Paul's reasoning is explicitly eschatological — \"the time is short\" (7:29) — not a developed sexual ethics in any modern sense. The framework shifts under end-times expectation, not moral reconsideration.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:776",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_69f03e012ac00d9994c6",
+    "text": "Synthesis.",
+    "raw_text": "**Synthesis.**",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:777",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_74a67193ea723cca9628",
+    "text": "The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic — mixing what must stay separate — applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. \"Sexual morality as a universal principle applied equally to male and female\" is not what this system is.",
+    "raw_text": "⟨INFERENCE⟩ The system is internally consistent once you identify what it is tracking: female bodies as property with economic value (virginity, paternity certainty, transferability), male gender-role status (the Holiness Code's purity/category logic — mixing what must stay separate — applied to penetration roles), and lineage continuity (levirate, Onan, inheritance law). Male desire, male access to multiple women, male prostitution visits — none of these register as concerns. The NT internalizes the adultery prohibition but keeps the structural asymmetry. \"Sexual morality as a universal principle applied equally to male and female\" is not what this system is.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:778",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1ed841302a80a155f9b3",
+    "text": "The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (One Hundred Years of Homosexuality, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. \"Being gay\" as a category the text addresses is a modern retrofitting.",
+    "raw_text": "The concept of sexual orientation as a stable identity category did not exist in the ancient world. David Halperin (*One Hundred Years of Homosexuality*, Routledge, 1990) — whose primary evidence is ancient Greek but whose social-constructionist argument has been extended by biblical scholars — documents the late-19th-century emergence of the heterosexual/homosexual binary as an organizing principle of identity. The Leviticus framework operates in a purity/category logic, not an identity/orientation logic. \"Being gay\" as a category the text addresses is a modern retrofitting.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:779",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Observations §1–§17 explicitly described as genuinely mixed and no longer cleanly separable, except §7 stated exception. (§8 method and §19 timeline moved to Method_and_Reference.md on 10 Aug 2026.)"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4a6a25d7f7387a22c87f",
+    "text": "The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.",
+    "raw_text": "⟨YOURS⟩ The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.",
+    "provenance_type": "MY_WORDS",
+    "representation_type": "VERBATIM",
+    "speaker": "user",
+    "topics": [
+      "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION",
+      "15.8 What the System Permits on the Male Side"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Field_Guide_Conversation_Reference.md",
+    "source_section": "15. WOMEN IN BIBLICAL TEXTS AND INTERPRETATION > 15.8 What the System Permits on the Male Side",
+    "source_reference": "paragraph:780",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f7cce00b357df3ae734e",
     "text": "The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.",
     "raw_text": "The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.",
     "provenance_type": "PRE_CONVENTION",
@@ -23534,7 +24402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE",
-    "source_reference": "paragraph:753",
+    "source_reference": "paragraph:781",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23548,7 +24416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_89128324c6f59a037a54",
+    "id": "rk_6545ef2316c94e9a0a96",
     "text": "Adam and Eve taken literally: If all humans descend from two people, the entire first generation are siblings marrying siblings. The text does not address this. It cannot — because on its own terms, there is no one else. Cain goes to the land of Nod and finds a wife (Genesis 4:17). At that point in the narrative the only humans are Adam, Eve, Cain, and Abel (Abel is dead). Who is she? The text does not say. Traditional answer: Adam and Eve had many unnamed children. That still makes Cain's wife his sister.",
     "raw_text": "**Adam and Eve taken literally: **If all humans descend from two people, the entire first generation are siblings marrying siblings. The text does not address this. It cannot — because on its own terms, there is no one else. Cain goes to the land of Nod and finds a wife (Genesis 4:17). At that point in the narrative the only humans are Adam, Eve, Cain, and Abel (Abel is dead). Who is she? The text does not say. Traditional answer: Adam and Eve had many unnamed children. That still makes Cain's wife his sister.",
     "provenance_type": "PRE_CONVENTION",
@@ -23565,7 +24433,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.1 The Genesis Foundation Problem",
-    "source_reference": "paragraph:754",
+    "source_reference": "paragraph:782",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23579,7 +24447,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_80f6085b93f160ff9482",
+    "id": "rk_41c0640f42f85a65b5f8",
     "text": "The Leviticus problem: Leviticus 18 explicitly prohibits sex with sisters, half-sisters, aunts, daughters-in-law. Leviticus 20:17 adds penalties. These prohibitions come after the patriarchal narratives in which the patriarchs do exactly what is later prohibited. Either: (a) God's law changed — which undermines timeless divine command, or (b) different communities wrote these texts at different times with no awareness of the contradiction — which supports the documentary hypothesis.",
     "raw_text": "**The Leviticus problem: **Leviticus 18 explicitly prohibits sex with sisters, half-sisters, aunts, daughters-in-law. Leviticus 20:17 adds penalties. These prohibitions come after the patriarchal narratives in which the patriarchs do exactly what is later prohibited. Either: (a) God's law changed — which undermines timeless divine command, or (b) different communities wrote these texts at different times with no awareness of the contradiction — which supports the documentary hypothesis.",
     "provenance_type": "PRE_CONVENTION",
@@ -23596,7 +24464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.1 The Genesis Foundation Problem",
-    "source_reference": "paragraph:755",
+    "source_reference": "paragraph:783",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23610,7 +24478,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_de7d6a016189e7906ec4",
+    "id": "rk_d120b1b9f5e412a55c4e",
     "text": "•  Abraham and Sarah — Genesis 20:12: Sarah is Abraham's half-sister. Same father, different mother. God makes his foundational covenant with a man in a half-sibling marriage.",
     "raw_text": "•  Abraham and Sarah — Genesis 20:12: Sarah is Abraham's half-sister. Same father, different mother. God makes his foundational covenant with a man in a half-sibling marriage.",
     "provenance_type": "PRE_CONVENTION",
@@ -23627,7 +24495,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:756",
+    "source_reference": "paragraph:784",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23641,7 +24509,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a0ce708e2b2338cffc51",
+    "id": "rk_f5010a97b0bec3486d06",
     "text": "•  Amram and Jochebed — Exodus 6:20: Moses's father married his father's sister — his own aunt. Moses, the lawgiver who delivers the prohibitions in Leviticus, is the product of an aunt-nephew marriage.",
     "raw_text": "•  Amram and Jochebed — Exodus 6:20: Moses's father married his father's sister — his own aunt. Moses, the lawgiver who delivers the prohibitions in Leviticus, is the product of an aunt-nephew marriage.",
     "provenance_type": "PRE_CONVENTION",
@@ -23658,7 +24526,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:757",
+    "source_reference": "paragraph:785",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23672,7 +24540,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53e979246e596086da11",
+    "id": "rk_df058379ce76cb2e13eb",
     "text": "•  Isaac and Rebekah — cousins. Jacob, Leah, and Rachel — cousins. Cousin marriage is the norm across the patriarchal narratives.",
     "raw_text": "•  Isaac and Rebekah — cousins. Jacob, Leah, and Rachel — cousins. Cousin marriage is the norm across the patriarchal narratives.",
     "provenance_type": "PRE_CONVENTION",
@@ -23689,7 +24557,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:758",
+    "source_reference": "paragraph:786",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23703,7 +24571,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0b9314f41f5eb9525d67",
+    "id": "rk_dde87f7d06ad8246ff82",
     "text": "•  Lot and his daughters — Genesis 19:30-38: after Sodom, the daughters get Lot drunk and sleep with him to preserve the lineage. The text records no divine condemnation of Lot. The daughters are presented as acting for survival. The nations produced — Moab and Ammon — become real peoples. The text treats this as origin narrative, not moral failure.",
     "raw_text": "•  Lot and his daughters — Genesis 19:30-38: after Sodom, the daughters get Lot drunk and sleep with him to preserve the lineage. The text records no divine condemnation of Lot. The daughters are presented as acting for survival. The nations produced — Moab and Ammon — become real peoples. The text treats this as origin narrative, not moral failure.",
     "provenance_type": "PRE_CONVENTION",
@@ -23720,7 +24588,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:759",
+    "source_reference": "paragraph:787",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23734,7 +24602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fc2fdfc9b243c167a102",
+    "id": "rk_dedbd6af537eab14378d",
     "text": "•  Tamar and Judah — Genesis 38: Judah sleeps with his daughter-in-law Tamar, who has disguised herself as a prostitute. When he discovers the truth, he says: \"She is more righteous than I.\" God kills his sons in this chapter. He does not address the act with Tamar.",
     "raw_text": "•  Tamar and Judah — Genesis 38: Judah sleeps with his daughter-in-law Tamar, who has disguised herself as a prostitute. When he discovers the truth, he says: \"She is more righteous than I.\" God kills his sons in this chapter. He does not address the act with Tamar.",
     "provenance_type": "PRE_CONVENTION",
@@ -23751,7 +24619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.2 The Patriarchs",
-    "source_reference": "paragraph:760",
+    "source_reference": "paragraph:788",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23765,7 +24633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d9d259aa182b4c1c4ede",
+    "id": "rk_adf13b216a74b39d908f",
     "text": "Not cherry-picking: These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
     "raw_text": "**Not cherry-picking: **These are not obscure passages. Abraham is the founding patriarch. Moses is the lawgiver. Lot is the righteous man saved from Sodom. These are central figures whose family structures are incompatible with the law attributed to the same God.",
     "provenance_type": "PRE_CONVENTION",
@@ -23782,7 +24650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:761",
+    "source_reference": "paragraph:789",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23796,7 +24664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6cf6d865a18f2e96148a",
+    "id": "rk_569236906646dc0c3aeb",
     "text": "The three options: (a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
     "raw_text": "**The three options: **(a) God approved consanguineous relationships for the patriarchs and later changed the rules — divine law is not timeless. (b) The authors of Genesis and the authors of Leviticus were different communities writing at different times who did not coordinate — the documentary hypothesis. (c) Special exceptions were made for the founders — which makes the law contingent on who you are, not what is morally true.",
     "provenance_type": "PRE_CONVENTION",
@@ -23813,7 +24681,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:762",
+    "source_reference": "paragraph:790",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23827,7 +24695,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7febc23a8751d0423659",
+    "id": "rk_da8e3ac363bcc9653cb5",
     "text": "None of these support inerrancy: All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
     "raw_text": "**None of these support inerrancy: **All three options undermine the claim that the Bible is a consistent, timeless, divinely coherent moral document.",
     "provenance_type": "PRE_CONVENTION",
@@ -23844,7 +24712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:763",
+    "source_reference": "paragraph:791",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23858,7 +24726,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_685191278bb77cc9b10b",
+    "id": "rk_a2f487f372a6c382c127",
     "text": "Why this assessment holds — questions for conversation:",
     "raw_text": "**Why this assessment holds — questions for conversation:**",
     "provenance_type": "PRE_CONVENTION",
@@ -23875,7 +24743,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:764",
+    "source_reference": "paragraph:792",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23889,7 +24757,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3d54a01971cd833701bb",
+    "id": "rk_734b212200d0127c617f",
     "text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
     "raw_text": "•  Clarifying question: \"Abraham married his half-sister and God made his covenant with him anyway. Moses was born from an aunt-nephew marriage and went on to deliver the law prohibiting it. How do you square that?\"",
     "provenance_type": "PRE_CONVENTION",
@@ -23906,7 +24774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:765",
+    "source_reference": "paragraph:793",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23920,7 +24788,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39a28c227ad8ba7d678f",
+    "id": "rk_105e3967f964e54408b7",
     "text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
     "raw_text": "•  Direct question: \"If Leviticus 18 is God's timeless moral law — why didn't it apply to the patriarchs? And if the answer is that God makes exceptions — who decides who gets one?\"",
     "provenance_type": "PRE_CONVENTION",
@@ -23937,7 +24805,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:766",
+    "source_reference": "paragraph:794",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23951,7 +24819,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ef773feae69adc8ed157",
+    "id": "rk_94fb8e83647ba1d25f3a",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
     "provenance_type": "PRE_CONVENTION",
@@ -23968,7 +24836,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:767",
+    "source_reference": "paragraph:795",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -23982,7 +24850,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c0126e51a8698122cd94",
+    "id": "rk_c6152929db12cefa0ebb",
     "text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
     "raw_text": "•  Friedman, Richard Elliott. Who Wrote the Bible? (1987) — documentary hypothesis and source differentiation.",
     "provenance_type": "PRE_CONVENTION",
@@ -23999,7 +24867,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:768",
+    "source_reference": "paragraph:796",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24013,7 +24881,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c34da6f07bdde25b6369",
+    "id": "rk_cd00bbc845f0615fd484",
     "text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
     "raw_text": "•  Knohl, Israel. The Sanctuary of Silence (1995) — on the Priestly source and its relationship to earlier texts.",
     "provenance_type": "PRE_CONVENTION",
@@ -24030,7 +24898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:769",
+    "source_reference": "paragraph:797",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24044,7 +24912,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0ea57d40ce584a4c0e16",
+    "id": "rk_86c601a93b194dc27c7a",
     "text": "Sources — defending harmony:",
     "raw_text": "**Sources — defending harmony:**",
     "provenance_type": "PRE_CONVENTION",
@@ -24061,7 +24929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:770",
+    "source_reference": "paragraph:798",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24075,7 +24943,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c63eb779e41512291e7b",
+    "id": "rk_8e654fb6ce01b06df1b8",
     "text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
     "raw_text": "•  Kitchen, K.A. On the Reliability of the Old Testament (2003) — conservative archaeological and historical defense.",
     "provenance_type": "PRE_CONVENTION",
@@ -24092,7 +24960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:771",
+    "source_reference": "paragraph:799",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24106,7 +24974,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ff4991c40d620357b8c2",
+    "id": "rk_4b98107529654de9a2d1",
     "text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
     "raw_text": "•  Wenham, Gordon. Genesis (Word Biblical Commentary, 1987) — evangelical scholarly treatment.",
     "provenance_type": "PRE_CONVENTION",
@@ -24123,7 +24991,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "16. INCEST IN THE BIBLICAL NARRATIVE > 16.3 The Analytical Point",
-    "source_reference": "paragraph:772",
+    "source_reference": "paragraph:800",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24137,7 +25005,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_951c2d04212600f97f36",
+    "id": "rk_d564208a899956989da1",
     "text": "The claim: Jesus's life, death, and resurrection were specifically for believers — for \"his people.\" Everything he did was for the elect, the saved, the in-group.",
     "raw_text": "**The claim: **Jesus's life, death, and resurrection were specifically for believers — for \"his people.\" Everything he did was for the elect, the saved, the in-group.",
     "provenance_type": "PRE_CONVENTION",
@@ -24154,7 +25022,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
-    "source_reference": "paragraph:773",
+    "source_reference": "paragraph:801",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24168,7 +25036,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cdb7fd76f94ebfaf05df",
+    "id": "rk_a5982a338ef7720ca1b8",
     "text": "What it does socially: Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about \"us\" is a projection of in-group loyalty dressed as theology.",
     "raw_text": "**What it does socially: **Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about \"us\" is a projection of in-group loyalty dressed as theology.",
     "provenance_type": "PRE_CONVENTION",
@@ -24185,7 +25053,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.1 What the Claim Is and What It Does",
-    "source_reference": "paragraph:774",
+    "source_reference": "paragraph:802",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24199,7 +25067,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4e4c66f9f16a064b9ea6",
+    "id": "rk_7392b06d5188c9270b83",
     "text": "•  Matthew 10:5-6 — Jesus explicitly restricts the disciples' mission: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" The historical Jesus's stated program is Israel-specific, not universal.",
     "raw_text": "•  Matthew 10:5-6 — Jesus explicitly restricts the disciples' mission: \"Go nowhere among the Gentiles and enter no town of the Samaritans, but go rather to the lost sheep of the house of Israel.\" The historical Jesus's stated program is Israel-specific, not universal.",
     "provenance_type": "PRE_CONVENTION",
@@ -24216,7 +25084,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:775",
+    "source_reference": "paragraph:803",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24230,7 +25098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8f82cb6d39da5fc592e3",
+    "id": "rk_fdb3db5bb48e54e21ca7",
     "text": "•  Mark 7:24-30 — A Gentile woman asks Jesus to heal her daughter. Jesus responds: \"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.\" He calls her a dog — standard Jewish pejorative for Gentiles. She persists. He heals her. But the initial response is ethnic exclusion. This is the most uncomfortable passage in the Synoptics for universal atonement claims.",
     "raw_text": "•  Mark 7:24-30 — A Gentile woman asks Jesus to heal her daughter. Jesus responds: \"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs.\" He calls her a dog — standard Jewish pejorative for Gentiles. She persists. He heals her. But the initial response is ethnic exclusion. This is the most uncomfortable passage in the Synoptics for universal atonement claims.",
     "provenance_type": "PRE_CONVENTION",
@@ -24247,7 +25115,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:776",
+    "source_reference": "paragraph:804",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24261,7 +25129,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2673d2b45d0879610a12",
+    "id": "rk_73f368c103b0beb6cf44",
     "text": "•  John 10:14-16 — \"I have other sheep that are not of this fold. I must bring them also.\" Typically interpreted as Gentile believers joining Jewish believers — not universal salvation regardless of belief.",
     "raw_text": "•  John 10:14-16 — \"I have other sheep that are not of this fold. I must bring them also.\" Typically interpreted as Gentile believers joining Jewish believers — not universal salvation regardless of belief.",
     "provenance_type": "PRE_CONVENTION",
@@ -24278,7 +25146,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:777",
+    "source_reference": "paragraph:805",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24292,7 +25160,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2ac3bfe65762415b833d",
+    "id": "rk_5f491268a579c4411881",
     "text": "•  Matthew 25:31-46 — the sheep and goats judgment: people are judged on whether they fed the hungry, clothed the naked, visited the sick and imprisoned. No mention of belief, prayer, or church attendance. The criterion for salvation here is material care for the vulnerable — not faith in Jesus.",
     "raw_text": "•  Matthew 25:31-46 — the sheep and goats judgment: people are judged on whether they fed the hungry, clothed the naked, visited the sick and imprisoned. No mention of belief, prayer, or church attendance. The criterion for salvation here is material care for the vulnerable — not faith in Jesus.",
     "provenance_type": "PRE_CONVENTION",
@@ -24309,7 +25177,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.2 What Jesus's Own Words Say — Internal Contradiction",
-    "source_reference": "paragraph:778",
+    "source_reference": "paragraph:806",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24323,7 +25191,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6e2bda2bd6870ec40a0e",
+    "id": "rk_1ffbe53b84276c34887d",
     "text": "Limited atonement (Calvinist): Jesus died specifically for the elect — those God chose before creation. Not for everyone. The \"for us\" is the elect only, predetermined before birth. Romans 9:13 — \"Jacob I loved, Esau I hated, before either had done anything good or bad.\"",
     "raw_text": "**Limited atonement (Calvinist): **Jesus died specifically for the elect — those God chose before creation. Not for everyone. The \"for us\" is the elect only, predetermined before birth. Romans 9:13 — \"Jacob I loved, Esau I hated, before either had done anything good or bad.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -24340,7 +25208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
-    "source_reference": "paragraph:779",
+    "source_reference": "paragraph:807",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24354,7 +25222,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_93b86d275138fc33f8f9",
+    "id": "rk_67f9e5cd56eb48fbb239",
     "text": "Universal atonement (Arminian): Jesus died for everyone but salvation is conditional on faith. The \"for us\" is potentially everyone who responds.",
     "raw_text": "**Universal atonement (Arminian): **Jesus died for everyone but salvation is conditional on faith. The \"for us\" is potentially everyone who responds.",
     "provenance_type": "PRE_CONVENTION",
@@ -24371,7 +25239,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
-    "source_reference": "paragraph:780",
+    "source_reference": "paragraph:808",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24385,7 +25253,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d566ff012151a8fd499f",
+    "id": "rk_ec22a1a7863fc1fb228d",
     "text": "Why this matters: These are contradictory positions and both use the same Bible, the same Jesus, the same Paul. The claim that Jesus \"did it for you\" means completely different things depending on which camp is speaking. They cannot both be right. The text does not resolve it — which is why the debate has continued for 500 years since Calvin and Arminius.",
     "raw_text": "**Why this matters: **These are contradictory positions and both use the same Bible, the same Jesus, the same Paul. The claim that Jesus \"did it for you\" means completely different things depending on which camp is speaking. They cannot both be right. The text does not resolve it — which is why the debate has continued for 500 years since Calvin and Arminius.",
     "provenance_type": "PRE_CONVENTION",
@@ -24402,7 +25270,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.3 The Calvinist vs. Arminian Split",
-    "source_reference": "paragraph:781",
+    "source_reference": "paragraph:809",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24416,7 +25284,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cffe795b7580f93b49c7",
+    "id": "rk_a9f534c356f1b5aa5cb6",
     "text": "Historical Jesus vs. Pauline Christianity: The universalization of Jesus's mission — from Israel to all nations — is a post-resurrection development. It is Paul's theological project, not Jesus's stated program during his ministry. Acts 10 (Peter's vision) and the Jerusalem Council (Acts 15) document the argument about whether Gentiles are included. It was contested, not obvious.",
     "raw_text": "**Historical Jesus vs. Pauline Christianity: **The universalization of Jesus's mission — from Israel to all nations — is a post-resurrection development. It is Paul's theological project, not Jesus's stated program during his ministry. Acts 10 (Peter's vision) and the Jerusalem Council (Acts 15) document the argument about whether Gentiles are included. It was contested, not obvious.",
     "provenance_type": "PRE_CONVENTION",
@@ -24433,7 +25301,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
-    "source_reference": "paragraph:782",
+    "source_reference": "paragraph:810",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24447,7 +25315,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_daa68a237014d44323f6",
+    "id": "rk_7db36de1d271344bde7d",
     "text": "The Matthew 28 Great Commission: \"Go and make disciples of all nations\" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.",
     "raw_text": "**The Matthew 28 Great Commission: **\"Go and make disciples of all nations\" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.",
     "provenance_type": "PRE_CONVENTION",
@@ -24464,7 +25332,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
-    "source_reference": "paragraph:783",
+    "source_reference": "paragraph:811",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24478,7 +25346,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ea1ac6e2efe722ff536c",
+    "id": "rk_292f7cf6b688e06b2576",
     "text": "The implication: If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then \"Jesus did it for everyone\" is a Pauline conclusion, not a statement Jesus made about himself during his life.",
     "raw_text": "**The implication: **If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then \"Jesus did it for everyone\" is a Pauline conclusion, not a statement Jesus made about himself during his life.",
     "provenance_type": "PRE_CONVENTION",
@@ -24495,7 +25363,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.4 The Universalization Problem",
-    "source_reference": "paragraph:784",
+    "source_reference": "paragraph:812",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24509,7 +25377,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7336d37595378fe03128",
+    "id": "rk_4ba9c6dcc2077414976d",
     "text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
     "raw_text": "The in-group exclusivity claim produces a specific moral problem: what does the theology say about people who suffer and are not in the group?",
     "provenance_type": "PRE_CONVENTION",
@@ -24526,7 +25394,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:785",
+    "source_reference": "paragraph:813",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24540,7 +25408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fcf33d41743a8d660eb3",
+    "id": "rk_bd54a9e18ba63fa32802",
     "text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
     "raw_text": "•  If Jesus only intercedes for believers, non-believers suffer without divine concern — including children born into non-Christian contexts, people who never heard the gospel, and the billions who lived before Christianity existed.",
     "provenance_type": "PRE_CONVENTION",
@@ -24557,7 +25425,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:786",
+    "source_reference": "paragraph:814",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24571,7 +25439,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_daca04e24c4e2503e1ee",
+    "id": "rk_44919ef67e4770c4bf68",
     "text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
     "raw_text": "•  The standard response: \"God provides general grace to all.\" But general grace without specific redemption still results in eternal torment. The general grace argument and the exclusivity claim cannot both be fully operative.",
     "provenance_type": "PRE_CONVENTION",
@@ -24588,7 +25456,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:787",
+    "source_reference": "paragraph:815",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24602,7 +25470,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_33f3e8ed81163e8ed60d",
+    "id": "rk_1e4a13cd132a60af346e",
     "text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
     "raw_text": "•  The missionary implication: if hearing and rejecting is worse than never hearing (because rejection incurs greater guilt than ignorance), then missionary activity increases damnation. This is a real theological problem called the \"scandal of particularity.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -24619,7 +25487,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:788",
+    "source_reference": "paragraph:816",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24633,7 +25501,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_737e11baea4ae41c26d1",
+    "id": "rk_47c00572177fbffd7f54",
     "text": "The question:",
     "raw_text": "**The question:**",
     "provenance_type": "PRE_CONVENTION",
@@ -24650,7 +25518,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:789",
+    "source_reference": "paragraph:817",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24664,7 +25532,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_64f8d663029d44f9dee8",
+    "id": "rk_28e8315ba9f0bfea9add",
     "text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
     "raw_text": "•  \"What is the eternal fate of someone who lived a morally excellent life, never heard of Jesus, and died in 400 BCE? Walk me through exactly what your theology says happens to that person.\"",
     "provenance_type": "PRE_CONVENTION",
@@ -24681,7 +25549,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:790",
+    "source_reference": "paragraph:818",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24695,7 +25563,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d3772ef99fd2385f7140",
+    "id": "rk_50ec6f354f6465dc744f",
     "text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
     "raw_text": "•  The answer reveals the full moral stakes of the exclusivity claim more clearly than any abstract argument.",
     "provenance_type": "PRE_CONVENTION",
@@ -24712,7 +25580,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:791",
+    "source_reference": "paragraph:819",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24726,7 +25594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2b145a8a8406b063a567",
+    "id": "rk_8ca0d56374d811074beb",
     "text": "Sources — critical:",
     "raw_text": "**Sources — critical:**",
     "provenance_type": "PRE_CONVENTION",
@@ -24743,7 +25611,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:792",
+    "source_reference": "paragraph:820",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24757,7 +25625,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0d3a5aceba6bb178b1da",
+    "id": "rk_3cb92747f60db5a99f97",
     "text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
     "raw_text": "•  Ehrman, Bart D. God's Problem: How the Bible Fails to Answer Our Most Important Question (2008) — on suffering and divine response.",
     "provenance_type": "PRE_CONVENTION",
@@ -24774,7 +25642,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:793",
+    "source_reference": "paragraph:821",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24788,7 +25656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_12ffccc34eba6d66d04f",
+    "id": "rk_79764cf88aba425d8dc7",
     "text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
     "raw_text": "•  Hick, John. God and the Universe of Faiths (1973) — pluralist theology challenging exclusivity.",
     "provenance_type": "PRE_CONVENTION",
@@ -24805,7 +25673,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:794",
+    "source_reference": "paragraph:822",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24819,7 +25687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6e044668f663f054b16b",
+    "id": "rk_9a726a3660b1b4158759",
     "text": "Sources — defending exclusivism:",
     "raw_text": "**Sources — defending exclusivism:**",
     "provenance_type": "PRE_CONVENTION",
@@ -24836,7 +25704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:795",
+    "source_reference": "paragraph:823",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24850,7 +25718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b8e8ab0f4b574f069340",
+    "id": "rk_49569c02cd3b16972e9c",
     "text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
     "raw_text": "•  Carson, D.A. The Gagging of God: Christianity Confronts Pluralism (1996) — rigorous evangelical defense.",
     "provenance_type": "PRE_CONVENTION",
@@ -24867,7 +25735,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:796",
+    "source_reference": "paragraph:824",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24881,7 +25749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aede0a3ace5e37390d02",
+    "id": "rk_0eabc59bc7421afd639f",
     "text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
     "raw_text": "•  Tiessen, Terrance. Who Can Be Saved? (2004) — evangelical treatment of salvation and the unevangelized.",
     "provenance_type": "PRE_CONVENTION",
@@ -24898,7 +25766,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "17. \"JESUS ONLY DID IT FOR US\" — IN-GROUP EXCLUSIVITY > 17.5 The Suffering of Non-Believers",
-    "source_reference": "paragraph:797",
+    "source_reference": "paragraph:825",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24912,7 +25780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c2e92bc5ff3075e45874",
+    "id": "rk_fecdc0b2f12f6b631266",
     "text": "That verse is from a letter to exiles in Babylon being told to settle in for 70 years of captivity. The 'plans' are for eventual national restoration, not personal goals. Verses 16-19 right before it describe God sending sword, famine, and plague to those still in Jerusalem. Using it as a graduation card slogan strips all context.",
     "raw_text": "That verse is from a letter to exiles in Babylon being told to settle in for 70 years of captivity. The 'plans' are for eventual national restoration, not personal goals. Verses 16-19 right before it describe God sending sword, famine, and plague to those still in Jerusalem. Using it as a graduation card slogan strips all context.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -24929,7 +25797,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.1 On Jeremiah 29:11 (personal life promise)",
-    "source_reference": "paragraph:798",
+    "source_reference": "paragraph:826",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24943,7 +25811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_058431847793ef6c556f",
+    "id": "rk_86f70b7f4c7c5ed85df8",
     "text": "Jeremiah 31:31 says the new covenant is with 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Jewish tradition reads this as future restoration of Israel. Christians retrofitted this centuries later; nothing in Jeremiah's context suggests it refers to Jesus.",
     "raw_text": "Jeremiah 31:31 says the new covenant is with 'the house of Israel and the house of Judah' — not Gentiles, not a new religion. Jewish tradition reads this as future restoration of Israel. Christians retrofitted this centuries later; nothing in Jeremiah's context suggests it refers to Jesus.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -24960,7 +25828,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.2 On the 'new covenant' (Jeremiah 31:31)",
-    "source_reference": "paragraph:799",
+    "source_reference": "paragraph:827",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -24974,7 +25842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_368470de4c9062d11873",
+    "id": "rk_9e3ba4be55c5bed81c75",
     "text": "God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings, won't listen to worship music. What God wants: justice rolling down like waters. Micah 6:8 says God requires justice, kindness, and humility — not ritual. These passages directly contradict the elaborate worship requirements in Exodus/Leviticus.",
     "raw_text": "God 'hates and despises' Israel's feasts, takes no delight in assemblies, won't accept offerings, won't listen to worship music. What God wants: justice rolling down like waters. Micah 6:8 says God requires justice, kindness, and humility — not ritual. These passages directly contradict the elaborate worship requirements in Exodus/Leviticus.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -24991,7 +25859,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.3 On Amos 5:21-24 vs. ritual worship requirements",
-    "source_reference": "paragraph:800",
+    "source_reference": "paragraph:828",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25005,7 +25873,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f01213c1d17f9c4b4bc1",
+    "id": "rk_3e526a18830e1b0fd493",
     "text": "God explicitly cares about Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. The book critiques Jonah's nationalism as petty. If God shows mercy to Israel's destroyers, the 'chosen people' ideology is more complicated than simple election theology claims.",
     "raw_text": "God explicitly cares about Nineveh — the Assyrian empire that destroyed Israel. When the city repents, God spares them. The book critiques Jonah's nationalism as petty. If God shows mercy to Israel's destroyers, the 'chosen people' ideology is more complicated than simple election theology claims.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25022,7 +25890,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.4 On Jonah vs. nationalist theology",
-    "source_reference": "paragraph:801",
+    "source_reference": "paragraph:829",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25036,7 +25904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fe5759e002304b3a7df5",
+    "id": "rk_7902223bcc10ef2b8dd1",
     "text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.",
     "raw_text": "Jeremiah contradicts itself constantly. It says surrender to Babylon because God is using them (ch. 27), then says Babylon is evil and will be destroyed (ch. 50-51). The Gospels disagree on Jesus's last words, what happened at the resurrection, and whether Jesus was surprised or in control. These are fundamental incoherence that most devotional reading strategies are designed to avoid noticing, not minor tensions.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25053,7 +25921,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.5 On the Bible being 'clear' or 'consistent'",
-    "source_reference": "paragraph:802",
+    "source_reference": "paragraph:830",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25067,7 +25935,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8a3569015e4613a8189e",
+    "id": "rk_c2e1e3c126a31efa70ec",
     "text": "Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.",
     "raw_text": "Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25084,7 +25952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "18. OT & GOSPEL REFERENCE NOTES (moved from Study Notes §8) > 18.6 On the absence of Jesus's own writings",
-    "source_reference": "paragraph:803",
+    "source_reference": "paragraph:831",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25098,7 +25966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d201861c03087773ef17",
+    "id": "rk_a13614fe780488665df1",
     "text": "What has actually been read cover to cover. Relevant in live conversation: do not argue from a book not yet read.",
     "raw_text": "*What has actually been read cover to cover. Relevant in live conversation: do not argue from a book not yet read.*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25114,7 +25982,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:804",
+    "source_reference": "paragraph:832",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25128,7 +25996,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_32605ddc1ebbb1cbc622",
+    "id": "rk_884b7ce2b24f8c3ae57a",
     "text": "Old Testament — Completed",
     "raw_text": "**Old Testament — Completed**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25144,7 +26012,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:805",
+    "source_reference": "paragraph:833",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25158,7 +26026,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e6155d4a09a1e94780b8",
+    "id": "rk_7eca61da05d9081febe6",
     "text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "raw_text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25174,7 +26042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:806",
+    "source_reference": "paragraph:834",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25188,7 +26056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_32bf507c229e52db7f2c",
+    "id": "rk_381dffdfd6a3d61c475a",
     "text": "New Testament — In Progress",
     "raw_text": "**New Testament — In Progress**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25204,7 +26072,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:807",
+    "source_reference": "paragraph:835",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25218,7 +26086,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9ff02dddadea38ddaeff",
+    "id": "rk_f5309f1a4e186b731a89",
     "text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "raw_text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25234,7 +26102,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:808",
+    "source_reference": "paragraph:836",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -25248,7 +26116,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7b9be4a0b8ae26f2246f",
+    "id": "rk_519a09a6ecf7c935342c",
     "text": "Living document — update as reading progresses",
     "raw_text": "*Living document — update as reading progresses*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -25264,7 +26132,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Field_Guide_Conversation_Reference.md",
     "source_section": "20. READING PROGRESS (mirrored from Study Notes §10)",
-    "source_reference": "paragraph:809",
+    "source_reference": "paragraph:837",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
