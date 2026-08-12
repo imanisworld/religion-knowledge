@@ -201,15 +201,25 @@ h2 span.flagmark{color:var(--collapses)}
   :root{--rail:0px}
   #rail{transform:translateX(-100%);visibility:hidden;width:300px;transition:transform .22s,visibility .22s;inset:0 auto 0 0}
   #rail.open{transform:none;visibility:visible;box-shadow:0 0 40px rgba(0,0,0,.3)}
-  main{padding:0 1.35rem 6rem;max-width:none}
+  main{padding:0 1.1rem 6rem;max-width:none}
   #menu{display:block!important}
   #progress{left:0}
   .masthead{padding-top:4.2rem}
+  .camp{white-space:normal}
+  .related a{white-space:normal}
+  .audit .atitle{min-width:0}
+  td:first-child{white-space:normal}
+  #here{display:none}
+  #tools{padding:.5rem 0;gap:.4rem}
+  .tbtn{font-size:.6rem;padding:.38rem .55rem}
 }
+#overlay{display:none;position:fixed;inset:0;background:rgba(0,0,0,.5);z-index:39}
+#overlay.show{display:block}
 #menu{display:none;position:fixed;top:.85rem;left:.85rem;z-index:60;background:var(--ink);
   color:#fff;border:none;border-radius:4px;padding:.5rem .75rem;cursor:pointer;font-size:.9rem}
 </style></head><body>
 <button id="menu" aria-label="Toggle navigation">☰</button>
+<div id="overlay"></div>
 <div id="progress"><i></i></div>
 <nav id="rail" aria-label="Contents">
   <header>
@@ -1328,8 +1338,9 @@ $$('.gloss').forEach(g=>g.addEventListener('mouseenter',()=>{
   if(g.getBoundingClientRect().left+t.offsetWidth>innerWidth-20)g.classList.add('flip');
 }));
 $('#top').addEventListener('click',()=>scrollTo({top:0,behavior:'smooth'}));
-$('#menu').addEventListener('click',()=>$('#rail').classList.toggle('open'));
-$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080)$('#rail').classList.remove('open')});
+$('#menu').addEventListener('click',()=>{const o=$('#rail').classList.toggle('open');$('#overlay').classList.toggle('show',o)});
+$('#overlay').addEventListener('click',()=>{$('#rail').classList.remove('open');$('#overlay').classList.remove('show')});
+$('#toc').addEventListener('click',e=>{if(e.target.tagName==='A'&&innerWidth<1080){$('#rail').classList.remove('open');$('#overlay').classList.remove('show')}});
 addEventListener('keydown',e=>{
   if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
   if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
