@@ -7,7 +7,7 @@ import { parseMarkdown, PARSER_VERSION } from './parse-markdown.mjs';
 // sourced audit content to fit an arbitrary budget. The Curse of Ham (§3.3)
 // and complementarianism (§15.6) additions (11-12 Aug 2026) pushed it past
 // 1.05MB; bumped again for the same reason.
-const MAX_CHUNK_BYTES = 1_600_000; // §12.6 audit (12 Aug 2026) added ~46KB to Field Guide chunk; raised from 1.5MB
+const MAX_CHUNK_BYTES = 1_700_000; // §12.9 audit (13 Aug 2026) pushed field-guide past 1.6MB; raised from 1.6MB
 const CANONICAL_FILES = [
   ['Bible_Deep_Dive_Master_Notes.md', 'records.master.js'],
   ['Field_Guide_Conversation_Reference.md', 'records.field-guide.js'],
