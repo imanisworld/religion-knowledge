@@ -1,19 +1,19 @@
 {
   "parser_version": "1.2.0",
   "canonical_files": 8,
-  "records": 1873,
+  "records": 1890,
   "warnings": 0,
   "review_required": 103,
   "provenance_counts": {
     "REVIEW_REQUIRED": 103,
     "PRE_CONVENTION": 728,
-    "SOURCE": 479,
-    "CLAUDE": 544,
+    "SOURCE": 492,
+    "CLAUDE": 548,
     "MY_WORDS": 18,
     "MY_QUESTION": 1
   },
   "record_type_counts": {
-    "OBSERVATION": 1325,
+    "OBSERVATION": 1342,
     "AUDIT_NOTE": 297,
     "CLAIM": 35,
     "AUDIT_STATUS": 35,
@@ -33,8 +33,8 @@
     {
       "source_file": "Field_Guide_Conversation_Reference.md",
       "file": "records.field-guide.js",
-      "records": 1083,
-      "size_bytes": 1798344
+      "records": 1100,
+      "size_bytes": 1838633
     },
     {
       "source_file": "Glossary.md",

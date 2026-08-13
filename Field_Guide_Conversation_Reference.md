@@ -563,7 +563,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  If God foreknew who would end up in hell before creating them, and created them anyway, the claim of divine love requires serious qualification.
 
-•  If the threat of hell is required to motivate moral behavior, that behavior is compliance under coercion — not morality.
+•  If the threat of hell is required to motivate moral behavior, that behavior is compliance under coercion — not morality. (See §22.10 for the full sourced treatment of this argument, including its strongest counter and where that counter fails.)
 
 **Why this assessment holds — questions for conversation:**
 
@@ -605,7 +605,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 •  Direct question: "God knew before creating each person whether they would end up in heaven or hell — and created them anyway. How does free will address that?"
 
-•  On the robot framing: "You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given."
+•  On the robot framing: "You are saying God wanted genuine love, not compelled love. But threatening people with eternal torment for not loving him is coercion, not love freely given." (See §22.10 for the full sourced treatment — Talbott, Reitan, and Kvanvig on the coercion argument; Lewis's "doors locked from the inside" as the strongest counter and where it fails against Matthew 25:41.)
 
 **Sources — defending free will:**
 
@@ -2419,6 +2419,51 @@ Deuteronomy 30:11-14 states the position directly: "Surely, this commandment tha
 **Sources:**
 - Sanders, E.P. *Paul and Palestinian Judaism: A Comparison of Patterns of Religion*. Fortress Press, 1977.
 
+## 22.10 Eternal Hell as Coercion — Does the Threat Defeat Its Own Purpose?
+
+⟨DOCUMENTED⟩ This extends §9.2 ("Burning in hell") and §9.3 ("God doesn't want robots") with named philosophical scholarship on a specific argument both sections already gesture at unsourced. The demand is for love in its fullest form — Deuteronomy 6:5: "You shall love the LORD your God with all your heart, and with all your soul, and with all your might," restated by Jesus at Matthew 22:37 as "with all your heart, and with all your soul, and with all your mind." The enforcement mechanism is Gehenna: Matthew 10:28, "Do not fear those who kill the body but cannot kill the soul; rather, fear the one who can destroy both soul and body in hell" — "fear" (not "revere") applied twice, to the same threat.
+
+⟨INFERENCE⟩ The argument: a demand for love, backed by a threat of infinite consequence for non-compliance, cannot produce the thing it demands. Love that exists only because withholding it carries catastrophic cost is not distinguishable from fear-compliance — the same structure that makes "love me or else" recognizable as coercive in any human relationship does not stop being coercive because the power differential is total instead of merely large. This specific analogical framing is this corpus's own construction, but it substantially overlaps published academic argument, documented below.
+
+⟨DOCUMENTED⟩ Thomas Talbott [CRITICAL — Christian universalist, Willamette University], "The Doctrine of Everlasting Punishment," *Faith and Philosophy* 7.1 (1990): 19–42, and *The Inescapable Love of God* (1999; 2nd ed., Cascade Books, 2014): argues in substance that traditional hell doctrine functioned historically as an instrument of fear and institutional control, and that this is incompatible with a God whose nature is unconditional love. (His exact phrasing on the coercion point was not independently pinned down in this pass — the substance of the argument is confirmed, not a specific verbatim sentence; do not quote him directly on this without a page-level check.)
+
+⟨DOCUMENTED⟩ Eric Reitan [CRITICAL], "Human Freedom and the Impossibility of Eternal Damnation," in Robin A. Parry and Christopher H. Partridge, eds., *Universal Salvation? The Current Debate* (Paternoster / Eerdmans, 2003), pp. 125–142: argues against the free-will defense of hell in part because genuine reconciliation cannot be coerced — an eternally standing infinite threat is in tension with the kind of freedom that defense itself needs to work.
+
+⟨DOCUMENTED⟩ Jonathan L. Kvanvig, *The Problem of Hell* (Oxford University Press, 1993): names the traditional retributive model the "strong view" of hell — some are consigned; hell is a place of ongoing existence; there is no possibility of leaving; it is retributive punishment — and argues this view is morally indefensible. His own preferred alternative he calls the "issuant conception" of hell: damnation as the sinner's own free, standing choice of separation from God, issuing from God's character rather than externally imposed as retribution. ("Choice model" is secondary-literature shorthand for this, not Kvanvig's own term.)
+
+⟨DOCUMENTED⟩ The strongest available counter to the coercion argument is close to Kvanvig's issuant conception and predates it: C.S. Lewis [CONSERVATIVE — Anglican lay apologist], *The Problem of Pain* (Geoffrey Bles, 1940), ch. 8, "Hell": "I willingly believe that the damned are, in one sense, successful, rebels to the end; that the doors of hell are locked on the inside." Lewis immediately qualifies this: the damned do not consciously will even "the first preliminary stages of that self-abandonment through which alone the soul can reach any good" — they don't choose damnation as such, but they refuse the only path out of it. On this reading, hell is not an external sentence but a self-perpetuated state; the coercion argument's target (a threat imposed from outside) would not apply.
+
+⟨INFERENCE⟩ This is a real answer, and it is this project's own judgment, not a scholarly consensus, that it does not survive contact with the specific text the coercion argument is built on. Matthew 25:41 occurs inside the sheep-and-goats scene, which opens: "When the Son of Man comes in his glory, and all the angels with him, then he will sit on the throne of his glory" (25:31) — a judge on a throne, pronouncing a verdict in the third person to those already separated to his left: "You who are accursed, depart from me into the eternal fire prepared for the devil and his angels." That is a sentence being pronounced, not a door closing from within. The self-chosen-separation reading may be true of some other passage or some other theological construction of hell, but it is not what this specific, unparalleled Matthean scene depicts.
+
+⟨DOCUMENTED⟩ The canon's own internal tension: 1 John 4:18 — "There is no fear in love, but perfect love casts out fear; for fear has to do with punishment, and whoever fears has not reached perfection in love." The text concedes fear and love are incompatible states, in the same canon that installs infinite fear (Matthew 10:28, above) as the enforcement mechanism for the demand to love. The standard escape — "fear of the Lord means reverence, not terror" — is a real pattern elsewhere (already documented for Luke 14:26 at Field Guide §12.14) but does not survive Matthew 10:28: the object of the fear commanded there is explicitly "destroy[ing] both soul and body in hell" (Gehenna), not reverence.
+
+⟨DOCUMENTED⟩ The "safety net" counter-move — hedge your belief, since the cost of being wrong is infinite — is a paraphrase of Pascal's Wager. The standard philosophical objection to it, documented across the philosophy-of-religion literature, is that the wager, even granting its decision theory is sound, only motivates prudential or self-interested belief, not the sincere faith or love the traditions in question actually demand. William James is the figure most consistently credited with an early, forceful version of this objection: belief reached by Pascal's "mechanical calculation" would "lack the inner soul of faith's reality," and James wrote that if he were God he would "take particular pleasure in cutting off believers of this pattern from their infinite reward." J.L. Mackie and Michael Martin are cited in the secondary literature raising related integrity objections.
+
+⟨DOCUMENTED⟩ The text supplies its own version of the same objection. Revelation 3:16: "So, because you are lukewarm and neither cold nor hot, I am about to spit you out of my mouth" — hedged belief named and rejected, with the text preferring cold to lukewarm. Matthew 7:21-23: "Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven... Then I will declare to them, 'I never knew you; go away from me, you who behave lawlessly'" — addressed to people who prophesied, cast out demons, and performed deeds of power in Jesus's name, i.e., people who performed the outward service, rejected anyway. James 2:19: "You believe that God is one; you do well. Even the demons believe — and shudder" — correct propositional belief, held by beings who by definition are not saved, offered as the text's own example of belief that does nothing. (This verse's exact NRSVue wording was confirmed against the 1989 NRSV text and cross-checked as unchanged in the 2021 update rather than pulled from a direct NRSVue-tagged source — flagged, not a firsthand NRSVue citation.)
+
+⟨DOCUMENTED⟩ Separately, the wager also fails on its own decision-theoretic terms: the "many gods" or "many religions" objection, traced to Denis Diderot's 1746 formulation (an imam or sultan could run the identical calculation toward an incompatible conclusion — the "Sultan objection" is Diderot's illustration of the many-gods objection, not a separate argument), holds that the wager's two-option matrix (this God, or no god) is false; many mutually exclusive systems could occupy the "a god exists" cell, each demanding a different and sometimes contrary wager, so the calculation does not obviously favor any one of them. Modern treatments: Alan Hájek, "Waging War on Pascal's Wager," *Noûs* 37.1 (2003); Michael Saka, "Pascal's Wager and the Many Gods Objection," *Religious Studies* 37.3 (2001).
+
+⟨INFERENCE⟩ Put together, the safety net fails twice, not once. If the coercion argument above is right, hedge-belief cannot be the love the texts demand regardless of what the hedger privately believes — an omniscient judge, by definition, could tell insurance from devotion. And independently of that, the texts already on file (Revelation 3:16, Matthew 7:21-23, James 2:19) supply their own explicit rejection of exactly the insurance-motivated compliance the wager produces. The wager is not a loophole in the system; the system's own stated terms exclude it.
+
+⟨INFERENCE — Claude-drafted conversational move⟩ Rather than arguing whether hell is just, ask: "If you believe partly as insurance against the cost of being wrong, which category does your own text put you in — the lukewarm it spits out, the 'Lord, Lord' sayers it rejects, or the demons who believe and shudder?" There is no comfortable answer available from inside the text.
+
+⟨DOCUMENTED⟩ Marilyn McCord Adams, "Horrendous Evils and the Goodness of God," *Proceedings of the Aristotelian Society, Supplementary Volume* 63 (1989): 297–323, and *Horrendous Evils and the Goodness of God* (Cornell University Press, 1999): adjacent literature, flagged rather than built on — her documented project is whether God's goodness is compatible with permitting horrendous, seemingly unredeemable suffering generally, not an argument about hell as coercion specifically. Citing her for the coercion argument itself would overstate what she argues.
+
+**Sources:** ⟨DOCUMENTED⟩
+
+⟨DOCUMENTED⟩
+- Talbott, Thomas. "The Doctrine of Everlasting Punishment." *Faith and Philosophy* 7.1 (1990): 19-42.
+- Talbott, Thomas. *The Inescapable Love of God*. 2nd ed. Cascade Books, 2014.
+- Reitan, Eric. "Human Freedom and the Impossibility of Eternal Damnation." In *Universal Salvation? The Current Debate*, edited by Robin A. Parry and Christopher H. Partridge, 125-142. Paternoster / Eerdmans, 2003.
+- Kvanvig, Jonathan L. *The Problem of Hell*. Oxford University Press, 1993.
+- Lewis, C.S. *The Problem of Pain*. Geoffrey Bles, 1940.
+- Adams, Marilyn McCord. *Horrendous Evils and the Goodness of God*. Cornell University Press, 1999.
+- Hájek, Alan. "Waging War on Pascal's Wager." *Noûs* 37.1 (2003).
+- Saka, Michael. "Pascal's Wager and the Many Gods Objection." *Religious Studies* 37.3 (2001).
+
+⟨DOCUMENTED⟩ Cross-references: §9.2 (Burning in hell); §9.3 (God doesn't want robots); §12.14 (the "fear = reverence" escape, already tested against Luke 14:26); §22.4-22.6 (theodicy cluster); §23.3 (the same unfalsifiability-detection skill applied to a different structure).
+
+---
 # 23. THE "CHRISTIAN-BUT" CONSTRUCTION — TOLERANCE AND POSITION STRUCTURE
 
 ## 23.1 Tolerance as Retained Condemnation
