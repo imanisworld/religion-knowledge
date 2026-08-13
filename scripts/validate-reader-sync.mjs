@@ -22,7 +22,6 @@ const SWITCHER_LABELS = [
   'Method & Reference',
   'Glossary',
   'Cited Persons',
-  'Search',
 ];
 
 const decode = (value) => value
@@ -121,10 +120,11 @@ for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   if (htmlFile === 'cited-persons.html') {
     const markdownEntries = [...markdown.matchAll(/^⟨(DOCUMENTED|UNRESOLVED)⟩\s+\*\*([\s\S]*?)\*\*/gm)]
       .map((match) => ({ status: match[1], name: plain(match[2]) }));
-    const readerEntries = [...html.matchAll(/<p id="(person-[^"]+)"[^>]*>\s*<span class="mark (doc|unresolved)">(?:DOCUMENTED|UNRESOLVED)<\/span>\s*<strong>([\s\S]*?)<\/strong>/g)]
-      .map((match) => ({ id: match[1], status: match[2] === 'doc' ? 'DOCUMENTED' : 'UNRESOLVED', name: plain(match[3]) }));
+    // The reader deliberately renders entries without per-entry status chips
+    // (PR #73/#74 stripped them); status lives in Cited_Persons.md only.
+    const readerEntries = [...html.matchAll(/<p id="(person-[^"]+)"[^>]*>\s*<strong>([\s\S]*?)<\/strong>/g)]
+      .map((match) => ({ id: match[1], name: plain(match[2]) }));
     compare('Cited Persons names', markdownEntries.map((entry) => entry.name), readerEntries.map((entry) => entry.name), failures);
-    compare('Cited Persons statuses', markdownEntries.map((entry) => `${entry.status}:${entry.name}`), readerEntries.map((entry) => `${entry.status}:${entry.name}`), failures);
 
     const control = markdown.match(/Complete named-entry pass:\s*(\d+) documented,\s*(\d+) unresolved;\s*0 entries not yet audited\s*\((\d+) named entries total\)/i);
     if (!control) {
