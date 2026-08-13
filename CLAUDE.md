@@ -118,9 +118,9 @@ The `WHY IT LOOKED RIGHT` field is the point of the whole exercise. It tracks th
 
 ## Outstanding work
 
-### Task 0 — make the build work in-repo
+### Task 0 — CLOSED
 
-Change the hardcoded `/mnt/user-data/outputs/` paths in `build.py` to relative paths. Add a `Makefile` or `build.sh` wrapping the pandoc loop plus `python3 build.py`. Consider a GitHub Action that rebuilds on push to `main` and publishes to Pages.
+The original `build.py` and `glossary_data.py` scripts were never committed and are lost. Since the HTML readers were first generated, they have been maintained by direct hand-edit (confirmed in git history). Writing a new build script from scratch would be a significant project with no current benefit — nothing is broken. Decision: declare the HTML readers source files, maintained by direct edit alongside the `.md` files. The `.md` files remain the source of truth for the app data pipeline; the HTML readers are a parallel artifact edited by hand. No build script, no Makefile, no GitHub Action for this pipeline.
 
 ### Task 1 — finish the audit queue (the main job)
 
