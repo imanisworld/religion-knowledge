@@ -3,6 +3,7 @@ name: Validate religion corpus
 on:
   push:
     branches:
+      - main
       - chatgpt/mobile-app-v1
   pull_request:
     branches:
@@ -39,6 +40,9 @@ jobs:
 
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
+
+      - name: Verify Markdown and reader structure are in sync
+        run: npm run validate:reader-sync
 
       - name: Regenerate normalized record chunks
         run: npm run generate-records

@@ -80,7 +80,7 @@ function markerInfo(raw) {
 
 function classifyRecordType(text, headingPath, inAudit) {
   const t = text.toLowerCase();
-  if (inAudit && /^as recorded\s*:/i.test(text)) return 'CLAIM';
+  if (inAudit && /^as recorded(?:\s*\([^)]*\))?\s*:/i.test(text)) return 'CLAIM';
   if (inAudit && /^status\s*:/i.test(text)) return 'AUDIT_STATUS';
   if (inAudit && /^corrected\s*:/i.test(text)) return 'CORRECTION';
   if (inAudit && /^why it looked right\s*:/i.test(text)) return 'AUDIT_REASONING';
@@ -410,7 +410,11 @@ export function parseMarkdown({ sourceFile, content }) {
       status.related_ids.push(correction.id);
       correction.related_ids.push(status.id);
     }
-    if (!original || !correction) {
+    const deliberateNewEntry = original
+      && /^as recorded\s*:\s*not previously\b/i.test(original.text)
+      && status
+      && /^new entry\b/i.test(status.status || '');
+    if ((!original || !correction) && !deliberateNewEntry) {
       warnings.push({
         code: 'INCOMPLETE_AUDIT_CHAIN',
         audit_id: auditId,

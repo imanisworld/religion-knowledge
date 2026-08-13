@@ -3940,7 +3940,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:128",
     "parent_id": "audit_5ec98c45f17a8458c10d",
-    "related_ids": [],
+    "related_ids": [
+      "rk_a89aa0b0d6d0c4a3be05"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -3952,9 +3954,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7e9bd040730b3abbb2c7",
-    "text": "1. Children's Crusade correction. It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, Journal of Medieval History 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that pueri in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
-    "raw_text": "**1. Children's Crusade correction.** It was in the original entry as \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, *Journal of Medieval History* 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that *pueri* in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
+    "id": "rk_59526dd4f6bb0eeec22f",
+    "text": "AS RECORDED: The original entry described the Children's Crusade as having \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, Journal of Medieval History 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that pueri in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
+    "raw_text": "**AS RECORDED:** The original entry described the Children's Crusade as having \"ended in death and enslavement.\" The evidence will not carry that. Peter Raedts, *Journal of Medieval History* 3 (1977), reassessed the sources and found roughly 50 period references, most only a line or two, and argued that *pueri* in the chronicles denotes not an age group but a social class — impoverished landless peasants and labourers of indeterminate age. The name itself was coined about thirty years after the events. Britannica notes another reading fairly: the chroniclers do emphasise young people, and some record parents locking children indoors to stop them joining, so total dismissal overshoots too. Treat this as a contested episode resting on thin, late, embellished sources; the Fourth Crusade is much better documented.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -3964,7 +3966,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Crusades Framing"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CLAIM",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -3972,7 +3974,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:129",
     "parent_id": "audit_5ec98c45f17a8458c10d",
-    "related_ids": [],
+    "related_ids": [
+      "rk_a89aa0b0d6d0c4a3be05"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -3984,9 +3988,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ca3feba4e4f64bd5caa6",
-    "text": "2. Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. Keep the episodes and their contexts distinct.",
-    "raw_text": "**2. Do not accept or reject \"the Crusades were defensive\" wholesale.** The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. Keep the episodes and their contexts distinct.",
+    "id": "rk_a89aa0b0d6d0c4a3be05",
+    "text": "CORRECTED: Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. The Children's Crusade rests on thin, late, embellished evidence and should not be summarized as a securely documented march of children ending in death and enslavement. Keep the episodes and their contexts distinct.",
+    "raw_text": "**CORRECTED:** Do not accept or reject \"the Crusades were defensive\" wholesale. The First Crusade has a partly defensible context in Seljuk expansion, while the Fourth Crusade, which sacked Christian Constantinople, has no defensive reading. The Children's Crusade rests on thin, late, embellished evidence and should not be summarized as a securely documented march of children ending in death and enslavement. Keep the episodes and their contexts distinct.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -3996,7 +4000,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Crusades Framing"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CORRECTION",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -4004,7 +4008,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "3. HISTORICAL CASE STUDIES > 3.1 The Crusades (1095-1291) > ⚑ AUDIT — Crusades Framing",
     "source_reference": "paragraph:130",
     "parent_id": "audit_5ec98c45f17a8458c10d",
-    "related_ids": [],
+    "related_ids": [
+      "rk_59526dd4f6bb0eeec22f",
+      "rk_e9c53f76e6ff96d60a21"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -4016,9 +4023,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3c40e8dec32dd795f480",
-    "text": "What is untouched by any of this : the theological mechanism. Crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
-    "raw_text": "**What is untouched by any of this** ⟨INFERENCE⟩**:** the theological mechanism. Crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
+    "id": "rk_486caaaf66022ae79780",
+    "text": "WHY IT LOOKED RIGHT : The best-documented atrocities make the whole period feel uniform, while the name “Children's Crusade” invites a literal modern reading that the source history does not securely support. What is untouched by any of this is the theological mechanism: crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
+    "raw_text": "**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** The best-documented atrocities make the whole period feel uniform, while the name “Children's Crusade” invites a literal modern reading that the source history does not securely support. What is untouched by any of this is the theological mechanism: crusaders believed they had direct divine command, and that belief authorised mass killing. See Historical Framework §10 for common apologetic interpretations.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
@@ -4028,7 +4035,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Crusades Framing"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "AUDIT_REASONING",
     "status": null,
     "position_status": null,
     "original_date": null,

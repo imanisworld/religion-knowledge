@@ -4774,7 +4774,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CLAIM",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -4782,7 +4782,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "Bible Deep Dive: Study Notes > 6. Gospel Reading Order & Framework > 6.5 Then Paul's Letters > ⚑ AUDIT — Deutero-Pauline Pseudonymity: Three Tiers, Not One",
     "source_reference": "paragraph:146",
     "parent_id": "audit_3092510501b463a46c42",
-    "related_ids": [],
+    "related_ids": [
+      "rk_4c338986c41e358e286b"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -5115,6 +5117,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_reference": "paragraph:156",
     "parent_id": "audit_3092510501b463a46c42",
     "related_ids": [
+      "rk_a34dfcbc7b0dca21203f",
       "rk_7c4a63806416ae854156"
     ],
     "tags": [],
@@ -5712,7 +5715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — \"John Is Textually Antisemitic\""
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CLAIM",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -5720,7 +5723,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.5 John's antisemitism problem > ⚑ AUDIT — \"John Is Textually Antisemitic\"",
     "source_reference": "paragraph:175",
     "parent_id": "audit_bed8696252c32d387db7",
-    "related_ids": [],
+    "related_ids": [
+      "rk_86c4d3e5c771c0c3cead"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -6053,6 +6058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_reference": "paragraph:185",
     "parent_id": "audit_bed8696252c32d387db7",
     "related_ids": [
+      "rk_6c3c9fb042b0419b4594",
       "rk_fd3bc100c07b8cd70a3e"
     ],
     "tags": [],
@@ -6242,7 +6248,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Is the Parousia Delay Actually the Cause?"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CLAIM",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -6250,7 +6256,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "Bible Deep Dive: Study Notes > 8. John — The Theological Blueprint > 8.6 The delay of the parousia — John's solution > ⚑ AUDIT — Is the Parousia Delay Actually the Cause?",
     "source_reference": "paragraph:191",
     "parent_id": "audit_499c4ad7cdf8fc0a8157",
-    "related_ids": [],
+    "related_ids": [
+      "rk_61e1b26ca740c7f167b0"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -6495,9 +6503,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0c8516b77f83985005ea",
-    "text": "Who dismantled it: A.L. Moore argues the delay did not fundamentally alter Paul's eschatological framework. David Aune [CRITICAL] argues the delay lacks a demonstrable causal relationship with early Christian theological transformation. Schweitzer's disappointment-leads-to-Hellenization thesis is challenged on grounds of continuity in early Christian hope. Clark Pinnock [EVANGELICAL] argues Paul's eschatology matured rather than changed.",
-    "raw_text": "**Who dismantled it:** A.L. Moore argues the delay did not fundamentally alter Paul's eschatological framework. David Aune [CRITICAL] argues the delay lacks a demonstrable causal relationship with early Christian theological transformation. Schweitzer's disappointment-leads-to-Hellenization thesis is challenged on grounds of continuity in early Christian hope. Clark Pinnock [EVANGELICAL] argues Paul's eschatology matured rather than changed.",
+    "id": "rk_f8d285165c0e4b604c35",
+    "text": "Who challenged it: A.L. Moore argues the delay did not fundamentally alter Paul's eschatological framework. Richard Bauckham argues that the question must be read through both continuity and discontinuity with Jewish apocalyptic expectations rather than as a uniquely Christian crisis. Correction: David Aune should not have been listed as denying a causal relationship; published discussion of his encyclopedia treatment instead describes delayed expectation as prompting “theological adjustment” as Christianity institutionalized. Schweitzer's disappointment-leads-to-Hellenization thesis is challenged on grounds of continuity in early Christian hope. Clark Pinnock [EVANGELICAL] argues Paul's eschatology matured rather than changed.",
+    "raw_text": "**Who challenged it:** A.L. Moore argues the delay did not fundamentally alter Paul's eschatological framework. Richard Bauckham argues that the question must be read through both continuity and discontinuity with Jewish apocalyptic expectations rather than as a uniquely Christian crisis. **Correction:** David Aune should not have been listed as denying a causal relationship; published discussion of his encyclopedia treatment instead describes delayed expectation as prompting “theological adjustment” as Christianity institutionalized. Schweitzer's disappointment-leads-to-Hellenization thesis is challenged on grounds of continuity in early Christian hope. Clark Pinnock [EVANGELICAL] argues Paul's eschatology matured rather than changed.",
     "provenance_type": "SOURCE",
     "representation_type": "PARAPHRASE",
     "speaker": null,
@@ -6616,6 +6624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_reference": "paragraph:202",
     "parent_id": "audit_499c4ad7cdf8fc0a8157",
     "related_ids": [
+      "rk_f56d0da41847123c5f94",
       "rk_f301578d662c42136e17"
     ],
     "tags": [],
@@ -7336,7 +7345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
       "⚑ AUDIT — Are the Speeches Fictional Constructions?"
     ],
     "subtopics": [],
-    "record_type": "AUDIT_NOTE",
+    "record_type": "CLAIM",
     "status": null,
     "position_status": null,
     "original_date": null,
@@ -7344,7 +7353,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_section": "Bible Deep Dive: Study Notes > 9. Acts — The Founding Myth > 9.4 Paul's conversion (Acts 9 vs. Galatians 1) > ⚑ AUDIT — Are the Speeches Fictional Constructions?",
     "source_reference": "paragraph:224",
     "parent_id": "audit_399c6b35a4fcacfe7455",
-    "related_ids": [],
+    "related_ids": [
+      "rk_7dfb10cba525a29567a7"
+    ],
     "tags": [],
     "citation": null,
     "attribution_confidence": "CONTEXTUAL",
@@ -7611,6 +7622,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_reference": "paragraph:232",
     "parent_id": "audit_399c6b35a4fcacfe7455",
     "related_ids": [
+      "rk_e0b1d766acdc8110804a",
       "rk_6f47caa7766112500687"
     ],
     "tags": [],
@@ -9090,11 +9102,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_403b0d319e801df89c73",
-    "text": "Adams, Robert Merrihew — Analytic philosopher; evangelical Christian; \"Modified Divine Command Theory\" (1973). Defending divine command theory while trying to soften its moral problems.",
-    "raw_text": "**Adams, Robert Merrihew** — Analytic philosopher; evangelical Christian; \"Modified Divine Command Theory\" (1973). Defending divine command theory while trying to soften its moral problems.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_e2379987bd78d26f30eb",
+    "text": "Adams, Robert Merrihew — Analytic philosopher and philosopher of religion. His 1973 essay “A Modified Divine Command Theory of Ethical Wrongness” and later revisions ground obligation in the commands of a loving God, expressly modifying cruder command theories; “evangelical” was removed because this pass did not establish that narrower label. CHECKED 12 AUG 2026 ([bibliography](https://andrewmbailey.com/rma/); [Oxford summary](https://academic.oup.com/book/12534/chapter-abstract/162292858))",
+    "raw_text": "⟨DOCUMENTED⟩ **Adams, Robert Merrihew** — Analytic philosopher and philosopher of religion. His 1973 essay “A Modified Divine Command Theory of Ethical Wrongness” and later revisions ground obligation in the commands of a loving God, expressly modifying cruder command theories; “evangelical” was removed because this pass did not establish that narrower label. `CHECKED 12 AUG 2026` ([bibliography](https://andrewmbailey.com/rma/); [Oxford summary](https://academic.oup.com/book/12534/chapter-abstract/162292858))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9113,20 +9125,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc214e08e26243cd6346",
-    "text": "Adolph, Karen — Developmental psychologist; secular academic. Research shows infants do not have an innate fear of heights — it develops with locomotor experience. Used here to dismantle the \"two innate fears\" claim.",
-    "raw_text": "**Adolph, Karen** — Developmental psychologist; secular academic. Research shows infants do not have an innate fear of heights — it develops with locomotor experience. Used here to dismantle the \"two innate fears\" claim.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_f16cdeb7c908efe0209d",
+    "text": "Adolph, Karen — Developmental psychologist at NYU. Her work shows that adaptive avoidance at drop-offs depends on locomotor and posture-specific experience and does not support a generalized innate fear of heights. “Secular academic” was removed as irrelevant and unverified. CHECKED 12 AUG 2026 ([Kretch & Adolph 2013](https://doi.org/10.1111/j.1467-8624.2012.01842.x); [Adolph 2000](https://doi.org/10.1111/1467-9280.00258))",
+    "raw_text": "⟨DOCUMENTED⟩ **Adolph, Karen** — Developmental psychologist at NYU. Her work shows that adaptive avoidance at drop-offs depends on locomotor and posture-specific experience and does not support a generalized innate fear of heights. “Secular academic” was removed as irrelevant and unverified. `CHECKED 12 AUG 2026` ([Kretch & Adolph 2013](https://doi.org/10.1111/j.1467-8624.2012.01842.x); [Adolph 2000](https://doi.org/10.1111/1467-9280.00258))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9145,20 +9157,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d4523dfb447c0ea42a3c",
-    "text": "Alcorn, Randy — Conservative evangelical pastor and author (Eternal Perspective Ministries). Concedes the plain historical reading of Jeremiah 29:11 (corporate address to exiles) but argues for typological transfer to individual Christians today.",
-    "raw_text": "**Alcorn, Randy** — Conservative evangelical pastor and author (Eternal Perspective Ministries). Concedes the plain historical reading of Jeremiah 29:11 (corporate address to exiles) but argues for typological transfer to individual Christians today.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6b57f8c240bbf088ea19",
+    "text": "Alcorn, Randy — Evangelical author and founder of Eternal Perspective Ministries. He states that Jeremiah 29:11 addresses Israel corporately in Babylonian exile and that its specific land-return promise is not made to Christians, then applies its underlying principles to Christians. “Typological transfer” was too technical for his stated argument and has been removed. CHECKED 12 AUG 2026 ([Alcorn’s article](https://www.epm.org/resources/2016/Nov/18/jeremiah-29-11-apply-believers/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Alcorn, Randy** — Evangelical author and founder of Eternal Perspective Ministries. He states that Jeremiah 29:11 addresses Israel corporately in Babylonian exile and that its specific land-return promise is not made to Christians, then applies its underlying principles to Christians. “Typological transfer” was too technical for his stated argument and has been removed. `CHECKED 12 AUG 2026` ([Alcorn’s article](https://www.epm.org/resources/2016/Nov/18/jeremiah-29-11-apply-believers/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9177,20 +9189,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_602e488a9069c3f5a298",
-    "text": "Allen, Pauline — Patristics scholar; translated Maximus the Confessor's trial and exile documents.",
-    "raw_text": "**Allen, Pauline** — Patristics scholar; translated Maximus the Confessor's trial and exile documents.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9d8f8c5ab184583b5be9",
+    "text": "Allen, Pauline — Patristics and early-Christian-literature scholar. With Bronwen Neil, she edited, introduced, translated, and annotated seven Greek and Latin documents concerning Maximus the Confessor’s trials and exile; the original wording incorrectly implied sole translation. CHECKED 12 AUG 2026 ([British Academy](https://www.thebritishacademy.ac.uk/fellows/profiles/pauline-allen-FBA/); [book record](https://search.worldcat.org/title/Maximus-the-Confessor-and-his-companions-%3A-documents-from-exile/oclc/48674604))",
+    "raw_text": "⟨DOCUMENTED⟩ **Allen, Pauline** — Patristics and early-Christian-literature scholar. With Bronwen Neil, she edited, introduced, translated, and annotated seven Greek and Latin documents concerning Maximus the Confessor’s trials and exile; the original wording incorrectly implied sole translation. `CHECKED 12 AUG 2026` ([British Academy](https://www.thebritishacademy.ac.uk/fellows/profiles/pauline-allen-FBA/); [book record](https://search.worldcat.org/title/Maximus-the-Confessor-and-his-companions-%3A-documents-from-exile/oclc/48674604))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9209,20 +9221,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_422c0ee9b2e7034ce063",
-    "text": "Allison, Dale — Critical scholar and Christian; notable for unusual intellectual honesty — willing to acknowledge evidence that cuts against his own tradition's conclusions on the resurrection.",
-    "raw_text": "**Allison, Dale** — Critical scholar and Christian; notable for unusual intellectual honesty — willing to acknowledge evidence that cuts against his own tradition's conclusions on the resurrection.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_989f62d5c63e7b63200a",
+    "text": "Allison, Dale C., Jr. — New Testament scholar and professor at Princeton Theological Seminary; author of The Resurrection of Jesus: Apologetics, Polemic, History. The prior praise for “unusual intellectual honesty” was subjective and has been removed. CHECKED 12 AUG 2026 ([Princeton profile](https://ptsem.edu/academics/faculty/dale-c-allison-jr/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Allison, Dale C., Jr.** — New Testament scholar and professor at Princeton Theological Seminary; author of *The Resurrection of Jesus: Apologetics, Polemic, History*. The prior praise for “unusual intellectual honesty” was subjective and has been removed. `CHECKED 12 AUG 2026` ([Princeton profile](https://ptsem.edu/academics/faculty/dale-c-allison-jr/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9241,20 +9253,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_557ca60cfb58cf0d782a",
-    "text": "Alston, William — Analytic philosopher; Christian; Perceiving God (1991). The strongest philosophical defense of religious experience as evidence for God.",
-    "raw_text": "**Alston, William** — Analytic philosopher; Christian; *Perceiving God* (1991). The strongest philosophical defense of religious experience as evidence for God.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3d44ea5dc55c8b47b19c",
+    "text": "Alston, William P. — Analytic philosopher and epistemologist of religion. Perceiving God (1991) gives a major defense of Christian mystical practice as a rational belief-forming practice capable of prima facie justification. “The strongest” was an unsupported ranking and has been removed. CHECKED 12 AUG 2026 ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2012/entries/religious-experience/); [Cornell book summary](https://books.google.com/books?id=C_iMaEOO6c0C))",
+    "raw_text": "⟨DOCUMENTED⟩ **Alston, William P.** — Analytic philosopher and epistemologist of religion. *Perceiving God* (1991) gives a major defense of Christian mystical practice as a rational belief-forming practice capable of prima facie justification. “The strongest” was an unsupported ranking and has been removed. `CHECKED 12 AUG 2026` ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2012/entries/religious-experience/); [Cornell book summary](https://books.google.com/books?id=C_iMaEOO6c0C))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9273,20 +9285,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_700ab85c99fea3156179",
-    "text": "Ambrose of Milan (c. 340–397) — Church Father; bishop; major influence on Augustine. He participated in early Christian political power consolidation. Drew the 318-bishop Genesis numerology applied to Nicaea.",
-    "raw_text": "**Ambrose of Milan** (c. 340–397) — Church Father; bishop; major influence on Augustine. He participated in early Christian political power consolidation. Drew the 318-bishop Genesis numerology applied to Nicaea.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9146eab055ff06f7063c",
+    "text": "Ambrose of Milan (c. 340–397) — Bishop of Milan and major influence on Augustine. Ambrose interpreted Abraham’s 318 retainers in Genesis 14:14 through the Greek numeral-letters ΤΙΗ as a cross-and-Jesus symbol; the tradition’s association with the reported 318 bishops at Nicaea is real, but the previous wording blurred Ambrose’s exegesis with the council headcount tradition. CHECKED 12 AUG 2026 ([Ambrose, De Abraham](https://www.ccel.org/ccel/schaff/npnf210.iv.iv.iii.i.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ambrose of Milan** (c. 340–397) — Bishop of Milan and major influence on Augustine. Ambrose interpreted Abraham’s 318 retainers in Genesis 14:14 through the Greek numeral-letters ΤΙΗ as a cross-and-Jesus symbol; the tradition’s association with the reported 318 bishops at Nicaea is real, but the previous wording blurred Ambrose’s exegesis with the council headcount tradition. `CHECKED 12 AUG 2026` ([Ambrose, *De Abraham*](https://www.ccel.org/ccel/schaff/npnf210.iv.iv.iii.i.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9305,18 +9317,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_474a5e6e3c2d58e37d26",
-    "text": "Andersen, Francis — Critical scholar; co-authored the Anchor Bible Amos commentary with Freedman. Reads Amos 5:21–24 as targeting ritual without justice, not the cult itself.",
-    "raw_text": "**Andersen, Francis** — Critical scholar; co-authored the Anchor Bible Amos commentary with Freedman. Reads Amos 5:21–24 as targeting ritual without justice, not the cult itself.",
+    "id": "rk_6d5e64e27b46eb1d3f5e",
+    "text": "⟨UNRESOLVED⟩ Andersen, Francis I. — Co-authored Amos: A New Translation with Introduction and Commentary with David Noel Freedman. The book and authorship are verified; this pass did not obtain the relevant pages needed to confirm the precise claim that Amos 5:21–24 targets ritual without justice rather than the cult itself. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Andersen, Francis I.** — Co-authored *Amos: A New Translation with Introduction and Commentary* with David Noel Freedman. The book and authorship are verified; this pass did not obtain the relevant pages needed to confirm the precise claim that Amos 5:21–24 targets ritual without justice rather than the cult itself. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9346,11 +9358,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c970fe105eee37a5a1df",
-    "text": "Annius of Viterbo — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
-    "raw_text": "**Annius of Viterbo** — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_327a75a74650b4809c0f",
+    "text": "Annius of Viterbo (1437–1502) — Dominican friar and Renaissance antiquarian whose forged pseudo-historical materials became an important early-modern stage in connecting Ham traditions with Africa and servitude. The revised wording avoids making him solely responsible for the later racial package. CHECKED 12 AUG 2026 ([review of Whitford’s research](https://www.hsozkult.de/publicationreview/id/reb-14550); [Whitford book record](https://books.google.je/books?id=VkErDwAAQBAJ))",
+    "raw_text": "⟨DOCUMENTED⟩ **Annius of Viterbo** (1437–1502) — Dominican friar and Renaissance antiquarian whose forged pseudo-historical materials became an important early-modern stage in connecting Ham traditions with Africa and servitude. The revised wording avoids making him solely responsible for the later racial package. `CHECKED 12 AUG 2026` ([review of Whitford’s research](https://www.hsozkult.de/publicationreview/id/reb-14550); [Whitford book record](https://books.google.je/books?id=VkErDwAAQBAJ))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9369,20 +9381,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1e2f6be1fa2b7282da45",
-    "text": "Aquila (c. 135 CE) — Jewish reviser of the Greek Old Testament. Switched Isaiah 7:14 from parthenos (virgin) back to neanis (young woman) — a deliberate anti-Christian correction.",
-    "raw_text": "**Aquila** (c. 135 CE) — Jewish reviser of the Greek Old Testament. Switched Isaiah 7:14 from *parthenos* (virgin) back to *neanis* (young woman) — a deliberate anti-Christian correction.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_94408c33ace488493570",
+    "text": "Aquila (2nd century CE) — Jewish translator of the Hebrew Bible into Greek. His Isaiah 7:14 used neanis (“young woman”) rather than the Septuagint’s parthenos. Christian writers treated this reading polemically, but calling it a “deliberate anti-Christian correction” states a contested motive as fact; Aquila’s translation is generally characterized by close adherence to the Hebrew. CHECKED 12 AUG 2026 ([Harvard Theological Review](https://doi.org/10.1017/S001781600800032X); [textual summary](https://www.goarch.org/-/the-word-almah-in-isaiah-7-14))",
+    "raw_text": "⟨DOCUMENTED⟩ **Aquila** (2nd century CE) — Jewish translator of the Hebrew Bible into Greek. His Isaiah 7:14 used *neanis* (“young woman”) rather than the Septuagint’s *parthenos*. Christian writers treated this reading polemically, but calling it a “deliberate anti-Christian correction” states a contested motive as fact; Aquila’s translation is generally characterized by close adherence to the Hebrew. `CHECKED 12 AUG 2026` ([Harvard Theological Review](https://doi.org/10.1017/S001781600800032X); [textual summary](https://www.goarch.org/-/the-word-almah-in-isaiah-7-14))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9401,20 +9413,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f448165c85e2db5744fa",
-    "text": "Aquinas, Thomas (1225–1274) — Medieval Catholic theologian; Dominican friar. His tripartite division of the Law (moral/civil/ceremonial) underlies selective OT application today. Also developed the classic philosophical case for divine atemporality.",
-    "raw_text": "**Aquinas, Thomas** (1225–1274) — Medieval Catholic theologian; Dominican friar. His tripartite division of the Law (moral/civil/ceremonial) underlies selective OT application today. Also developed the classic philosophical case for divine atemporality.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b3b61d8415185cf2a2a0",
+    "text": "Aquinas, Thomas (1225–1274) — Dominican theologian. In Summa Theologiae I–II, q. 99 he distinguishes moral, ceremonial, and judicial precepts of the Old Law. The framework remains influential, but “underlies selective OT application today” was too universal. Aquinas developed a major account of divine eternity; he did not originate atemporality, which has important predecessors including Boethius. CHECKED 12 AUG 2026 ([Summa I–II, q. 99](https://www.newadvent.org/summa/2099.htm))",
+    "raw_text": "⟨DOCUMENTED⟩ **Aquinas, Thomas** (1225–1274) — Dominican theologian. In *Summa Theologiae* I–II, q. 99 he distinguishes moral, ceremonial, and **judicial** precepts of the Old Law. The framework remains influential, but “underlies selective OT application today” was too universal. Aquinas developed a major account of divine eternity; he did not originate atemporality, which has important predecessors including Boethius. `CHECKED 12 AUG 2026` ([*Summa* I–II, q. 99](https://www.newadvent.org/summa/2099.htm))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9433,18 +9445,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_58f82e3cf25848d669f1",
-    "text": "Archer, Gleason — Conservative evangelical. Rejects the eleph proposal outright and defends the Numbers census figures as literally accurate.",
-    "raw_text": "**Archer, Gleason** — Conservative evangelical. Rejects the *eleph* proposal outright and defends the Numbers census figures as literally accurate.",
+    "id": "rk_0aa3666663aade804879",
+    "text": "⟨UNRESOLVED⟩ Archer, Gleason L., Jr. — Conservative evangelical scholar and defender of biblical inerrancy; author of Encyclopedia of Bible Difficulties. The exact assertions that he “rejects the eleph proposal outright” and defends every Numbers census figure literally were not verified from a page-level primary passage in this pass. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([publisher/institution record](https://www.tiu.edu/divinity/books/encyclopedia-of-bible-difficulties/))",
+    "raw_text": "⟨UNRESOLVED⟩ **Archer, Gleason L., Jr.** — Conservative evangelical scholar and defender of biblical inerrancy; author of *Encyclopedia of Bible Difficulties*. The exact assertions that he “rejects the *eleph* proposal outright” and defends every Numbers census figure literally were not verified from a page-level primary passage in this pass. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([publisher/institution record](https://www.tiu.edu/divinity/books/encyclopedia-of-bible-difficulties/))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9474,11 +9486,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d87c5169b0ddc560c0f",
-    "text": "Arminius, Jacobus (1560–1609) — Reformed theologian who broke from Calvinist predestination. Named in the Calvinist/Arminian split over universal versus limited atonement.",
-    "raw_text": "**Arminius, Jacobus** (1560–1609) — Reformed theologian who broke from Calvinist predestination. Named in the Calvinist/Arminian split over universal versus limited atonement.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_2ae797e8e1cbd8477c2c",
+    "text": "Arminius, Jacobus (1560–1609) — Dutch Reformed theologian and Leiden professor who criticized orthodox Calvinist formulations of unconditional election and irresistible grace. His followers’ Remonstrance and the Synod of Dort shaped the later Calvinist–Arminian dispute; reducing the division to universal versus limited atonement alone was incomplete. CHECKED 12 AUG 2026 ([Oxford monograph](https://academic.oup.com/book/4501); [encyclopedia entry](https://www.encyclopedia.com/people/philosophy-and-religion/protestant-christianity-biographies/jacobus-arminius))",
+    "raw_text": "⟨DOCUMENTED⟩ **Arminius, Jacobus** (1560–1609) — Dutch Reformed theologian and Leiden professor who criticized orthodox Calvinist formulations of unconditional election and irresistible grace. His followers’ Remonstrance and the Synod of Dort shaped the later Calvinist–Arminian dispute; reducing the division to universal versus limited atonement alone was incomplete. `CHECKED 12 AUG 2026` ([Oxford monograph](https://academic.oup.com/book/4501); [encyclopedia entry](https://www.encyclopedia.com/people/philosophy-and-religion/protestant-christianity-biographies/jacobus-arminius))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9497,20 +9509,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d116f47ae99c9e5b358c",
-    "text": "Arius (4th century) — Presbyter; argued the Son was created and subordinate to the Father. His position was exegetically defensible and had a large following. Lost politically at Nicaea.",
-    "raw_text": "**Arius** (4th century) — Presbyter; argued the Son was created and subordinate to the Father. His position was exegetically defensible and had a large following. Lost politically at Nicaea.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6e529331e09aa467fca7",
+    "text": "Arius (d. 336) — Alexandrian presbyter who taught that the Son was brought into existence by the Father and was subordinate rather than coeternal or consubstantial. Nicaea condemned his teaching in 325, but “exegetically defensible,” “large following,” and “lost politically” compressed several theological and political disputes into editorial verdicts and have been removed. CHECKED 12 AUG 2026 ([scholarly encyclopedia](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/arius-and-arianism); [Nicaea overview](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/nicaea-i-council))",
+    "raw_text": "⟨DOCUMENTED⟩ **Arius** (d. 336) — Alexandrian presbyter who taught that the Son was brought into existence by the Father and was subordinate rather than coeternal or consubstantial. Nicaea condemned his teaching in 325, but “exegetically defensible,” “large following,” and “lost politically” compressed several theological and political disputes into editorial verdicts and have been removed. `CHECKED 12 AUG 2026` ([scholarly encyclopedia](https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/arius-and-arianism); [Nicaea overview](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/nicaea-i-council))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9529,20 +9541,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c1b918b77db48363af5a",
-    "text": "Athanasius of Alexandria (c. 296–373) — Church Father; defended Jesus's full divinity against Arius. His 367 CE Festal Letter is the first surviving list matching the 27-book New Testament. Exiled repeatedly.",
-    "raw_text": "**Athanasius of Alexandria** (c. 296–373) — Church Father; defended Jesus's full divinity against Arius. His 367 CE Festal Letter is the first surviving list matching the 27-book New Testament. Exiled repeatedly.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_946dd08d00adf51632dc",
+    "text": "Athanasius of Alexandria (c. 296–373) — Bishop of Alexandria and leading pro-Nicene polemicist. His 39th Festal Letter (367) is the earliest surviving document to list precisely the 27 books of the modern New Testament canon. He experienced repeated periods of exile during the post-Nicene conflict. CHECKED 12 AUG 2026 ([scholarly edition overview](https://tidsskrift.dk/dtt/article/view/125883))",
+    "raw_text": "⟨DOCUMENTED⟩ **Athanasius of Alexandria** (c. 296–373) — Bishop of Alexandria and leading pro-Nicene polemicist. His 39th Festal Letter (367) is the earliest surviving document to list precisely the 27 books of the modern New Testament canon. He experienced repeated periods of exile during the post-Nicene conflict. `CHECKED 12 AUG 2026` ([scholarly edition overview](https://tidsskrift.dk/dtt/article/view/125883))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9561,20 +9573,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_51ad119a7bd05fdaabc3",
-    "text": "Attridge, Harold W. — Critical scholar; Hebrews (Hermeneia). Places Hebrews in the 60–95 CE range.",
-    "raw_text": "**Attridge, Harold W.** — Critical scholar; *Hebrews* (Hermeneia). Places Hebrews in the 60–95 CE range.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_941b59e68e6ca1d2c449",
+    "text": "Attridge, Harold W. — New Testament and early-Christianity scholar, Sterling Professor Emeritus at Yale, and author of Hebrews: A Commentary on the Epistle to the Hebrews in the Hermeneia series. The exact “60–95 CE” range was removed because this pass verified the book and expertise but not that precise range from the commentary itself. CHECKED 12 AUG 2026 ([Yale profile and bibliography](https://divinity.yale.edu/profile/harold-w-attridge))",
+    "raw_text": "⟨DOCUMENTED⟩ **Attridge, Harold W.** — New Testament and early-Christianity scholar, Sterling Professor Emeritus at Yale, and author of *Hebrews: A Commentary on the Epistle to the Hebrews* in the Hermeneia series. The exact “60–95 CE” range was removed because this pass verified the book and expertise but not that precise range from the commentary itself. `CHECKED 12 AUG 2026` ([Yale profile and bibliography](https://divinity.yale.edu/profile/harold-w-attridge))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9593,20 +9605,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4e47358c8ea85d13e4c4",
-    "text": "Augustine of Hippo (354–430) — Church Father; bishop; architect of original sin, grace, and predestination doctrines in Western Christianity. His framework became the dominant lens for reading Paul in the West — the one the New Perspective on Paul is specifically correcting. The phrase \"hate the sin, love the sinner\" traces to his Letter 211. Entertained universal restoration (later condemned). On the \"days\" of Genesis, he argued they were not necessarily literal solar days.",
-    "raw_text": "**Augustine of Hippo** (354–430) — Church Father; bishop; architect of original sin, grace, and predestination doctrines in Western Christianity. His framework became the dominant lens for reading Paul in the West — the one the New Perspective on Paul is specifically correcting. The phrase \"hate the sin, love the sinner\" traces to his *Letter 211*. Entertained universal restoration (later condemned). On the \"days\" of Genesis, he argued they were not necessarily literal solar days.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_5e0b513fd21f518a7a4b",
+    "text": "Augustine of Hippo (354–430) — Bishop of Hippo and major architect of Western doctrines of original sin, grace, and predestination. Letter 211 says discipline should be exercised “with due love for the persons and hatred of the sin,” an antecedent rather than the exact modern slogan “hate the sin, love the sinner.” Augustine defended everlasting punishment and restricted salvation rather than universal restoration. His Genesis interpretation did not require ordinary solar days. CHECKED 12 AUG 2026 ([Letter 211](https://www.newadvent.org/fathers/1102211.htm); [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heaven-hell/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Augustine of Hippo** (354–430) — Bishop of Hippo and major architect of Western doctrines of original sin, grace, and predestination. *Letter 211* says discipline should be exercised “with due love for the persons and hatred of the sin,” an antecedent rather than the exact modern slogan “hate the sin, love the sinner.” Augustine defended everlasting punishment and restricted salvation rather than universal restoration. His Genesis interpretation did not require ordinary solar days. `CHECKED 12 AUG 2026` ([*Letter 211*](https://www.newadvent.org/fathers/1102211.htm); [Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/heaven-hell/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9625,20 +9637,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc8170528a9ed7dad0bf",
-    "text": "Aune, David — Critical scholar. Argued the parousia delay lacks a demonstrable causal link to early Christian theological transformation — part of the dismantling of the mid-20th-century parousia-crisis framework.",
-    "raw_text": "**Aune, David** — Critical scholar. Argued the parousia delay lacks a demonstrable causal link to early Christian theological transformation — part of the dismantling of the mid-20th-century parousia-crisis framework.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6bac68fc57a2ae48c1cc",
+    "text": "Aune, David E. — New Testament and early-Christianity scholar, emeritus at Notre Dame. Correction: the prior entry appears to reverse Aune’s position. Published discussion of Aune’s encyclopedia treatment describes delayed expectation as prompting “theological adjustment” as Christianity institutionalized; this pass found no support for attributing the no-causal-link claim to him. Do not cite the prior wording. CHECKED/CORRECTED 12 AUG 2026 ([discussion citing Aune, pp. 27–28](https://classics.osu.edu/sites/classics.osu.edu/files/LauraTringaliEssay-2_0.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Aune, David E.** — New Testament and early-Christianity scholar, emeritus at Notre Dame. **Correction:** the prior entry appears to reverse Aune’s position. Published discussion of Aune’s encyclopedia treatment describes delayed expectation as prompting “theological adjustment” as Christianity institutionalized; this pass found no support for attributing the no-causal-link claim to him. Do not cite the prior wording. `CHECKED/CORRECTED 12 AUG 2026` ([discussion citing Aune, pp. 27–28](https://classics.osu.edu/sites/classics.osu.edu/files/LauraTringaliEssay-2_0.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9657,20 +9669,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_733de247ff3fb7e921e7",
-    "text": "Baden, Joel — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.",
-    "raw_text": "**Baden, Joel** — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_0ebaba02c31682802f32",
+    "text": "Baden, Joel S. — Hebrew Bible scholar at Yale Divinity School and advocate of a renewed Documentary Hypothesis. The Composition of the Pentateuch argues for identifying and separating continuous J, E, D, and P source documents; “neo-documentarian” is a useful shorthand, not his institutional title. CHECKED 12 AUG 2026 ([Yale profile](https://divinity.yale.edu/profile/joel-s-baden); [Yale University Press](https://yalebooks.yale.edu/book/9780300152630/the-composition-of-the-pentateuch/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Baden, Joel S.** — Hebrew Bible scholar at Yale Divinity School and advocate of a renewed Documentary Hypothesis. *The Composition of the Pentateuch* argues for identifying and separating continuous J, E, D, and P source documents; “neo-documentarian” is a useful shorthand, not his institutional title. `CHECKED 12 AUG 2026` ([Yale profile](https://divinity.yale.edu/profile/joel-s-baden); [Yale University Press](https://yalebooks.yale.edu/book/9780300152630/the-composition-of-the-pentateuch/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9689,20 +9701,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e221f0194142d8a12e4f",
-    "text": "Baggett, David — Evangelical philosopher; Good God (2011). Defending theistic moral realism.",
-    "raw_text": "**Baggett, David** — Evangelical philosopher; *Good God* (2011). Defending theistic moral realism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_eac5f1688180db4a10fc",
+    "text": "Baggett, David — Philosopher of religion. Good God: The Theistic Foundations of Morality (2011) was coauthored with Jerry L. Walls, a fact omitted in the prior entry; the book defends a theistic account of ethics and moral arguments for God. CHECKED/CORRECTED 12 AUG 2026 ([Oxford University Press](https://academic.oup.com/book/7563); [Notre Dame Philosophical Reviews](https://ndpr.nd.edu/reviews/good-god-the-theistic-foundations-of-morality/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Baggett, David** — Philosopher of religion. *Good God: The Theistic Foundations of Morality* (2011) was **coauthored with Jerry L. Walls**, a fact omitted in the prior entry; the book defends a theistic account of ethics and moral arguments for God. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford University Press](https://academic.oup.com/book/7563); [Notre Dame Philosophical Reviews](https://ndpr.nd.edu/reviews/good-god-the-theistic-foundations-of-morality/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9721,20 +9733,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ccd6dd91adf5f85dc54e",
-    "text": "Barr, Beth Allison — Evangelical historian (Baylor); The Making of Biblical Womanhood (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as \"cultural\" or \"timeless\" without acknowledging that sorting as an interpretive choice.",
-    "raw_text": "**Barr, Beth Allison** — Evangelical historian (Baylor); *The Making of Biblical Womanhood* (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as \"cultural\" or \"timeless\" without acknowledging that sorting as an interpretive choice.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b3762b616df852fd2a98",
+    "text": "Barr, Beth Allison — Historian at Baylor University and author of The Making of Biblical Womanhood (2021). Her work critiques complementarian accounts of women’s roles from within a Baptist/evangelical context. The precise “cultural versus timeless sorting” formulation was removed because this pass did not locate that wording in a page-level source. CHECKED 12 AUG 2026 ([Baylor profile](https://history.artsandsciences.baylor.edu/person/beth-allison-barr); [Baylor Gender Studies profile](https://genderstudies.artsandsciences.baylor.edu/person/beth-allison-barr))",
+    "raw_text": "⟨DOCUMENTED⟩ **Barr, Beth Allison** — Historian at Baylor University and author of *The Making of Biblical Womanhood* (2021). Her work critiques complementarian accounts of women’s roles from within a Baptist/evangelical context. The precise “cultural versus timeless sorting” formulation was removed because this pass did not locate that wording in a page-level source. `CHECKED 12 AUG 2026` ([Baylor profile](https://history.artsandsciences.baylor.edu/person/beth-allison-barr); [Baylor Gender Studies profile](https://genderstudies.artsandsciences.baylor.edu/person/beth-allison-barr))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9753,18 +9765,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5801610d54b80e4bd554",
-    "text": "Barrett, C.K. — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.",
-    "raw_text": "**Barrett, C.K.** — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.",
+    "id": "rk_a7304229191c7f94a246",
+    "text": "⟨UNRESOLVED⟩ Barrett, C. K. — New Testament scholar and author of a major commentary on John. This pass did not locate a page-level source establishing the more specific attribution that he “applied the parousia-delay thesis to John,” so that claim remains unsafe to quote. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Barrett, C. K.** — New Testament scholar and author of a major commentary on John. This pass did not locate a page-level source establishing the more specific attribution that he “applied the parousia-delay thesis to John,” so that claim remains unsafe to quote. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9794,11 +9806,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e32647dde0abdcc566fb",
-    "text": "Barrett, Justin — Cognitive scientist of religion; himself a believing scholar. Why Would Anyone Believe in God? (2004) — argues belief in God arises from normal cognitive architecture, not evidence.",
-    "raw_text": "**Barrett, Justin** — Cognitive scientist of religion; himself a believing scholar. *Why Would Anyone Believe in God?* (2004) — argues belief in God arises from normal cognitive architecture, not evidence.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_77570c54082396096dd9",
+    "text": "Barrett, Justin L. — Cognitive and developmental psychologist and a leading cognitive-science-of-religion scholar. Why Would Anyone Believe in God? (2004) argues that belief in gods arises readily from ordinary human cognitive systems. The prior phrase “not evidence” overstated the psychological thesis as an epistemic verdict and has been removed. CHECKED 12 AUG 2026 ([Bloomsbury](https://www.bloomsbury.com/ca/why-would-anyone-believe-in-god-9780759115682/); [Barrett, “Cognitive Science of Religion”](https://doi.org/10.1111/j.1749-8171.2007.00042.x))",
+    "raw_text": "⟨DOCUMENTED⟩ **Barrett, Justin L.** — Cognitive and developmental psychologist and a leading cognitive-science-of-religion scholar. *Why Would Anyone Believe in God?* (2004) argues that belief in gods arises readily from ordinary human cognitive systems. The prior phrase “not evidence” overstated the psychological thesis as an epistemic verdict and has been removed. `CHECKED 12 AUG 2026` ([Bloomsbury](https://www.bloomsbury.com/ca/why-would-anyone-believe-in-god-9780759115682/); [Barrett, “Cognitive Science of Religion”](https://doi.org/10.1111/j.1749-8171.2007.00042.x))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9817,20 +9829,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a8b1b5c082e4df619ad7",
-    "text": "Barth, Karl (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.",
-    "raw_text": "**Barth, Karl** (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c7e21763b162fcd2afd4",
+    "text": "Barth, Karl (1886–1968) — Swiss Reformed theologian whose theology centered on the Word of God in Jesus Christ, Scripture, and proclamation. Barth was the principal drafter—not simply a generic coauthor—of the Barmen Declaration (1934), which rejected other sources of church revelation and National Socialist control of the church. “Most important” and the uncited Romans 13 application were editorial rankings and have been removed. CHECKED/CORRECTED 12 AUG 2026 ([Center for Barth Studies](https://kbarth.org/theology/); [Barmen text and history](https://creedsandconfessions.org/barmen-declaration.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Barth, Karl** (1886–1968) — Swiss Reformed theologian whose theology centered on the Word of God in Jesus Christ, Scripture, and proclamation. Barth was the principal drafter—not simply a generic coauthor—of the Barmen Declaration (1934), which rejected other sources of church revelation and National Socialist control of the church. “Most important” and the uncited Romans 13 application were editorial rankings and have been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Center for Barth Studies](https://kbarth.org/theology/); [Barmen text and history](https://creedsandconfessions.org/barmen-declaration.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9849,18 +9861,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6866ea089111b0be671f",
-    "text": "Barton, John — Anglican priest and critical scholar; A History of the Bible, Ethics in Ancient Israel (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.",
-    "raw_text": "**Barton, John** — Anglican priest and critical scholar; *A History of the Bible*, *Ethics in Ancient Israel* (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.",
+    "id": "rk_cd3b7c93049e07c88d55",
+    "text": "⟨UNRESOLVED⟩ Barton, John — Hebrew Bible scholar, Anglican priest, and author of Ethics in Ancient Israel and A History of the Bible. His field, posts, and publications are verified, but this pass did not obtain page-level support for the two specific claims about Harnack/Marcion and Micah 6; neither should be quoted from this index yet. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([Oxford book record](https://academic.oup.com/book/9435))",
+    "raw_text": "⟨UNRESOLVED⟩ **Barton, John** — Hebrew Bible scholar, Anglican priest, and author of *Ethics in Ancient Israel* and *A History of the Bible*. His field, posts, and publications are verified, but this pass did not obtain page-level support for the two specific claims about Harnack/Marcion and Micah 6; neither should be quoted from this index yet. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([Oxford book record](https://academic.oup.com/book/9435))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -9890,11 +9902,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_eb8e2ffca2137eb11e9f",
-    "text": "Basil the Great (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.",
-    "raw_text": "**Basil the Great** (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_e50d94247d58c78ae434",
+    "text": "Basil the Great (c. 330–379) — Bishop of Caesarea and one of the Cappadocian Fathers, alongside his brother Gregory of Nyssa and his friend Gregory of Nazianzus. Their work was central to fourth-century articulation of Trinitarian doctrine, especially the Holy Spirit. CHECKED 12 AUG 2026 ([Oxford research encyclopedia entry on Gregory and the Cappadocians](https://ora.ox.ac.uk/objects/uuid%3A23f9b21a-8ec2-46e1-9a4c-67037360ca37))",
+    "raw_text": "⟨DOCUMENTED⟩ **Basil the Great** (c. 330–379) — Bishop of Caesarea and one of the Cappadocian Fathers, alongside his brother Gregory of Nyssa and his friend Gregory of Nazianzus. Their work was central to fourth-century articulation of Trinitarian doctrine, especially the Holy Spirit. `CHECKED 12 AUG 2026` ([Oxford research encyclopedia entry on Gregory and the Cappadocians](https://ora.ox.ac.uk/objects/uuid%3A23f9b21a-8ec2-46e1-9a4c-67037360ca37))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9913,20 +9925,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cd000ba62e128a9f9045",
-    "text": "Bauckham, Richard — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.",
-    "raw_text": "**Bauckham, Richard** — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d298028bedbb432beac8",
+    "text": "Bauckham, Richard — New Testament scholar and author of Jesus and the God of Israel. He argues that the earliest Christian texts identify Jesus within the unique divine identity of Israel’s God, framing high Christology in Jewish monotheistic categories; this directly contests models that make it a late, primarily Gentile-Hellenistic development. CHECKED 12 AUG 2026 ([Eerdmans](https://www.eerdmans.com/9780802845597/jesus-and-the-god-of-israel/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bauckham, Richard** — New Testament scholar and author of *Jesus and the God of Israel*. He argues that the earliest Christian texts identify Jesus within the unique divine identity of Israel’s God, framing high Christology in Jewish monotheistic categories; this directly contests models that make it a late, primarily Gentile-Hellenistic development. `CHECKED 12 AUG 2026` ([Eerdmans](https://www.eerdmans.com/9780802845597/jesus-and-the-god-of-israel/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9945,20 +9957,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b2fce182c7f6fca0438f",
-    "text": "Bauer, Walter — Critical scholar; Orthodoxy and Heresy in Earliest Christianity (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The \"Church Father\" label encodes who won.",
-    "raw_text": "**Bauer, Walter** — Critical scholar; *Orthodoxy and Heresy in Earliest Christianity* (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The \"Church Father\" label encodes who won.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d429a3050b59a0be2ee3",
+    "text": "Bauer, Walter — German New Testament and early-Christianity scholar. Orthodoxy and Heresy in Earliest Christianity (German, 1934) challenged the assumption that later orthodoxy was everywhere earlier than and prior to “heresy,” arguing instead from particular regions. The slogan “the Church Father label encodes who won” was an editorial extrapolation and has been removed. CHECKED 12 AUG 2026 ([University of Pennsylvania text and introduction](https://ccat.sas.upenn.edu/rs/rak/publics/new/BAUER00.htm); [Harvard Theological Review reception study](https://doi.org/10.1017/S0017816000002116))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bauer, Walter** — German New Testament and early-Christianity scholar. *Orthodoxy and Heresy in Earliest Christianity* (German, 1934) challenged the assumption that later orthodoxy was everywhere earlier than and prior to “heresy,” arguing instead from particular regions. The slogan “the Church Father label encodes who won” was an editorial extrapolation and has been removed. `CHECKED 12 AUG 2026` ([University of Pennsylvania text and introduction](https://ccat.sas.upenn.edu/rs/rak/publics/new/BAUER00.htm); [Harvard Theological Review reception study](https://doi.org/10.1017/S0017816000002116))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -9977,18 +9989,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ff65fb765d9738f43a4d",
-    "text": "Ben Zvi, Ehud — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (rîb) convention.",
-    "raw_text": "**Ben Zvi, Ehud** — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (*rîb*) convention.",
+    "id": "rk_cd96021b0240c684040a",
+    "text": "⟨UNRESOLVED⟩ Ben Zvi, Ehud — Hebrew Bible scholar and author of a commentary on Micah. This pass did not obtain the relevant commentary pages needed to verify the exact claim that he classifies Micah 6:1–8 as a covenant-lawsuit (rîb) convention. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Ben Zvi, Ehud** — Hebrew Bible scholar and author of a commentary on Micah. This pass did not obtain the relevant commentary pages needed to verify the exact claim that he classifies Micah 6:1–8 as a covenant-lawsuit (*rîb*) convention. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10018,11 +10030,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e693eec369211217df9d",
-    "text": "Bergen, Doris L. — Critical historian; Twisted Cross (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.",
-    "raw_text": "**Bergen, Doris L.** — Critical historian; *Twisted Cross* (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d47806978aecf447d414",
+    "text": "Bergen, Doris L. — Historian of modern Germany and the Holocaust and author of Twisted Cross (1996). The book studies roughly 600,000 self-described “German Christians” and how their movement attempted to synthesize Christianity and National Socialism. The prior entry’s specific Romans 13 attribution was removed because the publisher summary does not establish it. CHECKED 12 AUG 2026 ([University of North Carolina Press](https://uncpress.org/9780807845608/twisted-cross/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bergen, Doris L.** — Historian of modern Germany and the Holocaust and author of *Twisted Cross* (1996). The book studies roughly 600,000 self-described “German Christians” and how their movement attempted to synthesize Christianity and National Socialism. The prior entry’s specific Romans 13 attribution was removed because the publisher summary does not establish it. `CHECKED 12 AUG 2026` ([University of North Carolina Press](https://uncpress.org/9780807845608/twisted-cross/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10041,20 +10053,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dffec94b0505cf0bb732",
-    "text": "Bernstein, Alan — Historian; The Formation of Hell (1993). Scholarly treatment of how hell developed as a doctrine.",
-    "raw_text": "**Bernstein, Alan** — Historian; *The Formation of Hell* (1993). Scholarly treatment of how hell developed as a doctrine.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_fd9681f212e8144d03ac",
+    "text": "Bernstein, Alan E. — Historian and author of The Formation of Hell: Death and Retribution in the Ancient and Early Christian Worlds (1993), a historical study of the development of postmortem punishment traditions. CHECKED 12 AUG 2026 ([library bibliographic record](https://libcat.weber.edu/bib/825180))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bernstein, Alan E.** — Historian and author of *The Formation of Hell: Death and Retribution in the Ancient and Early Christian Worlds* (1993), a historical study of the development of postmortem punishment traditions. `CHECKED 12 AUG 2026` ([library bibliographic record](https://libcat.weber.edu/bib/825180))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10073,20 +10085,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aa85f4e5395b410dbdb1",
-    "text": "Bertenthal, B.I. / Campos, J.J. / Kermoian — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.",
-    "raw_text": "**Bertenthal, B.I. / Campos, J.J. / Kermoian** — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_32c17d2a49e7aef766de",
+    "text": "Campos, Joseph J.; Bertenthal, Bennett I.; and Kermoian, Rosanne — Developmental psychologists. Their 1992 studies found that the duration of locomotor experience, rather than age alone, predicted infants’ wariness and avoidance of heights. The prior name order and incomplete name have been corrected; the result concerns infant height wariness, not every fear response. CHECKED/CORRECTED 12 AUG 2026 ([original article and abstract](https://doi.org/10.1111/j.1467-9280.1992.tb00259.x))",
+    "raw_text": "⟨DOCUMENTED⟩ **Campos, Joseph J.; Bertenthal, Bennett I.; and Kermoian, Rosanne** — Developmental psychologists. Their 1992 studies found that the duration of locomotor experience, rather than age alone, predicted infants’ wariness and avoidance of heights. The prior name order and incomplete name have been corrected; the result concerns infant height wariness, not every fear response. `CHECKED/CORRECTED 12 AUG 2026` ([original article and abstract](https://doi.org/10.1111/j.1467-9280.1992.tb00259.x))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10105,20 +10117,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fb20115d1662cfb649ff",
-    "text": "Best, George — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
-    "raw_text": "**Best, George** — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_e2333e5f7114500c23ef",
+    "text": "Best, George — Sixteenth-century English writer. Benjamin Braude’s historical account, summarized by David Whitford’s publisher, identifies Best and Annius of Viterbo among writers who expanded Ham traditions into connections among Ham, Africa, slavery, and race. “Reached America” was removed because the cited summary does not trace that later transmission. CHECKED 12 AUG 2026 ([Routledge](https://www.routledge.com/The-Curse-of-Ham-in-the-Early-Modern-Era-The-Bible-and-the-Justifications/Whitford/p/book/9780754666257))",
+    "raw_text": "⟨DOCUMENTED⟩ **Best, George** — Sixteenth-century English writer. Benjamin Braude’s historical account, summarized by David Whitford’s publisher, identifies Best and Annius of Viterbo among writers who expanded Ham traditions into connections among Ham, Africa, slavery, and race. “Reached America” was removed because the cited summary does not trace that later transmission. `CHECKED 12 AUG 2026` ([Routledge](https://www.routledge.com/The-Curse-of-Ham-in-the-Early-Modern-Era-The-Bible-and-the-Justifications/Whitford/p/book/9780754666257))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10137,18 +10149,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7e5c7a506a07abe047de",
-    "text": "Betz, Hans Dieter — Critical scholar; Galatians (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.",
-    "raw_text": "**Betz, Hans Dieter** — Critical scholar; *Galatians* (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.",
+    "id": "rk_f3cd83995c91180b34c5",
+    "text": "⟨UNRESOLVED⟩ Betz, Hans Dieter — New Testament scholar and author of Galatians in the Hermeneia series (1979). The exact claim that Betz identifies Galatians 3:27–28 as a pre-Pauline baptismal formula requires the cited commentary pages, which this pass did not obtain. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Betz, Hans Dieter** — New Testament scholar and author of *Galatians* in the Hermeneia series (1979). The exact claim that Betz identifies Galatians 3:27–28 as a pre-Pauline baptismal formula requires the cited commentary pages, which this pass did not obtain. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10178,11 +10190,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a61c5fa8f8ed9b1ad02c",
-    "text": "Bird, Michael — Evangelical scholar; Jesus the Eternal Son (2017). Rebuts adoptionist readings of Mark.",
-    "raw_text": "**Bird, Michael** — Evangelical scholar; *Jesus the Eternal Son* (2017). Rebuts adoptionist readings of Mark.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_8f43bbd377e56b9fe3b8",
+    "text": "Bird, Michael F. — New Testament scholar and author of Jesus the Eternal Son (2017). The book challenges adoptionist interpretations through pre-Pauline material, Mark, and patristic sources; it specifically disputes reading Jesus’s baptism in Mark as an adoption event. CHECKED 12 AUG 2026 ([Eerdmans](https://www.eerdmans.com/9781467447898/jesus-the-eternal-son/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bird, Michael F.** — New Testament scholar and author of *Jesus the Eternal Son* (2017). The book challenges adoptionist interpretations through pre-Pauline material, Mark, and patristic sources; it specifically disputes reading Jesus’s baptism in Mark as an adoption event. `CHECKED 12 AUG 2026` ([Eerdmans](https://www.eerdmans.com/9781467447898/jesus-the-eternal-son/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10201,18 +10213,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ed704585bf7e8df9fd0e",
-    "text": "Blenkinsopp, Joseph — Critical scholar; Isaiah 1–39 (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.",
-    "raw_text": "**Blenkinsopp, Joseph** — Critical scholar; *Isaiah 1–39* (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.",
+    "id": "rk_6494466a1943bc3a34fa",
+    "text": "⟨UNRESOLVED⟩ Blenkinsopp, Joseph — Hebrew Bible scholar and author of Isaiah 1–39 in the Anchor Bible series. The historical setting of Isaiah 7 is the Syro-Ephraimite crisis, but this pass did not obtain Blenkinsopp’s relevant pages to verify the exact date range and attribution in the prior entry. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Blenkinsopp, Joseph** — Hebrew Bible scholar and author of *Isaiah 1–39* in the Anchor Bible series. The historical setting of Isaiah 7 is the Syro-Ephraimite crisis, but this pass did not obtain Blenkinsopp’s relevant pages to verify the exact date range and attribution in the prior entry. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10242,11 +10254,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_68c8ed4e297283d2ddef",
-    "text": "Blomberg, Craig — Conservative evangelical; The Historical Reliability of John's Gospel (2001). Defends Johannine authenticity.",
-    "raw_text": "**Blomberg, Craig** — Conservative evangelical; *The Historical Reliability of John's Gospel* (2001). Defends Johannine authenticity.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_843a964c86052af4a30f",
+    "text": "Blomberg, Craig L. — New Testament scholar and author of The Historical Reliability of John’s Gospel (2001). The book explicitly argues for the Gospel’s historical integrity. “Johannine authenticity” was replaced because it can ambiguously refer to authorship, a distinct question. CHECKED 12 AUG 2026 ([InterVarsity Press](https://ivpress.com/the-historical-reliability-of-john-s-gospel))",
+    "raw_text": "⟨DOCUMENTED⟩ **Blomberg, Craig L.** — New Testament scholar and author of *The Historical Reliability of John’s Gospel* (2001). The book explicitly argues for the Gospel’s historical integrity. “Johannine authenticity” was replaced because it can ambiguously refer to authorship, a distinct question. `CHECKED 12 AUG 2026` ([InterVarsity Press](https://ivpress.com/the-historical-reliability-of-john-s-gospel))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10265,20 +10277,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8dea3e00ffa2c622012c",
-    "text": "Blundell, Mary Whitlock — Classical scholar; Helping Friends and Harming Enemies (1989). Standard reference for \"help friends, harm enemies\" as Greco-Roman popular ethics — context for Matthew 5:43.",
-    "raw_text": "**Blundell, Mary Whitlock** — Classical scholar; *Helping Friends and Harming Enemies* (1989). Standard reference for \"help friends, harm enemies\" as Greco-Roman popular ethics — context for Matthew 5:43.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_0f6925aeeb6ade463836",
+    "text": "Blundell, Mary Whitlock — Classicist (now publishing as Ruby Blondell) and author of Helping Friends and Harming Enemies (1989). The study documents “help friends, harm enemies” as a pervasive assumption in Greek popular thought. “Greco-Roman” was narrowed to the book’s actual Greek scope; the Matthew 5:43 connection is contextual inference, not the book’s stated subject. CHECKED 12 AUG 2026 ([Cambridge University Press](https://www.cambridge.org/core/books/helping-friends-and-harming-enemies/helping-friends-and-harming-enemies/1C7FA0E4765534A27FF8E61EA7E802BF))",
+    "raw_text": "⟨DOCUMENTED⟩ **Blundell, Mary Whitlock** — Classicist (now publishing as Ruby Blondell) and author of *Helping Friends and Harming Enemies* (1989). The study documents “help friends, harm enemies” as a pervasive assumption in Greek popular thought. “Greco-Roman” was narrowed to the book’s actual Greek scope; the Matthew 5:43 connection is contextual inference, not the book’s stated subject. `CHECKED 12 AUG 2026` ([Cambridge University Press](https://www.cambridge.org/core/books/helping-friends-and-harming-enemies/helping-friends-and-harming-enemies/1C7FA0E4765534A27FF8E61EA7E802BF))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10297,20 +10309,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_75aca646e7f174c18d52",
-    "text": "Boethius (6th century CE) — Late Roman philosopher; The Consolation of Philosophy. Original philosophical formulation of divine atemporality (God outside time entirely).",
-    "raw_text": "**Boethius** (6th century CE) — Late Roman philosopher; *The Consolation of Philosophy*. Original philosophical formulation of divine atemporality (God outside time entirely).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_df3b9aa3472e76142322",
+    "text": "Boethius (c. 480–c. 525) — Late Roman philosopher. Book V of The Consolation of Philosophy gives the classic definition of divine eternity as the simultaneous possession of unending life and uses atemporal knowledge to address foreknowledge and freedom. Correction: Boethius did not originate divine atemporality; Augustine and Plotinus are important predecessors. CHECKED/CORRECTED 12 AUG 2026 ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2015/entries/eternity/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Boethius** (c. 480–c. 525) — Late Roman philosopher. Book V of *The Consolation of Philosophy* gives the classic definition of divine eternity as the simultaneous possession of unending life and uses atemporal knowledge to address foreknowledge and freedom. **Correction:** Boethius did not originate divine atemporality; Augustine and Plotinus are important predecessors. `CHECKED/CORRECTED 12 AUG 2026` ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/archives/spr2015/entries/eternity/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10329,20 +10341,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cd6729287e13d3f67dd7",
-    "text": "Bonaventure (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.",
-    "raw_text": "**Bonaventure** (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_bb2168db797db64c1b4f",
+    "text": "Bonaventure (1221–1274) — Franciscan theologian whose exegesis uses the medieval fourfold pattern—literal, allegorical, tropological, and anagogical—with the literal sense as foundation. “Systematized” implied sole or original authorship of an older tradition and has been removed. CHECKED 12 AUG 2026 ([study of Bonaventure’s exegesis](https://henrycenter.org/2017/05/history-the-hexaemeron/); [translated Principium outline](https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/academic/5716/0614/2693/Appendix_2__Bonaventures_Principium_Address_at_Paris_-_An_Outline_and_Translation_.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bonaventure** (1221–1274) — Franciscan theologian whose exegesis uses the medieval fourfold pattern—literal, allegorical, tropological, and anagogical—with the literal sense as foundation. “Systematized” implied sole or original authorship of an older tradition and has been removed. `CHECKED 12 AUG 2026` ([study of Bonaventure’s exegesis](https://henrycenter.org/2017/05/history-the-hexaemeron/); [translated *Principium* outline](https://drupal-s3fs-prod.s3.eu-west-1.amazonaws.com/resources/academic/5716/0614/2693/Appendix_2__Bonaventures_Principium_Address_at_Paris_-_An_Outline_and_Translation_.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10361,20 +10373,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5ce3ac46769fc2e43f2a",
-    "text": "Bonhoeffer, Dietrich — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.",
-    "raw_text": "**Bonhoeffer, Dietrich** — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_44073a53fa1eedf5293b",
+    "text": "Bonhoeffer, Dietrich (1906–1945) — German Lutheran theologian, Confessing Church participant, and resistance figure executed by the Nazi regime. Correction: Bonhoeffer did not coauthor the Barmen Declaration; Karl Barth was its principal drafter. The prior “clearest grounds” ranking and direct Romans 13 attribution were unsupported and have been removed. CHECKED/CORRECTED 12 AUG 2026 ([United States Holocaust Memorial Museum](https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer); [Barmen history and text](https://creedsandconfessions.org/barmen-declaration.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bonhoeffer, Dietrich** (1906–1945) — German Lutheran theologian, Confessing Church participant, and resistance figure executed by the Nazi regime. **Correction:** Bonhoeffer did not coauthor the Barmen Declaration; Karl Barth was its principal drafter. The prior “clearest grounds” ranking and direct Romans 13 attribution were unsupported and have been removed. `CHECKED/CORRECTED 12 AUG 2026` ([United States Holocaust Memorial Museum](https://encyclopedia.ushmm.org/content/en/article/dietrich-bonhoeffer); [Barmen history and text](https://creedsandconfessions.org/barmen-declaration.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10393,20 +10405,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a72e7440cc1a443000c5",
-    "text": "Bousset, Wilhelm — Critical scholar; Kyrios Christos (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.",
-    "raw_text": "**Bousset, Wilhelm** — Critical scholar; *Kyrios Christos* (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d4a0fdc6641edc11b428",
+    "text": "Bousset, Wilhelm (1865–1920) — German New Testament scholar and author of Kyrios Christos (1913). He distinguished an early Palestinian Jesus movement from later, more Gentile Hellenistic Christianity and located cultic “Lord” devotion in the latter setting. Later scholarship has substantially challenged that sharp Jewish/Hellenistic division; “pagan lord-cult imports” was too compressed and has been narrowed. CHECKED 12 AUG 2026 ([scholarly discussion](https://doi.org/10.4102/hts.v53i3.1612); [bibliographic overview](https://www.encyclopedia.com/people/philosophy-and-religion/protestant-christianity-biographies/wilhelm-bousset))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bousset, Wilhelm** (1865–1920) — German New Testament scholar and author of *Kyrios Christos* (1913). He distinguished an early Palestinian Jesus movement from later, more Gentile Hellenistic Christianity and located cultic “Lord” devotion in the latter setting. Later scholarship has substantially challenged that sharp Jewish/Hellenistic division; “pagan lord-cult imports” was too compressed and has been narrowed. `CHECKED 12 AUG 2026` ([scholarly discussion](https://doi.org/10.4102/hts.v53i3.1612); [bibliographic overview](https://www.encyclopedia.com/people/philosophy-and-religion/protestant-christianity-biographies/wilhelm-bousset))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10425,20 +10437,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ad748114397056178b45",
-    "text": "Boyd, Gregory — Open theist evangelical; God of the Possible (2000). God does not foreknow free choices.",
-    "raw_text": "**Boyd, Gregory** — Open theist evangelical; *God of the Possible* (2000). God does not foreknow free choices.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d4dab3e278a91801d2c3",
+    "text": "Boyd, Gregory A. — Theologian and proponent of open theism. God of the Possible (2000) presents the future as partly settled and partly composed of possibilities resolved by free agents. “God does not foreknow free choices” was too blunt: Boyd’s claim is that undetermined future choices are known as possibilities, not as already-settled facts. CHECKED 12 AUG 2026 ([publisher summary](https://www.logos.com/product/52779/god-of-the-possible-a-biblical-introduction-to-the-open-view-of-god))",
+    "raw_text": "⟨DOCUMENTED⟩ **Boyd, Gregory A.** — Theologian and proponent of open theism. *God of the Possible* (2000) presents the future as partly settled and partly composed of possibilities resolved by free agents. “God does not foreknow free choices” was too blunt: Boyd’s claim is that undetermined future choices are known as possibilities, not as already-settled facts. `CHECKED 12 AUG 2026` ([publisher summary](https://www.logos.com/product/52779/god-of-the-possible-a-biblical-introduction-to-the-open-view-of-god))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10457,20 +10469,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2253166500e25999f482",
-    "text": "Boyce, Mary — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.",
-    "raw_text": "**Boyce, Mary** — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c049335f33886e4300c3",
+    "text": "Boyce, Mary (1920–2006) — Scholar of Iranian religions and a major authority on Zoroastrianism. Her work treats Zoroastrian beliefs and their historical influence on Judaism, Christianity, and Islam. The specific degree and route of influence on Second Temple Jewish dualism remain debated, so “possible influence” should not be presented as settled borrowing. CHECKED 12 AUG 2026 ([Routledge](https://www.routledge.com/Zoroastrians-Their-Religious-Beliefs-and-Practices-2nd-Edition/Boyce/p/book/9780415239028); [Cambridge discussion of Zoroastrian dualism](https://doi.org/10.1017/S0034412509990256))",
+    "raw_text": "⟨DOCUMENTED⟩ **Boyce, Mary** (1920–2006) — Scholar of Iranian religions and a major authority on Zoroastrianism. Her work treats Zoroastrian beliefs and their historical influence on Judaism, Christianity, and Islam. The specific degree and route of influence on Second Temple Jewish dualism remain debated, so “possible influence” should not be presented as settled borrowing. `CHECKED 12 AUG 2026` ([Routledge](https://www.routledge.com/Zoroastrians-Their-Religious-Beliefs-and-Practices-2nd-Edition/Boyce/p/book/9780415239028); [Cambridge discussion of Zoroastrian dualism](https://doi.org/10.1017/S0034412509990256))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10489,18 +10501,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e45c4391187132ecb567",
-    "text": "Briggs, Peter — Applied the eleph proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.",
-    "raw_text": "**Briggs, Peter** — Applied the *eleph* proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.",
+    "id": "rk_ee628dc73d39fa352779",
+    "text": "⟨UNRESOLVED⟩ Briggs, Peter — The prior entry attributes a particular ʾeleph reinterpretation of the Numbers census to “Peter Briggs,” but this pass did not establish the person, publication, or exact calculation from a reliable bibliographic source. Do not cite it. UNRESOLVED 12 AUG 2026 — IDENTITY AND SOURCE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Briggs, Peter** — The prior entry attributes a particular *ʾeleph* reinterpretation of the Numbers census to “Peter Briggs,” but this pass did not establish the person, publication, or exact calculation from a reliable bibliographic source. Do not cite it. `UNRESOLVED 12 AUG 2026 — IDENTITY AND SOURCE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10530,9 +10542,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aba7e9f92900e227d1a3",
-    "text": "Bright, John — Critical scholar; Jeremiah (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.",
-    "raw_text": "**Bright, John** — Critical scholar; *Jeremiah* (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.",
+    "id": "rk_837e048d4f4cb3374735",
+    "text": "⟨UNRESOLVED⟩ Bright, John — Biblical scholar and author of an Anchor Bible commentary on Jeremiah. Jeremiah 29:11 is textually addressed to the exiled community, but this pass did not obtain Bright’s relevant pages to verify that the stated corporate-versus-personal application is his explicit interpretive claim. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Bright, John** — Biblical scholar and author of an Anchor Bible commentary on Jeremiah. Jeremiah 29:11 is textually addressed to the exiled community, but this pass did not obtain Bright’s relevant pages to verify that the stated corporate-versus-personal application is his explicit interpretive claim. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10562,9 +10574,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_094707ba0442fb25052a",
-    "text": "Brown, Raymond E. — Critical Catholic scholar; The Gospel According to John (Anchor Bible). Standard commentary; dates John c. 90–100 CE.",
-    "raw_text": "**Brown, Raymond E.** — Critical Catholic scholar; *The Gospel According to John* (Anchor Bible). Standard commentary; dates John c. 90–100 CE.",
+    "id": "rk_83bc6d2529bafacbb567",
+    "text": "⟨UNRESOLVED⟩ Brown, Raymond E. — Catholic New Testament scholar and author of the Anchor Bible commentary The Gospel According to John. The work and its treatment of dating are verified, but the precise attribution “c. 90–100 CE” was not confirmed from an accessible page of Brown’s commentary in this pass. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([Yale University Press](https://yalebooks.yale.edu/book/9780300140521/the-gospel-according-to-john-i-xii/))",
+    "raw_text": "⟨UNRESOLVED⟩ **Brown, Raymond E.** — Catholic New Testament scholar and author of the Anchor Bible commentary *The Gospel According to John*. The work and its treatment of dating are verified, but the precise attribution “c. 90–100 CE” was not confirmed from an accessible page of Brown’s commentary in this pass. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([Yale University Press](https://yalebooks.yale.edu/book/9780300140521/the-gospel-according-to-john-i-xii/))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10594,9 +10606,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3af159f1eaefc65c83d0",
-    "text": "Bruce, F.F. — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.",
-    "raw_text": "**Bruce, F.F.** — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.",
+    "id": "rk_6274dea3fb520ba6cdb9",
+    "text": "⟨UNRESOLVED⟩ Bruce, F. F. — New Testament scholar and author of major commentaries on Acts. This pass verified the commentary but did not locate the passage allegedly suggesting that Luke took shorthand notes at trials. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([F. F. Bruce archive](https://www.ffbruce.com/the-acts-of-the-apostles/))",
+    "raw_text": "⟨UNRESOLVED⟩ **Bruce, F. F.** — New Testament scholar and author of major commentaries on Acts. This pass verified the commentary but did not locate the passage allegedly suggesting that Luke took shorthand notes at trials. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([F. F. Bruce archive](https://www.ffbruce.com/the-acts-of-the-apostles/))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10626,9 +10638,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_30cf7994f3008ca044c1",
-    "text": "Brueggemann, Walter — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.",
-    "raw_text": "**Brueggemann, Walter** — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.",
+    "id": "rk_cafe8acaea93016fbc16",
+    "text": "⟨UNRESOLVED⟩ Brueggemann, Walter — Hebrew Bible theologian and commentator on Jeremiah and Micah. The prior entry combines two specific interpretations—Jeremiah 29:11 as corporate and Micah 6 as an escalation to prohibited child sacrifice—but this pass did not obtain the relevant commentary pages for attribution. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Brueggemann, Walter** — Hebrew Bible theologian and commentator on Jeremiah and Micah. The prior entry combines two specific interpretations—Jeremiah 29:11 as corporate and Micah 6 as an escalation to prohibited child sacrifice—but this pass did not obtain the relevant commentary pages for attribution. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10658,11 +10670,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c28213b0e7d7c932fcf5",
-    "text": "Bultmann, Rudolf (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms (\"demythologization\"). Resolved the parousia by dissolving it into the existential now.",
-    "raw_text": "**Bultmann, Rudolf** (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms (\"demythologization\"). Resolved the parousia by dissolving it into the existential now.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_a1bb796bbf5ddf29bb31",
+    "text": "Bultmann, Rudolf (1884–1976) — German Lutheran New Testament scholar. His program of demythologization sought existential interpretation of the New Testament’s mythic world-picture rather than simple deletion of its message. In eschatology he emphasized decision in the present “now” as eschatological event; “dissolving” the parousia was a polemical paraphrase and has been replaced. CHECKED 12 AUG 2026 ([Routledge Encyclopedia of Philosophy](https://www.rep.routledge.com/articles/biographical/bultmann-rudolf-1884-1976/v-1/sections/history-and-myth); [study of Bultmann’s eschatology](https://doi.org/10.4102/hts.v45i4.2332); [Bultmann’s reply](https://www.religion-online.org/book-chapter/bultmann-replies-to-his-critics/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Bultmann, Rudolf** (1884–1976) — German Lutheran New Testament scholar. His program of demythologization sought existential interpretation of the New Testament’s mythic world-picture rather than simple deletion of its message. In eschatology he emphasized decision in the present “now” as eschatological event; “dissolving” the parousia was a polemical paraphrase and has been replaced. `CHECKED 12 AUG 2026` ([Routledge Encyclopedia of Philosophy](https://www.rep.routledge.com/articles/biographical/bultmann-rudolf-1884-1976/v-1/sections/history-and-myth); [study of Bultmann’s eschatology](https://doi.org/10.4102/hts.v45i4.2332); [Bultmann’s reply](https://www.religion-online.org/book-chapter/bultmann-replies-to-his-critics/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10681,18 +10693,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e23b1218414529a8889e",
-    "text": "Caird, G.B. — Moderate critical scholar; The Gospel of St. Luke (Pelican). Reads Luke 14:26 \"hate\" as an Aramaic idiom.",
-    "raw_text": "**Caird, G.B.** — Moderate critical scholar; *The Gospel of St. Luke* (Pelican). Reads Luke 14:26 \"hate\" as an Aramaic idiom.",
+    "id": "rk_bedc7b790075ed717168",
+    "text": "⟨UNRESOLVED⟩ Caird, G. B. — New Testament scholar and author of The Gospel of St. Luke in the Pelican commentary series. This pass did not obtain Caird’s relevant page needed to verify the specific attribution that Luke 14:26’s “hate” is an Aramaic idiom. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Caird, G. B.** — New Testament scholar and author of *The Gospel of St. Luke* in the Pelican commentary series. This pass did not obtain Caird’s relevant page needed to verify the specific attribution that Luke 14:26’s “hate” is an Aramaic idiom. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10722,11 +10734,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c918da820fe8cd7ccecc",
-    "text": "Calvin, John (1509–1564) — Protestant reformer. Developed \"accommodation\" — God speaks in terms adjusted to human capacity, like nurses speaking to infants. Also developed the lesser-magistrate doctrine making Romans 13 compatible with resistance by legitimate authorities against a tyrant.",
-    "raw_text": "**Calvin, John** (1509–1564) — Protestant reformer. Developed \"accommodation\" — God speaks in terms adjusted to human capacity, like nurses speaking to infants. Also developed the lesser-magistrate doctrine making Romans 13 compatible with resistance by legitimate authorities against a tyrant.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b809e58a4bcde976e66d",
+    "text": "Calvin, John (1509–1564) — Protestant reformer. Calvin repeatedly described divine teaching as accommodated to limited human capacity. In Institutes IV.20.31 he also allowed that constitutionally appointed “magistrates of the people” may restrain tyrannical kings. Calling this a fully developed Romans 13 doctrine overstates the narrower passage, so the wording has been qualified. CHECKED 12 AUG 2026 ([Institutes text on accommodation](https://www.gutenberg.org/files/64392/64392-h/64392-h.htm); [Institutes IV.20](https://biblehub.com/library/calvin/the_institutes_of_the_christian_religion/chapter_20_of_civil_government.htm); [historical analysis](https://ca.thegospelcoalition.org/article/resisting-the-powers-that-be-how-protestants-developed-a-resistance-theory/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Calvin, John** (1509–1564) — Protestant reformer. Calvin repeatedly described divine teaching as accommodated to limited human capacity. In *Institutes* IV.20.31 he also allowed that constitutionally appointed “magistrates of the people” may restrain tyrannical kings. Calling this a fully developed Romans 13 doctrine overstates the narrower passage, so the wording has been qualified. `CHECKED 12 AUG 2026` ([*Institutes* text on accommodation](https://www.gutenberg.org/files/64392/64392-h/64392-h.htm); [*Institutes* IV.20](https://biblehub.com/library/calvin/the_institutes_of_the_christian_religion/chapter_20_of_civil_government.htm); [historical analysis](https://ca.thegospelcoalition.org/article/resisting-the-powers-that-be-how-protestants-developed-a-resistance-theory/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10745,20 +10757,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c90b78ecaa84a66c64aa",
-    "text": "Caneday, Ardel B. — Evangelical scholar. Reads Galatians 4:21–31 as typology (prefiguring) rather than Philonic allegory.",
-    "raw_text": "**Caneday, Ardel B.** — Evangelical scholar. Reads Galatians 4:21–31 as typology (prefiguring) rather than Philonic allegory.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_fc9721a69c4b171239f5",
+    "text": "Caneday, Ardel B. — New Testament scholar whose study of Galatians 4:21–31 argues that Paul’s allegory is rooted in historical narrative containing symbolic, prefigurative features. The prior “typology rather than allegory” binary was inaccurate: Caneday expressly takes Paul’s own word “allegorically” seriously while resisting arbitrary allegorization. CHECKED/CORRECTED 12 AUG 2026 ([Evangelical Theological Society record](https://etsjets.org/publication/covenant-lineage-allegoricall-prefigured-which-things-are-written-allegorically-galatians-421-31/); [article PDF](https://equip.sbts.edu/wp-content/uploads/2014/06/SBJT-V14-N.3_Caneday.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Caneday, Ardel B.** — New Testament scholar whose study of Galatians 4:21–31 argues that Paul’s allegory is rooted in historical narrative containing symbolic, prefigurative features. The prior “typology rather than allegory” binary was inaccurate: Caneday expressly takes Paul’s own word “allegorically” seriously while resisting arbitrary allegorization. `CHECKED/CORRECTED 12 AUG 2026` ([Evangelical Theological Society record](https://etsjets.org/publication/covenant-lineage-allegoricall-prefigured-which-things-are-written-allegorically-galatians-421-31/); [article PDF](https://equip.sbts.edu/wp-content/uploads/2014/06/SBJT-V14-N.3_Caneday.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10777,20 +10789,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b0b308ebfcbe48e8bcc9",
-    "text": "Carroll, Sean — Physicist; atheist; \"Why (Almost All) Cosmologists Are Atheists\" (2005). Against cosmological and design arguments.",
-    "raw_text": "**Carroll, Sean** — Physicist; atheist; \"Why (Almost All) Cosmologists Are Atheists\" (2005). Against cosmological and design arguments.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_76a25ca8b499d3ef0337",
+    "text": "Carroll, Sean M. — Theoretical physicist and cosmologist. His 2005 article “Why (Almost All) Cosmologists Are Atheists” argues that modern cosmology does not need the God hypothesis as an explanatory component. “Against cosmological and design arguments” was broader than the article’s stated scope and has been narrowed. CHECKED 12 AUG 2026 ([journal record](https://place.asburyseminary.edu/faithandphilosophy/vol22/iss5/9/); [author-hosted text](https://preposterousuniverse.com/writings/nd-paper/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Carroll, Sean M.** — Theoretical physicist and cosmologist. His 2005 article “Why (Almost All) Cosmologists Are Atheists” argues that modern cosmology does not need the God hypothesis as an explanatory component. “Against cosmological and design arguments” was broader than the article’s stated scope and has been narrowed. `CHECKED 12 AUG 2026` ([journal record](https://place.asburyseminary.edu/faithandphilosophy/vol22/iss5/9/); [author-hosted text](https://preposterousuniverse.com/writings/nd-paper/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10809,20 +10821,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0132f573bb25cb513d2a",
-    "text": "Carson, D.A. — Conservative evangelical; The Gospel According to John (Pillar NT Commentary); The Gagging of God (1996). Defends Johannine authenticity and Christian exclusivism.",
-    "raw_text": "**Carson, D.A.** — Conservative evangelical; *The Gospel According to John* (Pillar NT Commentary); *The Gagging of God* (1996). Defends Johannine authenticity and Christian exclusivism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_f580e82022936b8077b3",
+    "text": "Carson, D. A. — New Testament scholar and author of The Gospel According to John in the Pillar series and The Gagging of God (1996). The latter is an explicit Christian response to religious pluralism that defends an exclusive gospel claim. “Johannine authenticity” was removed because it ambiguously combines historical reliability with the separate question of authorship. CHECKED 12 AUG 2026 ([publication list](https://www.thegospelcoalition.org/article/d-a-carsons-publications/); [book summary](https://store.ligonier.org/the-gagging-of-god-christianity-confronts-pluralism-paperback))",
+    "raw_text": "⟨DOCUMENTED⟩ **Carson, D. A.** — New Testament scholar and author of *The Gospel According to John* in the Pillar series and *The Gagging of God* (1996). The latter is an explicit Christian response to religious pluralism that defends an exclusive gospel claim. “Johannine authenticity” was removed because it ambiguously combines historical reliability with the separate question of authorship. `CHECKED 12 AUG 2026` ([publication list](https://www.thegospelcoalition.org/article/d-a-carsons-publications/); [book summary](https://store.ligonier.org/the-gagging-of-god-christianity-confronts-pluralism-paperback))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10841,20 +10853,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53c1a55dbde7700f0ca9",
-    "text": "Casey, Maurice — Critical secular scholar; From Jewish Prophet to Gentile God (1991). Argues full incarnational Christology is only Johannine — but also wrote the book-length refutation of mythicism.",
-    "raw_text": "**Casey, Maurice** — Critical secular scholar; *From Jewish Prophet to Gentile God* (1991). Argues full incarnational Christology is only Johannine — but also wrote the book-length refutation of mythicism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_311f62e5733c9db98a60",
+    "text": "Casey, Maurice (1942–2014) — New Testament and early-Christianity scholar. From Jewish Prophet to Gentile God (1991) traces Christology from an Aramaic-speaking Jewish Jesus to the explicit declaration of deity in John and relates Johannine deity language to a Gentile-identifying community. Casey also wrote Jesus: Evidence and Argument or Mythicist Myths? against Jesus mythicism. “Secular” was an unnecessary worldview label and has been removed. CHECKED 12 AUG 2026 ([book record](https://books.google.com/books?id=B-wgtbi4mqAC); [bibliographic profile](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/casey-maurice))",
+    "raw_text": "⟨DOCUMENTED⟩ **Casey, Maurice** (1942–2014) — New Testament and early-Christianity scholar. *From Jewish Prophet to Gentile God* (1991) traces Christology from an Aramaic-speaking Jewish Jesus to the explicit declaration of deity in John and relates Johannine deity language to a Gentile-identifying community. Casey also wrote *Jesus: Evidence and Argument or Mythicist Myths?* against Jesus mythicism. “Secular” was an unnecessary worldview label and has been removed. `CHECKED 12 AUG 2026` ([book record](https://books.google.com/books?id=B-wgtbi4mqAC); [bibliographic profile](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/casey-maurice))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10873,20 +10885,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e8953c684bb2edd0c2b9",
-    "text": "Chan, Francis — Evangelical pastor; Erasing Hell (2011). Defends eternal conscious torment.",
-    "raw_text": "**Chan, Francis** — Evangelical pastor; *Erasing Hell* (2011). Defends eternal conscious torment.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_f20957a8cb8268eb035e",
+    "text": "Chan, Francis, and Preston Sprinkle — Evangelical authors of Erasing Hell (2011), a defense of the reality and finality of hell against universalist and annihilationist alternatives. Correction: the prior entry omitted coauthor Preston Sprinkle. CHECKED/CORRECTED 12 AUG 2026 ([publisher sample showing both authors](https://lifeway.s3.amazonaws.com/samples/edoc/005471580_SMPL.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Chan, Francis, and Preston Sprinkle** — Evangelical authors of *Erasing Hell* (2011), a defense of the reality and finality of hell against universalist and annihilationist alternatives. **Correction:** the prior entry omitted coauthor Preston Sprinkle. `CHECKED/CORRECTED 12 AUG 2026` ([publisher sample showing both authors](https://lifeway.s3.amazonaws.com/samples/edoc/005471580_SMPL.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10905,20 +10917,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2d47c995d7529f1f36db",
-    "text": "Chrysostom, John (c. 349–407) — Church Father; bishop; major preacher in the Antiochene school. Important flag: also delivered eight notoriously hostile anti-Jewish homilies in Antioch. Academic scholarship explicitly studies their rhetorical structure. Essential context whenever he is cited on Jews, Judaism, or Christian ethics.",
-    "raw_text": "**Chrysostom, John** (c. 349–407) — Church Father; bishop; major preacher in the Antiochene school. **Important flag:** also delivered eight notoriously hostile anti-Jewish homilies in Antioch. Academic scholarship explicitly studies their rhetorical structure. Essential context whenever he is cited on Jews, Judaism, or Christian ethics.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_bd7e81305d20c32725f5",
+    "text": "Chrysostom, John (c. 349–407) — Bishop of Constantinople and celebrated preacher. Important flag: while a presbyter in Antioch in 386–387, he delivered eight violently anti-Jewish homilies aimed especially at Christians participating in Jewish festivals and synagogue life. Their immediate target does not erase their hostile rhetoric or later anti-Jewish use; this context is essential when citing him on Jews or Judaism. CHECKED 12 AUG 2026 ([Encyclopedia of Religion/Jewish studies entry](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/john-chrysostomdeg); [scholarly study](https://doi.org/10.5117/NTT1985.39.013.SMEL))",
+    "raw_text": "⟨DOCUMENTED⟩ **Chrysostom, John** (c. 349–407) — Bishop of Constantinople and celebrated preacher. **Important flag:** while a presbyter in Antioch in 386–387, he delivered eight violently anti-Jewish homilies aimed especially at Christians participating in Jewish festivals and synagogue life. Their immediate target does not erase their hostile rhetoric or later anti-Jewish use; this context is essential when citing him on Jews or Judaism. `CHECKED 12 AUG 2026` ([Encyclopedia of Religion/Jewish studies entry](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/john-chrysostomdeg); [scholarly study](https://doi.org/10.5117/NTT1985.39.013.SMEL))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10937,20 +10949,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ffab0429a59ad5fcf9ae",
-    "text": "Clement of Rome (late 1st century) — Early Church Father. Wrote on church order, authority, unity.",
-    "raw_text": "**Clement of Rome** (late 1st century) — Early Church Father. Wrote on church order, authority, unity.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_8d41031e3485125ca7bd",
+    "text": "Clement of Rome / 1 Clement (late 1st century) — 1 Clement addresses order, leadership, and unity in the Corinthian church. Qualification: the letter itself presents the Roman church as sender; attribution to the individual Clement is traditional rather than stated in the text, so “Clement wrote” was too certain. CHECKED/CORRECTED 12 AUG 2026 ([Encyclopedia of Religion](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/clement-rome); [study of order and unity](https://doi.org/10.1007/s11127-025-01341-x))",
+    "raw_text": "⟨DOCUMENTED⟩ **Clement of Rome / 1 Clement** (late 1st century) — *1 Clement* addresses order, leadership, and unity in the Corinthian church. **Qualification:** the letter itself presents the Roman church as sender; attribution to the individual Clement is traditional rather than stated in the text, so “Clement wrote” was too certain. `CHECKED/CORRECTED 12 AUG 2026` ([Encyclopedia of Religion](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/clement-rome); [study of order and unity](https://doi.org/10.1007/s11127-025-01341-x))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -10969,18 +10981,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c5143287254f9fa26b60",
-    "text": "Colenso (1871) — Early critical scholar who recognized the Numbers census numbers as non-historical. Full name not given in the text.",
-    "raw_text": "**Colenso** (1871) — Early critical scholar who recognized the Numbers census numbers as non-historical. Full name not given in the text.",
+    "id": "rk_8a03c909d1ace29d4e74",
+    "text": "⟨UNRESOLVED⟩ Colenso, John William (1814–1883) — Anglican bishop of Natal and an early English-language critic of the Pentateuch’s historical accuracy. The full identity and 1871 bibliographic trail are now supplied, but this pass did not locate the precise page supporting the narrower Numbers-census attribution. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([Tufts bibliographic record](https://dl.tufts.edu/concern/pdfs/cr56nf88b))",
+    "raw_text": "⟨UNRESOLVED⟩ **Colenso, John William** (1814–1883) — Anglican bishop of Natal and an early English-language critic of the Pentateuch’s historical accuracy. The full identity and 1871 bibliographic trail are now supplied, but this pass did not locate the precise page supporting the narrower Numbers-census attribution. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([Tufts bibliographic record](https://dl.tufts.edu/concern/pdfs/cr56nf88b))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11010,11 +11022,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8920a6ecee1eae887ab1",
-    "text": "Collins, Robin — Philosopher; defends the fine-tuning design argument.",
-    "raw_text": "**Collins, Robin** — Philosopher; defends the fine-tuning design argument.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d977cb0993168def7b53",
+    "text": "Collins, Robin — Philosopher known for probabilistic versions of the fine-tuning argument for design. The index now states the defended argument without implying that its conclusion is scholarly consensus. CHECKED 12 AUG 2026 ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/fine-tuning/); [Collins article record](https://doi.org/10.5840/pc20057233))",
+    "raw_text": "⟨DOCUMENTED⟩ **Collins, Robin** — Philosopher known for probabilistic versions of the fine-tuning argument for design. The index now states the defended argument without implying that its conclusion is scholarly consensus. `CHECKED 12 AUG 2026` ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/fine-tuning/); [Collins article record](https://doi.org/10.5840/pc20057233))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11033,20 +11045,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_de77b2b101b6cf5a4e87",
-    "text": "Conzelmann, Hans — Critical scholar. Applied the parousia-delay thesis to Luke-Acts: you do not write the history of the church if you expect the world to end tomorrow.",
-    "raw_text": "**Conzelmann, Hans** — Critical scholar. Applied the parousia-delay thesis to Luke-Acts: you do not write the history of the church if you expect the world to end tomorrow.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_ca730ef15e62e55686d0",
+    "text": "Conzelmann, Hans (1915–1989) — German New Testament scholar. His influential reading of Luke held that salvation history and an extended age of the church responded to the delay of the parousia. The prior “you do not write history if…” sentence was an uncited slogan, not a quotation from Conzelmann, and has been removed. CHECKED 12 AUG 2026 ([Oxford research thesis summary](https://ora.ox.ac.uk/objects/uuid%3A39126f79-9260-4e58-81ad-292d559e000e); [New Testament Studies discussion](https://doi.org/10.1017/S0028688500010276))",
+    "raw_text": "⟨DOCUMENTED⟩ **Conzelmann, Hans** (1915–1989) — German New Testament scholar. His influential reading of Luke held that salvation history and an extended age of the church responded to the delay of the parousia. The prior “you do not write history if…” sentence was an uncited slogan, not a quotation from Conzelmann, and has been removed. `CHECKED 12 AUG 2026` ([Oxford research thesis summary](https://ora.ox.ac.uk/objects/uuid%3A39126f79-9260-4e58-81ad-292d559e000e); [New Testament Studies discussion](https://doi.org/10.1017/S0028688500010276))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11065,20 +11077,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9c162ca2a6d2f7d617d1",
-    "text": "Copan, Paul — Evangelical philosopher; Is God a Moral Monster? (2011). Theistic moral realism and evangelical response to OT violence critiques.",
-    "raw_text": "**Copan, Paul** — Evangelical philosopher; *Is God a Moral Monster?* (2011). Theistic moral realism and evangelical response to OT violence critiques.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_54f314ac51ef4032d87a",
+    "text": "Copan, Paul — Philosopher of religion and author of Is God a Moral Monster? (2011). The book answers New Atheist moral criticisms of the Old Testament, including slavery, warfare, and the Canaanite conquest, using contextual and progressive-revelation arguments. “Theistic moral realism” was removed because it does not identify this book’s principal task. CHECKED 12 AUG 2026 ([author interview](https://www.epsociety.org/2010/12/08/is-god-a-moral-monster-an-interview-with-paul-copan/); [contemporary review](https://directionjournal.org/40/2/is-god-moral-monster-making-sense-of-old.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Copan, Paul** — Philosopher of religion and author of *Is God a Moral Monster?* (2011). The book answers New Atheist moral criticisms of the Old Testament, including slavery, warfare, and the Canaanite conquest, using contextual and progressive-revelation arguments. “Theistic moral realism” was removed because it does not identify this book’s principal task. `CHECKED 12 AUG 2026` ([author interview](https://www.epsociety.org/2010/12/08/is-god-a-moral-monster-an-interview-with-paul-copan/); [contemporary review](https://directionjournal.org/40/2/is-god-moral-monster-making-sense-of-old.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11097,20 +11109,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a261bfdec1abdc71fb5c",
-    "text": "Craig, William Lane — Evangelical philosopher; public debater. Kalam cosmological argument; defends divine command ethics; has defended the Canaanite conquest on divine-command grounds. His second Kalam premise depends on contested cosmology.",
-    "raw_text": "**Craig, William Lane** — Evangelical philosopher; public debater. Kalam cosmological argument; defends divine command ethics; has defended the Canaanite conquest on divine-command grounds. His second Kalam premise depends on contested cosmology.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6448f4d5ede17b601048",
+    "text": "Craig, William Lane — Philosopher of religion and leading modern defender of the kalām cosmological argument. Its second premise is that the universe began to exist, defended with philosophical arguments and contested interpretations of physical cosmology. Craig also defends a divine-command justification of the Canaanite conquest. “Public debater” and “evangelical” were biographical color rather than support for the cited claims and have been removed. CHECKED 12 AUG 2026 ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/cosmological-argument/); [Craig’s defense of the conquest](https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites))",
+    "raw_text": "⟨DOCUMENTED⟩ **Craig, William Lane** — Philosopher of religion and leading modern defender of the kalām cosmological argument. Its second premise is that the universe began to exist, defended with philosophical arguments and contested interpretations of physical cosmology. Craig also defends a divine-command justification of the Canaanite conquest. “Public debater” and “evangelical” were biographical color rather than support for the cited claims and have been removed. `CHECKED 12 AUG 2026` ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/cosmological-argument/); [Craig’s defense of the conquest](https://www.reasonablefaith.org/writings/question-answer/slaughter-of-the-canaanites))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11129,20 +11141,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c25958c5da830f47aed6",
-    "text": "Cranfield, C.E.B. — Conservative critical scholar; Romans commentary. Standard positive-institution reading of Romans 13.",
-    "raw_text": "**Cranfield, C.E.B.** — Conservative critical scholar; *Romans* commentary. Standard positive-institution reading of Romans 13.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_10daa968098567606fee",
+    "text": "Cranfield, C. E. B. — New Testament scholar and author of major Romans commentaries. He reads Romans 13 as affirming governing authority while expressly rejecting uncritical obedience when civil commands conflict with God’s law. The prior “positive-institution reading” concealed that qualification and has been corrected. CHECKED/CORRECTED 12 AUG 2026 ([discussion quoting Cranfield’s commentary](https://www.methodist.org.sg/methodist-message/christians-and-the-state/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Cranfield, C. E. B.** — New Testament scholar and author of major Romans commentaries. He reads Romans 13 as affirming governing authority while expressly rejecting uncritical obedience when civil commands conflict with God’s law. The prior “positive-institution reading” concealed that qualification and has been corrected. `CHECKED/CORRECTED 12 AUG 2026` ([discussion quoting Cranfield’s commentary](https://www.methodist.org.sg/methodist-message/christians-and-the-state/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11161,18 +11173,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_54fb309636830d00fcf2",
-    "text": "Crisp, Oliver — Analytic theologian; Divinity and Humanity (2007). Proposes \"krypsis\" (divine attributes veiled, not relinquished) to answer Mark 13:32's knowledge problem.",
-    "raw_text": "**Crisp, Oliver** — Analytic theologian; *Divinity and Humanity* (2007). Proposes \"krypsis\" (divine attributes veiled, not relinquished) to answer Mark 13:32's knowledge problem.",
+    "id": "rk_a7bf1c8e5d4a12375db2",
+    "text": "⟨UNRESOLVED⟩ Crisp, Oliver D. — Analytic theologian and author of Divinity and Humanity (2007). The book is verified, but this pass did not obtain the relevant pages needed to confirm the exact attribution of a “krypsis” solution specifically to Mark 13:32. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([Cambridge University Press excerpt](https://assets.cambridge.org/97805216/95350/excerpt/9780521695350_excerpt.pdf))",
+    "raw_text": "⟨UNRESOLVED⟩ **Crisp, Oliver D.** — Analytic theologian and author of *Divinity and Humanity* (2007). The book is verified, but this pass did not obtain the relevant pages needed to confirm the exact attribution of a “krypsis” solution specifically to Mark 13:32. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([Cambridge University Press excerpt](https://assets.cambridge.org/97805216/95350/excerpt/9780521695350_excerpt.pdf))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11202,11 +11214,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b5e9d8996d5d9d871ed0",
-    "text": "Crossan, John Dominic — Critical scholar; Who Killed Jesus? (1995). Frames the trajectory of increasing Pilate-sympathy in the Gospels as the root of later Christian anti-Judaism.",
-    "raw_text": "**Crossan, John Dominic** — Critical scholar; *Who Killed Jesus?* (1995). Frames the trajectory of increasing Pilate-sympathy in the Gospels as the root of later Christian anti-Judaism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3efef62890432d994a86",
+    "text": "Crossan, John Dominic — Historical-Jesus scholar and author of Who Killed Jesus? (1995), which disputes Jewish responsibility for Jesus’s execution and explicitly traces the anti-Jewish danger of the passion narratives’ blame patterns. The more specific phrase “trajectory of increasing Pilate-sympathy” was removed because the source located in this pass supports the broader thesis but not that exact formulation. CHECKED 12 AUG 2026 ([book record and summary](https://www.barnesandnoble.com/w/who-killed-jesus-john-dominic-crossan/1111567113); [St Andrews Encyclopaedia of Theology](https://www.saet.ac.uk/Christianity/TrialandDeathofJesus))",
+    "raw_text": "⟨DOCUMENTED⟩ **Crossan, John Dominic** — Historical-Jesus scholar and author of *Who Killed Jesus?* (1995), which disputes Jewish responsibility for Jesus’s execution and explicitly traces the anti-Jewish danger of the passion narratives’ blame patterns. The more specific phrase “trajectory of increasing Pilate-sympathy” was removed because the source located in this pass supports the broader thesis but not that exact formulation. `CHECKED 12 AUG 2026` ([book record and summary](https://www.barnesandnoble.com/w/who-killed-jesus-john-dominic-crossan/1111567113); [St Andrews Encyclopaedia of Theology](https://www.saet.ac.uk/Christianity/TrialandDeathofJesus))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11225,18 +11237,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_86917d0ebce869ccabc1",
-    "text": "Crossley, James — Critical scholar. Argues the \"Judeans\" translation, pushed to its endpoint, severs modern Jews from the biblical text entirely — more dangerous than the original rendering.",
-    "raw_text": "**Crossley, James** — Critical scholar. Argues the \"Judeans\" translation, pushed to its endpoint, severs modern Jews from the biblical text entirely — more dangerous than the original rendering.",
+    "id": "rk_039b24c3a5d0088b2042",
+    "text": "⟨UNRESOLVED⟩ Crossley, James — New Testament scholar. This pass did not locate a publication or page supporting the striking claim that translating Ioudaioi as “Judeans” severs modern Jews from the biblical text and is “more dangerous” than “Jews.” Do not quote the attribution without its source. UNRESOLVED 12 AUG 2026 — PUBLICATION AND PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Crossley, James** — New Testament scholar. This pass did not locate a publication or page supporting the striking claim that translating *Ioudaioi* as “Judeans” severs modern Jews from the biblical text and is “more dangerous” than “Jews.” Do not quote the attribution without its source. `UNRESOLVED 12 AUG 2026 — PUBLICATION AND PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11266,11 +11278,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_04361f35d254122943dd",
-    "text": "Cuany — Critical scholar (JSNT 2017). Reads the Barabbas exchange as doing Christological work in Luke, not primarily anti-Jewish blame-shifting.",
-    "raw_text": "**Cuany** — Critical scholar (*JSNT* 2017). Reads the Barabbas exchange as doing Christological work in Luke, not primarily anti-Jewish blame-shifting.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_29067156f32e6bc2c6f2",
+    "text": "Cuany, Monique — New Testament scholar. Her 2017 Journal for the Study of the New Testament article argues that Luke’s Barabbas episode forms the climax of the trial narrative and carries Christological and substitution/atonement significance. The prior contrast with “anti-Jewish blame-shifting” was not part of the article metadata and has been removed. CHECKED 12 AUG 2026 ([article](https://doi.org/10.1177/0142064X17704601); [Cambridge repository manuscript](https://api.repository.cam.ac.uk/server/api/core/bitstreams/f14ea3a2-1ff8-41a3-9ed2-67ae68f49ef8/content))",
+    "raw_text": "⟨DOCUMENTED⟩ **Cuany, Monique** — New Testament scholar. Her 2017 *Journal for the Study of the New Testament* article argues that Luke’s Barabbas episode forms the climax of the trial narrative and carries Christological and substitution/atonement significance. The prior contrast with “anti-Jewish blame-shifting” was not part of the article metadata and has been removed. `CHECKED 12 AUG 2026` ([article](https://doi.org/10.1177/0142064X17704601); [Cambridge repository manuscript](https://api.repository.cam.ac.uk/server/api/core/bitstreams/f14ea3a2-1ff8-41a3-9ed2-67ae68f49ef8/content))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11289,20 +11301,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39d5ac19f85e857c5180",
-    "text": "Cullmann, Oscar — Critical scholar; The State in the New Testament (1956). Reads exousiai in Romans 13 as encompassing angelic powers behind human government — the state is God's servant only when functioning as such.",
-    "raw_text": "**Cullmann, Oscar** — Critical scholar; *The State in the New Testament* (1956). Reads *exousiai* in Romans 13 as encompassing angelic powers behind human government — the state is God's servant only when functioning as such.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6e4250cccf487d992557",
+    "text": "Cullmann, Oscar (1902–1999) — New Testament scholar and author of The State in the New Testament (1956). He advanced a twofold reading of the exousiai in Romans 13 as human rulers and angelic powers standing behind them. The prior conditional statement about when a state counts as God’s servant was not established by the evidence located and has been removed. CHECKED 12 AUG 2026 ([Cambridge scholarly discussion](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AE11B002E64FF0678C39C4420ACDF556/9780511554896c5_p115-121_CBO.pdf/the-powers-and-the-political-world.pdf); [exegetical review](https://new.bible.org/article/paul-and-civil-obedience-romans-131-7))",
+    "raw_text": "⟨DOCUMENTED⟩ **Cullmann, Oscar** (1902–1999) — New Testament scholar and author of *The State in the New Testament* (1956). He advanced a twofold reading of the *exousiai* in Romans 13 as human rulers and angelic powers standing behind them. The prior conditional statement about when a state counts as God’s servant was not established by the evidence located and has been removed. `CHECKED 12 AUG 2026` ([Cambridge scholarly discussion](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AE11B002E64FF0678C39C4420ACDF556/9780511554896c5_p115-121_CBO.pdf/the-powers-and-the-political-world.pdf); [exegetical review](https://new.bible.org/article/paul-and-civil-obedience-romans-131-7))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11321,18 +11333,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_af812f4e30ba10b4e9e1",
-    "text": "Cunningham / Bock — Conservative scholars. Argue Matthew's formula-quotations are something different from true midrash because the narrative exists independently and the citations serve it.",
-    "raw_text": "**Cunningham / Bock** — Conservative scholars. Argue Matthew's formula-quotations are something different from true midrash because the narrative exists independently and the citations serve it.",
+    "id": "rk_a6600f12cd78f59d0d74",
+    "text": "⟨UNRESOLVED⟩ Cunningham, Scott, and Darrell L. Bock — Cunningham’s article “Is Matthew Midrash?” and Bock’s association with the publication are verified, but this pass did not obtain the article text needed to confirm the exact independent-narrative/formula-citation argument attributed jointly to them. UNRESOLVED 12 AUG 2026 — ARTICLE TEXT REQUIRED ([bibliographic record](https://www.galaxie.com/article/bsac144-574-03))",
+    "raw_text": "⟨UNRESOLVED⟩ **Cunningham, Scott, and Darrell L. Bock** — Cunningham’s article “Is Matthew Midrash?” and Bock’s association with the publication are verified, but this pass did not obtain the article text needed to confirm the exact independent-narrative/formula-citation argument attributed jointly to them. `UNRESOLVED 12 AUG 2026 — ARTICLE TEXT REQUIRED` ([bibliographic record](https://www.galaxie.com/article/bsac144-574-03))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11362,11 +11374,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0822ed014002271d6d2d",
-    "text": "Cyprian of Carthage (c. 200–258) — Church Father; bishop. Developed doctrines of church authority and baptism.",
-    "raw_text": "**Cyprian of Carthage** (c. 200–258) — Church Father; bishop. Developed doctrines of church authority and baptism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_64160c8755dc0beeb7b8",
+    "text": "Cyprian of Carthage (c. 200–258) — Bishop of Carthage whose writings and controversies shaped Latin Christian arguments about episcopal authority, church unity, discipline, and whether baptisms performed by heretical groups were valid. “Developed doctrines” has been made specific without implying sole invention. CHECKED 12 AUG 2026 ([historical overview](https://www.newadvent.org/cathen/03385a.htm))",
+    "raw_text": "⟨DOCUMENTED⟩ **Cyprian of Carthage** (c. 200–258) — Bishop of Carthage whose writings and controversies shaped Latin Christian arguments about episcopal authority, church unity, discipline, and whether baptisms performed by heretical groups were valid. “Developed doctrines” has been made specific without implying sole invention. `CHECKED 12 AUG 2026` ([historical overview](https://www.newadvent.org/cathen/03385a.htm))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11385,20 +11397,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d1c89dc699243dbe7467",
-    "text": "Cyril of Alexandria (c. 376–444) — Church Father; bishop; opposed Nestorius at Ephesus (431).",
-    "raw_text": "**Cyril of Alexandria** (c. 376–444) — Church Father; bishop; opposed Nestorius at Ephesus (431).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6c9fd8664702173192d4",
+    "text": "Cyril of Alexandria (c. 375–444) — Bishop of Alexandria and central opponent of Nestorius in the controversy culminating at Ephesus in 431. Cyril opened and presided over the council before the Antiochene delegation arrived; Nestorius was condemned and deposed, while a rival gathering also deposed Cyril. The expanded wording avoids presenting a politically complex council as a simple debate. CHECKED 12 AUG 2026 ([Encyclopedia of Religion](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/cyril-alexandria); [Council overview](https://www.newadvent.org/cathen/05491a.htm))",
+    "raw_text": "⟨DOCUMENTED⟩ **Cyril of Alexandria** (c. 375–444) — Bishop of Alexandria and central opponent of Nestorius in the controversy culminating at Ephesus in 431. Cyril opened and presided over the council before the Antiochene delegation arrived; Nestorius was condemned and deposed, while a rival gathering also deposed Cyril. The expanded wording avoids presenting a politically complex council as a simple debate. `CHECKED 12 AUG 2026` ([Encyclopedia of Religion](https://www.encyclopedia.com/environment/encyclopedias-almanacs-transcripts-and-maps/cyril-alexandria); [Council overview](https://www.newadvent.org/cathen/05491a.htm))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11417,18 +11429,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0c0592ffda2a1ebe4aed",
-    "text": "Davies, Eryl W. — Critical scholar. States plainly that OT scholars have long recognized the Numbers census figures cannot represent historical population counts.",
-    "raw_text": "**Davies, Eryl W.** — Critical scholar. States plainly that OT scholars have long recognized the Numbers census figures cannot represent historical population counts.",
+    "id": "rk_a9a8b699908766f0b3f7",
+    "text": "⟨UNRESOLVED⟩ Davies, Eryl W. — Hebrew Bible scholar. This pass did not locate the publication and page behind the attributed statement that scholars have long recognized the Numbers census figures cannot be historical population totals. UNRESOLVED 12 AUG 2026 — PUBLICATION AND PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Davies, Eryl W.** — Hebrew Bible scholar. This pass did not locate the publication and page behind the attributed statement that scholars have long recognized the Numbers census figures cannot be historical population totals. `UNRESOLVED 12 AUG 2026 — PUBLICATION AND PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11458,9 +11470,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f9b7e7c9057c19126770",
-    "text": "Day, Peggy L. — Critical scholar; An Adversary in Heaven (1988). The field's classic monograph establishing ha-satan as a bounded, subordinate prosecutorial role within the divine council — not a cosmic villain.",
-    "raw_text": "**Day, Peggy L.** — Critical scholar; *An Adversary in Heaven* (1988). The field's classic monograph establishing ha-satan as a bounded, subordinate prosecutorial role within the divine council — not a cosmic villain.",
+    "id": "rk_72edaa322ac79bbacee7",
+    "text": "⟨UNRESOLVED⟩ Day, Peggy L. — Hebrew Bible scholar and author of An Adversary in Heaven: Śāṭān in the Hebrew Bible (1988). The monograph and its treatment of a celestial accuser/adversary in the divine council are verified bibliographically, but “the field’s classic” is an unsupported ranking and the exact “bounded prosecutorial role” formulation requires page-level confirmation. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([book record](https://books.google.com/books?id=ENHYAAAAMAAJ))",
+    "raw_text": "⟨UNRESOLVED⟩ **Day, Peggy L.** — Hebrew Bible scholar and author of *An Adversary in Heaven: Śāṭān in the Hebrew Bible* (1988). The monograph and its treatment of a celestial accuser/adversary in the divine council are verified bibliographically, but “the field’s classic” is an unsupported ranking and the exact “bounded prosecutorial role” formulation requires page-level confirmation. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([book record](https://books.google.com/books?id=ENHYAAAAMAAJ))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11490,11 +11502,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22ba8e98d2546a16f663",
-    "text": "deClaissé-Walford, Nancy — Critical scholar. Reads imprecatory psalms as confronting violence rather than endorsing it.",
-    "raw_text": "**deClaissé-Walford, Nancy** — Critical scholar. Reads imprecatory psalms as confronting violence rather than endorsing it.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c666e6d4ab3ddf9fd1fd",
+    "text": "deClaissé-Walford, Nancy L. — Hebrew Bible and Psalms scholar. Her work describes imprecatory psalms as human demands for violence made in response to experienced violence and asks how such language can be preached and prayed. “Confronting rather than endorsing violence” was a fair direction but too neat a binary, so it has been replaced with her more precise framing. CHECKED 12 AUG 2026 ([lecture record](https://digitalcommons.acu.edu/sumlec_audio/5506/); [article repository](https://repository.up.ac.za/items/48225fbc-1ee5-4440-ab01-bb4a2ee79cdc))",
+    "raw_text": "⟨DOCUMENTED⟩ **deClaissé-Walford, Nancy L.** — Hebrew Bible and Psalms scholar. Her work describes imprecatory psalms as human demands for violence made in response to experienced violence and asks how such language can be preached and prayed. “Confronting rather than endorsing violence” was a fair direction but too neat a binary, so it has been replaced with her more precise framing. `CHECKED 12 AUG 2026` ([lecture record](https://digitalcommons.acu.edu/sumlec_audio/5506/); [article repository](https://repository.up.ac.za/items/48225fbc-1ee5-4440-ab01-bb4a2ee79cdc))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11513,20 +11525,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2a8880028b8a984ba2d2",
-    "text": "de Waal, Frans — Primatologist and ethologist; secular. Primates and Philosophers (2006) — evolutionary basis for altruism and cooperation. Used to argue moral behavior does not require religious grounding.",
-    "raw_text": "**de Waal, Frans** — Primatologist and ethologist; secular. *Primates and Philosophers* (2006) — evolutionary basis for altruism and cooperation. Used to argue moral behavior does not require religious grounding.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c1b1edf2d8108905ab16",
+    "text": "de Waal, Frans (1948–2024) — Primatologist and ethologist. Primates and Philosophers (2006) argues for evolutionary continuity between human morality and mammalian capacities for empathy, reciprocity, and cooperation. “Secular” was irrelevant to the empirical claim; the further anti-religious use is an application by others, not the book’s complete thesis. CHECKED 12 AUG 2026 ([Princeton University Press summary](https://books.google.com/books?id=-W2YDwAAQBAJ); [later author statement](https://wwnorton.co.uk/books/9780393073775-the-bonobo-and-the-atheist))",
+    "raw_text": "⟨DOCUMENTED⟩ **de Waal, Frans** (1948–2024) — Primatologist and ethologist. *Primates and Philosophers* (2006) argues for evolutionary continuity between human morality and mammalian capacities for empathy, reciprocity, and cooperation. “Secular” was irrelevant to the empirical claim; the further anti-religious use is an application by others, not the book’s complete thesis. `CHECKED 12 AUG 2026` ([Princeton University Press summary](https://books.google.com/books?id=-W2YDwAAQBAJ); [later author statement](https://wwnorton.co.uk/books/9780393073775-the-bonobo-and-the-atheist))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11545,20 +11557,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a0f74827556230c7d1fd",
-    "text": "Dershowitz, Idan — Critical scholar. Proposes a redactional hypothesis: an earlier incest-only stratum underlies Leviticus 18:22.",
-    "raw_text": "**Dershowitz, Idan** — Critical scholar. Proposes a redactional hypothesis: an earlier incest-only stratum underlies Leviticus 18:22.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_44ee91305f0bf5e591fb",
+    "text": "Dershowitz, Idan — Hebrew Bible scholar. He proposes that Leviticus 18 underwent extensive revision: an earlier incest-law collection included male-incest prohibitions, while a later general ban on male intercourse and accompanying revisions obscured that earlier form. “Incest-only stratum underlies Leviticus 18:22” was imprecise because his proposal concerns the chapter’s compositional history, not an earlier version of verse 22 itself. CHECKED/CORRECTED 12 AUG 2026 ([journal article](https://doi.org/10.1628/219222717X15235367195677); [author’s accessible summary](https://www.thetorah.com/article/how-the-prohibition-of-male-homosexual-intercourse-altered-the-laws-of-incest))",
+    "raw_text": "⟨DOCUMENTED⟩ **Dershowitz, Idan** — Hebrew Bible scholar. He proposes that Leviticus 18 underwent extensive revision: an earlier incest-law collection included male-incest prohibitions, while a later general ban on male intercourse and accompanying revisions obscured that earlier form. “Incest-only stratum underlies Leviticus 18:22” was imprecise because his proposal concerns the chapter’s compositional history, not an earlier version of verse 22 itself. `CHECKED/CORRECTED 12 AUG 2026` ([journal article](https://doi.org/10.1628/219222717X15235367195677); [author’s accessible summary](https://www.thetorah.com/article/how-the-prohibition-of-male-homosexual-intercourse-altered-the-laws-of-incest))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11577,20 +11589,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ffcbe160e858192b9596",
-    "text": "Dever, William — Critical archaeologist; explicitly anti-minimalist. Attacks biblical literalism and minimalism simultaneously. Anachronisms in the Exodus narrative (Philistines, domesticated camels) indicate Iron Age or later redaction.",
-    "raw_text": "**Dever, William** — Critical archaeologist; explicitly anti-minimalist. Attacks biblical literalism and minimalism simultaneously. Anachronisms in the Exodus narrative (Philistines, domesticated camels) indicate Iron Age or later redaction.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_cf1021a139a196e4ecff",
+    "text": "Dever, William G. — Archaeologist of ancient Israel and critic of both biblical literalism and radical minimalism. He argues that most Israelites emerged from Canaan and that the Exodus as narrated is not supported archaeologically, while allowing a smaller migrant contribution. Correction: the camel and Philistine examples cited in the prior entry are patriarchal/Genesis anachronisms, not straightforwardly “in the Exodus narrative.” CHECKED/CORRECTED 12 AUG 2026 ([biographical and position summary](https://www.encyclopedia.com/people/philosophy-and-religion/biblical-scholar-biographies/william-g-dever); [archaeological discussion of the anachronisms](https://time.com/6662/the-mystery-of-the-bibles-phantom-camels/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Dever, William G.** — Archaeologist of ancient Israel and critic of both biblical literalism and radical minimalism. He argues that most Israelites emerged from Canaan and that the Exodus as narrated is not supported archaeologically, while allowing a smaller migrant contribution. **Correction:** the camel and Philistine examples cited in the prior entry are patriarchal/Genesis anachronisms, not straightforwardly “in the Exodus narrative.” `CHECKED/CORRECTED 12 AUG 2026` ([biographical and position summary](https://www.encyclopedia.com/people/philosophy-and-religion/biblical-scholar-biographies/william-g-dever); [archaeological discussion of the anachronisms](https://time.com/6662/the-mystery-of-the-bibles-phantom-camels/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11609,18 +11621,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6b8833b932ffe8f9ffc2",
-    "text": "Dibelius, Martin — Critical scholar; foundational form-critical case that the Acts speeches are Lukan compositions, not transcripts.",
-    "raw_text": "**Dibelius, Martin** — Critical scholar; foundational form-critical case that the Acts speeches are Lukan compositions, not transcripts.",
+    "id": "rk_2b88e566417b8b705ee5",
+    "text": "⟨UNRESOLVED⟩ Dibelius, Martin (1883–1947) — New Testament scholar and pioneer of form and style criticism in Acts. His work treats several Acts episodes and speeches as shaped literary compositions, but this pass did not obtain the primary pages needed to support the categorical claim that the Acts speeches as a class are Lukan compositions rather than transcripts. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([review of The Book of Acts: Form, Style and Theology](https://www.thegospelcoalition.org/themelios/review/the-book-of-acts-form-style-and-theology/))",
+    "raw_text": "⟨UNRESOLVED⟩ **Dibelius, Martin** (1883–1947) — New Testament scholar and pioneer of form and style criticism in Acts. His work treats several Acts episodes and speeches as shaped literary compositions, but this pass did not obtain the primary pages needed to support the categorical claim that the Acts speeches as a class are Lukan compositions rather than transcripts. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([review of *The Book of Acts: Form, Style and Theology*](https://www.thegospelcoalition.org/themelios/review/the-book-of-acts-form-style-and-theology/))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11650,9 +11662,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e5e2b7be8d8cbad03ae8",
-    "text": "Dillmann (1886) — Early critical scholar who recognized the Numbers census figures are not historical.",
-    "raw_text": "**Dillmann** (1886) — Early critical scholar who recognized the Numbers census figures are not historical.",
+    "id": "rk_c99866c94ec183705e17",
+    "text": "⟨UNRESOLVED⟩ Dillmann, August (1823–1894) — German biblical scholar and commentator. The original entry supplied only a surname and date. This pass established the likely identity but did not locate the 1886 passage allegedly rejecting the Numbers census figures as historical. UNRESOLVED 12 AUG 2026 — WORK AND PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Dillmann, August** (1823–1894) — German biblical scholar and commentator. The original entry supplied only a surname and date. This pass established the likely identity but did not locate the 1886 passage allegedly rejecting the Numbers census figures as historical. `UNRESOLVED 12 AUG 2026 — WORK AND PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11682,11 +11694,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4537400ccf100eeceab6",
-    "text": "Dodd, C.H. — Critical scholar; \"Oxbridge\" school. Mapped shared kerygmatic structure across Acts speeches — both speakers sound like Luke, not like themselves, a compositional signature. Associated with \"realized eschatology.\"",
-    "raw_text": "**Dodd, C.H.** — Critical scholar; \"Oxbridge\" school. Mapped shared kerygmatic structure across Acts speeches — both speakers sound like Luke, not like themselves, a compositional signature. Associated with \"realized eschatology.\"",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3dfd0aed1902b6956ca5",
+    "text": "Dodd, C. H. (1884–1973) — New Testament scholar. The Apostolic Preaching and Its Developments (1936) identified a common kerygmatic core in Acts and other New Testament materials, and Dodd is closely associated with “realized eschatology.” The claim that shared speech structure proves “both speakers sound like Luke” goes beyond Dodd’s stated reconstruction and has been removed. CHECKED 12 AUG 2026 ([bibliographic summary](https://books.google.com/books?id=EPA7AAAAIAAJ); [discussion of the Acts kerygma](https://www.laridian.com/content/booksample.asp?bid=282&pid=101))",
+    "raw_text": "⟨DOCUMENTED⟩ **Dodd, C. H.** (1884–1973) — New Testament scholar. *The Apostolic Preaching and Its Developments* (1936) identified a common kerygmatic core in Acts and other New Testament materials, and Dodd is closely associated with “realized eschatology.” The claim that shared speech structure proves “both speakers sound like Luke” goes beyond Dodd’s stated reconstruction and has been removed. `CHECKED 12 AUG 2026` ([bibliographic summary](https://books.google.com/books?id=EPA7AAAAIAAJ); [discussion of the Acts kerygma](https://www.laridian.com/content/booksample.asp?bid=282&pid=101))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11705,20 +11717,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_918b65e66af4a94a9cd7",
-    "text": "Du Mez, Kristin Kobes — Evangelical historian (Calvin University); Jesus and John Wayne (2020). Reviewed the ESV translation committee rosters and found no women on either the oversight or review panels.",
-    "raw_text": "**Du Mez, Kristin Kobes** — Evangelical historian (Calvin University); *Jesus and John Wayne* (2020). Reviewed the ESV translation committee rosters and found no women on either the oversight or review panels.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b918adecf9d43c14ac1a",
+    "text": "Du Mez, Kristin Kobes — Historian of modern American Christianity and author of Jesus and John Wayne (2020). In a 2016 open letter, she reported scanning the ESV Oversight Committee and Translation Review Scholars lists and finding no woman named on either. This specific finding predates—and is not sourced to—her 2020 book, so the earlier entry’s juxtaposition was misleading. CHECKED/CORRECTED 12 AUG 2026 ([Du Mez’s open letter](https://kristin-dumez.publicplatform.net/resources/an-open-letter-to-the-esv-translation-committee/); [current ESV committee page](https://www.esv.org/about/oversight-committee/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Du Mez, Kristin Kobes** — Historian of modern American Christianity and author of *Jesus and John Wayne* (2020). In a 2016 open letter, she reported scanning the ESV Oversight Committee and Translation Review Scholars lists and finding no woman named on either. This specific finding predates—and is not sourced to—her 2020 book, so the earlier entry’s juxtaposition was misleading. `CHECKED/CORRECTED 12 AUG 2026` ([Du Mez’s open letter](https://kristin-dumez.publicplatform.net/resources/an-open-letter-to-the-esv-translation-committee/); [current ESV committee page](https://www.esv.org/about/oversight-committee/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11737,20 +11749,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_565c1e51ac7212852060",
-    "text": "Dunn, James D.G. — Critical scholar; coined \"New Perspective on Paul\" (1983). Christology in the Making (1980). Argues \"works of the law\" in Galatians refers to ethnic boundary markers, not works-righteousness generally.",
-    "raw_text": "**Dunn, James D.G.** — Critical scholar; coined \"New Perspective on Paul\" (1983). *Christology in the Making* (1980). Argues \"works of the law\" in Galatians refers to ethnic boundary markers, not works-righteousness generally.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9e97d888fa73ed2dbc9c",
+    "text": "Dunn, James D. G. (1939–2020) — New Testament scholar. His 1982 lecture, published in 1983 as “The New Perspective on Paul,” gave the movement its name. Dunn argued that “works of the law” functioned especially as Jewish identity/boundary markers separating Jews from Gentiles, not simply as generic moral effort. He also authored Christology in the Making (1980). CHECKED 12 AUG 2026 ([article record](https://doi.org/10.7227/BJRL.65.2.6); [historical summary](https://scielo.org.za/scielo.php?pid=S0259-94222008000400021&script=sci_arttext); [book review record](https://doi.org/10.1086/486992))",
+    "raw_text": "⟨DOCUMENTED⟩ **Dunn, James D. G.** (1939–2020) — New Testament scholar. His 1982 lecture, published in 1983 as “The New Perspective on Paul,” gave the movement its name. Dunn argued that “works of the law” functioned especially as Jewish identity/boundary markers separating Jews from Gentiles, not simply as generic moral effort. He also authored *Christology in the Making* (1980). `CHECKED 12 AUG 2026` ([article record](https://doi.org/10.7227/BJRL.65.2.6); [historical summary](https://scielo.org.za/scielo.php?pid=S0259-94222008000400021&script=sci_arttext); [book review record](https://doi.org/10.1086/486992))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11769,20 +11781,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_19d4fd0c797a9a6705f3",
-    "text": "Egeria (4th century) — Pilgrim and writer; one of the few early Christian women whose voice survives. Her Itinerarium is a major source for early Christian liturgy in Jerusalem.",
-    "raw_text": "**Egeria** (4th century) — Pilgrim and writer; one of the few early Christian women whose voice survives. Her *Itinerarium* is a major source for early Christian liturgy in Jerusalem.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_0bcee4bb63e6e6839aee",
+    "text": "Egeria (late 4th century) — Christian pilgrim and author of a surviving Latin travel account conventionally called the Itinerarium Egeriae. Its latter portion describes daily and festival liturgies at Jerusalem’s holy places, making it an important primary source for fourth-century Jerusalem worship. “One of the few women whose voice survives” is broadly plausible but was removed as an unmeasured ranking. CHECKED 12 AUG 2026 ([scholarly discussion](https://api.pageplace.de/preview/DT0400.9781135507787_A30901823/preview-9781135507787_A30901823.pdf); [study of sacred space and liturgy](https://www.openu.ac.il/personal_sites/download/ora-limor/Limor_Reading.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Egeria** (late 4th century) — Christian pilgrim and author of a surviving Latin travel account conventionally called the *Itinerarium Egeriae*. Its latter portion describes daily and festival liturgies at Jerusalem’s holy places, making it an important primary source for fourth-century Jerusalem worship. “One of the few women whose voice survives” is broadly plausible but was removed as an unmeasured ranking. `CHECKED 12 AUG 2026` ([scholarly discussion](https://api.pageplace.de/preview/DT0400.9781135507787_A30901823/preview-9781135507787_A30901823.pdf); [study of sacred space and liturgy](https://www.openu.ac.il/personal_sites/download/ora-limor/Limor_Reading.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11801,20 +11813,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f0f93fbbbc2061dcc717",
-    "text": "Ehrman, Bart D. — Critical secular scholar (agnostic); How Jesus Became God, Misquoting Jesus, Lost Christianities, and others. Exaltation Christology model (resurrection → baptism → birth → pre-existence as successive stages). Extends Bauer's heresy-orthodoxy framework. Also wrote the book-length refutation of mythicism.",
-    "raw_text": "**Ehrman, Bart D.** — Critical secular scholar (agnostic); *How Jesus Became God*, *Misquoting Jesus*, *Lost Christianities*, and others. Exaltation Christology model (resurrection → baptism → birth → pre-existence as successive stages). Extends Bauer's heresy-orthodoxy framework. Also wrote the book-length refutation of mythicism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_5a88a3f5484b431f2a6e",
+    "text": "Ehrman, Bart D. — New Testament and early-Christianity scholar. How Jesus Became God argues that the earliest exaltation Christology located Jesus’s divine elevation at resurrection, with some later traditions moving it to baptism or birth and incarnation traditions positing preexistence. He also wrote Did Jesus Exist? against mythicism. The prior linear arrow oversimplified multiple early strands, while “critical secular scholar (agnostic)” mixed method with personal identity and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([author’s book summary](https://www.bartehrman.com/how-jesus-became-god/); [author on his development model](https://ehrmanblog.org/early-christology-how-i-have-changed-my-mind/); [Did Jesus Exist? bibliographic summary](https://www.harpercollins.com/products/did-jesus-exist-bart-d-ehrman))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ehrman, Bart D.** — New Testament and early-Christianity scholar. *How Jesus Became God* argues that the earliest exaltation Christology located Jesus’s divine elevation at resurrection, with some later traditions moving it to baptism or birth and incarnation traditions positing preexistence. He also wrote *Did Jesus Exist?* against mythicism. The prior linear arrow oversimplified multiple early strands, while “critical secular scholar (agnostic)” mixed method with personal identity and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([author’s book summary](https://www.bartehrman.com/how-jesus-became-god/); [author on his development model](https://ehrmanblog.org/early-christology-how-i-have-changed-my-mind/); [*Did Jesus Exist?* bibliographic summary](https://www.harpercollins.com/products/did-jesus-exist-bart-d-ehrman))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11833,20 +11845,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7017e41ff2154607100d",
-    "text": "Elder, Linda — Critical Thinking (Pearson), with Richard Paul. The most widely used operational framework for reasoning: eight elements evaluated against nine intellectual standards.",
-    "raw_text": "**Elder, Linda** — *Critical Thinking* (Pearson), with Richard Paul. The most widely used operational framework for reasoning: eight elements evaluated against nine intellectual standards.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_da1aafe189e9672c3a17",
+    "text": "Elder, Linda, and Richard Paul — Authors of Pearson’s Critical Thinking: Tools for Taking Charge of Your Learning and Your Life. Their framework analyzes elements of reasoning by applying intellectual standards. “The most widely used” was an unsupported comparative claim and has been removed. CHECKED 12 AUG 2026 ([Pearson text](https://ebook.app.hcu.edu.gh/wp-content/uploads/2024/08/Pearson-custom-library-Paul-Richard_Elder-Linda-Critical-thinking_-tools-for-taking-charge-of-your-learning-and-your-life-2013_2014-Pearson-Education-Limited-libgen.li_.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Elder, Linda, and Richard Paul** — Authors of Pearson’s *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life*. Their framework analyzes elements of reasoning by applying intellectual standards. “The most widely used” was an unsupported comparative claim and has been removed. `CHECKED 12 AUG 2026` ([Pearson text](https://ebook.app.hcu.edu.gh/wp-content/uploads/2024/08/Pearson-custom-library-Paul-Richard_Elder-Linda-Critical-thinking_-tools-for-taking-charge-of-your-learning-and-your-life-2013_2014-Pearson-Education-Limited-libgen.li_.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11865,18 +11877,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_033b21964cbb448a0528",
-    "text": "Elukin, Jonathan — Critical scholar. Notes that \"anti-Judaism\" is applied inconsistently across the scholarly literature.",
-    "raw_text": "**Elukin, Jonathan** — Critical scholar. Notes that \"anti-Judaism\" is applied inconsistently across the scholarly literature.",
+    "id": "rk_ac5deab4f753426c09b8",
+    "text": "⟨UNRESOLVED⟩ Elukin, Jonathan — Historian of medieval Jewish-Christian relations. A publication questioning the origins, assumptions, and analytical effects of the term “anti-Judaism” is identifiable, but this pass did not obtain the text needed to verify the exact claim that the label is applied inconsistently across scholarship. UNRESOLVED 12 AUG 2026 — ARTICLE TEXT REQUIRED ([publication record](https://www.researchgate.net/publication/347296868_Anti-Judaism))",
+    "raw_text": "⟨UNRESOLVED⟩ **Elukin, Jonathan** — Historian of medieval Jewish-Christian relations. A publication questioning the origins, assumptions, and analytical effects of the term “anti-Judaism” is identifiable, but this pass did not obtain the text needed to verify the exact claim that the label is applied inconsistently across scholarship. `UNRESOLVED 12 AUG 2026 — ARTICLE TEXT REQUIRED` ([publication record](https://www.researchgate.net/publication/347296868_Anti-Judaism))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -11906,11 +11918,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08b6efecfbc8034030fe",
-    "text": "Enns, Peter — Progressive evangelical; The Bible Tells Me So (2014); Inspiration and Incarnation. Accepts essentially all critical findings and argues the doctrine of inspiration must be revised to fit them. Was pushed out of Westminster Theological Seminary for it.",
-    "raw_text": "**Enns, Peter** — Progressive evangelical; *The Bible Tells Me So* (2014); *Inspiration and Incarnation*. Accepts essentially all critical findings and argues the doctrine of inspiration must be revised to fit them. Was pushed out of Westminster Theological Seminary for it.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_2d489fda81f59f7ea8d4",
+    "text": "Enns, Peter — Biblical scholar and author of Inspiration and Incarnation (2005) and The Bible Tells Me So (2014). His incarnational model asks evangelical accounts of inspiration to accommodate the Bible’s historically situated human features and modern biblical scholarship. Westminster suspended him amid controversy over the book; he later resigned on mutually agreed terms. “Accepts essentially all critical findings” and “was pushed out” were sweeping and have been replaced with the documented sequence. CHECKED/CORRECTED 12 AUG 2026 ([contemporary report](https://www.christianitytoday.com/2008/06/enns-explains/); [Enns on his resignation](https://www.patheos.com/blogs/peterenns/inspiration-and-incarnation/npr-interview/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Enns, Peter** — Biblical scholar and author of *Inspiration and Incarnation* (2005) and *The Bible Tells Me So* (2014). His incarnational model asks evangelical accounts of inspiration to accommodate the Bible’s historically situated human features and modern biblical scholarship. Westminster suspended him amid controversy over the book; he later resigned on mutually agreed terms. “Accepts essentially all critical findings” and “was pushed out” were sweeping and have been replaced with the documented sequence. `CHECKED/CORRECTED 12 AUG 2026` ([contemporary report](https://www.christianitytoday.com/2008/06/enns-explains/); [Enns on his resignation](https://www.patheos.com/blogs/peterenns/inspiration-and-incarnation/npr-interview/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11929,20 +11941,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39ee59f6906b1de46796",
-    "text": "Epley, Nicholas et al. — Social psychologists. Showed that believers' perception of God's views tracks their own preferences via unconscious projection (PNAS, 2009).",
-    "raw_text": "**Epley, Nicholas et al.** — Social psychologists. Showed that believers' perception of God's views tracks their own preferences via unconscious projection (*PNAS*, 2009).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_4fff2309f89a5509c29c",
+    "text": "Epley, Nicholas; Converse, Benjamin A.; Delbosc, Alexa; Monteleone, George A.; and Cacioppo, John T. — Social psychologists and coauthors of a 2009 PNAS study. Across correlational, experimental, and neuroimaging evidence, believers’ estimates of God’s attitudes were more egocentric than estimates of other people’s attitudes. “Unconscious projection” was a stronger causal diagnosis than the paper’s abstract warrants and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([PubMed record and abstract](https://pubmed.ncbi.nlm.nih.gov/19955414/); [article](https://doi.org/10.1073/pnas.0908374106))",
+    "raw_text": "⟨DOCUMENTED⟩ **Epley, Nicholas; Converse, Benjamin A.; Delbosc, Alexa; Monteleone, George A.; and Cacioppo, John T.** — Social psychologists and coauthors of a 2009 *PNAS* study. Across correlational, experimental, and neuroimaging evidence, believers’ estimates of God’s attitudes were more egocentric than estimates of other people’s attitudes. “Unconscious projection” was a stronger causal diagnosis than the paper’s abstract warrants and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([PubMed record and abstract](https://pubmed.ncbi.nlm.nih.gov/19955414/); [article](https://doi.org/10.1073/pnas.0908374106))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -11961,18 +11973,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6a910f5d78e4d4fbdfda",
-    "text": "Ericksen, Robert P. — Critical historian; Theologians Under Hitler (Yale, 1985). Standard source on Reich-aligned German theologians who used Romans 13 to frame submission to Hitler as divinely ordained.",
-    "raw_text": "**Ericksen, Robert P.** — Critical historian; *Theologians Under Hitler* (Yale, 1985). Standard source on Reich-aligned German theologians who used Romans 13 to frame submission to Hitler as divinely ordained.",
+    "id": "rk_bdf26e9d0a74819012f3",
+    "text": "⟨UNRESOLVED⟩ Ericksen, Robert P. — Historian and author of Theologians Under Hitler (1985), a documented study of Gerhard Kittel, Paul Althaus, and Emanuel Hirsch and their enthusiastic support for National Socialism. The specific Romans 13 attribution was not established by the publisher description or accessible review material in this pass. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([Yale University Press](https://yalebooks.co.uk/book/9780300038897/theologians-under-hitler/))",
+    "raw_text": "⟨UNRESOLVED⟩ **Ericksen, Robert P.** — Historian and author of *Theologians Under Hitler* (1985), a documented study of Gerhard Kittel, Paul Althaus, and Emanuel Hirsch and their enthusiastic support for National Socialism. The specific Romans 13 attribution was not established by the publisher description or accessible review material in this pass. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([Yale University Press](https://yalebooks.co.uk/book/9780300038897/theologians-under-hitler/))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -12002,9 +12014,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_35629eb5c03caf0e7e8f",
-    "text": "Erickson, Millard — Evangelical theologian who publicly confronted Grudem and Ware's Eternal Functional Subordination position at the 2016 Evangelical Theological Society meeting.",
-    "raw_text": "**Erickson, Millard** — Evangelical theologian who publicly confronted Grudem and Ware's Eternal Functional Subordination position at the 2016 Evangelical Theological Society meeting.",
+    "id": "rk_6d29416dccac1425d763",
+    "text": "⟨UNRESOLVED⟩ Erickson, Millard J. — Evangelical theologian. This pass did not locate a conference program, recording, or paper establishing the exact claim that he publicly confronted Wayne Grudem and Bruce Ware on eternal functional subordination at the 2016 Evangelical Theological Society meeting. UNRESOLVED 12 AUG 2026 — EVENT SOURCE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Erickson, Millard J.** — Evangelical theologian. This pass did not locate a conference program, recording, or paper establishing the exact claim that he publicly confronted Wayne Grudem and Bruce Ware on eternal functional subordination at the 2016 Evangelical Theological Society meeting. `UNRESOLVED 12 AUG 2026 — EVENT SOURCE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -12034,11 +12046,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f5ee0a3b4ffd597937ed",
-    "text": "Esler, Philip — Advocate for translating Ioudaioi as \"Judeans.\" Reinhartz and Levine argue this translation is more dangerous than the original.",
-    "raw_text": "**Esler, Philip** — Advocate for translating *Ioudaioi* as \"Judeans.\" Reinhartz and Levine argue this translation is more dangerous than the original.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_515ec96b5bd0276a9474",
+    "text": "Esler, Philip F. — New Testament scholar who has argued for rendering Ioudaios/Ioudaioi in many ancient contexts as “Judean(s).” Adele Reinhartz cautions that the translation can obscure non-Judean Jews and continuity with later Jews, but expressly says most advocates, including Esler, do not intend that erasure. The prior “more dangerous than the original,” attributed jointly to Reinhartz and Levine, was polemical and unsupported as written. CHECKED/CORRECTED 12 AUG 2026 ([discussion of Esler’s position](https://philipharland.com/publications/Harland%202009%20Dynamics%20of%20Identity%20in%20the%20World%20of%20the%20Early%20Christians%20%28book%29.pdf); [Reinhartz response](https://themarginaliareview.com/response-jew-judean-forum-adele-reinhartz/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Esler, Philip F.** — New Testament scholar who has argued for rendering *Ioudaios/Ioudaioi* in many ancient contexts as “Judean(s).” Adele Reinhartz cautions that the translation can obscure non-Judean Jews and continuity with later Jews, but expressly says most advocates, including Esler, do not intend that erasure. The prior “more dangerous than the original,” attributed jointly to Reinhartz and Levine, was polemical and unsupported as written. `CHECKED/CORRECTED 12 AUG 2026` ([discussion of Esler’s position](https://philipharland.com/publications/Harland%202009%20Dynamics%20of%20Identity%20in%20the%20World%20of%20the%20Early%20Christians%20%28book%29.pdf); [Reinhartz response](https://themarginaliareview.com/response-jew-judean-forum-adele-reinhartz/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12057,20 +12069,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_827282f97f2f5544c8e6",
-    "text": "Eusebius of Caesarea (4th century) — Church Father; bishop; wrote the first major church history from the pro-Nicene side. Said roughly 250 bishops attended Nicaea — one of several eyewitness counts that disagree with each other and with the later legend of 318.",
-    "raw_text": "**Eusebius of Caesarea** (4th century) — Church Father; bishop; wrote the first major church history from the pro-Nicene side. Said roughly 250 bishops attended Nicaea — one of several eyewitness counts that disagree with each other and with the later legend of 318.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_dd7f098fbdff18120318",
+    "text": "Eusebius of Caesarea (c. 260–339) — Bishop and author of the first surviving comprehensive history of the early church. As a participant at Nicaea, he reported more than 250 bishops; later participant traditions gave different totals, including Eustathius’s roughly 270 and Athanasius’s 318. “From the pro-Nicene side” was too simple for Eusebius’s contested theological position and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([primary-source references summarized](https://thirdmill.org/answers/answer.asp/file/39723); [modern historical overview](https://apnews.com/article/1c403e4739e0821f7d11aa6b833f9a43))",
+    "raw_text": "⟨DOCUMENTED⟩ **Eusebius of Caesarea** (c. 260–339) — Bishop and author of the first surviving comprehensive history of the early church. As a participant at Nicaea, he reported more than 250 bishops; later participant traditions gave different totals, including Eustathius’s roughly 270 and Athanasius’s 318. “From the pro-Nicene side” was too simple for Eusebius’s contested theological position and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([primary-source references summarized](https://thirdmill.org/answers/answer.asp/file/39723); [modern historical overview](https://apnews.com/article/1c403e4739e0821f7d11aa6b833f9a43))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12089,20 +12101,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_33e5e1265f0d65ef429c",
-    "text": "Eusebius of Nicomedia (4th century) — Bishop; initially objected to the Nicene creed's homoousios; signed under evident pressure; resumed open support for Arius within years and was separately exiled.",
-    "raw_text": "**Eusebius of Nicomedia** (4th century) — Bishop; initially objected to the Nicene creed's *homoousios*; signed under evident pressure; resumed open support for Arius within years and was separately exiled.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_5236b2997dfa83032fbc",
+    "text": "Eusebius of Nicomedia (d. 341) — Bishop and influential supporter of Arius. He opposed homoousios but ultimately signed the Nicene creed under imperial pressure, soon disavowed his signature according to an ancient report, was exiled, and later returned to influence. “Resumed open support within years” has been replaced by this more precise sequence. CHECKED 12 AUG 2026 ([Encyclopedia of Religion](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/eusebius-nicomedia))",
+    "raw_text": "⟨DOCUMENTED⟩ **Eusebius of Nicomedia** (d. 341) — Bishop and influential supporter of Arius. He opposed *homoousios* but ultimately signed the Nicene creed under imperial pressure, soon disavowed his signature according to an ancient report, was exiled, and later returned to influence. “Resumed open support within years” has been replaced by this more precise sequence. `CHECKED 12 AUG 2026` ([Encyclopedia of Religion](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/eusebius-nicomedia))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12121,20 +12133,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_862fce5ab4983acf6739",
-    "text": "Eustathius of Antioch (4th century) — Bishop; said roughly 270 bishops attended Nicaea.",
-    "raw_text": "**Eustathius of Antioch** (4th century) — Bishop; said roughly 270 bishops attended Nicaea.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6a8da2049dc282056b17",
+    "text": "Eustathius of Antioch (d. c. 337) — Bishop of Antioch and participant at Nicaea. His account, preserved by Theodoret, estimated the attending bishops at roughly 270, one of several early totals that differ from the later symbolic 318 tradition. CHECKED 12 AUG 2026 ([source references](https://thirdmill.org/answers/answer.asp/file/39723))",
+    "raw_text": "⟨DOCUMENTED⟩ **Eustathius of Antioch** (d. c. 337) — Bishop of Antioch and participant at Nicaea. His account, preserved by Theodoret, estimated the attending bishops at roughly 270, one of several early totals that differ from the later symbolic 318 tradition. `CHECKED 12 AUG 2026` ([source references](https://thirdmill.org/answers/answer.asp/file/39723))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12153,18 +12165,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39c91f3d4be9b35ff6db",
-    "text": "Farmer, William R. — Critical scholar (not evangelical); The Synoptic Problem (1964). Revived the Griesbach hypothesis (Matthew first, Mark last). His methodological charge: Markan priority's triumph was driven by theological preference, not decisive textual evidence.",
-    "raw_text": "**Farmer, William R.** — Critical scholar (not evangelical); *The Synoptic Problem* (1964). Revived the Griesbach hypothesis (Matthew first, Mark last). His methodological charge: Markan priority's triumph was driven by theological preference, not decisive textual evidence.",
+    "id": "rk_a0c0715d7f032130bc62",
+    "text": "⟨UNRESOLVED⟩ Farmer, William R. — New Testament scholar whose The Synoptic Problem (1964) was the principal modern contribution to reviving the Griesbach hypothesis: Matthew first, Luke using Matthew, and Mark using both. Farmer later argued that Markan priority’s rise had theological and political roots, including the German Kulturkampf. The prior entry attached the broad “theological preference, not decisive textual evidence” charge directly to the 1964 book and labeled Farmer by what he was not; this pass did not verify that formulation at page level. UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED ([Cambridge history of the revival](https://www.cambridge.org/core/books/revival-griesbach-hypothes/introduction/FA2320B3222EBAF1C4C1555FCC952F91); [scholarly discussion of Farmer’s later thesis](https://research.stmarys.ac.uk/id/eprint/5986/1/MBMassey%20The%20Birth%20and%20Death%20of%20the%20PMPN%20Resubmission%20Dec%202022.pdf))",
+    "raw_text": "⟨UNRESOLVED⟩ **Farmer, William R.** — New Testament scholar whose *The Synoptic Problem* (1964) was the principal modern contribution to reviving the Griesbach hypothesis: Matthew first, Luke using Matthew, and Mark using both. Farmer later argued that Markan priority’s rise had theological and political roots, including the German *Kulturkampf*. The prior entry attached the broad “theological preference, not decisive textual evidence” charge directly to the 1964 book and labeled Farmer by what he was not; this pass did not verify that formulation at page level. `UNRESOLVED 12 AUG 2026 — PAGE-LEVEL CHECK REQUIRED` ([Cambridge history of the revival](https://www.cambridge.org/core/books/revival-griesbach-hypothes/introduction/FA2320B3222EBAF1C4C1555FCC952F91); [scholarly discussion of Farmer’s later thesis](https://research.stmarys.ac.uk/id/eprint/5986/1/MBMassey%20The%20Birth%20and%20Death%20of%20the%20PMPN%20Resubmission%20Dec%202022.pdf))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -12194,11 +12206,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_350c68fd99c1bde687be",
-    "text": "Felicity — Martyred at Carthage, 7 March 203 CE, alongside Perpetua.",
-    "raw_text": "**Felicity** — Martyred at Carthage, 7 March 203 CE, alongside Perpetua.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_adb93b039437bf50da09",
+    "text": "Felicity — Enslaved Christian woman who was pregnant when imprisoned and was martyred at Carthage with Perpetua and companions in 203 CE; their feast is observed on 7 March. CHECKED 12 AUG 2026 ([Vatican City State account](https://vaticanstate.va/en/news/1587-7-march-saints-perpetua-and-felicity-martyrs.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Felicity** — Enslaved Christian woman who was pregnant when imprisoned and was martyred at Carthage with Perpetua and companions in 203 CE; their feast is observed on 7 March. `CHECKED 12 AUG 2026` ([Vatican City State account](https://vaticanstate.va/en/news/1587-7-march-saints-perpetua-and-felicity-martyrs.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12217,20 +12229,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fabc69731e7656c16b10",
-    "text": "Feser, Edward — Thomist philosopher; Aquinas, Five Proofs. His central argument: most atheist critiques attack a version of the cosmological argument Aquinas never made.",
-    "raw_text": "**Feser, Edward** — Thomist philosopher; *Aquinas*, *Five Proofs*. His central argument: most atheist critiques attack a version of the cosmological argument Aquinas never made.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_edef6880d8a38c66b3e3",
+    "text": "Feser, Edward — Aristotelian-Thomistic philosopher and author of Aquinas and Five Proofs of the Existence of God. His published work argues that New Atheist treatments of cosmological arguments often miss the classical metaphysical framework, and he has defended Thomistic cosmological arguments in direct exchange with Graham Oppy. “Most atheist critiques” was an unsupported quantifier and “Aquinas never made” compressed several distinct arguments. CHECKED/CORRECTED 12 AUG 2026 ([author bibliography](https://www.edwardfeser.com/books.html); [Feser, “The New Atheists and the Cosmological Argument”](https://onlinelibrary.wiley.com/doi/10.1111/misp.12000); [Feser’s reply to Oppy](https://doi.org/10.1017/S0034412520000384))",
+    "raw_text": "⟨DOCUMENTED⟩ **Feser, Edward** — Aristotelian-Thomistic philosopher and author of *Aquinas* and *Five Proofs of the Existence of God*. His published work argues that New Atheist treatments of cosmological arguments often miss the classical metaphysical framework, and he has defended Thomistic cosmological arguments in direct exchange with Graham Oppy. “Most atheist critiques” was an unsupported quantifier and “Aquinas never made” compressed several distinct arguments. `CHECKED/CORRECTED 12 AUG 2026` ([author bibliography](https://www.edwardfeser.com/books.html); [Feser, “The New Atheists and the Cosmological Argument”](https://onlinelibrary.wiley.com/doi/10.1111/misp.12000); [Feser’s reply to Oppy](https://doi.org/10.1017/S0034412520000384))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12249,20 +12261,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c108d1338219e2ef7425",
-    "text": "Finkelstein, Israel — Critical archaeologist (Tel Aviv); \"low chronology.\" 10th-century Jerusalem was a modest highland town; the united monarchy as described is a 7th-century retrojection; treats the Exodus as a charter myth.",
-    "raw_text": "**Finkelstein, Israel** — Critical archaeologist (Tel Aviv); \"low chronology.\" 10th-century Jerusalem was a modest highland town; the united monarchy as described is a 7th-century retrojection; treats the Exodus as a charter myth.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_34d159a62752926fa7da",
+    "text": "Finkelstein, Israel — Archaeologist associated with the “Low Chronology,” which redates major strata and monumental remains once assigned to the tenth-century united monarchy into the ninth century. With Neil Asher Silberman in The Bible Unearthed, he argues that the biblical portraits of the Exodus and Davidic-Solomonic kingdom are not straightforward archaeological history and that much of the national narrative took literary shape in seventh-century Judah. The prior “charter myth” label has been replaced with this attributable formulation. CHECKED/CORRECTED 12 AUG 2026 ([Finkelstein’s Low Chronology article record](https://cris.haifa.ac.il/en/publications/the-archaeology-of-the-united-monarchy-an-alternative-view/); [contemporary interview summary](https://www.abc.net.au/listen/programs/latenightlive/the-bible-unearthed/3480682); [contemporary review](https://www.kirkusreviews.com/book-reviews/israel-finkelstein/the-bible-unearthed/?page=4))",
+    "raw_text": "⟨DOCUMENTED⟩ **Finkelstein, Israel** — Archaeologist associated with the “Low Chronology,” which redates major strata and monumental remains once assigned to the tenth-century united monarchy into the ninth century. With Neil Asher Silberman in *The Bible Unearthed*, he argues that the biblical portraits of the Exodus and Davidic-Solomonic kingdom are not straightforward archaeological history and that much of the national narrative took literary shape in seventh-century Judah. The prior “charter myth” label has been replaced with this attributable formulation. `CHECKED/CORRECTED 12 AUG 2026` ([Finkelstein’s Low Chronology article record](https://cris.haifa.ac.il/en/publications/the-archaeology-of-the-united-monarchy-an-alternative-view/); [contemporary interview summary](https://www.abc.net.au/listen/programs/latenightlive/the-bible-unearthed/3480682); [contemporary review](https://www.kirkusreviews.com/book-reviews/israel-finkelstein/the-bible-unearthed/?page=4))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12281,20 +12293,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22858da623191f7fda50",
-    "text": "Finnis, John — Natural law philosopher; Natural Law and Natural Rights (1980). Attempts to bridge the is-ought gap via natural teleology.",
-    "raw_text": "**Finnis, John** — Natural law philosopher; *Natural Law and Natural Rights* (1980). Attempts to bridge the is-ought gap via natural teleology.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_f2f3efda75930a0e178d",
+    "text": "Finnis, John — Natural-law philosopher and author of Natural Law and Natural Rights (1980). His account begins with basic human goods and requirements of practical reasonableness; it does not derive moral “oughts” from descriptive propositions about natural teleology. The prior entry therefore misstated his response to the is/ought problem. CHECKED/CORRECTED 12 AUG 2026 ([Notre Dame bibliographic record and synopsis](https://scholarship.law.nd.edu/law_books/188/); [Finnis, “Natural Law and the ‘Is’–‘Ought’ Question”](https://scholarship.law.stjohns.edu/tcl/vol26/iss4/3/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Finnis, John** — Natural-law philosopher and author of *Natural Law and Natural Rights* (1980). His account begins with basic human goods and requirements of practical reasonableness; it does not derive moral “oughts” from descriptive propositions about natural teleology. The prior entry therefore misstated his response to the is/ought problem. `CHECKED/CORRECTED 12 AUG 2026` ([Notre Dame bibliographic record and synopsis](https://scholarship.law.nd.edu/law_books/188/); [Finnis, “Natural Law and the ‘Is’–‘Ought’ Question”](https://scholarship.law.stjohns.edu/tcl/vol26/iss4/3/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12313,20 +12325,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7d6f5149c17f167dab38",
-    "text": "Firth, David G. — Conservative evangelical; Surrendering Retribution in the Psalms (2005). Argues the psalmist cedes vengeance to God rather than acting on it.",
-    "raw_text": "**Firth, David G.** — Conservative evangelical; *Surrendering Retribution in the Psalms* (2005). Argues the psalmist cedes vengeance to God rather than acting on it.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d77fb2cae808904aee3a",
+    "text": "Firth, David G. — Biblical scholar and author of Surrendering Retribution in the Psalms. He argues that the Psalter’s shaping presents surrender of the human right of retribution to Yahweh, rather than human vengeance, as the appropriate response to violence. The publisher dates the Wipf & Stock edition to 2007; the work originated as an earlier thesis, so the unqualified 2005 date has been removed. CHECKED/CORRECTED 12 AUG 2026 ([publisher description](https://wipfandstock.com/9781597527583/surrendering-retribution-in-the-psalms/); [Firth article developing the thesis](https://verbumetecclesia.org.za/index.php/ve/article/download/520/573))",
+    "raw_text": "⟨DOCUMENTED⟩ **Firth, David G.** — Biblical scholar and author of *Surrendering Retribution in the Psalms*. He argues that the Psalter’s shaping presents surrender of the human right of retribution to Yahweh, rather than human vengeance, as the appropriate response to violence. The publisher dates the Wipf & Stock edition to 2007; the work originated as an earlier thesis, so the unqualified 2005 date has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([publisher description](https://wipfandstock.com/9781597527583/surrendering-retribution-in-the-psalms/); [Firth article developing the thesis](https://verbumetecclesia.org.za/index.php/ve/article/download/520/573))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12345,18 +12357,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_65c95e90cacf3549a0df",
-    "text": "Fitzmyer, Joseph — Critical Catholic scholar; Anchor Bible Luke and Acts commentaries. Documents that Matthew's prophetic citations are editorial insertions layered onto pre-existing narrative. Reads Luke's three explicit innocence declarations as more specific than Mark's.",
-    "raw_text": "**Fitzmyer, Joseph** — Critical Catholic scholar; Anchor Bible Luke and Acts commentaries. Documents that Matthew's prophetic citations are editorial insertions layered onto pre-existing narrative. Reads Luke's three explicit innocence declarations as more specific than Mark's.",
+    "id": "rk_9a32347d810c57de989f",
+    "text": "⟨UNRESOLVED⟩ Fitzmyer, Joseph A. — Catholic biblical scholar and author of Anchor Bible commentaries on Luke and Acts. The publication record is secure, but this pass did not locate page-level text supporting the entry’s two specific attributions: that Matthew’s prophetic citations are editorial insertions into pre-existing narrative and that Luke’s three innocence declarations are “more specific” than Mark’s. UNRESOLVED 12 AUG 2026 — COMMENTARY PAGES REQUIRED ([Yale University Press, The Gospel According to Luke X–XXIV](https://yalebooks.yale.edu/book/9780300139815/the-gospel-according-to-luke-x-xxiv/))",
+    "raw_text": "⟨UNRESOLVED⟩ **Fitzmyer, Joseph A.** — Catholic biblical scholar and author of Anchor Bible commentaries on Luke and Acts. The publication record is secure, but this pass did not locate page-level text supporting the entry’s two specific attributions: that Matthew’s prophetic citations are editorial insertions into pre-existing narrative and that Luke’s three innocence declarations are “more specific” than Mark’s. `UNRESOLVED 12 AUG 2026 — COMMENTARY PAGES REQUIRED` ([Yale University Press, *The Gospel According to Luke X–XXIV*](https://yalebooks.yale.edu/book/9780300139815/the-gospel-according-to-luke-x-xxiv/))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -12386,11 +12398,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fee2f8e7a4b82aaf6694",
-    "text": "Flew, Antony — Philosopher; \"Theology and Falsification\" (1950). The invisible gardener parable — foundational essay on unfalsifiability in theology. (Note: Flew later claimed to become a theist shortly before his death; the quality of that late-life change is disputed.)",
-    "raw_text": "**Flew, Antony** — Philosopher; \"Theology and Falsification\" (1950). The invisible gardener parable — foundational essay on unfalsifiability in theology. (Note: Flew later claimed to become a theist shortly before his death; the quality of that late-life change is disputed.)",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_ac38d13e1d49014f3463",
+    "text": "Flew, Antony — Philosopher whose “Theology and Falsification” adapts John Wisdom’s invisible-gardener parable to ask what could count against a theological assertion. Decades later Flew described his change as “philosophical theism,” not conversion to Christianity or another revealed religion. The prior suggestion that the reality or “quality” of the change itself was disputed was imprecise and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([text and publication note](https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_8_LANGUAGE/Theology-and-Falsification.htm); [Flew, “My ‘conversion’”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3544CC40A7798B89C85274D2CDCB7A57/S1477175600001391a.pdf/my_conversion.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Flew, Antony** — Philosopher whose “Theology and Falsification” adapts John Wisdom’s invisible-gardener parable to ask what could count against a theological assertion. Decades later Flew described his change as “philosophical theism,” not conversion to Christianity or another revealed religion. The prior suggestion that the reality or “quality” of the change itself was disputed was imprecise and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([text and publication note](https://www.qcc.cuny.edu/socialSciences/ppecorino/PHIL_of_RELIGION_TEXT/CHAPTER_8_LANGUAGE/Theology-and-Falsification.htm); [Flew, “My ‘conversion’”](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/3544CC40A7798B89C85274D2CDCB7A57/S1477175600001391a.pdf/my_conversion.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12409,20 +12421,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6c5e649ab82b0481ea17",
-    "text": "Ford, John Jarrett — Evangelical scholar. Reads Galatians 4:21–31 as typology rather than Philonic allegory.",
-    "raw_text": "**Ford, John Jarrett** — Evangelical scholar. Reads Galatians 4:21–31 as typology rather than Philonic allegory.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_430f1aa78c273896fa7c",
+    "text": "Ford, J. Jarrett — New Testament scholar whose dissertation and subsequent article revisit Galatians 4:21–31. His lexical study argues that allēgoreō in Galatians 4:24 means “these things are symbolic,” leaving the exact classification of Paul’s interpretive procedure open. The prior claim that Ford simply reads the passage as typology rather than Philonic allegory overstated his published conclusion. CHECKED/CORRECTED 12 AUG 2026 ([dissertation record and abstract](https://repository.sbts.edu/handle/10392/6983); [2024 New Testament Studies article](https://doi.org/10.1017/S0028688523000358))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ford, J. Jarrett** — New Testament scholar whose dissertation and subsequent article revisit Galatians 4:21–31. His lexical study argues that *allēgoreō* in Galatians 4:24 means “these things are symbolic,” leaving the exact classification of Paul’s interpretive procedure open. The prior claim that Ford simply reads the passage as typology rather than Philonic allegory overstated his published conclusion. `CHECKED/CORRECTED 12 AUG 2026` ([dissertation record and abstract](https://repository.sbts.edu/handle/10392/6983); [2024 *New Testament Studies* article](https://doi.org/10.1017/S0028688523000358))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12441,20 +12453,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ab074e881be26e72a3ec",
-    "text": "Fouts, David — Conservative evangelical. Applied the eleph proposal to Numbers; one of several whose different applications produce wildly different results.",
-    "raw_text": "**Fouts, David** — Conservative evangelical. Applied the *eleph* proposal to Numbers; one of several whose different applications produce wildly different results.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_8394d86f9aa8e23ac5b0",
+    "text": "Fouts, David M. — Biblical scholar who defended a hyperbolic interpretation of large numbers in the Old Testament, including the military census figures in Numbers 1 and 26. The prior entry incorrectly assigned him an eleph translation proposal; his published argument is about literary hyperbole. CHECKED/CORRECTED 12 AUG 2026 ([Fouts, “A Defense of the Hyperbolic Interpretation of Large Numbers in the Old Testament”](https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_40_40-3_40-3-pp377-387_JETS.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Fouts, David M.** — Biblical scholar who defended a hyperbolic interpretation of large numbers in the Old Testament, including the military census figures in Numbers 1 and 26. The prior entry incorrectly assigned him an *eleph* translation proposal; his published argument is about literary hyperbole. `CHECKED/CORRECTED 12 AUG 2026` ([Fouts, “A Defense of the Hyperbolic Interpretation of Large Numbers in the Old Testament”](https://etsjets.org/wp-content/uploads/2010/07/files_JETS-PDFs_40_40-3_40-3-pp377-387_JETS.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12473,20 +12485,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7507da594f41bbbd711a",
-    "text": "Frame, John — Presuppositional apologist; The Doctrine of the Knowledge of God (1987). Defends self-attesting Scripture against circular-reasoning objections.",
-    "raw_text": "**Frame, John** — Presuppositional apologist; *The Doctrine of the Knowledge of God* (1987). Defends self-attesting Scripture against circular-reasoning objections.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3cd4e9a1a2ae503f27ca",
+    "text": "Frame, John M. — Reformed theologian and presuppositional apologist whose The Doctrine of the Knowledge of God (1987) develops a Christian epistemology. Frame treats Scripture as an ultimate, self-attesting authority and argues that reasoning about an ultimate criterion necessarily involves circularity compatible with that criterion, while distinguishing that from ordinary fallacious circular arguments. CHECKED 12 AUG 2026 ([Frame, “Scripture Speaks for Itself”](https://frame-poythress.org/scripture-speaks-for-itself/); [Frame on ultimate authority and justification](https://reformedperspectives.org/newfiles/joh_frame/PT.Frame.Presupp.Apol.1.html); [publisher excerpt discussing circularity](https://frame-poythress.org/wp-content/uploads/2014/04/John-Frame-Doctrine-of-the-Word-of-God-Excerpt.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Frame, John M.** — Reformed theologian and presuppositional apologist whose *The Doctrine of the Knowledge of God* (1987) develops a Christian epistemology. Frame treats Scripture as an ultimate, self-attesting authority and argues that reasoning about an ultimate criterion necessarily involves circularity compatible with that criterion, while distinguishing that from ordinary fallacious circular arguments. `CHECKED 12 AUG 2026` ([Frame, “Scripture Speaks for Itself”](https://frame-poythress.org/scripture-speaks-for-itself/); [Frame on ultimate authority and justification](https://reformedperspectives.org/newfiles/joh_frame/PT.Frame.Presupp.Apol.1.html); [publisher excerpt discussing circularity](https://frame-poythress.org/wp-content/uploads/2014/04/John-Frame-Doctrine-of-the-Word-of-God-Excerpt.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12505,20 +12517,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_968b82fbc31aee8f8ca3",
-    "text": "France, R.T. — Evangelical scholar. Coined the term \"formula-quotations\" for Matthew's recurring editorial citation pattern.",
-    "raw_text": "**France, R.T.** — Evangelical scholar. Coined the term \"formula-quotations\" for Matthew's recurring editorial citation pattern.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_38c933d7a0b37ada0ddf",
+    "text": "France, R. T. — New Testament scholar who published “The Formula-Quotations of Matthew 2 and the Problem of Communication,” analyzing Matthew’s recurring fulfillment-citation pattern. The terminology predates that article in the scholarly literature, so the unsupported claim that France coined “formula-quotations” has been removed. CHECKED/CORRECTED 12 AUG 2026 ([France’s New Testament Studies article](https://www.cambridge.org/core/journals/new-testament-studies/article/formulaquotations-of-matthew-2-and-the-problem-of-communication/3B8B682DE08D0FD621D747A215205DD5))",
+    "raw_text": "⟨DOCUMENTED⟩ **France, R. T.** — New Testament scholar who published “The Formula-Quotations of Matthew 2 and the Problem of Communication,” analyzing Matthew’s recurring fulfillment-citation pattern. The terminology predates that article in the scholarly literature, so the unsupported claim that France coined “formula-quotations” has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([France’s *New Testament Studies* article](https://www.cambridge.org/core/journals/new-testament-studies/article/formulaquotations-of-matthew-2-and-the-problem-of-communication/3B8B682DE08D0FD621D747A215205DD5))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12537,20 +12549,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5a502779393fcb6f0cea",
-    "text": "Fredriksen, Paula — Critical historian of ancient Christianity. Documented that the parousia-delay framework functioned as a \"controlling matrix\" in mid-20th-century scholarship, not a settled finding from the evidence.",
-    "raw_text": "**Fredriksen, Paula** — Critical historian of ancient Christianity. Documented that the parousia-delay framework functioned as a \"controlling matrix\" in mid-20th-century scholarship, not a settled finding from the evidence.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_a153a52193b71c93f663",
+    "text": "Fredriksen, Paula — Historian of ancient Christianity. In discussing early Christian eschatology, she describes “delay of the parousia” as a controlling scholarly matrix in the mid-twentieth century, from Bultmann to C. K. Barrett, and then argues for a different historical reconstruction. The entry now attributes the characterization to her argument rather than presenting it as a free-standing consensus judgment. CHECKED/CORRECTED 12 AUG 2026 ([substantive summary with page references](https://www.patheos.com/blogs/euangelion/2019/07/paula-fredriksen-the-early-church-and-the-delay-of-the-parousia/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Fredriksen, Paula** — Historian of ancient Christianity. In discussing early Christian eschatology, she describes “delay of the parousia” as a controlling scholarly matrix in the mid-twentieth century, from Bultmann to C. K. Barrett, and then argues for a different historical reconstruction. The entry now attributes the characterization to her argument rather than presenting it as a free-standing consensus judgment. `CHECKED/CORRECTED 12 AUG 2026` ([substantive summary with page references](https://www.patheos.com/blogs/euangelion/2019/07/paula-fredriksen-the-early-church-and-the-delay-of-the-parousia/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12569,20 +12581,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c66a96ac29fc7034905e",
-    "text": "Freedman, David Noel — Critical scholar; co-authored the Anchor Bible Amos commentary with Andersen.",
-    "raw_text": "**Freedman, David Noel** — Critical scholar; co-authored the Anchor Bible Amos commentary with Andersen.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_edcbd783771ac97e8ee1",
+    "text": "Freedman, David Noel — Hebrew Bible scholar who coauthored Amos: A New Translation with Introduction and Commentary in the Anchor Bible series with Francis I. Andersen. CHECKED 12 AUG 2026 ([publisher/catalog description](https://www.logos.com/product/41444/amos))",
+    "raw_text": "⟨DOCUMENTED⟩ **Freedman, David Noel** — Hebrew Bible scholar who coauthored *Amos: A New Translation with Introduction and Commentary* in the Anchor Bible series with Francis I. Andersen. `CHECKED 12 AUG 2026` ([publisher/catalog description](https://www.logos.com/product/41444/amos))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12601,20 +12613,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9d5878bb8ee28dae80ca",
-    "text": "Freeman, Charles — Historian; AD 381 (2008). Documents the political finalization of Trinitarian Christianity under Theodosius at Constantinople.",
-    "raw_text": "**Freeman, Charles** — Historian; *AD 381* (2008). Documents the political finalization of Trinitarian Christianity under Theodosius at Constantinople.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b07a58da290d3652d39f",
+    "text": "Freeman, Charles — Historian and author of AD 381. The book argues that Theodosius’s edict and the Council of Constantinople imposed an officially sanctioned Trinitarian settlement amid continuing Christian diversity. “Documents the political finalization” has been changed to “argues” so the author’s interpretive thesis is not stated as an uncontested event description. CHECKED/CORRECTED 12 AUG 2026 ([Penguin publisher description](https://www.penguin.co.uk/books/388787/ad-381-by-charles-freeman/9781446419243))",
+    "raw_text": "⟨DOCUMENTED⟩ **Freeman, Charles** — Historian and author of *AD 381*. The book argues that Theodosius’s edict and the Council of Constantinople imposed an officially sanctioned Trinitarian settlement amid continuing Christian diversity. “Documents the political finalization” has been changed to “argues” so the author’s interpretive thesis is not stated as an uncontested event description. `CHECKED/CORRECTED 12 AUG 2026` ([Penguin publisher description](https://www.penguin.co.uk/books/388787/ad-381-by-charles-freeman/9781446419243))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12633,20 +12645,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14250534e35d6f5a9922",
-    "text": "Friedman, Richard Elliott — Critical scholar; Who Wrote the Bible? (1987). Documentary hypothesis and source differentiation.",
-    "raw_text": "**Friedman, Richard Elliott** — Critical scholar; *Who Wrote the Bible?* (1987). Documentary hypothesis and source differentiation.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_bbff1848cbfcfc6b1ace",
+    "text": "Friedman, Richard Elliott — Hebrew Bible scholar and author of Who Wrote the Bible? (1987), an accessible defense and historical reconstruction of the documentary hypothesis that identifies distinct Pentateuchal voices and their later editorial combination. CHECKED 12 AUG 2026 ([original-edition bibliographic record](https://books.google.com/books/about/Who_Wrote_the_Bible.html?id=ZZgNAQAAMAAJ); [publisher description](https://www.simonandschuster.net/books/Who-Wrote-the-Bible/Richard-Friedman/9781501192401))",
+    "raw_text": "⟨DOCUMENTED⟩ **Friedman, Richard Elliott** — Hebrew Bible scholar and author of *Who Wrote the Bible?* (1987), an accessible defense and historical reconstruction of the documentary hypothesis that identifies distinct Pentateuchal voices and their later editorial combination. `CHECKED 12 AUG 2026` ([original-edition bibliographic record](https://books.google.com/books/about/Who_Wrote_the_Bible.html?id=ZZgNAQAAMAAJ); [publisher description](https://www.simonandschuster.net/books/Who-Wrote-the-Bible/Richard-Friedman/9781501192401))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12665,20 +12677,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_65aeea7baeee31198ea4",
-    "text": "Fudge, Edward — Evangelical; The Fire That Consumes (1982). Evangelical case for annihilationism.",
-    "raw_text": "**Fudge, Edward** — Evangelical; *The Fire That Consumes* (1982). Evangelical case for annihilationism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_00b7bb43f9c0a6591fdf",
+    "text": "Fudge, Edward — Christian theologian and author of The Fire That Consumes (1982), a biblical and historical case for conditional immortality and final destruction rather than unending conscious torment. “Evangelical case for annihilationism” is broadly accurate, but the doctrinal content is now stated directly. CHECKED 12 AUG 2026 ([author’s book page](https://edwardfudge.com/written-ministry/books/the-fire-that-consumes/); [Fudge’s account of the research and 1982 publication](https://edwardfudge.com/2012/03/a-loving-challenge-to-the-evangelical-church-3-of-3/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Fudge, Edward** — Christian theologian and author of *The Fire That Consumes* (1982), a biblical and historical case for conditional immortality and final destruction rather than unending conscious torment. “Evangelical case for annihilationism” is broadly accurate, but the doctrinal content is now stated directly. `CHECKED 12 AUG 2026` ([author’s book page](https://edwardfudge.com/written-ministry/books/the-fire-that-consumes/); [Fudge’s account of the research and 1982 publication](https://edwardfudge.com/2012/03/a-loving-challenge-to-the-evangelical-church-3-of-3/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12697,20 +12709,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_672502379427cf60a09e",
-    "text": "Gagnon, Robert — Conservative evangelical; The Bible and Homosexual Practice (2001). The most thorough conservative treatment; broad prohibition reading of Leviticus 18:22.",
-    "raw_text": "**Gagnon, Robert** — Conservative evangelical; *The Bible and Homosexual Practice* (2001). The most thorough conservative treatment; broad prohibition reading of Leviticus 18:22.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b0956a1cd550730f9ce5",
+    "text": "Gagnon, Robert A. J. — Biblical scholar and author of The Bible and Homosexual Practice (2001), a book-length defense of the traditional prohibition of same-sex sexual practice. His treatment reads Leviticus 18:22 and 20:13 as categorical male same-sex prohibitions within a wider canonical argument. “The most thorough” was an unmeasured ranking and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([publisher description](https://www.abingdonpress.com/product/9780687022793/); [Gagnon on the Levitical texts](https://www.robgagnon.net/articles/homosexChurchPolicy.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Gagnon, Robert A. J.** — Biblical scholar and author of *The Bible and Homosexual Practice* (2001), a book-length defense of the traditional prohibition of same-sex sexual practice. His treatment reads Leviticus 18:22 and 20:13 as categorical male same-sex prohibitions within a wider canonical argument. “The most thorough” was an unmeasured ranking and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([publisher description](https://www.abingdonpress.com/product/9780687022793/); [Gagnon on the Levitical texts](https://www.robgagnon.net/articles/homosexChurchPolicy.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12729,20 +12741,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9361878c7b061667a9c7",
-    "text": "Garfinkel, Yosef — Archaeologist; Khirbet Qeiyafa, radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.",
-    "raw_text": "**Garfinkel, Yosef** — Archaeologist; Khirbet Qeiyafa, radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_5f0815725e85d0fd0b8d",
+    "text": "Garfinkel, Yosef — Archaeologist and excavator of Khirbet Qeiyafa. Garfinkel and coauthors report radiometric and archaeological evidence for a planned, fortified Judean city in the late eleventh to early tenth century BCE and argue that it bears on debates about early state formation in Judah. “More than minimalists allow” was argumentative shorthand and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([peer-reviewed article](https://doi.org/10.2458/azu_rc.57.18349))",
+    "raw_text": "⟨DOCUMENTED⟩ **Garfinkel, Yosef** — Archaeologist and excavator of Khirbet Qeiyafa. Garfinkel and coauthors report radiometric and archaeological evidence for a planned, fortified Judean city in the late eleventh to early tenth century BCE and argue that it bears on debates about early state formation in Judah. “More than minimalists allow” was argumentative shorthand and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([peer-reviewed article](https://doi.org/10.2458/azu_rc.57.18349))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12761,20 +12773,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40b150890e5bdf68a4c0",
-    "text": "Geisler, Norman — Conservative evangelical; A General Introduction to the Bible (1986). Standard evangelical defense of biblical authority.",
-    "raw_text": "**Geisler, Norman** — Conservative evangelical; *A General Introduction to the Bible* (1986). Standard evangelical defense of biblical authority.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_696d3dd7fe0ecec3f509",
+    "text": "Geisler, Norman L., with William E. Nix — Coauthors of the revised and expanded A General Introduction to the Bible (1986), covering inspiration, canonization, transmission, and translation from a conservative defense of biblical authority and inerrancy. The prior entry omitted Nix’s coauthorship. CHECKED/CORRECTED 12 AUG 2026 ([Moody Publishers](https://www.moodypublishers.com/a-general-introduction-to-the-bible); [catalog contents](https://library.pbts.edu.ph/cgi-bin/koha/opac-detail.pl?biblionumber=11811))",
+    "raw_text": "⟨DOCUMENTED⟩ **Geisler, Norman L., with William E. Nix** — Coauthors of the revised and expanded *A General Introduction to the Bible* (1986), covering inspiration, canonization, transmission, and translation from a conservative defense of biblical authority and inerrancy. The prior entry omitted Nix’s coauthorship. `CHECKED/CORRECTED 12 AUG 2026` ([Moody Publishers](https://www.moodypublishers.com/a-general-introduction-to-the-bible); [catalog contents](https://library.pbts.edu.ph/cgi-bin/koha/opac-detail.pl?biblionumber=11811))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12793,18 +12805,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c03df7a53377f3de36ec",
-    "text": "Gertz, Jan Christian — European school; Pentateuchal composition. Disagrees with the Neo-Documentarians on whether sources J and E exist as discrete documents.",
-    "raw_text": "**Gertz, Jan Christian** — European school; Pentateuchal composition. Disagrees with the Neo-Documentarians on whether sources J and E exist as discrete documents.",
+    "id": "rk_46f6a33780807c1c9f5a",
+    "text": "⟨UNRESOLVED⟩ Gertz, Jan Christian — Hebrew Bible scholar whose work addresses Pentateuchal composition and European debates among documentary, supplementary, and fragmentary models. This pass did not obtain a specific publication page establishing the entry’s exact attribution about whether Gertz rejects both J and E as discrete documents. UNRESOLVED 12 AUG 2026 — PUBLICATION/PAGE REQUIRED ([relevant scholarly overview](https://ub01.uni-tuebingen.de/xmlui/bitstream/handle/10900/126820/Schmid_127.pdf?sequence=1))",
+    "raw_text": "⟨UNRESOLVED⟩ **Gertz, Jan Christian** — Hebrew Bible scholar whose work addresses Pentateuchal composition and European debates among documentary, supplementary, and fragmentary models. This pass did not obtain a specific publication page establishing the entry’s exact attribution about whether Gertz rejects both J and E as discrete documents. `UNRESOLVED 12 AUG 2026 — PUBLICATION/PAGE REQUIRED` ([relevant scholarly overview](https://ub01.uni-tuebingen.de/xmlui/bitstream/handle/10900/126820/Schmid_127.pdf?sequence=1))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -12834,11 +12846,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_da71b35530065beca6a6",
-    "text": "Gibson, Eleanor — Developmental psychologist; The Visual Cliff (1960). The experiment tested infants who could already crawl (aged 6–14 months), not newborns — undermining the \"innate fear of falling\" claim.",
-    "raw_text": "**Gibson, Eleanor** — Developmental psychologist; *The Visual Cliff* (1960). The experiment tested infants who could already crawl (aged 6–14 months), not newborns — undermining the \"innate fear of falling\" claim.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_168d5522705790965cfd",
+    "text": "Gibson, Eleanor J., and Richard D. Walk — Developmental psychologists who reported the 1960 visual-cliff experiment. The human sample comprised 36 infants aged six to fourteen months who could crawl; the experiment therefore tested depth discrimination and avoidance in mobile infants, not newborn fear. It does not by itself decide whether fear of falling is innate. The prior entry omitted Walk and made the inferential conclusion too strong. CHECKED/CORRECTED 12 AUG 2026 ([original article](https://stcmpsy.wordpress.com/wp-content/uploads/2012/04/gibson-and-walk-original-text.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Gibson, Eleanor J., and Richard D. Walk** — Developmental psychologists who reported the 1960 visual-cliff experiment. The human sample comprised 36 infants aged six to fourteen months who could crawl; the experiment therefore tested depth discrimination and avoidance in mobile infants, not newborn fear. It does not by itself decide whether fear of falling is innate. The prior entry omitted Walk and made the inferential conclusion too strong. `CHECKED/CORRECTED 12 AUG 2026` ([original article](https://stcmpsy.wordpress.com/wp-content/uploads/2012/04/gibson-and-walk-original-text.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12857,20 +12869,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_abece82e927b421e6c41",
-    "text": "Giles, Kevin — Critical scholar; The Trinity & Subordinationism (2002). Argues Eternal Functional Subordination (EFS) is a departure from Nicene orthodoxy on its own terms.",
-    "raw_text": "**Giles, Kevin** — Critical scholar; *The Trinity & Subordinationism* (2002). Argues Eternal Functional Subordination (EFS) is a departure from Nicene orthodoxy on its own terms.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_0438e7bf013282712311",
+    "text": "Giles, Kevin — Theologian and author of The Trinity & Subordinationism (2002). Giles argues that historic orthodoxy rejected eternal subordination within the Trinity and that appeals to such subordination in support of gender hierarchy depart from Nicene trinitarian teaching. “Critical scholar” was an unhelpful lens label and has been removed. CHECKED 12 AUG 2026 ([IVP Academic description](https://www.ivpress.com/the-trinity-subordinationism))",
+    "raw_text": "⟨DOCUMENTED⟩ **Giles, Kevin** — Theologian and author of *The Trinity & Subordinationism* (2002). Giles argues that historic orthodoxy rejected eternal subordination within the Trinity and that appeals to such subordination in support of gender hierarchy depart from Nicene trinitarian teaching. “Critical scholar” was an unhelpful lens label and has been removed. `CHECKED 12 AUG 2026` ([IVP Academic description](https://www.ivpress.com/the-trinity-subordinationism))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12889,20 +12901,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b4ce19884704cea1e99f",
-    "text": "Goldenberg, David M. — Critical/Judaic Studies scholar; The Curse of Ham (Princeton, 2003). Traces the roughly 1,500-year process by which a text mentioning neither blackness nor Ham's guilt became the cornerstone for justifying African slavery.",
-    "raw_text": "**Goldenberg, David M.** — Critical/Judaic Studies scholar; *The Curse of Ham* (Princeton, 2003). Traces the roughly 1,500-year process by which a text mentioning neither blackness nor Ham's guilt became the cornerstone for justifying African slavery.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_32751ec38de0a265e06a",
+    "text": "Goldenberg, David M. — Judaic Studies scholar and author of The Curse of Ham (2003). He traces how interpreters linked the Genesis curse—pronounced on Canaan, not Ham, and without reference to skin color—to Black Africans and hereditary slavery over more than a millennium. The former “roughly 1,500-year process” has been narrowed to the publisher’s supported chronology. CHECKED/CORRECTED 12 AUG 2026 ([Princeton book preview](https://assets.press.princeton.edu/chapters/i7641.pdf); [JSTOR book description](https://www.jstor.org/stable/j.ctt7rm4x))",
+    "raw_text": "⟨DOCUMENTED⟩ **Goldenberg, David M.** — Judaic Studies scholar and author of *The Curse of Ham* (2003). He traces how interpreters linked the Genesis curse—pronounced on Canaan, not Ham, and without reference to skin color—to Black Africans and hereditary slavery over more than a millennium. The former “roughly 1,500-year process” has been narrowed to the publisher’s supported chronology. `CHECKED/CORRECTED 12 AUG 2026` ([Princeton book preview](https://assets.press.princeton.edu/chapters/i7641.pdf); [JSTOR book description](https://www.jstor.org/stable/j.ctt7rm4x))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12921,20 +12933,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c94afb1c4620179208d8",
-    "text": "Goligher, Liam — Reformed theologian. Publicly charged Grudem and Ware's EFS with undermining Nicene trinitarianism (June 2016).",
-    "raw_text": "**Goligher, Liam** — Reformed theologian. Publicly charged Grudem and Ware's EFS with undermining Nicene trinitarianism (June 2016).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_ceeb8ff32229028c95cd",
+    "text": "Goligher, Liam — Reformed minister and theologian whose June 2016 posts catalyzed a public debate over eternal subordination of the Son. He argued that teaching real primacy and subordination within the eternal Trinity moves outside Christian orthodoxy; Wayne Grudem’s contemporary response confirms that this criticism was directed at his view, while the wider debate also involved Bruce Ware. CHECKED 12 AUG 2026 ([contemporary debate chronology](https://theaquilareport.com/the-eternal-subordination-of-the-son-controversy-the-debate-so-far/); [Grudem’s contemporary response](https://cbmw.org/2016/06/09/whose-position-on-the-trinity-is-really-new/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Goligher, Liam** — Reformed minister and theologian whose June 2016 posts catalyzed a public debate over eternal subordination of the Son. He argued that teaching real primacy and subordination within the eternal Trinity moves outside Christian orthodoxy; Wayne Grudem’s contemporary response confirms that this criticism was directed at his view, while the wider debate also involved Bruce Ware. `CHECKED 12 AUG 2026` ([contemporary debate chronology](https://theaquilareport.com/the-eternal-subordination-of-the-son-controversy-the-debate-so-far/); [Grudem’s contemporary response](https://cbmw.org/2016/06/09/whose-position-on-the-trinity-is-really-new/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12953,20 +12965,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e0e68139795584d535f1",
-    "text": "Goodacre, Mark — Critical scholar (Duke); Farrer hypothesis — Mark was first, Luke used both Mark and Matthew directly, eliminating Q. A serious active challenge to the two-source hypothesis.",
-    "raw_text": "**Goodacre, Mark** — Critical scholar (Duke); Farrer hypothesis — Mark was first, Luke used both Mark and Matthew directly, eliminating Q. A serious active challenge to the two-source hypothesis.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_19cfeab66b5414075b02",
+    "text": "Goodacre, Mark — New Testament scholar at Duke and a leading contemporary defender of the Farrer hypothesis: Mark was first, Matthew used Mark, and Luke used both, so Q is unnecessary to explain the synoptic relationships. “A serious active challenge” was evaluative and has been replaced by the model’s content. CHECKED 12 AUG 2026 ([peer-reviewed discussion of Goodacre’s case](https://www.cambridge.org/core/journals/new-testament-studies/article/on-dispensing-with-q-goodacre-on-the-relation-of-luke-to-matthew/AC49CBE35C69BE06CC41707C82F237FF); [Goodacre paper](https://markgoodacre.org/Goodacre%2C%20Mark%20Q%20Overlaps.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Goodacre, Mark** — New Testament scholar at Duke and a leading contemporary defender of the Farrer hypothesis: Mark was first, Matthew used Mark, and Luke used both, so Q is unnecessary to explain the synoptic relationships. “A serious active challenge” was evaluative and has been replaced by the model’s content. `CHECKED 12 AUG 2026` ([peer-reviewed discussion of Goodacre’s case](https://www.cambridge.org/core/journals/new-testament-studies/article/on-dispensing-with-q-goodacre-on-the-relation-of-luke-to-matthew/AC49CBE35C69BE06CC41707C82F237FF); [Goodacre paper](https://markgoodacre.org/Goodacre%2C%20Mark%20Q%20Overlaps.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -12985,18 +12997,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7d00285371d1dff20b00",
-    "text": "Gottwald, Norman — Critical scholar with sociological approach; applied the eleph proposal to Numbers census figures (1979).",
-    "raw_text": "**Gottwald, Norman** — Critical scholar with sociological approach; applied the *eleph* proposal to Numbers census figures (1979).",
+    "id": "rk_b9eac3f8020c2e6509c6",
+    "text": "⟨UNRESOLVED⟩ Gottwald, Norman K. — Hebrew Bible scholar whose The Tribes of Yahweh (1979) applies a sociological model to early Israel. Later literature attributes to Gottwald a military-unit sense of eleph, but this pass did not verify the exact Numbers-census application in Gottwald’s own pages. UNRESOLVED 12 AUG 2026 — PRIMARY PAGE REQUIRED ([book record](https://books.google.com/books/about/Tribes_of_Yahweh.html?id=xrXUAwAAQBAJ); [secondary attribution](https://www.globaljournalct.com/wp-content/uploads/2003/06/factuality.pdf))",
+    "raw_text": "⟨UNRESOLVED⟩ **Gottwald, Norman K.** — Hebrew Bible scholar whose *The Tribes of Yahweh* (1979) applies a sociological model to early Israel. Later literature attributes to Gottwald a military-unit sense of *eleph*, but this pass did not verify the exact Numbers-census application in Gottwald’s own pages. `UNRESOLVED 12 AUG 2026 — PRIMARY PAGE REQUIRED` ([book record](https://books.google.com/books/about/Tribes_of_Yahweh.html?id=xrXUAwAAQBAJ); [secondary attribution](https://www.globaljournalct.com/wp-content/uploads/2003/06/factuality.pdf))",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -13026,9 +13038,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_db728998aadaecd909a6",
-    "text": "Gray (1903) — Early critical scholar who recognized the Numbers census figures are not historical.",
-    "raw_text": "**Gray** (1903) — Early critical scholar who recognized the Numbers census figures are not historical.",
+    "id": "rk_dddb20e7a4caa8fb5dde",
+    "text": "⟨UNRESOLVED⟩ Gray (1903) — The surname, work, and page are insufficiently specified to identify the intended scholar reliably or verify the claim about the Numbers census figures. UNRESOLVED 12 AUG 2026 — FULL NAME AND PUBLICATION REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Gray** (1903) — The surname, work, and page are insufficiently specified to identify the intended scholar reliably or verify the claim about the Numbers census figures. `UNRESOLVED 12 AUG 2026 — FULL NAME AND PUBLICATION REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -13058,11 +13070,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14fc5a0aef81a9e88067",
-    "text": "Grayling, A.C. — Secular humanist philosopher; The God Argument (2013).",
-    "raw_text": "**Grayling, A.C.** — Secular humanist philosopher; *The God Argument* (2013).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_fd5e73dc7d300bcbf1da",
+    "text": "Grayling, A. C. — Philosopher and humanist; The God Argument: The Case Against Religion and for Humanism (2013) critiques arguments for religious belief and presents a secular-humanist ethical alternative. CHECKED 12 AUG 2026 ([Bloomsbury](https://www.bloomsbury.com/uk/god-argument-9781408837429/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Grayling, A. C.** — Philosopher and humanist; *The God Argument: The Case Against Religion and for Humanism* (2013) critiques arguments for religious belief and presents a secular-humanist ethical alternative. `CHECKED 12 AUG 2026` ([Bloomsbury](https://www.bloomsbury.com/uk/god-argument-9781408837429/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13081,20 +13093,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_24c244d171fbb50fb04d",
-    "text": "Gregory of Nazianzus (c. 329–390) — Church Father; Trinitarian theology.",
-    "raw_text": "**Gregory of Nazianzus** (c. 329–390) — Church Father; Trinitarian theology.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_4dab922becc3b25d134c",
+    "text": "Gregory of Nazianzus (c. 329–390) — Cappadocian theologian whose orations defended the full divinity of the Son and Spirit and helped articulate pro-Nicene Trinitarian theology. CHECKED 12 AUG 2026 ([St Andrews study of Oration 23](https://research-portal.st-andrews.ac.uk/en/publications/gregory-of-nazianzus-trinitarian-argument-in-oration-23/); [St Andrews Encyclopaedia of Theology](https://www.saet.ac.uk/Christianity/TheTheologyoftheCouncilofNicaea))",
+    "raw_text": "⟨DOCUMENTED⟩ **Gregory of Nazianzus** (c. 329–390) — Cappadocian theologian whose orations defended the full divinity of the Son and Spirit and helped articulate pro-Nicene Trinitarian theology. `CHECKED 12 AUG 2026` ([St Andrews study of Oration 23](https://research-portal.st-andrews.ac.uk/en/publications/gregory-of-nazianzus-trinitarian-argument-in-oration-23/); [St Andrews Encyclopaedia of Theology](https://www.saet.ac.uk/Christianity/TheTheologyoftheCouncilofNicaea))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13113,20 +13125,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8eabb5129ba1b57c384a",
-    "text": "Gregory of Nyssa (c. 335–395) — Church Father; Trinitarian theology, spiritual development, resurrection. Theologically closer to Eastern thought than later Augustinian Western Christianity.",
-    "raw_text": "**Gregory of Nyssa** (c. 335–395) — Church Father; Trinitarian theology, spiritual development, resurrection. Theologically closer to Eastern thought than later Augustinian Western Christianity.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_63953e72bae58f3f8b17",
+    "text": "Gregory of Nyssa (c. 335–c. 395) — Cappadocian theologian whose writings address Trinitarian doctrine, spiritual transformation, the soul, and resurrection. The prior comparison—“closer to Eastern thought than later Augustinian Western Christianity”—was anachronistic and too broad to function as a sourced orientation claim, so it has been removed. CHECKED/CORRECTED 12 AUG 2026 ([scholarly chapter on his Trinitarian theology](https://brill.com/previewpdf/book/edcoll/9789004194144/B9789004194144_022.xml); [On the Soul and the Resurrection](https://www.st-philip.net/files/Fitzgerald%20Patristic%20series/Gregory-Nyssa_soul_and_resurrection.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Gregory of Nyssa** (c. 335–c. 395) — Cappadocian theologian whose writings address Trinitarian doctrine, spiritual transformation, the soul, and resurrection. The prior comparison—“closer to Eastern thought than later Augustinian Western Christianity”—was anachronistic and too broad to function as a sourced orientation claim, so it has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([scholarly chapter on his Trinitarian theology](https://brill.com/previewpdf/book/edcoll/9789004194144/B9789004194144_022.xml); [*On the Soul and the Resurrection*](https://www.st-philip.net/files/Fitzgerald%20Patristic%20series/Gregory-Nyssa_soul_and_resurrection.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13145,20 +13157,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7dbb0be573fb4f557053",
-    "text": "Gregory the Great (pope 590–604) — Church Father; major Western pope-theologian. Associated Augustine's fourfold sense with faith, hope, and love in the text.",
-    "raw_text": "**Gregory the Great** (pope 590–604) — Church Father; major Western pope-theologian. Associated Augustine's fourfold sense with faith, hope, and love in the text.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_b8bd1b64c7bb3dec5fcf",
+    "text": "Gregory the Great (pope 590–604) — Pope, pastor, and influential Latin theologian. He read Scripture in literal, allegorical, and moral dimensions, giving special weight to the moral sense. This source check did not support the prior claim that he associated “Augustine’s fourfold sense” with faith, hope, and love; it has been replaced with the documented three-dimensional account. CHECKED/CORRECTED 12 AUG 2026 ([Vatican overview of Gregory’s exegesis](https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080604.html); [Cambridge study](https://www.cambridge.org/core/product/identifier/CBO9781139032797A013/type/book_part))",
+    "raw_text": "⟨DOCUMENTED⟩ **Gregory the Great** (pope 590–604) — Pope, pastor, and influential Latin theologian. He read Scripture in literal, allegorical, and moral dimensions, giving special weight to the moral sense. This source check did not support the prior claim that he associated “Augustine’s fourfold sense” with faith, hope, and love; it has been replaced with the documented three-dimensional account. `CHECKED/CORRECTED 12 AUG 2026` ([Vatican overview of Gregory’s exegesis](https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080604.html); [Cambridge study](https://www.cambridge.org/core/product/identifier/CBO9781139032797A013/type/book_part))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13177,20 +13189,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ad3ea79825dde32a5233",
-    "text": "Griffiths, Roland et al. — Johns Hopkins psychopharmacologists. Psilocybin studies showing religious experiences have known physical correlates.",
-    "raw_text": "**Griffiths, Roland et al.** — Johns Hopkins psychopharmacologists. Psilocybin studies showing religious experiences have known physical correlates.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_e7adeb56be70ade88c0f",
+    "text": "Griffiths, Roland R., and colleagues — Johns Hopkins psychopharmacology researchers whose controlled studies found that psilocybin can occasion mystical-type experiences rated as personally and spiritually significant, with effects persisting at follow-up. Those results establish a pharmacological route to such reported experiences; they do not show that religious experience generally is nothing more than a known physical correlate. CHECKED/CORRECTED 12 AUG 2026 ([peer-reviewed study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3308357/); [Johns Hopkins account of the 2006 study](https://pages.jh.edu/gazette/2006/24jul06/24sacred.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Griffiths, Roland R., and colleagues** — Johns Hopkins psychopharmacology researchers whose controlled studies found that psilocybin can occasion mystical-type experiences rated as personally and spiritually significant, with effects persisting at follow-up. Those results establish a pharmacological route to such reported experiences; they do not show that religious experience generally is nothing more than a known physical correlate. `CHECKED/CORRECTED 12 AUG 2026` ([peer-reviewed study](https://pmc.ncbi.nlm.nih.gov/articles/PMC3308357/); [Johns Hopkins account of the 2006 study](https://pages.jh.edu/gazette/2006/24jul06/24sacred.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13209,20 +13221,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bd24e4de64c45a2f2fac",
-    "text": "Groenewald, Alphonso — Critical scholar; names the Amos 5:21–24 interpretation an \"ongoing either-or dilemma\" in the scholarly guild — not a resolved finding.",
-    "raw_text": "**Groenewald, Alphonso** — Critical scholar; names the Amos 5:21–24 interpretation an \"ongoing either-or dilemma\" in the scholarly guild — not a resolved finding.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9c316a457c42c89444cd",
+    "text": "Groenewald, Alphonso — Hebrew Bible scholar who frames interpretation of Amos 5:21–24 and Isaiah 1:10–20 as an “either–or” dilemma concerning cult and ethics, then approaches it through trauma theory. The prior “ongoing” and “scholarly guild” language was not his precise formulation and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([open-access article](https://hts.org.za/index.php/hts/article/view/5629))",
+    "raw_text": "⟨DOCUMENTED⟩ **Groenewald, Alphonso** — Hebrew Bible scholar who frames interpretation of Amos 5:21–24 and Isaiah 1:10–20 as an “either–or” dilemma concerning cult and ethics, then approaches it through trauma theory. The prior “ongoing” and “scholarly guild” language was not his precise formulation and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([open-access article](https://hts.org.za/index.php/hts/article/view/5629))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13241,20 +13253,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c55b3d4a21273e4fa289",
-    "text": "Grudem, Wayne — Conservative evangelical; co-edited Recovering Biblical Manhood and Womanhood (1991). The foundational complementarian text. Uses a Trinity analogy (Son equal in essence, subordinate in role) to argue for gender hierarchy — the Trinitarian structure of that argument is contested by Giles and Goligher on Nicene orthodoxy grounds.",
-    "raw_text": "**Grudem, Wayne** — Conservative evangelical; co-edited *Recovering Biblical Manhood and Womanhood* (1991). The foundational complementarian text. Uses a Trinity analogy (Son equal in essence, subordinate in role) to argue for gender hierarchy — the Trinitarian structure of that argument is contested by Giles and Goligher on Nicene orthodoxy grounds.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_def1d89b94740f6e66b6",
+    "text": "Grudem, Wayne — Evangelical theologian who coedited Recovering Biblical Manhood and Womanhood (1991) with John Piper. Grudem teaches that Father and Son are equal in deity and personhood but differentiated by authority and submission, and he explicitly parallels the husband’s and wife’s roles to Father and Son. Giles and Goligher contest the Nicene orthodoxy of that eternal-role model. “The foundational complementarian text” was an unsupported ranking and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([book text](https://cdn.desiringgod.org/pdf/books_bbmw/bbmw.pdf); [Grudem’s Trinity teaching](https://www.biblicaltraining.org/library/trinity-by-wayne-grudem); [Giles’s published counterargument](https://www.ivpress.com/the-trinity-subordinationism))",
+    "raw_text": "⟨DOCUMENTED⟩ **Grudem, Wayne** — Evangelical theologian who coedited *Recovering Biblical Manhood and Womanhood* (1991) with John Piper. Grudem teaches that Father and Son are equal in deity and personhood but differentiated by authority and submission, and he explicitly parallels the husband’s and wife’s roles to Father and Son. Giles and Goligher contest the Nicene orthodoxy of that eternal-role model. “The foundational complementarian text” was an unsupported ranking and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([book text](https://cdn.desiringgod.org/pdf/books_bbmw/bbmw.pdf); [Grudem’s Trinity teaching](https://www.biblicaltraining.org/library/trinity-by-wayne-grudem); [Giles’s published counterargument](https://www.ivpress.com/the-trinity-subordinationism))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13273,20 +13285,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4b02013693d8edd879a4",
-    "text": "Habermas, Gary — Evangelical; \"minimal facts\" argument for the resurrection; The Case for the Resurrection of Jesus (2004). Works from a small set of claims he argues the majority of critical scholars grant.",
-    "raw_text": "**Habermas, Gary** — Evangelical; \"minimal facts\" argument for the resurrection; *The Case for the Resurrection of Jesus* (2004). Works from a small set of claims he argues the majority of critical scholars grant.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c7883f8e69916ba7a986",
+    "text": "Habermas, Gary — Christian philosopher and apologist associated with the “minimal facts” approach to Jesus’s resurrection. His method works from claims he selects on grounds of broad scholarly acceptance. The Case for the Resurrection of Jesus (2004) was coauthored with Michael R. Licona, whom the prior entry omitted. This check verifies Habermas’s description of his method, not the representativeness of his literature survey. CHECKED/CORRECTED 12 AUG 2026 ([Habermas’s methodology article](https://www.garyhabermas.com/articles/southeastern_theological_review/minimal-facts-methodology_08-02-2012.htm); [journal issue PDF](https://www.risenjesus.com/wp-content/uploads/STR_3_1_web-1.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Habermas, Gary** — Christian philosopher and apologist associated with the “minimal facts” approach to Jesus’s resurrection. His method works from claims he selects on grounds of broad scholarly acceptance. *The Case for the Resurrection of Jesus* (2004) was **coauthored with Michael R. Licona**, whom the prior entry omitted. This check verifies Habermas’s description of his method, not the representativeness of his literature survey. `CHECKED/CORRECTED 12 AUG 2026` ([Habermas’s methodology article](https://www.garyhabermas.com/articles/southeastern_theological_review/minimal-facts-methodology_08-02-2012.htm); [journal issue PDF](https://www.risenjesus.com/wp-content/uploads/STR_3_1_web-1.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13305,20 +13317,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4df69e63c1f4d0c4146a",
-    "text": "Haidt, Jonathan — Social psychologist; secular; The Righteous Mind (2012). Six universal moral foundations; motivated reasoning as moral intuition dressed in post-hoc justification.",
-    "raw_text": "**Haidt, Jonathan** — Social psychologist; secular; *The Righteous Mind* (2012). Six universal moral foundations; motivated reasoning as moral intuition dressed in post-hoc justification.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_897de3b42f86d8bce8f3",
+    "text": "Haidt, Jonathan — Social psychologist and author of The Righteous Mind (2012). The book presents moral judgment as primarily intuitive, with conscious reasoning often supplying post-hoc justification, and develops a six-foundation version of Moral Foundations Theory. Those are elements of Haidt’s model, not six independently established “universal” foundations; “secular” was irrelevant and unverified. CHECKED/CORRECTED 12 AUG 2026 ([official book overview](https://righteousmind.com/about-the-book/); [author CV](https://www.jonathanhaidt.com/haidt-cv.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Haidt, Jonathan** — Social psychologist and author of *The Righteous Mind* (2012). The book presents moral judgment as primarily intuitive, with conscious reasoning often supplying post-hoc justification, and develops a six-foundation version of Moral Foundations Theory. Those are elements of Haidt’s model, not six independently established “universal” foundations; “secular” was irrelevant and unverified. `CHECKED/CORRECTED 12 AUG 2026` ([official book overview](https://righteousmind.com/about-the-book/); [author CV](https://www.jonathanhaidt.com/haidt-cv.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13337,20 +13349,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0d799458af24107fbd9a",
-    "text": "Hamblin, C.L. — Philosopher; Fallacies (1970). Standard reference on informal fallacy.",
-    "raw_text": "**Hamblin, C.L.** — Philosopher; *Fallacies* (1970). Standard reference on informal fallacy.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_edde3e333e2d90962314",
+    "text": "Hamblin, C. L. — Philosopher and author of Fallacies (1970), a major scholarly reassessment of the history and theory of fallacy study. “Standard reference” was an unmeasured ranking and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([Advanced Reasoning Forum publication history](https://www.advancedreasoningforum.org/publications/fallacies.htm); [Penn State University Press](https://www.psupress.org/books/titles/0-271-01416-4.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hamblin, C. L.** — Philosopher and author of *Fallacies* (1970), a major scholarly reassessment of the history and theory of fallacy study. “Standard reference” was an unmeasured ranking and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Advanced Reasoning Forum publication history](https://www.advancedreasoningforum.org/publications/fallacies.htm); [Penn State University Press](https://www.psupress.org/books/titles/0-271-01416-4.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13369,20 +13381,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_173c6bb119223ef3d6c6",
-    "text": "Harnack, Adolf von — Critical historian; Marcion (1921). Thesis that Marcion's challenge probably accelerated NT canon formation.",
-    "raw_text": "**Harnack, Adolf von** — Critical historian; *Marcion* (1921). Thesis that Marcion's challenge probably accelerated NT canon formation.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_68db1e433ec701af071a",
+    "text": "Harnack, Adolf von — Historian of early Christianity. Harnack argued that Marcion’s canon forced or accelerated the church’s formation of an authoritative New Testament. The primary support located in this pass is The Origin of the New Testament rather than the prior entry’s bare reference to Marcion (1921). CHECKED/CORRECTED 12 AUG 2026 ([Harnack, Origin of the New Testament, ch. 1](https://www.ccel.org/ccel/harnack/origin_nt.iii.i.html); [ch. 2](https://www.ccel.org/ccel/harnack/origin_nt.iii.ii.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Harnack, Adolf von** — Historian of early Christianity. Harnack argued that Marcion’s canon forced or accelerated the church’s formation of an authoritative New Testament. The primary support located in this pass is *The Origin of the New Testament* rather than the prior entry’s bare reference to *Marcion* (1921). `CHECKED/CORRECTED 12 AUG 2026` ([Harnack, *Origin of the New Testament*, ch. 1](https://www.ccel.org/ccel/harnack/origin_nt.iii.i.html); [ch. 2](https://www.ccel.org/ccel/harnack/origin_nt.iii.ii.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13401,20 +13413,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5d455dd9c96b1fb502b7",
-    "text": "Haynes, Stephen R. — Critical historian; Noah's Curse (Oxford, 2002). Documents how the Curse of Ham was deployed to justify American slavery.",
-    "raw_text": "**Haynes, Stephen R.** — Critical historian; *Noah's Curse* (Oxford, 2002). Documents how the Curse of Ham was deployed to justify American slavery.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_4c220a2af9273e502dfa",
+    "text": "Haynes, Stephen R. — Historian of religion and author of Noah’s Curse: The Biblical Justification of American Slavery (2002), which traces the use of Genesis 9 and the Curse of Ham in American proslavery interpretation. CHECKED 12 AUG 2026 ([Oxford University Press](https://academic.oup.com/book/6280))",
+    "raw_text": "⟨DOCUMENTED⟩ **Haynes, Stephen R.** — Historian of religion and author of *Noah’s Curse: The Biblical Justification of American Slavery* (2002), which traces the use of Genesis 9 and the Curse of Ham in American proslavery interpretation. `CHECKED 12 AUG 2026` ([Oxford University Press](https://academic.oup.com/book/6280))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13433,18 +13445,18 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3b99ddc6ee0956913396",
-    "text": "Heinsch, Ryan — Critical scholar. The Galatians 4 parallel with Qumran pesher-style exegesis is closer than Paul's explicit allegoroumena label suggests.",
-    "raw_text": "**Heinsch, Ryan** — Critical scholar. The Galatians 4 parallel with Qumran pesher-style exegesis is closer than Paul's explicit *allegoroumena* label suggests.",
+    "id": "rk_07f2d38ee2ab6804f690",
+    "text": "⟨UNRESOLVED⟩ Heinsch, Ryan — The surname and exact claim about Galatians 4 and Qumran pesher-style exegesis could not be connected to a reliable, identifiable publication in this pass. The claim must not be attributed without a full citation. UNRESOLVED 12 AUG 2026 — FULL PUBLICATION REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Heinsch, Ryan** — The surname and exact claim about Galatians 4 and Qumran pesher-style exegesis could not be connected to a reliable, identifiable publication in this pass. The claim must not be attributed without a full citation. `UNRESOLVED 12 AUG 2026 — FULL PUBLICATION REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -13474,11 +13486,11 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3438688fd6db994abfe6",
-    "text": "Hemer, Colin — Conservative evangelical; The Book of Acts in the Setting of Hellenistic History (1989). Acts is accurate on incidental external detail.",
-    "raw_text": "**Hemer, Colin** — Conservative evangelical; *The Book of Acts in the Setting of Hellenistic History* (1989). Acts is accurate on incidental external detail.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_396535521141f0cf78d3",
+    "text": "Hemer, Colin J. — Author of The Book of Acts in the Setting of Hellenistic History (1989). Hemer marshals literary, epigraphic, papyrological, and archaeological material concerning Acts’ geographical and local-historical detail. The prior blanket “Acts is accurate” wording converted his evidentiary argument into an unqualified verdict and has been narrowed. CHECKED/CORRECTED 12 AUG 2026 ([book record](https://books.google.com/books/about/The_Book_of_Acts_in_the_Setting_of_Helle.html?id=0WoRAQAAIAAJ); [detailed contents](https://library.pbts.edu.ph/bib/11194))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hemer, Colin J.** — Author of *The Book of Acts in the Setting of Hellenistic History* (1989). Hemer marshals literary, epigraphic, papyrological, and archaeological material concerning Acts’ geographical and local-historical detail. The prior blanket “Acts is accurate” wording converted his evidentiary argument into an unqualified verdict and has been narrowed. `CHECKED/CORRECTED 12 AUG 2026` ([book record](https://books.google.com/books/about/The_Book_of_Acts_in_the_Setting_of_Helle.html?id=0WoRAQAAIAAJ); [detailed contents](https://library.pbts.edu.ph/bib/11194))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13497,20 +13509,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_db256ba0082562a56e3b",
-    "text": "Heschel, Abraham Joshua — Jewish theologian; The Prophets (1962). Reads Amos 5 as expressing God's pain at betrayal.",
-    "raw_text": "**Heschel, Abraham Joshua** — Jewish theologian; *The Prophets* (1962). Reads Amos 5 as expressing God's pain at betrayal.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_650799ecb7d728a42e89",
+    "text": "Heschel, Abraham Joshua — Jewish theologian whose The Prophets develops the idea of divine pathos: the prophets portray God as affected by human betrayal, cruelty, and injustice. That framework includes divine sorrow and wrath, but the prior Amos 5-specific wording was too narrow without a page citation. CHECKED/CORRECTED 12 AUG 2026 ([primary text scan](https://merton.bellarmine.edu/files/original/bfa3e45f2bffc3289a0d059796133acdff24d357.pdf); [scholarly study](https://www.jjewishstudies.com/index.php/sdu/article/view/198))",
+    "raw_text": "⟨DOCUMENTED⟩ **Heschel, Abraham Joshua** — Jewish theologian whose *The Prophets* develops the idea of divine pathos: the prophets portray God as affected by human betrayal, cruelty, and injustice. That framework includes divine sorrow and wrath, but the prior Amos 5-specific wording was too narrow without a page citation. `CHECKED/CORRECTED 12 AUG 2026` ([primary text scan](https://merton.bellarmine.edu/files/original/bfa3e45f2bffc3289a0d059796133acdff24d357.pdf); [scholarly study](https://www.jjewishstudies.com/index.php/sdu/article/view/198))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13529,20 +13541,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4344414ec1b4d915f34a",
-    "text": "Heschel, Susannah — Jewish critical scholar. Built the historiographical case for distinguishing anti-Judaism from antisemitism.",
-    "raw_text": "**Heschel, Susannah** — Jewish critical scholar. Built the historiographical case for distinguishing anti-Judaism from antisemitism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_f78c869980b7d412d2d8",
+    "text": "Heschel, Susannah — Jewish-studies scholar who has explicitly analyzed and contested the historiographical distinction between anti-Judaism and antisemitism. “Built the historiographical case” overstated a broad field as one scholar’s achievement and has been replaced with her documented intervention. CHECKED/CORRECTED 12 AUG 2026 ([Heschel, “Historiography of Antisemitism versus Anti-Judaism”](https://journals.sagepub.com/doi/10.1177/0142064X10396142))",
+    "raw_text": "⟨DOCUMENTED⟩ **Heschel, Susannah** — Jewish-studies scholar who has explicitly analyzed and contested the historiographical distinction between anti-Judaism and antisemitism. “Built the historiographical case” overstated a broad field as one scholar’s achievement and has been replaced with her documented intervention. `CHECKED/CORRECTED 12 AUG 2026` ([Heschel, “Historiography of Antisemitism versus Anti-Judaism”](https://journals.sagepub.com/doi/10.1177/0142064X10396142))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13561,20 +13573,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_36c934bf9bed6183324f",
-    "text": "Hick, John — Philosopher; moved from evangelical Christianity to religious pluralism. Religions may be culturally conditioned responses to an ultimate transcendent Reality rather than one religion possessing the entire truth.",
-    "raw_text": "**Hick, John** — Philosopher; moved from evangelical Christianity to religious pluralism. Religions may be culturally conditioned responses to an ultimate transcendent Reality rather than one religion possessing the entire truth.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d4ea7f34d6bcba76854d",
+    "text": "Hick, John — Philosopher of religion and advocate of religious pluralism. Hick describes the major religious traditions as culturally conditioned ways of experiencing and responding to an ultimate transcendent Reality rather than treating one tradition’s concepts as exhaustive. The biographical conversion narrative was removed because it was unnecessary to the claim and not established by the cited primary materials. CHECKED/CORRECTED 12 AUG 2026 ([Hick, “The Epistemological Challenge of Religious Pluralism”](https://www.pdcnet.org/faithphil/content/faithphil_1988_0005_0004_0365_0377); [Hick on religious pluralism](https://www.johnhick.org.uk/article5))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hick, John** — Philosopher of religion and advocate of religious pluralism. Hick describes the major religious traditions as culturally conditioned ways of experiencing and responding to an ultimate transcendent Reality rather than treating one tradition’s concepts as exhaustive. The biographical conversion narrative was removed because it was unnecessary to the claim and not established by the cited primary materials. `CHECKED/CORRECTED 12 AUG 2026` ([Hick, “The Epistemological Challenge of Religious Pluralism”](https://www.pdcnet.org/faithphil/content/faithphil_1988_0005_0004_0365_0377); [Hick on religious pluralism](https://www.johnhick.org.uk/article5))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13593,20 +13605,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e8bb94edb778606a53fa",
-    "text": "Hilary of Poitiers (4th century) — Church Father; bishop. Drew the Genesis 14:14 numerological parallel underlying the 318-bishops legend.",
-    "raw_text": "**Hilary of Poitiers** (4th century) — Church Father; bishop. Drew the Genesis 14:14 numerological parallel underlying the 318-bishops legend.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c431eab35e2f8caad580",
+    "text": "Hilary of Poitiers (c. 315–367) — Bishop and theologian. Around 358–359, Hilary appears to be the first writer to connect the traditional 318 retainers of Abraham in Genesis 14:14—and the Greek numeral-letters ΤΙΗ used in Christian numerology—with the reported 318 bishops of Nicaea. CHECKED/CORRECTED 12 AUG 2026 ([scholarly study, pp. 252–53](https://real-j.mtak.hu/29910/2/eastern_theological_journal_2022_2.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hilary of Poitiers** (c. 315–367) — Bishop and theologian. Around 358–359, Hilary appears to be the first writer to connect the traditional 318 retainers of Abraham in Genesis 14:14—and the Greek numeral-letters ΤΙΗ used in Christian numerology—with the reported 318 bishops of Nicaea. `CHECKED/CORRECTED 12 AUG 2026` ([scholarly study, pp. 252–53](https://real-j.mtak.hu/29910/2/eastern_theological_journal_2022_2.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13625,20 +13637,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b4857b87a121e2e7adb6",
-    "text": "Hillers, Delbert R. — Critical scholar; Micah (Hermeneia). Identified the covenant-lawsuit (rîb) form in Micah.",
-    "raw_text": "**Hillers, Delbert R.** — Critical scholar; *Micah* (Hermeneia). Identified the covenant-lawsuit (*rîb*) form in Micah.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_0f4b5a3fcc61516cbe79",
+    "text": "Hillers, Delbert R. — Hebrew Bible scholar and author of Micah: A Commentary on the Book of the Prophet Micah (Hermeneia). His contents explicitly label Micah 6:1–8 “A Covenant Lawsuit”; the earlier wording was too general about where he identified the form. CHECKED/CORRECTED 12 AUG 2026 ([Princeton Theological Seminary catalog](https://catalog.ptsem.edu/record%3Db1002818~S1))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hillers, Delbert R.** — Hebrew Bible scholar and author of *Micah: A Commentary on the Book of the Prophet Micah* (Hermeneia). His contents explicitly label Micah 6:1–8 “A Covenant Lawsuit”; the earlier wording was too general about where he identified the form. `CHECKED/CORRECTED 12 AUG 2026` ([Princeton Theological Seminary catalog](https://catalog.ptsem.edu/record%3Db1002818~S1))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13657,20 +13669,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45f07ef1b1a4bafa2476",
-    "text": "Hoffmann, Paul — Critical scholar; co-editor of The Critical Edition of Q (2000).",
-    "raw_text": "**Hoffmann, Paul** — Critical scholar; co-editor of *The Critical Edition of Q* (2000).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9917434f8743541ea993",
+    "text": "Hoffmann, Paul — New Testament scholar and one of the three editors, with James M. Robinson and John S. Kloppenborg, of The Critical Edition of Q (2000). CHECKED/CORRECTED 12 AUG 2026 ([edition record](https://static.uni-graz.at/fileadmin/_files/_theol_sites/_neues-testament/FWF-Q/The_Critical_Edition_of_Q.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hoffmann, Paul** — New Testament scholar and one of the three editors, with James M. Robinson and John S. Kloppenborg, of *The Critical Edition of Q* (2000). `CHECKED/CORRECTED 12 AUG 2026` ([edition record](https://static.uni-graz.at/fileadmin/_files/_theol_sites/_neues-testament/FWF-Q/The_Critical_Edition_of_Q.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13689,20 +13701,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_441dfbe14d4a71649f61",
-    "text": "Hoffmeier, James K. — Conservative evangelical Egyptologist; Israel in Egypt (1997). The strongest conservative Egyptological case for the Exodus.",
-    "raw_text": "**Hoffmeier, James K.** — Conservative evangelical Egyptologist; *Israel in Egypt* (1997). The strongest conservative Egyptological case for the Exodus.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_95fe5e9458029a51f51f",
+    "text": "Hoffmeier, James K. — Egyptologist and author of Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition (1997), which argues that Egyptological evidence supports the authenticity of Israel-in-Egypt and Exodus traditions. “The strongest” was an unsupported ranking and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([Oxford University Press](https://academic.oup.com/book/25374); [first-edition bibliographic record](https://obnb.uk/p12589902-israel-in-egypt-the-evidence-for-the-authenticity-of-the-exodus-tradition))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hoffmeier, James K.** — Egyptologist and author of *Israel in Egypt: The Evidence for the Authenticity of the Exodus Tradition* (1997), which argues that Egyptological evidence supports the authenticity of Israel-in-Egypt and Exodus traditions. “The strongest” was an unsupported ranking and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford University Press](https://academic.oup.com/book/25374); [first-edition bibliographic record](https://obnb.uk/p12589902-israel-in-egypt-the-evidence-for-the-authenticity-of-the-exodus-tradition))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13721,20 +13733,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8861ce1fdea8a2465ccf",
-    "text": "Holladay, William — Critical scholar; Jeremiah 2 (Hermeneia). Jeremiah 31 commentary.",
-    "raw_text": "**Holladay, William** — Critical scholar; *Jeremiah 2* (Hermeneia). Jeremiah 31 commentary.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6dc1daaeeed98854ceb3",
+    "text": "Holladay, William L. — Hebrew Bible scholar and author of Jeremiah 2: A Commentary on the Book of the Prophet Jeremiah, Chapters 26–52 (Hermeneia), which includes Jeremiah 31. The prior entry contained no interpretive claim beyond that bibliographic orientation. CHECKED/CORRECTED 12 AUG 2026 ([library catalog](https://catalogo.upsa.es/cgi-bin/koha/opac-detail.pl?biblionumber=1015141&shelfbrowse_itemnumber=376407); [Open Library](https://openlibrary.org/books/OL2062118M))",
+    "raw_text": "⟨DOCUMENTED⟩ **Holladay, William L.** — Hebrew Bible scholar and author of *Jeremiah 2: A Commentary on the Book of the Prophet Jeremiah, Chapters 26–52* (Hermeneia), which includes Jeremiah 31. The prior entry contained no interpretive claim beyond that bibliographic orientation. `CHECKED/CORRECTED 12 AUG 2026` ([library catalog](https://catalogo.upsa.es/cgi-bin/koha/opac-detail.pl?biblionumber=1015141&shelfbrowse_itemnumber=376407); [Open Library](https://openlibrary.org/books/OL2062118M))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13753,20 +13765,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f4a3de3b76105bf5c088",
-    "text": "Hollenback, George — Critical scholar. Validates Walsh's inverted reading of Leviticus 18:22.",
-    "raw_text": "**Hollenback, George** — Critical scholar. Validates Walsh's inverted reading of Leviticus 18:22.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_01a8f2bc505584a45d32",
+    "text": "Hollenback, George M. — In “Who Is Doing What to Whom Revisited,” Hollenback develops and defends Jerome T. Walsh’s reading of Leviticus 18:22 and 20:13, according to which the text addresses the receptive party. “Validates” improperly treated a contested interpretation as settled and has been corrected. CHECKED/CORRECTED 12 AUG 2026 ([article abstract](https://www.researchgate.net/publication/320089424_Who_Is_Doing_What_to_Whom_Revisited_Another_Look_at_Leviticus_1822_and_2013))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hollenback, George M.** — In “Who Is Doing What to Whom Revisited,” Hollenback develops and defends Jerome T. Walsh’s reading of Leviticus 18:22 and 20:13, according to which the text addresses the receptive party. “Validates” improperly treated a contested interpretation as settled and has been corrected. `CHECKED/CORRECTED 12 AUG 2026` ([article abstract](https://www.researchgate.net/publication/320089424_Who_Is_Doing_What_to_Whom_Revisited_Another_Look_at_Leviticus_1822_and_2013))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13785,20 +13797,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e66bf780e84381f32d30",
-    "text": "Holtzmann — 1863 foundational work on Markan priority, before Streeter's 1924 refinement.",
-    "raw_text": "**Holtzmann** — 1863 foundational work on Markan priority, before Streeter's 1924 refinement.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_2f13c8429bff7d51bcc2",
+    "text": "Holtzmann, Heinrich Julius — New Testament scholar whose Die synoptischen Evangelien (1863) gave influential form to Markan priority and a two-source account of the Synoptic Gospels. The surname-only entry has been expanded; the comparison to Streeter was unnecessary. CHECKED/CORRECTED 12 AUG 2026 ([bibliographic record](https://ci.nii.ac.jp/ncid/BA68719582); [scholarly history of the Synoptic problem](https://jgrchj.net/volume12/JGRChJ12-4_Porter.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Holtzmann, Heinrich Julius** — New Testament scholar whose *Die synoptischen Evangelien* (1863) gave influential form to Markan priority and a two-source account of the Synoptic Gospels. The surname-only entry has been expanded; the comparison to Streeter was unnecessary. `CHECKED/CORRECTED 12 AUG 2026` ([bibliographic record](https://ci.nii.ac.jp/ncid/BA68719582); [scholarly history of the Synoptic problem](https://jgrchj.net/volume12/JGRChJ12-4_Porter.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13817,20 +13829,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8101bb9fc53825d81803",
-    "text": "Honigmann, Ernest — 20th-century prosopographical study establishing 194 documented attendees at Nicaea, against the legendary 318.",
-    "raw_text": "**Honigmann, Ernest** — 20th-century prosopographical study establishing 194 documented attendees at Nicaea, against the legendary 318.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_1744e579b161d4784860",
+    "text": "Honigmann, Ernest — Historian whose prosopographical work reconstructed a shorter core list of roughly 194 Nicene participants from divergent lists. That is not the same as proving that exactly 194 bishops attended; the prior wording overstated a reconstructed list as a documented total headcount. CHECKED/CORRECTED 12 AUG 2026 ([scholarly discussion of Honigmann’s reconstruction](https://era.ed.ac.uk/server/api/core/bitstreams/a864a646-e247-431f-8685-d7a424653bfd/content))",
+    "raw_text": "⟨DOCUMENTED⟩ **Honigmann, Ernest** — Historian whose prosopographical work reconstructed a shorter core list of roughly 194 Nicene participants from divergent lists. That is not the same as proving that exactly 194 bishops attended; the prior wording overstated a reconstructed list as a documented total headcount. `CHECKED/CORRECTED 12 AUG 2026` ([scholarly discussion of Honigmann’s reconstruction](https://era.ed.ac.uk/server/api/core/bitstreams/a864a646-e247-431f-8685-d7a424653bfd/content))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13849,20 +13861,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_21449d8828371809ec28",
-    "text": "Hood, Ralph — Psychologist of religion; The Psychology of Religion (2009). Research on religious experience.",
-    "raw_text": "**Hood, Ralph** — Psychologist of religion; *The Psychology of Religion* (2009). Research on religious experience.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_38d128d11904e168b6bb",
+    "text": "Hood, Ralph W., Jr. — Psychologist of religion and lead author, with Peter C. Hill and Bernard Spilka, of the fourth edition of The Psychology of Religion: An Empirical Approach (2009). The omitted coauthors have been restored; the vague “research on religious experience” description has been replaced by the verifiable bibliographic role. CHECKED/CORRECTED 12 AUG 2026 ([bibliographic record](https://cir.nii.ac.jp/crid/1970304959875964563); [publisher author page](https://www.guilford.com/books/The-Psychology-of-Religion/Hood-Hill-Spilka/9781462535989/authors))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hood, Ralph W., Jr.** — Psychologist of religion and lead author, with Peter C. Hill and Bernard Spilka, of the fourth edition of *The Psychology of Religion: An Empirical Approach* (2009). The omitted coauthors have been restored; the vague “research on religious experience” description has been replaced by the verifiable bibliographic role. `CHECKED/CORRECTED 12 AUG 2026` ([bibliographic record](https://cir.nii.ac.jp/crid/1970304959875964563); [publisher author page](https://www.guilford.com/books/The-Psychology-of-Religion/Hood-Hill-Spilka/9781462535989/authors))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13881,20 +13893,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2589e1b750228563799c",
-    "text": "Hoover, R.W. — Philologist; \"The Harpagmos Enigma\" (Harvard Theological Review, 1971). Argues harpagmos means using something already possessed to one's advantage — underpins NRSVue's \"exploited\" rendering at Philippians 2:6.",
-    "raw_text": "**Hoover, R.W.** — Philologist; \"The Harpagmos Enigma\" (*Harvard Theological Review*, 1971). Argues *harpagmos* means using something already possessed to one's advantage — underpins NRSVue's \"exploited\" rendering at Philippians 2:6.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_e029ce0a9f81493c9a95",
+    "text": "Hoover, Roy W. — Author of “The Harpagmos Enigma: A Philological Solution” (Harvard Theological Review 64 [1971]: 95–119). Hoover argued that the Philippians 2:6 construction treats equality with God as something available to be used for advantage, an influential idiomatic reading that accords with “something to be exploited.” This pass found no evidence for the prior claim that Hoover’s article specifically “underpins” the NRSVue editorial decision. CHECKED/CORRECTED 12 AUG 2026 ([journal issue contents](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E556CEF4813DF294AE161FB2B59DE61/S0017816000017983a.pdf/htr_volume_64_issue_1_cover_and_front_matter.pdf); [later Cambridge discussion](https://www.cambridge.org/core/product/456D2473DF43A154E89D2793FBCC7CBC/core-reader))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hoover, Roy W.** — Author of “The Harpagmos Enigma: A Philological Solution” (*Harvard Theological Review* 64 [1971]: 95–119). Hoover argued that the Philippians 2:6 construction treats equality with God as something available to be used for advantage, an influential idiomatic reading that accords with “something to be exploited.” This pass found no evidence for the prior claim that Hoover’s article specifically “underpins” the NRSVue editorial decision. `CHECKED/CORRECTED 12 AUG 2026` ([journal issue contents](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E556CEF4813DF294AE161FB2B59DE61/S0017816000017983a.pdf/htr_volume_64_issue_1_cover_and_front_matter.pdf); [later Cambridge discussion](https://www.cambridge.org/core/product/456D2473DF43A154E89D2793FBCC7CBC/core-reader))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13913,20 +13925,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f6c0ae82cc824591fdf2",
-    "text": "Howard-Brook, Wesley — Liberation theology scholar. Reads John as calling its audience back to the covenant, not away from Judaism.",
-    "raw_text": "**Howard-Brook, Wesley** — Liberation theology scholar. Reads John as calling its audience back to the covenant, not away from Judaism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_942cf93bf99f72893d02",
+    "text": "Howard-Brook, Wes — Liberation-oriented biblical interpreter and author of Becoming Children of God: John’s Gospel and Radical Discipleship. His commentary reads John as a narrative invitation to radical discipleship within a Spirit-filled community and attends to its Jewish, social, and political setting. The stronger claim that he reads John as calling its first audience “back to the covenant, not away from Judaism” was not established by the accessible description and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([publisher description](https://wipfandstock.com/9781592444014/becoming-children-of-god/); [book record](https://books.google.com/books/about/Becoming_Children_of_God.html?id=v9nYAAAAMAAJ))",
+    "raw_text": "⟨DOCUMENTED⟩ **Howard-Brook, Wes** — Liberation-oriented biblical interpreter and author of *Becoming Children of God: John’s Gospel and Radical Discipleship*. His commentary reads John as a narrative invitation to radical discipleship within a Spirit-filled community and attends to its Jewish, social, and political setting. The stronger claim that he reads John as calling its first audience “back to the covenant, not away from Judaism” was not established by the accessible description and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([publisher description](https://wipfandstock.com/9781592444014/becoming-children-of-god/); [book record](https://books.google.com/books/about/Becoming_Children_of_God.html?id=v9nYAAAAMAAJ))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13945,20 +13957,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40cac77b901ed501ea49",
-    "text": "Howard-Snyder, Daniel — Philosopher; skeptical theism tradition.",
-    "raw_text": "**Howard-Snyder, Daniel** — Philosopher; skeptical theism tradition.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_0f3f99480d2571c528dd",
+    "text": "Howard-Snyder, Daniel — Philosopher of religion whose “Epistemic Humility, Arguments from Evil, and Moral Skepticism” examines whether human inability to identify a God-justifying reason for evil supports the conclusion that no such reason exists, and addresses the moral-skepticism objection to that response. “Skeptical theism tradition” was too vague to identify his actual contribution. CHECKED/CORRECTED 12 AUG 2026 ([Oxford Academic](https://academic.oup.com/book/49723/chapter/422037757/chapter-pdf/52383422/isbn-9780199575442-book-part-2.pdf); [publication record](https://philpapers.org/versions/HOWEHA))",
+    "raw_text": "⟨DOCUMENTED⟩ **Howard-Snyder, Daniel** — Philosopher of religion whose “Epistemic Humility, Arguments from Evil, and Moral Skepticism” examines whether human inability to identify a God-justifying reason for evil supports the conclusion that no such reason exists, and addresses the moral-skepticism objection to that response. “Skeptical theism tradition” was too vague to identify his actual contribution. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford Academic](https://academic.oup.com/book/49723/chapter/422037757/chapter-pdf/52383422/isbn-9780199575442-book-part-2.pdf); [publication record](https://philpapers.org/versions/HOWEHA))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -13977,20 +13989,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a9441dd46e7b5c580c55",
-    "text": "Humphreys, Colin — Physicist; eleph-as-military-unit proposal (1998/2000). One of the solutions to the implausibly large census numbers in Numbers.",
-    "raw_text": "**Humphreys, Colin** — Physicist; *eleph*-as-military-unit proposal (1998/2000). One of the solutions to the implausibly large census numbers in Numbers.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_be1a9f3985dfbfea4c06",
+    "text": "Humphreys, Colin J. — Physicist and author of “The Number of People in the Exodus from Egypt” (Vetus Testamentum 48 [1998]: 196–213). He interprets the Hebrew ʾeleph in the Numbers census lists as a troop or leader-related term and mathematically reconstructs a much smaller population. This is a published proposal, not an established resolution of the census problem; the vague ranking “one of the solutions” has been removed. CHECKED/CORRECTED 12 AUG 2026 ([journal metadata and DOI](https://ixtheo.de/Record/1561906964); [DOI](https://doi.org/10.1163/1568533982721550))",
+    "raw_text": "⟨DOCUMENTED⟩ **Humphreys, Colin J.** — Physicist and author of “The Number of People in the Exodus from Egypt” (*Vetus Testamentum* 48 [1998]: 196–213). He interprets the Hebrew *ʾeleph* in the Numbers census lists as a troop or leader-related term and mathematically reconstructs a much smaller population. This is a published proposal, not an established resolution of the census problem; the vague ranking “one of the solutions” has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([journal metadata and DOI](https://ixtheo.de/Record/1561906964); [DOI](https://doi.org/10.1163/1568533982721550))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14009,20 +14021,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_468e06bb293c5b83ca5e",
-    "text": "Hurtado, Larry — Critical scholar (Edinburgh); One God, One Lord (1988), Lord Jesus Christ (2003). Argues high Christology appears in the earliest devotional practice, not as a late Hellenistic import. Credited with shifting the field on this question.",
-    "raw_text": "**Hurtado, Larry** — Critical scholar (Edinburgh); *One God, One Lord* (1988), *Lord Jesus Christ* (2003). Argues high Christology appears in the earliest devotional practice, not as a late Hellenistic import. Credited with shifting the field on this question.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_44d68d8f240645e90ef9",
+    "text": "Hurtado, Larry W. — New Testament and early-Christianity scholar and author of One God, One Lord (1988) and Lord Jesus Christ (2003). Hurtado argues that devotion to Jesus emerged very early within a Jewish monotheistic setting rather than only through a late Hellenistic development. The prior field-wide credit has been narrowed to the publisher-supported claim that his work made this early-devotion thesis far less novel in scholarship. CHECKED/CORRECTED 12 AUG 2026 ([Bloomsbury](https://www.bloomsbury.com/uk/one-god-one-lord-9780567657725/); [Eerdmans](https://www.eerdmans.com/9780802831675/lord-jesus-christ/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Hurtado, Larry W.** — New Testament and early-Christianity scholar and author of *One God, One Lord* (1988) and *Lord Jesus Christ* (2003). Hurtado argues that devotion to Jesus emerged very early within a Jewish monotheistic setting rather than only through a late Hellenistic development. The prior field-wide credit has been narrowed to the publisher-supported claim that his work made this early-devotion thesis far less novel in scholarship. `CHECKED/CORRECTED 12 AUG 2026` ([Bloomsbury](https://www.bloomsbury.com/uk/one-god-one-lord-9780567657725/); [Eerdmans](https://www.eerdmans.com/9780802831675/lord-jesus-christ/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14041,20 +14053,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_65455664ed51b6515c37",
-    "text": "Ibn Ezra, Abraham — Medieval Jewish commentator. Near-term reading of Isaiah 7:14 — fulfillment in Hezekiah's reign, not a distant messianic figure.",
-    "raw_text": "**Ibn Ezra, Abraham** — Medieval Jewish commentator. Near-term reading of Isaiah 7:14 — fulfillment in Hezekiah's reign, not a distant messianic figure.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_34dfea0e93a53cc449d7",
+    "text": "Ibn Ezra, Abraham (1089–1164) — Medieval Jewish biblical commentator. On Isaiah 7:14 he rejects a distant reference to Jesus because the sign is addressed to Ahaz and connects its time horizon to the fall of Syria and Ephraim by Hezekiah’s reign. The revision avoids implying that Ibn Ezra necessarily identified the child himself as Hezekiah. CHECKED/CORRECTED 12 AUG 2026 ([commentary text](https://hebrewbible.app/en/resources/commentary/Isaiah.7.14); [Oxford Handbook overview](https://academic.oup.com/edited-volume/38588/chapter-abstract/334632296))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ibn Ezra, Abraham** (1089–1164) — Medieval Jewish biblical commentator. On Isaiah 7:14 he rejects a distant reference to Jesus because the sign is addressed to Ahaz and connects its time horizon to the fall of Syria and Ephraim by Hezekiah’s reign. The revision avoids implying that Ibn Ezra necessarily identified the child himself as Hezekiah. `CHECKED/CORRECTED 12 AUG 2026` ([commentary text](https://hebrewbible.app/en/resources/commentary/Isaiah.7.14); [Oxford Handbook overview](https://academic.oup.com/edited-volume/38588/chapter-abstract/334632296))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14073,20 +14085,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45ffd8d467719f335384",
-    "text": "Ibn Hisham — Preserved Ibn Ishaq's biography of Muhammad in a later edition; the only surviving form.",
-    "raw_text": "**Ibn Hisham** — Preserved Ibn Ishaq's biography of Muhammad in a later edition; the only surviving form.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_8227739ec095d33a80ae",
+    "text": "Ibn Hisham, ʿAbd al-Malik (d. 833/834) — Editor of the best-known surviving recension of Ibn Ishaq’s biography of Muhammad, transmitted through Ziyad al-Bakkaʾi. The prior claim that this is the “only surviving form” was false: substantial Ibn Ishaq material also survives through al-Tabari’s use of another recension, and fragments and citations permit comparison. CHECKED/CORRECTED 12 AUG 2026 ([Hoyland, scholarly overview](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1478-0542.2007.00395.x); [Cambridge study of the recensions](https://www.cambridge.org/core/product/identifier/S0020743800063790/type/journal_article); [Persée review](https://www.persee.fr/doc/rhpr_0035-2403_2004_num_84_4_1103_t6_0488_0000_3))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ibn Hisham, ʿAbd al-Malik** (d. 833/834) — Editor of the best-known surviving recension of Ibn Ishaq’s biography of Muhammad, transmitted through Ziyad al-Bakkaʾi. The prior claim that this is the “only surviving form” was false: substantial Ibn Ishaq material also survives through al-Tabari’s use of another recension, and fragments and citations permit comparison. `CHECKED/CORRECTED 12 AUG 2026` ([Hoyland, scholarly overview](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1478-0542.2007.00395.x); [Cambridge study of the recensions](https://www.cambridge.org/core/product/identifier/S0020743800063790/type/journal_article); [Persée review](https://www.persee.fr/doc/rhpr_0035-2403_2004_num_84_4_1103_t6_0488_0000_3))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14105,20 +14117,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ff31c0fd03215b4ebee4",
-    "text": "Ibn Ishaq — Earliest biographer of Muhammad. His work survives only through Ibn Hisham's later edition — a transmission gap comparable to or worse than the Gospels'.",
-    "raw_text": "**Ibn Ishaq** — Earliest biographer of Muhammad. His work survives only through Ibn Hisham's later edition — a transmission gap comparable to or worse than the Gospels'.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_377f7295796ab7a9f1a7",
+    "text": "Ibn Ishaq, Muhammad (c. 704–767/768) — Compiler of the earliest comprehensive biography of Muhammad known through later transmission. His original work is not extant as an authorial manuscript, but its material survives principally in Ibn Hisham’s recension and in al-Tabari’s excerpts from another recension. The comparison declaring this gap “comparable to or worse than the Gospels” lacked a defined metric and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([Hoyland, scholarly overview](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1478-0542.2007.00395.x); [Cambridge comparison of transmissions](https://www.cambridge.org/core/product/identifier/S0020743800063790/type/journal_article); [Gorgias Press source-critical study](https://www.gorgiaspress.com/reconstruction-of-a-source-of-ibn-ishaqs-life-of-the-prophet-and-early-quran-exegesis))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ibn Ishaq, Muhammad** (c. 704–767/768) — Compiler of the earliest comprehensive biography of Muhammad known through later transmission. His original work is not extant as an authorial manuscript, but its material survives principally in Ibn Hisham’s recension and in al-Tabari’s excerpts from another recension. The comparison declaring this gap “comparable to or worse than the Gospels” lacked a defined metric and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Hoyland, scholarly overview](https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/j.1478-0542.2007.00395.x); [Cambridge comparison of transmissions](https://www.cambridge.org/core/product/identifier/S0020743800063790/type/journal_article); [Gorgias Press source-critical study](https://www.gorgiaspress.com/reconstruction-of-a-source-of-ibn-ishaqs-life-of-the-prophet-and-early-quran-exegesis))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14137,20 +14149,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c8fd61c9ab0a7a65e9af",
-    "text": "Ibn Khaldun (14th century) — Muslim historian; Muqaddimah. Dissented from the racialized reading of the Curse of Ham, noting that the Torah says nothing about blackness.",
-    "raw_text": "**Ibn Khaldun** (14th century) — Muslim historian; *Muqaddimah*. Dissented from the racialized reading of the Curse of Ham, noting that the Torah says nothing about blackness.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_4fc091a20f870ebbd882",
+    "text": "Ibn Khaldun (1332–1406) — Historian and author of the Muqaddimah. He rejects the genealogists’ claim that Noah’s curse made Ham’s descendants black, explicitly noting that the Torah’s account does not connect the curse to blackness and instead offering an environmental explanation for skin color. This does not make every statement about peoples in the Muqaddimah free of inherited prejudice. CHECKED 12 AUG 2026 ([Rosenthal translation text](https://studylib.net/doc/28102133/ibn-khaldun-al-muqaddimah); [Princeton/De Gruyter edition record](https://www.degruyterbrill.com/document/doi/10.1515/9780691281926/html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ibn Khaldun** (1332–1406) — Historian and author of the *Muqaddimah*. He rejects the genealogists’ claim that Noah’s curse made Ham’s descendants black, explicitly noting that the Torah’s account does not connect the curse to blackness and instead offering an environmental explanation for skin color. This does not make every statement about peoples in the *Muqaddimah* free of inherited prejudice. `CHECKED 12 AUG 2026` ([Rosenthal translation text](https://studylib.net/doc/28102133/ibn-khaldun-al-muqaddimah); [Princeton/De Gruyter edition record](https://www.degruyterbrill.com/document/doi/10.1515/9780691281926/html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14169,20 +14181,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c51367d0602cecae3977",
-    "text": "Ignatius of Antioch (early 2nd century) — Church Father; letters on bishops, Eucharist, and martyrdom.",
-    "raw_text": "**Ignatius of Antioch** (early 2nd century) — Church Father; letters on bishops, Eucharist, and martyrdom.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3b538a44e0810dc6e29a",
+    "text": "Ignatius of Antioch (early 2nd century) — Bishop associated with seven letters in the reconstructed middle recension. The letters address episcopal authority, Eucharistic unity, and Ignatius’s anticipated martyrdom while being taken to Rome. The manuscript tradition contains shorter, middle, and expanded forms, so the seven-letter corpus should not be presented without that textual qualification. CHECKED/CORRECTED 12 AUG 2026 ([Oxford review of the seven-letter corpus](https://academic.oup.com/jts/article-abstract/57/1/299/1646370); [recent manuscript study](https://www.mohrsiebeck.com/en/article/layered-authorship-in-ignatius-of-antiochs-epistolary-corpora-101628ec-2025-0004/); [middle-recension texts](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.i.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Ignatius of Antioch** (early 2nd century) — Bishop associated with seven letters in the reconstructed middle recension. The letters address episcopal authority, Eucharistic unity, and Ignatius’s anticipated martyrdom while being taken to Rome. The manuscript tradition contains shorter, middle, and expanded forms, so the seven-letter corpus should not be presented without that textual qualification. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford review of the seven-letter corpus](https://academic.oup.com/jts/article-abstract/57/1/299/1646370); [recent manuscript study](https://www.mohrsiebeck.com/en/article/layered-authorship-in-ignatius-of-antiochs-epistolary-corpora-101628ec-2025-0004/); [middle-recension texts](https://ccel.org/ccel/ignatius_antioch/epistles_of_ignatius/anf01.v.i.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14201,20 +14213,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1945662bc4e4dad52689",
-    "text": "Irenaeus of Lyons (c. 130–202) — Church Father; Against Heresies. Anti-Gnostic. Argues for exactly four Gospels because there are four winds and four corners of the earth — cited as an example of pre-critical canon-formation reasoning.",
-    "raw_text": "**Irenaeus of Lyons** (c. 130–202) — Church Father; *Against Heresies*. Anti-Gnostic. Argues for exactly four Gospels because there are four winds and four corners of the earth — cited as an example of pre-critical canon-formation reasoning.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3526fb45f384409e9ccd",
+    "text": "Irenaeus of Lyons (c. 130–c. 202) — Bishop and anti-heresiological author of Against Heresies. In 3.11.8 he argues that there can be exactly four Gospels by analogy with the world’s four zones and four principal winds, alongside further fourfold symbolism. Calling this “pre-critical canon-formation reasoning” is a modern evaluative label; the revised entry states the primary argument directly. CHECKED/CORRECTED 12 AUG 2026 ([Against Heresies 3.11](https://www.newadvent.org/fathers/0103311.htm))",
+    "raw_text": "⟨DOCUMENTED⟩ **Irenaeus of Lyons** (c. 130–c. 202) — Bishop and anti-heresiological author of *Against Heresies*. In 3.11.8 he argues that there can be exactly four Gospels by analogy with the world’s four zones and four principal winds, alongside further fourfold symbolism. Calling this “pre-critical canon-formation reasoning” is a modern evaluative label; the revised entry states the primary argument directly. `CHECKED/CORRECTED 12 AUG 2026` ([*Against Heresies* 3.11](https://www.newadvent.org/fathers/0103311.htm))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14233,20 +14245,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_150bba664c68b7af1210",
-    "text": "Jacobson, Rolf A. — Editor of Soundings in the Theology of Psalms (2011).",
-    "raw_text": "**Jacobson, Rolf A.** — Editor of *Soundings in the Theology of Psalms* (2011).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_cccdcae4f5d40d95cdf2",
+    "text": "Jacobson, Rolf A. — Hebrew Bible scholar and editor of Soundings in the Theology of Psalms: Perspectives and Methods in Contemporary Scholarship (published in 2010, although some catalogs list 2011). The prior year has been qualified rather than treated as a substantive claim. CHECKED/CORRECTED 12 AUG 2026 ([publisher chapter PDF](https://ms.fortresspress.com/downloads/0800697391Chapter1.pdf?redirected=true); [bibliographic record](https://www.orellfuessli.ch/shop/home/artikeldetails/A1010799431))",
+    "raw_text": "⟨DOCUMENTED⟩ **Jacobson, Rolf A.** — Hebrew Bible scholar and editor of *Soundings in the Theology of Psalms: Perspectives and Methods in Contemporary Scholarship* (published in 2010, although some catalogs list 2011). The prior year has been qualified rather than treated as a substantive claim. `CHECKED/CORRECTED 12 AUG 2026` ([publisher chapter PDF](https://ms.fortresspress.com/downloads/0800697391Chapter1.pdf?redirected=true); [bibliographic record](https://www.orellfuessli.ch/shop/home/artikeldetails/A1010799431))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14265,20 +14277,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f6fd21b96f5310d2648c",
-    "text": "Jeon, Jaeyoung — Critical scholar. Argues major parts of the wilderness narrative were composed in the Persian period by competing scribal circles.",
-    "raw_text": "**Jeon, Jaeyoung** — Critical scholar. Argues major parts of the wilderness narrative were composed in the Persian period by competing scribal circles.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_fcb0e95a9cff17bd0392",
+    "text": "Jeon, Jaeyoung — Hebrew Bible scholar whose work traces the Pentateuchal wilderness story’s development and argues that major portions were reinterpreted, reformulated, or composed in the Persian period through diverse scribal circles in Yehud and the diaspora. The entry states Jeon’s compositional model rather than presenting it as consensus. CHECKED/CORRECTED 12 AUG 2026 ([author’s publication description](https://college-de-france.academia.edu/JaeyoungJeon))",
+    "raw_text": "⟨DOCUMENTED⟩ **Jeon, Jaeyoung** — Hebrew Bible scholar whose work traces the Pentateuchal wilderness story’s development and argues that major portions were reinterpreted, reformulated, or composed in the Persian period through diverse scribal circles in Yehud and the diaspora. The entry states Jeon’s compositional model rather than presenting it as consensus. `CHECKED/CORRECTED 12 AUG 2026` ([author’s publication description](https://college-de-france.academia.edu/JaeyoungJeon))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14297,20 +14309,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2fd52b5293e72a12f39e",
-    "text": "Jerome (c. 347–420) — Church Father; produced the Latin Vulgate. Collaborated with Paula and Marcella. Strong ascetic advocate; the view that celibacy is clearly superior to marriage is largely his.",
-    "raw_text": "**Jerome** (c. 347–420) — Church Father; produced the Latin Vulgate. Collaborated with Paula and Marcella. Strong ascetic advocate; the view that celibacy is clearly superior to marriage is largely his.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9f6a799d67ecd33cecb4",
+    "text": "Jerome (c. 347–420) — Latin Christian scholar central to production of the Vulgate. His scriptural and ascetic work developed in sustained relationships with aristocratic women including Marcella and Paula, who were patrons, pupils, correspondents, and learned interlocutors—not merely unnamed assistants. Jerome vigorously defended an ascetic hierarchy that privileged virginity over marriage, but that position was part of a broader fourth-century controversy and was not “largely his” alone. CHECKED/CORRECTED 12 AUG 2026 ([Oxford study of Jerome’s ascetic community](https://academic.oup.com/book/9092/chapter-abstract/155660283); [Oxford study of the Jovinian controversy](https://academic.oup.com/book/6378); [Columbia’s Marcella dossier](https://epistolae.ctl.columbia.edu/woman/35.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Jerome** (c. 347–420) — Latin Christian scholar central to production of the Vulgate. His scriptural and ascetic work developed in sustained relationships with aristocratic women including Marcella and Paula, who were patrons, pupils, correspondents, and learned interlocutors—not merely unnamed assistants. Jerome vigorously defended an ascetic hierarchy that privileged virginity over marriage, but that position was part of a broader fourth-century controversy and was not “largely his” alone. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford study of Jerome’s ascetic community](https://academic.oup.com/book/9092/chapter-abstract/155660283); [Oxford study of the Jovinian controversy](https://academic.oup.com/book/6378); [Columbia’s Marcella dossier](https://epistolae.ctl.columbia.edu/woman/35.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14329,20 +14341,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7279f8c79fd2d4781e3b",
-    "text": "Jewett, Robert — Critical scholar; Romans (Hermeneia, 2007). Reads Romans 13:1–7 as a specific, occasional argument addressed to the situation of corrupt tax-farming around 57–58 CE, not timeless political doctrine.",
-    "raw_text": "**Jewett, Robert** — Critical scholar; *Romans* (Hermeneia, 2007). Reads Romans 13:1–7 as a specific, occasional argument addressed to the situation of corrupt tax-farming around 57–58 CE, not timeless political doctrine.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_9540c873a7b483e0dca2",
+    "text": "Jewett, Robert — New Testament scholar and author of Romans: A Commentary (Hermeneia, 2007), assisted by Roy D. Kotansky. Jewett interprets Romans as a situational missionary letter shaped by imperial Rome and treats 13:1–7 in relation to Roman administrative and fiscal concerns. The retrieved sources did not support the original precision about “corrupt tax-farming around 57–58 CE” or the categorical “not timeless political doctrine,” so both have been removed. CHECKED/CORRECTED 12 AUG 2026 ([book record and description](https://books.google.com/books/about/Romans.html?id=-uHYAAAAMAAJ); [Cambridge discussion of Jewett’s reading](https://www.cambridge.org/core/journals/new-testament-studies/article/abs/good-the-bad-and-the-state-rom-1317-and-the-dynamics-of-love/AFD19D09A07E0E71B9F3B3066587B39C))",
+    "raw_text": "⟨DOCUMENTED⟩ **Jewett, Robert** — New Testament scholar and author of *Romans: A Commentary* (Hermeneia, 2007), assisted by Roy D. Kotansky. Jewett interprets Romans as a situational missionary letter shaped by imperial Rome and treats 13:1–7 in relation to Roman administrative and fiscal concerns. The retrieved sources did not support the original precision about “corrupt tax-farming around 57–58 CE” or the categorical “not timeless political doctrine,” so both have been removed. `CHECKED/CORRECTED 12 AUG 2026` ([book record and description](https://books.google.com/books/about/Romans.html?id=-uHYAAAAMAAJ); [Cambridge discussion of Jewett’s reading](https://www.cambridge.org/core/journals/new-testament-studies/article/abs/good-the-bad-and-the-state-rom-1317-and-the-dynamics-of-love/AFD19D09A07E0E71B9F3B3066587B39C))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14361,20 +14373,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_adba48e014aa5867982a",
-    "text": "John of Damascus (c. 675–749) — Theologian; defended icons against Byzantine Iconoclasm.",
-    "raw_text": "**John of Damascus** (c. 675–749) — Theologian; defended icons against Byzantine Iconoclasm.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_a24762077d7c9e831ac2",
+    "text": "John Chrysostom — Duplicate name-order entry; see Chrysostom, John above. No additional person or claim is intended. CHECKED/CORRECTED 12 AUG 2026",
+    "raw_text": "⟨DOCUMENTED⟩ **John Chrysostom** — Duplicate name-order entry; see **Chrysostom, John** above. No additional person or claim is intended. `CHECKED/CORRECTED 12 AUG 2026`",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14393,20 +14405,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2129b95e55ea30f6e4e4",
-    "text": "Johnson, Luke Timothy — Critical Catholic scholar; \"The New Testament's Anti-Jewish Slander and the Conventions of Ancient Polemic\" (JBL, 1989). NT anti-Jewish invective fits conventions of period-typical sectarian polemic.",
-    "raw_text": "**Johnson, Luke Timothy** — Critical Catholic scholar; \"The New Testament's Anti-Jewish Slander and the Conventions of Ancient Polemic\" (*JBL*, 1989). NT anti-Jewish invective fits conventions of period-typical sectarian polemic.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6c5e4d538bab22b8b013",
+    "text": "John of Damascus (c. 675–749) — Theologian whose three apologetic treatises defend the veneration of sacred images during the first period of Byzantine Iconoclasm, drawing especially on the incarnation, Scripture, and patristic tradition. CHECKED 12 AUG 2026 ([primary-source excerpts](https://sourcebooks.web.fordham.edu/source/johndam-icons.asp); [scholarly article](https://czasopisma.uksw.edu.pl/index.php/ct/article/view/2309))",
+    "raw_text": "⟨DOCUMENTED⟩ **John of Damascus** (c. 675–749) — Theologian whose three apologetic treatises defend the veneration of sacred images during the first period of Byzantine Iconoclasm, drawing especially on the incarnation, Scripture, and patristic tradition. `CHECKED 12 AUG 2026` ([primary-source excerpts](https://sourcebooks.web.fordham.edu/source/johndam-icons.asp); [scholarly article](https://czasopisma.uksw.edu.pl/index.php/ct/article/view/2309))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14425,20 +14437,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_88f6bd299e6fe1da01c5",
-    "text": "Jones, David W. — Evangelical complementarian; God, Marriage, and Family (Crossway, 2004).",
-    "raw_text": "**Jones, David W.** — Evangelical complementarian; *God, Marriage, and Family* (Crossway, 2004).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_5a072ad45d59059be964",
+    "text": "Johnson, Luke Timothy — New Testament scholar and author of “The New Testament’s Anti-Jewish Slander and the Conventions of Ancient Polemic” (Journal of Biblical Literature 108 [1989]: 419–441). Johnson contextualizes New Testament anti-Jewish invective within ancient polemical conventions; contextualization does not erase the rhetoric’s content or reception. “Critical Catholic” was an unnecessary lens label and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([JSTOR issue record](https://www.jstor.org/stable/i364600); [Brill collected-essays record](https://books.google.com/books/about/Contested_Issues_in_Christian_Origins_an.html?id=OT8yAQAAQBAJ))",
+    "raw_text": "⟨DOCUMENTED⟩ **Johnson, Luke Timothy** — New Testament scholar and author of “The New Testament’s Anti-Jewish Slander and the Conventions of Ancient Polemic” (*Journal of Biblical Literature* 108 [1989]: 419–441). Johnson contextualizes New Testament anti-Jewish invective within ancient polemical conventions; contextualization does not erase the rhetoric’s content or reception. “Critical Catholic” was an unnecessary lens label and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([JSTOR issue record](https://www.jstor.org/stable/i364600); [Brill collected-essays record](https://books.google.com/books/about/Contested_Issues_in_Christian_Origins_an.html?id=OT8yAQAAQBAJ))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14457,20 +14469,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_68d544adf925d38ae7fd",
-    "text": "Josephus, Flavius (c. 37–100 CE) — Jewish aristocrat and priest; surrendered to the Romans; wrote under Flavian patronage. Jewish War and Antiquities of the Jews. Important flag: He was a Roman client with clear interests in how Jewish history was presented to a Roman audience. The two Jesus passages in Antiquities must be read with this in mind.",
-    "raw_text": "**Josephus, Flavius** (c. 37–100 CE) — Jewish aristocrat and priest; surrendered to the Romans; wrote under Flavian patronage. *Jewish War* and *Antiquities of the Jews*. **Important flag:** He was a Roman client with clear interests in how Jewish history was presented to a Roman audience. The two Jesus passages in *Antiquities* must be read with this in mind.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3bd56085b6c4da6e37bb",
+    "text": "Jones, David W. — Christian ethicist and coauthor with Andreas J. Köstenberger of God, Marriage, and Family: Rebuilding the Biblical Foundation (Crossway, 2004). The prior entry misleadingly presented Jones as sole author; the publisher describes a conservative biblical program on marriage, family, sexuality, singleness, and related issues. CHECKED/CORRECTED 12 AUG 2026 ([Crossway](https://www.crossway.org/books/1805-ebook/); [2004 edition catalog](https://opac.les.edu/cgi-bin/koha/opac-detail.pl?biblionumber=2749&query_desc=au%3A%22K%C3%B6stenberger%2C+Andreas+J.%2C%22))",
+    "raw_text": "⟨DOCUMENTED⟩ **Jones, David W.** — Christian ethicist and **coauthor with Andreas J. Köstenberger** of *God, Marriage, and Family: Rebuilding the Biblical Foundation* (Crossway, 2004). The prior entry misleadingly presented Jones as sole author; the publisher describes a conservative biblical program on marriage, family, sexuality, singleness, and related issues. `CHECKED/CORRECTED 12 AUG 2026` ([Crossway](https://www.crossway.org/books/1805-ebook/); [2004 edition catalog](https://opac.les.edu/cgi-bin/koha/opac-detail.pl?biblionumber=2749&query_desc=au%3A%22K%C3%B6stenberger%2C+Andreas+J.%2C%22))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14489,20 +14501,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e306208268f20efe7822",
-    "text": "Justin Martyr (c. 100–165) — Early apologist; Dialogue with Trypho (c. 160 CE). Records Christians and Jews arguing over almah/parthenos. Accused later Jewish revisers of anti-Christian tampering in Isaiah 7:14.",
-    "raw_text": "**Justin Martyr** (c. 100–165) — Early apologist; *Dialogue with Trypho* (c. 160 CE). Records Christians and Jews arguing over *almah/parthenos*. Accused later Jewish revisers of anti-Christian tampering in Isaiah 7:14.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_2cfe002ddfa6c7154f94",
+    "text": "Josephus, Flavius (c. 37–c. 100 CE) — Judean priest, commander, surrendering rebel, and historian who wrote Jewish War and Jewish Antiquities under Flavian patronage. That political location is important context for his historiography, but it is not by itself a test of the two Jesus-related passages: Antiquities 18.63–64 (the Testimonium Flavianum) has a contested textual history, while 20.200 identifies James through “Jesus who was called Christ” and is evaluated separately. The prior entry improperly made one patronage warning do all of that textual work. CHECKED/CORRECTED 12 AUG 2026 ([Oxford, Flavius Josephus and Flavian Rome](https://academic.oup.com/book/6939); [Cambridge on the Testimonium debate](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/eusebius-of-caesarea-and-the-testimonium-flavianum-josephus-antiquities-xviii-63f/B7C203F405E01FAF423009E57CC26307); [Oxford on Antiquities 20.200](https://academic.oup.com/book/60034/chapter/513641505))",
+    "raw_text": "⟨DOCUMENTED⟩ **Josephus, Flavius** (c. 37–c. 100 CE) — Judean priest, commander, surrendering rebel, and historian who wrote *Jewish War* and *Jewish Antiquities* under Flavian patronage. That political location is important context for his historiography, but it is not by itself a test of the two Jesus-related passages: *Antiquities* 18.63–64 (the *Testimonium Flavianum*) has a contested textual history, while 20.200 identifies James through “Jesus who was called Christ” and is evaluated separately. The prior entry improperly made one patronage warning do all of that textual work. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford, *Flavius Josephus and Flavian Rome*](https://academic.oup.com/book/6939); [Cambridge on the *Testimonium* debate](https://www.cambridge.org/core/journals/journal-of-ecclesiastical-history/article/abs/eusebius-of-caesarea-and-the-testimonium-flavianum-josephus-antiquities-xviii-63f/B7C203F405E01FAF423009E57CC26307); [Oxford on *Antiquities* 20.200](https://academic.oup.com/book/60034/chapter/513641505))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14521,25 +14533,25 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fb951c2da2f316262ed1",
-    "text": "Kahneman, Daniel — Psychologist; Thinking, Fast and Slow (2011). System 1/System 2; motivated reasoning as the default of a lazy System 2.",
-    "raw_text": "**Kahneman, Daniel** — Psychologist; *Thinking, Fast and Slow* (2011). System 1/System 2; motivated reasoning as the default of a lazy System 2.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_121ddabf32f3cb6f7077",
+    "text": "Justin Martyr (c. 100–c. 165) — Christian apologist whose Dialogue with Trypho stages a dispute over Isaiah 7:14: Trypho’s character insists on “young woman” and a Hezekian fulfillment, while Justin defends “virgin” and a Christological reading. Justin separately accuses Jews of removing other alleged prooftexts in chapters 71–73; the prior entry wrongly fused those accusations with the Isaiah 7:14 translation dispute. CHECKED/CORRECTED 12 AUG 2026 ([Dialogue 55–68](https://www.newadvent.org/fathers/01285.htm); [chapter 67 text](https://www.logoslibrary.org/justin/trypho/067.html))",
+    "raw_text": "⟨DOCUMENTED⟩ **Justin Martyr** (c. 100–c. 165) — Christian apologist whose *Dialogue with Trypho* stages a dispute over Isaiah 7:14: Trypho’s character insists on “young woman” and a Hezekian fulfillment, while Justin defends “virgin” and a Christological reading. Justin separately accuses Jews of removing other alleged prooftexts in chapters 71–73; the prior entry wrongly fused those accusations with the Isaiah 7:14 translation dispute. `CHECKED/CORRECTED 12 AUG 2026` ([*Dialogue* 55–68](https://www.newadvent.org/fathers/01285.htm); [chapter 67 text](https://www.logoslibrary.org/justin/trypho/067.html))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "K"
+      "J"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -14547,26 +14559,26 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
     "source_reference": "paragraph:449",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_767aeef62bb5b8d9f7e9",
-    "text": "Kant, Immanuel — Enlightenment philosopher; Categorical Imperative; Groundwork of the Metaphysics of Morals (1785). Important flag: Also participated in early modern racial theorizing and developed hierarchical ideas about human races. The modern philosophical literature treats this as a serious internal problem in his work, not an irrelevant biographical footnote.",
-    "raw_text": "**Kant, Immanuel** — Enlightenment philosopher; Categorical Imperative; *Groundwork of the Metaphysics of Morals* (1785). **Important flag:** Also participated in early modern racial theorizing and developed hierarchical ideas about human races. The modern philosophical literature treats this as a serious internal problem in his work, not an irrelevant biographical footnote.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_dbf861515e03808aac5e",
+    "text": "Kahneman, Daniel — Psychologist and author of Thinking, Fast and Slow (2011), which presents System 1 as fast, associative, automatic, and effortless and System 2 as slower, deliberate, rule-governed, and effortful. Kahneman also describes System 2 as prone to endorsing System 1’s suggestions, but the prior wording incorrectly equated that model with motivated reasoning as a universal default. CHECKED/CORRECTED 12 AUG 2026 ([publisher overview and excerpt](https://us.macmillan.com/books/9780374275631/thinkingfastandslow/); [Nobel biography](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/?source=post_page---------------------------))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kahneman, Daniel** — Psychologist and author of *Thinking, Fast and Slow* (2011), which presents System 1 as fast, associative, automatic, and effortless and System 2 as slower, deliberate, rule-governed, and effortful. Kahneman also describes System 2 as prone to endorsing System 1’s suggestions, but the prior wording incorrectly equated that model with motivated reasoning as a universal default. `CHECKED/CORRECTED 12 AUG 2026` ([publisher overview and excerpt](https://us.macmillan.com/books/9780374275631/thinkingfastandslow/); [Nobel biography](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/biographical/?source=post_page---------------------------))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14585,20 +14597,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8b46713b1ce141bcefb7",
-    "text": "Käsemann, Ernst — Critical scholar. Applied the delay-of-parousia thesis to Luke-Acts.",
-    "raw_text": "**Käsemann, Ernst** — Critical scholar. Applied the delay-of-parousia thesis to Luke-Acts.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_1ba92d7cc7f635182c84",
+    "text": "Kant, Immanuel — Enlightenment philosopher, author of the Groundwork of the Metaphysics of Morals (1785), and formulator of the categorical imperative. Important flag: Kant also developed theories of human race and at points defended racial hierarchy. Current scholarship disputes how these views relate to, and may have changed within, his universalist moral and political philosophy; the tension is a substantive interpretive problem, not a disposable biography note. CHECKED/CORRECTED 12 AUG 2026 ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/race/index.html); [Oxford volume](https://academic.oup.com/book/45865))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kant, Immanuel** — Enlightenment philosopher, author of the *Groundwork of the Metaphysics of Morals* (1785), and formulator of the categorical imperative. **Important flag:** Kant also developed theories of human race and at points defended racial hierarchy. Current scholarship disputes how these views relate to, and may have changed within, his universalist moral and political philosophy; the tension is a substantive interpretive problem, not a disposable biography note. `CHECKED/CORRECTED 12 AUG 2026` ([Stanford Encyclopedia of Philosophy](https://plato.stanford.edu/entries/race/index.html); [Oxford volume](https://academic.oup.com/book/45865))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14617,20 +14629,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_55fe69724b5fba9edc94",
-    "text": "Kelly, Henry Ansgar — Critical scholar; Satan: A Biography (Cambridge, 2006). Ha-satan as a bounded subordinate role within the divine council; never called a fallen angel in the Hebrew Bible.",
-    "raw_text": "**Kelly, Henry Ansgar** — Critical scholar; *Satan: A Biography* (Cambridge, 2006). Ha-satan as a bounded subordinate role within the divine council; never called a fallen angel in the Hebrew Bible.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_61b00ad5dda531286677",
+    "text": "Käsemann, Ernst — New Testament scholar who tied the rise of “early Catholicism” partly to the church’s response to delayed parousia and criticized Luke-Acts as exemplifying that institutionalizing development. The original wording made the more specific Luke-Acts delay thesis sound solely Käsemann’s; Hans Conzelmann is the scholar most directly associated with the classic salvation-history formulation. CHECKED/CORRECTED 12 AUG 2026 ([Cambridge discussion of Käsemann and Lukan eschatology](https://www.cambridge.org/core/journals/scottish-journal-of-theology/article/abs/ascension-and-the-eschatology-of-lukeacts/0795E8CC74D7A29033D81987ADC98EFC); [Oxford research summary of Conzelmann’s thesis](https://ora.ox.ac.uk/objects/uuid%3A39126f79-9260-4e58-81ad-292d559e000e))",
+    "raw_text": "⟨DOCUMENTED⟩ **Käsemann, Ernst** — New Testament scholar who tied the rise of “early Catholicism” partly to the church’s response to delayed parousia and criticized Luke-Acts as exemplifying that institutionalizing development. The original wording made the more specific Luke-Acts delay thesis sound solely Käsemann’s; Hans Conzelmann is the scholar most directly associated with the classic salvation-history formulation. `CHECKED/CORRECTED 12 AUG 2026` ([Cambridge discussion of Käsemann and Lukan eschatology](https://www.cambridge.org/core/journals/scottish-journal-of-theology/article/abs/ascension-and-the-eschatology-of-lukeacts/0795E8CC74D7A29033D81987ADC98EFC); [Oxford research summary of Conzelmann’s thesis](https://ora.ox.ac.uk/objects/uuid%3A39126f79-9260-4e58-81ad-292d559e000e))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14649,20 +14661,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_675c8df1eeec3a92853e",
-    "text": "Kim, Seyoon — Evangelical NPP critic.",
-    "raw_text": "**Kim, Seyoon** — Evangelical NPP critic.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_20f3ebaf3f82716e3a88",
+    "text": "Kelly, Henry Ansgar — Historian and author of Satan: A Biography (Cambridge, 2006). Kelly argues that the Hebrew Bible’s supernatural satan figures function as God’s adversarial tester or accuser rather than as the later rebel “Lucifer” biography; the entry now identifies this as Kelly’s revisionist thesis rather than an uncontested lexical verdict. CHECKED/CORRECTED 12 AUG 2026 ([Cambridge book record](https://books.google.com/books/about/Satan.html?id=gPIpQg0lRbMC); [UCLA overview](https://newsroom.ucla.edu/magazine/henry-ansgar-kelly-satan-bible); [publisher excerpt](https://assets.cambridge.org/97805218/43393/excerpt/9780521843393_excerpt.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kelly, Henry Ansgar** — Historian and author of *Satan: A Biography* (Cambridge, 2006). Kelly argues that the Hebrew Bible’s supernatural *satan* figures function as God’s adversarial tester or accuser rather than as the later rebel “Lucifer” biography; the entry now identifies this as Kelly’s revisionist thesis rather than an uncontested lexical verdict. `CHECKED/CORRECTED 12 AUG 2026` ([Cambridge book record](https://books.google.com/books/about/Satan.html?id=gPIpQg0lRbMC); [UCLA overview](https://newsroom.ucla.edu/magazine/henry-ansgar-kelly-satan-bible); [publisher excerpt](https://assets.cambridge.org/97805218/43393/excerpt/9780521843393_excerpt.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14681,20 +14693,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3a5628e69025f0a46f2d",
-    "text": "Kitcher, Philip — Philosopher of science; Abusing Science: The Case Against Creationism (1982).",
-    "raw_text": "**Kitcher, Philip** — Philosopher of science; *Abusing Science: The Case Against Creationism* (1982).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_6467fcf96c05c5b809ec",
+    "text": "Kim, Seyoon — New Testament scholar and author of Paul and the New Perspective: Second Thoughts on the Origin of Paul’s Gospel (2001/2002). Kim explicitly departs from the New Perspective represented by James D. G. Dunn and defends a more traditional account of Paul’s justification theology grounded in the Damascus experience and Jesus tradition. The generic identity label “evangelical NPP critic” has been replaced with the specific work and argument. CHECKED/CORRECTED 12 AUG 2026 ([Eerdmans](https://www.eerdmans.com/9780802849748/paul-and-the-new-perspective/); [Mohr Siebeck](https://www.mohrsiebeck.com/buch/paul-and-the-new-perspective-9783161476921/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kim, Seyoon** — New Testament scholar and author of *Paul and the New Perspective: Second Thoughts on the Origin of Paul’s Gospel* (2001/2002). Kim explicitly departs from the New Perspective represented by James D. G. Dunn and defends a more traditional account of Paul’s justification theology grounded in the Damascus experience and Jesus tradition. The generic identity label “evangelical NPP critic” has been replaced with the specific work and argument. `CHECKED/CORRECTED 12 AUG 2026` ([Eerdmans](https://www.eerdmans.com/9780802849748/paul-and-the-new-perspective/); [Mohr Siebeck](https://www.mohrsiebeck.com/buch/paul-and-the-new-perspective-9783161476921/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14713,20 +14725,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_315f159c6cf86173c2b1",
-    "text": "Kitchen, K.A. — Conservative evangelical Egyptologist; On the Reliability of the Old Testament (2003). The strongest conservative Egyptological case alongside Hoffmeier.",
-    "raw_text": "**Kitchen, K.A.** — Conservative evangelical Egyptologist; *On the Reliability of the Old Testament* (2003). The strongest conservative Egyptological case alongside Hoffmeier.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d4277fef678eb6984557",
+    "text": "Kitcher, Philip — Philosopher of science and author of Abusing Science: The Case Against Creationism (1982), which defends evolutionary science and scientific methodology against “creation science” claims and addresses the associated educational dispute. CHECKED 12 AUG 2026 ([MIT Press](https://mitpress.mit.edu/9780262110853/abusing-science/); [ERIC bibliographic record](https://eric.ed.gov/?id=ED228073))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kitcher, Philip** — Philosopher of science and author of *Abusing Science: The Case Against Creationism* (1982), which defends evolutionary science and scientific methodology against “creation science” claims and addresses the associated educational dispute. `CHECKED 12 AUG 2026` ([MIT Press](https://mitpress.mit.edu/9780262110853/abusing-science/); [ERIC bibliographic record](https://eric.ed.gov/?id=ED228073))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14745,20 +14757,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_77dfdb53a4a8e7653ccd",
-    "text": "Kloppenborg, John S. — Critical scholar; co-editor of The Critical Edition of Q (2000).",
-    "raw_text": "**Kloppenborg, John S.** — Critical scholar; co-editor of *The Critical Edition of Q* (2000).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_e38123587c7b2cec783e",
+    "text": "Kitchen, Kenneth A. — Egyptologist and author of On the Reliability of the Old Testament (2003), a broad defense of correlating Old Testament narratives with historical and archaeological evidence. “The strongest … alongside Hoffmeier” was an unsupported comparative ranking, while “evangelical” was unnecessary to the bibliographic orientation; both have been removed. CHECKED/CORRECTED 12 AUG 2026 ([book record](https://books.google.com.bd/books?id=7spTzQEACAAJ); [library catalog](https://catalog.otsnagaland.edu.in/bib/11887))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kitchen, Kenneth A.** — Egyptologist and author of *On the Reliability of the Old Testament* (2003), a broad defense of correlating Old Testament narratives with historical and archaeological evidence. “The strongest … alongside Hoffmeier” was an unsupported comparative ranking, while “evangelical” was unnecessary to the bibliographic orientation; both have been removed. `CHECKED/CORRECTED 12 AUG 2026` ([book record](https://books.google.com.bd/books?id=7spTzQEACAAJ); [library catalog](https://catalog.otsnagaland.edu.in/bib/11887))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14777,20 +14789,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d5ced06dc45802d9664",
-    "text": "Knohl, Israel — Critical scholar; The Sanctuary of Silence (1995). On the Priestly source within the Documentary Hypothesis.",
-    "raw_text": "**Knohl, Israel** — Critical scholar; *The Sanctuary of Silence* (1995). On the Priestly source within the Documentary Hypothesis.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_a17e6cc6e04ab0fe83a3",
+    "text": "Kloppenborg, John S. — New Testament scholar and one of the three editors, with James M. Robinson and Paul Hoffmann, of The Critical Edition of Q (2000). The omitted coeditors have been named, matching the corrected Hoffmann entry. CHECKED/CORRECTED 12 AUG 2026 ([edition record](https://static.uni-graz.at/fileadmin/_files/_theol_sites/_neues-testament/FWF-Q/The_Critical_Edition_of_Q.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kloppenborg, John S.** — New Testament scholar and one of the three editors, with James M. Robinson and Paul Hoffmann, of *The Critical Edition of Q* (2000). The omitted coeditors have been named, matching the corrected Hoffmann entry. `CHECKED/CORRECTED 12 AUG 2026` ([edition record](https://static.uni-graz.at/fileadmin/_files/_theol_sites/_neues-testament/FWF-Q/The_Critical_Edition_of_Q.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14809,20 +14821,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_008e8d446e93dd0c2d44",
-    "text": "Köstenberger, Andreas J. — Conservative evangelical complementarian; God, Marriage, and Family (Crossway, 2004).",
-    "raw_text": "**Köstenberger, Andreas J.** — Conservative evangelical complementarian; *God, Marriage, and Family* (Crossway, 2004).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_06a11d0e8c2e5617899b",
+    "text": "Knohl, Israel — Hebrew Bible scholar and author of The Sanctuary of Silence: The Priestly Torah and the Holiness School (English, 1995). Knohl distinguishes strata within priestly literature, argues that the Priestly Torah predates the Holiness School, and treats H as a later addition to P. The prior “on the Priestly source” description was too vague to identify the book’s thesis. CHECKED/CORRECTED 12 AUG 2026 ([Magnes Press](https://www.magnespress.co.il/en/book/The_Sanctuary_of_Silence-5605); [English-edition record](https://ixtheo.de/Record/1601712669))",
+    "raw_text": "⟨DOCUMENTED⟩ **Knohl, Israel** — Hebrew Bible scholar and author of *The Sanctuary of Silence: The Priestly Torah and the Holiness School* (English, 1995). Knohl distinguishes strata within priestly literature, argues that the Priestly Torah predates the Holiness School, and treats H as a later addition to P. The prior “on the Priestly source” description was too vague to identify the book’s thesis. `CHECKED/CORRECTED 12 AUG 2026` ([Magnes Press](https://www.magnespress.co.il/en/book/The_Sanctuary_of_Silence-5605); [English-edition record](https://ixtheo.de/Record/1601712669))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14841,20 +14853,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a0dfd4962f8683ec7031",
-    "text": "Kuhrt, Amélie — Critical ancient historian. Argues the Cyrus Cylinder's restoration language is a literary device for legitimizing a new dynasty, not a description of actual policy.",
-    "raw_text": "**Kuhrt, Amélie** — Critical ancient historian. Argues the Cyrus Cylinder's restoration language is a literary device for legitimizing a new dynasty, not a description of actual policy.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_8988fc04fc62362918a4",
+    "text": "Köstenberger, Andreas J. — New Testament scholar and lead coauthor with David W. Jones of God, Marriage, and Family: Rebuilding the Biblical Foundation (Crossway, 2004). The publisher describes a conservative biblical program on marriage, family, sexuality, singleness, and related issues; the prior entry omitted Jones despite separately misattributing the same book to him alone. CHECKED/CORRECTED 12 AUG 2026 ([Crossway](https://www.crossway.org/books/1805-ebook/); [2004 edition catalog](https://opac.les.edu/cgi-bin/koha/opac-detail.pl?biblionumber=2749&query_desc=au%3A%22K%C3%B6stenberger%2C+Andreas+J.%2C%22))",
+    "raw_text": "⟨DOCUMENTED⟩ **Köstenberger, Andreas J.** — New Testament scholar and **lead coauthor with David W. Jones** of *God, Marriage, and Family: Rebuilding the Biblical Foundation* (Crossway, 2004). The publisher describes a conservative biblical program on marriage, family, sexuality, singleness, and related issues; the prior entry omitted Jones despite separately misattributing the same book to him alone. `CHECKED/CORRECTED 12 AUG 2026` ([Crossway](https://www.crossway.org/books/1805-ebook/); [2004 edition catalog](https://opac.les.edu/cgi-bin/koha/opac-detail.pl?biblionumber=2749&query_desc=au%3A%22K%C3%B6stenberger%2C+Andreas+J.%2C%22))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14873,20 +14885,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b61bc1b131f7d4724247",
-    "text": "Kunda, Ziva — Psychologist; \"The Case for Motivated Reasoning\" (Psychological Bulletin, 1990). Distinction between accuracy-motivated and directionally-motivated reasoning — the key methodological paper in the motivated reasoning literature.",
-    "raw_text": "**Kunda, Ziva** — Psychologist; \"The Case for Motivated Reasoning\" (*Psychological Bulletin*, 1990). Distinction between accuracy-motivated and directionally-motivated reasoning — the key methodological paper in the motivated reasoning literature.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_94804ac60b936f813c1e",
+    "text": "Kuhrt, Amélie — Historian of the ancient Near East whose work situates the Cyrus Cylinder in conventional Babylonian royal legitimation: it contrasts Cyrus’s piety and restorations with Nabonidus’s alleged failures. That makes the text insufficient by itself to prove a general humanitarian or repatriation policy; the prior wording went too far by declaring that it described no actual policy at all. CHECKED/CORRECTED 12 AUG 2026 ([scholarly synthesis of Kuhrt’s 1983 study](https://achaemenica.org/articles/cyrus-the-great); [historical overview](https://www.worldhistory.org/article/166/the-cyrus-cylinder/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kuhrt, Amélie** — Historian of the ancient Near East whose work situates the Cyrus Cylinder in conventional Babylonian royal legitimation: it contrasts Cyrus’s piety and restorations with Nabonidus’s alleged failures. That makes the text insufficient by itself to prove a general humanitarian or repatriation policy; the prior wording went too far by declaring that it described no actual policy at all. `CHECKED/CORRECTED 12 AUG 2026` ([scholarly synthesis of Kuhrt’s 1983 study](https://achaemenica.org/articles/cyrus-the-great); [historical overview](https://www.worldhistory.org/article/166/the-cyrus-cylinder/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14905,25 +14917,25 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_deb328bf5e7d8e64f2ce",
-    "text": "Langmuir, Gavin — Critical historian; Toward a Definition of Antisemitism (UC Press, 1990). Important flag: Built the anti-Judaism/antisemitism distinction specifically to argue continuity between the two forms, not severance — the opposite of how the distinction is often used in popular apologetics.",
-    "raw_text": "**Langmuir, Gavin** — Critical historian; *Toward a Definition of Antisemitism* (UC Press, 1990). **Important flag:** Built the anti-Judaism/antisemitism distinction specifically to argue *continuity* between the two forms, not severance — the opposite of how the distinction is often used in popular apologetics.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_f591eade023ebee8416e",
+    "text": "Kunda, Ziva — Social psychologist and author of “The Case for Motivated Reasoning” (Psychological Bulletin 108 [1990]: 480–498). Kunda distinguishes accuracy goals from directional goals and reviews evidence that desired conclusions can bias which beliefs and inferential strategies people access while remaining constrained by perceived justification. “The key paper” was an unmeasured ranking and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([article PDF](https://fbaum.unc.edu/teaching/articles/Psych-Bulletin-1990-Kunda.pdf); [later scholarly overview](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12828))",
+    "raw_text": "⟨DOCUMENTED⟩ **Kunda, Ziva** — Social psychologist and author of “The Case for Motivated Reasoning” (*Psychological Bulletin* 108 [1990]: 480–498). Kunda distinguishes accuracy goals from directional goals and reviews evidence that desired conclusions can bias which beliefs and inferential strategies people access while remaining constrained by perceived justification. “The key paper” was an unmeasured ranking and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([article PDF](https://fbaum.unc.edu/teaching/articles/Psych-Bulletin-1990-Kunda.pdf); [later scholarly overview](https://compass.onlinelibrary.wiley.com/doi/10.1111/phc3.12828))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "L"
+      "K"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -14931,26 +14943,26 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
     "source_reference": "paragraph:461",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6e9939720f0f7904406d",
-    "text": "LeDoux, Joseph — Neuroscientist; The Emotional Brain (1996). Emotion and cognition.",
-    "raw_text": "**LeDoux, Joseph** — Neuroscientist; *The Emotional Brain* (1996). Emotion and cognition.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_c5c32289e2a75d37fdc1",
+    "text": "Langmuir, Gavin — Historian; Toward a Definition of Antisemitism (1990). The book distinguishes anti-Judaism from antisemitism while tracing the historical transformation between them; its contents explicitly move from “Anti-Judaism as the Necessary Preparation for Antisemitism” through that transformation to antisemitism. The earlier claim that the distinction was built “specifically” to prove continuity was too categorical. CHECKED/CORRECTED 12 AUG 2026 ([University of California Press](https://www.ucpress.edu/books/toward-a-definition-of-antisemitism/paper); [WorldCat record](https://search.worldcat.org/title/Toward-a-definition-of-antisemitism/oclc/21975400))",
+    "raw_text": "⟨DOCUMENTED⟩ **Langmuir, Gavin** — Historian; *Toward a Definition of Antisemitism* (1990). The book distinguishes anti-Judaism from antisemitism while tracing the historical transformation between them; its contents explicitly move from “Anti-Judaism as the Necessary Preparation for Antisemitism” through that transformation to antisemitism. The earlier claim that the distinction was built “specifically” to prove continuity was too categorical. `CHECKED/CORRECTED 12 AUG 2026` ([University of California Press](https://www.ucpress.edu/books/toward-a-definition-of-antisemitism/paper); [WorldCat record](https://search.worldcat.org/title/Toward-a-definition-of-antisemitism/oclc/21975400))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -14969,20 +14981,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cf591e15e60cb4a73c9e",
-    "text": "Leo the Great (c. 400–461) — Church Father; pope; papal authority; Christology at Chalcedon (451).",
-    "raw_text": "**Leo the Great** (c. 400–461) — Church Father; pope; papal authority; Christology at Chalcedon (451).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_15dd5ebf4168179b3f24",
+    "text": "LeDoux, Joseph — Neuroscientist and author of The Emotional Brain (1996), a study of the neural systems underlying emotion and their interaction with cognition. CHECKED/CORRECTED 12 AUG 2026 ([publisher](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591); [LeDoux CV](https://www.joseph-ledoux.com/LeDoux_CV.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **LeDoux, Joseph** — Neuroscientist and author of *The Emotional Brain* (1996), a study of the neural systems underlying emotion and their interaction with cognition. `CHECKED/CORRECTED 12 AUG 2026` ([publisher](https://www.simonandschuster.com/books/The-Emotional-Brain/Joseph-Ledoux/9780684836591); [LeDoux CV](https://www.joseph-ledoux.com/LeDoux_CV.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15001,20 +15013,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c10e956cf21626c2fde3",
-    "text": "Letham, Robert — Reformed theologian; The Holy Trinity (2004). Thorough Reformed Trinitarian defense.",
-    "raw_text": "**Letham, Robert** — Reformed theologian; *The Holy Trinity* (2004). Thorough Reformed Trinitarian defense.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_a504c28388c4afe7db97",
+    "text": "Leo the Great (c. 400–461) — Bishop of Rome from 440 to 461. His Tome to Flavian was influential at the Council of Chalcedon (451) and emphasized Christ’s two natures. Leo also advanced strong claims for Roman primacy, but those claims were contested rather than simply established by Chalcedon. CHECKED/CORRECTED 12 AUG 2026 ([Oxford Academic](https://academic.oup.com/book/11743); [Cambridge University Press](https://www.cambridge.org/core/journals/church-history/article/shifting-tones-of-pope-leo-the-greats-christological-vocabulary/21CF0F2BD8662D63CAD85AE5ED85EF92); [Claremont Colleges Digital Library](https://ccdl.claremont.edu/digital/collection/cce/id/1204/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Leo the Great** (c. 400–461) — Bishop of Rome from 440 to 461. His *Tome to Flavian* was influential at the Council of Chalcedon (451) and emphasized Christ’s two natures. Leo also advanced strong claims for Roman primacy, but those claims were contested rather than simply established by Chalcedon. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford Academic](https://academic.oup.com/book/11743); [Cambridge University Press](https://www.cambridge.org/core/journals/church-history/article/shifting-tones-of-pope-leo-the-greats-christological-vocabulary/21CF0F2BD8662D63CAD85AE5ED85EF92); [Claremont Colleges Digital Library](https://ccdl.claremont.edu/digital/collection/cce/id/1204/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15033,20 +15045,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b50e7d8c7892f3623421",
-    "text": "Levenson, Jon D. — Jewish critical scholar (Harvard); Sinai and Zion (1985). Covenant texts read as continuity and national restoration, not supersessionist replacement.",
-    "raw_text": "**Levenson, Jon D.** — Jewish critical scholar (Harvard); *Sinai and Zion* (1985). Covenant texts read as continuity and national restoration, not supersessionist replacement.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_72b2cfc82e103b5a9cae",
+    "text": "Letham, Robert — Reformed theologian and author of The Holy Trinity (2004). The book surveys biblical foundations and the doctrine’s history through the twentieth century, then treats questions including incarnation, worship and prayer, creation, mission, and the divine persons. “Thorough” was an unevidenced quality judgment and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([Google Books](https://books.google.com/books/about/The_Holy_Trinity.html?id=zAOCAAAACAAJ); [publisher sample](https://storage.googleapis.com/prpbooks/documents/pdf/sample-chapters/9781629953779.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Letham, Robert** — Reformed theologian and author of *The Holy Trinity* (2004). The book surveys biblical foundations and the doctrine’s history through the twentieth century, then treats questions including incarnation, worship and prayer, creation, mission, and the divine persons. “Thorough” was an unevidenced quality judgment and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Google Books](https://books.google.com/books/about/The_Holy_Trinity.html?id=zAOCAAAACAAJ); [publisher sample](https://storage.googleapis.com/prpbooks/documents/pdf/sample-chapters/9781629953779.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15065,20 +15077,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_180187702d1e86dfaa4d",
-    "text": "Levine, Amy-Jill — Jewish critical scholar. Defends \"Jews\" as the accurate translation of Ioudaioi; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
-    "raw_text": "**Levine, Amy-Jill** — Jewish critical scholar. Defends \"Jews\" as the accurate translation of *Ioudaioi*; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_fb8a0032dceb9193bf73",
+    "text": "Levenson, Jon D. — Harvard scholar of the Hebrew Bible and Jewish studies; author of Sinai and Zion: An Entry into the Jewish Bible (1985). The book examines the Sinai covenant and the Zion, Temple, and Davidic traditions in their Jewish-biblical settings. The earlier broad contrast with “supersessionist replacement” was interpretive and insufficiently tied to a cited passage. CHECKED/CORRECTED 12 AUG 2026 ([Harvard profile](https://nelc.fas.harvard.edu/people/jon-d-levenson); [book record](https://books.google.com/books/about/Sinai_Zion.html?id=WxDuMuu8KxEC); [contents record](https://books.google.com/books/about/Sinai_and_Zion.html?id=LWYy_Hnqz7MC))",
+    "raw_text": "⟨DOCUMENTED⟩ **Levenson, Jon D.** — Harvard scholar of the Hebrew Bible and Jewish studies; author of *Sinai and Zion: An Entry into the Jewish Bible* (1985). The book examines the Sinai covenant and the Zion, Temple, and Davidic traditions in their Jewish-biblical settings. The earlier broad contrast with “supersessionist replacement” was interpretive and insufficiently tied to a cited passage. `CHECKED/CORRECTED 12 AUG 2026` ([Harvard profile](https://nelc.fas.harvard.edu/people/jon-d-levenson); [book record](https://books.google.com/books/about/Sinai_Zion.html?id=WxDuMuu8KxEC); [contents record](https://books.google.com/books/about/Sinai_and_Zion.html?id=LWYy_Hnqz7MC))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15097,20 +15109,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c3d17c9e734bb9dba52f",
-    "text": "Licona, Michael — Evangelical historian; The Resurrection of Jesus (2010). Notable for being attacked by his own side for suggesting Matthew 27:52–53 might be apocalyptic imagery — that episode illustrates the constraints inerrantists operate under.",
-    "raw_text": "**Licona, Michael** — Evangelical historian; *The Resurrection of Jesus* (2010). Notable for being attacked by his own side for suggesting Matthew 27:52–53 might be apocalyptic imagery — that episode illustrates the constraints inerrantists operate under.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d62b2576ee9da317a0da",
+    "text": "Levine, Amy-Jill — Jewish New Testament scholar. Levine argues that translating Ioudaioi as “Jews” preserves religious and cultural continuity, while acknowledging that “Judeans” can be contextually legitimate and warning that its blanket use can sever ancient Jews from later Jewish identity. The earlier wording incorrectly made “Jews” universally “the accurate translation.” CHECKED/CORRECTED 12 AUG 2026 ([Levine, “Matthew and Anti-Judaism”](https://lstc.edu/wp-content/uploads/2023/02/Amy-Jill-Levine-Matthew-and-Anti-Judaism-Copy.pdf); [Emory dissertation quoting Levine](https://etd.library.emory.edu/downloads/f4752g991?locale=it))",
+    "raw_text": "⟨DOCUMENTED⟩ **Levine, Amy-Jill** — Jewish New Testament scholar. Levine argues that translating *Ioudaioi* as “Jews” preserves religious and cultural continuity, while acknowledging that “Judeans” can be contextually legitimate and warning that its blanket use can sever ancient Jews from later Jewish identity. The earlier wording incorrectly made “Jews” universally “the accurate translation.” `CHECKED/CORRECTED 12 AUG 2026` ([Levine, “Matthew and Anti-Judaism”](https://lstc.edu/wp-content/uploads/2023/02/Amy-Jill-Levine-Matthew-and-Anti-Judaism-Copy.pdf); [Emory dissertation quoting Levine](https://etd.library.emory.edu/downloads/f4752g991?locale=it))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15129,20 +15141,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b74d8e9f85c0e658e30d",
-    "text": "Lightfoot, J.B. — Conservative scholar; argued for the authenticity of Colossians (1875/1879).",
-    "raw_text": "**Lightfoot, J.B.** — Conservative scholar; argued for the authenticity of Colossians (1875/1879).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_fbc81ae9e2b451c37cee",
+    "text": "Licona, Michael — Evangelical New Testament scholar and author of The Resurrection of Jesus: A New Historiographical Approach (2010). Licona proposed that the raised saints in Matthew 27:52–53 might be apocalyptic imagery; Norman Geisler and Albert Mohler publicly criticized that reading as incompatible with biblical inerrancy. This documents a doctrinal-boundary dispute; the earlier generalized conclusion about what all inerrantists “operate under” has been removed. CHECKED/CORRECTED 12 AUG 2026 ([Licona’s explanation](https://winteryknight.com/2011/09/09/michael-licona-on-the-resurrection-of-the-saints-in-matthew-27/); [contemporaneous account](https://firstthings.com/licona-geisler-and-mohler-some-questions-about-process/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Licona, Michael** — Evangelical New Testament scholar and author of *The Resurrection of Jesus: A New Historiographical Approach* (2010). Licona proposed that the raised saints in Matthew 27:52–53 might be apocalyptic imagery; Norman Geisler and Albert Mohler publicly criticized that reading as incompatible with biblical inerrancy. This documents a doctrinal-boundary dispute; the earlier generalized conclusion about what all inerrantists “operate under” has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Licona’s explanation](https://winteryknight.com/2011/09/09/michael-licona-on-the-resurrection-of-the-saints-in-matthew-27/); [contemporaneous account](https://firstthings.com/licona-geisler-and-mohler-some-questions-about-process/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15161,20 +15173,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5a1ebd30057c59bdab47",
-    "text": "Louth, Andrew — Patristics scholar; Maximus the Confessor (Routledge, 1996).",
-    "raw_text": "**Louth, Andrew** — Patristics scholar; *Maximus the Confessor* (Routledge, 1996).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_82c5ac366899593b92e7",
+    "text": "Lightfoot, J.B. — Nineteenth-century biblical scholar. In his 1875 commentary on Colossians and Philemon, Lightfoot argued that Colossians’ language and thought were natural under the immediate circumstances and opposed to an interpolation theory, while deliberately postponing his fuller treatment of Pauline authorship until Ephesians. CHECKED/CORRECTED 12 AUG 2026 ([primary commentary](https://www.gutenberg.org/files/50857/50857-h/50857-h.htm); [facsimile PDF](https://biblicalstudies.org.uk/pdf/e-books/lightfoot_jb/colossians-philemon_lightfoot.pdf))",
+    "raw_text": "⟨DOCUMENTED⟩ **Lightfoot, J.B.** — Nineteenth-century biblical scholar. In his 1875 commentary on Colossians and Philemon, Lightfoot argued that Colossians’ language and thought were natural under the immediate circumstances and opposed to an interpolation theory, while deliberately postponing his fuller treatment of Pauline authorship until Ephesians. `CHECKED/CORRECTED 12 AUG 2026` ([primary commentary](https://www.gutenberg.org/files/50857/50857-h/50857-h.htm); [facsimile PDF](https://biblicalstudies.org.uk/pdf/e-books/lightfoot_jb/colossians-philemon_lightfoot.pdf))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15193,20 +15205,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8052b4733f4919172a1b",
-    "text": "Lowe, Malcolm — Advocate for translating Ioudaioi as \"Judeans.\"",
-    "raw_text": "**Lowe, Malcolm** — Advocate for translating *Ioudaioi* as \"Judeans.\"",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_3a54756815743a71098a",
+    "text": "Louth, Andrew — Patristics scholar and author of Maximus the Confessor (Routledge, 1996). CHECKED 12 AUG 2026 ([Routledge](https://www.routledge.com/Maximus-the-Confessor/Louth/p/book/9780203991275); [Durham Research Online](https://durham-repository.worktribe.com/output/1128206/maximus-the-confessor))",
+    "raw_text": "⟨DOCUMENTED⟩ **Louth, Andrew** — Patristics scholar and author of *Maximus the Confessor* (Routledge, 1996). `CHECKED 12 AUG 2026` ([Routledge](https://www.routledge.com/Maximus-the-Confessor/Louth/p/book/9780203991275); [Durham Research Online](https://durham-repository.worktribe.com/output/1128206/maximus-the-confessor))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15225,20 +15237,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_34ca4066832213a8246f",
-    "text": "Ludemann, Gerd — Critical secular scholar; The Resurrection of Jesus (1994). Naturalistic explanation of the resurrection appearances.",
-    "raw_text": "**Ludemann, Gerd** — Critical secular scholar; *The Resurrection of Jesus* (1994). Naturalistic explanation of the resurrection appearances.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_8916f411660abde1eb87",
+    "text": "Lowe, Malcolm — Scholar who argues systematically for translating Ioudaioi as “Judeans” in Josephus and, on geographical grounds, in the Gospel of John, while also recognizing that translation depends on context. CHECKED/CORRECTED 12 AUG 2026 ([Lowe, “Concepts and Words”](https://themarginaliareview.com/concepts-words-malcolm-lowe/); [Vrije Universiteit research record](https://research.vu.nl/en/publications/joden-of-judee%C3%ABrs-over-de-vertaling-van-het-woord-ioudaioi-in-het/))",
+    "raw_text": "⟨DOCUMENTED⟩ **Lowe, Malcolm** — Scholar who argues systematically for translating *Ioudaioi* as “Judeans” in Josephus and, on geographical grounds, in the Gospel of John, while also recognizing that translation depends on context. `CHECKED/CORRECTED 12 AUG 2026` ([Lowe, “Concepts and Words”](https://themarginaliareview.com/concepts-words-malcolm-lowe/); [Vrije Universiteit research record](https://research.vu.nl/en/publications/joden-of-judee%C3%ABrs-over-de-vertaling-van-het-woord-ioudaioi-in-het/))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15257,20 +15269,20 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_19f79407012a2d19c50d",
-    "text": "Luther, Martin (1483–1546) — Protestant reformer; foundational for the Lutheran tradition. Important flag: His later writings on Jews advocated destroying synagogues and Jewish homes, restricting Jewish religious activity, forced labor, and expulsion. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics.",
-    "raw_text": "**Luther, Martin** (1483–1546) — Protestant reformer; foundational for the Lutheran tradition. **Important flag:** His later writings on Jews advocated destroying synagogues and Jewish homes, restricting Jewish religious activity, forced labor, and expulsion. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_1bf2c7d976d7bdd7ed4d",
+    "text": "Lüdemann, Gerd — New Testament scholar and author of The Resurrection of Jesus: History, Experience, Theology (English edition, 1994). The book offers a largely negative historical reconstruction of the resurrection traditions and attributes substantial portions of the Easter narratives to tradition and the evangelists. The earlier phrase “naturalistic explanation” was too vague to function as a sourced claim. CHECKED/CORRECTED 12 AUG 2026 ([WorldCat](https://search.worldcat.org/title/The-resurrection-of-Jesus-%3A-history-experience-theology/oclc/624404301); [Google Books](https://books.google.com/books/about/The_Resurrection_of_Jesus.html?id=bRHZAAAAMAAJ))",
+    "raw_text": "⟨DOCUMENTED⟩ **Lüdemann, Gerd** — New Testament scholar and author of *The Resurrection of Jesus: History, Experience, Theology* (English edition, 1994). The book offers a largely negative historical reconstruction of the resurrection traditions and attributes substantial portions of the Easter narratives to tradition and the evangelists. The earlier phrase “naturalistic explanation” was too vague to function as a sourced claim. `CHECKED/CORRECTED 12 AUG 2026` ([WorldCat](https://search.worldcat.org/title/The-resurrection-of-Jesus-%3A-history-experience-theology/oclc/624404301); [Google Books](https://books.google.com/books/about/The_Resurrection_of_Jesus.html?id=bRHZAAAAMAAJ))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
@@ -15289,25 +15301,25 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_38fca3ac11a0482e87b4",
-    "text": "MacDonald, Dennis R. — Critical scholar; There Is No Male and Female (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.",
-    "raw_text": "**MacDonald, Dennis R.** — Critical scholar; *There Is No Male and Female* (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
+    "id": "rk_d7821e26ecc2c8644321",
+    "text": "Luther, Martin (1483–1546) — Protestant reformer. In his 1543 anti-Jewish writings, especially On the Jews and Their Lies, Luther called for burning synagogues and schools, razing Jewish homes, confiscating religious books and property, forbidding rabbis to teach, imposing forced labor, and expelling Jews who would not convert. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics. The earlier internal note about Calvin’s Institutes was irrelevant to this biographical entry and has been removed. CHECKED/CORRECTED 12 AUG 2026 ([Oxford Research Encyclopedia of Religion](https://academic.oup.com/edited-volume/62249/chapter-abstract/551379272?login=false); [Encyclopedia.com academic entry](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/luther-martindeg); [primary text](https://en.wikisource.org/wiki/The_Jews_and_Their_Lies))",
+    "raw_text": "⟨DOCUMENTED⟩ **Luther, Martin** (1483–1546) — Protestant reformer. In his 1543 anti-Jewish writings, especially *On the Jews and Their Lies*, Luther called for burning synagogues and schools, razing Jewish homes, confiscating religious books and property, forbidding rabbis to teach, imposing forced labor, and expelling Jews who would not convert. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics. The earlier internal note about Calvin’s *Institutes* was irrelevant to this biographical entry and has been removed. `CHECKED/CORRECTED 12 AUG 2026` ([Oxford Research Encyclopedia of Religion](https://academic.oup.com/edited-volume/62249/chapter-abstract/551379272?login=false); [Encyclopedia.com academic entry](https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/luther-martindeg); [primary text](https://en.wikisource.org/wiki/The_Jews_and_Their_Lies))",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "M"
+      "L"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -15315,24 +15327,24 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
     "source_reference": "paragraph:473",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
     },
-    "review_required": true,
+    "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f615ce5d5f873af3d43d",
-    "text": "MacIntyre, Alasdair — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics.",
-    "raw_text": "**MacIntyre, Alasdair** — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics.",
+    "id": "rk_c99ad9ec537bd454fcb0",
+    "text": "⟨UNRESOLVED⟩ MacDonald, Dennis R. — Critical scholar; There Is No Male and Female (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **MacDonald, Dennis R.** — Critical scholar; *There Is No Male and Female* (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15362,9 +15374,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9e16fbe42ae4cff7d22f",
-    "text": "Mackie, J.L. — Philosopher; atheist; Ethics: Inventing Right and Wrong (1977); \"Evil and Omnipotence\" (Mind, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.",
-    "raw_text": "**Mackie, J.L.** — Philosopher; atheist; *Ethics: Inventing Right and Wrong* (1977); \"Evil and Omnipotence\" (*Mind*, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.",
+    "id": "rk_f7a8075b348420e3eaa5",
+    "text": "⟨UNRESOLVED⟩ MacIntyre, Alasdair — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **MacIntyre, Alasdair** — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15394,9 +15406,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f9bfd2d025107f2a9c38",
-    "text": "Macrina the Younger (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.",
-    "raw_text": "**Macrina the Younger** (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.",
+    "id": "rk_de119ea8c40941e247c6",
+    "text": "⟨UNRESOLVED⟩ Mackie, J.L. — Philosopher; atheist; Ethics: Inventing Right and Wrong (1977); \"Evil and Omnipotence\" (Mind, 1955). Error theory — objective moral values do not exist — and the logical problem of evil. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mackie, J.L.** — Philosopher; atheist; *Ethics: Inventing Right and Wrong* (1977); \"Evil and Omnipotence\" (*Mind*, 1955). Error theory — objective moral values do not exist — and the logical problem of evil. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15426,9 +15438,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ed77b0f4642721ce82c2",
-    "text": "Maitzen, Stephen — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (Religious Studies, 2006). Moral paralysis objection to skeptical theism.",
-    "raw_text": "**Maitzen, Stephen** — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (*Religious Studies*, 2006). Moral paralysis objection to skeptical theism.",
+    "id": "rk_10ec7d32546b08657f40",
+    "text": "⟨UNRESOLVED⟩ Macrina the Younger (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Macrina the Younger** (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15458,9 +15470,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d587e83899ea6b45b865",
-    "text": "Maimonides — Medieval Jewish philosopher; Sefer HaMitzvot. His enumeration of 613 commandments illustrates that the list never sorts itself — someone always does the sorting.",
-    "raw_text": "**Maimonides** — Medieval Jewish philosopher; *Sefer HaMitzvot*. His enumeration of 613 commandments illustrates that the list never sorts itself — someone always does the sorting.",
+    "id": "rk_6561b758902d626c33c8",
+    "text": "⟨UNRESOLVED⟩ Maitzen, Stephen — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (Religious Studies, 2006). Moral paralysis objection to skeptical theism. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Maitzen, Stephen** — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (*Religious Studies*, 2006). Moral paralysis objection to skeptical theism. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15490,9 +15502,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_69a03897dae06005c731",
-    "text": "Malamat, Abraham — Critical scholar; eleph-as-military-unit proposal (1967).",
-    "raw_text": "**Malamat, Abraham** — Critical scholar; *eleph*-as-military-unit proposal (1967).",
+    "id": "rk_c8c6699563eedf245ef9",
+    "text": "⟨UNRESOLVED⟩ Maimonides — Medieval Jewish philosopher; Sefer HaMitzvot. His enumeration of 613 commandments using fourteen governing principles illustrates that the list never sorts itself — someone always does the sorting. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Maimonides** — Medieval Jewish philosopher; *Sefer HaMitzvot*. His enumeration of 613 commandments using fourteen governing principles illustrates that the list never sorts itself — someone always does the sorting. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15522,9 +15534,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5b0697f896b3f0917248",
-    "text": "Marcella of Rome — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.",
-    "raw_text": "**Marcella of Rome** — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.",
+    "id": "rk_8c856141fe8ddf4e054e",
+    "text": "⟨UNRESOLVED⟩ Malamat, Abraham — Critical scholar; eleph-as-military-unit proposal (1967). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Malamat, Abraham** — Critical scholar; *eleph*-as-military-unit proposal (1967). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15554,9 +15566,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d8ba4cd3998c77fd145e",
-    "text": "Marcion (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.",
-    "raw_text": "**Marcion** (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.",
+    "id": "rk_ffece87de4667b84da44",
+    "text": "⟨UNRESOLVED⟩ Marcella of Rome — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Marcella of Rome** — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15586,9 +15598,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d788e1437bf8cc875420",
-    "text": "Martin Luther King Jr. — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history.",
-    "raw_text": "**Martin Luther King Jr.** — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history.",
+    "id": "rk_934335eeb3ddf79a848a",
+    "text": "⟨UNRESOLVED⟩ Marcion (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Marcion** (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15618,9 +15630,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_202116907258b82b7f8e",
-    "text": "Martyn, J. Louis — Critical scholar; History and Theology in the Fourth Gospel (1968); Galatians (Anchor Bible, 1997). Two-level-drama reconstruction of the aposynagogos — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.",
-    "raw_text": "**Martyn, J. Louis** — Critical scholar; *History and Theology in the Fourth Gospel* (1968); *Galatians* (Anchor Bible, 1997). Two-level-drama reconstruction of the *aposynagogos* — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.",
+    "id": "rk_f899d01d7f57a8ff4e84",
+    "text": "⟨UNRESOLVED⟩ Martin Luther King Jr. — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Martin Luther King Jr.** — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15650,9 +15662,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8fb590598dbef7c0e455",
-    "text": "Mason, Steve — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus.",
-    "raw_text": "**Mason, Steve** — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus.",
+    "id": "rk_7adfb807aa0321c451ab",
+    "text": "⟨UNRESOLVED⟩ Martyn, J. Louis — Critical scholar; History and Theology in the Fourth Gospel (1968); Galatians (Anchor Bible, 1997). Two-level-drama reconstruction of the aposynagogos — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Martyn, J. Louis** — Critical scholar; *History and Theology in the Fourth Gospel* (1968); *Galatians* (Anchor Bible, 1997). Two-level-drama reconstruction of the *aposynagogos* — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15682,9 +15694,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_add9d7f28eae28afe4be",
-    "text": "Maximus the Confessor (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).",
-    "raw_text": "**Maximus the Confessor** (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).",
+    "id": "rk_b3fe5d3887f089cea520",
+    "text": "⟨UNRESOLVED⟩ Mason, Steve — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mason, Steve** — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15714,9 +15726,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3983264ea971e368f68b",
-    "text": "Mays, James Luther — Critical scholar; Amos (OT Library, 1969); Micah (OT Library, 1976).",
-    "raw_text": "**Mays, James Luther** — Critical scholar; *Amos* (OT Library, 1969); *Micah* (OT Library, 1976).",
+    "id": "rk_127471058aca8b2ba26f",
+    "text": "⟨UNRESOLVED⟩ Maximus the Confessor (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Maximus the Confessor** (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15746,9 +15758,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1859454164270a6481f4",
-    "text": "Mazar, Amihai — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom.",
-    "raw_text": "**Mazar, Amihai** — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom.",
+    "id": "rk_e6e8caa88da86dd753d6",
+    "text": "⟨UNRESOLVED⟩ Mays, James Luther — Critical scholar; Amos (OT Library, 1969); Micah (OT Library, 1976). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mays, James Luther** — Critical scholar; *Amos* (OT Library, 1969); *Micah* (OT Library, 1976). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15778,9 +15790,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7020fd170ac17d9cbd4f",
-    "text": "McDowell, Sean — Popular evangelical apologist.",
-    "raw_text": "**McDowell, Sean** — Popular evangelical apologist.",
+    "id": "rk_1a3f0e3980b24b2bd8c5",
+    "text": "⟨UNRESOLVED⟩ Mazar, Amihai — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mazar, Amihai** — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15810,9 +15822,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3dc990fee8fff050c570",
-    "text": "McDonald, Lee Martin — The Biblical Canon (2007). Scholarly treatment of canon formation.",
-    "raw_text": "**McDonald, Lee Martin** — *The Biblical Canon* (2007). Scholarly treatment of canon formation.",
+    "id": "rk_c4104250478fae2789f3",
+    "text": "⟨UNRESOLVED⟩ McDowell, Sean — Popular evangelical apologist. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **McDowell, Sean** — Popular evangelical apologist. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15842,9 +15854,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c52877c72bdf1a77c441",
-    "text": "McKnight, Scot — Evangelical critical scholar; Sermon on the Mount (2013). Cites Qumran Community Rule as context for Matthew 5:43.",
-    "raw_text": "**McKnight, Scot** — Evangelical critical scholar; *Sermon on the Mount* (2013). Cites Qumran Community Rule as context for Matthew 5:43.",
+    "id": "rk_bb18bdb0e0a082226b4f",
+    "text": "⟨UNRESOLVED⟩ McDonald, Lee Martin — The Biblical Canon (2007). Scholarly treatment of canon formation. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **McDonald, Lee Martin** — *The Biblical Canon* (2007). Scholarly treatment of canon formation. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15874,9 +15886,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2807abe6e84758721af5",
-    "text": "Meeks, Wayne — Critical scholar; \"The Image of the Androgyne\" (History of Religions, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.",
-    "raw_text": "**Meeks, Wayne** — Critical scholar; \"The Image of the Androgyne\" (*History of Religions*, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.",
+    "id": "rk_c0d8f778d6b529bda63f",
+    "text": "⟨UNRESOLVED⟩ McKnight, Scot — Evangelical critical scholar; Sermon on the Mount (2013). Cites Qumran Community Rule as context for Matthew 5:43. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **McKnight, Scot** — Evangelical critical scholar; *Sermon on the Mount* (2013). Cites Qumran Community Rule as context for Matthew 5:43. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15906,9 +15918,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_537926bbcd880803abc7",
-    "text": "Melania the Elder — Asceticism; monastic patronage; associated with Origenist circles.",
-    "raw_text": "**Melania the Elder** — Asceticism; monastic patronage; associated with Origenist circles.",
+    "id": "rk_945c40761dbad781b8d1",
+    "text": "⟨UNRESOLVED⟩ Meeks, Wayne — Critical scholar; \"The Image of the Androgyne\" (History of Religions, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Meeks, Wayne** — Critical scholar; \"The Image of the Androgyne\" (*History of Religions*, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15938,9 +15950,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e15610101ed457a5e063",
-    "text": "Melania the Younger — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.",
-    "raw_text": "**Melania the Younger** — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.",
+    "id": "rk_3decc340001de78018db",
+    "text": "⟨UNRESOLVED⟩ Melania the Elder — Asceticism; monastic patronage; associated with Origenist circles. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Melania the Elder** — Asceticism; monastic patronage; associated with Origenist circles. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -15970,9 +15982,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d059cce51c5034054ea",
-    "text": "Mendenhall, George — Critical scholar; eleph-as-military-unit proposal (1958).",
-    "raw_text": "**Mendenhall, George** — Critical scholar; *eleph*-as-military-unit proposal (1958).",
+    "id": "rk_e9ed7113a9a265cc782f",
+    "text": "⟨UNRESOLVED⟩ Melania the Younger — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Melania the Younger** — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16002,9 +16014,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ce990eed7ec3d1aa12ba",
-    "text": "Merkle, Benjamin L. — Evangelical complementarian; reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions.",
-    "raw_text": "**Merkle, Benjamin L.** — Evangelical complementarian; reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions.",
+    "id": "rk_f921a4e518944a3b2aa9",
+    "text": "⟨UNRESOLVED⟩ Mendenhall, George — Critical scholar; eleph-as-military-unit proposal (1958). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mendenhall, George** — Critical scholar; *eleph*-as-military-unit proposal (1958). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16034,9 +16046,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1b0f9b477cac44f93690",
-    "text": "Metzger, Bruce — Critical scholar; The Canon of the New Testament (1987). Wrote the preface to the NRSV/NRSVue.",
-    "raw_text": "**Metzger, Bruce** — Critical scholar; *The Canon of the New Testament* (1987). Wrote the preface to the NRSV/NRSVue.",
+    "id": "rk_b681671a6724d388127c",
+    "text": "⟨UNRESOLVED⟩ Merkle, Benjamin L. — Evangelical complementarian; reads Galatians 3:28 through the Genesis 1:27 echo as unity-in-Christ without erasing functional distinctions. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Merkle, Benjamin L.** — Evangelical complementarian; reads Galatians 3:28 through the Genesis 1:27 echo as unity-in-Christ without erasing functional distinctions. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16066,9 +16078,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_36185b6bf163795baeec",
-    "text": "Milgrom, Jacob — Jewish critical scholar; Leviticus (Anchor Bible, 2000). Leviticus 18:22 ban restricted to Israelite men in the land; lesbianism not prohibited.",
-    "raw_text": "**Milgrom, Jacob** — Jewish critical scholar; *Leviticus* (Anchor Bible, 2000). Leviticus 18:22 ban restricted to Israelite men in the land; lesbianism not prohibited.",
+    "id": "rk_0534f00dcccafa0a1474",
+    "text": "⟨UNRESOLVED⟩ Metzger, Bruce — Critical scholar; The Canon of the New Testament (1987). Wrote the preface to the NRSV/NRSVue. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Metzger, Bruce** — Critical scholar; *The Canon of the New Testament* (1987). Wrote the preface to the NRSV/NRSVue. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16098,9 +16110,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ac56145e58d51c289f3",
-    "text": "Mineka, Susan — Psychologist; preparedness model of fear acquisition.",
-    "raw_text": "**Mineka, Susan** — Psychologist; preparedness model of fear acquisition.",
+    "id": "rk_b7fd13d1708fb558a024",
+    "text": "⟨UNRESOLVED⟩ Milgrom, Jacob — Jewish critical scholar; Leviticus (Anchor Bible, 2000). Leviticus 18:22 ban is absolute and unique in the ANE but restricted to Israelite men in the land; lesbianism not prohibited. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Milgrom, Jacob** — Jewish critical scholar; *Leviticus* (Anchor Bible, 2000). Leviticus 18:22 ban is absolute and unique in the ANE but restricted to Israelite men in the land; lesbianism not prohibited. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16130,9 +16142,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_866c83095d41a0d50855",
-    "text": "Monica — Augustine's mother; known through his account in the Confessions, not through her own surviving writing.",
-    "raw_text": "**Monica** — Augustine's mother; known through his account in the *Confessions*, not through her own surviving writing.",
+    "id": "rk_9134aeb123f5cd873315",
+    "text": "⟨UNRESOLVED⟩ Mineka, Susan — Psychologist; preparedness model of fear acquisition. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mineka, Susan** — Psychologist; preparedness model of fear acquisition. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16162,9 +16174,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6fe06bf125e0652971cb",
-    "text": "Montanus — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.",
-    "raw_text": "**Montanus** — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.",
+    "id": "rk_b288e7a0d4c557a356dd",
+    "text": "⟨UNRESOLVED⟩ Monica — Augustine's mother; known through his account in the Confessions, not through her own surviving writing. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Monica** — Augustine's mother; known through his account in the *Confessions*, not through her own surviving writing. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16194,9 +16206,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_47bad993c35a55521cd8",
-    "text": "Moo, Douglas — Conservative evangelical; Romans (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.",
-    "raw_text": "**Moo, Douglas** — Conservative evangelical; *Romans* (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.",
+    "id": "rk_3a07dc5bdfd4069bff08",
+    "text": "⟨UNRESOLVED⟩ Montanus — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Montanus** — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16226,9 +16238,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fcc02f40bb3702c0a2d7",
-    "text": "Moore, A.L. — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.",
-    "raw_text": "**Moore, A.L.** — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.",
+    "id": "rk_996757493373f6c583f1",
+    "text": "⟨UNRESOLVED⟩ Moo, Douglas — Conservative evangelical; Romans (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Moo, Douglas** — Conservative evangelical; *Romans* (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16258,9 +16270,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_44b4522af995f11fd42d",
-    "text": "Moore, G.E. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
-    "raw_text": "**Moore, G.E.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
+    "id": "rk_a1283891a486822bf559",
+    "text": "⟨UNRESOLVED⟩ Moore, A.L. — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Moore, A.L.** — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16290,9 +16302,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3134bdd00624ca65f081",
-    "text": "Moore, Russell — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.",
-    "raw_text": "**Moore, Russell** — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.",
+    "id": "rk_3e3ee551e3d430e8afbe",
+    "text": "⟨UNRESOLVED⟩ Moore, G.E. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Moore, G.E.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16322,9 +16334,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_05d1aa31fe3eb1f9b403",
-    "text": "Moreland, J.P. — Evangelical philosopher; Philosophical Foundations for a Christian Worldview (2003).",
-    "raw_text": "**Moreland, J.P.** — Evangelical philosopher; *Philosophical Foundations for a Christian Worldview* (2003).",
+    "id": "rk_73f1ea40f3d5c21691ca",
+    "text": "⟨UNRESOLVED⟩ Moore, Russell — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Moore, Russell** — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16354,9 +16366,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_503b3d75e77783a413df",
-    "text": "Morris, Thomas V. — Analytic theologian; The Logic of God Incarnate (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.",
-    "raw_text": "**Morris, Thomas V.** — Analytic theologian; *The Logic of God Incarnate* (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.",
+    "id": "rk_37e12fd16c7fddc6a4c4",
+    "text": "⟨UNRESOLVED⟩ Moreland, J.P. — Evangelical philosopher; Philosophical Foundations for a Christian Worldview (2003). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Moreland, J.P.** — Evangelical philosopher; *Philosophical Foundations for a Christian Worldview* (2003). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16386,9 +16398,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d4f5619dfc8d052e9c8",
-    "text": "Motyer, Alec — Conservative evangelical; The Prophecy of Isaiah (IVP, 1993). Sensus plenior/double-fulfillment reading of Isaiah 7–11.",
-    "raw_text": "**Motyer, Alec** — Conservative evangelical; *The Prophecy of Isaiah* (IVP, 1993). *Sensus plenior*/double-fulfillment reading of Isaiah 7–11.",
+    "id": "rk_6fcb75b6d07d70874d64",
+    "text": "⟨UNRESOLVED⟩ Morris, Thomas V. — Analytic theologian; The Logic of God Incarnate (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Morris, Thomas V.** — Analytic theologian; *The Logic of God Incarnate* (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16418,9 +16430,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fc617aa7ed1e5262d990",
-    "text": "Mowczko, Marg — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.",
-    "raw_text": "**Mowczko, Marg** — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.",
+    "id": "rk_88d6e373ab992a6157a6",
+    "text": "⟨UNRESOLVED⟩ Motyer, Alec — Conservative evangelical; The Prophecy of Isaiah (IVP, 1993). Sensus plenior/double-fulfillment reading of Isaiah 7–11. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Motyer, Alec** — Conservative evangelical; *The Prophecy of Isaiah* (IVP, 1993). *Sensus plenior*/double-fulfillment reading of Isaiah 7–11. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16450,9 +16462,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_eaed82ab9bf425040500",
-    "text": "Munro, Winsome — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (JSNT, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid.",
-    "raw_text": "**Munro, Winsome** — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (*JSNT*, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid.",
+    "id": "rk_8b6d70cd8eb921e2beca",
+    "text": "⟨UNRESOLVED⟩ Mowczko, Marg — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Mowczko, Marg** — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16482,16 +16494,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e9f62823d28c90eb80e0",
-    "text": "Neil, Bronwen — Patristics scholar; Maximus the Confessor and His Companions (OUP, 2002).",
-    "raw_text": "**Neil, Bronwen** — Patristics scholar; *Maximus the Confessor and His Companions* (OUP, 2002).",
+    "id": "rk_08ca5e2a8afc1b0e3db0",
+    "text": "⟨UNRESOLVED⟩ Munro, Winsome — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (JSNT, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Munro, Winsome** — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (*JSNT*, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "N"
+      "M"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16499,7 +16511,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
     "source_reference": "paragraph:510",
     "parent_id": null,
     "related_ids": [],
@@ -16514,9 +16526,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ec07c56fa7c9ac6ce121",
-    "text": "Nestorius — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label \"Nestorian\" likely misrepresents both him and the Church of the East.",
-    "raw_text": "**Nestorius** — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label \"Nestorian\" likely misrepresents both him and the Church of the East.",
+    "id": "rk_3a025127dc6ea01fc51e",
+    "text": "⟨UNRESOLVED⟩ Neil, Bronwen — Patristics scholar; Maximus the Confessor and His Companions (OUP, 2002). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Neil, Bronwen** — Patristics scholar; *Maximus the Confessor and His Companions* (OUP, 2002). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16546,9 +16558,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9a4058d15899e50fd5ae",
-    "text": "Nirenberg, David — Critical historian; Anti-Judaism: The Western Tradition (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought.",
-    "raw_text": "**Nirenberg, David** — Critical historian; *Anti-Judaism: The Western Tradition* (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought.",
+    "id": "rk_fbe4d1ddb78653752173",
+    "text": "⟨UNRESOLVED⟩ Nestorius — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label \"Nestorian\" likely misrepresents both him and the Church of the East. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Nestorius** — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label \"Nestorian\" likely misrepresents both him and the Church of the East. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16578,9 +16590,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dec6b178a1f98e088260",
-    "text": "Nix, William — Conservative evangelical; A General Introduction to the Bible (1986).",
-    "raw_text": "**Nix, William** — Conservative evangelical; *A General Introduction to the Bible* (1986).",
+    "id": "rk_f0f65209b5c19fbb4869",
+    "text": "⟨UNRESOLVED⟩ Nirenberg, David — Critical historian; Anti-Judaism: The Western Tradition (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Nirenberg, David** — Critical historian; *Anti-Judaism: The Western Tradition* (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16610,9 +16622,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08f2c3fe934ed6ed5960",
-    "text": "Noll, Mark A. — Evangelical historian; The Civil War as a Theological Crisis (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act.",
-    "raw_text": "**Noll, Mark A.** — Evangelical historian; *The Civil War as a Theological Crisis* (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act.",
+    "id": "rk_f6e48993d7540c8439f6",
+    "text": "⟨UNRESOLVED⟩ Nix, William — Conservative evangelical; A General Introduction to the Bible (1986). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Nix, William** — Conservative evangelical; *A General Introduction to the Bible* (1986). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16642,16 +16654,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_026aec91139f0eb7f161",
-    "text": "O'Neill, Tim — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions.",
-    "raw_text": "**O'Neill, Tim** — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions.",
+    "id": "rk_66fe87cb68eadd9442c6",
+    "text": "⟨UNRESOLVED⟩ Noll, Mark A. — Evangelical historian; The Civil War as a Theological Crisis (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Noll, Mark A.** — Evangelical historian; *The Civil War as a Theological Crisis* (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "O"
+      "N"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16659,7 +16671,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
     "source_reference": "paragraph:515",
     "parent_id": null,
     "related_ids": [],
@@ -16674,9 +16686,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7e1ccaedfa4ae82d9631",
-    "text": "Ohman, Arne — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate.",
-    "raw_text": "**Ohman, Arne** — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate.",
+    "id": "rk_aff14610323eaa55d3e3",
+    "text": "⟨UNRESOLVED⟩ O'Neill, Tim — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **O'Neill, Tim** — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16706,9 +16718,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9cbad943dcdcd58fa4fa",
-    "text": "Olyan, Saul — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner.",
-    "raw_text": "**Olyan, Saul** — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner.",
+    "id": "rk_628a913be7eb93e92d30",
+    "text": "⟨UNRESOLVED⟩ Ohman, Arne — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Ohman, Arne** — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16738,9 +16750,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e1028c2483be2ac8205f",
-    "text": "Olson, Ken — Critical scholar. Argued the Testimonium Flavianum is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position.",
-    "raw_text": "**Olson, Ken** — Critical scholar. Argued the *Testimonium Flavianum* is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position.",
+    "id": "rk_63ed4fdc1ee36121cdad",
+    "text": "⟨UNRESOLVED⟩ Olyan, Saul — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Olyan, Saul** — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16770,9 +16782,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_24ac824b8780955cbf24",
-    "text": "Olympias the Deaconess — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures.",
-    "raw_text": "**Olympias the Deaconess** — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures.",
+    "id": "rk_c717027a434f8810392d",
+    "text": "⟨UNRESOLVED⟩ Olson, Ken — Critical scholar. Argued the Testimonium Flavianum is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Olson, Ken** — Critical scholar. Argued the *Testimonium Flavianum* is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16802,9 +16814,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9643038c9bbcf92fc655",
-    "text": "Oppy, Graham — Philosopher; atheist/naturalist (Monash); Arguing About Gods (2006). Analytic philosophy of religion from a secular perspective.",
-    "raw_text": "**Oppy, Graham** — Philosopher; atheist/naturalist (Monash); *Arguing About Gods* (2006). Analytic philosophy of religion from a secular perspective.",
+    "id": "rk_81385e5841903bb1b4db",
+    "text": "⟨UNRESOLVED⟩ Olympias the Deaconess — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Olympias the Deaconess** — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16834,9 +16846,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_15096929cef3a178a851",
-    "text": "Origen (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading.",
-    "raw_text": "**Origen** (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading.",
+    "id": "rk_12205ec811a25a7c0360",
+    "text": "⟨UNRESOLVED⟩ Oppy, Graham — Philosopher; atheist/naturalist (Monash); Arguing About Gods (2006). Analytic philosophy of religion from a secular perspective. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Oppy, Graham** — Philosopher; atheist/naturalist (Monash); *Arguing About Gods* (2006). Analytic philosophy of religion from a secular perspective. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16866,16 +16878,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ae45b050c071b3275e2",
-    "text": "Page, Frank — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995).",
-    "raw_text": "**Page, Frank** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995).",
+    "id": "rk_f62de8584513ce7a2abc",
+    "text": "⟨UNRESOLVED⟩ Origen (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Origen** (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "P"
+      "O"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -16883,7 +16895,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
     "source_reference": "paragraph:522",
     "parent_id": null,
     "related_ids": [],
@@ -16898,9 +16910,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1dda3533230c946a1465",
-    "text": "Parfit, Derek — Philosopher; On What Matters (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do.",
-    "raw_text": "**Parfit, Derek** — Philosopher; *On What Matters* (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do.",
+    "id": "rk_fd24108610362d3c4567",
+    "text": "⟨UNRESOLVED⟩ Page, Frank — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Page, Frank** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16930,9 +16942,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e58f63a9b87955e133c7",
-    "text": "Parker, Pierson — Critical scholar (JBL, 1967). Argues Galatians 2 and Acts 15 describe the same meeting.",
-    "raw_text": "**Parker, Pierson** — Critical scholar (*JBL*, 1967). Argues Galatians 2 and Acts 15 describe the same meeting.",
+    "id": "rk_3d197da255327e1ca7f4",
+    "text": "⟨UNRESOLVED⟩ Parfit, Derek — Philosopher; On What Matters (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Parfit, Derek** — Philosopher; *On What Matters* (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16962,9 +16974,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7103e73f675824cb8ef7",
-    "text": "Paul, Richard — Critical Thinking (Pearson), with Elder. Widely used reasoning framework.",
-    "raw_text": "**Paul, Richard** — *Critical Thinking* (Pearson), with Elder. Widely used reasoning framework.",
+    "id": "rk_4585125cdec09c4f35a1",
+    "text": "⟨UNRESOLVED⟩ Parker, Pierson — Critical scholar (JBL, 1967). Argues Galatians 2 and Acts 15 describe the same meeting. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Parker, Pierson** — Critical scholar (*JBL*, 1967). Argues Galatians 2 and Acts 15 describe the same meeting. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16994,9 +17006,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_51b289df2212068ac559",
-    "text": "Paul, Shalom M. — Jewish critical scholar; Amos (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5.",
-    "raw_text": "**Paul, Shalom M.** — Jewish critical scholar; *Amos* (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5.",
+    "id": "rk_83338075e72f7b5fe81a",
+    "text": "⟨UNRESOLVED⟩ Paul, Richard — Critical Thinking (Pearson), with Elder. Widely used reasoning framework. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Paul, Richard** — *Critical Thinking* (Pearson), with Elder. Widely used reasoning framework. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17026,9 +17038,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9ed167b8eeb6661cea5d",
-    "text": "Paula of Rome — Worked closely with Jerome; funded and collaborated on his biblical scholarship.",
-    "raw_text": "**Paula of Rome** — Worked closely with Jerome; funded and collaborated on his biblical scholarship.",
+    "id": "rk_771467390cdb1eda5554",
+    "text": "⟨UNRESOLVED⟩ Paul, Shalom M. — Jewish critical scholar; Amos (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Paul, Shalom M.** — Jewish critical scholar; *Amos* (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17058,9 +17070,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d815fa4d9ce548b09d47",
-    "text": "Pelagius — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism.",
-    "raw_text": "**Pelagius** — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism.",
+    "id": "rk_f5ca121b534241e1afe3",
+    "text": "⟨UNRESOLVED⟩ Paula of Rome — Worked closely with Jerome; funded and collaborated on his biblical scholarship. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Paula of Rome** — Worked closely with Jerome; funded and collaborated on his biblical scholarship. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17090,9 +17102,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b9c5a86ec17cbc4eaee2",
-    "text": "Perpetua — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account.",
-    "raw_text": "**Perpetua** — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account.",
+    "id": "rk_e32f5c69fb1320da343f",
+    "text": "⟨UNRESOLVED⟩ Pelagius — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Pelagius** — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17122,9 +17134,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8167d2bc365d10a4d748",
-    "text": "Persinger, Michael — Neuroscientist; Neuropsychological Bases of God Beliefs (1987). Temporal lobe stimulation and religious experience.",
-    "raw_text": "**Persinger, Michael** — Neuroscientist; *Neuropsychological Bases of God Beliefs* (1987). Temporal lobe stimulation and religious experience.",
+    "id": "rk_c835ce504eaab750ba6a",
+    "text": "⟨UNRESOLVED⟩ Perpetua — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Perpetua** — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17154,9 +17166,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a5a6b1c34384b68ca843",
-    "text": "Petrie, W.M.F. (Flinders Petrie) — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an eleph-as-military-unit proposal (1931).",
-    "raw_text": "**Petrie, W.M.F. (Flinders Petrie)** — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an *eleph*-as-military-unit proposal (1931).",
+    "id": "rk_2bae8227193a030b5fc4",
+    "text": "⟨UNRESOLVED⟩ Persinger, Michael — Neuroscientist; Neuropsychological Bases of God Beliefs (1987). Temporal lobe stimulation and religious experience. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Persinger, Michael** — Neuroscientist; *Neuropsychological Bases of God Beliefs* (1987). Temporal lobe stimulation and religious experience. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17186,9 +17198,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_000e553b5f9534080d94",
-    "text": "Philo of Alexandria (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower.",
-    "raw_text": "**Philo of Alexandria** (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower.",
+    "id": "rk_feda5f1e0837465b90fe",
+    "text": "⟨UNRESOLVED⟩ Petrie, W.M.F. (Flinders Petrie) — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an eleph-as-military-unit proposal (1931). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Petrie, W.M.F. (Flinders Petrie)** — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an *eleph*-as-military-unit proposal (1931). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17218,9 +17230,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_271cedebefaf2567ffb7",
-    "text": "Philostorgius — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands.",
-    "raw_text": "**Philostorgius** — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands.",
+    "id": "rk_3ba645d11bc5e3a85d50",
+    "text": "⟨UNRESOLVED⟩ Philo of Alexandria (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Philo of Alexandria** (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17250,9 +17262,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e6307fba549cd5d69f92",
-    "text": "Photius (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea.",
-    "raw_text": "**Photius** (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea.",
+    "id": "rk_ab4a11aad6c48904356a",
+    "text": "⟨UNRESOLVED⟩ Philostorgius — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Philostorgius** — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17282,9 +17294,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9789ec895785fb4944be",
-    "text": "Pinker, Steven — Psychologist; The Better Angels of Our Nature (2011). Secular case that human moral progress has tracked a reduction of violence.",
-    "raw_text": "**Pinker, Steven** — Psychologist; *The Better Angels of Our Nature* (2011). Secular case that human moral progress has tracked a reduction of violence.",
+    "id": "rk_0991a48a19abd396cd4c",
+    "text": "⟨UNRESOLVED⟩ Photius (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Photius** (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17314,9 +17326,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c19676ed8f7a43b39804",
-    "text": "Pinnock, Clark — Evangelical; argues Paul's eschatology matured rather than changed.",
-    "raw_text": "**Pinnock, Clark** — Evangelical; argues Paul's eschatology matured rather than changed.",
+    "id": "rk_b6d072b66849ab001f75",
+    "text": "⟨UNRESOLVED⟩ Pinker, Steven — Psychologist; The Better Angels of Our Nature (2011). Secular case that human moral progress has tracked a reduction of violence. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Pinker, Steven** — Psychologist; *The Better Angels of Our Nature* (2011). Secular case that human moral progress has tracked a reduction of violence. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17346,9 +17358,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6910c3f0565548d0c9e2",
-    "text": "Piper, John — Conservative evangelical; co-edited Recovering Biblical Manhood and Womanhood (Crossway, 1991). Flag: His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment.",
-    "raw_text": "**Piper, John** — Conservative evangelical; co-edited *Recovering Biblical Manhood and Womanhood* (Crossway, 1991). **Flag:** His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment.",
+    "id": "rk_b71f26bd708ad99d720c",
+    "text": "⟨UNRESOLVED⟩ Pinnock, Clark — Evangelical; argues Paul's eschatology matured rather than changed. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Pinnock, Clark** — Evangelical; argues Paul's eschatology matured rather than changed. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17378,9 +17390,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b58ad4a32cf41285efab",
-    "text": "Plantinga, Alvin — Reformed epistemologist; belief in God as \"properly basic\" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the logical problem of evil. The evidential problem of evil survives and is where the live argument now happens.",
-    "raw_text": "**Plantinga, Alvin** — Reformed epistemologist; belief in God as \"properly basic\" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the *logical* problem of evil. The *evidential* problem of evil survives and is where the live argument now happens.",
+    "id": "rk_0860730a4b6511a5ce78",
+    "text": "⟨UNRESOLVED⟩ Piper, John — Conservative evangelical; co-edited Recovering Biblical Manhood and Womanhood (Crossway, 1991). Flag: His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Piper, John** — Conservative evangelical; co-edited *Recovering Biblical Manhood and Womanhood* (Crossway, 1991). **Flag:** His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17410,9 +17422,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7a7bae78ec06ac2f32e1",
-    "text": "Pliny the Younger — Roman administrator; Letters 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics.",
-    "raw_text": "**Pliny the Younger** — Roman administrator; *Letters* 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics.",
+    "id": "rk_3422422ba10aff71f73e",
+    "text": "⟨UNRESOLVED⟩ Plantinga, Alvin — Reformed epistemologist; belief in God as \"properly basic\" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the logical problem of evil. The evidential problem of evil survives and is where the live argument now happens. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Plantinga, Alvin** — Reformed epistemologist; belief in God as \"properly basic\" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the *logical* problem of evil. The *evidential* problem of evil survives and is where the live argument now happens. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17442,9 +17454,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c0c63022776e63a31cf",
-    "text": "Polycarp of Smyrna (2nd century) — Church Father; martyred c. 155.",
-    "raw_text": "**Polycarp of Smyrna** (2nd century) — Church Father; martyred c. 155.",
+    "id": "rk_037f957d7ec6e9202640",
+    "text": "⟨UNRESOLVED⟩ Pliny the Younger — Roman administrator; Letters 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Pliny the Younger** — Roman administrator; *Letters* 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17474,9 +17486,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14e524868f1d047b5bf8",
-    "text": "Popper, Karl — Philosopher of science; The Logic of Scientific Discovery (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction.",
-    "raw_text": "**Popper, Karl** — Philosopher of science; *The Logic of Scientific Discovery* (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction.",
+    "id": "rk_ec48ab41808bea1743cf",
+    "text": "⟨UNRESOLVED⟩ Polycarp of Smyrna (2nd century) — Church Father; martyred c. 155. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Polycarp of Smyrna** (2nd century) — Church Father; martyred c. 155. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17506,9 +17518,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_028c8ee8992f71ab6277",
-    "text": "Porter, Stanley — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the general sense of what was said, not license for invention.",
-    "raw_text": "**Porter, Stanley** — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the *general sense* of what was said, not license for invention.",
+    "id": "rk_e2161287ac9683fab19e",
+    "text": "⟨UNRESOLVED⟩ Popper, Karl — Philosopher of science; The Logic of Scientific Discovery (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Popper, Karl** — Philosopher of science; *The Logic of Scientific Discovery* (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17538,9 +17550,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fa6c0782b2af0325e24a",
-    "text": "Postell, Seth — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward.",
-    "raw_text": "**Postell, Seth** — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward.",
+    "id": "rk_7ead6b117325b5ab2acb",
+    "text": "⟨UNRESOLVED⟩ Porter, Stanley — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the general sense of what was said, not license for invention. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Porter, Stanley** — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the *general sense* of what was said, not license for invention. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17570,9 +17582,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7fc17dfe8c16e6480234",
-    "text": "Priest, Josiah — Major flag: He wrote Bible Defence of Slavery and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable.",
-    "raw_text": "**Priest, Josiah** — **Major flag:** He wrote *Bible Defence of Slavery* and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable.",
+    "id": "rk_d29d6451f314fb93e182",
+    "text": "⟨UNRESOLVED⟩ Postell, Seth — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Postell, Seth** — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17602,9 +17614,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_04751ae5253e7812af41",
-    "text": "Proba (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil.",
-    "raw_text": "**Proba** (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil.",
+    "id": "rk_1ca249e3a960f0b45dd9",
+    "text": "⟨UNRESOLVED⟩ Priest, Josiah — Major flag: He wrote Bible Defence of Slavery and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Priest, Josiah** — **Major flag:** He wrote *Bible Defence of Slavery* and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17634,16 +17646,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_627e55c5dbeef15ce6dc",
-    "text": "Rachels, James — Philosopher; The Elements of Moral Philosophy (1986).",
-    "raw_text": "**Rachels, James** — Philosopher; *The Elements of Moral Philosophy* (1986).",
+    "id": "rk_d114ff916a375feae6ee",
+    "text": "⟨UNRESOLVED⟩ Proba (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Proba** (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "R"
+      "P"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -17651,7 +17663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
     "source_reference": "paragraph:546",
     "parent_id": null,
     "related_ids": [],
@@ -17666,9 +17678,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ac723dac5d4ff6b258ed",
-    "text": "Raedts, Peter — Historian; reassessed Children's Crusade sources — found pueri denotes a social class of impoverished landless peasants, not an age group.",
-    "raw_text": "**Raedts, Peter** — Historian; reassessed Children's Crusade sources — found *pueri* denotes a social class of impoverished landless peasants, not an age group.",
+    "id": "rk_c316c8be0c61a5eddef5",
+    "text": "⟨UNRESOLVED⟩ Rachels, James — Philosopher; The Elements of Moral Philosophy (1986). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Rachels, James** — Philosopher; *The Elements of Moral Philosophy* (1986). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17698,9 +17710,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0a88bd1339d3dede3431",
-    "text": "Rashi (Rabbi Shlomo Yitzchaki) — Medieval Jewish commentator. Near-term reading of Isaiah 7:14.",
-    "raw_text": "**Rashi (Rabbi Shlomo Yitzchaki)** — Medieval Jewish commentator. Near-term reading of Isaiah 7:14.",
+    "id": "rk_b1be6a6edaa7f5df058f",
+    "text": "⟨UNRESOLVED⟩ Raedts, Peter — Historian; reassessed Children's Crusade sources — found pueri denotes a social class of impoverished landless peasants, not an age group. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Raedts, Peter** — Historian; reassessed Children's Crusade sources — found *pueri* denotes a social class of impoverished landless peasants, not an age group. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17730,9 +17742,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45e7c4910f6c7254f353",
-    "text": "Ratzinger, Joseph / Benedict XVI — Catholic conservative theologian; challenges the developmental parousia-delay thesis.",
-    "raw_text": "**Ratzinger, Joseph / Benedict XVI** — Catholic conservative theologian; challenges the developmental parousia-delay thesis.",
+    "id": "rk_3416016d144c3e21104e",
+    "text": "⟨UNRESOLVED⟩ Rashi (Rabbi Shlomo Yitzchaki) — Medieval Jewish commentator. Near-term reading of Isaiah 7:14. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Rashi (Rabbi Shlomo Yitzchaki)** — Medieval Jewish commentator. Near-term reading of Isaiah 7:14. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17762,9 +17774,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_50b346f2178c83805af5",
-    "text": "Reinhartz, Adele — Jewish critical scholar; Cast Out of the Covenant (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends \"Jews\" as the accurate translation of Ioudaioi; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
-    "raw_text": "**Reinhartz, Adele** — Jewish critical scholar; *Cast Out of the Covenant* (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends \"Jews\" as the accurate translation of *Ioudaioi*; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
+    "id": "rk_9b0dfe1f27c411b61bba",
+    "text": "⟨UNRESOLVED⟩ Ratzinger, Joseph / Benedict XVI — Catholic conservative theologian; challenges the developmental parousia-delay thesis. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Ratzinger, Joseph / Benedict XVI** — Catholic conservative theologian; challenges the developmental parousia-delay thesis. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17794,9 +17806,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_714296bd7f75dd7dbb6d",
-    "text": "Rendtorff, Rolf — European school; supplementary models for Pentateuchal composition.",
-    "raw_text": "**Rendtorff, Rolf** — European school; supplementary models for Pentateuchal composition.",
+    "id": "rk_0f909d3c2e21b864e149",
+    "text": "⟨UNRESOLVED⟩ Reinhartz, Adele — Jewish critical scholar; Cast Out of the Covenant (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends \"Jews\" as the accurate translation of Ioudaioi; warns \"Judeans\" erases continuity between ancient and modern Jewish identity. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Reinhartz, Adele** — Jewish critical scholar; *Cast Out of the Covenant* (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends \"Jews\" as the accurate translation of *Ioudaioi*; warns \"Judeans\" erases continuity between ancient and modern Jewish identity. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17826,9 +17838,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_25cdf161fe352f8b238d",
-    "text": "Riley-Smith, Jonathan — Historian; The Crusades: A History (2005). Apologetic and contextualizing treatment of the Crusades.",
-    "raw_text": "**Riley-Smith, Jonathan** — Historian; *The Crusades: A History* (2005). Apologetic and contextualizing treatment of the Crusades.",
+    "id": "rk_2b3dcd95996f3e461337",
+    "text": "⟨UNRESOLVED⟩ Rendtorff, Rolf — European school; supplementary models for Pentateuchal composition. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Rendtorff, Rolf** — European school; supplementary models for Pentateuchal composition. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17858,9 +17870,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c59a38fc305b79fb893c",
-    "text": "Roberts, Colin H. — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity.",
-    "raw_text": "**Roberts, Colin H.** — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity.",
+    "id": "rk_ac247792f06690dc30a7",
+    "text": "⟨UNRESOLVED⟩ Riley-Smith, Jonathan — Historian; The Crusades: A History (2005). Apologetic and contextualizing treatment of the Crusades. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Riley-Smith, Jonathan** — Historian; *The Crusades: A History* (2005). Apologetic and contextualizing treatment of the Crusades. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17890,9 +17902,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_49f64383c6bf58714010",
-    "text": "Robinson, James M. — Critical scholar; co-editor of The Critical Edition of Q (2000).",
-    "raw_text": "**Robinson, James M.** — Critical scholar; co-editor of *The Critical Edition of Q* (2000).",
+    "id": "rk_2f586c054c9865a56908",
+    "text": "⟨UNRESOLVED⟩ Roberts, Colin H. — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Roberts, Colin H.** — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17922,9 +17934,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e21d7e2207747da51813",
-    "text": "Robinson, Thomas A. — The Bauer Thesis Examined (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims.",
-    "raw_text": "**Robinson, Thomas A.** — *The Bauer Thesis Examined* (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims.",
+    "id": "rk_a86665b9393505a68e97",
+    "text": "⟨UNRESOLVED⟩ Robinson, James M. — Critical scholar; co-editor of The Critical Edition of Q (2000). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Robinson, James M.** — Critical scholar; co-editor of *The Critical Edition of Q* (2000). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17954,9 +17966,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8900e69860061ddb275d",
-    "text": "Rogerson, John W. — Critical scholar; recognized the Numbers census figures as not historical (1984).",
-    "raw_text": "**Rogerson, John W.** — Critical scholar; recognized the Numbers census figures as not historical (1984).",
+    "id": "rk_97f635bc6b38c10a3f99",
+    "text": "⟨UNRESOLVED⟩ Robinson, Thomas A. — The Bauer Thesis Examined (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Robinson, Thomas A.** — *The Bauer Thesis Examined* (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -17986,9 +17998,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_efd9375438e392154520",
-    "text": "Römer, Thomas — European school; redaction-critical. Studies of the Torah's literary formation.",
-    "raw_text": "**Römer, Thomas** — European school; redaction-critical. Studies of the Torah's literary formation.",
+    "id": "rk_3d0c5ad7a696b331a1dc",
+    "text": "⟨UNRESOLVED⟩ Rogerson, John W. — Critical scholar; recognized the Numbers census figures as not historical (1984). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Rogerson, John W.** — Critical scholar; recognized the Numbers census figures as not historical (1984). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18018,9 +18030,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_df0203392e1cd3b294e7",
-    "text": "Ross, W.D. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
-    "raw_text": "**Ross, W.D.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
+    "id": "rk_ec680533170da62d49db",
+    "text": "⟨UNRESOLVED⟩ Römer, Thomas — European school; redaction-critical. Studies of the Torah's literary formation. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Römer, Thomas** — European school; redaction-critical. Studies of the Torah's literary formation. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18050,9 +18062,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d242a305b61a7a067af3",
-    "text": "Rubenstein, Jay — Critical historian; Armies of Heaven (2011). Critical history of the Crusades.",
-    "raw_text": "**Rubenstein, Jay** — Critical historian; *Armies of Heaven* (2011). Critical history of the Crusades.",
+    "id": "rk_9b3cb5f9197ed00c3a03",
+    "text": "⟨UNRESOLVED⟩ Ross, W.D. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Ross, W.D.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18082,9 +18094,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a2cbe100fe4b894b153c",
-    "text": "Ruether, Rosemary Radford — Catholic feminist/liberation theologian; Faith and Fratricide: The Theological Roots of Anti-Semitism (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative.",
-    "raw_text": "**Ruether, Rosemary Radford** — Catholic feminist/liberation theologian; *Faith and Fratricide: The Theological Roots of Anti-Semitism* (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative.",
+    "id": "rk_cda95afcd679460712fc",
+    "text": "⟨UNRESOLVED⟩ Rubenstein, Jay — Critical historian; Armies of Heaven (2011). Critical history of the Crusades. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Rubenstein, Jay** — Critical historian; *Armies of Heaven* (2011). Critical history of the Crusades. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18114,16 +18126,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_640efa3986d02311e584",
-    "text": "Sagan, Carl — Astronomer; secular; The Demon-Haunted World (1995). Nine-tool \"baloney detection\" checklist. Flag: Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.",
-    "raw_text": "**Sagan, Carl** — Astronomer; secular; *The Demon-Haunted World* (1995). Nine-tool \"baloney detection\" checklist. **Flag:** Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.",
+    "id": "rk_6e376a2580165c60337c",
+    "text": "⟨UNRESOLVED⟩ Ruether, Rosemary Radford — Catholic feminist/liberation theologian; Faith and Fratricide: The Theological Roots of Anti-Semitism (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Ruether, Rosemary Radford** — Catholic feminist/liberation theologian; *Faith and Fratricide: The Theological Roots of Anti-Semitism* (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "S"
+      "R"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -18131,7 +18143,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
     "source_reference": "paragraph:561",
     "parent_id": null,
     "related_ids": [],
@@ -18146,9 +18158,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1c9388abdfe55752e1d2",
-    "text": "Sanders, E.P. — Critical scholar; Paul and Palestinian Judaism (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.",
-    "raw_text": "**Sanders, E.P.** — Critical scholar; *Paul and Palestinian Judaism* (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.",
+    "id": "rk_949de1d688f0a5b34f1b",
+    "text": "⟨UNRESOLVED⟩ Sagan, Carl — Astronomer; secular; The Demon-Haunted World (1995). Nine-tool \"baloney detection\" checklist. Flag: Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sagan, Carl** — Astronomer; secular; *The Demon-Haunted World* (1995). Nine-tool \"baloney detection\" checklist. **Flag:** Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18178,9 +18190,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3f7027e4e87bcb4691cb",
-    "text": "Sarah of the Desert (Amma Sarah) — Desert Mother; one of three named women in the Apophthegmata Patrum.",
-    "raw_text": "**Sarah of the Desert (Amma Sarah)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*.",
+    "id": "rk_86b56d07f5524a779cdb",
+    "text": "⟨UNRESOLVED⟩ Sanders, E.P. — Critical scholar; Paul and Palestinian Judaism (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sanders, E.P.** — Critical scholar; *Paul and Palestinian Judaism* (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18210,9 +18222,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_25038a55305b178d086f",
-    "text": "Scanlon, T.M. — Philosopher; What We Owe to Each Other (1998). Contractualism: moral principles are those no one could reasonably reject.",
-    "raw_text": "**Scanlon, T.M.** — Philosopher; *What We Owe to Each Other* (1998). Contractualism: moral principles are those no one could reasonably reject.",
+    "id": "rk_b23a94da3f8e7f228dbc",
+    "text": "⟨UNRESOLVED⟩ Sarah of the Desert (Amma Sarah) — Desert Mother; one of three named women in the Apophthegmata Patrum. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sarah of the Desert (Amma Sarah)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18242,9 +18254,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6144e1ed24ee30fea6a1",
-    "text": "Schaeffer, Francis — Evangelical; How Should We Then Live? (1976). Evangelical critique of humanist foundations.",
-    "raw_text": "**Schaeffer, Francis** — Evangelical; *How Should We Then Live?* (1976). Evangelical critique of humanist foundations.",
+    "id": "rk_50942916e03d903cc53d",
+    "text": "⟨UNRESOLVED⟩ Scanlon, T.M. — Philosopher; What We Owe to Each Other (1998). Contractualism: moral principles are those no one could reasonably reject. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Scanlon, T.M.** — Philosopher; *What We Owe to Each Other* (1998). Contractualism: moral principles are those no one could reasonably reject. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18274,9 +18286,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_719cc1567c2a65d608a8",
-    "text": "Schemm, Peter R., Jr. — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. Flag: Same commitment as Grudem and Piper on gender roles.",
-    "raw_text": "**Schemm, Peter R., Jr.** — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. **Flag:** Same commitment as Grudem and Piper on gender roles.",
+    "id": "rk_a78c51f9288c90c8b932",
+    "text": "⟨UNRESOLVED⟩ Schaeffer, Francis — Evangelical; How Should We Then Live? (1976). Evangelical critique of humanist foundations. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Schaeffer, Francis** — Evangelical; *How Should We Then Live?* (1976). Evangelical critique of humanist foundations. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18306,9 +18318,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_31be281abdd225ae8ae3",
-    "text": "Schmid, Konrad — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (JBL, 2021).",
-    "raw_text": "**Schmid, Konrad** — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (*JBL*, 2021).",
+    "id": "rk_2ac861badaefe1e84993",
+    "text": "⟨UNRESOLVED⟩ Schemm, Peter R., Jr. — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. Flag: Same commitment as Grudem and Piper on gender roles. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Schemm, Peter R., Jr.** — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. **Flag:** Same commitment as Grudem and Piper on gender roles. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18338,9 +18350,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7c0688861b06242a1208",
-    "text": "Schreiner, Thomas — Evangelical; Galatians 3:10 and the law; Israel's Law and the Church's Faith (1988).",
-    "raw_text": "**Schreiner, Thomas** — Evangelical; Galatians 3:10 and the law; *Israel's Law and the Church's Faith* (1988).",
+    "id": "rk_0655eaa9711f3e02bb9d",
+    "text": "⟨UNRESOLVED⟩ Schmid, Konrad — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (JBL, 2021). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Schmid, Konrad** — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (*JBL*, 2021). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18370,9 +18382,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b319cfa9c3e7578591f7",
-    "text": "Schüssler Fiorenza, Elisabeth — Feminist critical theologian (Harvard); In Memory of Her (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.",
-    "raw_text": "**Schüssler Fiorenza, Elisabeth** — Feminist critical theologian (Harvard); *In Memory of Her* (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.",
+    "id": "rk_6bdfdf73a1db0bf1758b",
+    "text": "⟨UNRESOLVED⟩ Schreiner, Thomas — Evangelical; Galatians 3:10 and the law; Israel's Law and the Church's Faith (1988). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Schreiner, Thomas** — Evangelical; Galatians 3:10 and the law; *Israel's Law and the Church's Faith* (1988). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18402,9 +18414,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8ef24a1014eaab699fec",
-    "text": "Secundus of Ptolemais — Refused to sign the Nicene Creed; exiled with Arius.",
-    "raw_text": "**Secundus of Ptolemais** — Refused to sign the Nicene Creed; exiled with Arius.",
+    "id": "rk_545a22b17dbf88f501ee",
+    "text": "⟨UNRESOLVED⟩ Schüssler Fiorenza, Elisabeth — Feminist critical theologian (Harvard); In Memory of Her (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Schüssler Fiorenza, Elisabeth** — Feminist critical theologian (Harvard); *In Memory of Her* (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18434,9 +18446,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_31b7f80cda58ca368a9c",
-    "text": "Seifrid, Mark — Evangelical NPP critic.",
-    "raw_text": "**Seifrid, Mark** — Evangelical NPP critic.",
+    "id": "rk_e00923bb2915296e3c4e",
+    "text": "⟨UNRESOLVED⟩ Secundus of Ptolemais — Refused to sign the Nicene Creed; exiled with Arius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Secundus of Ptolemais** — Refused to sign the Nicene Creed; exiled with Arius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18466,9 +18478,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3e8360899ccaab0c94bc",
-    "text": "Shafer-Landau, Russ — Philosopher; Moral Realism: A Defence (2003). Non-naturalist moral realism without God.",
-    "raw_text": "**Shafer-Landau, Russ** — Philosopher; *Moral Realism: A Defence* (2003). Non-naturalist moral realism without God.",
+    "id": "rk_d7156242604945048a45",
+    "text": "⟨UNRESOLVED⟩ Seifrid, Mark — Evangelical NPP critic. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Seifrid, Mark** — Evangelical NPP critic. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18498,9 +18510,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d5143a4decc6c60c5a03",
-    "text": "Sheridan, Ruth — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks.",
-    "raw_text": "**Sheridan, Ruth** — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks.",
+    "id": "rk_41f5834c09dbffac0748",
+    "text": "⟨UNRESOLVED⟩ Shafer-Landau, Russ — Philosopher; Moral Realism: A Defence (2003). Non-naturalist moral realism without God. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Shafer-Landau, Russ** — Philosopher; *Moral Realism: A Defence* (2003). Non-naturalist moral realism without God. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18530,9 +18542,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b03902481e44d057f1c2",
-    "text": "Smith, Billy K. — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995).",
-    "raw_text": "**Smith, Billy K.** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995).",
+    "id": "rk_e0335069b0325e60193d",
+    "text": "⟨UNRESOLVED⟩ Sheridan, Ruth — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sheridan, Ruth** — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18562,9 +18574,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f9ed11be8cc8cf9a6f35",
-    "text": "Smith, Gary V. — Conservative evangelical; Hosea, Amos, Micah (NIV Application Commentary).",
-    "raw_text": "**Smith, Gary V.** — Conservative evangelical; *Hosea, Amos, Micah* (NIV Application Commentary).",
+    "id": "rk_a0a92b4ab26b16077596",
+    "text": "⟨UNRESOLVED⟩ Smith, Billy K. — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Smith, Billy K.** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18594,9 +18606,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_21ed5310c4258abd91a0",
-    "text": "Snapp, Jim — Internal objections to the eleph proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.",
-    "raw_text": "**Snapp, Jim** — Internal objections to the *eleph* proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.",
+    "id": "rk_cd5092e1800099e60518",
+    "text": "⟨UNRESOLVED⟩ Smith, Gary V. — Conservative evangelical; Hosea, Amos, Micah (NIV Application Commentary). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Smith, Gary V.** — Conservative evangelical; *Hosea, Amos, Micah* (NIV Application Commentary). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18626,9 +18638,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_59088c862314dde285b5",
-    "text": "Sobel, Jordan Howard — Philosopher; Logic and Theism (2004). Analytic philosophy of religion.",
-    "raw_text": "**Sobel, Jordan Howard** — Philosopher; *Logic and Theism* (2004). Analytic philosophy of religion.",
+    "id": "rk_253f5732db8151fc0d14",
+    "text": "⟨UNRESOLVED⟩ Snapp, Jim — Internal objections to the eleph proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Snapp, Jim** — Internal objections to the *eleph* proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18658,9 +18670,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f10be7da7ff39bacbc4c",
-    "text": "Socrates Scholasticus — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. Flag: He was a participant in the winning side's tradition, not a modern neutral historian.",
-    "raw_text": "**Socrates Scholasticus** — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. **Flag:** He was a participant in the winning side's tradition, not a modern neutral historian.",
+    "id": "rk_3fb9533c82d55c7659d7",
+    "text": "⟨UNRESOLVED⟩ Sobel, Jordan Howard — Philosopher; Logic and Theism (2004). Analytic philosophy of religion. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sobel, Jordan Howard** — Philosopher; *Logic and Theism* (2004). Analytic philosophy of religion. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18690,9 +18702,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f1201e4ff1a641cd72ab",
-    "text": "Soards, Marion — Critical scholar; The Speeches in Acts (1994). Classifies the Acts speeches by setting and function.",
-    "raw_text": "**Soards, Marion** — Critical scholar; *The Speeches in Acts* (1994). Classifies the Acts speeches by setting and function.",
+    "id": "rk_95a4cc8ae7d74ab487fa",
+    "text": "⟨UNRESOLVED⟩ Socrates Scholasticus — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. Flag: He was a participant in the winning side's tradition, not a modern neutral historian. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Socrates Scholasticus** — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. **Flag:** He was a participant in the winning side's tradition, not a modern neutral historian. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18722,9 +18734,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9f1b1267caba9a192fc4",
-    "text": "Sozomen — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. Same flag as Socrates.",
-    "raw_text": "**Sozomen** — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. **Same flag as Socrates.**",
+    "id": "rk_ae7718f6ec670fa5b95f",
+    "text": "⟨UNRESOLVED⟩ Soards, Marion — Critical scholar; The Speeches in Acts (1994). Classifies the Acts speeches by setting and function. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Soards, Marion** — Critical scholar; *The Speeches in Acts* (1994). Classifies the Acts speeches by setting and function. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18754,9 +18766,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c583c847ea33cfbda2f",
-    "text": "Sprinkle, Preston — Evangelical; Erasing Hell (2011). Evangelical defense of eternal conscious torment.",
-    "raw_text": "**Sprinkle, Preston** — Evangelical; *Erasing Hell* (2011). Evangelical defense of eternal conscious torment.",
+    "id": "rk_52666b16194a31c7f815",
+    "text": "⟨UNRESOLVED⟩ Sozomen — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. Same flag as Socrates. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sozomen** — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. **Same flag as Socrates.** The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18786,9 +18798,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cfcb64bac09d835a8b81",
-    "text": "Stackert, Jeffrey — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.",
-    "raw_text": "**Stackert, Jeffrey** — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.",
+    "id": "rk_6e3f7f257896fe52784a",
+    "text": "⟨UNRESOLVED⟩ Sprinkle, Preston — Evangelical; Erasing Hell (2011). Evangelical defense of eternal conscious torment. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Sprinkle, Preston** — Evangelical; *Erasing Hell* (2011). Evangelical defense of eternal conscious torment. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18818,9 +18830,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6b1766ebd0f0196de0a2",
-    "text": "Stark, Rodney — Sociologist; God's Battalions (2009). Defensive-war framing of the Crusades.",
-    "raw_text": "**Stark, Rodney** — Sociologist; *God's Battalions* (2009). Defensive-war framing of the Crusades.",
+    "id": "rk_9c71122c35cfda7ff8b9",
+    "text": "⟨UNRESOLVED⟩ Stackert, Jeffrey — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Stackert, Jeffrey** — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18850,9 +18862,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5bb81e69ec116c0d635b",
-    "text": "Stone, Mark Preston — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns.",
-    "raw_text": "**Stone, Mark Preston** — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns.",
+    "id": "rk_c613f065c5d39fa1df0a",
+    "text": "⟨UNRESOLVED⟩ Stark, Rodney — Sociologist; God's Battalions (2009). Defensive-war framing of the Crusades. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Stark, Rodney** — Sociologist; *God's Battalions* (2009). Defensive-war framing of the Crusades. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18882,9 +18894,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_493713340f27aa44d688",
-    "text": "Streeter, B.H. — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).",
-    "raw_text": "**Streeter, B.H.** — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).",
+    "id": "rk_d1eee057aae86e1afbb7",
+    "text": "⟨UNRESOLVED⟩ Stone, Mark Preston — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Stone, Mark Preston** — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18914,9 +18926,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5c1ab02fe7b560e33e09",
-    "text": "Stringfellow, Thornton — Major flag: Baptist minister and explicit biblical defender of slavery; A Brief Examination of Scripture Testimony on the Institution of Slavery (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.",
-    "raw_text": "**Stringfellow, Thornton** — **Major flag:** Baptist minister and explicit biblical defender of slavery; *A Brief Examination of Scripture Testimony on the Institution of Slavery* (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.",
+    "id": "rk_b4de181e9d5546744239",
+    "text": "⟨UNRESOLVED⟩ Streeter, B.H. — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Streeter, B.H.** — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18946,9 +18958,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_74808ce2451052a826dd",
-    "text": "Stuhlmacher, Peter — Lutheran-confessional; Revisiting Paul's Doctrine of Justification (IVP, 2001). Traditional reading against the NPP.",
-    "raw_text": "**Stuhlmacher, Peter** — Lutheran-confessional; *Revisiting Paul's Doctrine of Justification* (IVP, 2001). Traditional reading against the NPP.",
+    "id": "rk_36e3194f4504b1474e91",
+    "text": "⟨UNRESOLVED⟩ Stringfellow, Thornton — Major flag: Baptist minister and explicit biblical defender of slavery; A Brief Examination of Scripture Testimony on the Institution of Slavery (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Stringfellow, Thornton** — **Major flag:** Baptist minister and explicit biblical defender of slavery; *A Brief Examination of Scripture Testimony on the Institution of Slavery* (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18978,9 +18990,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ee40c59c9e0b5b305eba",
-    "text": "Stump, Eleonore — Catholic analytic philosopher; Wandering in Darkness. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.",
-    "raw_text": "**Stump, Eleonore** — Catholic analytic philosopher; *Wandering in Darkness*. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.",
+    "id": "rk_cc446949d2ba7f18aaf0",
+    "text": "⟨UNRESOLVED⟩ Stuhlmacher, Peter — Lutheran-confessional; Revisiting Paul's Doctrine of Justification (IVP, 2001). Traditional reading against the NPP. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Stuhlmacher, Peter** — Lutheran-confessional; *Revisiting Paul's Doctrine of Justification* (IVP, 2001). Traditional reading against the NPP. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19010,9 +19022,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39d79060b6994a06e41c",
-    "text": "Swinburne, Richard — Analytic/Bayesian philosopher; The Existence of God; Providence and the Problem of Evil (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.",
-    "raw_text": "**Swinburne, Richard** — Analytic/Bayesian philosopher; *The Existence of God*; *Providence and the Problem of Evil* (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.",
+    "id": "rk_89dcb562689048467956",
+    "text": "⟨UNRESOLVED⟩ Stump, Eleonore — Catholic analytic philosopher; Wandering in Darkness. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Stump, Eleonore** — Catholic analytic philosopher; *Wandering in Darkness*. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19042,9 +19054,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_55eff65357533941c180",
-    "text": "Symmachus — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.",
-    "raw_text": "**Symmachus** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.",
+    "id": "rk_89a3efa93a4656c82fd5",
+    "text": "⟨UNRESOLVED⟩ Swinburne, Richard — Analytic/Bayesian philosopher; The Existence of God; Providence and the Problem of Evil (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Swinburne, Richard** — Analytic/Bayesian philosopher; *The Existence of God*; *Providence and the Problem of Evil* (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19074,9 +19086,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_18581242c75373e715df",
-    "text": "Syncletica of Alexandria — Desert Mother; teachings on temptation, discipline, and prayer.",
-    "raw_text": "**Syncletica of Alexandria** — Desert Mother; teachings on temptation, discipline, and prayer.",
+    "id": "rk_3f7dfd36080dc739eb41",
+    "text": "⟨UNRESOLVED⟩ Symmachus — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Symmachus** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19106,16 +19118,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d5936932ef34b37ff7af",
-    "text": "Tacitus — Roman historian; Annals 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight.",
-    "raw_text": "**Tacitus** — Roman historian; *Annals* 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight.",
+    "id": "rk_650bf1d43e0018d6bd6a",
+    "text": "⟨UNRESOLVED⟩ Syncletica of Alexandria — Desert Mother; teachings on temptation, discipline, and prayer. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Syncletica of Alexandria** — Desert Mother; teachings on temptation, discipline, and prayer. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "T"
+      "S"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -19123,7 +19135,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
     "source_reference": "paragraph:592",
     "parent_id": null,
     "related_ids": [],
@@ -19138,9 +19150,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fc2d4389d830370b29be",
-    "text": "Tannehill, Robert — Critical scholar. Classifies the Acts speeches alongside Soards.",
-    "raw_text": "**Tannehill, Robert** — Critical scholar. Classifies the Acts speeches alongside Soards.",
+    "id": "rk_b3627a2ed752cd3ffb33",
+    "text": "⟨UNRESOLVED⟩ Tacitus — Roman historian; Annals 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Tacitus** — Roman historian; *Annals* 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19170,9 +19182,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_50c927195ec936ab4d6f",
-    "text": "Thecla — Literary figure in the apocryphal Acts of Paul and Thecla (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text \"out of love of Paul.\"",
-    "raw_text": "**Thecla** — Literary figure in the apocryphal *Acts of Paul and Thecla* (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text \"out of love of Paul.\"",
+    "id": "rk_5c05515d57d89c0add74",
+    "text": "⟨UNRESOLVED⟩ Tannehill, Robert — Critical scholar. Classifies the Acts speeches alongside Soards. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Tannehill, Robert** — Critical scholar. Classifies the Acts speeches alongside Soards. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19202,9 +19214,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2805bf699df6e625abb0",
-    "text": "Theodora (Amma Theodora) — Desert Mother; one of three named women in the Apophthegmata Patrum.",
-    "raw_text": "**Theodora (Amma Theodora)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*.",
+    "id": "rk_daebf7438959ff2d91c6",
+    "text": "⟨UNRESOLVED⟩ Thecla — Literary figure in the apocryphal Acts of Paul and Thecla (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text \"out of love of Paul.\" The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Thecla** — Literary figure in the apocryphal *Acts of Paul and Thecla* (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text \"out of love of Paul.\" The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19234,9 +19246,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_047a860740a25d4f7a91",
-    "text": "Theodore of Mopsuestia — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius.",
-    "raw_text": "**Theodore of Mopsuestia** — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius.",
+    "id": "rk_bbb8eae877f65449b9da",
+    "text": "⟨UNRESOLVED⟩ Theodora (Amma Theodora) — Desert Mother; one of three named women in the Apophthegmata Patrum. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Theodora (Amma Theodora)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19266,9 +19278,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f157988885c98c2c038e",
-    "text": "Theodotus of Byzantium — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way.",
-    "raw_text": "**Theodotus of Byzantium** — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way.",
+    "id": "rk_a2831c162f33c406aa99",
+    "text": "⟨UNRESOLVED⟩ Theodore of Mopsuestia — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Theodore of Mopsuestia** — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19298,9 +19310,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ea9dd67fb036668e4d4b",
-    "text": "Theodotion — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14, alongside Symmachus.",
-    "raw_text": "**Theodotion** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14, alongside Symmachus.",
+    "id": "rk_8d044f2a7180cd331f17",
+    "text": "⟨UNRESOLVED⟩ Theodotus of Byzantium — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Theodotus of Byzantium** — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19330,9 +19342,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cbf1ad0898f74a60b9fd",
-    "text": "Theognis of Nicaea — Initially objected to the Nicene Creed's key term homoousios at Nicaea.",
-    "raw_text": "**Theognis of Nicaea** — Initially objected to the Nicene Creed's key term *homoousios* at Nicaea.",
+    "id": "rk_56df283d95506bc36c42",
+    "text": "⟨UNRESOLVED⟩ Theodotion — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14, alongside Symmachus. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Theodotion** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14, alongside Symmachus. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19362,9 +19374,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_38ccd60cc971866602a1",
-    "text": "Theonas of Marmarica — Refused to sign the Nicene Creed; exiled with Arius.",
-    "raw_text": "**Theonas of Marmarica** — Refused to sign the Nicene Creed; exiled with Arius.",
+    "id": "rk_f5ff9fe0b89edf6ecf6c",
+    "text": "⟨UNRESOLVED⟩ Theognis of Nicaea — Initially objected to the Nicene Creed's key term homoousios at Nicaea. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Theognis of Nicaea** — Initially objected to the Nicene Creed's key term *homoousios* at Nicaea. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19394,9 +19406,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5acd6b85de6e8f829b05",
-    "text": "Thucydides — Greek historian; History of the Peloponnesian War 1.22.1. States he kept as close as possible to the general sense of what was actually said — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage.",
-    "raw_text": "**Thucydides** — Greek historian; *History of the Peloponnesian War* 1.22.1. States he kept as close as possible to the *general sense of what was actually said* — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage.",
+    "id": "rk_573637a78918ac7b2e3c",
+    "text": "⟨UNRESOLVED⟩ Theonas of Marmarica — Refused to sign the Nicene Creed; exiled with Arius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Theonas of Marmarica** — Refused to sign the Nicene Creed; exiled with Arius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19426,9 +19438,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5b3c8c5ae0f02fb2740e",
-    "text": "Tiessen, Terrance — Evangelical; Who Can Be Saved? (2004). Treatment of salvation and the unevangelized.",
-    "raw_text": "**Tiessen, Terrance** — Evangelical; *Who Can Be Saved?* (2004). Treatment of salvation and the unevangelized.",
+    "id": "rk_f8bd3da6d7864b708a4c",
+    "text": "⟨UNRESOLVED⟩ Thucydides — Greek historian; History of the Peloponnesian War 1.22.1. States he kept as close as possible to the general sense of what was actually said — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Thucydides** — Greek historian; *History of the Peloponnesian War* 1.22.1. States he kept as close as possible to the *general sense of what was actually said* — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19458,9 +19470,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7f0edceea8351fa4cb2c",
-    "text": "Tomasello, Michael — Developmental psychologist; A Natural History of Human Morality (2016). Evolutionary and developmental moral psychology.",
-    "raw_text": "**Tomasello, Michael** — Developmental psychologist; *A Natural History of Human Morality* (2016). Evolutionary and developmental moral psychology.",
+    "id": "rk_8d5e73b2b04707c2f3e5",
+    "text": "⟨UNRESOLVED⟩ Tiessen, Terrance — Evangelical; Who Can Be Saved? (2004). Treatment of salvation and the unevangelized. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Tiessen, Terrance** — Evangelical; *Who Can Be Saved?* (2004). Treatment of salvation and the unevangelized. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19490,9 +19502,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c237ca8efa839378e93",
-    "text": "Towner, Philip — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal.",
-    "raw_text": "**Towner, Philip** — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal.",
+    "id": "rk_970b9a2e54976fa989a1",
+    "text": "⟨UNRESOLVED⟩ Tomasello, Michael — Developmental psychologist; A Natural History of Human Morality (2016). Evolutionary and developmental moral psychology. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Tomasello, Michael** — Developmental psychologist; *A Natural History of Human Morality* (2016). Evolutionary and developmental moral psychology. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19522,9 +19534,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_91ef6fd9af1062a228ff",
-    "text": "Trible, Phyllis — Feminist biblical scholar; Texts of Terror (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails.",
-    "raw_text": "**Trible, Phyllis** — Feminist biblical scholar; *Texts of Terror* (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails.",
+    "id": "rk_8fe364b4ec8a4940c249",
+    "text": "⟨UNRESOLVED⟩ Towner, Philip — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Towner, Philip** — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19554,9 +19566,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fd655e6e323342b5937b",
-    "text": "Trobisch, David — Critical scholar; On the Origin of Christian Scripture (2024). Argues the canonical New Testament reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype.",
-    "raw_text": "**Trobisch, David** — Critical scholar; *On the Origin of Christian Scripture* (2024). Argues the canonical New Testament reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype.",
+    "id": "rk_51afa232a90aa8ff83c4",
+    "text": "⟨UNRESOLVED⟩ Trible, Phyllis — Feminist biblical scholar; Texts of Terror (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Trible, Phyllis** — Feminist biblical scholar; *Texts of Terror* (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19586,9 +19598,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_06d9bfce02b99449a77f",
-    "text": "Trueman, Carl — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016).",
-    "raw_text": "**Trueman, Carl** — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016).",
+    "id": "rk_83c2ba6fdfe860fd9836",
+    "text": "⟨UNRESOLVED⟩ Trobisch, David — Critical scholar; On the Origin of Christian Scripture (2024). Argues the canonical New Testament reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Trobisch, David** — Critical scholar; *On the Origin of Christian Scripture* (2024). Argues the canonical New Testament reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19618,9 +19630,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_61db6e58d8c9d25d79f0",
-    "text": "Turek, Frank — Popular evangelical apologist.",
-    "raw_text": "**Turek, Frank** — Popular evangelical apologist.",
+    "id": "rk_f9cf0ccc0c6dc477e6bb",
+    "text": "⟨UNRESOLVED⟩ Trueman, Carl — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Trueman, Carl** — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19650,9 +19662,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e57768125ffd64fabb61",
-    "text": "Turner, H.E.W. — The Pattern of Christian Truth (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure.",
-    "raw_text": "**Turner, H.E.W.** — *The Pattern of Christian Truth* (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure.",
+    "id": "rk_7327584ffc3522a97856",
+    "text": "⟨UNRESOLVED⟩ Turek, Frank — Popular evangelical apologist. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Turek, Frank** — Popular evangelical apologist. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19682,9 +19694,41 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53b0104f94decf699503",
-    "text": "Voltaire — Enlightenment critic of church power and superstition. Flag: Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (Synodicon Vetus) and carried it to mass culture.",
-    "raw_text": "**Voltaire** — Enlightenment critic of church power and superstition. **Flag:** Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (*Synodicon Vetus*) and carried it to mass culture.",
+    "id": "rk_9c8cd3d6a79ce4d97f3b",
+    "text": "⟨UNRESOLVED⟩ Turner, H.E.W. — The Pattern of Christian Truth (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Turner, H.E.W.** — *The Pattern of Christian Truth* (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "T"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
+    "source_reference": "paragraph:610",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2f72b7c5608871781d60",
+    "text": "⟨UNRESOLVED⟩ Voltaire — Enlightenment critic of church power and superstition. Flag: Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (Synodicon Vetus) and carried it to mass culture. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Voltaire** — Enlightenment critic of church power and superstition. **Flag:** Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (*Synodicon Vetus*) and carried it to mass culture. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19700,38 +19744,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > V",
-    "source_reference": "paragraph:610",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_c35378fd4800df2cac23",
-    "text": "Walk, Richard — Psychologist; The Visual Cliff (Scientific American, 1960). See Gibson above.",
-    "raw_text": "**Walk, Richard** — Psychologist; *The Visual Cliff* (*Scientific American*, 1960). See Gibson above.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "W"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
     "source_reference": "paragraph:611",
     "parent_id": null,
     "related_ids": [],
@@ -19746,9 +19758,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1caa530b2165873bae47",
-    "text": "Wallace, J. Warner — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics.",
-    "raw_text": "**Wallace, J. Warner** — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics.",
+    "id": "rk_15e3b8e2a0f109cedd9c",
+    "text": "⟨UNRESOLVED⟩ Walk, Richard — Psychologist; The Visual Cliff (Scientific American, 1960). See Gibson above. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Walk, Richard** — Psychologist; *The Visual Cliff* (*Scientific American*, 1960). See Gibson above. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19778,9 +19790,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08199571171e2b6f39f1",
-    "text": "Walls, Jerry — Philosopher; Good God: The Theistic Foundations of Morality (2011).",
-    "raw_text": "**Walls, Jerry** — Philosopher; *Good God: The Theistic Foundations of Morality* (2011).",
+    "id": "rk_9899a900801844635e02",
+    "text": "⟨UNRESOLVED⟩ Wallace, J. Warner — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wallace, J. Warner** — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19810,9 +19822,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9e6af9217b1c296aa3f7",
-    "text": "Walsh, Jerome T. — Critical scholar (JBL, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one.",
-    "raw_text": "**Walsh, Jerome T.** — Critical scholar (*JBL*, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one.",
+    "id": "rk_1ce19bfface593fe235a",
+    "text": "⟨UNRESOLVED⟩ Walls, Jerry — Philosopher; Good God: The Theistic Foundations of Morality (2011). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Walls, Jerry** — Philosopher; *Good God: The Theistic Foundations of Morality* (2011). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19842,9 +19854,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f26799ebd7e477682247",
-    "text": "Waltke, Bruce K. — Conservative evangelical; A Commentary on Micah (Eerdmans, 2007). Micah did not repeal the institution of sacrifice.",
-    "raw_text": "**Waltke, Bruce K.** — Conservative evangelical; *A Commentary on Micah* (Eerdmans, 2007). Micah did not repeal the institution of sacrifice.",
+    "id": "rk_35c15d19e389a19b8ee6",
+    "text": "⟨UNRESOLVED⟩ Walsh, Jerome T. — Critical scholar (JBL, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Walsh, Jerome T.** — Critical scholar (*JBL*, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19874,9 +19886,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9ea4d0d9137585e5b7f2",
-    "text": "Walton, Douglas — Philosopher; Begging the Question (1991).",
-    "raw_text": "**Walton, Douglas** — Philosopher; *Begging the Question* (1991).",
+    "id": "rk_4e48ae71a36e730edcc7",
+    "text": "⟨UNRESOLVED⟩ Waltke, Bruce K. — Conservative evangelical; A Commentary on Micah (Eerdmans, 2007). Micah did not repeal the institution of sacrifice. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Waltke, Bruce K.** — Conservative evangelical; *A Commentary on Micah* (Eerdmans, 2007). Micah did not repeal the institution of sacrifice. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19906,9 +19918,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_776c6e0258977662a2f4",
-    "text": "Ware, Bruce — Conservative evangelical; Eternal Functional Subordination. Flag: His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds.",
-    "raw_text": "**Ware, Bruce** — Conservative evangelical; Eternal Functional Subordination. **Flag:** His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds.",
+    "id": "rk_c879987f6892343f4490",
+    "text": "⟨UNRESOLVED⟩ Walton, Douglas — Philosopher; Begging the Question (1991). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Walton, Douglas** — Philosopher; *Begging the Question* (1991). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19938,9 +19950,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3f734f6343c1f97bf48b",
-    "text": "Warfield, B.B. — Reformed; The Inspiration and Authority of the Bible (1948). Classic Reformed defense of self-attesting Scripture.",
-    "raw_text": "**Warfield, B.B.** — Reformed; *The Inspiration and Authority of the Bible* (1948). Classic Reformed defense of self-attesting Scripture.",
+    "id": "rk_c6af9602204774002d7f",
+    "text": "⟨UNRESOLVED⟩ Ware, Bruce — Conservative evangelical; Eternal Functional Subordination. Flag: His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Ware, Bruce** — Conservative evangelical; Eternal Functional Subordination. **Flag:** His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19970,9 +19982,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22d570f764a36bd9c37b",
-    "text": "Wason, Peter — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome.",
-    "raw_text": "**Wason, Peter** — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome.",
+    "id": "rk_acf9153dbb5506a33dd0",
+    "text": "⟨UNRESOLVED⟩ Warfield, B.B. — Reformed; The Inspiration and Authority of the Bible (1948). Classic Reformed defense of self-attesting Scripture. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Warfield, B.B.** — Reformed; *The Inspiration and Authority of the Bible* (1948). Classic Reformed defense of self-attesting Scripture. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20002,9 +20014,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fa3db30e9912dcfae554",
-    "text": "Watson and Rayner — Psychologists; \"Little Albert\" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting.",
-    "raw_text": "**Watson and Rayner** — Psychologists; \"Little Albert\" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting.",
+    "id": "rk_58c6a6bbec112b8e53a1",
+    "text": "⟨UNRESOLVED⟩ Wason, Peter — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wason, Peter** — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20034,9 +20046,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_557345ce425d6ceb8ba9",
-    "text": "Wellhausen, Julius — Critical scholar; \"prophets-versus-priests\" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult.",
-    "raw_text": "**Wellhausen, Julius** — Critical scholar; \"prophets-versus-priests\" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult.",
+    "id": "rk_b7a6643092874853b5c7",
+    "text": "⟨UNRESOLVED⟩ Watson and Rayner — Psychologists; \"Little Albert\" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Watson and Rayner** — Psychologists; \"Little Albert\" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20066,9 +20078,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d6876a6cdbe69d53fa05",
-    "text": "Wenham, Gordon — Evangelical critical scholar; Genesis (Word Biblical Commentary, 1987).",
-    "raw_text": "**Wenham, Gordon** — Evangelical critical scholar; *Genesis* (Word Biblical Commentary, 1987).",
+    "id": "rk_b10f60ef7a51d9998a77",
+    "text": "⟨UNRESOLVED⟩ Wellhausen, Julius — Critical scholar; \"prophets-versus-priests\" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wellhausen, Julius** — Critical scholar; \"prophets-versus-priests\" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20098,9 +20110,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aad7888358eda95f5b51",
-    "text": "Wenham, John — Conservative evangelical; eleph-as-military-unit proposals (1967, 1981).",
-    "raw_text": "**Wenham, John** — Conservative evangelical; *eleph*-as-military-unit proposals (1967, 1981).",
+    "id": "rk_ffd89aa9874425b7e118",
+    "text": "⟨UNRESOLVED⟩ Wenham, Gordon — Evangelical critical scholar; Genesis (Word Biblical Commentary, 1987). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wenham, Gordon** — Evangelical critical scholar; *Genesis* (Word Biblical Commentary, 1987). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20130,9 +20142,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_830303aee62675161a80",
-    "text": "Westerholm, Stephen — Evangelical; Perspectives Old and New on Paul (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading.",
-    "raw_text": "**Westerholm, Stephen** — Evangelical; *Perspectives Old and New on Paul* (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading.",
+    "id": "rk_029ec1aee7276aec9909",
+    "text": "⟨UNRESOLVED⟩ Wenham, John — Conservative evangelical; eleph-as-military-unit proposals (1967, 1981). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wenham, John** — Conservative evangelical; *eleph*-as-military-unit proposals (1967, 1981). The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20162,9 +20174,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_515b531f5c96a26937be",
-    "text": "Whitford, David M. — The Curse of Ham in the Early Modern Era (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope.",
-    "raw_text": "**Whitford, David M.** — *The Curse of Ham in the Early Modern Era* (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope.",
+    "id": "rk_3374a77cb03950be506a",
+    "text": "⟨UNRESOLVED⟩ Westerholm, Stephen — Evangelical; Perspectives Old and New on Paul (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Westerholm, Stephen** — Evangelical; *Perspectives Old and New on Paul* (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20194,9 +20206,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_59a9e92fecce00978953",
-    "text": "Wielenberg, Erik — Philosopher; Robust Ethics (2014); Value and Virtue in a Godless Universe (2005). Secular moral realism.",
-    "raw_text": "**Wielenberg, Erik** — Philosopher; *Robust Ethics* (2014); *Value and Virtue in a Godless Universe* (2005). Secular moral realism.",
+    "id": "rk_cc980dbe389429825c12",
+    "text": "⟨UNRESOLVED⟩ Whitford, David M. — The Curse of Ham in the Early Modern Era (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Whitford, David M.** — *The Curse of Ham in the Early Modern Era* (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20226,9 +20238,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_078f4c9a122186c3b4fd",
-    "text": "Wildberger, Hans — Critical scholar; Isaiah 1–12 (Fortress, 1991). Defines almah simply as \"a young woman until the birth of her first child\" — no built-in virginity claim.",
-    "raw_text": "**Wildberger, Hans** — Critical scholar; *Isaiah 1–12* (Fortress, 1991). Defines *almah* simply as \"a young woman until the birth of her first child\" — no built-in virginity claim.",
+    "id": "rk_50cae773b842b607159c",
+    "text": "⟨UNRESOLVED⟩ Wielenberg, Erik — Philosopher; Robust Ethics (2014); Value and Virtue in a Godless Universe (2005). Secular moral realism. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wielenberg, Erik** — Philosopher; *Robust Ethics* (2014); *Value and Virtue in a Godless Universe* (2005). Secular moral realism. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20258,9 +20270,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d271c5212e226f1c8147",
-    "text": "Winter, Bruce — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.",
-    "raw_text": "**Winter, Bruce** — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.",
+    "id": "rk_13b69bef5d5a60594c52",
+    "text": "⟨UNRESOLVED⟩ Wildberger, Hans — Critical scholar; Isaiah 1–12 (Fortress, 1991). Defines almah simply as \"a young woman until the birth of her first child\" — no built-in virginity claim. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wildberger, Hans** — Critical scholar; *Isaiah 1–12* (Fortress, 1991). Defines *almah* simply as \"a young woman until the birth of her first child\" — no built-in virginity claim. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20290,9 +20302,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_78a6a4d509934d30979f",
-    "text": "Witherington, Ben, III — Conservative evangelical; The Acts of the Apostles (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius.",
-    "raw_text": "**Witherington, Ben, III** — Conservative evangelical; *The Acts of the Apostles* (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius.",
+    "id": "rk_8ec6068d64d6f9573f56",
+    "text": "⟨UNRESOLVED⟩ Winter, Bruce — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Winter, Bruce** — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20322,9 +20334,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7b3b3828d8769c67954d",
-    "text": "Wood, Bryant — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised.",
-    "raw_text": "**Wood, Bryant** — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised.",
+    "id": "rk_d51cff7f6484dc50e02c",
+    "text": "⟨UNRESOLVED⟩ Witherington, Ben, III — Conservative evangelical; The Acts of the Apostles (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Witherington, Ben, III** — Conservative evangelical; *The Acts of the Apostles* (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20354,9 +20366,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_720f9368d72ccb685635",
-    "text": "Wright, N.T. — Anglican historian; The Resurrection of the Son of God (2003); The Climax of the Covenant (1992); Galatians (2021); Paul and the Faithfulness of God (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing.",
-    "raw_text": "**Wright, N.T.** — Anglican historian; *The Resurrection of the Son of God* (2003); *The Climax of the Covenant* (1992); *Galatians* (2021); *Paul and the Faithfulness of God* (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing.",
+    "id": "rk_ef20b7806ef0ad65800c",
+    "text": "⟨UNRESOLVED⟩ Wood, Bryant — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wood, Bryant** — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20386,16 +20398,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e8adaeb04a92bc3e224c",
-    "text": "Yoder, John Howard — Pacifist/Anabaptist ethicist; The Politics of Jesus (Eerdmans, 1972/1994). Key philological point: Paul's verb hypotassō (\"subordinate\") is not the Greek word for obedience (hypakouō) — subordination is compatible with refusal, obedience is not. Important flag: Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior.",
-    "raw_text": "**Yoder, John Howard** — Pacifist/Anabaptist ethicist; *The Politics of Jesus* (Eerdmans, 1972/1994). Key philological point: Paul's verb *hypotassō* (\"subordinate\") is not the Greek word for obedience (*hypakouō*) — subordination is compatible with refusal, obedience is not. **Important flag:** Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior.",
+    "id": "rk_3dc9fbbd3831296f3189",
+    "text": "⟨UNRESOLVED⟩ Wright, N.T. — Anglican historian; The Resurrection of the Son of God (2003); The Climax of the Covenant (1992); Galatians (2021); Paul and the Faithfulness of God (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Wright, N.T.** — Anglican historian; *The Resurrection of the Son of God* (2003); *The Climax of the Covenant* (1992); *Galatians* (2021); *Paul and the Faithfulness of God* (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "Y"
+      "W"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20403,7 +20415,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Y",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
     "source_reference": "paragraph:632",
     "parent_id": null,
     "related_ids": [],
@@ -20418,9 +20430,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ba13b74d6424b3de3f1",
-    "text": "Young, Frances — Critical scholar; Biblical Exegesis and the Formation of Christian Culture (Cambridge, 1997). Argues the \"Alexandria equals allegory, Antioch equals literal history\" textbook binary is overdrawn.",
-    "raw_text": "**Young, Frances** — Critical scholar; *Biblical Exegesis and the Formation of Christian Culture* (Cambridge, 1997). Argues the \"Alexandria equals allegory, Antioch equals literal history\" textbook binary is overdrawn.",
+    "id": "rk_4e36b86a3f53acd159ba",
+    "text": "⟨UNRESOLVED⟩ Yoder, John Howard — Pacifist/Anabaptist ethicist; The Politics of Jesus (Eerdmans, 1972/1994). Key philological point: Paul's verb hypotassō (\"subordinate\") is not the Greek word for obedience (hypakouō) — subordination is compatible with refusal, obedience is not. Important flag: Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Yoder, John Howard** — Pacifist/Anabaptist ethicist; *The Politics of Jesus* (Eerdmans, 1972/1994). Key philological point: Paul's verb *hypotassō* (\"subordinate\") is not the Greek word for obedience (*hypakouō*) — subordination is compatible with refusal, obedience is not. **Important flag:** Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20450,16 +20462,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6cf0c0b3f046b362e55e",
-    "text": "Zenger, Erich — Critical Catholic scholar; A God of Vengeance? (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators.",
-    "raw_text": "**Zenger, Erich** — Critical Catholic scholar; *A God of Vengeance?* (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators.",
+    "id": "rk_891abbb37f24991115b0",
+    "text": "⟨UNRESOLVED⟩ Young, Frances — Critical scholar; Biblical Exegesis and the Formation of Christian Culture (Cambridge, 1997). Argues the \"Alexandria equals allegory, Antioch equals literal history\" textbook binary is overdrawn. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Young, Frances** — Critical scholar; *Biblical Exegesis and the Formation of Christian Culture* (Cambridge, 1997). Argues the \"Alexandria equals allegory, Antioch equals literal history\" textbook binary is overdrawn. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
     "topics": [
       "Bible Deep Dive: Study Notes",
       "12. Cited Persons Reference",
-      "Z"
+      "Y"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -20467,7 +20479,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Z",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Y",
     "source_reference": "paragraph:634",
     "parent_id": null,
     "related_ids": [],
@@ -20482,9 +20494,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5e5a6ad7ba823fcd0b26",
-    "text": "Zuckerman, Phil — Sociologist; secular; Society Without God (2008). Secular people exhibit the same wellbeing outcomes as religious people.",
-    "raw_text": "**Zuckerman, Phil** — Sociologist; secular; *Society Without God* (2008). Secular people exhibit the same wellbeing outcomes as religious people.",
+    "id": "rk_8dd887ca45e5a699ad25",
+    "text": "⟨UNRESOLVED⟩ Zenger, Erich — Critical Catholic scholar; A God of Vengeance? (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Zenger, Erich** — Critical Catholic scholar; *A God of Vengeance?* (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20514,9 +20526,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f971390d2b7e76705bf3",
-    "text": "Zwingli, Ulrich — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin.",
-    "raw_text": "**Zwingli, Ulrich** — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin.",
+    "id": "rk_06837ab4fc12b4f153e0",
+    "text": "⟨UNRESOLVED⟩ Zuckerman, Phil — Sociologist; secular; Society Without God (2008). Secular people exhibit the same wellbeing outcomes as religious people. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Zuckerman, Phil** — Sociologist; secular; *Society Without God* (2008). Secular people exhibit the same wellbeing outcomes as religious people. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -20533,6 +20545,38 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Z",
     "source_reference": "paragraph:636",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_249c0979848441e1fd6f",
+    "text": "⟨UNRESOLVED⟩ Zwingli, Ulrich — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED",
+    "raw_text": "⟨UNRESOLVED⟩ **Zwingli, Ulrich** — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin. The entry currently has no directly linked evidence sufficient to support its full wording. Retain it only as an audit lead, not as an established fact. `UNRESOLVED 12 AUG 2026 — DIRECT SOURCE OR PAGE REQUIRED`",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "Z"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Z",
+    "source_reference": "paragraph:637",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
