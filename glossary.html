@@ -142,7 +142,8 @@ a{color:var(--accent);text-underline-offset:2px}
 .mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
 .mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
 .camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
-  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
+  color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:normal;
+  overflow-wrap:anywhere;-webkit-box-decoration-break:clone;box-decoration-break:clone}
 
 /* cross-reference links */
 .xref{font-family:var(--f-mono);font-size:.86em;color:var(--accent);text-decoration:none;
@@ -169,7 +170,7 @@ a.ext::after{content:"↗";font-size:.72em;margin-left:.18em;vertical-align:supe
   border-radius:4px;font-size:.83rem;max-width:var(--measure)}
 .related b{font-family:var(--f-mono);font-size:.6rem;letter-spacing:.12em;text-transform:uppercase;
   color:#134745;display:block;margin-bottom:.35rem}
-.related a{margin-right:.9rem;white-space:nowrap}
+.related a{display:inline-block;margin:0 .9rem .3rem 0;overflow-wrap:anywhere}
 
 /* toolbar */
 #tools{position:sticky;top:0;background:rgba(237,239,236,.93);backdrop-filter:blur(8px);
@@ -225,7 +226,7 @@ h2 span.flagmark{color:var(--collapses)}
   <header>
     <p class="doctitle">Glossary</p>
     <p class="docsub">Plain-English definitions</p>
-    <div class="docswitch"><a class="app-link" href="app/" title="Open the app">App</a><a href="master-notes.html">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a class="on" href="#">Glossary</a></div>
+    <div class="docswitch"><a class="app-link" href="app/" title="Open the app">App</a><a href="master-notes.html">Study Notes</a><a href="field-guide.html">Observations</a><a href="history.html">History</a><a href="sources.html">Sources</a><a href="other-side.html">The Strongest Case</a><a href="translations.html">Translations</a><a href="method-reference.html">Method &amp; Reference</a><a class="on" href="#">Glossary</a><a href="cited-persons.html">Cited Persons</a><a href="search.html">Search</a></div>
   </header>
   <input id="search" type="search" placeholder="Search  ( / )" aria-label="Search document">
   <div id="toc"><a class="lvl2" href="#s1"><span style="opacity:.5;font-family:var(--f-mono);font-size:.75em">1</span> Studying texts</a>
@@ -566,4 +567,4 @@ addEventListener('keydown',e=>{
   if(e.key==='/'&&document.activeElement!==$('#search')){e.preventDefault();$('#search').focus()}
   if(e.key==='Escape'){$('#search').value='';$('#search').dispatchEvent(new Event('input'));$('#search').blur()}
 });
-</script></body></html>
+</script><script src="highlight-referral.js"></script></body></html>

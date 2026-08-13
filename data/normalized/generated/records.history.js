@@ -1144,7 +1144,782 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b4bb6fa0bc52252de581",
+    "id": "rk_2a83f8b9113079f9e782",
+    "text": "The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.",
+    "raw_text": "The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:37",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_80c62cefd51d49123d57",
+    "text": "The inscriptions.",
+    "raw_text": "**The inscriptions.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:38",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_17f180341d173c30d05b",
+    "text": "Two archaeologically excavated sites preserve the formula \"Yahweh and his Asherah\" as a routine blessing.",
+    "raw_text": "Two archaeologically excavated sites preserve the formula \"Yahweh and his Asherah\" as a routine blessing.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:39",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6c0ef69939e232b88667",
+    "text": "Kuntillet Ajrud (northeastern Sinai, ca. 820–745 BCE): Pithos A reads \"I bless you by YHWH of Samaria and his Asherah\"; Pithos B reads \"I bless you by YHWH of Teman and his Asherah.\" Ze'ev Meshel [CRITICAL], the site's excavator, published the full excavation report (Israel Exploration Society, 2012). The inscriptions appear on storage jars at a waystation — the blessing context is routine, not liturgical.",
+    "raw_text": "*Kuntillet Ajrud* (northeastern Sinai, ca. 820–745 BCE): Pithos A reads \"I bless you by YHWH of Samaria and his Asherah\"; Pithos B reads \"I bless you by YHWH of Teman and his Asherah.\" Ze'ev Meshel [CRITICAL], the site's excavator, published the full excavation report (Israel Exploration Society, 2012). The inscriptions appear on storage jars at a waystation — the blessing context is routine, not liturgical.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:40",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e19aa478e242be7b009d",
+    "text": "Khirbet el-Qom (western Judah, ca. 750 BCE): \"Blessed be Uryahu by Yahweh and by his Asherah.\" Found on a tomb wall. The same formula as Kuntillet Ajrud, at a geographically distant site in Judah proper, in a different inscription type.",
+    "raw_text": "*Khirbet el-Qom* (western Judah, ca. 750 BCE): \"Blessed be Uryahu by Yahweh and by his Asherah.\" Found on a tomb wall. The same formula as Kuntillet Ajrud, at a geographically distant site in Judah proper, in a different inscription type.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:41",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_545d682600acd6d71b61",
+    "text": "Two independent sites, same formula, different inscription types and material contexts, spanning the 9th–8th century BCE across different regions. Evidence of widespread practice, not a local aberration.",
+    "raw_text": "⟨INFERENCE⟩ Two independent sites, same formula, different inscription types and material contexts, spanning the 9th–8th century BCE across different regions. Evidence of widespread practice, not a local aberration.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:42",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_cac2adb0c0c62eb97b4b",
+    "text": "The condemnation texts — what they reveal by existing.",
+    "raw_text": "**The condemnation texts — what they reveal by existing.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:43",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_22be46b76a5f3752a4f4",
+    "text": "The Deuteronomistic editors condemn Asherah-related practice repeatedly and specifically:\nDeuteronomy 16:21 — prohibits planting an asherah beside Yahweh's altar\nJudges 6:25 — Gideon destroys his father's Baal altar and cuts down the asherah beside it\n1 Kings 15:13 — Asa removes his grandmother Maacah from the queen-mother position for making an Asherah object; he burns it at the Kidron Valley\n2 Kings 23:6 — Josiah removes the Asherah pole from inside the Jerusalem temple, burns it at the Kidron Valley, grinds it to powder, and scatters the dust over graves",
+    "raw_text": "The Deuteronomistic editors condemn Asherah-related practice repeatedly and specifically:\n- Deuteronomy 16:21 — prohibits planting an asherah beside Yahweh's altar\n- Judges 6:25 — Gideon destroys his father's Baal altar and cuts down the asherah beside it\n- 1 Kings 15:13 — Asa removes his grandmother Maacah from the queen-mother position for making an Asherah object; he burns it at the Kidron Valley\n- 2 Kings 23:6 — Josiah removes the Asherah pole from *inside the Jerusalem temple*, burns it at the Kidron Valley, grinds it to powder, and scatters the dust over graves",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:44",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9f1cd1bda70723485a58",
+    "text": "Prohibition is evidence of practice. The pole was inside the Jerusalem temple itself in 2 Kings 23. Repeated urgent suppression campaigns — Asa's reform, Josiah's reform — detailed enough to name which individuals kept which objects and where — are the signal of a mainstream practice being pushed out, not a marginal one.",
+    "raw_text": "⟨INFERENCE⟩ Prohibition is evidence of practice. The pole was inside the Jerusalem temple itself in 2 Kings 23. Repeated urgent suppression campaigns — Asa's reform, Josiah's reform — detailed enough to name which individuals kept which objects and where — are the signal of a mainstream practice being pushed out, not a marginal one.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:45",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3287eaac2d50bc90ef01",
+    "text": "The Queen of Heaven — the text preserves the resistance.",
+    "raw_text": "**The Queen of Heaven — the text preserves the resistance.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:46",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b09f19eb7b03bf507587",
+    "text": "Jeremiah 7:18 records whole-family participation in the Queen of Heaven cult: sons gather wood, fathers light fires, women knead dough and bake cakes. Jeremiah 44:15–19 preserves the sharpest counter-statement in the canon: the assembly — men and women together — explicitly refuses Jeremiah's call for reform and attributes the disasters not to the Queen of Heaven cult but to its abandonment: \"since we stopped offering incense to the Queen of Heaven... we have been lacking everything.\" The women in verse 19 assert their husbands' approval. The resistance to prophetic monolatry is recorded in the text's own voice.",
+    "raw_text": "Jeremiah 7:18 records whole-family participation in the Queen of Heaven cult: sons gather wood, fathers light fires, women knead dough and bake cakes. Jeremiah 44:15–19 preserves the sharpest counter-statement in the canon: the assembly — men and women together — explicitly refuses Jeremiah's call for reform and attributes the disasters not to the Queen of Heaven cult but to its *abandonment*: \"since we stopped offering incense to the Queen of Heaven... we have been lacking everything.\" The women in verse 19 assert their husbands' approval. The resistance to prophetic monolatry is recorded in the text's own voice.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:47",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_1e847f6f82a7756ab751",
+    "text": "The \"his Asherah\" debate.",
+    "raw_text": "**The \"his Asherah\" debate.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:48",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0ed3aff2dfae119331ee",
+    "text": "The phrase ʾšrth in the inscriptions has generated sustained debate: does the pronominal suffix mark a common noun (a cultic object, an asherah pole) or a personal name (the goddess Asherah)?",
+    "raw_text": "The phrase *ʾšrth* in the inscriptions has generated sustained debate: does the pronominal suffix mark a common noun (a cultic object, an asherah pole) or a personal name (the goddess Asherah)?",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "QUESTION",
+    "status": "OPEN",
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:49",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_87a0227655ecb7d43acd",
+    "text": "Common noun camp: J.A. Emerton [CRITICAL] (Vetus Testamentum 49:3, 1999) anchors the case in Hebrew grammar: pronominal suffixes do not attach to personal names in classical Hebrew. Saul M. Olyan [CRITICAL] (Asherah and the Cult of Yahweh in Israel, SBL Monograph Series 34, Scholars Press, 1988) supplements this from biblical verbal patterns — asherah is consistently \"made,\" \"set up,\" \"cut down,\" and \"burned,\" all verbs for manufactured objects.",
+    "raw_text": "*Common noun camp:* J.A. Emerton [CRITICAL] (*Vetus Testamentum* 49:3, 1999) anchors the case in Hebrew grammar: pronominal suffixes do not attach to personal names in classical Hebrew. Saul M. Olyan [CRITICAL] (*Asherah and the Cult of Yahweh in Israel*, SBL Monograph Series 34, Scholars Press, 1988) supplements this from biblical verbal patterns — asherah is consistently \"made,\" \"set up,\" \"cut down,\" and \"burned,\" all verbs for manufactured objects.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:50",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9e01947e44c76813631d",
+    "text": "Goddess camp: William G. Dever [SECULAR-ARCHAEOLOGICAL] (Did God Have a Wife?, Eerdmans, 2005) argues the Hebrew grammar rule is overstated: Northwest Semitic cognate languages, including Ugaritic and Eblaite, permit possessive constructions on divine names. The drawings on the Kuntillet Ajrud pithoi support a divine figure in context.",
+    "raw_text": "*Goddess camp:* William G. Dever [SECULAR-ARCHAEOLOGICAL] (*Did God Have a Wife?*, Eerdmans, 2005) argues the Hebrew grammar rule is overstated: Northwest Semitic cognate languages, including Ugaritic and Eblaite, permit possessive constructions on divine names. The drawings on the Kuntillet Ajrud pithoi support a divine figure in context.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:51",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_92f42bd4d7c73a2aca97",
+    "text": "Mediating positions: Judith M. Hadley [CRITICAL] (The Cult of Asherah in Ancient Israel and Judah, Cambridge University Press, 2000) proposes that object and goddess were not cleanly separable in practice — the asherah pole functioned as an embodiment of the deity. At Kuntillet Ajrud specifically, Hadley reads the term as a cultic object understood to embody the goddess.",
+    "raw_text": "*Mediating positions:* Judith M. Hadley [CRITICAL] (*The Cult of Asherah in Ancient Israel and Judah*, Cambridge University Press, 2000) proposes that object and goddess were not cleanly separable in practice — the asherah pole functioned as an embodiment of the deity. At Kuntillet Ajrud specifically, Hadley reads the term as a cultic object understood to embody the goddess.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:52",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a2279f2b8768af81bd7c",
+    "text": "The grammatical argument (Emerton, Olyan) remains the default in mainstream treatments. But regardless of how the noun/name question resolves, the formula appears in routine blessing contexts at two independent sites. Whatever Asherah was — pole, symbol, or goddess — invoking \"Yahweh and his Asherah\" was standard practice in 8th-century Israel and Judah.",
+    "raw_text": "⟨INFERENCE⟩ The grammatical argument (Emerton, Olyan) remains the default in mainstream treatments. But regardless of how the noun/name question resolves, the formula appears in routine blessing contexts at two independent sites. Whatever Asherah was — pole, symbol, or goddess — invoking \"Yahweh and his Asherah\" was standard practice in 8th-century Israel and Judah.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:53",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_31fbdcea81e21c1a3a16",
+    "text": "The convergence and differentiation model.",
+    "raw_text": "**The convergence and differentiation model.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:54",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_62430c3714ad576165ce",
+    "text": "Mark S. Smith [CRITICAL] (The Early History of God: Yahweh and the Other Deities in Ancient Israel, 2nd ed., Eerdmans, 2002) provides the most influential framework: El's identity, Asherah's attributes, and Baal's traits were absorbed into Yahweh during the Judges and early monarchy periods (convergence), with progressive rejection of these earlier associations constructed as incompatible with Yahwism (differentiation). On Smith's account, the Asherah evidence is not a deviation from an original monotheism — it is part of the baseline from which the Deuteronomistic editors were differentiating.",
+    "raw_text": "Mark S. Smith [CRITICAL] (*The Early History of God: Yahweh and the Other Deities in Ancient Israel*, 2nd ed., Eerdmans, 2002) provides the most influential framework: El's identity, Asherah's attributes, and Baal's traits were absorbed into Yahweh during the Judges and early monarchy periods (*convergence*), with progressive rejection of these earlier associations constructed as incompatible with Yahwism (*differentiation*). On Smith's account, the Asherah evidence is not a deviation from an original monotheism — it is part of the baseline from which the Deuteronomistic editors were differentiating.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:55",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fd5bb907365dc3c2bafe",
+    "text": "Barker's thesis — standing versus conclusions.",
+    "raw_text": "**Barker's thesis — standing versus conclusions.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:56",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_12aab9ef74855b81243b",
+    "text": "Margaret Barker [INDEPENDENT SCHOLAR] (The Great Angel: A Study of Israel's Second God, Westminster John Knox Press, 1992) argues that First Temple religion preserved a triadic theology with Lady Wisdom/Asherah as a subordinated divine feminine figure, and that Christianity represents a recovery of this suppressed pre-Josianic tradition. Barker served as president of the Society for Old Testament Study (1998) and received a Lambeth DD from Archbishop Rowan Williams — her institutional recognition is genuine. Her conclusion that Christianity is a restoration of a suppressed goddess tradition is rejected by the mainstream critical academy. The distinction matters.",
+    "raw_text": "Margaret Barker [INDEPENDENT SCHOLAR] (*The Great Angel: A Study of Israel's Second God*, Westminster John Knox Press, 1992) argues that First Temple religion preserved a triadic theology with Lady Wisdom/Asherah as a subordinated divine feminine figure, and that Christianity represents a recovery of this suppressed pre-Josianic tradition. Barker served as president of the Society for Old Testament Study (1998) and received a Lambeth DD from Archbishop Rowan Williams — her institutional recognition is genuine. Her conclusion that Christianity is a restoration of a suppressed goddess tradition is rejected by the mainstream critical academy. The distinction matters.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:57",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b589ecf75a667b461c30",
+    "text": "The conservative-evangelical counter.",
+    "raw_text": "**The conservative-evangelical counter.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:58",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_927677fc675adb816460",
+    "text": "Iain Provan, V. Philips Long, and Tremper Longman III [CONSERVATIVE-EVANGELICAL] (A Biblical History of Israel, Westminster John Knox Press, 2003) read the condemnation texts as evidence of apostasy against an original Yahwist monotheism — the Deuteronomistic framing taken at face value as a historical account of deviation rather than a later theological construction.",
+    "raw_text": "Iain Provan, V. Philips Long, and Tremper Longman III [CONSERVATIVE-EVANGELICAL] (*A Biblical History of Israel*, Westminster John Knox Press, 2003) read the condemnation texts as evidence of apostasy against an original Yahwist monotheism — the Deuteronomistic framing taken at face value as a historical account of deviation rather than a later theological construction.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:59",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d66ac3f93c29504b9d6f",
+    "text": "What this evidence establishes.",
+    "raw_text": "**What this evidence establishes.**",
+    "provenance_type": "CLAUDE",
+    "representation_type": "SUMMARY",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:60",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "DOCUMENT_DEFAULT",
+    "attribution_evidence": {
+      "method": "document_provenance",
+      "value": "Historical Framework provenance explicitly states: Written by Claude; nothing here is the user's prior work."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_33dece5bc80f9ffbf1c8",
+    "text": "The inscriptions demonstrate that invoking Yahweh alongside Asherah was ordinary enough to appear in routine blessing formulas at two independent sites across different regions. The biblical condemnation texts record repeated, detailed suppression campaigns — including one focused on a cultic object stored inside the Jerusalem temple. The Queen of Heaven texts preserve explicit popular resistance to prophetic monolatry, in the text's own words.  The religion the Deuteronomistic editors condemned was not a foreign import or elite aberration: it was the popular religion of Israel and Judah during the monarchy period. The Israel that emerges from Josiah's reform, the Babylonian exile, and the return is a different theological construction from the one that preceded it.",
+    "raw_text": "The inscriptions demonstrate that invoking Yahweh alongside Asherah was ordinary enough to appear in routine blessing formulas at two independent sites across different regions. The biblical condemnation texts record repeated, detailed suppression campaigns — including one focused on a cultic object stored inside the Jerusalem temple. The Queen of Heaven texts preserve explicit popular resistance to prophetic monolatry, in the text's own words. ⟨INFERENCE⟩ The religion the Deuteronomistic editors condemned was not a foreign import or elite aberration: it was the popular religion of Israel and Judah during the monarchy period. The Israel that emerges from Josiah's reform, the Babylonian exile, and the return is a different theological construction from the one that preceded it.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Historical Framework",
+      "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Historical_Framework.md",
+    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_reference": "paragraph:61",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_48d7bdf32aba0b888b34",
     "text": "Handle this precisely; popular summaries often overstate or understate what the evidence supports.",
     "raw_text": "Handle this precisely; popular summaries often overstate or understate what the evidence supports.",
     "provenance_type": "CLAUDE",
@@ -1161,7 +1936,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:37",
+    "source_reference": "paragraph:62",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1175,7 +1950,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0dbacb08b5739a74e9f3",
+    "id": "rk_58093a3050918a4b6074",
     "text": "Tacitus, Annals 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. Caveat added 7 Aug 2026: Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
     "raw_text": "**Tacitus,** *Annals* 15.44, c. 115 CE. Records that Christus was executed under Pilate during Tiberius's reign and that the movement spread from Judea to Rome. <cite index=\"28-1\">Modern scholarship treats the reference as independent and hostile to Christianity, which strengthens its evidentiary weight.</cite> Hostile witnesses do not invent flattering origins for people they despise. **Caveat added 7 Aug 2026:** Tacitus does not name his source. He independently attests what he understood the movement's origin to be; whether the execution detail derives from Roman records or from what Christians in Rome said about themselves is unknown, and it should not be asserted as independently derived from official archives.",
     "provenance_type": "CLAUDE",
@@ -1192,7 +1967,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:38",
+    "source_reference": "paragraph:63",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1206,7 +1981,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0c6b68424c43f1b5c65b",
+    "id": "rk_fec8c8291da63f0527a3",
     "text": "Josephus, two passages. The James reference (Antiquities 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer Testimonium Flavianum (Antiquities 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
     "raw_text": "**Josephus,** two passages. The James reference (*Antiquities* 20.200) mentions James, \"the brother of Jesus who was called Christ,\" and <cite index=\"28-1\">is widely accepted as authentic.</cite> The longer *Testimonium Flavianum* (*Antiquities* 18.63–64) <cite index=\"28-1\">contains language — explicit affirmation of the resurrection and messianic titles — that many scholars regard as later Christian interpolation, while a substantial core describing a wise man executed by Pilate is argued by several recent scholars to be original.</cite>",
     "provenance_type": "CLAUDE",
@@ -1223,7 +1998,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:39",
+    "source_reference": "paragraph:64",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1237,7 +2012,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_493b39b1c7664019c51c",
+    "id": "rk_8f22e4ce7a753cdedace",
     "text": "Do not say the Testimonium is a forgery as though it were established. Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
     "raw_text": "**Do not say the Testimonium is a forgery as though it were established.** Tim O'Neill [ATHEIST, History for Atheists] documents this precisely: <cite index=\"29-1\">Ken Olson and Paul Hopper have argued the passage is a wholesale later insertion rather than a Josephan text with Christian additions — solid work by qualified scholars with no obvious agenda — but they remain in the minority, while the idea that the Testimonium is a \"forgery\" has become almost an article of faith among online mythicism enthusiasts, stated as hard fact rather than as a minority interpretation.</cite>",
     "provenance_type": "CLAUDE",
@@ -1254,7 +2029,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:40",
+    "source_reference": "paragraph:65",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1268,7 +2043,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b514cc96c3d8b5fda7e3",
+    "id": "rk_44bcdefaa0555f5aa050",
     "text": "Also: Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
     "raw_text": "**Also:** Pliny the Younger (c. 112 CE, administrative correspondence on how to handle Christians), Suetonius, Lucian, and later Talmudic references. <cite index=\"28-1\">Individually limited, together they establish that early Christians worshipped a crucified founder, that Roman officials knew of them, and that Jewish polemicists recognized Jesus-centered factions.</cite>",
     "provenance_type": "CLAUDE",
@@ -1285,7 +2060,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:41",
+    "source_reference": "paragraph:66",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1299,7 +2074,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0cc8db9d14636bf7c4af",
+    "id": "rk_5308c6731a94d05c97ee",
     "text": "What this evidence establishes: a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.",
     "raw_text": "**What this evidence establishes:** a Galilean Jewish teacher was executed by Roman authority under Pilate, and a movement formed around him that spread fast. That is well supported.",
     "provenance_type": "CLAUDE",
@@ -1316,7 +2091,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:42",
+    "source_reference": "paragraph:67",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1330,7 +2105,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8111c9b87c2151385e40",
+    "id": "rk_0358e8d444d8a8e07c4e",
     "text": "What it does not establish: anything about miracles, resurrection, virgin birth, or divinity. No independent, contemporary non-Christian source verifies those claims. Keep the two separate and you cannot be trapped.",
     "raw_text": "**What it does not establish:** anything about miracles, resurrection, virgin birth, or divinity. No independent, contemporary non-Christian source verifies those claims. Keep the two separate and you cannot be trapped.",
     "provenance_type": "CLAUDE",
@@ -1347,7 +2122,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 3. Sources Outside the New Testament",
-    "source_reference": "paragraph:43",
+    "source_reference": "paragraph:68",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1361,7 +2136,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_adbca0b53e5beab6f11e",
+    "id": "rk_6a96bbcc62f06a415cba",
     "text": "The manuscript argument is the most common apologetic move and the most commonly mishandled from both sides.",
     "raw_text": "The manuscript argument is the most common apologetic move and the most commonly mishandled from both sides.",
     "provenance_type": "CLAUDE",
@@ -1378,7 +2153,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:44",
+    "source_reference": "paragraph:69",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1392,7 +2167,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8619a927bb037557df9f",
+    "id": "rk_bb684b8e51e1632221ac",
     "text": "A common claim: roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
     "raw_text": "**A common claim:** roughly 5,800 Greek New Testament manuscripts, plus about 10,000 Latin and thousands more in other languages — more than any other ancient work by orders of magnitude, so the New Testament is the best-attested text from antiquity.",
     "provenance_type": "CLAUDE",
@@ -1409,7 +2184,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:45",
+    "source_reference": "paragraph:70",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1423,7 +2198,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a9a369f4b30d6db280ea",
+    "id": "rk_41cd48161a1c897a1a9a",
     "text": "The factual part is true. Homer is the nearest comparison and it is not close.",
     "raw_text": "**The factual part is true.** Homer is the nearest comparison and it is not close.",
     "provenance_type": "CLAUDE",
@@ -1440,7 +2215,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:46",
+    "source_reference": "paragraph:71",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1454,7 +2229,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_27258af0269cb9296e49",
+    "id": "rk_e81df33d4fa2c259c229",
     "text": "What the numbers actually establish: the discipline's stated goal is the initial text (Ausgangstext) — the earliest recoverable form — using all surviving evidence, and for much of the New Testament that reconstruction is highly confident. That is a real achievement and worth conceding without hedging.",
     "raw_text": "**What the numbers actually establish:** the discipline's stated goal is the *initial text* (Ausgangstext) — the earliest recoverable form — using all surviving evidence, and for much of the New Testament that reconstruction is highly confident. That is a real achievement and worth conceding without hedging.",
     "provenance_type": "CLAUDE",
@@ -1471,7 +2246,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:47",
+    "source_reference": "paragraph:72",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1485,7 +2260,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_67a18a8e2cedd00cb52f",
+    "id": "rk_4bad7bb8f0837e7816ab",
     "text": "The precise limitation : how close the reconstructed initial text stands to what an author actually wrote is exactly what is contested, and the evidence thins sharply for the earliest decades and for books with sparse early attestation. Do not say textual criticism \"only reaches the second century\" — that misstates the discipline. Say that confidence degrades as you move back toward the autographs, and that no manuscript is a witness to the gap between event and first writing.",
     "raw_text": "**The precise limitation** ⟨INFERENCE⟩**:** how close the reconstructed initial text stands to what an author actually wrote is exactly what is contested, and the evidence thins sharply for the earliest decades and for books with sparse early attestation. Do not say textual criticism \"only reaches the second century\" — that misstates the discipline. Say that confidence degrades as you move back toward the autographs, and that no manuscript is a witness to the gap between event and first writing.",
     "provenance_type": "CLAUDE",
@@ -1502,7 +2277,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:48",
+    "source_reference": "paragraph:73",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1516,7 +2291,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_582185b4d3e95b2173fa",
+    "id": "rk_5cc1db6cf0db6a51cad0",
     "text": "What they do not establish:",
     "raw_text": "**What they do not establish:**",
     "provenance_type": "CLAUDE",
@@ -1533,7 +2308,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:49",
+    "source_reference": "paragraph:74",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1547,7 +2322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_59f91c5a2afb2c54d924",
+    "id": "rk_c01d71ef332c8418b1c3",
     "text": "1. Quantity measures copying, not accuracy. Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. The gap is where the damage happens. The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. Most manuscripts are late and derivative. The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. We know substantial passages were added, because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is the evidence that the text changed, not merely evidence for the text.\n5. Reconstructing the words is not establishing the events. Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
     "raw_text": "1. **Quantity measures copying, not accuracy.** Christianity became the state religion of an empire with scriptoria. The number reflects institutional power over fourteen centuries. It is a measure of the religion's success, not of the text's truth.\n2. **The gap is where the damage happens.** The earliest substantial manuscripts are second- and third-century; the events are first-century. Manuscripts cannot reach behind the earliest copy. Reconstructing the second-century text is not reconstructing an original.\n3. **Most manuscripts are late and derivative.** The overwhelming majority are medieval minuscules copied from copies. Five thousand descendants of one exemplar is still one line of evidence.\n4. **We know substantial passages were added,** because the manuscripts themselves show it: the longer ending of Mark (16:9–20), the woman caught in adultery (John 7:53–8:11), the Johannine Comma (1 John 5:7–8). Modern critical editions bracket or footnote all three. The manuscript tradition is the evidence *that the text changed*, not merely evidence *for* the text.\n5. **Reconstructing the words is not establishing the events.** Even a perfectly transmitted text is a perfectly transmitted first-century claim.",
     "provenance_type": "CLAUDE",
@@ -1564,7 +2339,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:50",
+    "source_reference": "paragraph:75",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1578,7 +2353,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ced0499a2e14dde54327",
+    "id": "rk_57543cd427431701f639",
     "text": "Concise formulation: \"We can reconstruct what the second-century text said with considerable confidence. A separate question concerns the earlier decades that no surviving manuscript can directly reach.\"",
     "raw_text": "**Concise formulation:** *\"We can reconstruct what the second-century text said with considerable confidence. A separate question concerns the earlier decades that no surviving manuscript can directly reach.\"*",
     "provenance_type": "CLAUDE",
@@ -1595,7 +2370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 4. Manuscripts and Transmission",
-    "source_reference": "paragraph:51",
+    "source_reference": "paragraph:76",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1609,7 +2384,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_33add543e8078d1345cc",
+    "id": "rk_ac88ab9023f93295c827",
     "text": "Slow, contested, regional, and never decided by a single vote.",
     "raw_text": "Slow, contested, regional, and never decided by a single vote.",
     "provenance_type": "CLAUDE",
@@ -1626,7 +2401,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:52",
+    "source_reference": "paragraph:77",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1640,7 +2415,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3cd13f6f6884317ed806",
+    "id": "rk_1d2fe51429e6ed46da5f",
     "text": "c. 140 CE — Marcion produces the first known canon: an edited Luke plus ten Pauline letters, rejecting the Hebrew scriptures entirely. Declared heretical. His challenge probably accelerated everyone else's list-making.\nc. 180 CE — Irenaeus argues for exactly four Gospels, on the reasoning that there are four winds and four corners of the earth. That is the actual argument in Against Heresies.\nc. 170–200 CE — the Muratorian Fragment, the earliest surviving list, already close to the final shape but not identical.\nThird century — Origen and Eusebius classify books as accepted, disputed, or spurious. Hebrews, James, 2 Peter, 2–3 John, Jude, and Revelation sit in the disputed column for a long time.\n367 CE — Athanasius's 39th Festal Letter is the first surviving list matching the 27-book New Testament exactly.\n393 / 397 CE — Hippo and Carthage ratify regional lists.\nThe Eastern churches never fully converged. The Ethiopian Orthodox canon is larger. The Syriac Peshitta long omitted several books. Catholic, Protestant, and Orthodox Old Testaments still differ.",
     "raw_text": "- **c. 140 CE — Marcion** produces the first known canon: an edited Luke plus ten Pauline letters, rejecting the Hebrew scriptures entirely. Declared heretical. His challenge probably accelerated everyone else's list-making.\n- **c. 180 CE — Irenaeus** argues for exactly four Gospels, on the reasoning that there are four winds and four corners of the earth. That is the actual argument in *Against Heresies*.\n- **c. 170–200 CE — the Muratorian Fragment**, the earliest surviving list, already close to the final shape but not identical.\n- **Third century** — Origen and Eusebius classify books as accepted, disputed, or spurious. Hebrews, James, 2 Peter, 2–3 John, Jude, and Revelation sit in the disputed column for a long time.\n- **367 CE — Athanasius's 39th Festal Letter** is the first surviving list matching the 27-book New Testament exactly.\n- **393 / 397 CE — Hippo and Carthage** ratify regional lists.\n- **The Eastern churches never fully converged.** The Ethiopian Orthodox canon is larger. The Syriac Peshitta long omitted several books. Catholic, Protestant, and Orthodox Old Testaments still differ.",
     "provenance_type": "CLAUDE",
@@ -1657,7 +2432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:53",
+    "source_reference": "paragraph:78",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1671,7 +2446,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b7a411ab556dd979df86",
+    "id": "rk_936729c685b18ae9e8dc",
     "text": "The honest critical point: the process was human, political, and contested for three centuries — not a conspiracy that picked the books. The criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and there is still no single Christian canon today.",
     "raw_text": "**The honest critical point:** **the process was human, political, and contested for three centuries** — not a conspiracy that picked the books. The criteria (apostolic origin, orthodoxy, widespread use) were applied by people who already held the positions the criteria selected for, and there is still no single Christian canon today.",
     "provenance_type": "CLAUDE",
@@ -1688,7 +2463,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:54",
+    "source_reference": "paragraph:79",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1702,7 +2477,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d2c38bcd1d4612ac5b77",
+    "id": "rk_fa5035454709bc9b6177",
     "text": "That argument is stronger than the conspiracy version because it is true and cannot be refuted by a historian.",
     "raw_text": "That argument is stronger than the conspiracy version because it is true and cannot be refuted by a historian.",
     "provenance_type": "CLAUDE",
@@ -1719,7 +2494,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 5. How the Canon Was Actually Formed",
-    "source_reference": "paragraph:55",
+    "source_reference": "paragraph:80",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1733,7 +2508,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_259947bc4c9dfac6bf06",
+    "id": "rk_bc04c6f605d03444d32a",
     "text": "For comparative work, the same evidentiary standards apply.",
     "raw_text": "For comparative work, the same evidentiary standards apply.",
     "provenance_type": "CLAUDE",
@@ -1750,7 +2525,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:56",
+    "source_reference": "paragraph:81",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1764,7 +2539,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fe9370505dc7f51bcab7",
+    "id": "rk_8e720b4eb5ec77b59e83",
     "text": "| Date | Event |\n|---|---|\n| c. 570–632 CE | Muhammad |\n| 610 CE | Traditional date of the first revelation |\n| 622 CE | Hijra to Medina — year 1 of the Islamic calendar |\n| 632 CE | Death of Muhammad; succession crisis begins |\n| c. 650 CE | Uthmanic recension — standardization is dated here by later Islamic tradition; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated |\n| 8th–9th c. | Hadith collections compiled; sira biographies written |",
     "raw_text": "| Date | Event |\n|---|---|\n| c. 570–632 CE | Muhammad |\n| 610 CE | Traditional date of the first revelation |\n| 622 CE | Hijra to Medina — year 1 of the Islamic calendar |\n| 632 CE | Death of Muhammad; succession crisis begins |\n| c. 650 CE | Uthmanic recension — standardization is dated here **by later Islamic tradition**; early manuscripts support a very early textual tradition, but details of the recension and the suppression of variants remain debated |\n| 8th–9th c. | Hadith collections compiled; *sira* biographies written |",
     "provenance_type": "CLAUDE",
@@ -1781,7 +2556,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:57",
+    "source_reference": "paragraph:82",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1795,7 +2570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45bf76a03213a8ec44e7",
+    "id": "rk_c5d127315bbc548e6420",
     "text": "Structural comparison worth holding: the Quran was standardized far closer to its origin than the New Testament was — a real point in its favor on transmission, and one Muslim apologists press hard. But the sira and hadith, which supply nearly all biographical detail about Muhammad, were written down one to two centuries later — a gap comparable to or worse than the Gospels'. Ibn Ishaq's biography survives only in Ibn Hisham's later edition.",
     "raw_text": "**Structural comparison worth holding:** the Quran was standardized far closer to its origin than the New Testament was — a real point in its favor on transmission, and one Muslim apologists press hard. But the *sira* and hadith, which supply nearly all biographical detail about Muhammad, were written down one to two centuries later — a gap comparable to or worse than the Gospels'. Ibn Ishaq's biography survives only in Ibn Hisham's later edition.",
     "provenance_type": "CLAUDE",
@@ -1812,7 +2587,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:58",
+    "source_reference": "paragraph:83",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1826,7 +2601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a2a618771bc4bf4a29c7",
+    "id": "rk_d57d880bb61190651f37",
     "text": "The symmetry to note: each tradition applies rigorous source criticism to the other's texts and not to its own. That observation is more useful than any individual fact.",
     "raw_text": "**The symmetry to note:** each tradition applies rigorous source criticism to the other's texts and not to its own. That observation is more useful than any individual fact.",
     "provenance_type": "CLAUDE",
@@ -1843,7 +2618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 6. Islam — Minimal Parallel Timeline",
-    "source_reference": "paragraph:59",
+    "source_reference": "paragraph:84",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1857,7 +2632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9391ea4602b498dd801b",
+    "id": "rk_095cf12867bf7fc2baa3",
     "text": "The popular claim that Nicaea created the biblical canon is false, and the correction is easy to verify.",
     "raw_text": "The popular claim that Nicaea created the biblical canon is false, and the correction is easy to verify.",
     "provenance_type": "CLAUDE",
@@ -1874,7 +2649,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:60",
+    "source_reference": "paragraph:85",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1888,7 +2663,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_acfd9f704147d98d4353",
+    "id": "rk_444f60be82166f67cc7b",
     "text": "What Nicaea (325 CE) actually did: <cite index=\"23-1\">its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations.</cite> It also set a common date for Easter and issued disciplinary canons.",
     "raw_text": "**What Nicaea (325 CE) actually did:** <cite index=\"23-1\">its key purpose was resolving the Arian controversy over the status of Jesus as God the Son in relation to God the Father, producing the Nicene Creed that became the basis for later Christological formulations.</cite> It also set a common date for Easter and issued disciplinary canons.",
     "provenance_type": "CLAUDE",
@@ -1905,7 +2680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:61",
+    "source_reference": "paragraph:86",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1919,7 +2694,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_23281eb7bc8aa2ffd188",
+    "id": "rk_298a709982211defd8ed",
     "text": "What it did not do: <cite index=\"23-1\">the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical.</cite> <cite index=\"20-1\">There is not a shred of evidence that the canon was raised at Nicaea at all.</cite>",
     "raw_text": "**What it did not do:** <cite index=\"23-1\">the council did not vote on or even discuss the biblical canon — which books counted as scripture, which were useful but not scriptural, and which were heretical.</cite> <cite index=\"20-1\">There is not a shred of evidence that the canon was raised at Nicaea at all.</cite>",
     "provenance_type": "CLAUDE",
@@ -1936,7 +2711,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:62",
+    "source_reference": "paragraph:87",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1950,7 +2725,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f9b9093fad2c91469c99",
+    "id": "rk_a042b9ae6215b0e2d94f",
     "text": "Where the myth comes from: <cite index=\"22-1\">a late-ninth-century Greek manuscript, the Synodicon Vetus, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through The Da Vinci Code.",
     "raw_text": "**Where the myth comes from:** <cite index=\"22-1\">a late-ninth-century Greek manuscript, the *Synodicon Vetus*, claims that at Nicaea the canonical books were miraculously separated from the spurious ones by being placed on an altar, with the inspired works found on top after prayer. That account was later picked up by Voltaire in the eighteenth century</cite> and reached mass culture through *The Da Vinci Code*.",
     "provenance_type": "CLAUDE",
@@ -1967,7 +2742,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:63",
+    "source_reference": "paragraph:88",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -1981,7 +2756,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ebd59af27bd5a82eb1fa",
+    "id": "rk_0e7abfc45e4932ba02b3",
     "text": "It did not invent Jesus's divinity either. High Christology is already present in Paul (Philippians 2, 1 Corinthians 8:6) in the 50s CE and in John's prologue around 90–100 CE. The vote at Nicaea was on how to formulate a divinity that was already the majority position — the dispute was whether the Son was of the same substance (homoousios) or a created being, not whether he was divine at all.",
     "raw_text": "**It did not invent Jesus's divinity either.** High Christology is already present in Paul (Philippians 2, 1 Corinthians 8:6) in the 50s CE and in John's prologue around 90–100 CE. The vote at Nicaea was on *how* to formulate a divinity that was already the majority position — the dispute was whether the Son was of the same substance (*homoousios*) or a created being, not whether he was divine at all.",
     "provenance_type": "CLAUDE",
@@ -1998,7 +2773,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:64",
+    "source_reference": "paragraph:89",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2012,7 +2787,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c93ac44b0163f0117e09",
+    "id": "rk_3768e799c64badd32991",
     "text": "What the evidence does support : Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile dissenters.",
     "raw_text": "**What the evidence does support** ⟨INFERENCE — the facts are documented; the judgement is Claude's⟩**:** Constantine convened the council, presided over a theological dispute he was not qualified to judge, and used imperial power to enforce the outcome and exile dissenters.",
     "provenance_type": "CLAUDE",
@@ -2029,7 +2804,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:65",
+    "source_reference": "paragraph:90",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2043,7 +2818,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fc6a863240790825d7e0",
+    "id": "rk_3ace780ecd623cd065a0",
     "text": "Correction applied 7 Aug 2026. The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — fifty-six years and several imperial reversals later. The more accurate summary is: the outcome tracked which emperor was in power, over more than half a century.",
     "raw_text": "**Correction applied 7 Aug 2026.** The original wording implied Nicaea settled the matter in 325. It did not. Arianism persisted for decades; Constantine himself later shifted toward the Arian side, Athanasius was exiled repeatedly, and pro-Nicene consensus was not consolidated until Constantinople in 381 — **fifty-six years and several imperial reversals later.** The more accurate summary is: **the outcome tracked which emperor was in power, over more than half a century.**",
     "provenance_type": "CLAUDE",
@@ -2060,7 +2835,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:66",
+    "source_reference": "paragraph:91",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2074,7 +2849,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4dd83b84fcb8614cd823",
+    "id": "rk_ef322ae7dd74301de7c5",
     "text": "The documented history is more useful than the myth.",
     "raw_text": "The documented history is more useful than the myth.",
     "provenance_type": "CLAUDE",
@@ -2091,7 +2866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 7. Constantine and Nicaea — What the Evidence Shows",
-    "source_reference": "paragraph:67",
+    "source_reference": "paragraph:92",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2105,7 +2880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b9697f9c577444a609e1",
+    "id": "rk_d590fff118b79d626b6a",
     "text": "313 CE — Edict of Milan legalizes Christianity. It does not make it the state religion.\n325 CE — Nicaea.\n380 CE — Edict of Thessalonica under Theodosius makes Nicene Christianity the state religion.\n391–392 CE — Theodosius bans public pagan sacrifice; temples close.",
     "raw_text": "- **313 CE** — Edict of Milan legalizes Christianity. It does not make it the state religion.\n- **325 CE** — Nicaea.\n- **380 CE** — Edict of Thessalonica under Theodosius makes Nicene Christianity the state religion.\n- **391–392 CE** — Theodosius bans public pagan sacrifice; temples close.",
     "provenance_type": "CLAUDE",
@@ -2122,7 +2897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 8. Christianity and the Roman Empire",
-    "source_reference": "paragraph:68",
+    "source_reference": "paragraph:93",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2136,7 +2911,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_83c65764effc2a0ec618",
+    "id": "rk_c11af82f672faf3e224e",
     "text": "The mechanism worth naming : in under eighty years Christianity moved from persecuted minority to persecuting majority, and the persecuted-to-persecutor transition took about one generation after acquiring state power. That is a claim about institutions and power, it is fully documented, and it does not require any conspiracy.",
     "raw_text": "**The mechanism worth naming** ⟨INFERENCE — the dates are documented; the framing is Claude's⟩**:** in under eighty years Christianity moved from persecuted minority to persecuting majority, and the persecuted-to-persecutor transition took about one generation after acquiring state power. That is a claim about institutions and power, it is fully documented, and it does not require any conspiracy.",
     "provenance_type": "CLAUDE",
@@ -2153,7 +2928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 8. Christianity and the Roman Empire",
-    "source_reference": "paragraph:69",
+    "source_reference": "paragraph:94",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2167,7 +2942,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_11fd16180a815e0cebb2",
+    "id": "rk_f8ea43c4e807613633c2",
     "text": "Pre-Constantine persecution was real but sporadic — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll.",
     "raw_text": "**Pre-Constantine persecution was real but sporadic** — mostly localized, with empire-wide efforts under Decius (250) and Diocletian (303–311). Note also that toleration preceded Milan: Gallienus issued an edict of toleration around 260, and Galerius's Edict of Serdica in 311 ended the Diocletianic persecution two years before Milan. Christianity was not a uniformly persecuted minority right up to 313. Popular accounts overstate both its continuity and its death toll.",
     "provenance_type": "CLAUDE",
@@ -2184,7 +2959,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 8. Christianity and the Roman Empire",
-    "source_reference": "paragraph:70",
+    "source_reference": "paragraph:95",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2198,7 +2973,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e3ea68bab81c493e5ec0",
+    "id": "rk_c60b32f54c3262493f30",
     "text": "These claims circulate widely but are false or badly overstated. Every item below is rejected by secular historians, not only by apologists.",
     "raw_text": "These claims circulate widely but are false or badly overstated. Every item below is rejected by secular historians, not only by apologists.",
     "provenance_type": "CLAUDE",
@@ -2215,7 +2990,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:71",
+    "source_reference": "paragraph:96",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2229,7 +3004,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7ba91b9aa077eb7c8c84",
+    "id": "rk_ee96c6c5ee8378e56c02",
     "text": "\"Constantine created the Bible / Nicaea voted on Jesus's divinity.\" False. See §7. Traces to a ninth-century manuscript via Voltaire and Dan Brown.",
     "raw_text": "**\"Constantine created the Bible / Nicaea voted on Jesus's divinity.\"** False. See §7. Traces to a ninth-century manuscript via Voltaire and Dan Brown.",
     "provenance_type": "CLAUDE",
@@ -2246,7 +3021,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:72",
+    "source_reference": "paragraph:97",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2260,7 +3035,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_594b57009eaa7a75ecfc",
+    "id": "rk_e5d712db73e6621c7441",
     "text": "\"Jesus never existed.\" Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. The historically supported starting point is an apocalyptic Jewish preacher executed by Rome; the later development of claims about divinity is a separate question.",
     "raw_text": "**\"Jesus never existed.\"** Mythicism is a fringe position among historians, including atheist and agnostic ones — Bart Ehrman [CRITICAL, agnostic] and the late Maurice Casey [CRITICAL, secular] both wrote book-length refutations of it. Richard Carrier is its main credentialed defender and has not persuaded the field. The historically supported starting point is an apocalyptic Jewish preacher executed by Rome; the later development of claims about divinity is a separate question.",
     "provenance_type": "CLAUDE",
@@ -2277,7 +3052,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:73",
+    "source_reference": "paragraph:98",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2291,7 +3066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5b3d098f8506ab92c625",
+    "id": "rk_84249886d57717cacb32",
     "text": "\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\" Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and Zeitgeist (2007). Egyptologists reject it flatly.",
     "raw_text": "**\"Jesus is a copy of Horus / Mithras / Dionysus / Krishna.\"** Almost entirely fabricated. The specific parallels — Horus born of a virgin on December 25th with twelve disciples, crucified and resurrected — are not in any Egyptian source. This traces to Gerald Massey (19th c.) and *Zeitgeist* (2007). Egyptologists reject it flatly.",
     "provenance_type": "CLAUDE",
@@ -2308,7 +3083,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:74",
+    "source_reference": "paragraph:99",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2322,7 +3097,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0fff10631bd966bfa6aa",
+    "id": "rk_3b49a210d890a80d1280",
     "text": "\"The Church caused the Dark Ages and suppressed science.\" The conflict thesis, from Draper (1874) and White (1896), has been abandoned by historians of science. Medieval universities were church institutions; Copernicus was a canon; Aquinas built on Aristotle. Real critiques of religious interference exist and are specific — make those instead.",
     "raw_text": "**\"The Church caused the Dark Ages and suppressed science.\"** The conflict thesis, from Draper (1874) and White (1896), has been abandoned by historians of science. Medieval universities were church institutions; Copernicus was a canon; Aquinas built on Aristotle. Real critiques of religious interference exist and are specific — make those instead.",
     "provenance_type": "CLAUDE",
@@ -2339,7 +3114,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:75",
+    "source_reference": "paragraph:100",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2353,7 +3128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a2532d9ea8c534f6641c",
+    "id": "rk_1861adac79e47390c2c8",
     "text": "\"Christians burned the Library of Alexandria.\" It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.",
     "raw_text": "**\"Christians burned the Library of Alexandria.\"** It declined over centuries through multiple causes. The dramatic single-destruction story is not supported.",
     "provenance_type": "CLAUDE",
@@ -2370,7 +3145,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:76",
+    "source_reference": "paragraph:101",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2384,7 +3159,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_516101bac5a3bb9a369b",
+    "id": "rk_2fd2e8d99371b133c945",
     "text": "\"Hypatia was murdered for defending science.\" She was killed in 415 CE in a factional political and ecclesiastical conflict in Alexandria. Real, ugly, and not a martyrdom for science. The Agora version is fiction.",
     "raw_text": "**\"Hypatia was murdered for defending science.\"** She was killed in 415 CE in a factional political and ecclesiastical conflict in Alexandria. Real, ugly, and not a martyrdom for science. The *Agora* version is fiction.",
     "provenance_type": "CLAUDE",
@@ -2401,7 +3176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:77",
+    "source_reference": "paragraph:102",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2415,7 +3190,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_63bd5534ab2bb1eb6f99",
+    "id": "rk_98b2f98acbb9e6b95225",
     "text": "\"Christmas is just Saturnalia / Sol Invictus.\" Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be later than the Christian date, not earlier.",
     "raw_text": "**\"Christmas is just Saturnalia / Sol Invictus.\"** Contested and weaker than usually claimed. The Sol Invictus festival on December 25th may be *later* than the Christian date, not earlier.",
     "provenance_type": "CLAUDE",
@@ -2432,7 +3207,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:78",
+    "source_reference": "paragraph:103",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2446,7 +3221,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_283ce62e721ba5b899dd",
+    "id": "rk_cb0ba34be2b88f3ebab5",
     "text": "\"The Bible is like a game of telephone — copied so many times it's meaningless.\" Wrong model. Textual criticism works by comparing surviving copies, and errors in independent lines can be detected and corrected precisely because there are many manuscripts. Use the argument in §4 instead: the reconstruction is real but only reaches the second century.",
     "raw_text": "**\"The Bible is like a game of telephone — copied so many times it's meaningless.\"** Wrong model. Textual criticism works by comparing surviving copies, and errors in independent lines can be detected and corrected precisely because there are many manuscripts. Use the argument in §4 instead: the reconstruction is real but only reaches the second century.",
     "provenance_type": "CLAUDE",
@@ -2463,7 +3238,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:79",
+    "source_reference": "paragraph:104",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2477,7 +3252,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2b5a2e55be2b2c14f3f4",
+    "id": "rk_48b318354898b67f0a4c",
     "text": "\"Nicaea removed reincarnation from the Bible.\" No evidence. Origen's speculations on pre-existence were condemned at Constantinople in 553, not Nicaea, and never appeared in canonical texts.",
     "raw_text": "**\"Nicaea removed reincarnation from the Bible.\"** No evidence. Origen's speculations on pre-existence were condemned at Constantinople in 553, not Nicaea, and never appeared in canonical texts.",
     "provenance_type": "CLAUDE",
@@ -2494,7 +3269,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:80",
+    "source_reference": "paragraph:105",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2508,7 +3283,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_642910ad925b8a2b7578",
+    "id": "rk_048004bea38f2efa3ef7",
     "text": "The resource: Tim O'Neill's History for Atheists is an atheist site devoted to correcting bad atheist history. It is a useful place to check a historical claim before relying on it.",
     "raw_text": "**The resource:** Tim O'Neill's **History for Atheists** is an atheist site devoted to correcting bad atheist history. It is a useful place to check a historical claim before relying on it.",
     "provenance_type": "CLAUDE",
@@ -2525,7 +3300,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 9. ⚑ COMMON SKEPTICAL CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:81",
+    "source_reference": "paragraph:106",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2539,7 +3314,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5c6b49386c0e36037964",
+    "id": "rk_a18a378a0fb0cb673272",
     "text": "\"5,800 manuscripts.\" True. See §4. Accept the number while evaluating the inference separately.",
     "raw_text": "**\"5,800 manuscripts.\"** True. See §4. Accept the number while evaluating the inference separately.",
     "provenance_type": "CLAUDE",
@@ -2556,7 +3331,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:82",
+    "source_reference": "paragraph:107",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2570,7 +3345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_68d71162d041e992d7e8",
+    "id": "rk_7ed55e74635111bbbfd4",
     "text": "\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\" The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. Note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
     "raw_text": "**\"The 1 Corinthians 15:3–7 creed dates to within a few years of the crucifixion.\"** The early-creed identification is real and mainstream — the formulaic language and Paul's handing-on vocabulary mark it as pre-Pauline material, plausibly from the 30s. Note precisely what it establishes: that people believed in a resurrection appearance very early. Early belief is not evidence of the event believed in. Movements generate rapid conviction routinely; the question is what produced it.",
     "provenance_type": "CLAUDE",
@@ -2587,7 +3362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:83",
+    "source_reference": "paragraph:108",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2601,7 +3376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6c4b04dd25aea17b62c4",
+    "id": "rk_c520d5b7ddc0d8ef80ef",
     "text": "\"The apostles died for what they saw — nobody dies for a known lie.\" The martyrdom traditions are late, mostly from apocryphal Acts of the second century and later, and reliable evidence exists for almost none of the individual deaths. Even granting the premise: people die for sincerely held beliefs constantly, across every religion, which shows sincerity, not accuracy.",
     "raw_text": "**\"The apostles died for what they saw — nobody dies for a known lie.\"** The martyrdom traditions are late, mostly from apocryphal Acts of the second century and later, and reliable evidence exists for almost none of the individual deaths. Even granting the premise: people die for sincerely held beliefs constantly, across every religion, which shows sincerity, not accuracy.",
     "provenance_type": "CLAUDE",
@@ -2618,7 +3393,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:84",
+    "source_reference": "paragraph:109",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2632,7 +3407,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9d82cdbd3c4c5e9a457e",
+    "id": "rk_1591a45fb3f4f19f5fd4",
     "text": "\"Archaeology has confirmed the Bible.\" It has confirmed the setting repeatedly. See §1.3. Ask which specific event, then ask what the evidence would look like if it were only the setting that was accurate.",
     "raw_text": "**\"Archaeology has confirmed the Bible.\"** It has confirmed the setting repeatedly. See §1.3. Ask which specific event, then ask what the evidence would look like if it were only the setting that was accurate.",
     "provenance_type": "CLAUDE",
@@ -2649,7 +3424,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:85",
+    "source_reference": "paragraph:110",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2663,7 +3438,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0f7958b1718e17cdf5e7",
+    "id": "rk_93c7c21a77e0f822fb75",
     "text": "\"The Hittites were thought mythical until archaeology proved the Bible right.\" Overstated, and it is an argument from one past vindication to unlimited future credit. The same reasoning would have vindicated the conquest of Jericho, which the archaeology did not support.",
     "raw_text": "**\"The Hittites were thought mythical until archaeology proved the Bible right.\"** Overstated, and it is an argument from one past vindication to unlimited future credit. The same reasoning would have vindicated the conquest of Jericho, which the archaeology did not support.",
     "provenance_type": "CLAUDE",
@@ -2680,7 +3455,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:86",
+    "source_reference": "paragraph:111",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2694,7 +3469,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7f412088fb1b32a3a5cb",
+    "id": "rk_9fb9ec387f99fd539b95",
     "text": "\"Christianity ended slavery.\" Abolition was driven substantially by Christians — Wilberforce, the Quakers — and that is real. So was the biblical defense of slavery, using Colossians 3:22 and Ephesians 6:5, for eighteen centuries prior. The text supported both sides, which is the actual point. See Study Notes §6.5 for the disputed-letter dimension, which sharpens this considerably.",
     "raw_text": "**\"Christianity ended slavery.\"** Abolition was driven substantially by Christians — Wilberforce, the Quakers — and that is real. So was the biblical defense of slavery, using Colossians 3:22 and Ephesians 6:5, for eighteen centuries prior. The text supported both sides, which is the actual point. See Study Notes §6.5 for the disputed-letter dimension, which sharpens this considerably.",
     "provenance_type": "CLAUDE",
@@ -2711,7 +3486,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:87",
+    "source_reference": "paragraph:112",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2725,7 +3500,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e1779ae3dde7a004bee8",
+    "id": "rk_4c178704e47e790d9754",
     "text": "\"The Crusades were defensive.\" Partly defensible for the First Crusade in context of Seljuk expansion; not defensible for the Fourth, which sacked Christian Constantinople. Do not accept the framing wholesale and do not reject it wholesale.",
     "raw_text": "**\"The Crusades were defensive.\"** Partly defensible for the First Crusade in context of Seljuk expansion; not defensible for the Fourth, which sacked Christian Constantinople. Do not accept the framing wholesale and do not reject it wholesale.",
     "provenance_type": "CLAUDE",
@@ -2742,7 +3517,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 10. ⚑ COMMON APOLOGETIC CLAIMS — What the Evidence Supports",
-    "source_reference": "paragraph:88",
+    "source_reference": "paragraph:113",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2756,7 +3531,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_799cf2a9230c2fb6f675",
+    "id": "rk_ffa91f227f85f3889897",
     "text": "No reader knows every part of this history; the field is enormous.",
     "raw_text": "No reader knows every part of this history; the field is enormous.",
     "provenance_type": "CLAUDE",
@@ -2773,7 +3548,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
-    "source_reference": "paragraph:89",
+    "source_reference": "paragraph:114",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2787,7 +3562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ccbd3495b278c27b44f9",
+    "id": "rk_70376a1e6dc1ad45ab6e",
     "text": "A useful response: \"I don't know that one. Where can I read it?\"",
     "raw_text": "**A useful response:** *\"I don't know that one. Where can I read it?\"*",
     "provenance_type": "CLAUDE",
@@ -2804,7 +3579,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
-    "source_reference": "paragraph:90",
+    "source_reference": "paragraph:115",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2818,7 +3593,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_840cc52956e8280a59ae",
+    "id": "rk_774eb321bedacf04ab97",
     "text": "This is honest, opens a path to better sources, and prevents an uncertain claim from hardening into a mistaken conclusion.",
     "raw_text": "This is honest, opens a path to better sources, and prevents an uncertain claim from hardening into a mistaken conclusion.",
     "provenance_type": "CLAUDE",
@@ -2835,7 +3610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
-    "source_reference": "paragraph:91",
+    "source_reference": "paragraph:116",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2849,7 +3624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4ded8d83d7f10d16113c",
+    "id": "rk_348edb8ea8c5ba650de2",
     "text": "The principle underneath : one confidently stated wrong fact can distort an entire discussion. This is the same lesson as the audit log in the Study Notes, applied in real time.",
     "raw_text": "**The principle underneath** ⟨INFERENCE⟩**:** one confidently stated wrong fact can distort an entire discussion. This is the same lesson as the audit log in the Study Notes, applied in real time.",
     "provenance_type": "CLAUDE",
@@ -2866,7 +3641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
-    "source_reference": "paragraph:92",
+    "source_reference": "paragraph:117",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2880,7 +3655,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4bdacb8c1fdee2da0027",
+    "id": "rk_86d4f0761e8e488c7bb5",
     "text": "A textual question that requires no historical claim: Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every later scheme for sorting them comes from outside the text.",
     "raw_text": "**A textual question that requires no historical claim:** Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Nothing in the text marks the boundary. Every later scheme for sorting them comes from outside the text.",
     "provenance_type": "CLAUDE",
@@ -2897,7 +3672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 11. Handling Uncertainty in Reading and Conversation",
-    "source_reference": "paragraph:93",
+    "source_reference": "paragraph:118",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2911,7 +3686,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e90caa97d28158557fe5",
+    "id": "rk_3ea3c9c9eef68d0c9aec",
     "text": "Across the major early Christian writers — men and women, across the centuries this section covers — a real common core exists: Jesus central to salvation, his crucifixion and resurrection, the authority of Scripture, the importance of baptism, prayer/repentance/moral discipline, preserving apostolic teaching, martyrdom as a supreme act of faithfulness, ascetic and sexual discipline commonly (not universally) valued, the reality of resurrection and final judgment, and rejection of idolatry. Much of this crystallized in the Nicene Creed (325/381 CE — see §7). Everything below this line is where they didn't agree.",
     "raw_text": "Across the major early Christian writers — men and women, across the centuries this section covers — a real common core exists: Jesus central to salvation, his crucifixion and resurrection, the authority of Scripture, the importance of baptism, prayer/repentance/moral discipline, preserving apostolic teaching, martyrdom as a supreme act of faithfulness, ascetic and sexual discipline commonly (not universally) valued, the reality of resurrection and final judgment, and rejection of idolatry. Much of this crystallized in the Nicene Creed (325/381 CE — see §7). Everything below this line is where they didn't agree.",
     "provenance_type": "CLAUDE",
@@ -2929,7 +3704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.1 The shared core",
-    "source_reference": "paragraph:94",
+    "source_reference": "paragraph:119",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2943,7 +3718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e533988256d46eb6e7ab",
+    "id": "rk_7ce4a076467cefe46ba7",
     "text": "| Period | Historical context | Key figures | Main agreement | Main disagreement |\n|---|---|---|---|---|\n| 1st–2nd c. | Christianity separating from Judaism; local, sporadic persecution (see §8); no fixed NT canon yet | Clement of Rome, Ignatius of Antioch, Polycarp, Justin Martyr | Jesus, resurrection, baptism, church unity | Authority, relation to Judaism, martyrdom |\n| 3rd c. | Expansion under continued sporadic persecution, empire-wide under Decius (250); theological schools develop | Origen, Tertullian, Cyprian, Perpetua (martyred Carthage, 7 March 203) | Scripture, Christ, church, salvation | Allegory vs. literal reading, free will, rebaptism of heretics, restoration after apostasy |\n| 4th c. | Legalized (313), then state religion (380); emperors convene councils to settle doctrine | Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, Macrina the Younger, Syncletica | Christianity now needs formal, empire-wide doctrine | The Trinity, Jesus' full divinity (Arius vs. Athanasius — see §7), asceticism |\n| 5th c. | Institutionally dominant in the Roman world; Christological formula fought over and formalized | Augustine, Jerome, Cyril of Alexandria, Leo the Great, Melania the Elder, Paula | Nicene Christianity as baseline | Original sin, grace, predestination, Christ's two natures (Chalcedon, 451), authority (papal vs. conciliar) |\n| 6th–8th c. | East and West diverge institutionally; Byzantine Christianity consolidates, then fractures again over Christ's will | Gregory the Great, Maximus the Confessor, John of Damascus | Inherited Nicene/Chalcedonian Christianity | Monothelitism (one will vs. two in Christ — see below), papal authority, then icons |\n| 1054 | East–West Schism | — | Sacramental, apostolic Christianity | Papal authority, the Filioque, jurisdiction |\n| 1200s | Medieval Catholic scholasticism | Thomas Aquinas (medieval, not a Church Father — see §12.5) | Christianity systematized through philosophy | Faith/reason, sacramental theology, grace |\n| 1500s | Protestant Reformation | Luther, Calvin, Zwingli | Jesus, Scripture, salvation | Papal authority, justification, sacraments |\n| 1600s–1900s | Protestant denominations multiply | Baptists, Methodists, Pentecostals, and others | Basic Christian core (see §12.1) | Baptism, predestination, spiritual gifts, women's ordination, salvation |",
     "raw_text": "| Period | Historical context | Key figures | Main agreement | Main disagreement |\n|---|---|---|---|---|\n| 1st–2nd c. | Christianity separating from Judaism; local, sporadic persecution (see §8); no fixed NT canon yet | Clement of Rome, Ignatius of Antioch, Polycarp, Justin Martyr | Jesus, resurrection, baptism, church unity | Authority, relation to Judaism, martyrdom |\n| 3rd c. | Expansion under continued sporadic persecution, empire-wide under Decius (250); theological schools develop | Origen, Tertullian, Cyprian, Perpetua (martyred Carthage, 7 March 203) | Scripture, Christ, church, salvation | Allegory vs. literal reading, free will, rebaptism of heretics, restoration after apostasy |\n| 4th c. | Legalized (313), then state religion (380); emperors convene councils to settle doctrine | Athanasius, Basil the Great, Gregory of Nazianzus, Gregory of Nyssa, Macrina the Younger, Syncletica | Christianity now needs formal, empire-wide doctrine | The Trinity, Jesus' full divinity (Arius vs. Athanasius — see §7), asceticism |\n| 5th c. | Institutionally dominant in the Roman world; Christological formula fought over and formalized | Augustine, Jerome, Cyril of Alexandria, Leo the Great, Melania the Elder, Paula | Nicene Christianity as baseline | Original sin, grace, predestination, Christ's two natures (Chalcedon, 451), authority (papal vs. conciliar) |\n| 6th–8th c. | East and West diverge institutionally; Byzantine Christianity consolidates, then fractures again over Christ's will | Gregory the Great, Maximus the Confessor, John of Damascus | Inherited Nicene/Chalcedonian Christianity | Monothelitism (one will vs. two in Christ — see below), papal authority, then icons |\n| 1054 | East–West Schism | — | Sacramental, apostolic Christianity | Papal authority, the *Filioque*, jurisdiction |\n| 1200s | Medieval Catholic scholasticism | Thomas Aquinas *(medieval, not a Church Father — see §12.5)* | Christianity systematized through philosophy | Faith/reason, sacramental theology, grace |\n| 1500s | Protestant Reformation | Luther, Calvin, Zwingli | Jesus, Scripture, salvation | Papal authority, justification, sacraments |\n| 1600s–1900s | Protestant denominations multiply | Baptists, Methodists, Pentecostals, and others | Basic Christian core (see §12.1) | Baptism, predestination, spiritual gifts, women's ordination, salvation |",
     "provenance_type": "CLAUDE",
@@ -2961,7 +3736,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.2 Chronological table",
-    "source_reference": "paragraph:95",
+    "source_reference": "paragraph:120",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -2975,7 +3750,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_77a6cb3d9024683e1da2",
+    "id": "rk_39d1b642d2995ab33724",
     "text": "Maximus the Confessor's punishment is worth stating plainly, not softening. He opposed Monothelitism — the doctrine, briefly imperially favored, that Christ had only one will rather than two (divine and human) — and was tried, mutilated (tongue excised, right hand severed — most sources place this in 661), and exiled to Lazica in the Caucasus, where he died on 13 August 662. Monothelitism was itself condemned as heresy nineteen years later, at the Third Council of Constantinople (680–681). Sources: Pauline Allen and Bronwen Neil, Maximus the Confessor and His Companions: Documents from Exile (Oxford University Press, 2002) — a translation of the trial/exile documents themselves — and Andrew Louth, Maximus the Confessor (Routledge, 1996).",
     "raw_text": "**Maximus the Confessor's punishment is worth stating plainly, not softening.** He opposed Monothelitism — the doctrine, briefly imperially favored, that Christ had only one will rather than two (divine and human) — and was tried, mutilated (tongue excised, right hand severed — most sources place this in 661), and exiled to Lazica in the Caucasus, where he died on 13 August 662. Monothelitism was itself condemned as heresy nineteen years later, at the Third Council of Constantinople (680–681). Sources: Pauline Allen and Bronwen Neil, *Maximus the Confessor and His Companions: Documents from Exile* (Oxford University Press, 2002) — a translation of the trial/exile documents themselves — and Andrew Louth, *Maximus the Confessor* (Routledge, 1996).",
     "provenance_type": "CLAUDE",
@@ -2993,7 +3768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.2 Chronological table",
-    "source_reference": "paragraph:96",
+    "source_reference": "paragraph:121",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3007,7 +3782,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc328e216451c3d418cb",
+    "id": "rk_28b6257d147385900533",
     "text": "| Issue | One side | Other side |\n|---|---|---|\n| Jesus' divinity | Arius: the Son was created, subordinate to the Father | Athanasius: the Son is fully, eternally God — see §7 |\n| Free will and grace | Origen and most Eastern writers: substantial human freedom | Augustine: the will is damaged by sin; grace is decisive |\n| Original sin | Augustine: humanity inherits a profoundly fallen condition | Eastern writers: inherited mortality/corruption emphasized over inherited guilt |\n| Predestination | Augustine: strong doctrine of election | Most Eastern writers: markedly less deterministic |\n| Hell | Augustine: eternal conscious punishment | Origen: entertained eventual universal restoration; condemned at Constantinople II, 553 |\n| Scripture interpretation | Origen: allegorical/spiritual readings | Antiochene writers (Chrysostom, Theodore of Mopsuestia): historical/literal emphasis — see caveat below |\n| Marriage vs. celibacy | Jerome: celibacy clearly superior | Others defended marriage more strongly |\n| Rebaptizing converts from heretical groups | Cyprian of Carthage: rebaptize | Stephen of Rome: earlier baptism can remain valid |\n| Christ's one will or two | Monothelite position (imperially favored, mid-600s) | Maximus the Confessor: two wills — opposed Monothelitism, died for it, see §12.2 |\n| Church authority | Rome: increasing claim to universal jurisdiction | Eastern bishops: resisted universal papal control |\n| Canon | Some accepted Hebrews, Revelation, James, 2 Peter | Others doubted or rejected them — see §5 |",
     "raw_text": "| Issue | One side | Other side |\n|---|---|---|\n| Jesus' divinity | Arius: the Son was created, subordinate to the Father | Athanasius: the Son is fully, eternally God — see §7 |\n| Free will and grace | Origen and most Eastern writers: substantial human freedom | Augustine: the will is damaged by sin; grace is decisive |\n| Original sin | Augustine: humanity inherits a profoundly fallen condition | Eastern writers: inherited mortality/corruption emphasized over inherited guilt |\n| Predestination | Augustine: strong doctrine of election | Most Eastern writers: markedly less deterministic |\n| Hell | Augustine: eternal conscious punishment | Origen: entertained eventual universal restoration; condemned at Constantinople II, 553 |\n| Scripture interpretation | Origen: allegorical/spiritual readings | Antiochene writers (Chrysostom, Theodore of Mopsuestia): historical/literal emphasis — see caveat below |\n| Marriage vs. celibacy | Jerome: celibacy clearly superior | Others defended marriage more strongly |\n| Rebaptizing converts from heretical groups | Cyprian of Carthage: rebaptize | Stephen of Rome: earlier baptism can remain valid |\n| Christ's one will or two | Monothelite position (imperially favored, mid-600s) | Maximus the Confessor: two wills — opposed Monothelitism, died for it, see §12.2 |\n| Church authority | Rome: increasing claim to universal jurisdiction | Eastern bishops: resisted universal papal control |\n| Canon | Some accepted Hebrews, Revelation, James, 2 Peter | Others doubted or rejected them — see §5 |",
     "provenance_type": "CLAUDE",
@@ -3025,7 +3800,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.3 Where they actually disagreed",
-    "source_reference": "paragraph:97",
+    "source_reference": "paragraph:122",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3039,7 +3814,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8a6ae239c35ae643a47a",
+    "id": "rk_97a4c32db19ed40cee9c",
     "text": "The Alexandrian/Antiochene split needs a caveat. [CRITICAL] Frances Young, Biblical Exegesis and the Formation of Christian Culture (Cambridge University Press, 1997), argues the standard \"Alexandria = allegory, Antioch = literal history\" textbook binary is overdrawn — the real methodological difference concerned how to read Scripture as unified narrative, not a clean allegorical-vs-literal split, and both schools used both techniques to some degree. This reframing has gained ground in patristics scholarship since the 1990s. The table row above is standard shorthand — not wrong, but it compresses a more nuanced dispute.",
     "raw_text": "**The Alexandrian/Antiochene split needs a caveat.** [CRITICAL] Frances Young, *Biblical Exegesis and the Formation of Christian Culture* (Cambridge University Press, 1997), argues the standard \"Alexandria = allegory, Antioch = literal history\" textbook binary is overdrawn — the real methodological difference concerned how to read Scripture as unified narrative, not a clean allegorical-vs-literal split, and both schools used both techniques to some degree. This reframing has gained ground in patristics scholarship since the 1990s. The table row above is standard shorthand — not wrong, but it compresses a more nuanced dispute.",
     "provenance_type": "CLAUDE",
@@ -3057,7 +3832,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.3 Where they actually disagreed",
-    "source_reference": "paragraph:98",
+    "source_reference": "paragraph:123",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3071,7 +3846,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_363c003439fffe859282",
+    "id": "rk_e6a3532fcd8ecbec70c2",
     "text": "Marcion deserves more than \"rejected the Old Testament.\" He proposed, around the 140s CE, the first known fixed Christian scriptural canon: an edited Luke plus ten Pauline letters, no Old Testament. [CRITICAL, early 20th c.] Adolf von Harnack, Marcion: Das Evangelium vom fremden Gott (1921, expanded 1924), argued this forced the proto-orthodox church to define its own canon in direct response — a \"catalyst\" framing repeated in scholarship for decades. It is not settled. [CRITICAL, revisionist] John Barton directly disputes it, arguing (in The Cambridge History of Christianity) that \"Marcion was not responsible for the Christians adopting a New Testament; he was responsible for their retaining the Old Testament\" — that Marcion's canon provoked the church into keeping the Hebrew Bible more than it provoked the New Testament's formation. David Trobisch, On the Origin of Christian Scripture (2024), offers a third position: the canonical NT reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype. Treat Harnack's version as a real, historically influential thesis, not a settled fact .",
     "raw_text": "**Marcion deserves more than \"rejected the Old Testament.\"** He proposed, around the 140s CE, the first known fixed Christian scriptural canon: an edited Luke plus ten Pauline letters, no Old Testament. [CRITICAL, early 20th c.] Adolf von Harnack, *Marcion: Das Evangelium vom fremden Gott* (1921, expanded 1924), argued this forced the proto-orthodox church to define its own canon in direct response — a \"catalyst\" framing repeated in scholarship for decades. It is not settled. [CRITICAL, revisionist] John Barton directly disputes it, arguing (in *The Cambridge History of Christianity*) that \"Marcion was not responsible for the Christians adopting a New Testament; he was responsible for their retaining the Old Testament\" — that Marcion's canon provoked the church into keeping the Hebrew Bible more than it provoked the New Testament's formation. David Trobisch, *On the Origin of Christian Scripture* (2024), offers a third position: the canonical NT reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype. **Treat Harnack's version as a real, historically influential thesis, not a settled fact** ⟨INFERENCE — the three positions are documented; the \"not settled\" framing is Claude's synthesis of the disagreement between them⟩.",
     "provenance_type": "CLAUDE",
@@ -3089,7 +3864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.3 Where they actually disagreed",
-    "source_reference": "paragraph:99",
+    "source_reference": "paragraph:124",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3103,7 +3878,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2084a799c73c98eec8fa",
+    "id": "rk_e6c2a517833d91f46664",
     "text": "[CRITICAL, constructionist] Walter Bauer, Orthodoxy and Heresy in Earliest Christianity (German 1934; English translation, Fortress Press, 1971) argued the standard model — a stable original orthodoxy from which heresies later deviated — has the direction backwards in several regions. In Edessa, he held, the earliest Christianity present was Marcionite, with a recognizably \"orthodox\" form not arriving until roughly 300 CE; in Egypt, he argued a Gnostic form of Christianity was dominant before 200 CE. On this reading, Rome's version of Christianity won institutionally and later cast the alternatives as deviations from an orthodoxy that hadn't actually existed yet in those places. Bart Ehrman, Lost Christianities: The Battle for Scripture and the Faiths We Never Knew (2003), calls Bauer's book \"the most important book on the history of early Christianity written in the twentieth century\" and extends the same framework — competing early Christianities, with the winning \"proto-orthodox\" faction eventually suppressing and rewriting the others' texts and history.",
     "raw_text": "[CRITICAL, constructionist] Walter Bauer, *Orthodoxy and Heresy in Earliest Christianity* (German 1934; English translation, Fortress Press, 1971) argued the standard model — a stable original orthodoxy from which heresies later deviated — has the direction backwards in several regions. In Edessa, he held, the earliest Christianity present was Marcionite, with a recognizably \"orthodox\" form not arriving until roughly 300 CE; in Egypt, he argued a Gnostic form of Christianity was dominant before 200 CE. On this reading, Rome's version of Christianity won institutionally and later cast the alternatives as deviations from an orthodoxy that hadn't actually existed yet in those places. Bart Ehrman, *Lost Christianities: The Battle for Scripture and the Faiths We Never Knew* (2003), calls Bauer's book \"the most important book on the history of early Christianity written in the twentieth century\" and extends the same framework — competing early Christianities, with the winning \"proto-orthodox\" faction eventually suppressing and rewriting the others' texts and history.",
     "provenance_type": "CLAUDE",
@@ -3121,7 +3896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.4 Why \"Church Father\" is itself a retrospective label",
-    "source_reference": "paragraph:100",
+    "source_reference": "paragraph:125",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3135,7 +3910,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4d716505ee5f2e9d821b",
+    "id": "rk_f1f271b4e2f03595694e",
     "text": "[CRITICAL, revisionist] This is contested, not settled. H.E.W. Turner, The Pattern of Christian Truth (Bampton Lectures, 1954), argued for substantially more doctrinal continuity than Bauer credited, pointing to the Rule of Faith rooted in early baptismal formulae as a stabilizing structure that predates the heresiological boundary-drawing Bauer emphasized. Thomas A. Robinson, The Bauer Thesis Examined: The Geography of Heresy in the Early Christian Church (1988), re-examined Bauer's regional evidence directly and concluded the surviving sub-apostolic sources are too thin to support the claim that heresy was chronologically and numerically prior in Edessa or Egypt; Colin H. Roberts separately showed the bulk of surviving early Egyptian Christian manuscripts are not heterodox, cutting against Bauer's Egypt claim specifically.",
     "raw_text": "[CRITICAL, revisionist] This is contested, not settled. H.E.W. Turner, *The Pattern of Christian Truth* (Bampton Lectures, 1954), argued for substantially more doctrinal continuity than Bauer credited, pointing to the Rule of Faith rooted in early baptismal formulae as a stabilizing structure that predates the heresiological boundary-drawing Bauer emphasized. Thomas A. Robinson, *The Bauer Thesis Examined: The Geography of Heresy in the Early Christian Church* (1988), re-examined Bauer's regional evidence directly and concluded the surviving sub-apostolic sources are too thin to support the claim that heresy was chronologically and numerically prior in Edessa or Egypt; Colin H. Roberts separately showed the bulk of surviving early Egyptian Christian manuscripts are not heterodox, cutting against Bauer's Egypt claim specifically.",
     "provenance_type": "CLAUDE",
@@ -3153,7 +3928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.4 Why \"Church Father\" is itself a retrospective label",
-    "source_reference": "paragraph:101",
+    "source_reference": "paragraph:126",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3167,7 +3942,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9651cdce1684111e8f32",
+    "id": "rk_d4258dae1c0d584c5754",
     "text": "Why this matters for the roster below : \"Church Father\" is a label Christianity applied after the fact to the winning side of disputes it was still having while these people were alive — not a neutral description of who taught first or best. That doesn't make the label meaningless — the people below really did shape what became mainstream Christianity — but the category itself already encodes who won, worth remembering whenever a claim is framed as \"the Fathers taught X.\"",
     "raw_text": "**Why this matters for the roster below** ⟨INFERENCE⟩**:** \"Church Father\" is a label Christianity applied after the fact to the winning side of disputes it was still having while these people were alive — not a neutral description of who taught first or best. That doesn't make the label meaningless — the people below really did shape what became mainstream Christianity — but the category itself already encodes who won, worth remembering whenever a claim is framed as \"the Fathers taught X.\"",
     "provenance_type": "CLAUDE",
@@ -3185,7 +3960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.4 Why \"Church Father\" is itself a retrospective label",
-    "source_reference": "paragraph:102",
+    "source_reference": "paragraph:127",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3199,7 +3974,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4e54deadac9f283946e5",
+    "id": "rk_2fe8b5fe531611e0d7cc",
     "text": "Church Fathers (dates, one-line association):",
     "raw_text": "**Church Fathers** (dates, one-line association):",
     "provenance_type": "CLAUDE",
@@ -3217,7 +3992,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:103",
+    "source_reference": "paragraph:128",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3231,7 +4006,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_78854cf8e982028d5664",
+    "id": "rk_27748a3b7984bd03fd7a",
     "text": "Clement of Rome — late 1st c. — church order, authority, unity\nIgnatius of Antioch — early 2nd c. — bishops, Eucharist, martyrdom\nPolycarp of Smyrna — 2nd c. (martyred c. 155) — apostolic tradition, martyrdom\nJustin Martyr — 2nd c. (c. 100–165) — philosophical defense of Christianity\nIrenaeus of Lyons — 2nd c. (c. 130–202) — anti-Gnostic, apostolic tradition\nTertullian — late 2nd/early 3rd c. (c. 155–220) — major Latin theologian; later Montanist\nOrigen — 3rd c. (c. 185–253) — allegory, free will, speculative theology; condemned posthumously, Constantinople II, 553\nCyprian of Carthage — 3rd c. (c. 200–258) — church authority, baptism, the lapsi controversy\nAthanasius of Alexandria — 4th c. (c. 296–373) — defended Jesus' full divinity against Arius\nBasil the Great — 4th c. (c. 330–379) — Trinity, monasticism\nGregory of Nazianzus — 4th c. (c. 329–390) — Trinity, Christology\nGregory of Nyssa — 4th c. (c. 335–395) — Trinity, spiritual development, resurrection\nAmbrose of Milan — 4th c. (c. 340–397) — bishop; major influence on Augustine\nJerome — 4th/5th c. (c. 347–420) — Latin Vulgate; strong ascetic advocate\nJohn Chrysostom — 4th/5th c. (c. 349–407) — preaching, historical/literal exegesis\nAugustine of Hippo — 4th/5th c. (354–430) — original sin, grace, free will, predestination\nCyril of Alexandria — 5th c. (c. 376–444) — Christological disputes (opposed Nestorius)\nLeo the Great — 5th c. (c. 400–461) — papal authority; Christology at Chalcedon\nGregory the Great — pope 590–604 — major Western pope-theologian, spans 6th/7th c.\nMaximus the Confessor — c. 580–662 — opposed Monothelitism; mutilated and exiled for it — see §12.2\nJohn of Damascus — c. 675–749 — defended icons against Byzantine Iconoclasm",
     "raw_text": "- Clement of Rome — late 1st c. — church order, authority, unity\n- Ignatius of Antioch — early 2nd c. — bishops, Eucharist, martyrdom\n- Polycarp of Smyrna — 2nd c. (martyred c. 155) — apostolic tradition, martyrdom\n- Justin Martyr — 2nd c. (c. 100–165) — philosophical defense of Christianity\n- Irenaeus of Lyons — 2nd c. (c. 130–202) — anti-Gnostic, apostolic tradition\n- Tertullian — late 2nd/early 3rd c. (c. 155–220) — major Latin theologian; later Montanist\n- Origen — 3rd c. (c. 185–253) — allegory, free will, speculative theology; condemned posthumously, Constantinople II, 553\n- Cyprian of Carthage — 3rd c. (c. 200–258) — church authority, baptism, the *lapsi* controversy\n- Athanasius of Alexandria — 4th c. (c. 296–373) — defended Jesus' full divinity against Arius\n- Basil the Great — 4th c. (c. 330–379) — Trinity, monasticism\n- Gregory of Nazianzus — 4th c. (c. 329–390) — Trinity, Christology\n- Gregory of Nyssa — 4th c. (c. 335–395) — Trinity, spiritual development, resurrection\n- Ambrose of Milan — 4th c. (c. 340–397) — bishop; major influence on Augustine\n- Jerome — 4th/5th c. (c. 347–420) — Latin Vulgate; strong ascetic advocate\n- John Chrysostom — 4th/5th c. (c. 349–407) — preaching, historical/literal exegesis\n- Augustine of Hippo — 4th/5th c. (354–430) — original sin, grace, free will, predestination\n- Cyril of Alexandria — 5th c. (c. 376–444) — Christological disputes (opposed Nestorius)\n- Leo the Great — 5th c. (c. 400–461) — papal authority; Christology at Chalcedon\n- Gregory the Great — pope 590–604 — major Western pope-theologian, spans 6th/7th c.\n- Maximus the Confessor — c. 580–662 — opposed Monothelitism; mutilated and exiled for it — see §12.2\n- John of Damascus — c. 675–749 — defended icons against Byzantine Iconoclasm",
     "provenance_type": "CLAUDE",
@@ -3249,7 +4024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:104",
+    "source_reference": "paragraph:129",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3263,7 +4038,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5cdca283b1d9dd5e6eca",
+    "id": "rk_18511294de1ae7dd0c51",
     "text": "Disputed or \"losing-side\" figures (the label \"heretic\" is retrospective — see §12.4):",
     "raw_text": "**Disputed or \"losing-side\" figures** (the label \"heretic\" is retrospective — see §12.4):",
     "provenance_type": "CLAUDE",
@@ -3281,7 +4056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:105",
+    "source_reference": "paragraph:130",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3295,7 +4070,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_064b3bd7b81a8d151362",
+    "id": "rk_8cd9f830f8d1dac21b30",
     "text": "Arius — the Son not eternal in the same sense as the Father\nPelagius — emphasized human moral capacity and free will; opposed by Augustine\nNestorius — condemned at Ephesus (431) for allegedly dividing Christ into two persons; his own objection was specifically to calling Mary Theotokos. The label attached to his name likely misrepresents both him and the tradition named after him: [CRITICAL] Sebastian Brock, \"The 'Nestorian' Church: A Lamentable Misnomer,\" Bulletin of the John Rylands Library 78.3 (1996), 23–35, argues the Church of the East's connection to Nestorius is \"of a very tenuous nature\" — across its eight synods (486–612) Nestorius's name never once appears, while Theodore of Mopsuestia is repeatedly affirmed as its actual theological touchstone. This is the standard reference on the mislabeling, not a fringe position.\nMarcion — proposed the first fixed Christian canon (edited Luke + ten Pauline letters, no OT); excommunicated c. 144 — see §12.3 for his disputed role in provoking the mainstream canon\nMontanus — continuing prophecy, ecstatic spiritual gifts (\"New Prophecy\"); later joined by Tertullian",
     "raw_text": "- Arius — the Son not eternal in the same sense as the Father\n- Pelagius — emphasized human moral capacity and free will; opposed by Augustine\n- Nestorius — condemned at Ephesus (431) for allegedly dividing Christ into two persons; his own objection was specifically to calling Mary *Theotokos*. **The label attached to his name likely misrepresents both him and the tradition named after him:** [CRITICAL] Sebastian Brock, \"The 'Nestorian' Church: A Lamentable Misnomer,\" *Bulletin of the John Rylands Library* 78.3 (1996), 23–35, argues the Church of the East's connection to Nestorius is \"of a very tenuous nature\" — across its eight synods (486–612) Nestorius's name never once appears, while Theodore of Mopsuestia is repeatedly affirmed as its actual theological touchstone. This is the standard reference on the mislabeling, not a fringe position.\n- Marcion — proposed the first fixed Christian canon (edited Luke + ten Pauline letters, no OT); excommunicated c. 144 — see §12.3 for his disputed role in provoking the mainstream canon\n- Montanus — continuing prophecy, ecstatic spiritual gifts (\"New Prophecy\"); later joined by Tertullian",
     "provenance_type": "CLAUDE",
@@ -3313,7 +4088,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:106",
+    "source_reference": "paragraph:131",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3327,7 +4102,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8f6ea760053b5b812d21",
+    "id": "rk_a9b8e99c3a9590cf7a1c",
     "text": "Church Mothers (the category is far less standardized, and the surviving evidence is much thinner — see the note below):",
     "raw_text": "**Church Mothers** (the category is far less standardized, and the surviving evidence is much thinner — see the note below):",
     "provenance_type": "CLAUDE",
@@ -3345,7 +4120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:107",
+    "source_reference": "paragraph:132",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3359,7 +4134,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_74825c81dfefb3b300fe",
+    "id": "rk_cbb5863ed41d1c3df174",
     "text": "Thecla — associated with Paul in the apocryphal Acts of Paul and Thecla (2nd c.). This one needs a flag the others below don't: Tertullian, De Baptismo 17, states the text was written by an Asian presbyter who was removed from office after confessing he fabricated it \"out of love of Paul.\" Thecla is a literary figure whose later cult became historically real, not a woman with the kind of contemporary attestation Perpetua or Egeria have.\nPerpetua — martyred at Carthage, 7 March 203 (occasionally given as 202) — her passion narrative is treated as containing an actual first-person female voice, unusually early\nFelicity — martyred alongside Perpetua\nMacrina the Younger — c. 327–379 — theological influence on her brothers Basil the Great and Gregory of Nyssa; closer to Eastern theology than to later Augustinian Western Christianity\nMonica — Augustine's mother; known through his account of her in the Confessions, not through her own surviving writing\nSyncletica of Alexandria — Desert Mother; teachings on temptation, discipline, prayer\nSarah of the Desert (Amma Sarah) — Desert Mother, one of three named women in the Apophthegmata Patrum\nTheodora (Amma Theodora) — Desert Mother, also named in the Apophthegmata Patrum\nMelania the Elder — associated with Origenist circles; asceticism, monastic patronage\nMelania the Younger — granddaughter of Melania the Elder; wealthy ascetic, monastic founder\nPaula of Rome — worked closely with Jerome; funded and collaborated on his biblical scholarship\nMarcella of Rome — biblical scholar and ascetic, part of the same Aventine circle as Paula and Jerome\nOlympias the Deaconess — close associate of John Chrysostom; his surviving letters to her are a major source\nEgeria — 4th c. pilgrim; her travel account (Itinerarium Egeriae) is a major primary source for early Christian liturgy in Jerusalem\nProba — 4th c. Christian poet; retold biblical themes using recombined lines of Virgil (a cento)",
     "raw_text": "- Thecla — associated with Paul in the apocryphal *Acts of Paul and Thecla* (2nd c.). **This one needs a flag the others below don't:** Tertullian, *De Baptismo* 17, states the text was written by an Asian presbyter who was removed from office after confessing he fabricated it \"out of love of Paul.\" Thecla is a literary figure whose later cult became historically real, not a woman with the kind of contemporary attestation Perpetua or Egeria have.\n- Perpetua — martyred at Carthage, 7 March 203 (occasionally given as 202) — her passion narrative is treated as containing an actual first-person female voice, unusually early\n- Felicity — martyred alongside Perpetua\n- Macrina the Younger — c. 327–379 — theological influence on her brothers Basil the Great and Gregory of Nyssa; closer to Eastern theology than to later Augustinian Western Christianity\n- Monica — Augustine's mother; known through his account of her in the *Confessions*, not through her own surviving writing\n- Syncletica of Alexandria — Desert Mother; teachings on temptation, discipline, prayer\n- Sarah of the Desert (Amma Sarah) — Desert Mother, one of three named women in the *Apophthegmata Patrum*\n- Theodora (Amma Theodora) — Desert Mother, also named in the *Apophthegmata Patrum*\n- Melania the Elder — associated with Origenist circles; asceticism, monastic patronage\n- Melania the Younger — granddaughter of Melania the Elder; wealthy ascetic, monastic founder\n- Paula of Rome — worked closely with Jerome; funded and collaborated on his biblical scholarship\n- Marcella of Rome — biblical scholar and ascetic, part of the same Aventine circle as Paula and Jerome\n- Olympias the Deaconess — close associate of John Chrysostom; his surviving letters to her are a major source\n- Egeria — 4th c. pilgrim; her travel account (*Itinerarium Egeriae*) is a major primary source for early Christian liturgy in Jerusalem\n- Proba — 4th c. Christian poet; retold biblical themes using recombined lines of Virgil (a *cento*)",
     "provenance_type": "CLAUDE",
@@ -3377,7 +4152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:108",
+    "source_reference": "paragraph:133",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3391,7 +4166,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_881f2fcb688cf4cb4f56",
+    "id": "rk_3c07fed75e9f280fb7b1",
     "text": "Did the Mothers and Fathers disagree along sex lines? No — and this is the actual finding, not a caveat to it . The visible pattern is theological network, not gender: Macrina and Gregory of Nyssa share an Eastern, more hopeful theology; Melania the Elder sits in Origenist circles; Jerome and Paula share an intensely ascetic emphasis. The honest limitation is evidentiary, not conceptual: far less writing by women survives, because women were excluded from the episcopal hierarchy that controlled councils and textual preservation, not because they weren't participating in the same disputes. The surviving record tells you what male institutions preserved about women's theology at least as much as it tells you what women actually believed.",
     "raw_text": "**Did the Mothers and Fathers disagree along sex lines?** No — and this is the actual finding, not a caveat to it ⟨INFERENCE⟩. The visible pattern is theological network, not gender: Macrina and Gregory of Nyssa share an Eastern, more hopeful theology; Melania the Elder sits in Origenist circles; Jerome and Paula share an intensely ascetic emphasis. The honest limitation is evidentiary, not conceptual: far less writing by women survives, because women were excluded from the episcopal hierarchy that controlled councils and textual preservation, not because they weren't participating in the same disputes. The surviving record tells you what male institutions preserved about women's theology at least as much as it tells you what women actually believed.",
     "provenance_type": "CLAUDE",
@@ -3409,7 +4184,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:109",
+    "source_reference": "paragraph:134",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -3423,7 +4198,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a54075a380a35d721b2c",
+    "id": "rk_21eedda7c74dc42bdf6b",
     "text": "Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.",
     "raw_text": "*Living document — verify before relying on a claim. Entries are checked as of August 2026, but this is a summary, not a source.*",
     "provenance_type": "CLAUDE",
@@ -3441,7 +4216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Historical_Framework.md",
     "source_section": "Historical Framework > 12. The Patristic Era — Church Fathers, Church Mothers, and the Councils > 12.5 Reference roster",
-    "source_reference": "paragraph:110",
+    "source_reference": "paragraph:135",
     "parent_id": null,
     "related_ids": [],
     "tags": [],

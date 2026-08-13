@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Search — Bible Deep Dive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
+  --f-display:"Newsreader",Georgia,serif;
+  --f-body:"IBM Plex Sans",system-ui,sans-serif;
+  --f-mono:"IBM Plex Mono",ui-monospace,monospace;
+}
+*{box-sizing:border-box}
+html,body{overflow-x:hidden}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
+  font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+
+/* ---------- top bar ---------- */
+#topbar{background:var(--ink);color:#C9D2CE;padding:.75rem 1.5rem;
+  display:flex;align-items:center;gap:1rem;flex-wrap:wrap}
+#topbar .brand{font-family:var(--f-display);font-size:1rem;font-weight:500;
+  color:#F2F5F3;text-decoration:none;white-space:nowrap}
+#doclinks{display:flex;flex-wrap:wrap;gap:.3rem;margin-left:auto}
+#doclinks a{font-family:var(--f-mono);font-size:.62rem;letter-spacing:.07em;
+  text-transform:uppercase;padding:.35rem .55rem;border-radius:3px;
+  text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s;white-space:nowrap}
+#doclinks a:hover{color:#E6EDEA;border-color:#3E4C46}
+#doclinks a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* ---------- search band (sticky) ---------- */
+#searchband{position:sticky;top:0;z-index:20;background:rgba(237,239,236,.97);
+  backdrop-filter:blur(8px);border-bottom:1px solid var(--rule);padding:1rem 1.5rem .7rem}
+#qwrap{position:relative;max-width:660px}
+#qwrap svg{position:absolute;left:.85rem;top:50%;transform:translateY(-50%);
+  width:1.1rem;height:1.1rem;opacity:.4;pointer-events:none}
+#q{width:100%;padding:.75rem 1rem .75rem 2.6rem;font-family:var(--f-body);font-size:1.05rem;
+  border:1px solid var(--rule);border-radius:6px;background:var(--paper);color:var(--ink);
+  outline:none;transition:.15s}
+#q:focus{border-color:var(--accent);box-shadow:0 0 0 3px rgba(31,94,91,.12)}
+#q::placeholder{color:var(--ink3)}
+#filters{display:flex;gap:.4rem;flex-wrap:nowrap;overflow-x:auto;padding-top:.65rem;
+  scrollbar-width:none}
+#filters::-webkit-scrollbar{display:none}
+.fchip{font-family:var(--f-mono);font-size:.64rem;letter-spacing:.07em;text-transform:uppercase;
+  padding:.38rem .7rem;border-radius:99px;border:1px solid var(--rule);background:transparent;
+  color:var(--ink3);cursor:pointer;transition:.15s;white-space:nowrap;flex-shrink:0}
+.fchip:hover{border-color:var(--accent);color:var(--accent)}
+.fchip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* ---------- main ---------- */
+main{max-width:760px;margin:0 auto;padding:2rem 1.5rem 6rem}
+
+#status{font-family:var(--f-mono);font-size:.72rem;letter-spacing:.06em;color:var(--ink3);
+  margin-bottom:1.5rem;min-height:1.2em}
+
+/* ---------- results ---------- */
+#results{list-style:none;margin:0;padding:0}
+.rcard{display:block;padding:1rem 0;border-bottom:1px solid var(--rule);
+  text-decoration:none;color:inherit;transition:background .1s}
+.rcard:hover .rtitle{color:var(--accent)}
+.rcard:last-child{border-bottom:none}
+.rdoc{font-family:var(--f-mono);font-size:.63rem;letter-spacing:.1em;text-transform:uppercase;
+  color:var(--ink3);margin-bottom:.3rem}
+.rtitle{font-family:var(--f-display);font-size:1.1rem;font-weight:500;color:var(--ink);
+  margin-bottom:.35rem;line-height:1.3}
+.rsnip{font-size:.875rem;color:var(--ink2);line-height:1.55;max-width:65ch}
+mark{background:#FEF9C3;color:var(--ink);border-radius:2px;padding:0 1px}
+.flag-chip{display:inline-block;font-family:var(--f-mono);font-size:.6rem;letter-spacing:.06em;
+  text-transform:uppercase;padding:.1rem .45rem;border-radius:3px;background:#FDF4E7;
+  border:1px solid #E4CFA6;color:#7A5510;margin-left:.5rem;vertical-align:middle}
+
+/* ---------- empty + loading ---------- */
+#empty{display:none;padding:3rem 0;color:var(--ink3);font-size:.95rem}
+#loading{display:none;padding:3rem 0;color:var(--ink3);font-size:.95rem}
+
+/* ---------- keyboard hint ---------- */
+.kbhint{display:flex;gap:1rem;flex-wrap:wrap;margin-top:3rem;padding-top:1rem;
+  border-top:1px solid var(--rule)}
+.kbhint span{font-family:var(--f-mono);font-size:.68rem;color:var(--ink3)}
+.kbhint kbd{display:inline-block;background:var(--paper);border:1px solid var(--rule);
+  border-radius:3px;padding:.1rem .35rem;font-family:var(--f-mono);font-size:.65rem;color:var(--ink2)}
+</style></head><body>
+
+<div id="topbar">
+  <a class="brand" href="index.html">Bible Deep Dive</a>
+  <nav id="doclinks">
+    <a href="app/" title="Open the app">App</a>
+    <a href="master-notes.html">Study Notes</a>
+    <a href="field-guide.html">Observations</a>
+    <a href="history.html">History</a>
+    <a href="sources.html">Sources</a>
+    <a href="other-side.html">The Strongest Case</a>
+    <a href="translations.html">Translations</a>
+    <a href="method-reference.html">Method &amp; Reference</a>
+    <a href="glossary.html">Glossary</a>
+    <a href="cited-persons.html">Cited Persons</a>
+    <a class="on" href="#">Search</a>
+  </nav>
+</div>
+
+<div id="searchband">
+  <div id="qwrap">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+    </svg>
+    <input id="q" type="search" placeholder="Search all documents and cited persons&#8230;" autocomplete="off" spellcheck="false" autofocus>
+  </div>
+  <div id="filters"></div>
+</div>
+
+<main>
+  <div id="loading">Loading search index&#8230;</div>
+  <div id="status"></div>
+  <ul id="results"></ul>
+  <div id="empty">No results. Try a broader term or check the spelling.</div>
+  <div class="kbhint" id="kbhint">
+    <span><kbd>/</kbd> focus search</span>
+    <span><kbd>↑</kbd><kbd>↓</kbd> navigate results</span>
+    <span><kbd>Enter</kbd> open</span>
+    <span><kbd>Esc</kbd> clear</span>
+  </div>
+</main>
+
+<script>
+const DOC_ORDER = [
+  'Study Notes','Observations','History','Sources',
+  'The Strongest Case','Translations','Method & Reference',
+  'Glossary','Cited Persons'
+];
+
+let INDEX = [];
+let activeDoc = null;
+let debounce = null;
+
+/* ---- load index ---- */
+document.getElementById('loading').style.display = 'block';
+fetch('./search-index.json')
+  .then(r => r.json())
+  .then(data => {
+    INDEX = data;
+    document.getElementById('loading').style.display = 'none';
+    buildFilters();
+    const params = new URLSearchParams(location.search);
+    const qp = params.get('q');
+    const dp = params.get('doc');
+    if (dp && DOC_ORDER.includes(dp)) { activeDoc = dp; }
+    if (qp) {
+      document.getElementById('q').value = qp;
+      runSearch(qp);
+    } else {
+      setStatus(`${INDEX.length} entries across ${DOC_ORDER.length} documents — type to search`);
+    }
+    syncFilterUI();
+  })
+  .catch(() => {
+    document.getElementById('loading').textContent = 'Could not load search index. Try opening the deployed site.';
+  });
+
+/* ---- filter chips ---- */
+function buildFilters() {
+  const wrap = document.getElementById('filters');
+  const all = document.createElement('button');
+  all.className = 'fchip on';
+  all.textContent = 'All';
+  all.dataset.doc = '';
+  all.addEventListener('click', () => { activeDoc = null; syncFilterUI(); runSearch(document.getElementById('q').value.trim()); });
+  wrap.appendChild(all);
+  for (const doc of DOC_ORDER) {
+    const btn = document.createElement('button');
+    btn.className = 'fchip';
+    btn.textContent = doc;
+    btn.dataset.doc = doc;
+    btn.addEventListener('click', () => {
+      activeDoc = (activeDoc === doc ? null : doc);
+      syncFilterUI();
+      runSearch(document.getElementById('q').value.trim());
+    });
+    wrap.appendChild(btn);
+  }
+}
+
+function syncFilterUI() {
+  document.querySelectorAll('.fchip').forEach(btn => {
+    btn.classList.toggle('on',
+      btn.dataset.doc === '' ? activeDoc === null : btn.dataset.doc === activeDoc);
+  });
+}
+
+/* ---- search ---- */
+function tokenize(q) {
+  return q.toLowerCase().trim().split(/\s+/).filter(Boolean);
+}
+
+function scoreRecord(rec, terms) {
+  if (!terms.length) return 1;
+  const tl = rec.title.toLowerCase();
+  const tx = rec.text.toLowerCase();
+  let s = 0;
+  let titleHits = 0, textHits = 0;
+  for (const t of terms) {
+    if (tl.includes(t)) { s += 80; titleHits++; }
+    if (tx.includes(t)) { s += 12; textHits++; }
+  }
+  if (titleHits === terms.length) s += 150;
+  if (textHits === terms.length) s += 30;
+  /* bonus for title starting with first term */
+  if (tl.startsWith(terms[0])) s += 40;
+  return s;
+}
+
+function getSnippet(text, terms, window = 200) {
+  if (!terms.length) return text.slice(0, window) + (text.length > window ? '…' : '');
+  const tl = text.toLowerCase();
+  let pos = -1;
+  for (const t of terms) {
+    const i = tl.indexOf(t);
+    if (i >= 0) { pos = i; break; }
+  }
+  if (pos < 0) return text.slice(0, window) + (text.length > window ? '…' : '');
+  const start = Math.max(0, pos - 60);
+  const end = Math.min(text.length, start + window);
+  return (start > 0 ? '…' : '') + text.slice(start, end) + (end < text.length ? '…' : '');
+}
+
+function escapeHtml(s) {
+  return s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
+}
+
+function highlightText(text, terms) {
+  if (!terms.length) return escapeHtml(text);
+  const safe = escapeHtml(text);
+  if (!terms.length) return safe;
+  const pattern = terms.map(t => t.replace(/[.*+?^${}()|[\]\\]/g,'\\$&')).join('|');
+  return safe.replace(new RegExp('(' + pattern + ')', 'gi'), '<mark>$1</mark>');
+}
+
+function setStatus(msg) {
+  document.getElementById('status').textContent = msg;
+}
+
+function updateUrl(q) {
+  const params = new URLSearchParams();
+  if (q) params.set('q', q);
+  if (activeDoc) params.set('doc', activeDoc);
+  const qs = params.toString();
+  history.replaceState(null, '', qs ? '?' + qs : location.pathname);
+}
+
+function runSearch(raw) {
+  const terms = tokenize(raw);
+  updateUrl(raw);
+
+  const pool = activeDoc ? INDEX.filter(r => r.doc === activeDoc) : INDEX;
+
+  let results;
+  if (!terms.length) {
+    results = [];
+    setStatus(pool.length + ' entries' + (activeDoc ? ' in ' + activeDoc : ' across ' + DOC_ORDER.length + ' documents') + ' — type to search');
+  } else {
+    const scored = pool
+      .map(r => ({ r, s: scoreRecord(r, terms) }))
+      .filter(x => x.s > 0)
+      .sort((a, b) => b.s - a.s);
+    results = scored.map(x => x.r);
+    const count = results.length;
+    setStatus(count === 0 ? '' :
+      count + ' result' + (count === 1 ? '' : 's') +
+      ' for “' + raw.trim() + '”' +
+      (activeDoc ? ' in ' + activeDoc : ''));
+  }
+
+  const list = document.getElementById('results');
+  const empty = document.getElementById('empty');
+  const hint = document.getElementById('kbhint');
+
+  empty.style.display = (!terms.length || results.length > 0) ? 'none' : 'block';
+  hint.style.display = terms.length ? 'none' : 'flex';
+
+  list.innerHTML = '';
+  const cap = 80;
+  const hlParam = (raw && raw.trim()) ? '?hl=' + encodeURIComponent(raw.trim()) : '';
+  results.slice(0, cap).forEach((rec, idx) => {
+    const snip = getSnippet(rec.text, terms);
+    /* Put ?hl= before the # so the target page can highlight matches */
+    const hashIdx = rec.url.indexOf('#');
+    const destUrl = hlParam
+      ? (hashIdx >= 0
+          ? rec.url.slice(0, hashIdx) + hlParam + rec.url.slice(hashIdx)
+          : rec.url + hlParam)
+      : rec.url;
+    const li = document.createElement('li');
+    li.innerHTML = `<a class="rcard" href="${escapeHtml(destUrl)}" data-idx="${idx}">
+      <div class="rdoc">${escapeHtml(rec.doc)}${rec.flag ? '<span class="flag-chip">&#9873; flagged</span>' : ''}</div>
+      <div class="rtitle">${highlightText(rec.title, terms)}</div>
+      <div class="rsnip">${highlightText(snip, terms)}</div>
+    </a>`;
+    list.appendChild(li);
+  });
+  if (results.length > cap) {
+    const note = document.createElement('li');
+    note.style.cssText = 'padding:1rem 0;font-size:.85rem;color:var(--ink3)';
+    note.textContent = `Showing top ${cap} of ${results.length} results. Refine your search for more specific results.`;
+    list.appendChild(note);
+  }
+}
+
+/* ---- input handler ---- */
+document.getElementById('q').addEventListener('input', e => {
+  clearTimeout(debounce);
+  debounce = setTimeout(() => runSearch(e.target.value.trim()), 120);
+});
+
+/* ---- keyboard navigation ---- */
+let focusedIdx = -1;
+document.addEventListener('keydown', e => {
+  const qEl = document.getElementById('q');
+  if (e.key === '/' && document.activeElement !== qEl) {
+    e.preventDefault(); qEl.focus(); return;
+  }
+  if (e.key === 'Escape') {
+    if (qEl.value) { qEl.value = ''; runSearch(''); qEl.focus(); }
+    return;
+  }
+  const cards = document.querySelectorAll('.rcard');
+  if (!cards.length) return;
+  if (e.key === 'ArrowDown') {
+    e.preventDefault();
+    focusedIdx = Math.min(focusedIdx + 1, cards.length - 1);
+    cards[focusedIdx].focus();
+  } else if (e.key === 'ArrowUp') {
+    e.preventDefault();
+    if (focusedIdx <= 0) { focusedIdx = -1; qEl.focus(); }
+    else { focusedIdx--; cards[focusedIdx].focus(); }
+  }
+});
+document.getElementById('results').addEventListener('focusin', e => {
+  const card = e.target.closest('.rcard');
+  if (card) focusedIdx = parseInt(card.dataset.idx ?? '-1');
+});
+</script></body></html>
