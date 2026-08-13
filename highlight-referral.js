@@ -1,6 +1,6 @@
 /* highlight-referral.js — loaded by every reader page.
    Reads ?hl=TERM from the URL (set by search.html), highlights all
-   text matches in <main>, shows a dismissible count toast. */
+   text matches in <main>, shows a dismissible toast with prev/next nav. */
 (function () {
   const q = new URLSearchParams(location.search).get('hl');
   if (!q) return;
@@ -16,8 +16,6 @@
     'gi'
   );
 
-  let count = 0;
-
   function walk(node) {
     if (node.nodeType === 3) {
       const t = node.textContent;
@@ -30,7 +28,6 @@
           m.textContent = s;
           m.className = 'hl-ref';
           frag.appendChild(m);
-          count++;
         } else if (s) {
           frag.appendChild(document.createTextNode(s));
         }
@@ -47,38 +44,90 @@
   function doHighlight() {
     const main = document.querySelector('main') || document.body;
     walk(main);
-    if (count === 0) return;
+
+    const marks = Array.from(document.querySelectorAll('mark.hl-ref'));
+    if (!marks.length) return;
 
     const style = document.createElement('style');
     style.textContent =
       'mark.hl-ref{background:#FEF9C3;color:inherit;border-radius:2px;padding:0 1px}' +
+      'mark.hl-ref.hl-cur{background:#FDE047;outline:2px solid #CA8A04;border-radius:2px}' +
       '#hl-toast{position:fixed;bottom:5.5rem;right:1.5rem;z-index:100;' +
         'background:#FEF9C3;border:1px solid #D4A017;border-radius:6px;' +
-        'padding:.6rem 1rem .6rem .85rem;font-family:monospace;font-size:.78rem;' +
+        'padding:.55rem .8rem;font-family:monospace;font-size:.78rem;' +
         'box-shadow:0 2px 10px rgba(0,0,0,.18);display:flex;align-items:center;' +
-        'gap:.75rem;max-width:300px;color:#5a4005}' +
-      '#hl-toast strong{color:#3d2c02}' +
-      '#hl-toast button{background:none;border:none;cursor:pointer;font-size:1rem;' +
-        'padding:0;color:#7A5510;line-height:1;flex-shrink:0;opacity:.7}' +
-      '#hl-toast button:hover{opacity:1}';
+        'gap:.55rem;color:#5a4005;white-space:nowrap}' +
+      '#hl-toast .hl-label{max-width:160px;overflow:hidden;text-overflow:ellipsis}' +
+      '#hl-toast .hl-nav{display:flex;align-items:center;gap:.3rem}' +
+      '#hl-toast .hl-pos{font-size:.72rem;min-width:3.5rem;text-align:center}' +
+      '#hl-toast button{background:none;border:1px solid #D4A017;border-radius:3px;' +
+        'cursor:pointer;font-size:.8rem;padding:.1rem .4rem;color:#7A5510;' +
+        'line-height:1.4;flex-shrink:0}' +
+      '#hl-toast button.hl-x{border:none;font-size:1rem;padding:0 .1rem}' +
+      '#hl-toast button:hover{background:#FDE68A}';
     document.head.appendChild(style);
 
-    const label = count + ' match' + (count === 1 ? '' : 'es') + ' for “' + q.trim() + '”';
+    let cur = 0;
+
+    function goTo(idx) {
+      marks[cur].classList.remove('hl-cur');
+      cur = (idx + marks.length) % marks.length;
+      marks[cur].classList.add('hl-cur');
+      marks[cur].scrollIntoView({ behavior: 'smooth', block: 'center' });
+      posEl.textContent = (cur + 1) + ' / ' + marks.length;
+    }
+
     const toast = document.createElement('div');
     toast.id = 'hl-toast';
-    toast.innerHTML =
-      '<span>🔍 <strong>' + count + '</strong> match' +
-      (count === 1 ? '' : 'es') + ' for “' + escQ(q.trim()) + '”</span>' +
-      '<button aria-label="Clear highlights" title="Clear highlights" onclick="' +
-        "document.querySelectorAll('mark.hl-ref').forEach(function(m){m.replaceWith(document.createTextNode(m.textContent))});" +
-        "this.closest('#hl-toast').remove()" +
-      '">×</button>';
+
+    const labelEl = document.createElement('span');
+    labelEl.className = 'hl-label';
+    labelEl.title = 'Matches for "' + q.trim() + '"';
+    labelEl.innerHTML = '&#128269; "' + escQ(q.trim()) + '"';
+
+    const navEl = document.createElement('span');
+    navEl.className = 'hl-nav';
+
+    const prevBtn = document.createElement('button');
+    prevBtn.textContent = '◀';
+    prevBtn.title = 'Previous match';
+    prevBtn.addEventListener('click', () => goTo(cur - 1));
+
+    const posEl = document.createElement('span');
+    posEl.className = 'hl-pos';
+    posEl.textContent = '1 / ' + marks.length;
+
+    const nextBtn = document.createElement('button');
+    nextBtn.textContent = '▶';
+    nextBtn.title = 'Next match';
+    nextBtn.addEventListener('click', () => goTo(cur + 1));
+
+    const closeBtn = document.createElement('button');
+    closeBtn.className = 'hl-x';
+    closeBtn.textContent = '×';
+    closeBtn.title = 'Clear highlights';
+    closeBtn.addEventListener('click', () => {
+      marks.forEach(m => m.replaceWith(document.createTextNode(m.textContent)));
+      toast.remove();
+    });
+
+    navEl.append(prevBtn, posEl, nextBtn);
+    toast.append(labelEl, navEl, closeBtn);
     document.body.appendChild(toast);
 
-    /* Scroll first mark into view after layout settles */
-    requestAnimationFrame(function () {
-      const first = document.querySelector('mark.hl-ref');
-      if (first) first.scrollIntoView({ behavior: 'smooth', block: 'center' });
+    /* Jump to first match */
+    requestAnimationFrame(() => goTo(0));
+
+    /* Keyboard: n = next, p = prev while toast is visible */
+    document.addEventListener('keydown', function onKey(e) {
+      if (!document.getElementById('hl-toast')) {
+        document.removeEventListener('keydown', onKey);
+        return;
+      }
+      const tag = document.activeElement?.tagName;
+      if (tag === 'INPUT' || tag === 'TEXTAREA') return;
+      if (e.key === 'n' || e.key === 'N') { e.preventDefault(); goTo(cur + 1); }
+      if (e.key === 'p' || e.key === 'P') { e.preventDefault(); goTo(cur - 1); }
     });
   }
 
