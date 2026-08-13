@@ -152,6 +152,62 @@ This period supplies the often-missing context between Malachi and Matthew, when
 
 **70 CE is the hinge.** Most critical scholars date Mark around 70 CE — some argue the late 60s — and Matthew, Luke, and John later. The dates remain debated, so do not say *every* Gospel is written after 70; say most critical dating places them around or after it. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.
 
+## 2.6 Pre-Exilic Folk Religion and the Asherah Evidence
+
+The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.
+
+**The inscriptions.**
+
+Two archaeologically excavated sites preserve the formula "Yahweh and his Asherah" as a routine blessing.
+
+*Kuntillet Ajrud* (northeastern Sinai, ca. 820–745 BCE): Pithos A reads "I bless you by YHWH of Samaria and his Asherah"; Pithos B reads "I bless you by YHWH of Teman and his Asherah." Ze'ev Meshel [CRITICAL], the site's excavator, published the full excavation report (Israel Exploration Society, 2012). The inscriptions appear on storage jars at a waystation — the blessing context is routine, not liturgical.
+
+*Khirbet el-Qom* (western Judah, ca. 750 BCE): "Blessed be Uryahu by Yahweh and by his Asherah." Found on a tomb wall. The same formula as Kuntillet Ajrud, at a geographically distant site in Judah proper, in a different inscription type.
+
+⟨INFERENCE⟩ Two independent sites, same formula, different inscription types and material contexts, spanning the 9th–8th century BCE across different regions. Evidence of widespread practice, not a local aberration.
+
+**The condemnation texts — what they reveal by existing.**
+
+The Deuteronomistic editors condemn Asherah-related practice repeatedly and specifically:
+- Deuteronomy 16:21 — prohibits planting an asherah beside Yahweh's altar
+- Judges 6:25 — Gideon destroys his father's Baal altar and cuts down the asherah beside it
+- 1 Kings 15:13 — Asa removes his grandmother Maacah from the queen-mother position for making an Asherah object; he burns it at the Kidron Valley
+- 2 Kings 23:6 — Josiah removes the Asherah pole from *inside the Jerusalem temple*, burns it at the Kidron Valley, grinds it to powder, and scatters the dust over graves
+
+⟨INFERENCE⟩ Prohibition is evidence of practice. The pole was inside the Jerusalem temple itself in 2 Kings 23. Repeated urgent suppression campaigns — Asa's reform, Josiah's reform — detailed enough to name which individuals kept which objects and where — are the signal of a mainstream practice being pushed out, not a marginal one.
+
+**The Queen of Heaven — the text preserves the resistance.**
+
+Jeremiah 7:18 records whole-family participation in the Queen of Heaven cult: sons gather wood, fathers light fires, women knead dough and bake cakes. Jeremiah 44:15–19 preserves the sharpest counter-statement in the canon: the assembly — men and women together — explicitly refuses Jeremiah's call for reform and attributes the disasters not to the Queen of Heaven cult but to its *abandonment*: "since we stopped offering incense to the Queen of Heaven... we have been lacking everything." The women in verse 19 assert their husbands' approval. The resistance to prophetic monolatry is recorded in the text's own voice.
+
+**The "his Asherah" debate.**
+
+The phrase *ʾšrth* in the inscriptions has generated sustained debate: does the pronominal suffix mark a common noun (a cultic object, an asherah pole) or a personal name (the goddess Asherah)?
+
+*Common noun camp:* J.A. Emerton [CRITICAL] (*Vetus Testamentum* 49:3, 1999) anchors the case in Hebrew grammar: pronominal suffixes do not attach to personal names in classical Hebrew. Saul M. Olyan [CRITICAL] (*Asherah and the Cult of Yahweh in Israel*, SBL Monograph Series 34, Scholars Press, 1988) supplements this from biblical verbal patterns — asherah is consistently "made," "set up," "cut down," and "burned," all verbs for manufactured objects.
+
+*Goddess camp:* William G. Dever [SECULAR-ARCHAEOLOGICAL] (*Did God Have a Wife?*, Eerdmans, 2005) argues the Hebrew grammar rule is overstated: Northwest Semitic cognate languages, including Ugaritic and Eblaite, permit possessive constructions on divine names. The drawings on the Kuntillet Ajrud pithoi support a divine figure in context.
+
+*Mediating positions:* Judith M. Hadley [CRITICAL] (*The Cult of Asherah in Ancient Israel and Judah*, Cambridge University Press, 2000) proposes that object and goddess were not cleanly separable in practice — the asherah pole functioned as an embodiment of the deity. At Kuntillet Ajrud specifically, Hadley reads the term as a cultic object understood to embody the goddess.
+
+⟨INFERENCE⟩ The grammatical argument (Emerton, Olyan) remains the default in mainstream treatments. But regardless of how the noun/name question resolves, the formula appears in routine blessing contexts at two independent sites. Whatever Asherah was — pole, symbol, or goddess — invoking "Yahweh and his Asherah" was standard practice in 8th-century Israel and Judah.
+
+**The convergence and differentiation model.**
+
+Mark S. Smith [CRITICAL] (*The Early History of God: Yahweh and the Other Deities in Ancient Israel*, 2nd ed., Eerdmans, 2002) provides the most influential framework: El's identity, Asherah's attributes, and Baal's traits were absorbed into Yahweh during the Judges and early monarchy periods (*convergence*), with progressive rejection of these earlier associations constructed as incompatible with Yahwism (*differentiation*). On Smith's account, the Asherah evidence is not a deviation from an original monotheism — it is part of the baseline from which the Deuteronomistic editors were differentiating.
+
+**Barker's thesis — standing versus conclusions.**
+
+Margaret Barker [INDEPENDENT SCHOLAR] (*The Great Angel: A Study of Israel's Second God*, Westminster John Knox Press, 1992) argues that First Temple religion preserved a triadic theology with Lady Wisdom/Asherah as a subordinated divine feminine figure, and that Christianity represents a recovery of this suppressed pre-Josianic tradition. Barker served as president of the Society for Old Testament Study (1998) and received a Lambeth DD from Archbishop Rowan Williams — her institutional recognition is genuine. Her conclusion that Christianity is a restoration of a suppressed goddess tradition is rejected by the mainstream critical academy. The distinction matters.
+
+**The conservative-evangelical counter.**
+
+Iain Provan, V. Philips Long, and Tremper Longman III [CONSERVATIVE-EVANGELICAL] (*A Biblical History of Israel*, Westminster John Knox Press, 2003) read the condemnation texts as evidence of apostasy against an original Yahwist monotheism — the Deuteronomistic framing taken at face value as a historical account of deviation rather than a later theological construction.
+
+**What this evidence establishes.**
+
+The inscriptions demonstrate that invoking Yahweh alongside Asherah was ordinary enough to appear in routine blessing formulas at two independent sites across different regions. The biblical condemnation texts record repeated, detailed suppression campaigns — including one focused on a cultic object stored inside the Jerusalem temple. The Queen of Heaven texts preserve explicit popular resistance to prophetic monolatry, in the text's own words. ⟨INFERENCE⟩ The religion the Deuteronomistic editors condemned was not a foreign import or elite aberration: it was the popular religion of Israel and Judah during the monarchy period. The Israel that emerges from Josiah's reform, the Babylonian exile, and the return is a different theological construction from the one that preceded it.
+
 ## 3. Sources Outside the New Testament
 
 Handle this precisely; popular summaries often overstate or understate what the evidence supports.

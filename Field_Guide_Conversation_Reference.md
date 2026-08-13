@@ -1970,6 +1970,40 @@ The concept of sexual orientation as a stable identity category did not exist in
 
 ⟨YOURS⟩ The load-bearing insight: if male virginity doesn't register in the system, the system is not tracking sexual purity universally. The evidence above confirms it independently across law (adultery definition, levirate, rape law), narrative (Onan, Nathan's parable, Judah), ordeal (Numbers 5), and silence (David and Jonathan, eunuchs). What registers is whose claim is violated, whose lineage is at stake, and which gender-category boundary is crossed. That is a property and status system. It touches sex incidentally.
 
+## 15.9 Positive Portrayals and the Cultural Afterlife of Negative Ones
+
+The documented asymmetries in §15.1–15.8 concern law and theology. The same asymmetry runs through narrative — in which women appear favorably, in which they appear unfavorably, and what the culture subsequently does with both. The positive cases are data, not a correction: they show the pattern more clearly by contrast.
+
+**The positive cases — named scholarship.**
+
+*Deborah* (Judges 4–5): military and judicial leader, one of the pre-monarchic judges, whose victory song in Judges 5 is among the oldest surviving poems in the Hebrew Bible. Susan Ackerman [CRITICAL] (*Warrior, Dancer, Seductress, Queen: Women in Judges and Biblical Israel*, Doubleday/Anchor Bible Reference Library, 1998) is the primary scholarly treatment of Deborah and Jael.
+
+*Ruth and Song of Solomon:* Phyllis Trible [FEMINIST CRITICAL] (*God and the Rhetoric of Sexuality*, Fortress Press, 1978) reads both as counter-texts — narratives of female agency and mutual relationship not subordinated to male desire or reproductive function. The 1984 companion volume, *Texts of Terror* (Fortress Press), addresses the negative counterparts.
+
+*Proverbs 31:* Claudia V. Camp [CRITICAL] (*Wisdom and the Feminine in the Book of Proverbs*, Almond Press/JSOT Press, 1985) is the primary monograph on the *ʾēšet ḥayil* ("capable woman," "woman of valor") and Lady Wisdom. Carol Meyers [CRITICAL] (*Discovering Eve*, Oxford University Press, 1988; *Rediscovering Eve*, Oxford University Press, 2013) provides socio-historical argument that the Proverbs 31 portrait reflects real economic power exercised by Israelite women that the literary tradition systematically underrepresents.
+
+*Junia* (Romans 16:7): named by Paul as "outstanding among the apostles." Eldon Jay Epp [CRITICAL] (*Junia: The First Woman Apostle*, Augsburg Fortress, 2005) traces the full textual history: the name was masculinized to "Junias" in late manuscripts and many translations — a masculine form that does not appear in any Greek literature outside this verse. The feminine "Junia" is supported by the manuscript evidence and by every patristic commentator before the medieval period.
+
+*Priscilla* (Acts 18:26): named ahead of her husband Aquila in several passages; she explained "the way of God more accurately" to Apollos — a public teaching role over a man. Elisabeth Schüssler Fiorenza [FEMINIST CRITICAL] (*In Memory of Her: A Feminist Theological Reconstruction of Christian Origins*, Crossroad, 1983) documents women's leadership roles — Priscilla, Junia, Phoebe — before the institutional patriarchalization Schüssler Fiorenza traces through the Deutero-Pauline letters.
+
+**The pattern in positive portrayals** ⟨INFERENCE — assembled from Camp, Meyers, Schüssler Fiorenza; not a single published argument⟩**:**
+
+The positive cases share a structural feature: each is an individual narrative moment or a named exceptional figure. Deborah is the one judge who is also a prophet; Proverbs 31 describes an ideal portrait, not a legal norm; Ruth's loyalty is celebrated precisely because it exceeds what was required of her; Junia's apostolic standing is recorded in a greeting list, not a doctrinal statement. By contrast, male leadership is encoded into law (Deuteronomy's monarchy legislation, the Levitical priesthood, the elders-at-the-gate judicial system), covenant structure (§15.7), and theological metaphor. Positive female figures are exceptional without becoming normative; positive male roles are normative by legal design.
+
+**The negative cases and their cultural afterlife.**
+
+The negative female portrayals have a documented scholarly literature focused specifically on what happens to them after the text:
+
+J. Cheryl Exum [FEMINIST CRITICAL] (*Fragmented Women: Feminist (Sub)versions of Biblical Narratives*, JSOT Press, 1993; *Plotted, Shot, and Painted: Cultural Representations of Biblical Women*, Sheffield Academic Press, 1996) traces how Delilah and Bathsheba are reinterpreted across centuries of art, film, and commentary — the figures are fragmented and reassembled by each era's own anxieties. Gale Yee [CRITICAL] (*Poor Banished Children of Eve: Woman as Evil in the Hebrew Bible*, Fortress Press, 2003) analyzes Eve and the "strange woman" of Proverbs 5/7 as ideological constructions shaped by their editors' socioeconomic contexts. Esther Fuchs [FEMINIST CRITICAL] (*Sexual Politics in the Biblical Narrative: Reading the Hebrew Bible as a Woman*, Sheffield Academic Press, 2000) documents the patriarchal mechanisms — the annunciation type-scene, the barren-mother motif — that structure female narrative roles across the canon. Mieke Bal [CRITICAL] (*Lethal Love: Feminist Literary Readings of Biblical Love Stories*, Indiana University Press, 1987) reads Eve and Delilah as products of androcentric interpretive tradition rather than the texts themselves.
+
+The most direct account of the naming mechanism: Hanna Liljefors ("Biblical Name-Calling: Jezebel, Delilah, and Eve as Sticky Symbols of Hot Women Burning Men," *Bible and Critical Theory* 22/1, 2026) applies Sara Ahmed's cultural stickiness theory specifically to these biblical names. "Jezebel," "Delilah," and "Eve" function as sticky symbols — names that accumulate cultural affect across centuries of use as epithets, generating a moral encoding independent of the biblical narrative.
+
+⟨INFERENCE⟩ The comparative asymmetry — that Amnon, Doeg, and Abimelech do not encode the same way — is not a claim any located scholarship makes directly. It is an observation: no English speaker deploys "Amnon" as a synonym for "rapist" the way "Jezebel" is used as a synonym for "manipulative woman," even though both have equivalent biblical grounding. Liljefors identifies the stickiness mechanism on the female side; whether the male side's absence from this encoding has been theorized in the literature is unconfirmed.
+
+**A complicating voice.**
+
+Tikva Frymer-Kensky [CRITICAL] (*In the Wake of the Goddesses: Women, Culture, and the Biblical Transformation of Pagan Myth*, Free Press, 1992) argues that biblical monotheism's displacement of the goddess tradition was, structurally, *more* egalitarian than the polytheistic system it replaced: the polytheistic gender dualism that assigned cosmic functions along sex lines was dissolved when all divine attributes were concentrated in a single deity. Women lose divine counterparts; they also gain freedom from being mapped onto a cosmic feminine principle. Frymer-Kensky is not a confirming voice for §15's documented asymmetries — she does not dispute them. Her point is that the framework's internal logic changed in ways that are not uniformly worse. She is a necessary complication, not a counterargument.
+
 # 16. INCEST IN THE BIBLICAL NARRATIVE
 
 The text does not hide this. It requires engagement because believers who push a literal reading of Genesis cannot avoid it, and believers who push a selective reading reveal the selection mechanism.
