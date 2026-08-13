@@ -696,6 +696,81 @@ Paul reads Genesis' two sons of Abraham — Ishmael by the slave Hagar, Isaac by
 
 ---
 
+## 9.6 Deuteronomy — The D Source and the Book of the Law
+
+*(Pending review from an earlier session, completed here. OT book; placed in the reading log because it was flagged as outstanding work before the Pauline letters.)*
+
+### 9.6.1 What the Book Is
+
+Deuteronomy presents itself as Moses's three farewell addresses on the plains of Moab, in the final weeks before his death and before Israel enters Canaan. The book is essentially a treaty: preamble, historical retrospective, legal code (chs. 12–26), covenant renewal and oath, blessings and curses, Moses's song, and his death. That treaty structure is the entry point for every serious argument about the book's date of composition.
+
+### 9.6.2 The Composition Question: De Wette and the Josiah Connection
+
+⟨DOCUMENTED⟩ **Wilhelm Martin Leberecht de Wette**, *Dissertatio critica* (1805), made the foundational move: he identified Deuteronomy — or its core — as the "book of the law" found during temple repairs under King Josiah (~621 BCE), narrated in 2 Kings 22–23. The text was not discovered; it was composed shortly before its "discovery," to legitimate Josiah's centralizing reform. Julius Wellhausen later called this "the epoch-making opener of the historical criticism of the Pentateuch." This remains the dominant critical position.
+
+The internal evidence for a Josianic composition date, stated plainly:
+
+**The centralization mandate (ch. 12)** requires worship only at "the place the LORD your God will choose" — historically Jerusalem. Earlier texts treat local altars as legitimate without comment: Elijah rebuilds Yahweh altars at Carmel (1 Kings 18:30), Samuel offers sacrifices throughout 1 Samuel with no centralization concern. If Deuteronomy 12 was operative from the Mosaic period, four centuries of apparent non-compliance passed without any narrator noting it as a violation.
+
+**The Law of the King (17:14–20)** requires the king to be Israelite, limits horses and wives, and requires him to copy and follow the law personally. David collected hundreds of wives; Solomon had 700 wives and 300 concubines, 12,000 horses (1 Kings 11:3, 10:26). If this law existed from Moses, every king from Saul onward violated it with apparent divine tolerance — none of the court historians treating David as the ideal king apply this standard to him.
+
+**Deuteronomy 34 — Moses's death.** The chapter records his burial in an unknown location with the notation "no one knows his burial place to this day." The phrase "to this day" is written from a later perspective looking backward. It is formally incompatible with Mosaic authorship of the chapter, and the traditional harmonization (Joshua wrote ch. 34, or it was added) is a special-pleading move that applies to nothing else in the narrative.
+
+### 9.6.3 The ANE Treaty Debate
+
+Deuteronomy's treaty structure breaks into six elements that parallel ancient Near Eastern vassal treaty form:
+
+| Treaty element | Deuteronomy |
+|---|---|
+| Preamble | 1:1–5 |
+| Historical prologue | 1:6–3:29 |
+| Stipulations | 4–26 |
+| Document deposit / public reading | 31:9–13 |
+| Witnesses | 32:1 (heaven and earth) |
+| Blessings and curses | 27–28 |
+
+⟨DOCUMENTED⟩ **George Mendenhall** [CRITICAL], "Covenant Forms in Israelite Tradition," *Biblical Archaeologist* 17 (1954) — first to document systematic parallels between the Deuteronomy/Sinai covenant structure and **Hittite suzerainty treaties** of the 2nd millennium BCE. The parallel was independently developed by Meredith Kline [CONSERVATIVE-EVANGELICAL], *Treaty of the Great King* (Eerdmans, 1963).
+
+⟨DOCUMENTED⟩ **K.A. Kitchen** [CONSERVATIVE-EVANGELICAL], *On the Reliability of the Old Testament* (Eerdmans, 2003), built directly on Mendenhall: the full six-element treaty sequence — specifically the **historical prologue appearing alongside blessings and curses** — is documented in 2nd-millennium Hittite and Egyptian treaties but is **absent** from 1st-millennium Neo-Assyrian treaties, which have curses but lack the historical prologue. Kitchen argues this makes Deuteronomy structurally Mosaic-era: if you were imitating a 7th-century treaty form, you would not include a historical prologue, because that element had dropped out of the genre.
+
+⟨DOCUMENTED⟩ **Moshe Weinfeld** [CRITICAL], *Deuteronomy and the Deuteronomic School* (Clarendon/Oxford, 1972) — identified a different corpus: correspondences between Deuteronomy and **Neo-Assyrian loyalty oaths and vassal treaties** of the 8th–7th centuries BCE, including the Esarhaddon Succession Treaty (672 BCE). Weinfeld's parallels support Josianic dating: if the text is drawing on treaty conventions contemporary with Assyrian dominance over Judah, it was composed then, not four centuries earlier.
+
+⟨INFERENCE⟩ Mendenhall/Kitchen and Weinfeld are tracking different treaty corpora and reaching opposite conclusions. They are not in disagreement about the structural parallels — both camps confirm the match — they disagree about *which* ancient treaty tradition Deuteronomy is closest to. Kitchen's argument has force if the historical prologue element is truly absent from 1st-millennium treaties; Weinfeld's has force if the specific curse language and oath vocabulary match Neo-Assyrian sources more closely than Hittite ones. Both sets of parallels are real; the question is which is the better analog, and that is a specialist judgment still actively contested.
+
+⟨DOCUMENTED⟩ **Jeffrey Tigay** [CRITICAL, JEWISH], *Deuteronomy* (JPS Torah Commentary, Jewish Publication Society, 1996) — the most thorough modern critical commentary working from a mainstream Josianic dating while engaging the treaty debate directly.
+
+### 9.6.4 The Deuteronomistic History
+
+⟨DOCUMENTED⟩ **Martin Noth** [CRITICAL], *Überlieferungsgeschichtliche Studien* (1943); English translation: *The Deuteronomistic History* (Sheffield Academic Press, 1981) — proposed that Deuteronomy, Joshua, Judges, 1–2 Samuel, and 1–2 Kings form a continuous narrative composed by **a single exilic author** — the Deuteronomist (Dtr) — writing in Babylon after Jerusalem's fall (586 BCE). The history is an argument: Israel's catastrophe is explained by consistent apostasy against Deuteronomy's covenant stipulations. The theological engine is Deuteronomy 28 — obedience yields the blessings, disobedience yields the curses, culminating in exile.
+
+⟨DOCUMENTED⟩ **Frank Moore Cross** [CRITICAL], "The Themes of the Book of Kings and the Structure of the Deuteronomic History," in *Canaanite Myth and Hebrew Epic* (Harvard University Press, 1973) — modified Noth's single-author thesis into a two-edition model: **Dtr1**, composed during Josiah's reign, is programmatic history supporting the reform — its overall tone is hopeful because the reform is working and the covenant trajectory is upward. **Dtr2** is an exilic editor who adds material explaining why even Josiah's reform wasn't enough: Manasseh's sins had already sealed Judah's fate (2 Kings 23:26), and the exile was inevitable regardless. This explains a genuine tension in the text: Josiah is the most righteous king the history describes (23:25), yet the nation falls under his successors. Dtr1 could not explain this because it hadn't happened; Dtr2 supplies the answer retrospectively.
+
+⟨INFERENCE⟩ The Deuteronomistic History is the interpretive lens through which almost all of Israel's pre-exilic history reaches us. "He did evil in the sight of the LORD" is not neutral chronicling — it is a Deuteronomistic judgment applied by an author explaining catastrophe backward. Which kings are praised and which condemned tracks fairly closely with whether they supported centralized Yahwistic worship in Jerusalem. This is worth holding when reading Judges and Kings: the question is not only what happened but what framework the author is using to evaluate it.
+
+### 9.6.5 The Theological Engine: Deuteronomy 28
+
+Deuteronomy 28 is the explicit statement of what §1.2 of these notes calls the transactional covenant model. Verses 1–14: obey and you will be exalted above all nations, blessed in city and field, victorious over enemies. Verses 15–68: disobey and you will be struck with disease, defeated, scattered, driven to cannibalism during siege, sold as slaves, and exiled — no one will buy you.
+
+⟨INFERENCE⟩ The curse list is longer, more vivid, and more specific than the blessing list — and its specificity is significant. The curses describe what *actually happened* to Israel: siege, cannibalism (fulfilled at 2 Kings 6:28–29), exile, enslavement among foreign nations. Read from the far side of 586 BCE, Deuteronomy 28 reads less like a prospective warning than a retrospective map of the disaster — specific enough to have been shaped by knowledge of the events. **Patrick D. Miller** [CRITICAL], *Deuteronomy* (Interpretation, John Knox Press, 1990), treats the curses as covenant-enforcement language in the ANE treaty tradition, which is formally accurate — but the exilic redaction question remains live even within that framework.
+
+### 9.6.6 Key Passages
+
+**6:4 — The Shema:** "Hear, O Israel: the LORD our God, the LORD is one." The central Jewish statement of monotheistic commitment, recited twice daily in Jewish liturgy. The Hebrew *echad* ("one") has generated substantial commentary on whether the claim is numerical singularity (strict monotheism: there is only one god) or uniqueness/incomparability (YHWH is the supreme god, others are negligible). Two meaningfully different theological assertions. Jesus quotes the Shema as the greatest commandment (Mark 12:29).
+
+**13:6–10:** If your brother, son, daughter, wife, or closest friend secretly entices you to worship other gods — you must report them, your hand must strike first, then the whole community stones them to death. No due process for the accused, no exception for honest inquiry, no room for the believer who doubts. This is the harshest religious enforcement statute in the Torah, and it sits four chapters after the Shema's call to wholehearted love of God.
+
+**23:15–16:** "You shall not hand over to his master a slave who has escaped from his master to you. He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him." Unique in the entire ancient Near East — no other ANE law code contains a general prohibition on returning escaped slaves. ⟨INFERENCE⟩ This passage directly undermines the 19th-century American slaveholder reading of Paul's *Philemon* (return the escaped slave Onesimus) as reflecting divine principle. The Torah's own instruction runs the other direction.
+
+**22:28–29:** A man who rapes an unbetrothed virgin pays her father 50 shekels of silver and must marry her permanently. The fine goes to the father — his economic loss. The victim has no legal standing. The rapist's penalty is compulsory marriage to his victim without possibility of divorce. Already documented at Field Guide §15.1; its placement here alongside 23:15–16 is the point: the same chapter that shows Deuteronomy's humane impulse (escaped slaves must not be returned) also contains this.
+
+### 9.6.7 Conclusion
+
+Deuteronomy is the text that gives the whole Deuteronomistic History its logic, and de Wette's 1805 identification of it as a Josianic composition remains the mainstream critical position, reinforced by Weinfeld's Neo-Assyrian parallels and by internal evidence (centralization mandate, law of the king, "to this day" formulas). Kitchen's Hittite-treaty counter-argument is serious and cannot be dismissed — the structural matching he documents is real — but the conservative position requires believing that 2nd-millennium treaty conventions were preserved in active compositional use for six centuries without surviving textual attestation of that continuity.
+
+The NPP connection worth keeping: the "works of law" in Galatians that Paul argues against — circumcision, food laws, sabbath — are all in this book. The people Paul is arguing with are Deuteronomy-formed communities. That doesn't resolve the NPP debate, but it anchors it: the legal framework Paul is engaging is not an abstract legalism but a specific Deuteronomic identity system that marked Jew off from Gentile across generations of diaspora practice.
+
+---
+
 ## 10. Reading Progress
 
 **Old Testament — Completed**
@@ -705,6 +780,8 @@ Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samu
 **New Testament — In Progress**
 
 Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).
+
+**Deuteronomy** — dedicated review at §9.6 (composition debate, ANE treaty structure, Deuteronomistic History, key passages). Completed 13 Aug 2026.
 
 *Living document — update as reading progresses*
 
