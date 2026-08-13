@@ -28,7 +28,6 @@ const SWITCHER_LABELS = [
   'Method & Reference',
   'Glossary',
   'Cited Persons',
-  'Search',
 ];
 
 const decode = (value) => value

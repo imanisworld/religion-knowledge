@@ -7,14 +7,14 @@
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
 <style>
 :root{
-  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
   --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
   --f-display:"Newsreader",Georgia,serif;
   --f-body:"IBM Plex Sans",system-ui,sans-serif;
   --f-mono:"IBM Plex Mono",ui-monospace,monospace;
 }
 *{box-sizing:border-box}
-html,body{overflow-x:hidden}
+html,body{overflow-x:clip}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
 body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body);
   font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
@@ -30,6 +30,8 @@ body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--f-body
   text-decoration:none;color:#8E9C97;border:1px solid #2C3833;transition:.15s;white-space:nowrap}
 #doclinks a:hover{color:#E6EDEA;border-color:#3E4C46}
 #doclinks a.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+#themebtn{font-family:var(--f-mono);font-size:.62rem;letter-spacing:.07em;text-transform:uppercase;padding:.35rem .55rem;border-radius:3px;background:none;color:#8E9C97;border:1px solid #2C3833;cursor:pointer;transition:.15s}
+#themebtn:hover{color:#E6EDEA;border-color:#3E4C46}
 
 /* ---------- search band (sticky) ---------- */
 #searchband{position:sticky;top:0;z-index:20;background:rgba(237,239,236,.97);
@@ -83,7 +85,23 @@ mark{background:#FEF9C3;color:var(--ink);border-radius:2px;padding:0 1px}
 .kbhint span{font-family:var(--f-mono);font-size:.68rem;color:var(--ink3)}
 .kbhint kbd{display:inline-block;background:var(--paper);border:1px solid var(--rule);
   border-radius:3px;padding:.1rem .35rem;font-family:var(--f-mono);font-size:.65rem;color:var(--ink2)}
-</style></head><body>
+
+/* ---------- dark mode ---------- */
+:root[data-theme=dark]{--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330;--overstated:#E6B876}
+:root[data-theme=dark] #topbar{background:#0F1614}
+:root[data-theme=dark] #doclinks a.on{background:#1F5E5B;color:#fff;border-color:#1F5E5B}
+:root[data-theme=dark] #searchband{background:rgba(16,19,15,.95)}
+:root[data-theme=dark] mark{background:#5C4A22;color:#F2F5F3}
+:root[data-theme=dark] .flag-chip{background:#3A2E14;border-color:#5C4A22;color:#E8C176}
+@media (prefers-color-scheme:dark){
+:root:not([data-theme=light]){--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330;--overstated:#E6B876}
+:root:not([data-theme=light]) #topbar{background:#0F1614}
+:root:not([data-theme=light]) #doclinks a.on{background:#1F5E5B;color:#fff;border-color:#1F5E5B}
+:root:not([data-theme=light]) #searchband{background:rgba(16,19,15,.95)}
+:root:not([data-theme=light]) mark{background:#5C4A22;color:#F2F5F3}
+:root:not([data-theme=light]) .flag-chip{background:#3A2E14;border-color:#5C4A22;color:#E8C176}
+}
+</style><script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script></head><body>
 
 <div id="topbar">
   <a class="brand" href="index.html">Bible Deep Dive</a>
@@ -99,6 +117,7 @@ mark{background:#FEF9C3;color:var(--ink);border-radius:2px;padding:0 1px}
     <a href="glossary.html">Glossary</a>
     <a href="cited-persons.html">Cited Persons</a>
     <a class="on" href="#">Search</a>
+    <button id="themebtn" aria-label="Toggle dark mode">Theme</button>
   </nav>
 </div>
 
@@ -107,7 +126,7 @@ mark{background:#FEF9C3;color:var(--ink);border-radius:2px;padding:0 1px}
     <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
       <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
     </svg>
-    <input id="q" type="search" placeholder="Search all documents and cited persons&#8230;" autocomplete="off" spellcheck="false" autofocus>
+    <input id="q" type="search" placeholder="Search all documents and cited persons&#8230;" autocomplete="off" spellcheck="false">
   </div>
   <div id="filters"></div>
 </div>
@@ -317,7 +336,14 @@ document.getElementById('q').addEventListener('input', e => {
 /* ---- keyboard navigation ---- */
 let focusedIdx = -1;
 document.addEventListener('keydown', e => {
+  document.getElementById('themebtn').addEventListener('click', () => {
+    const r = document.documentElement;
+    const cur = r.dataset.theme || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    r.dataset.theme = cur === 'dark' ? 'light' : 'dark';
+    try { localStorage.setItem('religion-knowledge-theme', r.dataset.theme); } catch {}
+  });
   const qEl = document.getElementById('q');
+  if (matchMedia('(pointer:fine)').matches) qEl.focus();
   if (e.key === '/' && document.activeElement !== qEl) {
     e.preventDefault(); qEl.focus(); return;
   }
