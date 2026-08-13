@@ -272,6 +272,48 @@ Critical to keep straight: most of the 21-proposal disagreement is about **ratio
 
 ---
 
+#### ⚑ AUDIT ADDENDUM — Leviticus 18:22 / 20:13: What the Prohibition Targets
+
+`CHECKED 13 AUG 2026`
+
+**AS RECORDED:** The 7 Aug 2026 audit above establishes the referent (male-male anal intercourse, both parties liable) and lists Saul Olyan as "[CRITICAL — status/boundary, addressee = insertive partner]."
+
+**STATUS: Holds on the referent. One attribution corrected: the status/gender-hierarchy rationale belongs to Boyarin, not Olyan.**
+
+**AUDIT**
+
+⟨DOCUMENTED⟩ **The idiom and the addressee.** The operative phrase is *miškevē ʾiššâ* — Saul Olyan, "'And with a Male You Shall Not Lie the Lying Down of a Woman': On the Meaning and Significance of Leviticus 18:22 and 20:13," *Journal of the History of Sexuality* 5.2 (1994) [CRITICAL] — note the singular "Lying Down" in the actual title. Olyan argues the idiom defines the act as anal intercourse, that 18:22 addresses the insertive partner, and that 20:13's punishment formula brought the receptive partner under liability "through editorial activity at a later stage." The 2022 *Currents in Biblical Research* survey already cited above credits Olyan 1994 as the first thorough philological treatment, opening the modern research era alongside Satlow (1994) and Boyarin (1995).
+
+⟨DOCUMENTED⟩ **The correction.** The gender-hierarchy rationale — the offense is placing a male in the penetrated, socially "female" position — is **Daniel Boyarin**, "Are There Any Jews in 'The History of Sexuality'?," *Journal of the History of Sexuality* 5.3 (1995) [JEWISH CRITICAL], who argues biblical and rabbinic culture had no category corresponding to "homosexuality" and reads the prohibition as a cross-gender boundary offense. Olyan himself argued nearly the opposite about the law's final form: the Holiness Code's inclusive formulation is *indifferent* to partner status — unlike Athenian, Roman, and Middle Assyrian norms that penalize by role — and his own proposed rationale is purity-based, the mixing of two defiling emissions (compare Lev 15:24 and 20:18). The earlier audit's "[status/boundary]" shorthand for Olyan compressed this wrongly.
+
+⟨DOCUMENTED⟩ **Other named positions now on record.** Robert Alter [CRITICAL — translator], *The Five Books of Moses* (Norton, 2004): the formulation "suggests that it is a ban on anal intercourse and intercrural intercourse... Other forms of homosexual activity do not seem of urgent concern" — a ban on specific acts, not a category (wording verified only through secondary quotation; check the printed page before quoting further). Jacob Milgrom's positions split by firmness: the scope restriction (binding on Israelites and resident aliens in the land, "irrelevant outside it") and the observation that lesbianism is not prohibited are argued firmly; his extension restricting the ban to incestuous degrees is his own admittedly speculative move, and Robert Gagnon [CONSERVATIVE-EVANGELICAL] wrote a dedicated critique of it. K. Renato Lings, "The 'Lyings' of a Woman: Male-Male Incest in Leviticus 18.22?," *Theology & Sexuality* 15.2 (2009) [REVISIONIST] pushes the incest reading further via the near-untranslatable syntax — a minority position with almost no uptake in the philological mainstream; do not deploy it as primary. Gordon Wenham, "The Old Testament Attitude to Homosexuality," *Expository Times* 102 (1991) [CONSERVATIVE-EVANGELICAL]: the OT rejection of all male homosexual practice is universal, grounded in creation, and unique in the ancient world — the strongest traditional case alongside Gagnon (2001).
+
+**CORRECTED:** *The mainstream critical position: the verses do prohibit male-male intercourse — the live disagreement is rationale, not referent. The operative ancient categories on offer are gender hierarchy (Boyarin) and purity (Olyan); sexual orientation is not among them, because it is a nineteenth-century category the text cannot contain.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the hierarchy thesis is the most-quoted takeaway of the 1994–95 *JHS* cluster, and Olyan's article is that cluster's headline piece — so the cluster's most famous conclusion drifted onto its most famous author. Compressing a multi-author debate into its first mover is the same error pattern as "Wellhausen said" shorthand.
+
+---
+
+#### ⚑ AUDIT ADDENDUM — Female Homoeroticism: Absent from Torah, One Disputed Verse in Paul
+
+`CHECKED 13 AUG 2026`
+
+**AS RECORDED:** Not previously developed in this document — the audit above notes only in passing, via Milgrom, that lesbianism is not prohibited.
+
+**STATUS: New entry. The absence is secure; the single Pauline candidate is genuinely contested.**
+
+**AUDIT**
+
+⟨DOCUMENTED⟩ **Hebrew Bible and rabbinic record.** No prohibition of female-female sex exists anywhere in the Hebrew Bible (Milgrom, *Leviticus 17–22*, Anchor Bible 3A, 2000, pp. 1786ff.; Brooten). The rabbinic tradition confirms the category logic: *Sifra* on Lev 18:3 places woman-woman marriage among the "doings of Egypt"; in b. Yevamot 76a, *nashim mesollelot* is ruled *pritzuta be'alma* — "mere licentiousness" — with no capital liability, the woman remaining eligible to marry a priest; Maimonides (*Mishneh Torah*, Issurei Biah 21:8) does make it an actual rabbinic prohibition warranting disciplinary lashes (*makkat mardut*), still non-capital. Precision cuts both ways: the tradition never treats it as the capital offense of Lev 20:13, and it does not leave it wholly unregulated either.
+
+⟨DOCUMENTED⟩ **Romans 1:26 — the only candidate, and it is disputed.** Bernadette Brooten, *Love Between Women: Early Christian Responses to Female Homoeroticism* (University of Chicago Press, 1996) [CRITICAL — feminist]: yes, female homoeroticism — her own formulation is that 1:26 is "the only passage in the entire Bible referring explicitly to lesbians" — condemned by Paul through the ancient gender-hierarchy frame. James E. Miller, "The Practices of Romans 1:26: Homosexual or Heterosexual?," *Novum Testamentum* 37 (1995) [CRITICAL]: non-procreative *heterosexual* acts. The dispute is ancient, and the patristic witnesses split: John Chrysostom (Homilies on Romans 4) read it as female homoeroticism; Augustine (*De nuptiis et concupiscentia*, with the Anastasius scholion) read it as heterosexual acts; Clement of Alexandria is the contested witness claimed by both sides. Status: CONTESTED — hold both readings.
+
+⟨INFERENCE — the "tells you" step is Claude's synthesis on the documented absence plus Boyarin's category argument⟩ Debate-safe formulation: "The Torah's prohibition ignores women entirely, which tells you its category was male status, not sexuality; the only possible female reference in the entire Bible is one disputed Pauline verse."
+
+**Reading and conversation note:** do not deploy the absolute claim "the Bible never mentions women this way" — it fails at Romans 1:26. The defensible claim is the Torah's silence plus one disputed Pauline verse.
+
+---
+
 ## 5. New Testament — Orientation & Critical Framework
 
 ### 5.1 What the NT is doing structurally

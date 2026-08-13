@@ -2418,3 +2418,61 @@ Deuteronomy 30:11-14 states the position directly: "Surely, this commandment tha
 
 **Sources:**
 - Sanders, E.P. *Paul and Palestinian Judaism: A Comparison of Patterns of Religion*. Fortress Press, 1977.
+
+# 23. THE "CHRISTIAN-BUT" CONSTRUCTION — TOLERANCE AND POSITION STRUCTURE
+
+## 23.1 Tolerance as Retained Condemnation
+
+⟨INFERENCE⟩ The construction "I'm a Christian, but I accept gay people" concedes in its own grammar that the tradition's baseline is non-acceptance: the "but" announces a private waiver while the condemnation and the institutional membership both stay intact. It is dissent priced at zero — nothing about the framework's authority is challenged, and nothing about the speaker's standing inside it changes.
+
+⟨DOCUMENTED⟩ Goethe: "Toleranz sollte eigentlich nur eine vorübergehende Gesinnung sein: sie muß zur Anerkennung führen. Dulden heißt beleidigen." — "Tolerance should really be only a transitional attitude: it must lead to recognition. To tolerate is to insult." (First published in the aphorism group "Aus Makariens Archiv" appended to *Wilhelm Meisters Wanderjahre*, 1829; standardly cited from *Maximen und Reflexionen*; no single maxim number is reliably citable.)
+
+⟨DOCUMENTED⟩ Wendy Brown [CRITICAL — political theory], *Regulating Aversion: Tolerance in the Age of Identity and Empire* (Princeton University Press, 2006): tolerance discourse manages aversion rather than resolving it — it conditionally allows what remains marked as deviant, preserves the tolerator's normative superiority, and depoliticizes the inequality it appears to address.
+
+⟨DOCUMENTED⟩ The taxonomy: Side A (affirming of same-sex relationships) / Side B (orientation morally neutral, celibacy required) — terminology originating in the Bridges Across the Divide online dialogue (late 1990s), popularized through the Gay Christian Network (Justin Lee, founded 2001). The two intellectually honest affirming routes both do real work: revisionist exegesis (arguing the texts do not prohibit what they are taken to prohibit), or an explicit theological override — the Hays move (Christopher B. Hays and Richard B. Hays, *The Widening of God's Mercy: Sexuality Within the Biblical Story*, Yale University Press, 2024): the prohibition texts prohibit, and God's mercy repeatedly widens beyond earlier announced judgments, with the Acts 15 council as the model. Reviewers across camps read it as Richard Hays reversing the normative position of his own *Moral Vision of the New Testament* (1996).
+
+⟨INFERENCE⟩ "But I accept people" is neither the revisionist route nor the Hays route — it does none of the exegetical or theological work and leaves both the condemnation and the membership untouched.
+
+⟨INFERENCE — Claude-drafted conversational move⟩ Field question: "Do you think Paul was wrong, or do you think he didn't say it?"
+
+⟨DOCUMENTED⟩ William Loader [CRITICAL], the leading specialist on sexuality in Second Temple Judaism and early Christianity (*The New Testament on Sexuality*, Eerdmans, 2012; *Two Views on Homosexuality, the Bible, and the Church*, Zondervan, 2016), concludes the texts do condemn same-sex practice — while personally supporting affirmation.
+
+⟨INFERENCE⟩ The leading critical authority conceding the text says it closes the "he didn't say it" branch for anyone unwilling to argue revisionist exegesis against the specialist consensus.
+
+⟨INFERENCE — Claude-drafted conversational move⟩ Field question, to "God loves everyone": "So does the church that would refuse to marry them. What do you believe that they don't?"
+
+⟨YOURS — position reconstructed from discussion, 13 Aug 2026; the wording here is Claude's, not a quotation⟩ The structural observation: the construction is identical in shape to professing opposition to a group's equality in principle while making personal exceptions for members one happens to like. The personal exception costs nothing, flatters the speaker, and leaves the framework's authority exactly where it was.
+
+**Sources:** ⟨DOCUMENTED⟩
+
+•  ⟨DOCUMENTED⟩ Goethe, Johann Wolfgang von. *Maximen und Reflexionen* ("Aus Makariens Archiv," from *Wilhelm Meisters Wanderjahre*, 1829).
+
+•  ⟨DOCUMENTED⟩ Brown, Wendy. *Regulating Aversion: Tolerance in the Age of Identity and Empire*. Princeton University Press, 2006.
+
+•  ⟨DOCUMENTED⟩ Hays, Christopher B., and Richard B. Hays. *The Widening of God's Mercy: Sexuality Within the Biblical Story*. Yale University Press, 2024.
+
+•  ⟨DOCUMENTED⟩ Loader, William. *The New Testament on Sexuality*. Eerdmans, 2012.
+
+•  ⟨DOCUMENTED⟩ Cross-references: Study Notes §4 (Leviticus 18:22 audits, including the 13 Aug 2026 addenda); Translations §5 (1 Corinthians 6:9, *arsenokoitai*); §12.14 ("hate the sin" — Augustine, Letter 211); §4.2 (Epley et al. 2009).
+
+## 23.2 Rejecting Leviticus 18:22 — A Disjunctive Position Structure
+
+⟨YOURS — position structure reconstructed from an informal statement, 13 Aug 2026; the wording is Claude's, not a quotation⟩ Four independent grounds, each sufficient alone. An opponent must defeat all four; the position needs only one to survive.
+
+1. ⟨YOURS⟩ **Content.** The surface reading prohibits male-male sex and prescribes death for both parties. Rejectable on moral content, on the same footing as the genocide and slavery texts.
+
+2. ⟨YOURS⟩ **Mechanism.** The strongest critical account of the offense-logic is protection of male status — the horror of a male placed in the penetrated, socially "female" position (Boyarin; see Study Notes §4 addendum, 13 Aug 2026). Rejectable as misogyny: the rule's engine is the assumed degradedness of the female role.
+
+3. ⟨YOURS⟩ **Category.** Women's total absence from the Torah prohibition shows its category was never sexual orientation (see the female-homoeroticism addendum, Study Notes §4). The text is misdescribed by its own defenders whenever it is framed as being "about homosexuality."
+
+4. ⟨YOURS⟩ **The frame itself.** The totalizing masculine God-language of the whole system. This ground is a values-based rejection and is labeled as a personal verdict, not a finding.
+
+⟨INFERENCE — Claude advisory; standing recommendation pending Imani's explicit adoption, not yet confirmed⟩ A fifth plank sometimes voiced — "adherents simply don't understand their own text" — should be cut and replaced with the Epley et al. (2009) finding already audited at §4.2: believers' sense of God's views tracks their own preferences via unconscious egocentric projection. That framing indicts the epistemology, not the people's intelligence, and it survives scrutiny; "people are dumb" does not.
+
+**Sources:** ⟨DOCUMENTED⟩
+
+•  ⟨DOCUMENTED⟩ Boyarin, Daniel. "Are There Any Jews in 'The History of Sexuality'?" *Journal of the History of Sexuality* 5.3, 1995.
+
+•  ⟨DOCUMENTED⟩ Epley, Nicholas et al. "Believers' estimates of God's beliefs are more egocentric than estimates of other people's beliefs." *PNAS* 106(51), 2009.
+
+•  ⟨DOCUMENTED⟩ Cross-references: Study Notes §4; §4.2 (Motivated Reasoning and God-Image); §12.14.
