@@ -2476,3 +2476,45 @@ Deuteronomy 30:11-14 states the position directly: "Surely, this commandment tha
 •  ⟨DOCUMENTED⟩ Epley, Nicholas et al. "Believers' estimates of God's beliefs are more egocentric than estimates of other people's beliefs." *PNAS* 106(51), 2009.
 
 •  ⟨DOCUMENTED⟩ Cross-references: Study Notes §4; §4.2 (Motivated Reasoning and God-Image); §12.14.
+
+## 23.3 Divine Command Theory, 1 Samuel 15, and "Not Real Christians" — The Unfalsifiability Move
+
+⟨DOCUMENTED⟩ This extends the existing Divine Command Theory and Euthyphro coverage at §1.3 and §22.5, and the 1 Samuel 15 material at §22.8 — it does not restate them. Robert Merrihew Adams's modified Divine Command Theory (in Gene Outka and John P. Reeder Jr., eds., *Religion and Morality*, Doubleday/Anchor, 1973, pp. 318–347; refined in "Divine Command Metaethics Modified Again," *Journal of Religious Ethics* 7, 1979) holds an action is wrong iff it is contrary to the commands of a loving God — morality constituted by God's commands, arbitrariness blocked by anchoring those commands in God's unchanging nature. This is the "second horn" of the Euthyphro dilemma already covered at §22.5: goodness *is* what God commands, rather than an independent standard God's commands track.
+
+⟨DOCUMENTED⟩ William Lane Craig [CONSERVATIVE-EVANGELICAL], "The Indispensability of Theological Meta-Ethical Foundations for Morality," *Foundations* 5 (1997): 9–12, and J.P. Moreland and William Lane Craig, *Philosophical Foundations for a Christian Worldview* (InterVarsity Press, 2003; rev. ed. 2017): Craig's popular apologetic runs Adams's move, but his actual technical position is a hybrid, not flat DCT — moral **values** ground in God's **nature**, moral **duties/obligations** ground in God's **commands**. Compressing this to "DCT" flattens a real distinction in his own stated view.
+
+⟨DOCUMENTED⟩ The dilemma itself, Plato's *Euthyphro* 10a: "Is the pious loved by the gods because it is pious, or is it pious because it is loved by the gods?" Already quoted at §22.5; repeated here because DCT is a direct, named answer to it (Horn 2).
+
+⟨DOCUMENTED⟩ Wes Morriston [CRITICAL], "What if God Commanded Something Terrible? A Worry for Divine-Command Meta-Ethics," *Religious Studies* 45.3 (2009): 249–267: examines whether DCT proponents can coherently rule out an obligation to obey a horrific divine command, and finds none of the standard escapes — necessary goodness, modified DCT, appeal to mystery — fully satisfying. This is the documented form of the circularity worry; a separate, cleanly citable named source specifically for the stronger "God is good becomes an empty tautology" framing was not confirmed in this pass and should not be attributed to a specific author beyond Morriston's argument above.
+
+⟨DOCUMENTED⟩ 1 Samuel 15:3 — Saul is commanded to kill Amalekite men, women, children, and infants: "do not spare them." This is the load-bearing text in the "if God commands it, it's righteous" debate, already discussed at §22.8 in the "protect the innocent" tension.
+
+⟨DOCUMENTED⟩ Paul Copan [CONSERVATIVE-EVANGELICAL], *Is God a Moral Monster? Making Sense of the Old Testament God* (Baker Books, 2011), and Paul Copan and Matthew Flannagan, *Did God Really Command Genocide? Coming to Terms with the Justice of God* (Baker Books, 2014), ch. 9: reads the "totally destroy" language as stock ancient Near Eastern conquest-rhetoric hyperbole, comparable to Egyptian and Assyrian royal inscriptions boasting "total annihilation" of what were in fact partial military routs — pointing to *melek* ("king," applied to Agag) as denoting a local military commander rather than a national ruler, and to the implausibly large stated geographic scope ("from Havilah to Shur") for a literal single campaign.
+
+⟨DOCUMENTED⟩ Named critical counter: Wes Morriston, "Did God Command Genocide? A Challenge to the Biblical Inerrantist," *Philosophia Christi* 11.1 (2009): 7–26, and "Ethical Criticism of the Bible: The Case of Divinely Mandated Genocide," *Sophia* 51.1 (2012): 117–135: it is "a stretch to imagine that a God who said all should be destroyed would be displeased if all were destroyed" — Saul's partial compliance (sparing Agag and the best livestock) is narratively treated as real, punishable disobedience, costing him the kingship, which only coheres if the command was meant and understood literally within the story world. Copan and Flannagan respond directly to this objection in *Did God Really Command Genocide?* ch. 9 — a live, named exchange, not a strawman.
+
+⟨INFERENCE⟩ The further contrast sometimes drawn — that Judges' troop numbers carry internal literary tells of stylization while 1 Samuel 15 does not — is this corpus's own extension built on Morriston's documented core argument, not a claim found verbatim in his published work.
+
+⟨DOCUMENTED⟩ "Not real Christians" as an instance of the No True Scotsman fallacy: Antony Flew [ANALYTIC PHILOSOPHY OF RELIGION], *Thinking About Thinking: Or, Do I Sincerely Want to Be Right?* (Fontana/Collins, 1975) — a Scotsman reads of an English sex crime and says "no Scotsman would do such a thing"; shown a worse crime committed by a Scot, he revises to "no *true* Scotsman would do such a thing." This is a different, later Flew work than the 1955 "Theology and Falsification" essay already cited in this document (§14) — the two should not be conflated. Applied here: any atrocity committed under Christian justification gets retroactively excommunicated from the category, so "Christian" stops referring to a real population and starts meaning "whoever currently agrees with me." The term does zero work.
+
+⟨INFERENCE — Claude-drafted conversational move⟩ Field question: don't argue over who counts as a "real" Christian. Ask instead: "What would someone have to believe or do, while sincerely holding Christian doctrine, for you to count them as a counterexample to your claim about what Christianity teaches?" No answer is itself a concession that the category is unfalsifiable — that the original claim was a stipulation, not a testable one.
+
+⟨INFERENCE — Claude's synthesis, opinion labeled⟩ The "Christian-but" construction (§23.1), DCT's circularity problem, and No True Scotsman are one skill wearing three costumes: noticing when a framework has been built so that nothing could count against it, and asking for the falsification condition out loud. A single general-purpose move underneath all three fieldwork threads in this section.
+
+**Sources:** ⟨DOCUMENTED⟩
+
+•  ⟨DOCUMENTED⟩ Adams, Robert Merrihew. "A Modified Divine Command Theory of Ethical Wrongness." In *Religion and Morality*, edited by Gene Outka and John P. Reeder Jr., 318–347. Doubleday/Anchor, 1973.
+
+•  ⟨DOCUMENTED⟩ Craig, William Lane. "The Indispensability of Theological Meta-Ethical Foundations for Morality." *Foundations* 5 (1997): 9–12.
+
+•  ⟨DOCUMENTED⟩ Morriston, Wes. "What if God Commanded Something Terrible? A Worry for Divine-Command Meta-Ethics." *Religious Studies* 45.3 (2009): 249–267.
+
+•  ⟨DOCUMENTED⟩ Morriston, Wes. "Did God Command Genocide? A Challenge to the Biblical Inerrantist." *Philosophia Christi* 11.1 (2009): 7–26.
+
+•  ⟨DOCUMENTED⟩ Copan, Paul. *Is God a Moral Monster? Making Sense of the Old Testament God*. Baker Books, 2011.
+
+•  ⟨DOCUMENTED⟩ Copan, Paul, and Matthew Flannagan. *Did God Really Command Genocide? Coming to Terms with the Justice of God*. Baker Books, 2014.
+
+•  ⟨DOCUMENTED⟩ Flew, Antony. *Thinking About Thinking: Or, Do I Sincerely Want to Be Right?* Fontana/Collins, 1975.
+
+•  ⟨DOCUMENTED⟩ Cross-references: §1.3 and §22.5 (Divine Command Theory / Euthyphro); §22.8 (God's Commands vs. God's Own Actions); §23.1 (Christian-but construction); §14 (Flew's 1955 falsification essay, a different work).
