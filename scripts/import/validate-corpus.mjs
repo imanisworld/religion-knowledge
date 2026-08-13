@@ -145,6 +145,7 @@ console.log('WARNING_CODES=' + JSON.stringify(allWarnings.reduce((acc, warning) 
 }, {})));
 
 const hardFailures = [];
+if (allWarnings.length) hardFailures.push(`parser warnings: ${allWarnings.length}`);
 if (duplicateIds.length) hardFailures.push(`duplicate IDs: ${duplicateIds.length}`);
 if (brokenRelations.length) hardFailures.push(`broken relationships: ${brokenRelations.length}`);
 if (unsafeUserAttribution.length) hardFailures.push(`unsafe user attribution: ${unsafeUserAttribution.length}`);

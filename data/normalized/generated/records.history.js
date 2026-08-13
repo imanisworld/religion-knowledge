@@ -1144,7 +1144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2a83f8b9113079f9e782",
+    "id": "rk_208958e524827c153821",
     "text": "The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.",
     "raw_text": "The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.",
     "provenance_type": "CLAUDE",
@@ -1152,6 +1152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1160,7 +1161,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:37",
     "parent_id": null,
     "related_ids": [],
@@ -1175,7 +1176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_80c62cefd51d49123d57",
+    "id": "rk_e26eb9a82a64545664e9",
     "text": "The inscriptions.",
     "raw_text": "**The inscriptions.**",
     "provenance_type": "CLAUDE",
@@ -1183,6 +1184,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1191,7 +1193,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:38",
     "parent_id": null,
     "related_ids": [],
@@ -1206,7 +1208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_17f180341d173c30d05b",
+    "id": "rk_7e4a3698068540bc2ae4",
     "text": "Two archaeologically excavated sites preserve the formula \"Yahweh and his Asherah\" as a routine blessing.",
     "raw_text": "Two archaeologically excavated sites preserve the formula \"Yahweh and his Asherah\" as a routine blessing.",
     "provenance_type": "CLAUDE",
@@ -1214,6 +1216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1222,7 +1225,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:39",
     "parent_id": null,
     "related_ids": [],
@@ -1237,7 +1240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6c0ef69939e232b88667",
+    "id": "rk_d3719cdd0a8e585ac859",
     "text": "Kuntillet Ajrud (northeastern Sinai, ca. 820–745 BCE): Pithos A reads \"I bless you by YHWH of Samaria and his Asherah\"; Pithos B reads \"I bless you by YHWH of Teman and his Asherah.\" Ze'ev Meshel [CRITICAL], the site's excavator, published the full excavation report (Israel Exploration Society, 2012). The inscriptions appear on storage jars at a waystation — the blessing context is routine, not liturgical.",
     "raw_text": "*Kuntillet Ajrud* (northeastern Sinai, ca. 820–745 BCE): Pithos A reads \"I bless you by YHWH of Samaria and his Asherah\"; Pithos B reads \"I bless you by YHWH of Teman and his Asherah.\" Ze'ev Meshel [CRITICAL], the site's excavator, published the full excavation report (Israel Exploration Society, 2012). The inscriptions appear on storage jars at a waystation — the blessing context is routine, not liturgical.",
     "provenance_type": "CLAUDE",
@@ -1245,6 +1248,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1253,7 +1257,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:40",
     "parent_id": null,
     "related_ids": [],
@@ -1268,7 +1272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e19aa478e242be7b009d",
+    "id": "rk_b909f9957dce957d4467",
     "text": "Khirbet el-Qom (western Judah, ca. 750 BCE): \"Blessed be Uryahu by Yahweh and by his Asherah.\" Found on a tomb wall. The same formula as Kuntillet Ajrud, at a geographically distant site in Judah proper, in a different inscription type.",
     "raw_text": "*Khirbet el-Qom* (western Judah, ca. 750 BCE): \"Blessed be Uryahu by Yahweh and by his Asherah.\" Found on a tomb wall. The same formula as Kuntillet Ajrud, at a geographically distant site in Judah proper, in a different inscription type.",
     "provenance_type": "CLAUDE",
@@ -1276,6 +1280,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1284,7 +1289,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:41",
     "parent_id": null,
     "related_ids": [],
@@ -1299,7 +1304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_545d682600acd6d71b61",
+    "id": "rk_744c324ad001d07277d1",
     "text": "Two independent sites, same formula, different inscription types and material contexts, spanning the 9th–8th century BCE across different regions. Evidence of widespread practice, not a local aberration.",
     "raw_text": "⟨INFERENCE⟩ Two independent sites, same formula, different inscription types and material contexts, spanning the 9th–8th century BCE across different regions. Evidence of widespread practice, not a local aberration.",
     "provenance_type": "CLAUDE",
@@ -1307,6 +1312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1315,7 +1321,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:42",
     "parent_id": null,
     "related_ids": [],
@@ -1330,7 +1336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cac2adb0c0c62eb97b4b",
+    "id": "rk_4155f5a4499c11e03814",
     "text": "The condemnation texts — what they reveal by existing.",
     "raw_text": "**The condemnation texts — what they reveal by existing.**",
     "provenance_type": "CLAUDE",
@@ -1338,6 +1344,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1346,7 +1353,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:43",
     "parent_id": null,
     "related_ids": [],
@@ -1361,7 +1368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22be46b76a5f3752a4f4",
+    "id": "rk_e4043b49f82d429e9861",
     "text": "The Deuteronomistic editors condemn Asherah-related practice repeatedly and specifically:\nDeuteronomy 16:21 — prohibits planting an asherah beside Yahweh's altar\nJudges 6:25 — Gideon destroys his father's Baal altar and cuts down the asherah beside it\n1 Kings 15:13 — Asa removes his grandmother Maacah from the queen-mother position for making an Asherah object; he burns it at the Kidron Valley\n2 Kings 23:6 — Josiah removes the Asherah pole from inside the Jerusalem temple, burns it at the Kidron Valley, grinds it to powder, and scatters the dust over graves",
     "raw_text": "The Deuteronomistic editors condemn Asherah-related practice repeatedly and specifically:\n- Deuteronomy 16:21 — prohibits planting an asherah beside Yahweh's altar\n- Judges 6:25 — Gideon destroys his father's Baal altar and cuts down the asherah beside it\n- 1 Kings 15:13 — Asa removes his grandmother Maacah from the queen-mother position for making an Asherah object; he burns it at the Kidron Valley\n- 2 Kings 23:6 — Josiah removes the Asherah pole from *inside the Jerusalem temple*, burns it at the Kidron Valley, grinds it to powder, and scatters the dust over graves",
     "provenance_type": "CLAUDE",
@@ -1369,6 +1376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1377,7 +1385,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:44",
     "parent_id": null,
     "related_ids": [],
@@ -1392,7 +1400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9f1cd1bda70723485a58",
+    "id": "rk_4f6710a9c68f85e5c440",
     "text": "Prohibition is evidence of practice. The pole was inside the Jerusalem temple itself in 2 Kings 23. Repeated urgent suppression campaigns — Asa's reform, Josiah's reform — detailed enough to name which individuals kept which objects and where — are the signal of a mainstream practice being pushed out, not a marginal one.",
     "raw_text": "⟨INFERENCE⟩ Prohibition is evidence of practice. The pole was inside the Jerusalem temple itself in 2 Kings 23. Repeated urgent suppression campaigns — Asa's reform, Josiah's reform — detailed enough to name which individuals kept which objects and where — are the signal of a mainstream practice being pushed out, not a marginal one.",
     "provenance_type": "CLAUDE",
@@ -1400,6 +1408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1408,7 +1417,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:45",
     "parent_id": null,
     "related_ids": [],
@@ -1423,7 +1432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3287eaac2d50bc90ef01",
+    "id": "rk_3835f2b9238da25bdf59",
     "text": "The Queen of Heaven — the text preserves the resistance.",
     "raw_text": "**The Queen of Heaven — the text preserves the resistance.**",
     "provenance_type": "CLAUDE",
@@ -1431,6 +1440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1439,7 +1449,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:46",
     "parent_id": null,
     "related_ids": [],
@@ -1454,7 +1464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b09f19eb7b03bf507587",
+    "id": "rk_d120f5ecdc8ce59fb17b",
     "text": "Jeremiah 7:18 records whole-family participation in the Queen of Heaven cult: sons gather wood, fathers light fires, women knead dough and bake cakes. Jeremiah 44:15–19 preserves the sharpest counter-statement in the canon: the assembly — men and women together — explicitly refuses Jeremiah's call for reform and attributes the disasters not to the Queen of Heaven cult but to its abandonment: \"since we stopped offering incense to the Queen of Heaven... we have been lacking everything.\" The women in verse 19 assert their husbands' approval. The resistance to prophetic monolatry is recorded in the text's own voice.",
     "raw_text": "Jeremiah 7:18 records whole-family participation in the Queen of Heaven cult: sons gather wood, fathers light fires, women knead dough and bake cakes. Jeremiah 44:15–19 preserves the sharpest counter-statement in the canon: the assembly — men and women together — explicitly refuses Jeremiah's call for reform and attributes the disasters not to the Queen of Heaven cult but to its *abandonment*: \"since we stopped offering incense to the Queen of Heaven... we have been lacking everything.\" The women in verse 19 assert their husbands' approval. The resistance to prophetic monolatry is recorded in the text's own voice.",
     "provenance_type": "CLAUDE",
@@ -1462,6 +1472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1470,7 +1481,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:47",
     "parent_id": null,
     "related_ids": [],
@@ -1485,7 +1496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1e847f6f82a7756ab751",
+    "id": "rk_17fb97e76f1f37a1a2a2",
     "text": "The \"his Asherah\" debate.",
     "raw_text": "**The \"his Asherah\" debate.**",
     "provenance_type": "CLAUDE",
@@ -1493,6 +1504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1501,7 +1513,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:48",
     "parent_id": null,
     "related_ids": [],
@@ -1516,7 +1528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0ed3aff2dfae119331ee",
+    "id": "rk_8dd6e5e1ed6b163c1b56",
     "text": "The phrase ʾšrth in the inscriptions has generated sustained debate: does the pronominal suffix mark a common noun (a cultic object, an asherah pole) or a personal name (the goddess Asherah)?",
     "raw_text": "The phrase *ʾšrth* in the inscriptions has generated sustained debate: does the pronominal suffix mark a common noun (a cultic object, an asherah pole) or a personal name (the goddess Asherah)?",
     "provenance_type": "CLAUDE",
@@ -1524,6 +1536,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1532,7 +1545,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:49",
     "parent_id": null,
     "related_ids": [],
@@ -1547,7 +1560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_87a0227655ecb7d43acd",
+    "id": "rk_78a7c07be12b61e6b1e3",
     "text": "Common noun camp: J.A. Emerton [CRITICAL] (Vetus Testamentum 49:3, 1999) anchors the case in Hebrew grammar: pronominal suffixes do not attach to personal names in classical Hebrew. Saul M. Olyan [CRITICAL] (Asherah and the Cult of Yahweh in Israel, SBL Monograph Series 34, Scholars Press, 1988) supplements this from biblical verbal patterns — asherah is consistently \"made,\" \"set up,\" \"cut down,\" and \"burned,\" all verbs for manufactured objects.",
     "raw_text": "*Common noun camp:* J.A. Emerton [CRITICAL] (*Vetus Testamentum* 49:3, 1999) anchors the case in Hebrew grammar: pronominal suffixes do not attach to personal names in classical Hebrew. Saul M. Olyan [CRITICAL] (*Asherah and the Cult of Yahweh in Israel*, SBL Monograph Series 34, Scholars Press, 1988) supplements this from biblical verbal patterns — asherah is consistently \"made,\" \"set up,\" \"cut down,\" and \"burned,\" all verbs for manufactured objects.",
     "provenance_type": "CLAUDE",
@@ -1555,6 +1568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1563,7 +1577,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:50",
     "parent_id": null,
     "related_ids": [],
@@ -1578,7 +1592,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9e01947e44c76813631d",
+    "id": "rk_e870794f37870de2e150",
     "text": "Goddess camp: William G. Dever [SECULAR-ARCHAEOLOGICAL] (Did God Have a Wife?, Eerdmans, 2005) argues the Hebrew grammar rule is overstated: Northwest Semitic cognate languages, including Ugaritic and Eblaite, permit possessive constructions on divine names. The drawings on the Kuntillet Ajrud pithoi support a divine figure in context.",
     "raw_text": "*Goddess camp:* William G. Dever [SECULAR-ARCHAEOLOGICAL] (*Did God Have a Wife?*, Eerdmans, 2005) argues the Hebrew grammar rule is overstated: Northwest Semitic cognate languages, including Ugaritic and Eblaite, permit possessive constructions on divine names. The drawings on the Kuntillet Ajrud pithoi support a divine figure in context.",
     "provenance_type": "CLAUDE",
@@ -1586,6 +1600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1594,7 +1609,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:51",
     "parent_id": null,
     "related_ids": [],
@@ -1609,7 +1624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_92f42bd4d7c73a2aca97",
+    "id": "rk_961fb3fbb56d97da1f23",
     "text": "Mediating positions: Judith M. Hadley [CRITICAL] (The Cult of Asherah in Ancient Israel and Judah, Cambridge University Press, 2000) proposes that object and goddess were not cleanly separable in practice — the asherah pole functioned as an embodiment of the deity. At Kuntillet Ajrud specifically, Hadley reads the term as a cultic object understood to embody the goddess.",
     "raw_text": "*Mediating positions:* Judith M. Hadley [CRITICAL] (*The Cult of Asherah in Ancient Israel and Judah*, Cambridge University Press, 2000) proposes that object and goddess were not cleanly separable in practice — the asherah pole functioned as an embodiment of the deity. At Kuntillet Ajrud specifically, Hadley reads the term as a cultic object understood to embody the goddess.",
     "provenance_type": "CLAUDE",
@@ -1617,6 +1632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1625,7 +1641,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:52",
     "parent_id": null,
     "related_ids": [],
@@ -1640,7 +1656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a2279f2b8768af81bd7c",
+    "id": "rk_632bfd24b195dc294c99",
     "text": "The grammatical argument (Emerton, Olyan) remains the default in mainstream treatments. But regardless of how the noun/name question resolves, the formula appears in routine blessing contexts at two independent sites. Whatever Asherah was — pole, symbol, or goddess — invoking \"Yahweh and his Asherah\" was standard practice in 8th-century Israel and Judah.",
     "raw_text": "⟨INFERENCE⟩ The grammatical argument (Emerton, Olyan) remains the default in mainstream treatments. But regardless of how the noun/name question resolves, the formula appears in routine blessing contexts at two independent sites. Whatever Asherah was — pole, symbol, or goddess — invoking \"Yahweh and his Asherah\" was standard practice in 8th-century Israel and Judah.",
     "provenance_type": "CLAUDE",
@@ -1648,6 +1664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1656,7 +1673,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:53",
     "parent_id": null,
     "related_ids": [],
@@ -1671,7 +1688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_31fbdcea81e21c1a3a16",
+    "id": "rk_5bec3b273f934c23eacc",
     "text": "The convergence and differentiation model.",
     "raw_text": "**The convergence and differentiation model.**",
     "provenance_type": "CLAUDE",
@@ -1679,6 +1696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1687,7 +1705,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:54",
     "parent_id": null,
     "related_ids": [],
@@ -1702,7 +1720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_62430c3714ad576165ce",
+    "id": "rk_c3306b0c955c88f9a2ea",
     "text": "Mark S. Smith [CRITICAL] (The Early History of God: Yahweh and the Other Deities in Ancient Israel, 2nd ed., Eerdmans, 2002) provides the most influential framework: El's identity, Asherah's attributes, and Baal's traits were absorbed into Yahweh during the Judges and early monarchy periods (convergence), with progressive rejection of these earlier associations constructed as incompatible with Yahwism (differentiation). On Smith's account, the Asherah evidence is not a deviation from an original monotheism — it is part of the baseline from which the Deuteronomistic editors were differentiating.",
     "raw_text": "Mark S. Smith [CRITICAL] (*The Early History of God: Yahweh and the Other Deities in Ancient Israel*, 2nd ed., Eerdmans, 2002) provides the most influential framework: El's identity, Asherah's attributes, and Baal's traits were absorbed into Yahweh during the Judges and early monarchy periods (*convergence*), with progressive rejection of these earlier associations constructed as incompatible with Yahwism (*differentiation*). On Smith's account, the Asherah evidence is not a deviation from an original monotheism — it is part of the baseline from which the Deuteronomistic editors were differentiating.",
     "provenance_type": "CLAUDE",
@@ -1710,6 +1728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1718,7 +1737,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:55",
     "parent_id": null,
     "related_ids": [],
@@ -1733,7 +1752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fd5bb907365dc3c2bafe",
+    "id": "rk_b7040ca854e85e0a352c",
     "text": "Barker's thesis — standing versus conclusions.",
     "raw_text": "**Barker's thesis — standing versus conclusions.**",
     "provenance_type": "CLAUDE",
@@ -1741,6 +1760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1749,7 +1769,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:56",
     "parent_id": null,
     "related_ids": [],
@@ -1764,7 +1784,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_12aab9ef74855b81243b",
+    "id": "rk_dc4ea765b4a0d271329f",
     "text": "Margaret Barker [INDEPENDENT SCHOLAR] (The Great Angel: A Study of Israel's Second God, Westminster John Knox Press, 1992) argues that First Temple religion preserved a triadic theology with Lady Wisdom/Asherah as a subordinated divine feminine figure, and that Christianity represents a recovery of this suppressed pre-Josianic tradition. Barker served as president of the Society for Old Testament Study (1998) and received a Lambeth DD from Archbishop Rowan Williams — her institutional recognition is genuine. Her conclusion that Christianity is a restoration of a suppressed goddess tradition is rejected by the mainstream critical academy. The distinction matters.",
     "raw_text": "Margaret Barker [INDEPENDENT SCHOLAR] (*The Great Angel: A Study of Israel's Second God*, Westminster John Knox Press, 1992) argues that First Temple religion preserved a triadic theology with Lady Wisdom/Asherah as a subordinated divine feminine figure, and that Christianity represents a recovery of this suppressed pre-Josianic tradition. Barker served as president of the Society for Old Testament Study (1998) and received a Lambeth DD from Archbishop Rowan Williams — her institutional recognition is genuine. Her conclusion that Christianity is a restoration of a suppressed goddess tradition is rejected by the mainstream critical academy. The distinction matters.",
     "provenance_type": "CLAUDE",
@@ -1772,6 +1792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1780,7 +1801,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:57",
     "parent_id": null,
     "related_ids": [],
@@ -1795,7 +1816,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b589ecf75a667b461c30",
+    "id": "rk_f5e9080907e0af0e150e",
     "text": "The conservative-evangelical counter.",
     "raw_text": "**The conservative-evangelical counter.**",
     "provenance_type": "CLAUDE",
@@ -1803,6 +1824,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1811,7 +1833,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:58",
     "parent_id": null,
     "related_ids": [],
@@ -1826,7 +1848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_927677fc675adb816460",
+    "id": "rk_3e2b027f9817915f2377",
     "text": "Iain Provan, V. Philips Long, and Tremper Longman III [CONSERVATIVE-EVANGELICAL] (A Biblical History of Israel, Westminster John Knox Press, 2003) read the condemnation texts as evidence of apostasy against an original Yahwist monotheism — the Deuteronomistic framing taken at face value as a historical account of deviation rather than a later theological construction.",
     "raw_text": "Iain Provan, V. Philips Long, and Tremper Longman III [CONSERVATIVE-EVANGELICAL] (*A Biblical History of Israel*, Westminster John Knox Press, 2003) read the condemnation texts as evidence of apostasy against an original Yahwist monotheism — the Deuteronomistic framing taken at face value as a historical account of deviation rather than a later theological construction.",
     "provenance_type": "CLAUDE",
@@ -1834,6 +1856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1842,7 +1865,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:59",
     "parent_id": null,
     "related_ids": [],
@@ -1857,7 +1880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d66ac3f93c29504b9d6f",
+    "id": "rk_15fc536b2c452a4e999f",
     "text": "What this evidence establishes.",
     "raw_text": "**What this evidence establishes.**",
     "provenance_type": "CLAUDE",
@@ -1865,6 +1888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1873,7 +1897,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:60",
     "parent_id": null,
     "related_ids": [],
@@ -1888,7 +1912,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_33dece5bc80f9ffbf1c8",
+    "id": "rk_8e4f74b54acb555c53cd",
     "text": "The inscriptions demonstrate that invoking Yahweh alongside Asherah was ordinary enough to appear in routine blessing formulas at two independent sites across different regions. The biblical condemnation texts record repeated, detailed suppression campaigns — including one focused on a cultic object stored inside the Jerusalem temple. The Queen of Heaven texts preserve explicit popular resistance to prophetic monolatry, in the text's own words.  The religion the Deuteronomistic editors condemned was not a foreign import or elite aberration: it was the popular religion of Israel and Judah during the monarchy period. The Israel that emerges from Josiah's reform, the Babylonian exile, and the return is a different theological construction from the one that preceded it.",
     "raw_text": "The inscriptions demonstrate that invoking Yahweh alongside Asherah was ordinary enough to appear in routine blessing formulas at two independent sites across different regions. The biblical condemnation texts record repeated, detailed suppression campaigns — including one focused on a cultic object stored inside the Jerusalem temple. The Queen of Heaven texts preserve explicit popular resistance to prophetic monolatry, in the text's own words. ⟨INFERENCE⟩ The religion the Deuteronomistic editors condemned was not a foreign import or elite aberration: it was the popular religion of Israel and Judah during the monarchy period. The Israel that emerges from Josiah's reform, the Babylonian exile, and the return is a different theological construction from the one that preceded it.",
     "provenance_type": "CLAUDE",
@@ -1896,6 +1920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Historical Framework",
+      "2. Historical Timeline",
       "2.6 Pre-Exilic Folk Religion and the Asherah Evidence"
     ],
     "subtopics": [],
@@ -1904,7 +1929,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Historical_Framework.md",
-    "source_section": "Historical Framework > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
+    "source_section": "Historical Framework > 2. Historical Timeline > 2.6 Pre-Exilic Folk Religion and the Asherah Evidence",
     "source_reference": "paragraph:61",
     "parent_id": null,
     "related_ids": [],

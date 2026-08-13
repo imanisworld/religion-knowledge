@@ -3,6 +3,7 @@ name: Validate religion corpus
 on:
   push:
     branches:
+      - main
       - chatgpt/mobile-app-v1
   pull_request:
     branches:
