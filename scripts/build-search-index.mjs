@@ -91,7 +91,12 @@ export function buildSearchIndex(baseDir = '.') {
       process.stderr.write(`SKIP (not found): ${filepath}\n`);
       continue;
     }
-    const html = fs.readFileSync(filepath, 'utf8');
+    // Drop script/style blocks: stripHtml removes tags but keeps their text
+    // content, which let the readers' inline JS leak into the last section's
+    // indexed text.
+    const html = fs.readFileSync(filepath, 'utf8')
+      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
+      .replace(/<style[\s\S]*?<\/style>/gi, ' ');
     const entries = filename === 'cited-persons.html'
       ? extractPersons(html, filename, docTitle)
       : extractSections(html, filename, docTitle);
