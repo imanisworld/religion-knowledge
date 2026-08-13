@@ -157,36 +157,39 @@ function secId(num) {
 // Returns { badge, dataStatus } where badge is the display text.
 function parseStatusBadge(statusText) {
   const t = statusText.trim();
+  const lower = t.toLowerCase();
 
-  // Try leading canonical phrase first (most reliable)
+  // Leading canonical phrase (highest confidence)
   if (/^Holds w\/\s*revisions/i.test(t)) return { badge: 'Holds w/ revisions', dataStatus: 'holds' };
   if (/^New entry/i.test(t)) return { badge: 'New entry', dataStatus: 'new' };
   if (/^Collapses/i.test(t)) return { badge: 'Collapses', dataStatus: 'collapses' };
   if (/^Overstated/i.test(t)) return { badge: 'Overstated', dataStatus: 'overstated' };
+
+  // "Directionally sound" = positive but needs revision; "directionally right/correct" = overstated
+  if (/directionally sound/i.test(t)) return { badge: 'Holds w/ revisions', dataStatus: 'holds' };
+  if (/directional/i.test(t)) return { badge: 'Overstated', dataStatus: 'overstated' };
+
+  // "Substantially wrong in framing" → overstated (wrong framing, not wrong claim)
+  if (/substantially wrong in framing/i.test(t)) return { badge: 'Overstated', dataStatus: 'overstated' };
+  // Other "wrong" signals → collapses
+  if (/\b(wrong|incorrect|false|mistaken)\b/.test(lower)) return { badge: 'Collapses', dataStatus: 'collapses' };
+
+  // "Holds —" followed by qualification → Holds w/ revisions
+  if (/^holds\s*[—\-]/i.test(t)) return { badge: 'Holds w/ revisions', dataStatus: 'holds' };
+  // Plain leading "Holds"
   if (/^Holds/i.test(t)) return { badge: 'Holds', dataStatus: 'holds' };
 
-  // Scan the full text for keyword signals
-  const lower = t.toLowerCase();
+  // Positive signal + qualification signals → Holds w/ revisions
+  const hasPositive = /\b(holds?|correct|accurate|real|sound|documented)\b/.test(lower);
+  const hasQualifier = /\b(but\b|weaker|more specific|resolves differently|terminology|flattened|nuance|needs)\b/.test(lower);
+  if (hasPositive && hasQualifier) return { badge: 'Holds w/ revisions', dataStatus: 'holds' };
+  if (hasPositive) return { badge: 'Holds', dataStatus: 'holds' };
+
+  // Fallback keyword scan
   if (/\boverstated\b/.test(lower)) return { badge: 'Overstated', dataStatus: 'overstated' };
   if (/\bcollapses\b/.test(lower)) return { badge: 'Collapses', dataStatus: 'collapses' };
   if (/\bnew entry\b/.test(lower)) return { badge: 'New entry', dataStatus: 'new' };
 
-  // Positive signals → holds
-  if (/\b(holds?|correct|accurate|right|sound|real|conclusion holds|supported)\b/.test(lower)) {
-    // Check if "w/ revisions" or "revision" also appears
-    if (/\brevision/.test(lower)) return { badge: 'Holds w/ revisions', dataStatus: 'holds' };
-    return { badge: 'Holds', dataStatus: 'holds' };
-  }
-
-  // Negative signals → overstated or collapses
-  if (/\b(wrong|incorrect|false|mistaken|error|substantially wrong)\b/.test(lower)) {
-    return { badge: 'Collapses', dataStatus: 'collapses' };
-  }
-  if (/\bflattened|directionally|nuance|more specific|more precise\b/.test(lower)) {
-    return { badge: 'Overstated', dataStatus: 'overstated' };
-  }
-
-  // Default
   return { badge: 'Holds', dataStatus: 'holds' };
 }
 
@@ -203,14 +206,13 @@ function postProcessInline(html) {
     .replace(/⟨INFERENCE⟩/g, '<span class="mark inf">INFERENCE</span>')
     .replace(/⟨YOURS⟩/g, '<span class="mark you">YOURS</span>');
 
-  // Camp tags [WORD] or [WORD, more words] — only outside code
-  html = html.replace(/\[([A-Z][A-Z\s,\-'/().]+)\]/g, (match, inner) => {
-    // Skip if looks like a link [text](url) — these should already be converted
-    // Only match all-caps content with punctuation typical of camp labels
-    if (!/[a-z]/.test(inner)) {
-      return `<span class="camp">${inner}</span>`;
-    }
-    return match;
+  // Camp tags [CAMP LABEL] — must start with 2+ uppercase letters (camp keyword)
+  // and not be a markdown link (those are already converted to <a> by this point).
+  // Labels can contain mixed case (e.g. [CRITICAL, archaeologist, anti-minimalist]).
+  html = html.replace(/\[([A-Z]{2,}[^\[\]\n]*)\]/g, (match, inner) => {
+    // Skip if this looks like a remaining markdown link target (contains a URL-like pattern)
+    if (/https?:\/\/|\.html|\.md/.test(inner)) return match;
+    return `<span class="camp">${inner}</span>`;
   });
 
   // §N.M.P cross-reference links (don't double-wrap existing xref hrefs)
@@ -396,9 +398,10 @@ function parseDocument(src, doc) {
       i++;
       while (i < lines.length) {
         const al = lines[i];
-        // End at `---` or next heading
+        // End at `---`, next non-audit heading, or start of another audit block
         if (/^---+\s*$/.test(al)) { i++; break; }
-        if (/^#{1,4}\s/.test(al) && !/^####\s*⚑\s*AUDIT/.test(al)) break;
+        if (/^####\s*⚑\s*AUDIT\s*—/.test(al) && al !== auditLines[0]) break;
+        if (/^#{1,4}\s/.test(al)) break;
         auditLines.push(al);
         i++;
       }
