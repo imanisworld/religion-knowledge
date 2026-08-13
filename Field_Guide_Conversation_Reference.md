@@ -1164,6 +1164,30 @@ John 14:6's formulation ("no one comes to the Father except through me") is the 
 
 **Reference: **Proverbs 3:1-12.
 
+#### ⚑ AUDIT — Proverbs 3:5: Epistemological Content and the Missing Strongest Counter
+
+`CHECKED 13 AUG 2026`
+
+**AS RECORDED:** "Wisdom literature about personal humility and trust in God in life decisions. Not an epistemological claim about biblical criticism. The surrounding verses are about honoring God with wealth and accepting discipline. The self-defeating use: Every reading of this verse requires the reader's own understanding to interpret and apply it." (§12.9)
+
+**STATUS: Overstated — "personal humility in life decisions" undersells the verse's documented epistemological scope within the Proverbial framework; the strongest traditional counter is absent; and the self-defeating argument is unmarked ⟨INFERENCE⟩.**
+
+**AUDIT**
+
+**Genre and surrounding context: confirmed.** Michael V. Fox [CRITICAL/JEWISH CRITICAL], *Proverbs 1-9* (Anchor Bible 18A, Doubleday, 2000), demarcates three structural units within 3:1-12: 3:1-4 (keeping instruction), 3:5-10 (piety), 3:11-12 (suffering as discipline). The content description — 3:9-10 on wealth/firstfruits, 3:11-12 on divine discipline — is accurate, with the caveat that Fox places 3:9-10 within the same piety unit as 3:5 rather than merely surrounding it. Roland Murphy [CATHOLIC CRITICAL], *Proverbs* (Word Biblical Commentary 22, Thomas Nelson, 1998), confirms the practical-trust orientation of the passage.
+
+**What is overstated: the verse's scope within the Proverbial framework.** The entry says "not an epistemological claim about biblical criticism" — that specific application is correct. But the word translated "understanding" is Hebrew *binatekha* (בִּינָתֶ֥ךָ) — a major positive cognitive faculty (insight, intellectual discernment) that Proverbs treats as a significant virtue throughout. Bruce Waltke [CONSERVATIVE-EVANGELICAL], *The Book of Proverbs, Chapters 1-15* (NICOT, Eerdmans, 2004), calls 3:5's negative construction on *binah* "exceptional" and explicitly frames the verse as the book's statement of its epistemological orientation: "The sages' epistemology resolves itself to trust in the Lord and to love Him." "Personal humility in life decisions" understates this: the verse is about the proper grounding of all human cognition within the Proverbial worldview. That is an epistemological claim — just not one about historical-critical method.
+
+**What is missing: the strongest traditional counter.** Waltke and Tremper Longman [CONSERVATIVE-EVANGELICAL], *Proverbs* (Baker Commentary on the Old Testament Wisdom and Psalms, Baker Academic, 2006) and *The Fear of the Lord Is Wisdom* (Baker Academic, 2017), document the position that should be named: the "fear of the Lord" is the epistemological foundation from which genuine inquiry is conducted, not its replacement. Proverbs is itself a highly intellectual book — full of observation, reasoning, and instruction. The documented evangelical response to the entry's critique is not to defend silencing critics — a careful conservative scholar would agree that use is a misapplication — but to argue the verse is about the proper *orientation* of inquiry, not its elimination. That counter is stronger than what the entry implies and should be stated rather than left implicit.
+
+**The self-defeating argument is ⟨INFERENCE⟩.** The pragmatic self-refutation argument — that every reading of this verse already uses the reader's own understanding — is logically sound. But no named scholar was found applying it specifically to Proverbs 3:5. It is this corpus's own reasoning, not documented scholarship. Alvin Plantinga [REFORMED EPISTEMOLOGY], *Warranted Christian Belief* (Oxford University Press, 2000), addresses the proper grounding of religious belief through "properly basic" belief and the *sensus divinitatis* — adjacent territory — but does not engage with this verse, and the connection is ⟨INFERENCE⟩. The argument should be kept but marked.
+
+**CORRECTED:** *In its own context, Proverbs 3:5 is not about historical-critical method — using it to silence biblical criticism has no textual basis, and the surrounding structural units confirm the practical-trust orientation (Fox: 3:5-10 as "Piety," 3:11-12 as "Discipline"). What was understated: the verse IS making an epistemological claim within the Proverbial worldview — human cognitive faculty (*binatekha*) must be oriented under trust in God rather than self-sufficiency to constitute genuine insight (Waltke). The strongest traditional counter, documented in Waltke and Longman, is not "trust God in personal decisions" but "the verse is about proper orientation of inquiry; Proverbs is itself intellectual literature, and using 3:5 to stop thinking is a misapplication sophisticated conservatives would reject." The self-defeating argument is sound but must be marked* ⟨INFERENCE⟩ — *no named scholar applies it to this verse specifically.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the popular anti-intellectual use of this verse is so obviously a misapplication that "it's about practical trust, not epistemology" reads as a complete rebuttal. It only refutes the naive version. The verse does have epistemological content within its own framework — it concerns the proper orientation of cognition, not a verdict on biblical scholarship. The strongest evangelical response agrees the anti-intellectual use is wrong, but for different reasons, and that version is both more accurate to the text and harder to dismiss.
+
+---
+
 ## 12.10 Amos 5:21-24
 
 **Commonly used for: **Social justice preaching — MLK quoted verse 24 at the March on Washington.
