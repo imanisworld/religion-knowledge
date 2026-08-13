@@ -1362,6 +1362,34 @@ James Luther Mays, *Micah: A Commentary* (Old Testament Library, Westminster, 19
 
 ---
 
+## 12.15 How Is Atonement Possible Without Jesus?
+
+**Commonly used for:** "You cannot be forgiven without Jesus / without the cross / without blood sacrifice." The claim assumes that atonement and forgiveness, as the Hebrew Bible itself depicts them, required the crucifixion to be possible at all.
+
+**What the Hebrew Bible actually presents:**
+
+*Repentance alone.* Ezekiel 18:21-23 — if the wicked "turn from all their sins that they have committed and keep all my statutes and do what is lawful and right, they shall surely live; they shall not die." No mechanism specified beyond the turning.
+
+*Confession without sacrifice.* 2 Samuel 12:13 — David says to Nathan, "I have sinned against the LORD." Nathan's response: "The LORD has put away your sin; you shall not die." No offering. No temple. No priest performing atonement. The confession and the forgiveness are immediate and in direct sequence.
+
+*Contrition explicitly preferred over sacrifice.* Psalm 51:16-17 — "You have no delight in sacrifice; if I were to give a burnt offering, you would not be pleased. The sacrifice acceptable to God is a broken spirit; a broken and contrite heart, O God, you will not despise."
+
+*Mercy over sacrifice.* Hosea 6:6 — "I desire steadfast love and not sacrifice, the knowledge of God rather than burnt offerings."
+
+*Repentance with no offering at all — and a Gentile city.* Jonah 3 — the people of Nineveh, outside any Israelite covenant, repent and fast. God "changed his mind about the calamity that he had said he would bring upon them." No sacrifice. No blood. No temple. No priest. No prior covenant membership.
+
+*Non-blood sin offering.* Leviticus 5:11-13 — if a person cannot afford a lamb or two doves, "they shall bring as their offering for the sin that they have committed one-tenth of an ephah of choice flour as a sin offering." The priest performs atonement: "and the priest shall make atonement on their behalf for whichever of these sins they have committed, and they shall be forgiven." Flour as an atoning offering, explicitly.
+
+*Incense as atonement.* Numbers 16:46-48 — Aaron runs with his censer into a plague-struck congregation; "he put on the incense, and made atonement for the people." The plague stops. No blood sacrifice involved.
+
+**The standard proof-text and what it actually says:** Hebrews 9:22 — "Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins." Two points. First, the text itself says *almost* everything — "almost" is the word the proof-text characteristically drops. Second, Hebrews is a later Christian argument that interprets the Torah's sacrificial system through a Christ-typology. The argument's conclusion (blood sacrifice finds its fulfillment in the crucifixion) cannot also serve as the premise establishing what the Torah says about its own forgiveness mechanisms. Hebrews tells you what a first-century Christian made of Israel's system; it does not tell you that the system described repentance, confession, and flour offerings as ineffective — the Torah does not say that.
+
+**The counter the question opens:** ⟨INFERENCE⟩ If God immediately forgave David on confession alone (2 Samuel 12:13), if God accepted Nineveh's repentance without any sacrificial mechanism (Jonah 3), if Ezekiel says turning from sin produces life without specifying any further requirement (Ezekiel 18:21-23) — and all of this occurred before the crucifixion — then atonement was operating without it. The sharper question the claim about Jesus opens is not "how is forgiveness possible without Jesus?" but the reverse: if God was forgiving repentant persons before the crucifixion, what was the crucifixion's necessity for those subsequent cases? That is the theological problem the question opens, not closes.
+
+**Reference:** Ezekiel 18:21-23; 2 Samuel 12:13; Psalm 51:16-17; Hosea 6:6; Jonah 3:1-10; Leviticus 5:11-13; Numbers 16:46-48; Hebrews 9:22.
+
+---
+
 # 13. THE TRINITY — WHAT THE DOCTRINE IS AND WHERE IT COMES FROM
 
 **First fact: **The word "Trinity" never appears in the Bible. The doctrine is a post-biblical theological construct formalized at the Council of Nicaea in 325 CE — nearly 300 years after Jesus died — not something stated anywhere in scripture. This is standard history, not a fringe claim.
@@ -2308,3 +2336,83 @@ The "God wants you free" line usually arrives as a conversational explanation fo
 3. **The Euthyphro Dilemma is 2,400 years old and has no clean exit.** "God is good" is either a tautology (Horn 1) or it limits God's supremacy (Horn 2). Aquinas's escape is a more elegant restatement of Horn 1. If the person you're talking to says "God defines goodness by his nature," they have conceded the tautology.
 
 4. **The omni-attribute package the free-will argument is defending was not assembled by the text.** The text makes the underlying claims; philosophy assembled them into a formal package; the package is logically incoherent; the text never noticed. "God never claimed to be omnipotent in those words" is not an exit — Job 42:2 says "I know that you can do all things." The claim is there.
+
+## 22.8 God's Commands vs. God's Own Actions
+
+§22.5 covers the Euthyphro dilemma in abstract: either "good" is whatever God wills (a tautology) or God is subject to an independent standard (God is not supreme). The abstract version becomes most difficult when specific biblical teaching is placed alongside specific biblical narrative.
+
+**The structural problem.** Four standard Christian premises in sequence produce a closed loop.
+
+1. God never changes (Malachi 3:6; Hebrews 13:8).
+2. God's character is the definition of goodness (Psalm 34:8; Mark 10:18 — "No one is good but God alone").
+3. God gives humans moral rules that reflect that goodness.
+4. God then acts in ways that appear to violate those rules.
+
+If goodness is defined by God's character, and God's character produces the moral rules, and God then acts contrary to those rules, the claim "God is good" requires explaining why those actions are good. The two available explanations are: (a) the rules don't constrain God in the same way they constrain humans, or (b) the actions only look like violations but aren't. Both have costs that are worth naming.
+
+**Cases where God's stated rules and God's recorded actions conflict:**
+
+*Do not murder.* Exodus 20:13 is better rendered "do not murder" — unlawful killing, not all killing. But the distinction strains under load. God kills directly: the Flood destroys all land life outside the ark (Genesis 6-8). The firstborn of Egypt die for Pharaoh's decision (Exodus 12). God commands "utterly destroy" the Amalekites, naming "man and woman, child and infant, ox and sheep, camel and donkey" (1 Samuel 15:3). The conquest narratives in Joshua describe commanded exterminations of populations.
+
+*Children do not bear their parents' sins.* Deuteronomy 24:16 and Ezekiel 18:20 are explicit: "A child shall not suffer for the iniquity of a parent." Egypt's firstborn die for Pharaoh's refusal (Exodus 12). David's infant son dies as the consequence of David's sin with Bathsheba (2 Samuel 12:14-18). Exodus 20:5 speaks of God "visiting the iniquity of the parents upon the children to the third and fourth generation."
+
+*Protect the innocent.* 1 Samuel 15:3 explicitly names infants and nursing babies among those God commands destroyed. Numbers 31:17 orders the killing of male children and non-virgin women after the Midianite war.
+
+*Do not deceive.* False witness is condemned (Exodus 20:16; Proverbs 12:17). Yet 1 Kings 22:19-23 depicts God permitting a lying spirit to enter Ahab's prophets and deceive him — described in God's council. 2 Thessalonians 2:11 states God "sends them a powerful delusion, leading them to believe what is false" to those who reject the truth.
+
+*Pharaoh's hardening.* The text states explicitly that God hardens Pharaoh's heart (Exodus 4:21; 7:3; 9:12; 10:1; 10:20; 10:27; 11:10) — contributing to the very resistance for which Egypt is then punished. Paul engages this directly in Romans 9 without producing a resolution that satisfies the justice problem; he falls back on the creator's unquestionable right to make vessels for destruction.
+
+*Love your enemies.* Matthew 5:44 — "Love your enemies and pray for those who persecute you." Large portions of the Hebrew Bible, issued under divine command, describe enemy populations exterminated rather than loved. The Psalms record prayers for enemy destruction with no recorded divine correction of the prayer.
+
+*Human sacrifice is condemned.* Deuteronomy 12:31; Leviticus 18:21. Yet Genesis 22 opens with God commanding Abraham to sacrifice Isaac, with no indication until verse 12 that the command was not meant as issued. Jephthah's vow results in his daughter's death (Judges 11:29-40); the text records no divine intervention.
+
+**The theological response, and what it actually requires.**
+
+The standard response is that God, as creator and judge, has a different moral status from humans. Humans cannot authorize killing because they have no sovereignty over life. God, as the source and owner of life, does. This response is internally coherent on its own terms. Paul Copan [CONSERVATIVE-EVANGELICAL], *Is God a Moral Monster? Making Sense of the Old Testament God* (Baker Books, 2011), is the most sustained development of this position — arguing that the actions only look like violations of human-applicable rules because we are applying those rules to the wrong subject, and that God's commands to Israel operated within ancient Near Eastern covenantal contexts that do not straightforwardly translate into modern moral intuitions.
+
+⟨INFERENCE⟩ But notice what the response requires: if an action's moral character depends on who performs it rather than what the action is, the action itself no longer tells you what goodness means. The identity of the actor becomes the determining variable, not the nature of the act. If killing an infant is wrong when a human does it and perfectly good when God orders it — not because of anything structurally different about the killing, but because of who orders it — then we cannot read God's character from the character of the actions. The move that defends the theology severs the connection between observable behavior and moral inference.
+
+⟨INFERENCE⟩ This produces the unfalsifiability problem directly. If "God is good" is a necessary truth about God's nature (the Aquinas move described at §22.5), and whatever God does expresses that necessarily-good nature, then there is almost no conceivable divine behavior the framework could count as evidence against God's goodness. The standard of goodness has been defined in a way that insulates it from the very evidence that would normally bear on it. "God is good" then carries near-zero empirical content: it describes what God necessarily is, not something that could in principle have been otherwise.
+
+**Reference:** Malachi 3:6; Hebrews 13:8; Psalm 34:8; Mark 10:18; Exodus 20:13, 20:16; Genesis 6-8, 22; Exodus 4:21, 7:3, 9:12, 12; Deuteronomy 24:16; Ezekiel 18:20; 1 Samuel 15:3; 2 Samuel 12:14-18; Numbers 31:17; 1 Kings 22:19-23; 2 Thessalonians 2:11; Matthew 5:44; Judges 11:29-40; Deuteronomy 12:31; Leviticus 18:21; Romans 9.
+
+**Sources:**
+
+•  Copan, Paul. *Is God a Moral Monster? Making Sense of the Old Testament God*. Baker Books, 2011.
+
+•  Adams, Robert Merrihew. "A Modified Divine Command Theory of Ethical Wrongness." In Gene Outka and John P. Reeder Jr., eds., *Religion and Morality*. Anchor Books, 1973, pp. 318–347.
+
+•  Rachels, James. *The Elements of Moral Philosophy*. McGraw-Hill, 1986. (Chapter 4, "Does Morality Depend on Religion?" — uses the Euthyphro problem to examine "God is good.")
+
+•  Alston, William P. "Some Suggestions for Divine Command Theorists." In Michael Beaty, ed., *Christian Theism and the Problems of Philosophy*. University of Notre Dame Press, 1990, pp. 303–326.
+
+## 22.9 The Law-Keeping Problem
+
+⟨DOCUMENTED⟩ "God gave humans laws they were constitutionally incapable of keeping" is a later Christian theological claim, not what the Torah itself asserts about its own legislation.
+
+Deuteronomy 30:11-14 states the position directly: "Surely, this commandment that I am commanding you today is not too hard for you, nor is it too far away... No, the word is very near to you; it is in your mouth and in your heart for you to observe." The Hebrew Bible's governing framework assumes people can obey, have disobeyed, can repent, and can return to obedience. That assumption — not inevitable systemic failure — drives the prophetic corpus: Amos, Isaiah, Jeremiah, and Ezekiel call Israel back to obedience as something possible, not as a demonstration of incapacity.
+
+⟨DOCUMENTED⟩ The Torah also anticipates failure — and builds repair mechanisms in. The sacrificial system, the Day of Atonement, the procedures for accidental wrongdoing, the institution of repentance and confession: these are not workarounds for a system that wasn't supposed to need them; they are provisions designed into the system. "Keeping the Law" in the Torah's own terms means operating within the covenant's provisions for when you fail, not achieving sinless perfection. E.P. Sanders [CRITICAL], *Paul and Palestinian Judaism* (Fortress Press, 1977), establishes this as the pattern of Second Temple Judaism: "getting in by grace, staying in by obedience" — entered by divine election, maintained by obedience, restored after failure by the repentance and atonement mechanisms the Torah itself provides. The caricature of "works-based Judaism" where every sin permanently condemns without the cross is not a description Sanders finds in the primary texts.
+
+**People described as blameless or righteous under the Law by the text's own narration:**
+
+*Zechariah and Elizabeth.* Luke 1:6 — "Both of them were righteous before God, living blamelessly according to all the commandments and regulations of the Lord." This is the narrator of Luke's Gospel introducing these characters, not a character's self-assessment.
+
+*Paul's own pre-conversion account.* Philippians 3:6 — "as to righteousness under the law, blameless." Paul looking back on his life as a Pharisee. The standard Christian gloss is that Paul means external observance, not interior righteousness — but that qualification is not in the text.
+
+*Josiah.* 2 Kings 23:25 — "Before him there was no king like him, who turned to the LORD with all his heart, with all his soul, and with all his might, according to all the law of Moses; nor did any like him arise after him."
+
+*Noah.* Genesis 6:9 — "Noah was a righteous man, blameless in his generation." Outside the Mosaic context, but within the text's consistent pattern of describing individual human righteousness as achievable.
+
+*Job.* Job 1:1 — "blameless and upright, one who feared God and turned away from evil." Confirmed by the narrator; not self-assessment.
+
+⟨DOCUMENTED⟩ Later, especially in Paul, the Law acquires a different theological function. Romans 3:20 — "through the law comes the knowledge of sin." Galatians 3:24 — "the law was our guardian until Christ came, so that we might be justified by faith." The Law, on Paul's reading, exposes transgression, demonstrates the need for grace, and serves as a temporary custodian pointing forward to Christ. This is a real theological position. It is also Paul's interpretation of the Law, constructed in light of his post-Damascus understanding — it is not what Deuteronomy says the Law is for. Deuteronomy says the Law is near and achievable. Paul says it was given to demonstrate that it isn't.
+
+⟨INFERENCE⟩ The tension is genuine and has no clean exit within the canonical text itself. If the Law was designed to expose an incapacity humans already had, three difficulties follow. First: Deuteronomy's explicit instruction that the commandment is "not too hard" and "very near" reads as something other than a setup for a demonstration of failure — it reads as an honest claim about human capacity. Second: people the text itself describes as blameless under the covenant (Luke 1:6; Philippians 3:6; 2 Kings 23:25) undermine the premise that constitutional inability was built in from the start. Third: if the demonstration required it, an omnipotent God could have established the point about human limitation without the historical sequence of punishment, exile, sacrifice, and death that running the experiment actually involved. The framework in which the Law was given for the purpose of demonstrating failure requires accepting that all of that was pedagogically necessary — which is not itself a claim the text makes.
+
+**Reading and conversation note:** When someone says "God intentionally made laws nobody could possibly keep," the response grounded in the text is: Deuteronomy says the commandments are achievable and near. The Torah builds repair mechanisms into the system because failure was anticipated, not because failure was constitutional. The New Testament itself introduces characters as blameless under the Law. The "nobody could keep it" claim is a reading derived from Paul and developed in Christian theology; it is not what the Hebrew Bible says about its own laws, and the New Testament provides evidence against it even within the Christian canon.
+
+**Reference:** Deuteronomy 30:11-14; Luke 1:6; Philippians 3:6; 2 Kings 23:25; Genesis 6:9; Job 1:1; Romans 3:20; Galatians 3:24; Joshua 24.
+
+**Sources:**
+- Sanders, E.P. *Paul and Palestinian Judaism: A Comparison of Patterns of Religion*. Fortress Press, 1977.
