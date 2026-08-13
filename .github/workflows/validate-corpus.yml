@@ -48,7 +48,7 @@ jobs:
         run: npm run build:readers -- --output .
 
       - name: Verify committed readers match Markdown
-        run: git diff --exit-code -- master-notes.html field-guide.html history.html sources.html other-side.html translations.html method-reference.html glossary.html cited-persons.html
+        run: git diff --exit-code -- master-notes.html field-guide.html history.html sources.html other-side.html translations.html method-reference.html glossary.html
 
       - name: Verify Markdown and reader structure are in sync
         run: npm run validate:reader-sync

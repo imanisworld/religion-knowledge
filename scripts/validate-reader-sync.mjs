@@ -9,7 +9,13 @@ const DOCUMENTS = [
   ['Translations.md', 'translations.html', 'Translations'],
   ['Method_and_Reference.md', 'method-reference.html', 'Method & Reference'],
   ['Glossary.md', 'glossary.html', 'Glossary'],
-  ['Cited_Persons.md', 'cited-persons.html', 'Cited Persons'],
+];
+
+// cited-persons.html is hand-maintained; Cited_Persons.md is a working draft
+// under review. They are intentionally not held in sync, so the HTML gets
+// structural checks only (duplicate ids, link targets) — no Markdown pairing.
+const STANDALONE_READERS = [
+  ['cited-persons.html', 'Cited Persons'],
 ];
 
 const SWITCHER_LABELS = [
@@ -118,28 +124,6 @@ for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
     failures.push(`${htmlFile}: reader switcher must have exactly one active entry`);
   }
 
-  if (htmlFile === 'cited-persons.html') {
-    const markdownEntries = [...markdown.matchAll(/^⟨(DOCUMENTED|UNRESOLVED)⟩\s+\*\*([\s\S]*?)\*\*/gm)]
-      .map((match) => ({ status: match[1], name: plain(match[2]) }));
-    const readerEntries = [...html.matchAll(/<p id="(person-[^"]+)"[^>]*>\s*<span class="mark (doc|unresolved)">(?:DOCUMENTED|UNRESOLVED)<\/span>\s*<strong>([\s\S]*?)<\/strong>/g)]
-      .map((match) => ({ id: match[1], status: match[2] === 'doc' ? 'DOCUMENTED' : 'UNRESOLVED', name: plain(match[3]) }));
-    compare('Cited Persons names', markdownEntries.map((entry) => entry.name), readerEntries.map((entry) => entry.name), failures);
-    compare('Cited Persons statuses', markdownEntries.map((entry) => `${entry.status}:${entry.name}`), readerEntries.map((entry) => `${entry.status}:${entry.name}`), failures);
-
-    const control = markdown.match(/Complete named-entry pass:\s*(\d+) documented,\s*(\d+) unresolved;\s*0 entries not yet audited\s*\((\d+) named entries total\)/i);
-    if (!control) {
-      failures.push('Cited_Persons.md: missing parseable complete-pass control status');
-    } else {
-      const [, documented, unresolved, total] = control.map(Number);
-      const actualDocumented = markdownEntries.filter((entry) => entry.status === 'DOCUMENTED').length;
-      const actualUnresolved = markdownEntries.filter((entry) => entry.status === 'UNRESOLVED').length;
-      if (documented !== actualDocumented || unresolved !== actualUnresolved || total !== markdownEntries.length) {
-        failures.push(`Cited_Persons.md: control totals ${documented}/${unresolved}/${total} do not match entries ${actualDocumented}/${actualUnresolved}/${markdownEntries.length}`);
-      }
-      if (readerEntries.length !== total) failures.push(`cited-persons.html: expected ${total} person anchors, found ${readerEntries.length}`);
-    }
-  }
-
   for (const href of [...html.matchAll(/href="([^"]+)"/g)].map((match) => match[1])) {
     if (href.includes('+letter+')) continue;
     if (/^(?:https?:|mailto:|javascript:|app\/|#?$)/.test(href)) continue;
@@ -155,6 +139,32 @@ for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   }
 
   summaries.push({ markdown: markdownFile, reader: htmlFile, audits: markdownAudits.length });
+}
+
+for (const [htmlFile, expectedTitle] of STANDALONE_READERS) {
+  const html = fs.readFileSync(htmlFile, 'utf8');
+  const allIds = [...html.matchAll(/\bid=["']([^"']+)["']/g)].map((match) => match[1]);
+  const duplicateIds = [...new Set(allIds.filter((id, index) => allIds.indexOf(id) !== index))];
+  if (duplicateIds.length) failures.push(`${htmlFile}: duplicate ids: ${duplicateIds.join(', ')}`);
+
+  const actualTitle = plain(html.match(/<title>([\s\S]*?)<\/title>/i)?.[1] || '');
+  if (actualTitle !== expectedTitle) failures.push(`${htmlFile}: expected title "${expectedTitle}", found "${actualTitle}"`);
+
+  for (const href of [...html.matchAll(/href="([^"]+)"/g)].map((match) => match[1])) {
+    if (href.includes('+letter+')) continue;
+    if (/^(?:https?:|mailto:|javascript:|app\/|#?$)/.test(href)) continue;
+    const [targetPath, fragment] = href.split('#');
+    const targetFile = targetPath || htmlFile;
+    if (!fs.existsSync(targetFile)) {
+      failures.push(`${htmlFile}: local link target is missing: ${href}`);
+      continue;
+    }
+    if (fragment && !idsFor(targetFile).has(decodeURIComponent(fragment))) {
+      failures.push(`${htmlFile}: local fragment is missing: ${href}`);
+    }
+  }
+
+  summaries.push({ reader: htmlFile, standalone: true });
 }
 
 if (failures.length) {
