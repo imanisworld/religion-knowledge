@@ -91,10 +91,10 @@ function classifyRecordType(text, headingPath, inAudit) {
   return inAudit ? 'AUDIT_NOTE' : 'OBSERVATION';
 }
 
-function stableId(sourceFile, sectionPath, ordinal, rawText) {
+function legacyIdentity(value) {
   // Keep identifiers stable across the reader-facing Study Notes rename. The
   // legacy title remains part of the hash seed only; it is never displayed.
-  const legacyIdentity = (value) => value
+  return value
     .replace(/\bThe Strongest Case\b/g, 'The Other Side')
     .replace(/\bStudy Notes\b/g, 'Master Notes')
     .replace(/\bObservations\b/g, 'Field Guide')
@@ -145,6 +145,18 @@ function stableId(sourceFile, sectionPath, ordinal, rawText) {
     .replace(/Why this assessment holds — questions for conversation:/g, 'Why this critique holds up — and what to say:')
     .replace(/Clarifying question:/g, 'Soft:')
     .replace(/Direct question:/g, 'Sharp:');
+}
+
+export function recordIdentityKey(sourceFile, sectionPath, rawText) {
+  const identitySection = sectionPath.filter(Boolean).map(legacyIdentity).join(' > ');
+  return `${sourceFile}\u0000${identitySection}\u0000${legacyIdentity(rawText)}`;
+}
+
+function stableId(sourceFile, sectionPath, ordinal, rawText, existingIds) {
+  const identityKey = recordIdentityKey(sourceFile, sectionPath, rawText);
+  const preserved = existingIds?.get(identityKey);
+  if (preserved?.length) return preserved.shift();
+
   const identitySection = sectionPath.filter(Boolean).map(legacyIdentity).join(' > ');
   const input = `${sourceFile}\u0000${identitySection}\u0000${ordinal}\u0000${legacyIdentity(rawText)}`;
   return `rk_${crypto.createHash('sha256').update(input).digest('hex').slice(0, 20)}`;
@@ -270,7 +282,7 @@ function documentDefaultInfo(sourceFile, headingPath, text) {
   return null;
 }
 
-export function parseMarkdown({ sourceFile, content }) {
+export function parseMarkdown({ sourceFile, content, existingIds = null }) {
   if (!sourceFile || typeof sourceFile !== 'string') throw new TypeError('sourceFile is required');
   if (typeof content !== 'string') throw new TypeError('content must be a string');
 
@@ -332,7 +344,7 @@ export function parseMarkdown({ sourceFile, content }) {
       attribution = { ...attribution, provenance_type: PROVENANCE.MY_POSITION };
     }
 
-    const id = stableId(sourceFile, headingPath, ordinal, rawText);
+    const id = stableId(sourceFile, headingPath, ordinal, rawText, existingIds);
     const record = {
       id,
       text,

@@ -109,7 +109,7 @@ const RELATED_BY_DOC = {
     ],
     's1-5': [
       [['§4 how it plays out on gender', '#s4'],
-       ['⚑ Leviticus 18:22 audit', '#a-leviticus-1822-2013-worked-in-session'],
+       ['⚑ Leviticus 18:22 audit', '#a-leviticus-18-22-20-13-worked-in-session'],
        ['§2 translation as a sorting tool', '#s2']],
     ],
     's1-8': [
@@ -125,7 +125,7 @@ const RELATED_BY_DOC = {
       [['Study §2 translation issues', 'master-notes.html#s2'],
        ['Observations §2.3 the Bible as God\'s word', 'field-guide.html#s2-3']],
       [['§1.5 selective law-keeping', '#s1-5'],
-       ['⚑ Leviticus 18:22 audit', '#a-leviticus-1822-2013-worked-in-session'],
+       ['⚑ Leviticus 18:22 audit', '#a-leviticus-18-22-20-13-worked-in-session'],
        ['Observations §15 God and women', 'field-guide.html#s15']],
     ],
     's5-1': [
@@ -161,7 +161,7 @@ const RELATED_BY_DOC = {
        ['§9.4 conversion accounts', '#s9-4']],
     ],
     's11': [
-      [['Observations §8 same method, field-side', 'field-guide.html#s8']],
+      [['Method §1 corpus audit method', 'method-reference.html#s1']],
     ],
   },
 };
@@ -288,6 +288,36 @@ audit sections onward is marked.</p>`,
     hasHowto:  false,
     chapterMarkers: false,
   },
+  {
+    md:       'Glossary.md',
+    html:     'glossary.html',
+    title:    'Glossary',
+    doctitle: 'Glossary',
+    docsub:   'Technical terms, in plain English',
+    lens:     'Every Technical Term, in Plain English',
+    masthead: 'Glossary',
+    meta:     '<span><b>Updated</b>August 2026</span><span><b>Companion</b><a href="method-reference.html">Method &amp; Reference</a></span>',
+    hasAudits: false,
+    hasHowto:  false,
+    chapterMarkers: false,
+  },
+  {
+    md:       'Cited_Persons.md',
+    html:     'cited-persons.html',
+    title:    'Cited Persons',
+    doctitle: 'Cited Persons',
+    docsub:   'Who they are + where they stand',
+    lens:     'Source Orientation and Citation Control',
+    masthead: 'Cited Persons',
+    meta:     '<span><b>Updated</b>12 August 2026</span><span><b>Scope</b>Orientation index; excluded from app dataset</span>',
+    hasAudits: false,
+    hasHowto:  true,
+    howto:     '<p><strong>Purpose.</strong> Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable.</p><p><strong>Control status — 12 August 2026.</strong> This is a working orientation index, not an audited authority file. <strong>Complete named-entry pass: 165 documented, 200 unresolved; 0 entries not yet audited (365 named entries total).</strong> The index remains intentionally excluded from the eight-source app dataset. A <code>CHECKED</code> label means the wording is supported by linked evidence; <code>UNRESOLVED</code> means the claim must not be quoted as established. Corrections are made openly.</p>',
+    chapterMarkers: false,
+    alphaSections: true,
+    stripPreamble: true,
+    personIndex: true,
+  },
 ];
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
@@ -299,6 +329,45 @@ function slugify(text) {
     .trim()
     .replace(/\s+/g, '-')
     .replace(/-+/g, '-');
+}
+
+function normalizePersonName(text) {
+  return text
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&quot;/g, '"')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&#(\d+);/g, (_, code) => String.fromCodePoint(Number(code)))
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function readStablePersonIds(htmlPath) {
+  const ids = new Map();
+  if (!fs.existsSync(htmlPath)) return ids;
+  const html = fs.readFileSync(htmlPath, 'utf8');
+  const entryRe = /<p id="([^"]+)"[^>]*>[\s\S]*?<strong>([^<]+)<\/strong>/g;
+  for (const match of html.matchAll(entryRe)) {
+    ids.set(normalizePersonName(match[2]), match[1]);
+  }
+  // This public anchor predates the deterministic builder. Keep it stable even
+  // though HTML entity encoding previously made the apostrophe look like a rename.
+  ids.set("O'Neill, Tim", 'person-oneill-tim');
+  return ids;
+}
+
+function addPersonAnchors(html, stableIds) {
+  const entryRe = /<p>(\s*<span class="mark (?:doc|unresolved)">(?:DOCUMENTED|UNRESOLVED)<\/span>\s*<strong>([^<]+)<\/strong>)/g;
+  return html.replace(entryRe, (match, start, rawName) => {
+    const name = normalizePersonName(rawName);
+    const id = stableIds.get(name) || `person-${slugify(name)}`;
+    if (stableIds.has(name) && stableIds.get(name) !== id) {
+      throw new Error(`Conflicting stable person anchor for ${name}`);
+    }
+    stableIds.set(name, id);
+    return `<p id="${id}">${start}`;
+  });
 }
 
 function numToId(num) {
@@ -361,6 +430,7 @@ function postProcessInline(html) {
   // Attribution markers
   html = html
     .replace(/⟨DOCUMENTED⟩/g, '<span class="mark doc">DOCUMENTED</span>')
+    .replace(/⟨UNRESOLVED⟩/g, '<span class="mark unresolved">UNRESOLVED</span>')
     .replace(/⟨INFERENCE⟩/g, '<span class="mark inf">INFERENCE</span>')
     .replace(/⟨YOURS⟩/g, '<span class="mark you">YOURS</span>');
 
@@ -373,11 +443,10 @@ function postProcessInline(html) {
     return `<span class="camp">${inner}</span>`;
   });
 
-  // §N.M.P cross-reference links (don't double-wrap existing xref hrefs)
-  html = html.replace(/(?<!href="#)§([\d]+(?:\.[\d]+(?:\.[\d]+)?)?)/g, (match, num) => {
-    const id = numToId(num);
-    return `<a class="xref" href="#${id}">§${num}</a>`;
-  });
+  // Plain § references are intentionally left as text. A section number alone
+  // does not say which reader owns the target, so inferring a same-document
+  // href creates broken or misleading links. Explicit Markdown and RELATED_BY_DOC
+  // links remain clickable and are checked by validate-reader-sync.mjs.
 
   return html;
 }
@@ -588,7 +657,10 @@ function parseDocument(src, doc) {
 
       if (doc.chapterMarkers) {
         // Field Guide chapter markers → h1, not in TOC
-        const chapterId = slugify(text.replace(/^\d+\.\s+/, ''));
+        const chapterNum = text.match(/^([\d]+(?:\.[\d]+)*)\.\s+/)?.[1];
+        const chapterId = chapterNum
+          ? numToId(chapterNum)
+          : slugify(text.replace(/^\d+\.\s+/, ''));
         if (currentSection) sections.push(currentSection);
         currentSection = null;
         sections.push({ type: 'chapter', text, id: chapterId });
@@ -618,7 +690,9 @@ function parseDocument(src, doc) {
         openSection({ id: sid, hid, num, text: rest, tag: htmlTag });
       } else {
         // No number — text slug, TOC entry without num span
-        const hid = slugify(text);
+        const hid = doc.alphaSections && /^[A-Z]$/.test(text)
+          ? `s${text}`
+          : slugify(text);
         toc.push({ lvl: 'lvl2', text, href: '#' + hid });
         openSection({ id: 'sec-' + hid, hid, text, tag: 'h2' });
       }
@@ -947,6 +1021,7 @@ a{color:var(--accent);text-underline-offset:2px}
   border-radius:3px;white-space:normal;font-weight:500;font-style:normal;vertical-align:baseline}
 .mark.inf{background:#F6EBD6;color:#7A5510;border:1px solid #E4CFA6}
 .mark.doc{background:#E3F1E9;color:#1F4C38;border:1px solid #C2DFD1}
+.mark.unresolved{background:#FDF4E7;color:#7A5510;border:1px solid #E4CFA6}
 .mark.you{background:#E5E9F6;color:#2E3E73;border:1px solid #C6CEE8}
 .camp{font-family:var(--f-mono);font-size:.66rem;letter-spacing:.05em;background:var(--camp-soft);
   color:var(--camp);padding:.1rem .38rem;border-radius:3px;white-space:nowrap}
@@ -1170,6 +1245,7 @@ function parseArgs(argv) {
 
 const { output } = parseArgs(process.argv.slice(2));
 fs.mkdirSync(output, { recursive: true });
+const stablePersonIds = readStablePersonIds('cited-persons.html');
 
 let built = 0;
 for (const doc of DOCS) {
@@ -1177,11 +1253,17 @@ for (const doc of DOCS) {
     console.warn(`SKIP: ${doc.md} not found`);
     continue;
   }
-  const src = fs.readFileSync(doc.md, 'utf8');
+  let src = fs.readFileSync(doc.md, 'utf8');
+  if (doc.stripPreamble) {
+    src = src.replace(/^[\s\S]*?^---+\s*$/m, '').trimStart();
+  }
   const { toc, sections } = parseDocument(src, doc);
   const tocHtml = buildTocHtml(toc);
   const relatedMap = RELATED_BY_DOC[doc.html] || null;
-  const contentHtml = renderSections(sections, relatedMap);
+  let contentHtml = renderSections(sections, relatedMap);
+  if (doc.personIndex) {
+    contentHtml = addPersonAnchors(contentHtml, stablePersonIds);
+  }
   const pageHtml = buildPage(doc, tocHtml, contentHtml);
   const outPath = path.join(output, doc.html);
   fs.writeFileSync(outPath, pageHtml, 'utf8');

@@ -8,41 +8,30 @@ A long-running critical study of the Bible and religious belief systems, approac
 
 The owner is not a scholar and does not want to be talked down to. Responses should be dense, direct, and free of hedging. Do not soften findings to be agreeable. The single most valuable thing done in this project so far was auditing prior claims and discovering several were wrong.
 
-**Current phase: consolidation.** Do not add major new research sections until the whole-document Markdown-to-reader generator exists in-repo and the Cited Persons verification queue is materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
+**Current phase: consolidation.** The whole-document Markdown-to-reader generator now exists and is CI-gated, but 200 Cited Persons entries remain unresolved. Do not add major new research sections until that verification queue and the control-layer debt are materially reduced. Corrections, source audits, reader synchronization, and control-layer work are allowed.
 
 ## Repo structure
 
 ```
-*.md                 source of truth — edit these
-build.py             generates the HTML site from the .md files
-glossary_data.py     GLOSSARY dict + RELATED_BY_DOC cross-link map
-*.html               GENERATED — never edit by hand, they are overwritten
-index.html           redirect to master-notes.html (hand-written, not generated)
+*.md                          source of truth — edit these
+scripts/build-readers.mjs     generates all nine reader HTML files
+scripts/build-search-index.mjs generates search-index.json from the readers
+scripts/build-reader-site.mjs builds the deployable site
+*.html                        GENERATED — never edit by hand
 ```
 
 ## Build
 
 ```bash
-pip install beautifulsoup4 --break-system-packages
-# pandoc must be installed
-
-for pair in "Bible_Deep_Dive_Master_Notes:master" \
-            "Field_Guide_Conversation_Reference:field" \
-            "Historical_Framework:hist" \
-            "Sources_and_Primary_Texts:src" \
-            "The_Other_Side:other" \
-            "Translations:trans" \
-            "Method_and_Reference:method" \
-            "Glossary:gloss"; do
-  src="${pair%%:*}"; dst="${pair##*:}"
-  pandoc "$src.md" -t html5 -o "${dst}_frag.html"
-done
-python3 build.py
+npm ci
+npm run build:readers -- --output .
+npm run build:search-index
+npm run generate-records
+npm run build:standalone
+npm run build:reader-site
 ```
 
-`build.py` writes to `/mnt/user-data/outputs/` — change those paths to `./` before first use in this repo. That is task 0.
-
-What the build does: numbers and IDs every heading, converts `#### ⚑ AUDIT` blocks into collapsible cards with status badges, linkifies `§X.Y` references, injects glossary tooltips on first use per document, inserts cross-document "Connects to" blocks, and generates the sidebar nav.
+The reader build numbers and IDs headings, converts `#### ⚑ AUDIT` blocks into collapsible cards with status badges, preserves explicit section links, inserts configured cross-document “Connects to” blocks, and generates the sidebar navigation. Bare `§X.Y` text is not auto-linked because a section number alone does not identify its owning reader.
 
 ## Verifying a build
 
@@ -114,15 +103,15 @@ The `WHY IT LOOKED RIGHT` field is the point of the whole exercise. It tracks th
 ### 4. Editing rules
 
 - Edit `.md` only. HTML is generated.
-- Adding a section changes the numbering. `build.py` derives IDs from heading numbers (`## 3.2 Foo` → `id="s3-2"`), so renumbering silently breaks every `§3.2` link. Run the anchor check after any structural edit.
-- New technical terms go in `glossary_data.py`, then regenerate `Glossary.md` from that dict — do not hand-edit the glossary page.
-- Cross-document links live in `RELATED_BY_DOC` in `build.py`, keyed by output filename.
+- Adding a section changes the numbering. `scripts/build-readers.mjs` derives IDs from heading numbers (`## 3.2 Foo` → `id="s3-2"`), so renumbering can break every `§3.2` link. Run the anchor and reader-sync checks after structural edits.
+- Add technical terms to `Glossary.md`, then regenerate the readers and search index.
+- Cross-document links live in `RELATED_BY_DOC` in `scripts/build-readers.mjs`, keyed by output filename.
 
 ## Outstanding work
 
 ### Task 0 — CLOSED
 
-The original `build.py` and `glossary_data.py` scripts were never committed and are lost. Since the HTML readers were first generated, they have been maintained by direct hand-edit (confirmed in git history). Writing a new build script from scratch would be a significant project with no current benefit — nothing is broken. Decision: declare the HTML readers source files, maintained by direct edit alongside the `.md` files. The `.md` files remain the source of truth for the app data pipeline; the HTML readers are a parallel artifact edited by hand. No build script, no Makefile, no GitHub Action for this pipeline.
+The original `build.py` and `glossary_data.py` scripts were never committed and are lost. They have been replaced by `scripts/build-readers.mjs`, which generates all nine checked-in reader files from the canonical Markdown. CI regenerates the readers and fails on drift. Do not resume direct HTML maintenance.
 
 ### Task 1 — finish the audit queue (the main job)
 
@@ -195,7 +184,7 @@ The original eight `*.html` reader files had a mobile breakpoint at `max-width:1
 - `#here` (section-name chip in the sticky toolbar) hidden at mobile breakpoint — was up to `max-width:20rem` and pushed the toolbar past screen edge.
 - Added `#overlay` backdrop (semi-transparent, z-index:39) that appears behind the sidebar when open; tapping it closes the sidebar. JS updated to toggle overlay on menu button, dismiss it on overlay click, and clear it on TOC link click.
 
-**Important for anyone regenerating the HTML:** if `build.py` is ever wired up and run, it will overwrite these files and lose the mobile fixes. The fixes need to be baked into the build pipeline's CSS template before Task 0 is completed.
+**Important for anyone changing reader presentation:** edit the CSS/HTML templates in `scripts/build-readers.mjs`, not the generated reader files. Mobile fixes must live in the generator or the next build will overwrite them.
 
 `dist/religion-knowledge-standalone.html` is a separate build (generated by `scripts/build-standalone.mjs` from `app/`) and is already mobile-ready — no changes needed. It was designed mobile-first with `@media (min-width: 720px)` and `@media (min-width: 1024px)` breakpoints scaling up, verified at 375px and 390px with zero horizontal overflow (12 Aug 2026).
 
@@ -204,6 +193,6 @@ The original eight `*.html` reader files had a mobile breakpoint at `max-width:1
 
 ## Note on the current in-repo pipeline (added 7 Aug 2026)
 
-The `build.py` / `glossary_data.py` / pandoc pipeline described above is **not committed to this repo**. The nine `*.html` readers are checked-in static representations. CI now runs `npm run validate:reader-sync`, which fails when a checked Markdown audit is missing from its reader or the audit-card/CHECKED counts diverge. `npm run sync:reader-audits` deterministically renders missing Observations audit cards with pandoc. This is a control for the highest-risk correction drift, not a recovered whole-document generator; arbitrary prose and layout still require deliberate mirroring until the original generator is recovered or replaced.
+The replacement reader pipeline is fully committed. `npm run build:readers -- --output .` regenerates all nine reader files from Markdown. CI performs that rebuild, fails on any reader diff, runs `npm run validate:reader-sync`, rebuilds `search-index.json`, and fails on index drift. `npm run sync:reader-audits` remains available for targeted audit-card work but is no longer the only synchronization control.
 
 Separately, the mobile app has a fully committed and CI-enforced pipeline: `scripts/import/parse-markdown.mjs` → `scripts/import/generate-records.mjs` → `data/normalized/generated/records.*.js`, validated by `scripts/import/validate-corpus.mjs`, `scripts/import/validate-app-data.mjs`, `tests/parser.test.mjs`, and `scripts/test-browser.sh` on every PR and direct push to `main`. Its eight-source allowlist intentionally excludes Cited Persons. It recognizes the same `⟨DOCUMENTED⟩` / `⟨INFERENCE⟩` / `⟨YOURS⟩` markers and `#### ⚑ AUDIT` format.

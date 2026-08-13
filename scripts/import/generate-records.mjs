@@ -1,6 +1,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { parseMarkdown, PARSER_VERSION } from './parse-markdown.mjs';
+import vm from 'node:vm';
+import { parseMarkdown, PARSER_VERSION, recordIdentityKey } from './parse-markdown.mjs';
 
 // Field_Guide_Conversation_Reference.md's §13 audit pass (10 Aug 2026) pushed
 // its chunk to ~981KB; bumped with modest headroom rather than trimming
@@ -104,6 +105,28 @@ function writeChunk(outputDir, sourceFile, outputName, records) {
   return { source_file: sourceFile, file: outputName, records: records.length, size_bytes: bytes };
 }
 
+function loadExistingIds(outputDir, outputName, sourceFile) {
+  const outputPath = path.join(outputDir, outputName);
+  if (!fs.existsSync(outputPath)) return null;
+
+  const sandbox = { window: { RELIGION_KNOWLEDGE_RECORDS: [] } };
+  vm.runInNewContext(fs.readFileSync(outputPath, 'utf8'), sandbox, { filename: outputPath });
+  const existing = sandbox.window.RELIGION_KNOWLEDGE_RECORDS;
+  if (!Array.isArray(existing)) return null;
+
+  const ids = new Map();
+  for (const record of existing) {
+    if (record.source_file !== sourceFile || !record.id) continue;
+    const sectionPath = Array.isArray(record.topics)
+      ? record.topics
+      : String(record.source_section || '').split(' > ').filter(Boolean);
+    const key = recordIdentityKey(sourceFile, sectionPath, record.raw_text ?? record.text ?? '');
+    if (!ids.has(key)) ids.set(key, []);
+    ids.get(key).push(record.id);
+  }
+  return ids;
+}
+
 const { outputDir } = parseArgs(process.argv.slice(2));
 const absoluteOutputDir = path.resolve(outputDir);
 fs.mkdirSync(absoluteOutputDir, { recursive: true });
@@ -112,10 +135,11 @@ const allRecords = [];
 const warnings = [];
 const parsedBySource = new Map();
 
-for (const [sourceFile] of CANONICAL_FILES) {
+for (const [sourceFile, outputName] of CANONICAL_FILES) {
   if (!fs.existsSync(sourceFile)) throw new Error(`Canonical source missing: ${sourceFile}`);
   const content = fs.readFileSync(sourceFile, 'utf8');
-  const parsed = parseMarkdown({ sourceFile, content });
+  const existingIds = loadExistingIds(absoluteOutputDir, outputName, sourceFile);
+  const parsed = parseMarkdown({ sourceFile, content, existingIds });
   parsedBySource.set(sourceFile, parsed.records);
   allRecords.push(...parsed.records);
   warnings.push(...parsed.warnings.map((warning) => ({ source_file: sourceFile, ...warning })));

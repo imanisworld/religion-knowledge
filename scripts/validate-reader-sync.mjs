@@ -22,6 +22,7 @@ const SWITCHER_LABELS = [
   'Method & Reference',
   'Glossary',
   'Cited Persons',
+  'Search',
 ];
 
 const decode = (value) => value
@@ -82,6 +83,9 @@ const idsFor = (file) => {
 for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   const markdown = fs.readFileSync(markdownFile, 'utf8');
   const html = fs.readFileSync(htmlFile, 'utf8');
+  const allIds = [...html.matchAll(/\bid=["']([^"']+)["']/g)].map((match) => match[1]);
+  const duplicateIds = [...new Set(allIds.filter((id, index) => allIds.indexOf(id) !== index))];
+  if (duplicateIds.length) failures.push(`${htmlFile}: duplicate ids: ${duplicateIds.join(', ')}`);
 
   const markdownAudits = [...markdown.matchAll(/^####\s+⚑\s*AUDIT(?:\s+ADDENDUM)?\s*[—-]\s*(.+)$/gmi)]
     .map((match) => auditIdentity(match[1]));
@@ -112,6 +116,28 @@ for (const [markdownFile, htmlFile, expectedTitle] of DOCUMENTS) {
   }
   if (switcherLinks.filter((match) => /class="[^"]*\bon\b/.test(match[1])).length !== 1) {
     failures.push(`${htmlFile}: reader switcher must have exactly one active entry`);
+  }
+
+  if (htmlFile === 'cited-persons.html') {
+    const markdownEntries = [...markdown.matchAll(/^⟨(DOCUMENTED|UNRESOLVED)⟩\s+\*\*([\s\S]*?)\*\*/gm)]
+      .map((match) => ({ status: match[1], name: plain(match[2]) }));
+    const readerEntries = [...html.matchAll(/<p id="(person-[^"]+)"[^>]*>\s*<span class="mark (doc|unresolved)">(?:DOCUMENTED|UNRESOLVED)<\/span>\s*<strong>([\s\S]*?)<\/strong>/g)]
+      .map((match) => ({ id: match[1], status: match[2] === 'doc' ? 'DOCUMENTED' : 'UNRESOLVED', name: plain(match[3]) }));
+    compare('Cited Persons names', markdownEntries.map((entry) => entry.name), readerEntries.map((entry) => entry.name), failures);
+    compare('Cited Persons statuses', markdownEntries.map((entry) => `${entry.status}:${entry.name}`), readerEntries.map((entry) => `${entry.status}:${entry.name}`), failures);
+
+    const control = markdown.match(/Complete named-entry pass:\s*(\d+) documented,\s*(\d+) unresolved;\s*0 entries not yet audited\s*\((\d+) named entries total\)/i);
+    if (!control) {
+      failures.push('Cited_Persons.md: missing parseable complete-pass control status');
+    } else {
+      const [, documented, unresolved, total] = control.map(Number);
+      const actualDocumented = markdownEntries.filter((entry) => entry.status === 'DOCUMENTED').length;
+      const actualUnresolved = markdownEntries.filter((entry) => entry.status === 'UNRESOLVED').length;
+      if (documented !== actualDocumented || unresolved !== actualUnresolved || total !== markdownEntries.length) {
+        failures.push(`Cited_Persons.md: control totals ${documented}/${unresolved}/${total} do not match entries ${actualDocumented}/${actualUnresolved}/${markdownEntries.length}`);
+      }
+      if (readerEntries.length !== total) failures.push(`cited-persons.html: expected ${total} person anchors, found ${readerEntries.length}`);
+    }
   }
 
   for (const href of [...html.matchAll(/href="([^"]+)"/g)].map((match) => match[1])) {

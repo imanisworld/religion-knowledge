@@ -25,6 +25,9 @@ jobs:
       - name: Show runtime
         run: node --version
 
+      - name: Install dependencies
+        run: npm ci
+
       - name: Check app JavaScript syntax
         run: |
           node --check app/app.js
@@ -40,6 +43,21 @@ jobs:
 
       - name: Validate committed corpus
         run: node scripts/import/validate-corpus.mjs
+
+      - name: Regenerate reader HTML
+        run: npm run build:readers -- --output .
+
+      - name: Verify committed readers match Markdown
+        run: git diff --exit-code -- master-notes.html field-guide.html history.html sources.html other-side.html translations.html method-reference.html glossary.html cited-persons.html
+
+      - name: Verify Markdown and reader structure are in sync
+        run: npm run validate:reader-sync
+
+      - name: Regenerate cross-document search index
+        run: npm run build:search-index
+
+      - name: Verify committed search index matches readers
+        run: git diff --exit-code -- search-index.json
 
       - name: Regenerate normalized record chunks
         run: npm run generate-records
