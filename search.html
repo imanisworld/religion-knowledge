@@ -282,10 +282,18 @@ function runSearch(raw) {
 
   list.innerHTML = '';
   const cap = 80;
+  const hlParam = (raw && raw.trim()) ? '?hl=' + encodeURIComponent(raw.trim()) : '';
   results.slice(0, cap).forEach((rec, idx) => {
     const snip = getSnippet(rec.text, terms);
+    /* Put ?hl= before the # so the target page can highlight matches */
+    const hashIdx = rec.url.indexOf('#');
+    const destUrl = hlParam
+      ? (hashIdx >= 0
+          ? rec.url.slice(0, hashIdx) + hlParam + rec.url.slice(hashIdx)
+          : rec.url + hlParam)
+      : rec.url;
     const li = document.createElement('li');
-    li.innerHTML = `<a class="rcard" href="${escapeHtml(rec.url)}" data-idx="${idx}">
+    li.innerHTML = `<a class="rcard" href="${escapeHtml(destUrl)}" data-idx="${idx}">
       <div class="rdoc">${escapeHtml(rec.doc)}${rec.flag ? '<span class="flag-chip">&#9873; flagged</span>' : ''}</div>
       <div class="rtitle">${highlightText(rec.title, terms)}</div>
       <div class="rsnip">${highlightText(snip, terms)}</div>

@@ -34,6 +34,10 @@ const DATA_FILES = [
   'data/review/overrides.js',
 ];
 
+const MISC_FILES = [
+  'highlight-referral.js',
+];
+
 const CANONICAL_SOURCES = [
   'Bible_Deep_Dive_Master_Notes.md',
   'Field_Guide_Conversation_Reference.md',
@@ -123,6 +127,7 @@ if (!generatedFiles.length) throw new Error('No generated record files found —
 
 const allFiles = [
   ...READERS.map(([file]) => file),
+  ...MISC_FILES,
   ...APP_FILES,
   ...DATA_FILES,
   ...generatedFiles,
