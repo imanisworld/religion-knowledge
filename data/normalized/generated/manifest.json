@@ -6,9 +6,9 @@
   "review_required": 304,
   "provenance_counts": {
     "REVIEW_REQUIRED": 304,
-    "PRE_CONVENTION": 728,
+    "PRE_CONVENTION": 727,
     "SOURCE": 588,
-    "CLAUDE": 531,
+    "CLAUDE": 532,
     "MY_WORDS": 12,
     "MY_QUESTION": 1
   },
@@ -28,7 +28,7 @@
       "source_file": "Bible_Deep_Dive_Master_Notes.md",
       "file": "records.master.js",
       "records": 669,
-      "size_bytes": 1270759
+      "size_bytes": 1271025
     },
     {
       "source_file": "Field_Guide_Conversation_Reference.md",

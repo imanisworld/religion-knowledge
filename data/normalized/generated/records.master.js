@@ -9299,12 +9299,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c7e6ab078404420cfe26",
-    "text": "Deuteronomy is the text that gives the whole Deuteronomistic History its logic, and de Wette's 1805 identification of it as a Josianic composition remains the mainstream critical position, reinforced by Weinfeld's Neo-Assyrian parallels and by internal evidence (centralization mandate, law of the king, \"to this day\" formulas). Kitchen's Hittite-treaty counter-argument is serious and cannot be dismissed — the structural matching he documents is real — but the conservative position requires believing that 2nd-millennium treaty conventions were preserved in active compositional use for six centuries without surviving textual attestation of that continuity.",
-    "raw_text": "Deuteronomy is the text that gives the whole Deuteronomistic History its logic, and de Wette's 1805 identification of it as a Josianic composition remains the mainstream critical position, reinforced by Weinfeld's Neo-Assyrian parallels and by internal evidence (centralization mandate, law of the king, \"to this day\" formulas). Kitchen's Hittite-treaty counter-argument is serious and cannot be dismissed — the structural matching he documents is real — but the conservative position requires believing that 2nd-millennium treaty conventions were preserved in active compositional use for six centuries without surviving textual attestation of that continuity.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_16a68a0834759d0bca52",
+    "text": "The synthesis used in these notes places Deuteronomy at the center of the Deuteronomistic History and treats a Josianic/exilic compositional model as the strongest current explanation of the internal evidence: the centralization mandate, the law of the king, and later-perspective formulas such as “to this day.” The names commonly attached to that historical reconstruction in this section—de Wette, Weinfeld, Miller, Noth, Cross, and Tigay—are now explicit audit leads, not citation-ready authorities: their exact page-level claims remain UNRESOLVED in the Cited Persons control file. Kitchen’s treaty-form counter belongs in the comparison, but its precise scope also must be argued from directly checked pages rather than from this summary. Do not quote this paragraph as establishing any one scholar’s position.",
+    "raw_text": "⟨INFERENCE⟩ The synthesis used in these notes places Deuteronomy at the center of the Deuteronomistic History and treats a Josianic/exilic compositional model as the strongest current explanation of the internal evidence: the centralization mandate, the law of the king, and later-perspective formulas such as “to this day.” The names commonly attached to that historical reconstruction in this section—de Wette, Weinfeld, Miller, Noth, Cross, and Tigay—are now explicit audit leads, not citation-ready authorities: their exact page-level claims remain `UNRESOLVED` in the Cited Persons control file. Kitchen’s treaty-form counter belongs in the comparison, but its precise scope also must be argued from directly checked pages rather than from this summary. Do not quote this paragraph as establishing any one scholar’s position.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9.6 Deuteronomy — The D Source and the Book of the Law",
@@ -9322,10 +9322,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
