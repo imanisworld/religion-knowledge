@@ -5,7 +5,7 @@
   --panel-2: #F6F8F7;
   --text: #17201D;
   --muted: #4A5551;
-  --subtle: #7A8582;
+  --subtle: #5F6A66;
   --line: #D3D8D4;
   --accent: #1F5E5B;
   --accent-soft: #E3EDEC;
@@ -28,7 +28,7 @@
   --panel-2: #212C28;
   --text: #F2F5F3;
   --muted: #A8B4B0;
-  --subtle: #7F8D88;
+  --subtle: #8A9792;
   --line: #2C3833;
   --accent: #6FBFB5;
   --accent-soft: #1B3330;
@@ -40,6 +40,28 @@
   --mark-inf-bg: #3A2E14; --mark-inf-text: #E8C176; --mark-inf-border: #5C4A22;
   --shadow: 0 14px 40px rgba(0,0,0,.36);
 }
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+  --bg: #10130F;
+  --panel: #17201D;
+  --panel-2: #212C28;
+  --text: #F2F5F3;
+  --muted: #A8B4B0;
+  --subtle: #8A9792;
+  --line: #2C3833;
+  --accent: #6FBFB5;
+  --accent-soft: #1B3330;
+  --danger: #E8A3A3;
+  --warning: #E6B876;
+  --success: #7FCB9E;
+  --mark-you-bg: #232B4A; --mark-you-text: #B7C2EE; --mark-you-border: #33406E;
+  --mark-doc-bg: #17332A; --mark-doc-text: #8FD4AA; --mark-doc-border: #245240;
+  --mark-inf-bg: #3A2E14; --mark-inf-text: #E8C176; --mark-inf-border: #5C4A22;
+  --shadow: 0 14px 40px rgba(0,0,0,.36);
+  }
+}
+
 
 * { box-sizing: border-box; }
 
@@ -441,6 +463,8 @@ button.stat-card:focus-visible { border-color: var(--accent); }
   color: var(--muted);
 }
 .nav-item span { font-size: 1.2rem; line-height: 1; }
+.nav-item span svg, .sheet-item span svg { display: block; width: 19px; height: 19px; }
+.icon-button svg { display: block; width: 20px; height: 20px; }
 .nav-item small { font-size: .66rem; font-weight: 750; }
 .nav-item.active { background: var(--accent-soft); color: var(--accent); }
 

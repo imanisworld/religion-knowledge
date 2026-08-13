@@ -78,7 +78,7 @@ function buildIndexHtml() {
 <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#7A8582;
+  --ground:#EDEFEC; --paper:#FFFFFF; --ink:#17201D; --ink2:#4A5551; --ink3:#5F6A66;
   --rule:#D3D8D4; --accent:#1F5E5B; --accent-soft:#E3EDEC;
   --f-display:"Newsreader",Georgia,serif;
   --f-body:"IBM Plex Sans",system-ui,sans-serif;
@@ -101,11 +101,20 @@ main > p{color:var(--ink2);margin:0 0 2rem;max-width:60ch}
 .card:hover{border-color:var(--accent)}
 .card h2{font-family:var(--f-display);font-size:1.15rem;font-weight:500;margin:0 0 .4rem;color:var(--ink)}
 .card p{margin:0;font-size:.92rem;color:var(--ink3);line-height:1.45}
+
+/* dark mode */
+:root[data-theme=dark]{--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330}
+:root[data-theme=dark] .app-card{background:#17201D;border:1px solid #2C3833}
+@media (prefers-color-scheme:dark){
+:root:not([data-theme=light]){--ground:#10130F;--paper:#17201D;--ink:#F2F5F3;--ink2:#A8B4B0;--ink3:#8A9792;--rule:#2C3833;--accent:#6FBFB5;--accent-soft:#1B3330}
+:root:not([data-theme=light]) .app-card{background:#17201D;border:1px solid #2C3833}
+}
 </style>
+<script>try{var __t=localStorage.getItem("religion-knowledge-theme");if(__t)document.documentElement.dataset.theme=__t}catch(e){}</script>
 </head><body>
 <main>
   <h1>Bible Deep Dive</h1>
-  <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Nine cross-linked research documents; eight feed the app dataset.</p>
+  <p>A critical study of the Bible and religious belief systems, approached historically and analytically. Open the app to explore every claim with its sources and audit trail, or read the research documents directly.</p>
   <a class="app-card" href="app/">
     <h2>Open the app</h2>
     <p>Browse every record with provenance intact — search, topics, questions, audits, and the review queue.</p>
