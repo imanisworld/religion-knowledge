@@ -4,7 +4,7 @@
 // Regenerate with: npm run generate-records
 window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).concat([
   {
-    "id": "rk_6497c7178a8e15c2d140",
+    "id": "rk_aa0496dee92588365505",
     "text": "Theologians, Apologists, and Approaches to Literal and Allegorical Reading",
     "raw_text": "*Theologians, Apologists, and Approaches to Literal and Allegorical Reading*",
     "provenance_type": "CLAUDE",
@@ -34,7 +34,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b2d350d5bd466248a449",
+    "id": "rk_e00ac46bdcd0f804447b",
     "text": "Companion to: Study Notes · Observations · Historical Framework · Sources\nLast updated: 7 August 2026",
     "raw_text": "**Companion to:** Study Notes · Observations · Historical Framework · Sources\n**Last updated:** 7 August 2026",
     "provenance_type": "CLAUDE",
@@ -64,7 +64,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_51b4dc30b6a34a50425f",
+    "id": "rk_0aea20fdb142a5df4548",
     "text": "Provenance. Written by: Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. The organization and assessments are Claude's judgement, not a scholarly consensus — a starting map, not a verdict.",
     "raw_text": "> **Provenance.** **Written by:** Claude, 7 August 2026. The scholars, positions, and hermeneutical frameworks are documented. The organization and assessments are Claude's judgement, not a scholarly consensus — a starting map, not a verdict.",
     "provenance_type": "CLAUDE",
@@ -94,7 +94,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5e16298937c9eb3d416c",
+    "id": "rk_15670e4013ab7ea7092a",
     "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -124,7 +124,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d0fe74c3bd0ecd681a93",
+    "id": "rk_d05cc3295c0e8a010de9",
     "text": "How to use this document. This is a guide to serious religious positions and to the interpretive frameworks used in biblical reading.\n\nFirst: popular summaries often miss the strongest versions of religious thought. The philosophers, historians, theologians, and apologists listed here are worth knowing because their work shapes serious discussions of belief and scripture.\n\nSecond: biblical readers move among literal, metaphorical, typological, and theological readings. §2 names the centuries-old frameworks that govern those choices, explains what each contributes, and notes where their boundaries remain unclear.",
     "raw_text": "> **How to use this document.** This is a guide to serious religious positions and to the interpretive frameworks used in biblical reading.\n>\n> **First:** popular summaries often miss the strongest versions of religious thought. The philosophers, historians, theologians, and apologists listed here are worth knowing because their work shapes serious discussions of belief and scripture.\n>\n> **Second:** biblical readers move among literal, metaphorical, typological, and theological readings. §2 names the centuries-old frameworks that govern those choices, explains what each contributes, and notes where their boundaries remain unclear.",
     "provenance_type": "CLAUDE",
@@ -154,7 +154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_88d27589fbaa827d0779",
+    "id": "rk_8f576343c571ab696cfe",
     "text": "Organized by field and level of scholarly engagement rather than fame.",
     "raw_text": "Organized by field and level of scholarly engagement rather than fame. ⟨INFERENCE — this organization is Claude's judgement, not a survey of the field.⟩",
     "provenance_type": "CLAUDE",
@@ -185,7 +185,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_267ed43e819491a18660",
+    "id": "rk_10ecbfb9f84204216394",
     "text": "These are professional analytic philosophers whose work appears in secular academic venues and merits careful reading.",
     "raw_text": "These are professional analytic philosophers whose work appears in secular academic venues and merits careful reading.",
     "provenance_type": "CLAUDE",
@@ -217,7 +217,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f0e0f55fa7a7a2597e3c",
+    "id": "rk_26b43dbba84356936fed",
     "text": "Alvin Plantinga [REFORMED EPISTEMOLOGY] — Warranted Christian Belief, God and Other Minds. His argument is that belief in God can be properly basic — rational without inferential argument, in the way belief in other minds or the reliability of memory is — not that God's existence can be proved. He also formulated the free will defense, which is widely regarded as having defeated the logical problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the evidential problem of evil survives, and that is where the real argument now happens.",
     "raw_text": "**Alvin Plantinga** [REFORMED EPISTEMOLOGY] — *Warranted Christian Belief*, *God and Other Minds*. His argument is that belief in God can be **properly basic** — rational without inferential argument, in the way belief in other minds or the reliability of memory is — not that God's existence can be proved. He also formulated the free will defense, which is widely regarded as having defeated the *logical* problem of evil (the claim that God and evil are strictly incompatible). Note the precision: the *evidential* problem of evil survives, and that is where the real argument now happens.",
     "provenance_type": "CLAUDE",
@@ -249,7 +249,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_43bb3f7018def2bb2a70",
+    "id": "rk_f0fc10eca9bab3371022",
     "text": "Richard Swinburne [ANALYTIC, BAYESIAN] — The Existence of God. Builds a cumulative-case probabilistic argument. You cannot dismiss him without engaging Bayesian reasoning about priors, which most people cannot do.",
     "raw_text": "**Richard Swinburne** [ANALYTIC, BAYESIAN] — *The Existence of God*. Builds a cumulative-case probabilistic argument. You cannot dismiss him without engaging Bayesian reasoning about priors, which most people cannot do.",
     "provenance_type": "CLAUDE",
@@ -281,7 +281,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_366821e1f7ea2096a119",
+    "id": "rk_329d0ba4beef9346bd84",
     "text": "Edward Feser [THOMIST] — Aquinas, Five Proofs of the Existence of God. His central complaint is worth internalizing: most atheist critiques of the cosmological argument attack a version Aquinas never made. Aquinas's First Way is not \"everything has a cause, so God\" — it concerns essentially ordered causal series operating in the present moment, not a chain back through time. If you have ever said \"then who created God,\" Feser is the answer you will get, and it is a fair one against that formulation.",
     "raw_text": "**Edward Feser** [THOMIST] — *Aquinas*, *Five Proofs of the Existence of God*. His central complaint is worth internalizing: most atheist critiques of the cosmological argument attack a version Aquinas never made. Aquinas's First Way is not \"everything has a cause, so God\" — it concerns *essentially ordered* causal series operating in the present moment, not a chain back through time. If you have ever said \"then who created God,\" Feser is the answer you will get, and it is a fair one against that formulation.",
     "provenance_type": "CLAUDE",
@@ -313,7 +313,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3b61523e7fc7b0868f49",
+    "id": "rk_9abd128f57b0e56899ce",
     "text": "Eleonore Stump [CATHOLIC, ANALYTIC] — Wandering in Darkness. On suffering, engaging it through narrative rather than theodicy. Genuinely serious and rarely engaged by critics.",
     "raw_text": "**Eleonore Stump** [CATHOLIC, ANALYTIC] — *Wandering in Darkness*. On suffering, engaging it through narrative rather than theodicy. Genuinely serious and rarely engaged by critics.",
     "provenance_type": "CLAUDE",
@@ -345,7 +345,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a9dc638a775c3e18c111",
+    "id": "rk_ca7d2603035c1f0e683f",
     "text": "William Lane Craig [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and an accomplished public debater. The Kalām's second premise (that the universe began to exist) depends on contested cosmology, while his defense of the Canaanite conquest on divine-command grounds attracts substantial criticism.",
     "raw_text": "**William Lane Craig** [EVANGELICAL, philosopher] — the Kalām cosmological argument. Enormously influential and an accomplished public debater. The Kalām's second premise (that the universe began to exist) depends on contested cosmology, while his defense of the Canaanite conquest on divine-command grounds attracts substantial criticism.",
     "provenance_type": "CLAUDE",
@@ -377,7 +377,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f1090c6e2ca3d377ed4a",
+    "id": "rk_e4e8e683c617baaf0d53",
     "text": "This category surprises people. These are working scholars publishing in the same journals as the critics, who happen to be Christians — not apologists.",
     "raw_text": "This category surprises people. These are working scholars publishing in the same journals as the critics, who happen to be Christians — not apologists.",
     "provenance_type": "CLAUDE",
@@ -409,7 +409,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_159df0c627779388ab6e",
+    "id": "rk_700f83ccececbaf073b2",
     "text": "N.T. Wright [ANGLICAN, historian] — The Resurrection of the Son of God. The most substantial historical argument for the resurrection in print. His method is legitimate: he argues that neither Jewish nor pagan categories of the period predict a single individual bodily raised in the middle of history, so the belief requires explanation. Whether the explanation is the event is where you disagree — but the puzzle he sets is real.",
     "raw_text": "**N.T. Wright** [ANGLICAN, historian] — *The Resurrection of the Son of God*. The most substantial historical argument for the resurrection in print. His method is legitimate: he argues that neither Jewish nor pagan categories of the period predict a single individual bodily raised in the middle of history, so the belief requires explanation. Whether the explanation is the event is where you disagree — but the puzzle he sets is real.",
     "provenance_type": "CLAUDE",
@@ -441,7 +441,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a057059c1d930f0c6e32",
+    "id": "rk_0b6dbeb3973220f21465",
     "text": "Richard Bauckham [BRITISH, critical] — Jesus and the Eyewitnesses. Argues the Gospels preserve named eyewitness testimony rather than anonymous community tradition. Directly attacks the form-critical consensus. Contested, taken seriously, not fringe.",
     "raw_text": "**Richard Bauckham** [BRITISH, critical] — *Jesus and the Eyewitnesses*. Argues the Gospels preserve named eyewitness testimony rather than anonymous community tradition. Directly attacks the form-critical consensus. Contested, taken seriously, not fringe.",
     "provenance_type": "CLAUDE",
@@ -473,7 +473,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5e63e4c9856bb9e0fb5e",
+    "id": "rk_7b199101a7164a914c39",
     "text": "Craig Keener [EVANGELICAL] — his Acts commentary runs to four volumes and is a standard reference used by scholars across the spectrum, including ones who reject his conclusions.",
     "raw_text": "**Craig Keener** [EVANGELICAL] — his Acts commentary runs to four volumes and is a standard reference used by scholars across the spectrum, including ones who reject his conclusions.",
     "provenance_type": "CLAUDE",
@@ -505,7 +505,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f43e5efad0ceed2ca4e4",
+    "id": "rk_f663fae59699eb1d61fb",
     "text": "John Barton [ANGLICAN PRIEST, fully critical] — A History of the Bible. Demonstrates that critical scholarship and religious commitment are not mutually exclusive. The best single-volume introduction to how the Bible was actually formed, from someone who is both ordained and rigorous.",
     "raw_text": "**John Barton** [ANGLICAN PRIEST, fully critical] — *A History of the Bible*. Demonstrates that critical scholarship and religious commitment are not mutually exclusive. The best single-volume introduction to how the Bible was actually formed, from someone who is both ordained and rigorous.",
     "provenance_type": "CLAUDE",
@@ -537,7 +537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_74b7f84bf716b5b2cef3",
+    "id": "rk_f6b354508eb41614d701",
     "text": "Dale Allison [CRITICAL, Christian] — writes with unusual honesty about what the evidence does and does not support, including where it undercuts his own tradition. The Resurrection of Jesus: Apologetics, Polemics, History is a model of intellectual integrity from a believer.",
     "raw_text": "**Dale Allison** [CRITICAL, Christian] — writes with unusual honesty about what the evidence does and does not support, including where it undercuts his own tradition. *The Resurrection of Jesus: Apologetics, Polemics, History* is a model of intellectual integrity from a believer.",
     "provenance_type": "CLAUDE",
@@ -569,7 +569,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ef3910ebc2f962d4b02d",
+    "id": "rk_8080e90fc8076223e38e",
     "text": "Peter Enns [PROGRESSIVE EVANGELICAL] — The Bible Tells Me So, Inspiration and Incarnation. Accepts essentially all the critical findings and argues the doctrine of inspiration must be revised to fit them rather than the reverse. Was pushed out of Westminster Theological Seminary for it. Useful because he concedes the data and relocates the argument.",
     "raw_text": "**Peter Enns** [PROGRESSIVE EVANGELICAL] — *The Bible Tells Me So*, *Inspiration and Incarnation*. Accepts essentially all the critical findings and argues the doctrine of inspiration must be revised to fit them rather than the reverse. Was pushed out of Westminster Theological Seminary for it. Useful because he concedes the data and relocates the argument.",
     "provenance_type": "CLAUDE",
@@ -601,7 +601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_30975578506932e2ba5e",
+    "id": "rk_64450111ab5980bbdb9f",
     "text": "Michael Licona [EVANGELICAL, historian] — The Resurrection of Jesus: A New Historiographical Approach. Serious methodological work. Notable for being attacked by his own side for suggesting Matthew 27:52–53 (the resurrected saints walking through Jerusalem) might be apocalyptic imagery — which tells you a great deal about the constraints inerrantists operate under.",
     "raw_text": "**Michael Licona** [EVANGELICAL, historian] — *The Resurrection of Jesus: A New Historiographical Approach*. Serious methodological work. Notable for being attacked *by his own side* for suggesting Matthew 27:52–53 (the resurrected saints walking through Jerusalem) might be apocalyptic imagery — which tells you a great deal about the constraints inerrantists operate under.",
     "provenance_type": "CLAUDE",
@@ -633,7 +633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b1bd49d25c5cdfdec71e",
+    "id": "rk_c96fb4f4b0421805f9a7",
     "text": "Gary Habermas [EVANGELICAL] — the \"minimal facts\" argument. Builds a case from a small set of claims he says the majority of critical scholars grant. Handle by examining whether each \"fact\" is granted in the form he states it.",
     "raw_text": "**Gary Habermas** [EVANGELICAL] — the \"minimal facts\" argument. Builds a case from a small set of claims he says the majority of critical scholars grant. Handle by examining whether each \"fact\" is granted in the form he states it.",
     "provenance_type": "CLAUDE",
@@ -665,7 +665,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_68ecba295a0af0385339",
+    "id": "rk_9bc1dbbce81b2aa4ef7e",
     "text": "Robert Gagnon [EVANGELICAL] — The Bible and Homosexual Practice. The most thorough conservative treatment; see Study Notes for where his redaction-criticism reversal is genuinely sharp.",
     "raw_text": "**Robert Gagnon** [EVANGELICAL] — *The Bible and Homosexual Practice*. The most thorough conservative treatment; see Study Notes for where his redaction-criticism reversal is genuinely sharp.",
     "provenance_type": "CLAUDE",
@@ -697,7 +697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e2d9a3389f1372a4a256",
+    "id": "rk_0c66d70119ccb5fd2374",
     "text": "James Hoffmeier [EVANGELICAL, Egyptologist] and K.A. Kitchen [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Study Notes §1.8 audit.",
     "raw_text": "**James Hoffmeier** [EVANGELICAL, Egyptologist] and **K.A. Kitchen** [EVANGELICAL, Egyptologist] — the strongest conservative case on the exodus, argued from Egyptological expertise rather than theology. See Study Notes §1.8 audit.",
     "provenance_type": "CLAUDE",
@@ -729,7 +729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d7a349f3bb679e681619",
+    "id": "rk_3df5f206053430503f20",
     "text": "J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell — popular-level apologists. Strobel's Case for Christ is structured as journalism but interviews only people who already agree. Distinguish these presentations from stronger academic versions of the same positions.",
     "raw_text": "**J. Warner Wallace, Frank Turek, Lee Strobel, Sean McDowell** — popular-level apologists. Strobel's *Case for Christ* is structured as journalism but interviews only people who already agree. Distinguish these presentations from stronger academic versions of the same positions.",
     "provenance_type": "CLAUDE",
@@ -761,7 +761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a6ae4fde4c4ed2c961be",
+    "id": "rk_9e0c17abec99055adf35",
     "text": "Augustine (354–430) — original sin, the just war, and the position on Genesis that keeps getting rediscovered: he argued in The Literal Meaning of Genesis that Christians who make foolish claims about the natural world discredit scripture, and that the \"days\" need not be ordinary days.",
     "raw_text": "**Augustine** (354–430) — original sin, the just war, and the position on Genesis that keeps getting rediscovered: he argued in *The Literal Meaning of Genesis* that Christians who make foolish claims about the natural world discredit scripture, and that the \"days\" need not be ordinary days.",
     "provenance_type": "CLAUDE",
@@ -793,7 +793,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0de87b83e8e6a76cbdb2",
+    "id": "rk_76d3b3f7103820cfda54",
     "text": "Thomas Aquinas (1225–1274) — the tripartite division of the Law (moral / civil / ceremonial) that sorts which Old Testament commands still bind. Every believer uses it; almost none know it is his.",
     "raw_text": "**Thomas Aquinas** (1225–1274) — the tripartite division of the Law (moral / civil / ceremonial) that sorts which Old Testament commands still bind. Every believer uses it; almost none know it is his.",
     "provenance_type": "CLAUDE",
@@ -825,7 +825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3b3609c292d039b5292a",
+    "id": "rk_74a5bf15ee920483b109",
     "text": "John Calvin (1509–1564) — accommodation: God speaks in terms adjusted to human capacity, \"as nurses commonly do with infants.\" This is the origin of most modern science-and-scripture harmonization.",
     "raw_text": "**John Calvin** (1509–1564) — accommodation: God speaks in terms adjusted to human capacity, \"as nurses commonly do with infants.\" This is the origin of most modern science-and-scripture harmonization.",
     "provenance_type": "CLAUDE",
@@ -857,7 +857,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_98126ba46c674b1eb11e",
+    "id": "rk_5d2dfe6228b88ca8653b",
     "text": "Karl Barth (1886–1968) — the most important Protestant theologian of the twentieth century. Rejected liberal theology's reduction of Christianity to ethics and rejected fundamentalist literalism. Scripture becomes the Word of God in the event of revelation rather than being it propositionally.",
     "raw_text": "**Karl Barth** (1886–1968) — the most important Protestant theologian of the twentieth century. Rejected liberal theology's reduction of Christianity to ethics *and* rejected fundamentalist literalism. Scripture *becomes* the Word of God in the event of revelation rather than being it propositionally.",
     "provenance_type": "CLAUDE",
@@ -889,7 +889,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_291de4c0709a3450ed52",
+    "id": "rk_a826916e1fbe1903a29d",
     "text": "Rudolf Bultmann (1884–1976) — demythologization. A believing Lutheran who held that the miraculous framework is first-century mythology to be translated into existential terms. Included here because he shows the critical/believing line does not run where people assume.",
     "raw_text": "**Rudolf Bultmann** (1884–1976) — demythologization. A believing Lutheran who held that the miraculous framework is first-century mythology to be translated into existential terms. Included here because he shows the critical/believing line does not run where people assume.",
     "provenance_type": "CLAUDE",
@@ -921,7 +921,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c3faeff75a6e5e6991fd",
+    "id": "rk_ddf7cf67a31b3ed20901",
     "text": "This is the important section.",
     "raw_text": "This is the important section.",
     "provenance_type": "CLAUDE",
@@ -952,7 +952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9f4a07fd055d49b5ae5d",
+    "id": "rk_527aaba026aba7bef3f7",
     "text": "When a believer reads Genesis 1 as poetry, Jonah as parable, the conquest as complicated, and the resurrection as literal history, it feels arbitrary because no rule was stated. Each passage got a treatment, and the treatment was announced only after the passage was raised.",
     "raw_text": "When a believer reads Genesis 1 as poetry, Jonah as parable, the conquest as complicated, and the resurrection as literal history, it feels arbitrary because **no rule was stated**. Each passage got a treatment, and the treatment was announced only after the passage was raised.",
     "provenance_type": "CLAUDE",
@@ -984,7 +984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ef58325792878a0cf80",
+    "id": "rk_9297ed3c7a6ca6db52d8",
     "text": "The frameworks doing this work are real and old. Every one below is a legitimate intellectual tradition with centuries of development behind it. The problem is not that they exist. The problem is that none of them specifies in advance which passage gets which treatment, and most people using them cannot name which one they are using.",
     "raw_text": "The frameworks doing this work are real and old. Every one below is a legitimate intellectual tradition with centuries of development behind it. The problem is not that they exist. The problem is that **none of them specifies in advance which passage gets which treatment**, and most people using them cannot name which one they are using.",
     "provenance_type": "CLAUDE",
@@ -1016,7 +1016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc706641cad7606dd672",
+    "id": "rk_d6c68ca81994e1fc611c",
     "text": "The Quadriga (fourfold sense). The dominant Christian method for roughly 1,700 years. <cite index=\"65-1\">Four layers: the literal or historical, the tropological or moral, the allegorical or doctrinal, and the anagogical or ultimate/eschatological.</cite> <cite index=\"63-1\">The allegorical layer includes typology — events, persons, or statements seen as prefiguring later ones.</cite> Systematized by Origen and Bonaventure; <cite index=\"65-1\">the fourfold pattern was grounded in an association Augustine and Gregory the Great had already made between faith, hope, and love and the meaning of the text.</cite>",
     "raw_text": "**The Quadriga (fourfold sense).** The dominant Christian method for roughly 1,700 years. <cite index=\"65-1\">Four layers: the literal or historical, the tropological or moral, the allegorical or doctrinal, and the anagogical or ultimate/eschatological.</cite> <cite index=\"63-1\">The allegorical layer includes typology — events, persons, or statements seen as prefiguring later ones.</cite> Systematized by Origen and Bonaventure; <cite index=\"65-1\">the fourfold pattern was grounded in an association Augustine and Gregory the Great had already made between faith, hope, and love and the meaning of the text.</cite>",
     "provenance_type": "CLAUDE",
@@ -1048,7 +1048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_385bf6861f24b23dc317",
+    "id": "rk_00d9cbdb5cc5f04e7aa9",
     "text": "Note what defenders themselves emphasize: <cite index=\"68-1\">a proper understanding treats the literal sense as primary — the foundation and bedrock, since any hermeneutic that neglects grammar and history is immediately unmoored.</cite> That concession is useful to you. Even the tradition's advocates hold that allegory is supposed to be built on the literal sense, not a substitute for it when the literal sense becomes inconvenient.",
     "raw_text": "Note what defenders themselves emphasize: <cite index=\"68-1\">a proper understanding treats the literal sense as primary — the foundation and bedrock, since any hermeneutic that neglects grammar and history is immediately unmoored.</cite> That concession is useful to you. Even the tradition's advocates hold that allegory is supposed to be *built on* the literal sense, not a substitute for it when the literal sense becomes inconvenient.",
     "provenance_type": "CLAUDE",
@@ -1080,7 +1080,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1001e35250a82568e347",
+    "id": "rk_70d2094b0e27e9b1d227",
     "text": "Typology. Old Testament persons and events prefigure New Testament ones — Jonah's three days, the bronze serpent, the Passover lamb. Paul does this himself and says so: Galatians 4:24 describes Hagar and Sarah as allegoroumena, spoken allegorically. 1 Corinthians 10 reads the wilderness generation as written for later instruction. This is not a later imposition on the text; the New Testament authors are already doing it.",
     "raw_text": "**Typology.** Old Testament persons and events prefigure New Testament ones — Jonah's three days, the bronze serpent, the Passover lamb. **Paul does this himself** and says so: Galatians 4:24 describes Hagar and Sarah as *allegoroumena*, spoken allegorically. 1 Corinthians 10 reads the wilderness generation as written for later instruction. This is not a later imposition on the text; the New Testament authors are already doing it.",
     "provenance_type": "CLAUDE",
@@ -1112,7 +1112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_662cb93faa176e40f74d",
+    "id": "rk_f9a8bc69461e6728a1ec",
     "text": "Accommodation. God communicates in terms the original audience could grasp. Calvin's formulation; Augustine's earlier. Does most of the heavy lifting on cosmology and science. Reasonable in principle — and unfalsifiable in practice, because any error becomes accommodation to the audience's limits.",
     "raw_text": "**Accommodation.** God communicates in terms the original audience could grasp. Calvin's formulation; Augustine's earlier. Does most of the heavy lifting on cosmology and science. Reasonable in principle — and unfalsifiable in practice, because any error becomes accommodation to the audience's limits.",
     "provenance_type": "CLAUDE",
@@ -1144,7 +1144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_362176066dcfe5936969",
+    "id": "rk_b1bdbc6ef5f7352628c4",
     "text": "Sensus plenior. A fuller meaning intended by God that the human author did not know he was writing. <cite index=\"67-1\">Used when later scripture refers to earlier scripture in ways that do not simply repeat the literal or original sense — especially where New Testament authors read the Old Testament as fulfilled in Christ, on the claim that they interpreted correctly and never contradicted the original meaning.</cite> This is the framework covering Isaiah 7:14. The last clause is the load-bearing one and it is an assertion, not a finding.",
     "raw_text": "**Sensus plenior.** A fuller meaning intended by God that the human author did not know he was writing. <cite index=\"67-1\">Used when later scripture refers to earlier scripture in ways that do not simply repeat the literal or original sense — especially where New Testament authors read the Old Testament as fulfilled in Christ, on the claim that they interpreted correctly and never contradicted the original meaning.</cite> This is the framework covering Isaiah 7:14. The last clause is the load-bearing one and it is an assertion, not a finding.",
     "provenance_type": "CLAUDE",
@@ -1176,7 +1176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14c8f8e7242f434b8bf8",
+    "id": "rk_03bfb4527a228febcd9e",
     "text": "Progressive revelation. Later revelation clarifies or supersedes earlier. Absorbs Old Testament violence and the abandonment of the food and purity laws.",
     "raw_text": "**Progressive revelation.** Later revelation clarifies or supersedes earlier. Absorbs Old Testament violence and the abandonment of the food and purity laws.",
     "provenance_type": "CLAUDE",
@@ -1208,7 +1208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_563c7805b3b633a9b9f1",
+    "id": "rk_71e70fcd2458b9b9192c",
     "text": "The tripartite division. Aquinas: moral law binds forever, civil law expired with the polity, ceremonial law was fulfilled in Christ. This is the machinery behind keeping Leviticus 18:22 and dropping Leviticus 19:19. It is not in the text. The text sorts nothing.",
     "raw_text": "**The tripartite division.** Aquinas: moral law binds forever, civil law expired with the polity, ceremonial law was fulfilled in Christ. This is the machinery behind keeping Leviticus 18:22 and dropping Leviticus 19:19. **It is not in the text.** The text sorts nothing.",
     "provenance_type": "CLAUDE",
@@ -1240,7 +1240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7dd1457a1fb9fb085af1",
+    "id": "rk_9b034677181e0bc78e7c",
     "text": "Covenant theology vs. dispensationalism. The two major Protestant systems for organizing which parts apply now. Most believers are operating one of them unknowingly, absorbed from a tradition.",
     "raw_text": "**Covenant theology vs. dispensationalism.** The two major Protestant systems for organizing which parts apply now. Most believers are operating one of them unknowingly, absorbed from a tradition.",
     "provenance_type": "CLAUDE",
@@ -1272,7 +1272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cd09be83929c2f667655",
+    "id": "rk_a29a375850c743add7ae",
     "text": "Analogy of faith. Unclear passages interpreted by clear ones. Sounds like sound method. In practice it means passages that conflict with settled doctrine get read in light of passages that support it — which is circular, and the circularity is invisible from inside.",
     "raw_text": "**Analogy of faith.** Unclear passages interpreted by clear ones. Sounds like sound method. In practice it means passages that conflict with settled doctrine get read in light of passages that support it — which is circular, and the circularity is invisible from inside.",
     "provenance_type": "CLAUDE",
@@ -1304,7 +1304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_18020fd4e64d457a612a",
+    "id": "rk_edad8f3c4b125132deaa",
     "text": "Do not attack allegorical reading as such. It is the position of critical scholarship too.",
     "raw_text": "Do not attack allegorical reading as such. It is the position of critical scholarship too.",
     "provenance_type": "CLAUDE",
@@ -1336,7 +1336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_99f0fa6e44269ac806a0",
+    "id": "rk_6caff4386f853416889d",
     "text": "Genesis 1 is ancient Near Eastern cosmology, not a science text — that is what Assyriologists say, not just theologians. Job is a wisdom dialogue, not a transcript. Psalms are poetry. Revelation is apocalyptic, a genre with conventions. Reading these as literal history is a misreading, and the believer who declines to do so is right.",
     "raw_text": "Genesis 1 *is* ancient Near Eastern cosmology, not a science text — that is what Assyriologists say, not just theologians. Job *is* a wisdom dialogue, not a transcript. Psalms *are* poetry. Revelation *is* apocalyptic, a genre with conventions. Reading these as literal history is a *misreading*, and the believer who declines to do so is right.",
     "provenance_type": "CLAUDE",
@@ -1368,7 +1368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2e0a337f5bca239ae62d",
+    "id": "rk_0cb04a8aa46997833aa0",
     "text": "The distinction that matters : genre is a property of the text, determinable from its structure, its ancient parallels, and its own signals. A framework applied because a reading became uncomfortable is a different operation wearing the same clothes.",
     "raw_text": "**The distinction that matters** ⟨INFERENCE⟩**:** genre is a property of the text, determinable from its structure, its ancient parallels, and its own signals. A framework applied because a reading became uncomfortable is a different operation wearing the same clothes.",
     "provenance_type": "CLAUDE",
@@ -1400,7 +1400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5bae84a1314c501867bd",
+    "id": "rk_28832a372e1ad9ba43a8",
     "text": "\"What's your rule — stated before we look at the passage?\"",
     "raw_text": "**\"What's your rule — stated before we look at the passage?\"**",
     "provenance_type": "CLAUDE",
@@ -1432,7 +1432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_63bbf37ac6e4b66ba365",
+    "id": "rk_70d4d13abf42271facda",
     "text": "This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is a justification, not a method.",
     "raw_text": "This is the whole thing. A rule stated in advance is a real method: it makes predictions, it can produce results you dislike, it can be wrong. A rule produced after the difficulty appears is a justification, not a method.",
     "provenance_type": "CLAUDE",
@@ -1464,7 +1464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6cf71ada78a49be69353",
+    "id": "rk_c87378207728734d054b",
     "text": "Follow-ups, in order:",
     "raw_text": "Follow-ups, in order:",
     "provenance_type": "CLAUDE",
@@ -1496,7 +1496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d943f98a5d2127ed310a",
+    "id": "rk_bb5f7707fc1c3ac98fb1",
     "text": "1. Does your rule ever produce a conclusion you don't like? A hermeneutic that always vindicates prior belief is not reading the text.\n2. Which passages does it commit you to reading literally, that you'd rather not?\n3. Where's the boundary? Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Which verse is the line, and what marks it?\n4. Would that rule have been available to a first-century reader?",
     "raw_text": "1. *Does your rule ever produce a conclusion you don't like?* A hermeneutic that always vindicates prior belief is not reading the text.\n2. *Which passages does it commit you to reading literally, that you'd rather not?*\n3. *Where's the boundary?* Leviticus 19 puts \"love your neighbor as yourself\" nine verses from \"don't wear wool and linen together,\" with identical divine attribution. Which verse is the line, and what marks it?\n4. *Would that rule have been available to a first-century reader?*",
     "provenance_type": "CLAUDE",
@@ -1528,7 +1528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2adc1d563e502b73a2f2",
+    "id": "rk_91f9b8bc20a4448c2426",
     "text": "Question 3 has no answer. Aquinas's categories are not in the text, and no verse announces its own tier.",
     "raw_text": "Question 3 has no answer. Aquinas's categories are not in the text, and no verse announces its own tier.",
     "provenance_type": "CLAUDE",
@@ -1560,7 +1560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7f059b0a49fda0a5737d",
+    "id": "rk_2f85c0f2caa4059993bf",
     "text": "It does not prove there is no God, and claiming it does is overreach. Interpretive frameworks being human is exactly what you would expect even if the text were divine, because the readers are human regardless.",
     "raw_text": "**It does not prove there is no God**, and claiming it does is overreach. Interpretive frameworks being human is exactly what you would expect even if the text were divine, because the readers are human regardless.",
     "provenance_type": "CLAUDE",
@@ -1592,7 +1592,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b3d5b5dc4eb69d7bdcbf",
+    "id": "rk_9a0abd1c6f1f3c1fa7d5",
     "text": "What it does establish  is narrower and much harder to escape: whatever the text's origin, its application is a human act, performed by people using unstated sorting rules that reliably preserve what they already believed. The question stops being \"what does the Bible say\" and becomes \"who decided which parts count, and what were they protecting.\"",
     "raw_text": "**What it does establish** ⟨INFERENCE⟩ is narrower and much harder to escape: whatever the text's origin, *its application is a human act*, performed by people using unstated sorting rules that reliably preserve what they already believed. The question stops being \"what does the Bible say\" and becomes \"who decided which parts count, and what were they protecting.\"",
     "provenance_type": "CLAUDE",
@@ -1624,7 +1624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_41f014a120dc34093bf8",
+    "id": "rk_3064290396ecf43647a9",
     "text": "That is the same structural finding as the audit log in the Study Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. The list never sorts itself. Someone always sorts it, and the sorter's interests are visible in the result.",
     "raw_text": "That is the same structural finding as the audit log in the Study Notes: Maimonides needed fourteen principles before he could count to 613, Aquinas needed three categories to sort Leviticus, Paul needed the ox to be about apostles. **The list never sorts itself.** Someone always sorts it, and the sorter's interests are visible in the result.",
     "provenance_type": "CLAUDE",
@@ -1656,7 +1656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5833e32c6c7504f84dd3",
+    "id": "rk_424a42ff990e64919862",
     "text": "Understand the strongest version. A popular presentation and the underlying philosophical position may differ substantially; consult the strongest representative work available.",
     "raw_text": "**Understand the strongest version.** A popular presentation and the underlying philosophical position may differ substantially; consult the strongest representative work available.",
     "provenance_type": "CLAUDE",
@@ -1687,7 +1687,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc41ea8c49f705de5daa",
+    "id": "rk_1e8c4e552532e2babcb9",
     "text": "Acknowledge established points clearly. Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, and the 1 Corinthians 15 creed is early. These facts should remain visible even when evaluating broader conclusions.",
     "raw_text": "**Acknowledge established points clearly.** Nicaea did not invent the canon, the manuscript numbers are real, Genesis 1 is not a science text, and the 1 Corinthians 15 creed is early. These facts should remain visible even when evaluating broader conclusions.",
     "provenance_type": "CLAUDE",
@@ -1718,7 +1718,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_73fe0e13805ed524ab11",
+    "id": "rk_b038bf2c527c3d30b2e9",
     "text": "Separate the historical claim from the theological one, every time. That a Galilean preacher was crucified under Pilate is well supported. That he rose is not a historical claim in the same sense, and collapsing the two is how both sides get confused.",
     "raw_text": "**Separate the historical claim from the theological one, every time.** That a Galilean preacher was crucified under Pilate is well supported. That he rose is not a historical claim in the same sense, and collapsing the two is how both sides get confused.",
     "provenance_type": "CLAUDE",
@@ -1749,7 +1749,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_46ed3e6a0084fbf033bf",
+    "id": "rk_9c72cf6f764485bccab4",
     "text": "Do not confuse a weak presentation with a weak position. Most conversations happen at the popular level; assess the underlying claim separately from the person presenting it.",
     "raw_text": "**Do not confuse a weak presentation with a weak position.** Most conversations happen at the popular level; assess the underlying claim separately from the person presenting it.",
     "provenance_type": "CLAUDE",
@@ -1780,7 +1780,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_add062a2c10ae1b10739",
+    "id": "rk_15d765354e3e06dce35b",
     "text": "Identify the interpretive rule before evaluating the passage. See §2.4. Stating the rule first makes its assumptions and consequences easier to examine.",
     "raw_text": "**Identify the interpretive rule before evaluating the passage.** See §2.4. Stating the rule first makes its assumptions and consequences easier to examine.",
     "provenance_type": "CLAUDE",

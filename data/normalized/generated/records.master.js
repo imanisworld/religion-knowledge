@@ -4061,7 +4061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5f6c3f957c58768cd990",
+    "id": "rk_ca984734641fed82d0f0",
     "text": "The correct technical term, and why \"retrofitted\" undersells the sophistication: the exegetical method is *typology combined with sensus plenior (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a pattern that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's pesher technique read prophetic texts as pointing to their own community's \"last days.\" Joseph Fitzmyer [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations added onto an already-existing narrative to comment on it — closer to what genre critics call midrash, though even that label is disputed (Cunningham and Bock argue true midrash exists for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
     "raw_text": "**The correct technical term, and why \"retrofitted\" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's \"last days.\" **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
     "provenance_type": "SOURCE",
@@ -7976,7 +7976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bb26c4864a1e4e7ebb12",
+    "id": "rk_553a43c2a1c850420e59",
     "text": "N.T. Wright [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "provenance_type": "PRE_CONVENTION",

@@ -34,7 +34,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_690209f9314b19271b07",
+    "id": "rk_6530e0922c9e67091a89",
     "text": "Companion to: Study Notes · Observations · History · Sources · The Strongest Case · Glossary\nLast updated: 10 August 2026",
     "raw_text": "**Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Glossary\n**Last updated:** 10 August 2026",
     "provenance_type": "CLAUDE",

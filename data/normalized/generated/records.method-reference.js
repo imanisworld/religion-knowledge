@@ -34,7 +34,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1bb18880e0c31275d128",
+    "id": "rk_91f817e41efd40c38cb3",
     "text": "Companion to: Study Notes · Observations · History · Sources · The Strongest Case · Translations · Glossary\nLast updated: 10 August 2026",
     "raw_text": "**Companion to:** Study Notes · Observations · History · Sources · The Strongest Case · Translations · Glossary\n**Last updated:** 10 August 2026",
     "provenance_type": "CLAUDE",
@@ -248,7 +248,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9a42245041460c5367aa",
+    "id": "rk_a653541d06a24afc6765",
     "text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — the popular skeptic version is false |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
     "raw_text": "| Question or topic | Reference |\n|---|---|\n| A date, an empire, an archaeological claim | Historical Framework §2 |\n| \"Constantine invented the Bible\" / Nicaea | Historical Framework §7 — **the popular skeptic version is false** |\n| \"5,800 manuscripts\" | Historical Framework §4 — verify the number and evaluate the inference separately |\n| Josephus, Tacitus, extrabiblical evidence | Historical Framework §3, Sources §2.3 and §3 |\n| \"Archaeology confirms the Bible\" | Historical Framework §1.3 and §10 |\n| A specific verse, and the wording matters | Translations §5 |\n| \"That's not what the Greek/Hebrew says\" | Translations §2 and §5, Sources §2.1 |\n| Reading is literal here and metaphor there | The Strongest Case §2 — the frameworks have names |\n| A named theologian or philosopher | The Strongest Case §1 |\n| A word you don't know | Glossary |",
     "provenance_type": "CLAUDE",
