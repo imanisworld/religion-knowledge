@@ -145,6 +145,19 @@ test('audit block preserves original-to-correction relationship', () => {
   assert.equal(inference.representation_type, 'INFERENCE');
 });
 
+test('audit AS RECORDED labels may carry a section-reference parenthetical', () => {
+  const content = `#### ⚑ AUDIT — Example\n\n**AS RECORDED (§6.5, §11.2):** Old claim.\n\n**STATUS:** Overstated.\n\n**CORRECTED:** Better claim.`;
+  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content });
+  assert.equal(out.records.find((record) => record.record_type === 'CLAIM')?.text, 'AS RECORDED (§6.5, §11.2): Old claim.');
+  assert.equal(out.warnings.length, 0);
+});
+
+test('an explicitly declared new-entry audit does not require a correction chain', () => {
+  const content = `#### ⚑ AUDIT — New material\n\n**AS RECORDED:** Not previously in this document — this is new.\n\n**STATUS: New entry. Conclusion firm.**\n\n**AUDIT**\n\nDocumented discussion.`;
+  const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content });
+  assert.equal(out.warnings.length, 0);
+});
+
 test('unmarked audit body uses documented-context rule', () => {
   const content = `#### ⚑ AUDIT — Example\n\n**AS RECORDED:** Old claim.\n\n**AUDIT**\n\nA documented audit-body claim.\n\n**CORRECTED:** Better claim.`;
   const out = parseMarkdown({ sourceFile: 'Bible_Deep_Dive_Master_Notes.md', content });

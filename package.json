@@ -4,6 +4,8 @@
   "type": "module",
   "scripts": {
     "test": "node --test",
+    "sync:reader-audits": "node scripts/sync-missing-reader-audits.mjs",
+    "validate:reader-sync": "node scripts/validate-reader-sync.mjs",
     "generate-records": "node scripts/import/generate-records.mjs --output-dir data/normalized/generated",
     "build:standalone": "node scripts/build-standalone.mjs --output dist/religion-knowledge-standalone.html",
     "build:search-index": "node scripts/build-search-index.mjs",
