@@ -871,9 +871,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53524aa8265cef6571af",
-    "text": "What forms in this window: resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. None of it is in the Torah.",
-    "raw_text": "**What forms in this window:** resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. **None of it is in the Torah.**",
+    "id": "rk_859d852cfc7dfcdf7725",
+    "text": "What develops substantially in this window: resurrection of the dead · postmortem judgment and hell · a cosmic Satan · elaborated hierarchies and systems of angelology and demonology · intensified messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue-centered communal life and Torah study. The Torah already contains divine messengers commonly translated as angels and some antecedents for several other ideas; the claim is about the later developed systems and institutions, not the total absence of every component.",
+    "raw_text": "**What develops substantially in this window:** resurrection of the dead · postmortem judgment and hell · a cosmic Satan · elaborated hierarchies and systems of angelology and demonology · intensified messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue-centered communal life and Torah study. The Torah already contains divine messengers commonly translated as angels and some antecedents for several other ideas; the claim is about the later developed systems and institutions, not the total absence of every component.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1063,9 +1063,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40c16ba96af62e0b91eb",
-    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial New Testament manuscripts are 2nd–3rd century. No manuscript can reach behind that.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
-    "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
+    "id": "rk_0704394fe726268674ec",
+    "text": "~40 years — crucifixion (c. 30) to the first Gospel (c. 70)\n~20 years — crucifixion to Paul's earliest letter (c. 50), which contains no birth narrative, no empty tomb, no biography\n~60–70 years — crucifixion to John\n~85 years — crucifixion to Tacitus\n150+ years — the earliest substantial surviving physical New Testament manuscripts are 2nd–3rd century. No surviving physical witness predates that range; textual criticism can nevertheless compare later witnesses and variants to reconstruct an earlier attainable text, so manuscript date is not a hard limit on textual inference.\n~600 years — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n100–200 years — Muhammad's death (632) to the written sira and hadith\n~1,000 years — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
+    "raw_text": "- **~40 years** — crucifixion (c. 30) to the first Gospel (c. 70)\n- **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**\n- **~60–70 years** — crucifixion to John\n- **~85 years** — crucifixion to Tacitus\n- **150+ years** — the earliest substantial surviving physical New Testament manuscripts are 2nd–3rd century. No surviving physical witness predates that range; textual criticism can nevertheless compare later witnesses and variants to reconstruct an earlier attainable text, so manuscript date is not a hard limit on textual inference.\n- **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap\n- **100–200 years** — Muhammad's death (632) to the written *sira* and hadith\n- **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1127,9 +1127,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6221a026608b17aad76b",
-    "text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (Paul and Palestinian Judaism, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
-    "raw_text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (*Paul and Palestinian Judaism*, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of \"justification by faith\" imports a 16th-century framework onto a 1st-century argument.",
+    "id": "rk_b3ef65c05dd251f32269",
+    "text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians) cannot be represented as one Sanders/Dunn/Wright position. E.P. Sanders, Paul and Palestinian Judaism (1977), argued that Second Temple Judaism is better described as covenantal nomism — election and grace establish the covenant; obedience maintains life within it — challenging the Christian caricature of Judaism as simple works-righteousness. James D.G. Dunn extended that reassessment into Paul's phrase “works of the law,” emphasizing Torah practices that marked Jewish identity and separated Jews from Gentiles, while later clarifying that the phrase is not limited to circumcision, food laws, and Sabbath. N.T. Wright accepts much of Dunn's boundary-marker analysis but places justification in a larger covenantal and forensic account: God's declaration that someone belongs to the forgiven, multiethnic covenant family. Wright explicitly presents his version as distinct from Sanders and from many other “new perspective” positions. Grouping the three together is useful as intellectual history but inaccurate as an exegetical summary.",
+    "raw_text": "The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians) cannot be represented as one Sanders/Dunn/Wright position. **E.P. Sanders**, *Paul and Palestinian Judaism* (1977), argued that Second Temple Judaism is better described as covenantal nomism — election and grace establish the covenant; obedience maintains life within it — challenging the Christian caricature of Judaism as simple works-righteousness. **James D.G. Dunn** extended that reassessment into Paul's phrase “works of the law,” emphasizing Torah practices that marked Jewish identity and separated Jews from Gentiles, while later clarifying that the phrase is not limited to circumcision, food laws, and Sabbath. **N.T. Wright** accepts much of Dunn's boundary-marker analysis but places justification in a larger covenantal and forensic account: God's declaration that someone belongs to the forgiven, multiethnic covenant family. Wright explicitly presents his version as distinct from Sanders and from many other “new perspective” positions. Grouping the three together is useful as intellectual history but inaccurate as an exegetical summary.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1255,9 +1255,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c89f5c42a4a61ef2423",
-    "text": "Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
-    "raw_text": "**Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.",
+    "id": "rk_10d983dd99afb4530cbb",
+    "text": "The Study Notes §9.5.2–§9.5.4 now contains the fuller comparison across Sanders, Dunn, Wright, Westerholm, Stuhlmacher, Schreiner, and Martyn. Use that treatment instead of collapsing the New Perspective into a single thesis.",
+    "raw_text": "The Study Notes §9.5.2–§9.5.4 now contains the fuller comparison across Sanders, Dunn, Wright, Westerholm, Stuhlmacher, Schreiner, and Martyn. Use that treatment instead of collapsing the New Perspective into a single thesis.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
@@ -1567,15 +1567,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3ebaa37d66522a7eb0ff",
-    "text": "7.1 A working definition. Richard Paul and Linda Elder, Critical Thinking: Tools for Taking Charge of Your Learning and Your Life (Pearson, 3rd ed., 2012), give the most widely used operational framework. Every act of reasoning has eight elements — purpose, the question at issue, information used, concepts applied, assumptions made, point of view, inferences drawn, and implications/consequences — and reasoning is evaluated against nine universal intellectual standards: clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. The framework's use here: when a claim in this corpus (or in conversation) feels wrong but the reason isn't obvious, run it against the elements first (what's the actual question at issue? what's the unstated assumption?) before reaching for the standards (is this precise, or just clear? is it fair to the opposing camp, or just internally logical?).",
-    "raw_text": "**7.1 A working definition.** Richard Paul and Linda Elder, *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (Pearson, 3rd ed., 2012), give the most widely used operational framework. Every act of reasoning has **eight elements** — purpose, the question at issue, information used, concepts applied, assumptions made, point of view, inferences drawn, and implications/consequences — and reasoning is evaluated against **nine universal intellectual standards**: clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. The framework's use here: when a claim in this corpus (or in conversation) feels wrong but the reason isn't obvious, run it against the elements first (what's the actual question at issue? what's the unstated assumption?) before reaching for the standards (is this precise, or just clear? is it fair to the opposing camp, or just internally logical?).",
+    "id": "rk_17dca6bd8b05142f854e",
+    "text": "Richard Paul and Linda Elder, Critical Thinking: Tools for Taking Charge of Your Learning and Your Life (Pearson, 3rd ed., 2012), give the most widely used operational framework. Every act of reasoning has eight elements — purpose, the question at issue, information used, concepts applied, assumptions made, point of view, inferences drawn, and implications/consequences — and reasoning is evaluated against nine universal intellectual standards: clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. The framework's use here: when a claim in this corpus (or in conversation) feels wrong but the reason isn't obvious, run it against the elements first (what's the actual question at issue? what's the unstated assumption?) before reaching for the standards (is this precise, or just clear? is it fair to the opposing camp, or just internally logical?).",
+    "raw_text": "Richard Paul and Linda Elder, *Critical Thinking: Tools for Taking Charge of Your Learning and Your Life* (Pearson, 3rd ed., 2012), give the most widely used operational framework. Every act of reasoning has **eight elements** — purpose, the question at issue, information used, concepts applied, assumptions made, point of view, inferences drawn, and implications/consequences — and reasoning is evaluated against **nine universal intellectual standards**: clarity, accuracy, precision, relevance, depth, breadth, logic, significance, and fairness. The framework's use here: when a claim in this corpus (or in conversation) feels wrong but the reason isn't obvious, run it against the elements first (what's the actual question at issue? what's the unstated assumption?) before reaching for the standards (is this precise, or just clear? is it fair to the opposing camp, or just internally logical?).",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "7. Critical Thinking — Definition and How to Apply It"
+      "7. Critical Thinking — Definition and How to Apply It",
+      "7.1 A working definition"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1583,7 +1584,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It",
+    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It > 7.1 A working definition",
     "source_reference": "paragraph:51",
     "parent_id": null,
     "related_ids": [],
@@ -1598,15 +1599,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_85c94612d3735fbfb59e",
-    "text": "7.2 Why reasoning fails by default, not by exception. Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011) — the mind runs on two systems: System 1, fast, automatic, intuitive, always on; System 2, slow, effortful, deliberate, and — this is the operative finding — lazy by default. System 2 doesn't activate to check System 1's output unless something forces it to.  This is the mechanical precondition for the next two findings below: motivated reasoning isn't a character flaw requiring dishonesty, it's what happens when System 2 never gets called in, which is its default state. Kahneman does not make this connection to motivated reasoning himself — it is this corpus's own inference bridging his work to Kunda's.",
-    "raw_text": "**7.2 Why reasoning fails by default, not by exception.** Daniel Kahneman, *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011) — the mind runs on two systems: System 1, fast, automatic, intuitive, always on; System 2, slow, effortful, deliberate, and — this is the operative finding — lazy by default. System 2 doesn't activate to check System 1's output unless something forces it to. ⟨INFERENCE⟩ This is the mechanical precondition for the next two findings below: motivated reasoning isn't a character flaw requiring dishonesty, it's what happens when System 2 never gets called in, which is its default state. Kahneman does not make this connection to motivated reasoning himself — it is this corpus's own inference bridging his work to Kunda's.",
+    "id": "rk_1bf921ea58550f582c37",
+    "text": "Daniel Kahneman, Thinking, Fast and Slow (Farrar, Straus and Giroux, 2011) — the mind runs on two systems: System 1, fast, automatic, intuitive, always on; System 2, slow, effortful, deliberate, and — this is the operative finding — lazy by default. System 2 doesn't activate to check System 1's output unless something forces it to.  This is the mechanical precondition for the next two findings below: motivated reasoning isn't a character flaw requiring dishonesty, it's what happens when System 2 never gets called in, which is its default state. Kahneman does not make this connection to motivated reasoning himself — it is this corpus's own inference bridging his work to Kunda's.",
+    "raw_text": "Daniel Kahneman, *Thinking, Fast and Slow* (Farrar, Straus and Giroux, 2011) — the mind runs on two systems: System 1, fast, automatic, intuitive, always on; System 2, slow, effortful, deliberate, and — this is the operative finding — lazy by default. System 2 doesn't activate to check System 1's output unless something forces it to. ⟨INFERENCE⟩ This is the mechanical precondition for the next two findings below: motivated reasoning isn't a character flaw requiring dishonesty, it's what happens when System 2 never gets called in, which is its default state. Kahneman does not make this connection to motivated reasoning himself — it is this corpus's own inference bridging his work to Kunda's.",
     "provenance_type": "CLAUDE",
     "representation_type": "INFERENCE",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "7. Critical Thinking — Definition and How to Apply It"
+      "7. Critical Thinking — Definition and How to Apply It",
+      "7.2 Why reasoning fails by default, not by exception"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1614,7 +1616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It",
+    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It > 7.2 Why reasoning fails by default, not by exception",
     "source_reference": "paragraph:52",
     "parent_id": null,
     "related_ids": [],
@@ -1629,15 +1631,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bce6a705b41735be442c",
-    "text": "7.3 Confirmation bias and motivated reasoning are two different failures, not one. Peter Wason, \"On the failure to eliminate hypotheses in a conceptual task,\" Quarterly Journal of Experimental Psychology 12(3) (1960): 129–140 — the founding 2-4-6 experiment. Subjects given a rule to discover overwhelmingly tested it by seeking confirming instances, almost never by trying to falsify it. This is confirmation bias: a search-strategy failure, present even when the person has no stake in the outcome. Ziva Kunda, \"The Case for Motivated Reasoning,\" Psychological Bulletin 108(3) (1990): 480–498 — a distinct mechanism: people reach conclusions they're motivated to reach, but constrained by the need to construct a justification a neutral observer would find reasonable. Kunda's own distinction: accuracy-motivated reasoning (trying to get it right) versus directionally-motivated reasoning (trying to arrive somewhere specific while still feeling like reasoning). The second one is what \"God told me X\" and \"I already believed X and found the verse\" have in common — not lying, a real cognitive process that produces sincere conviction.",
-    "raw_text": "**7.3 Confirmation bias and motivated reasoning are two different failures, not one.** Peter Wason, \"On the failure to eliminate hypotheses in a conceptual task,\" *Quarterly Journal of Experimental Psychology* 12(3) (1960): 129–140 — the founding 2-4-6 experiment. Subjects given a rule to discover overwhelmingly tested it by seeking confirming instances, almost never by trying to falsify it. This is confirmation bias: a search-strategy failure, present even when the person has no stake in the outcome. Ziva Kunda, \"The Case for Motivated Reasoning,\" *Psychological Bulletin* 108(3) (1990): 480–498 — a distinct mechanism: people reach conclusions they're motivated to reach, but *constrained* by the need to construct a justification a neutral observer would find reasonable. Kunda's own distinction: accuracy-motivated reasoning (trying to get it right) versus directionally-motivated reasoning (trying to arrive somewhere specific while still feeling like reasoning). The second one is what \"God told me X\" and \"I already believed X and found the verse\" have in common — not lying, a real cognitive process that produces sincere conviction.",
+    "id": "rk_43afb91e4b62491cfa9e",
+    "text": "Peter Wason, \"On the failure to eliminate hypotheses in a conceptual task,\" Quarterly Journal of Experimental Psychology 12(3) (1960): 129–140 — the founding 2-4-6 experiment. Subjects given a rule to discover overwhelmingly tested it by seeking confirming instances, almost never by trying to falsify it. This is confirmation bias: a search-strategy failure, present even when the person has no stake in the outcome. Ziva Kunda, \"The Case for Motivated Reasoning,\" Psychological Bulletin 108(3) (1990): 480–498 — a distinct mechanism: people reach conclusions they're motivated to reach, but constrained by the need to construct a justification a neutral observer would find reasonable. Kunda's own distinction: accuracy-motivated reasoning (trying to get it right) versus directionally-motivated reasoning (trying to arrive somewhere specific while still feeling like reasoning). The second one is what \"God told me X\" and \"I already believed X and found the verse\" have in common — not lying, a real cognitive process that produces sincere conviction.",
+    "raw_text": "Peter Wason, \"On the failure to eliminate hypotheses in a conceptual task,\" *Quarterly Journal of Experimental Psychology* 12(3) (1960): 129–140 — the founding 2-4-6 experiment. Subjects given a rule to discover overwhelmingly tested it by seeking confirming instances, almost never by trying to falsify it. This is confirmation bias: a search-strategy failure, present even when the person has no stake in the outcome. Ziva Kunda, \"The Case for Motivated Reasoning,\" *Psychological Bulletin* 108(3) (1990): 480–498 — a distinct mechanism: people reach conclusions they're motivated to reach, but *constrained* by the need to construct a justification a neutral observer would find reasonable. Kunda's own distinction: accuracy-motivated reasoning (trying to get it right) versus directionally-motivated reasoning (trying to arrive somewhere specific while still feeling like reasoning). The second one is what \"God told me X\" and \"I already believed X and found the verse\" have in common — not lying, a real cognitive process that produces sincere conviction.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "7. Critical Thinking — Definition and How to Apply It"
+      "7. Critical Thinking — Definition and How to Apply It",
+      "7.3 Confirmation bias and motivated reasoning are two different failures, not one"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1645,7 +1648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It",
+    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It > 7.3 Confirmation bias and motivated reasoning are two different failures, not one",
     "source_reference": "paragraph:53",
     "parent_id": null,
     "related_ids": [],
@@ -1660,15 +1663,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_94da49da9fe8a252c0e0",
-    "text": "7.4 A checklist for claims, not just a theory of error. Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark (Random House, 1995), ch. \"The Fine Art of Baloney Detection\" — nine tools, verified against the original text rather than the many garbled paraphrases circulating online: (1) seek independent confirmation of facts where possible; (2) encourage substantive debate on the evidence by knowledgeable proponents of all viewpoints; (3) arguments from authority carry little weight — \"authorities\" have been wrong before and will be again; (4) spin more than one hypothesis, and test ways to falsify each, rather than running with the first idea that appeals; (5) don't get overly attached to a hypothesis just because it's yours; (6) quantify where possible; (7) every link in a chain of argument must work, including the premise, not just the majority of links; (8) apply Occam's Razor — when two hypotheses explain the data equally well, prefer the simpler; (9) ask whether the claim can be falsified at all, in principle. This is a direct, practical companion to §1's survey method — item 2 is §1's \"strongest case for every side,\" item 3 is §1's \"position is context, not disqualification,\" item 9 connects straight to §7.5 below.",
-    "raw_text": "**7.4 A checklist for claims, not just a theory of error.** Carl Sagan, *The Demon-Haunted World: Science as a Candle in the Dark* (Random House, 1995), ch. \"The Fine Art of Baloney Detection\" — nine tools, verified against the original text rather than the many garbled paraphrases circulating online: (1) seek independent confirmation of facts where possible; (2) encourage substantive debate on the evidence by knowledgeable proponents of all viewpoints; (3) arguments from authority carry little weight — \"authorities\" have been wrong before and will be again; (4) spin more than one hypothesis, and test ways to falsify each, rather than running with the first idea that appeals; (5) don't get overly attached to a hypothesis just because it's yours; (6) quantify where possible; (7) every link in a chain of argument must work, including the premise, not just the majority of links; (8) apply Occam's Razor — when two hypotheses explain the data equally well, prefer the simpler; (9) ask whether the claim can be falsified at all, in principle. This is a direct, practical companion to §1's survey method — item 2 is §1's \"strongest case for every side,\" item 3 is §1's \"position is context, not disqualification,\" item 9 connects straight to §7.5 below.",
+    "id": "rk_f6575bd8ac3ee80abb7a",
+    "text": "Carl Sagan, The Demon-Haunted World: Science as a Candle in the Dark (Random House, 1995), ch. \"The Fine Art of Baloney Detection\" — nine tools, verified against the original text rather than the many garbled paraphrases circulating online: (1) seek independent confirmation of facts where possible; (2) encourage substantive debate on the evidence by knowledgeable proponents of all viewpoints; (3) arguments from authority carry little weight — \"authorities\" have been wrong before and will be again; (4) spin more than one hypothesis, and test ways to falsify each, rather than running with the first idea that appeals; (5) don't get overly attached to a hypothesis just because it's yours; (6) quantify where possible; (7) every link in a chain of argument must work, including the premise, not just the majority of links; (8) apply Occam's Razor — when two hypotheses explain the data equally well, prefer the simpler; (9) ask whether the claim can be falsified at all, in principle. This is a direct, practical companion to §1's survey method — item 2 is §1's \"strongest case for every side,\" item 3 is §1's \"position is context, not disqualification,\" item 9 connects straight to §7.5 below.",
+    "raw_text": "Carl Sagan, *The Demon-Haunted World: Science as a Candle in the Dark* (Random House, 1995), ch. \"The Fine Art of Baloney Detection\" — nine tools, verified against the original text rather than the many garbled paraphrases circulating online: (1) seek independent confirmation of facts where possible; (2) encourage substantive debate on the evidence by knowledgeable proponents of all viewpoints; (3) arguments from authority carry little weight — \"authorities\" have been wrong before and will be again; (4) spin more than one hypothesis, and test ways to falsify each, rather than running with the first idea that appeals; (5) don't get overly attached to a hypothesis just because it's yours; (6) quantify where possible; (7) every link in a chain of argument must work, including the premise, not just the majority of links; (8) apply Occam's Razor — when two hypotheses explain the data equally well, prefer the simpler; (9) ask whether the claim can be falsified at all, in principle. This is a direct, practical companion to §1's survey method — item 2 is §1's \"strongest case for every side,\" item 3 is §1's \"position is context, not disqualification,\" item 9 connects straight to §7.5 below.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "7. Critical Thinking — Definition and How to Apply It"
+      "7. Critical Thinking — Definition and How to Apply It",
+      "7.4 A checklist for claims, not just a theory of error"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1676,7 +1680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It",
+    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It > 7.4 A checklist for claims, not just a theory of error",
     "source_reference": "paragraph:54",
     "parent_id": null,
     "related_ids": [],
@@ -1691,15 +1695,16 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_54fe55235df56c3373a0",
-    "text": "7.5 Falsifiability is a demarcation test, not a truth test — and it cuts both ways. Karl Popper, The Logic of Scientific Discovery (German, 1934; English translation, 1959) — a claim is scientific if some observation could in principle count against it, not if it happens to be true. Popper's own point is narrower than it's often used for: falsifiability sorts claims into \"testable\" and \"not testable,\" it does not sort them into \"true\" and \"false.\" An unfalsifiable claim isn't thereby false. This matters directly for this corpus's recurring \"we can't understand God's reasons\" pattern (see the theodicy material at Observations §10, §12.12): the honest conclusion from unfalsifiability is that the claim carries no evidential weight in either direction — it can't be used to prove God's conduct is justified, and by the same logic it can't be used to prove it isn't. Selectively invoking unfalsifiability only when the evidence looks bad is the actual move to watch for, not unfalsifiability itself.",
-    "raw_text": "**7.5 Falsifiability is a demarcation test, not a truth test — and it cuts both ways.** Karl Popper, *The Logic of Scientific Discovery* (German, 1934; English translation, 1959) — a claim is scientific if some observation could in principle count against it, not if it happens to be true. Popper's own point is narrower than it's often used for: falsifiability sorts claims into \"testable\" and \"not testable,\" it does not sort them into \"true\" and \"false.\" An unfalsifiable claim isn't thereby false. This matters directly for this corpus's recurring \"we can't understand God's reasons\" pattern (see the theodicy material at Observations §10, §12.12): the honest conclusion from unfalsifiability is that the claim carries no evidential weight *in either direction* — it can't be used to prove God's conduct is justified, and by the same logic it can't be used to prove it isn't. Selectively invoking unfalsifiability only when the evidence looks bad is the actual move to watch for, not unfalsifiability itself.",
+    "id": "rk_fd7ccf50bc53f49b82e9",
+    "text": "Karl Popper, The Logic of Scientific Discovery (German, 1934; English translation, 1959) — a claim is scientific if some observation could in principle count against it, not if it happens to be true. Popper's own point is narrower than it's often used for: falsifiability sorts claims into \"testable\" and \"not testable,\" it does not sort them into \"true\" and \"false.\" An unfalsifiable claim isn't thereby false. This matters directly for this corpus's recurring \"we can't understand God's reasons\" pattern (see the theodicy material at Observations §10, §12.12): the honest conclusion from unfalsifiability is that the claim carries no evidential weight in either direction — it can't be used to prove God's conduct is justified, and by the same logic it can't be used to prove it isn't. Selectively invoking unfalsifiability only when the evidence looks bad is the actual move to watch for, not unfalsifiability itself.",
+    "raw_text": "Karl Popper, *The Logic of Scientific Discovery* (German, 1934; English translation, 1959) — a claim is scientific if some observation could in principle count against it, not if it happens to be true. Popper's own point is narrower than it's often used for: falsifiability sorts claims into \"testable\" and \"not testable,\" it does not sort them into \"true\" and \"false.\" An unfalsifiable claim isn't thereby false. This matters directly for this corpus's recurring \"we can't understand God's reasons\" pattern (see the theodicy material at Observations §10, §12.12): the honest conclusion from unfalsifiability is that the claim carries no evidential weight *in either direction* — it can't be used to prove God's conduct is justified, and by the same logic it can't be used to prove it isn't. Selectively invoking unfalsifiability only when the evidence looks bad is the actual move to watch for, not unfalsifiability itself.",
     "provenance_type": "CLAUDE",
     "representation_type": "SUMMARY",
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "7. Critical Thinking — Definition and How to Apply It"
+      "7. Critical Thinking — Definition and How to Apply It",
+      "7.5 Falsifiability is a demarcation test, not a truth test — and it cuts both ways"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1707,7 +1712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It",
+    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It > 7.5 Falsifiability is a demarcation test, not a truth test — and it cuts both ways",
     "source_reference": "paragraph:55",
     "parent_id": null,
     "related_ids": [],
@@ -1722,7 +1727,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_32a7de2477633992cc72",
+    "id": "rk_805144d2ecdc6f3c94ea",
     "text": "Use note: this section is a toolkit, not a checklist to append to every entry. §7.4's nine items and §1's method overlap by design — apply §1 to the corpus's own contested claims, and treat §7 as the underlying reason §1's rules are the rules they are, useful for catching the same failures in live conversation where the formal survey method is overkill.",
     "raw_text": "**Use note:** this section is a toolkit, not a checklist to append to every entry. §7.4's nine items and §1's method overlap by design — apply §1 to the corpus's own contested claims, and treat §7 as the underlying reason §1's rules are the rules they are, useful for catching the same failures in live conversation where the formal survey method is overkill.",
     "provenance_type": "CLAUDE",
@@ -1730,7 +1735,8 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "speaker": "Claude",
     "topics": [
       "Method & Reference",
-      "7. Critical Thinking — Definition and How to Apply It"
+      "7. Critical Thinking — Definition and How to Apply It",
+      "7.5 Falsifiability is a demarcation test, not a truth test — and it cuts both ways"
     ],
     "subtopics": [],
     "record_type": "OBSERVATION",
@@ -1738,7 +1744,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "position_status": null,
     "original_date": null,
     "source_file": "Method_and_Reference.md",
-    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It",
+    "source_section": "Method & Reference > 7. Critical Thinking — Definition and How to Apply It > 7.5 Falsifiability is a demarcation test, not a truth test — and it cuts both ways",
     "source_reference": "paragraph:56",
     "parent_id": null,
     "related_ids": [],

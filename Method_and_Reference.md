@@ -119,7 +119,7 @@ All section numbers below refer to Observations (`Field_Guide_Conversation_Refer
 | 63 | Pompey takes Jerusalem — Rome arrives |
 | 37–4 | Herod the Great; Temple expansion |
 
-**What forms in this window:** resurrection of the dead · hell · a cosmic Satan · angelology · messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue and Torah study. **None of it is in the Torah.**
+**What develops substantially in this window:** resurrection of the dead · postmortem judgment and hell · a cosmic Satan · elaborated hierarchies and systems of angelology and demonology · intensified messianic expectation · Pharisees, Sadducees, Essenes, Zealots · synagogue-centered communal life and Torah study. The Torah already contains divine messengers commonly translated as angels and some antecedents for several other ideas; the claim is about the later developed systems and institutions, not the total absence of every component.
 
 ### 5.3 Jesus and the New Testament
 
@@ -181,7 +181,7 @@ These are the figures to have ready. Every one is a *gap between event and writi
 - **~20 years** — crucifixion to Paul's earliest letter (c. 50), which contains **no birth narrative, no empty tomb, no biography**
 - **~60–70 years** — crucifixion to John
 - **~85 years** — crucifixion to Tacitus
-- **150+ years** — the earliest substantial New Testament manuscripts are 2nd–3rd century. **No manuscript can reach behind that.**
+- **150+ years** — the earliest substantial surviving physical New Testament manuscripts are 2nd–3rd century. No surviving physical witness predates that range; textual criticism can nevertheless compare later witnesses and variants to reconstruct an earlier attainable text, so manuscript date is not a hard limit on textual inference.
 - **~600 years** — the oldest complete Hebrew Bible manuscripts are medieval; the Dead Sea Scrolls close most but not all of that gap
 - **100–200 years** — Muhammad's death (632) to the written *sira* and hadith
 - **~1,000 years** — Israel's emergence (c. 1200 BCE) to the Torah's likely final shaping (Persian period)
@@ -190,7 +190,7 @@ These are the figures to have ready. Every one is a *gap between event and writi
 
 ### 5.8 New Perspective on Paul — who to read
 
-The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians): Sanders (*Paul and Palestinian Judaism*, 1977), Dunn, and Wright argue Paul's target was Jewish ethnic boundary markers, not legalistic self-righteousness — that the traditional Lutheran reading of "justification by faith" imports a 16th-century framework onto a 1st-century argument.
+The live fault line for the undisputed Paulines (Galatians, Romans, 1–2 Corinthians) cannot be represented as one Sanders/Dunn/Wright position. **E.P. Sanders**, *Paul and Palestinian Judaism* (1977), argued that Second Temple Judaism is better described as covenantal nomism — election and grace establish the covenant; obedience maintains life within it — challenging the Christian caricature of Judaism as simple works-righteousness. **James D.G. Dunn** extended that reassessment into Paul's phrase “works of the law,” emphasizing Torah practices that marked Jewish identity and separated Jews from Gentiles, while later clarifying that the phrase is not limited to circumcision, food laws, and Sabbath. **N.T. Wright** accepts much of Dunn's boundary-marker analysis but places justification in a larger covenantal and forensic account: God's declaration that someone belongs to the forgiven, multiethnic covenant family. Wright explicitly presents his version as distinct from Sanders and from many other “new perspective” positions. Grouping the three together is useful as intellectual history but inaccurate as an exegetical summary.
 
 Stephen Westerholm [EVANGELICAL], *Perspectives Old and New on Paul: The Lutheran Paul and His Critics* (Eerdmans, 2004) — its history-of-interpretation chapters are widely regarded as the fairest survey of the debate's history available, but the book itself argues for the substantial correctness of the traditional reading. Treat it as the best-informed voice on the traditional side, not a neutral referee.
 
@@ -198,7 +198,7 @@ Peter Stuhlmacher [LUTHERAN-CONFESSIONAL], *Revisiting Paul's Doctrine of Justif
 
 Neither is neutral. Both are serious, methodologically rigorous participants on the traditional side, worth reading specifically because they know the New Perspective's case well enough to argue against it directly.
 
-**Full survey entry — Sanders/Dunn/Wright's own positions, weighed against Westerholm/Stuhlmacher — still pending**, per Study Notes' reading log; scheduled for when the reading reaches Galatians 3–4.
+The Study Notes §9.5.2–§9.5.4 now contains the fuller comparison across Sanders, Dunn, Wright, Westerholm, Stuhlmacher, Schreiner, and Martyn. Use that treatment instead of collapsing the New Perspective into a single thesis.
 
 *Living document — update as reading and conversations progress*
 

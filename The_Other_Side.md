@@ -72,7 +72,7 @@ This category surprises people. These are working scholars publishing in the sam
 
 **Augustine** (354–430) — original sin, the just war, and the position on Genesis that keeps getting rediscovered: he argued in *The Literal Meaning of Genesis* that Christians who make foolish claims about the natural world discredit scripture, and that the "days" need not be ordinary days.
 
-**Thomas Aquinas** (1225–1274) — the tripartite division of the Law (moral / civil / ceremonial) that sorts which Old Testament commands still bind. Every believer uses it; almost none know it is his.
+**Thomas Aquinas** (1225–1274) — formulated a tripartite division of the Old Law (moral / judicial / ceremonial) that remains influential in Catholic theology and in many Protestant approaches to deciding which Old Testament commands still bind. It is a particular Christian interpretive tradition, not a framework literally used by every believer (see *Summa Theologiae* I–II, q. 99, arts. 3–4).
 
 **John Calvin** (1509–1564) — accommodation: God speaks in terms adjusted to human capacity, "as nurses commonly do with infants." This is the origin of most modern science-and-scripture harmonization.
 
@@ -92,7 +92,7 @@ The frameworks doing this work are real and old. Every one below is a legitimate
 
 ### 2.2 The named frameworks — learn these and the fog clears
 
-**The Quadriga (fourfold sense).** The dominant Christian method for roughly 1,700 years. <cite index="65-1">Four layers: the literal or historical, the tropological or moral, the allegorical or doctrinal, and the anagogical or ultimate/eschatological.</cite> <cite index="63-1">The allegorical layer includes typology — events, persons, or statements seen as prefiguring later ones.</cite> Systematized by Origen and Bonaventure; <cite index="65-1">the fourfold pattern was grounded in an association Augustine and Gregory the Great had already made between faith, hope, and love and the meaning of the text.</cite>
+**The Quadriga (fourfold sense).** A dominant medieval Christian method, developed over centuries. <cite index="65-1">Four layers: the literal or historical, the tropological or moral, the allegorical or doctrinal, and the anagogical or ultimate/eschatological.</cite> <cite index="63-1">The allegorical layer includes typology — events, persons, or statements seen as prefiguring later ones.</cite> Origen elaborated a threefold scheme — literal, allegorical, and moral — rather than the later Quadriga itself; subsequent exegetes developed threefold and fourfold arrangements, with Bonaventure among the mature medieval systematizers (Deeana Copeland Klepper, “Theories of interpretation: the quadriga and its successors,” *The New Cambridge History of the Bible*, 2016). <cite index="65-1">The later fourfold pattern was also grounded in associations Augustine and Gregory the Great made between faith, hope, love, and the meaning of the text.</cite>
 
 Note what defenders themselves emphasize: <cite index="68-1">a proper understanding treats the literal sense as primary — the foundation and bedrock, since any hermeneutic that neglects grammar and history is immediately unmoored.</cite> That concession is useful to you. Even the tradition's advocates hold that allegory is supposed to be *built on* the literal sense, not a substitute for it when the literal sense becomes inconvenient.
 
