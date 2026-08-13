@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import { buildSearchIndex } from './build-search-index.mjs';
 
 const READERS = [
   ['master-notes.html', 'Study Notes', 'The full study — audits, corrections, and the reading in progress.'],
@@ -11,6 +12,7 @@ const READERS = [
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
   ['cited-persons.html', 'Cited Persons', 'Who each cited person is and where they are coming from — worldview, position, and flags.'],
+  ['search.html', 'Search', 'Search across all documents and cited persons by name, topic, or scholar.'],
 ];
 
 // The deployed site is the full product, mirroring the repo layout so the
@@ -140,11 +142,17 @@ for (const file of allFiles) {
 }
 fs.writeFileSync(path.join(output, 'index.html'), buildIndexHtml(), 'utf8');
 
+// Build search index from the reader HTML files already copied to dist
+const searchIndex = buildSearchIndex(output);
+const searchIndexJson = JSON.stringify(searchIndex);
+fs.writeFileSync(path.join(output, 'search-index.json'), searchIndexJson, 'utf8');
+
 console.log(`READER_SITE_BUILD_SUMMARY=${JSON.stringify({
   output,
   readers: READERS.length,
   app_files: APP_FILES.length,
   data_files: DATA_FILES.length + generatedFiles.length,
   canonical_sources: CANONICAL_SOURCES.length,
-  total_files: allFiles.length + 1,
+  search_entries: searchIndex.length,
+  total_files: allFiles.length + 2,
 })}`);

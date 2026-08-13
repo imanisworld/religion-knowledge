@@ -1,0 +1,116 @@
+/**
+ * Build search-index.json from all HTML reader files.
+ * Run: node scripts/build-search-index.mjs [--output path/to/search-index.json]
+ */
+import fs from 'node:fs';
+import path from 'node:path';
+
+const DOC_META = [
+  ['master-notes.html',    'Study Notes'],
+  ['field-guide.html',     'Observations'],
+  ['history.html',         'History'],
+  ['sources.html',         'Sources'],
+  ['other-side.html',      'The Strongest Case'],
+  ['translations.html',    'Translations'],
+  ['method-reference.html','Method & Reference'],
+  ['glossary.html',        'Glossary'],
+  ['cited-persons.html',   'Cited Persons'],
+];
+
+function stripHtml(html) {
+  return html
+    .replace(/<[^>]*>/gs, ' ')
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#8217;/g, '’')
+    .replace(/&#8220;/g, '“')
+    .replace(/&#8221;/g, '”')
+    .replace(/&#8211;/g, '–')
+    .replace(/&#8212;/g, '—')
+    .replace(/&#167;/g, '§')
+    .replace(/&#\d+;/g, ' ')
+    .replace(/&#x[0-9a-f]+;/gi, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
+function extractPersons(html, filename, docTitle) {
+  const entries = [];
+  const pRe = /<p id="(person-[^"]+)">([\s\S]*?)<\/p>/gi;
+  let m;
+  while ((m = pRe.exec(html)) !== null) {
+    const [, id, inner] = m;
+    const text = stripHtml(inner);
+    const nameM = inner.match(/<strong>([^<]+)<\/strong>/);
+    const name = nameM ? nameM[1] : id.replace('person-', '').replace(/-/g, ' ');
+    const flag = /<span class="flag-tag"/.test(inner);
+    entries.push({
+      url: `${filename}#${id}`,
+      doc: docTitle,
+      title: name,
+      text: text.slice(0, 600),
+      flag,
+    });
+  }
+  return entries;
+}
+
+function extractSections(html, filename, docTitle) {
+  const entries = [];
+  const headRe = /<h([23])[^>]*\sid="([^"]+)"[^>]*>([\s\S]*?)<\/h\1>/gi;
+  const headings = [];
+  let m;
+  while ((m = headRe.exec(html)) !== null) {
+    headings.push({ id: m[2], title: stripHtml(m[3]), pos: m.index, end: headRe.lastIndex });
+  }
+  for (let i = 0; i < headings.length; i++) {
+    const h = headings[i];
+    const nextPos = headings[i + 1]?.pos ?? html.length;
+    const body = html.slice(h.end, nextPos);
+    // Skip the section if it's mostly nav/metadata (< 30 chars of body text)
+    const text = stripHtml(body);
+    if (text.length < 30) continue;
+    entries.push({
+      url: `${filename}#${h.id}`,
+      doc: docTitle,
+      title: h.title,
+      text: text.slice(0, 600),
+      flag: false,
+    });
+  }
+  return entries;
+}
+
+export function buildSearchIndex(baseDir = '.') {
+  const index = [];
+  for (const [filename, docTitle] of DOC_META) {
+    const filepath = path.join(baseDir, filename);
+    if (!fs.existsSync(filepath)) {
+      process.stderr.write(`SKIP (not found): ${filepath}\n`);
+      continue;
+    }
+    const html = fs.readFileSync(filepath, 'utf8');
+    const entries = filename === 'cited-persons.html'
+      ? extractPersons(html, filename, docTitle)
+      : extractSections(html, filename, docTitle);
+    index.push(...entries);
+    process.stdout.write(`  ${filename}: ${entries.length} entries\n`);
+  }
+  return index;
+}
+
+// CLI entry point
+if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(import.meta.url.replace('file://', ''))) {
+  const args = process.argv.slice(2);
+  let outFile = 'search-index.json';
+  for (let i = 0; i < args.length; i++) {
+    if (args[i] === '--output' && args[i + 1]) { outFile = args[++i]; }
+  }
+  process.stdout.write('Building search index...\n');
+  const index = buildSearchIndex('.');
+  const json = JSON.stringify(index);
+  fs.writeFileSync(outFile, json, 'utf8');
+  process.stdout.write(`\nWrote ${outFile}: ${index.length} entries, ${json.length} bytes\n`);
+}
