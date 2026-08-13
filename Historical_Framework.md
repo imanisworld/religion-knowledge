@@ -152,7 +152,7 @@ This period supplies the often-missing context between Malachi and Matthew, when
 
 **70 CE is the hinge.** Most critical scholars date Mark around 70 CE — some argue the late 60s — and Matthew, Luke, and John later. The dates remain debated, so do not say *every* Gospel is written after 70; say most critical dating places them around or after it. Judaism and Christianity both reorganize around its absence — rabbinic Judaism replacing sacrifice with study and prayer, Christianity reading the destruction as vindication. Any reading of the Gospels that ignores 70 CE is missing the environment they were composed in.
 
-## 2.6 Pre-Exilic Folk Religion and the Asherah Evidence
+### 2.6 Pre-Exilic Folk Religion and the Asherah Evidence
 
 The standard picture of ancient Israelite religion as strictly monotheist from early on is contradicted by both the biblical text itself and material evidence from the 9th–8th centuries BCE. The evidence indicates that devotion to Asherah — whether understood as the goddess or as a cultic symbol associated with her — was an ordinary feature of popular Yahwism during the monarchy period, not an aberrant intrusion.
 

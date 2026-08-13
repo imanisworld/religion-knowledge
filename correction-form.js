@@ -11,7 +11,7 @@
   /* ── Styles ── */
   const style = document.createElement('style');
   style.textContent =
-    '#cf-btn{position:fixed;bottom:1.5rem;left:1.5rem;z-index:99;' +
+    '#cf-btn{position:fixed;bottom:1.5rem;left:calc(var(--rail,0px) + 1.5rem);z-index:99;' +
       'background:#1F5E5B;color:#fff;border:none;border-radius:6px;' +
       'padding:.45rem .75rem;font-size:.78rem;font-family:monospace;' +
       'cursor:pointer;box-shadow:0 2px 8px rgba(0,0,0,.22);' +
