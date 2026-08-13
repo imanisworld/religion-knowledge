@@ -9,5 +9,8 @@
     "build:search-index": "node scripts/build-search-index.mjs",
     "build:reader-site": "node scripts/build-reader-site.mjs --output dist/reader-site",
     "deploy:reader-site": "wrangler deploy"
+  },
+  "dependencies": {
+    "marked": "^18.0.9"
   }
 }
