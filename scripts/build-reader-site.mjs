@@ -10,6 +10,7 @@ const READERS = [
   ['translations.html', 'Translations', 'Translation history and the choices behind disputed renderings.'],
   ['method-reference.html', 'Method & Reference', 'Survey method, open audit queue, reading timeline.'],
   ['glossary.html', 'Glossary', 'Terms and definitions used across the study.'],
+  ['cited-persons.html', 'Cited Persons', 'Who each cited person is and where they are coming from — worldview, position, and flags.'],
 ];
 
 // The deployed site is the full product, mirroring the repo layout so the
@@ -40,6 +41,7 @@ const CANONICAL_SOURCES = [
   'Sources_and_Primary_Texts.md',
   'The_Other_Side.md',
   'Translations.md',
+  'Cited_Persons.md',
 ];
 
 function parseArgs(argv) {
