@@ -36,6 +36,7 @@ const DATA_FILES = [
 
 const MISC_FILES = [
   'highlight-referral.js',
+  'correction-form.js',
 ];
 
 const CANONICAL_SOURCES = [
