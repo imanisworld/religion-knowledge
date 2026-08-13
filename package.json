@@ -8,6 +8,7 @@
     "build:standalone": "node scripts/build-standalone.mjs --output dist/religion-knowledge-standalone.html",
     "build:search-index": "node scripts/build-search-index.mjs",
     "build:reader-site": "node scripts/build-reader-site.mjs --output dist/reader-site",
+    "build:readers": "node scripts/build-readers.mjs",
     "deploy:reader-site": "wrangler deploy"
   },
   "dependencies": {
