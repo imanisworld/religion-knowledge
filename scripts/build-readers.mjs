@@ -21,6 +21,78 @@ marked.use({ mangle: false, headerIds: false });
 // Links are [displayText, href].
 
 const RELATED_BY_DOC = {
+  'history.html': {
+    's2-4': [
+      [['Study §5.4 damnation escalation', 'master-notes.html#s5-4'],
+       ['Observations §9.2 hell as a claim', 'field-guide.html#s9-2']],
+    ],
+    's3': [
+      [['Study §6 the Gospels themselves', 'master-notes.html#s6-1'],
+       ['§9 mythicism — do not use it', '#s9']],
+    ],
+    's5': [
+      [['Study §5.2 key structural facts', 'master-notes.html#s5-2'],
+       ['§7 what Nicaea did not do', '#s7']],
+    ],
+    's7': [
+      [['§9 the myth version to avoid', '#s9'],
+       ['Observations §13 the Trinity', 'field-guide.html#s13']],
+    ],
+    's9': [
+      [['§10 the other side\'s bad history', '#s10'],
+       ['§11 handling uncertainty', '#s11'],
+       ['Study §11 the audit method', 'master-notes.html#s11']],
+    ],
+    's10': [
+      [['§4 the manuscript answer', '#s4'],
+       ['Study §6.5 slavery in disputed letters', 'master-notes.html#s6-5']],
+    ],
+  },
+  'sources.html': {
+    's1-4': [
+      [['History §2.2 the 701 BCE timeline', 'history.html#s2-2'],
+       ['History §1.3 what archaeology proves', 'history.html#s1-3']],
+    ],
+    's2-2': [
+      [['History §2.4 Second Temple period', 'history.html#s2-4'],
+       ['History §4 manuscripts', 'history.html#s4']],
+    ],
+    's2-3': [
+      [['History §3 sources outside the NT', 'history.html#s3'],
+       ['History §9 do not call it a forgery', 'history.html#s9']],
+    ],
+    's4-1': [
+      [['History §4 what manuscripts establish', 'history.html#s4'],
+       ['Study §8 John', 'master-notes.html#s8']],
+    ],
+    's6-1': [
+      [['History §9 common skeptical claims', 'history.html#s9'],
+       ['Study §11 the audit method', 'master-notes.html#s11']],
+    ],
+  },
+  'other-side.html': {
+    's1-2': [
+      [['History §3 sources outside the NT', 'history.html#s3'],
+       ['Study §6 the Gospels', 'master-notes.html#s6-1']],
+    ],
+    's1-3': [
+      [['Study §1.8 Exodus audit — Hoffmeier', 'master-notes.html#s1-8'],
+       ['History §10 apologetic history', 'history.html#s10']],
+    ],
+    's2-2': [
+      [['Study §1.5 selective law-keeping', 'master-notes.html#s1-5'],
+       ['Study §2 translation issues', 'master-notes.html#s2'],
+       ['Observations §10 adding your own understanding', 'field-guide.html#s10']],
+    ],
+    's2-4': [
+      [['Study §1.5 the same structural point', 'master-notes.html#s1-5'],
+       ['Observations §1.2 circular reasoning', 'field-guide.html#s1-2']],
+    ],
+    's3': [
+      [['History §11 handling uncertainty', 'history.html#s11'],
+       ['Study §11 audit method', 'master-notes.html#s11']],
+    ],
+  },
   'master-notes.html': {
     's1': [
       [['History §1 how evidence works', 'history.html#s1'],
@@ -375,8 +447,10 @@ const FIELD_LABEL_RE = new RegExp(
 );
 
 function parseAuditBlock(lines) {
-  const title = lines[0].replace(/^####\s*⚑\s*AUDIT\s*—\s*/, '').trim();
-  const id = 'a-' + slugify(title);
+  const isAddendum = /^####\s*⚑\s*AUDIT\s+ADDENDUM\s*—/.test(lines[0]);
+  const rawTitle = lines[0].replace(/^####\s*⚑\s*AUDIT(?:\s+ADDENDUM)?\s*—\s*/, '').trim();
+  const title = isAddendum ? `Addendum — ${rawTitle}` : rawTitle;
+  const id = 'a-' + slugify(isAddendum ? 'addendum-' + rawTitle : rawTitle);
 
   let stamp = '';
   let badge = '';
@@ -439,7 +513,10 @@ function parseAuditBlock(lines) {
   flushField();
 
   // Default badge/status if not found
-  if (!badge) { badge = 'Unchecked'; dataStatus = 'new'; }
+  if (!badge) {
+    badge = isAddendum ? 'Overstated' : 'Unchecked';
+    dataStatus = isAddendum ? 'overstated' : 'new';
+  }
 
   return { title, id, stamp, badge, dataStatus, fields };
 }
@@ -478,7 +555,7 @@ function parseDocument(src, doc) {
     const line = lines[i];
 
     // ── AUDIT block ──────────────────────────────────────────────────────────
-    if (/^####\s*⚑\s*AUDIT\s*—/.test(line)) {
+    if (/^####\s*⚑\s*AUDIT(?:\s+ADDENDUM)?\s*—/.test(line)) {
       flushProse();
       const auditLines = [line];
       i++;
@@ -486,7 +563,7 @@ function parseDocument(src, doc) {
         const al = lines[i];
         // End at `---`, next non-audit heading, or start of another audit block
         if (/^---+\s*$/.test(al)) { i++; break; }
-        if (/^####\s*⚑\s*AUDIT\s*—/.test(al) && al !== auditLines[0]) break;
+        if (/^####\s*⚑\s*AUDIT(?:\s+ADDENDUM)?\s*—/.test(al) && al !== auditLines[0]) break;
         if (/^#{1,4}\s/.test(al)) break;
         auditLines.push(al);
         i++;
