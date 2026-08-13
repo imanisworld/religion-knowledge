@@ -301,24 +301,11 @@ audit sections onward is marked.</p>`,
     hasHowto:  false,
     chapterMarkers: false,
   },
-  {
-    md:       'Cited_Persons.md',
-    html:     'cited-persons.html',
-    title:    'Cited Persons',
-    doctitle: 'Cited Persons',
-    docsub:   'Who they are + where they stand',
-    lens:     'Source Orientation and Citation Control',
-    masthead: 'Cited Persons',
-    meta:     '<span><b>Updated</b>12 August 2026</span><span><b>Scope</b>Orientation index; excluded from app dataset</span>',
-    hasAudits: false,
-    hasHowto:  true,
-    howto:     '<p><strong>Purpose.</strong> Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable.</p><p><strong>Control status — 12 August 2026.</strong> This is a working orientation index, not an audited authority file. <strong>Complete named-entry pass: 165 documented, 200 unresolved; 0 entries not yet audited (365 named entries total).</strong> The index remains intentionally excluded from the eight-source app dataset. A <code>CHECKED</code> label means the wording is supported by linked evidence; <code>UNRESOLVED</code> means the claim must not be quoted as established. Corrections are made openly.</p>',
-    chapterMarkers: false,
-    alphaSections: true,
-    stripPreamble: true,
-    personIndex: true,
-  },
 ];
+
+// cited-persons.html is maintained by hand alongside Cited_Persons.md.
+// It is excluded from the generated pipeline to preserve its clean flag-tag
+// format; Cited_Persons.md entries are under review and not publication-ready.
 
 // ── Helpers ───────────────────────────────────────────────────────────────────
 
