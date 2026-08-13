@@ -2,11 +2,11 @@
 
 *Bible Reading, Religion, Morality, and Conversation*
 
-Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026
+Companion to: Bible Deep Dive Study Notes  |  Last updated: 12 August 2026
 
 > **Provenance.** **Written by:** you and Claude together across sessions. §1–§17 predate this marking convention and are genuinely mixed — no longer cleanly separable after the fact. The fieldwork observations at §7 are yours. The reading timeline and survey method moved to Method & Reference on 10 August 2026 — they were never observations about scripture, and didn't belong filed alongside them.
 
-> **Who is saying what.** Three markers run through all seven documents:
+> **Who is saying what.** Three markers run through all nine documents:
 >
 > - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.
 > - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.

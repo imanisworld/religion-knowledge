@@ -60,9 +60,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2fc5b31713479df0c70d",
-    "text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026",
-    "raw_text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 7 August 2026",
+    "id": "rk_74dcdc7fbb5d8eaf6916",
+    "text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 12 August 2026",
+    "raw_text": "Companion to: Bible Deep Dive Study Notes  |  Last updated: 12 August 2026",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -116,9 +116,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_47c15d6ebeaa6519d20f",
-    "text": "Who is saying what. Three markers run through all seven documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
-    "raw_text": "> **Who is saying what.** Three markers run through all seven documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "id": "rk_d8375c50cf6608cfc6ee",
+    "text": "Who is saying what. Three markers run through all nine documents:\n\n⟨DOCUMENTED⟩ — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n⟨INFERENCE⟩ — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n⟨YOURS⟩ — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n\nThe rule: anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
+    "raw_text": "> **Who is saying what.** Three markers run through all nine documents:\n>\n> - **⟨DOCUMENTED⟩** — a named scholar in a named publication. Checkable. If no name is attached, it is not this.\n> - **⟨INFERENCE⟩** — reasoning built on documented facts but not itself found in any source. Claude's analysis. Defensible, but nobody has published it, and it should never be cited as though someone had.\n> - **⟨YOURS⟩** — your own observation, from reading or live conversation. Recorded because it held up, not because it was agreeable.\n>\n> **The rule:** anything marked ⟨INFERENCE⟩ is Claude reasoning. Treat it exactly as sceptically as you treat everything else here.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
