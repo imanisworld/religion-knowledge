@@ -808,12 +808,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_120e64aeadc030d21b1e",
+    "id": "rk_919b5962d6c80058c9db",
     "text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
-    "raw_text": "Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
-    "provenance_type": "PRE_CONVENTION",
+    "raw_text": "⟨YOURS⟩ Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.",
+    "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
-    "speaker": null,
+    "speaker": "user",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
@@ -831,21 +831,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_134f14f90cf9a22a7484",
+    "id": "rk_3d7ac2b6f76a9b92601c",
     "text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
-    "raw_text": "Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
-    "provenance_type": "PRE_CONVENTION",
+    "raw_text": "⟨YOURS⟩ Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.",
+    "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
-    "speaker": null,
+    "speaker": "user",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
@@ -863,21 +863,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d60ce744aa1c9ef00557",
+    "id": "rk_70b263e092bb045555d8",
     "text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
-    "raw_text": "When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
-    "provenance_type": "PRE_CONVENTION",
+    "raw_text": "⟨YOURS⟩ When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.",
+    "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
-    "speaker": null,
+    "speaker": "user",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "1. Big Framework Takeaways (Old Testament)",
@@ -895,10 +895,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -2917,12 +2917,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_80ba79d774dc81f7fbae",
-    "text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
-    "raw_text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_b51b9d6c2af4f013b629",
+    "text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat.  The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
+    "raw_text": "Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. ⟨INFERENCE⟩ The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "3. Key Prophets — What Matters",
@@ -2940,10 +2940,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -2980,12 +2980,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53bba082ecbdeb691ecb",
-    "text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
-    "raw_text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_dd5376c0e9d28fef3486",
+    "text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife.  This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
+    "raw_text": "God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. ⟨INFERENCE⟩ This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT"
@@ -3002,21 +3002,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3b4884c74ba3763b4280",
-    "text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
-    "raw_text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
-    "provenance_type": "PRE_CONVENTION",
+    "id": "rk_db0c008ec2cdca0be436",
+    "text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love.  If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
+    "raw_text": "The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. ⟨YOURS⟩ If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?",
+    "provenance_type": "MY_QUESTION",
     "representation_type": "VERBATIM",
-    "speaker": null,
+    "speaker": "user",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "4. Gender, Sexuality, and Power in OT"
@@ -3033,10 +3033,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -3234,12 +3234,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_29c091ecbe26efe86a8a",
-    "text": "The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
-    "raw_text": "The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_87533c8e491a65ca717e",
+    "text": "The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof.  The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
+    "raw_text": "The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. ⟨INFERENCE⟩ The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
@@ -3257,10 +3257,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -3394,12 +3394,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_28bfdcc18016a6d03789",
-    "text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
-    "raw_text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
-    "provenance_type": "PRE_CONVENTION",
+    "id": "rk_9f9bc99cef572fed49f8",
+    "text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment —  which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
+    "raw_text": "The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — ⟨YOURS⟩ which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.",
+    "provenance_type": "MY_WORDS",
     "representation_type": "VERBATIM",
-    "speaker": null,
+    "speaker": "user",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "5. New Testament — Orientation & Critical Framework",
@@ -3417,10 +3417,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨YOURS⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -4061,7 +4061,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5f6c3f957c58768cd990",
+    "id": "rk_ca984734641fed82d0f0",
     "text": "The correct technical term, and why \"retrofitted\" undersells the sophistication: the exegetical method is *typology combined with sensus plenior (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a pattern that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's pesher technique read prophetic texts as pointing to their own community's \"last days.\" Joseph Fitzmyer [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations added onto an already-existing narrative to comment on it — closer to what genre critics call midrash, though even that label is disputed (Cunningham and Bock argue true midrash exists for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
     "raw_text": "**The correct technical term, and why \"retrofitted\" undersells the sophistication:** the exegetical method is **typology combined with *sensus plenior*** (see The Strongest Case §2.2), not simple retrofitting or fraud. Matthew is reading Israel's history as a **pattern** that recurs and culminates in Jesus — Israel called out of Egypt, Jesus called out of Egypt; this is structurally identical to how the Qumran community's **pesher** technique read prophetic texts as pointing to their own community's \"last days.\" **Joseph Fitzmyer** [CRITICAL] documents the genuine parallel and a genuine difference: Qumran pesher is a running line-by-line commentary where the ancient text drives the composition; Matthew's formula-quotations are citations **added onto** an already-existing narrative to comment on it — closer to what genre critics call **midrash**, though even that label is disputed (Cunningham and Bock argue true midrash exists *for the sake of* the older text, whereas Matthew's narrative exists independently and the citations serve it, not the reverse).",
     "provenance_type": "SOURCE",
@@ -5442,12 +5442,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_70aafbf5e4053773d1df",
+    "id": "rk_94e73454c49803235495",
     "text": "John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
-    "raw_text": "John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "raw_text": "⟨INFERENCE⟩ John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
@@ -5465,21 +5465,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_149624cef562015f89b6",
-    "text": "Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
-    "raw_text": "Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_9bda8fd3360dff3b1038",
+    "text": "Jesus in John doesn't teach in parables. He gives long theological monologues.  That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
+    "raw_text": "Jesus in John doesn't teach in parables. He gives long theological monologues. ⟨INFERENCE⟩ That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
@@ -5497,10 +5497,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -5538,12 +5538,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7fd72ac29d8ce593be33",
-    "text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.",
-    "raw_text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_dc3745fb7cd6e6f157eb",
+    "text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable.  John added it as the narrative pivot. The other authors apparently didn't know about it.",
+    "raw_text": "Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. ⟨INFERENCE⟩ John added it as the narrative pivot. The other authors apparently didn't know about it.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
@@ -5561,10 +5561,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -5602,12 +5602,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_738cb5c6d12b1ec3383f",
+    "id": "rk_38a42ccdab64f5ef8ce0",
     "text": "Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
-    "raw_text": "Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "raw_text": "⟨INFERENCE⟩ Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "8. John — The Theological Blueprint",
@@ -5625,10 +5625,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -6726,12 +6726,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_64785a3ac3f422b8850f",
-    "text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.",
-    "raw_text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_cd502ddcfd76bd61a5a6",
+    "text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses.  The Spirit fills the gap Jesus left.",
+    "raw_text": "Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. ⟨INFERENCE⟩ The Spirit fills the gap Jesus left.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
@@ -6749,21 +6749,21 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fa0cab48eda133ee62a5",
-    "text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
-    "raw_text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_a81e00453f44444865a4",
+    "text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins.  That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
+    "raw_text": "The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. ⟨INFERENCE⟩ That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
@@ -6781,10 +6781,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -7258,12 +7258,12 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a7ffd532fdaf12ab5568",
-    "text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
-    "raw_text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
-    "provenance_type": "PRE_CONVENTION",
-    "representation_type": "VERBATIM",
-    "speaker": null,
+    "id": "rk_c2fc30304ce332b3bfa7",
+    "text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match.  Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
+    "raw_text": "Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. ⟨INFERENCE⟩ Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
     "topics": [
       "Bible Deep Dive: Study Notes",
       "9. Acts — The Founding Myth",
@@ -7281,10 +7281,10 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "related_ids": [],
     "tags": [],
     "citation": null,
-    "attribution_confidence": "UNKNOWN",
+    "attribution_confidence": "PROVEN",
     "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
     },
     "review_required": false,
     "parser_version": "1.2.0"
@@ -7976,7 +7976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bb26c4864a1e4e7ebb12",
+    "id": "rk_553a43c2a1c850420e59",
     "text": "N.T. Wright [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about who belongs to God's covenant people, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "raw_text": "**N.T. Wright** [ANGLICAN, historian — see The Strongest Case §1.2] extends this further: justification is about **who belongs to God's covenant people**, not an individual's legal standing before God. Wright frames Christ as resolving Israel's exile.",
     "provenance_type": "PRE_CONVENTION",
@@ -8552,7 +8552,806 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2351a28541802e06c65a",
+    "id": "rk_beffdf5c7ec228fd68bc",
+    "text": "(Pending review from an earlier session, completed here. OT book; placed in the reading log because it was flagged as outstanding work before the Pauline letters.)",
+    "raw_text": "*(Pending review from an earlier session, completed here. OT book; placed in the reading log because it was flagged as outstanding work before the Pauline letters.)*",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law",
+    "source_reference": "paragraph:262",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6af5d20e5f182bf217f5",
+    "text": "Deuteronomy presents itself as Moses's three farewell addresses on the plains of Moab, in the final weeks before his death and before Israel enters Canaan. The book is essentially a treaty: preamble, historical retrospective, legal code (chs. 12–26), covenant renewal and oath, blessings and curses, Moses's song, and his death. That treaty structure is the entry point for every serious argument about the book's date of composition.",
+    "raw_text": "Deuteronomy presents itself as Moses's three farewell addresses on the plains of Moab, in the final weeks before his death and before Israel enters Canaan. The book is essentially a treaty: preamble, historical retrospective, legal code (chs. 12–26), covenant renewal and oath, blessings and curses, Moses's song, and his death. That treaty structure is the entry point for every serious argument about the book's date of composition.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.1 What the Book Is"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.1 What the Book Is",
+    "source_reference": "paragraph:263",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_14dae897bf5109f0d5e6",
+    "text": "Wilhelm Martin Leberecht de Wette, Dissertatio critica (1805), made the foundational move: he identified Deuteronomy — or its core — as the \"book of the law\" found during temple repairs under King Josiah (~621 BCE), narrated in 2 Kings 22–23. The text was not discovered; it was composed shortly before its \"discovery,\" to legitimate Josiah's centralizing reform. Julius Wellhausen later called this \"the epoch-making opener of the historical criticism of the Pentateuch.\" This remains the dominant critical position.",
+    "raw_text": "⟨DOCUMENTED⟩ **Wilhelm Martin Leberecht de Wette**, *Dissertatio critica* (1805), made the foundational move: he identified Deuteronomy — or its core — as the \"book of the law\" found during temple repairs under King Josiah (~621 BCE), narrated in 2 Kings 22–23. The text was not discovered; it was composed shortly before its \"discovery,\" to legitimate Josiah's centralizing reform. Julius Wellhausen later called this \"the epoch-making opener of the historical criticism of the Pentateuch.\" This remains the dominant critical position.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.2 The Composition Question: De Wette and the Josiah Connection"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.2 The Composition Question: De Wette and the Josiah Connection",
+    "source_reference": "paragraph:264",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_ba9d8e5e44822869cbb6",
+    "text": "The internal evidence for a Josianic composition date, stated plainly:",
+    "raw_text": "The internal evidence for a Josianic composition date, stated plainly:",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.2 The Composition Question: De Wette and the Josiah Connection"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.2 The Composition Question: De Wette and the Josiah Connection",
+    "source_reference": "paragraph:265",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_400d666cf1aae59d4edc",
+    "text": "The centralization mandate (ch. 12) requires worship only at \"the place the LORD your God will choose\" — historically Jerusalem. Earlier texts treat local altars as legitimate without comment: Elijah rebuilds Yahweh altars at Carmel (1 Kings 18:30), Samuel offers sacrifices throughout 1 Samuel with no centralization concern. If Deuteronomy 12 was operative from the Mosaic period, four centuries of apparent non-compliance passed without any narrator noting it as a violation.",
+    "raw_text": "**The centralization mandate (ch. 12)** requires worship only at \"the place the LORD your God will choose\" — historically Jerusalem. Earlier texts treat local altars as legitimate without comment: Elijah rebuilds Yahweh altars at Carmel (1 Kings 18:30), Samuel offers sacrifices throughout 1 Samuel with no centralization concern. If Deuteronomy 12 was operative from the Mosaic period, four centuries of apparent non-compliance passed without any narrator noting it as a violation.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.2 The Composition Question: De Wette and the Josiah Connection"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.2 The Composition Question: De Wette and the Josiah Connection",
+    "source_reference": "paragraph:266",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f95969ed34555beb2b7f",
+    "text": "The Law of the King (17:14–20) requires the king to be Israelite, limits horses and wives, and requires him to copy and follow the law personally. David collected hundreds of wives; Solomon had 700 wives and 300 concubines, 12,000 horses (1 Kings 11:3, 10:26). If this law existed from Moses, every king from Saul onward violated it with apparent divine tolerance — none of the court historians treating David as the ideal king apply this standard to him.",
+    "raw_text": "**The Law of the King (17:14–20)** requires the king to be Israelite, limits horses and wives, and requires him to copy and follow the law personally. David collected hundreds of wives; Solomon had 700 wives and 300 concubines, 12,000 horses (1 Kings 11:3, 10:26). If this law existed from Moses, every king from Saul onward violated it with apparent divine tolerance — none of the court historians treating David as the ideal king apply this standard to him.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.2 The Composition Question: De Wette and the Josiah Connection"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.2 The Composition Question: De Wette and the Josiah Connection",
+    "source_reference": "paragraph:267",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_ed0f6a68cae821fd7fb3",
+    "text": "Deuteronomy 34 — Moses's death. The chapter records his burial in an unknown location with the notation \"no one knows his burial place to this day.\" The phrase \"to this day\" is written from a later perspective looking backward. It is formally incompatible with Mosaic authorship of the chapter, and the traditional harmonization (Joshua wrote ch. 34, or it was added) is a special-pleading move that applies to nothing else in the narrative.",
+    "raw_text": "**Deuteronomy 34 — Moses's death.** The chapter records his burial in an unknown location with the notation \"no one knows his burial place to this day.\" The phrase \"to this day\" is written from a later perspective looking backward. It is formally incompatible with Mosaic authorship of the chapter, and the traditional harmonization (Joshua wrote ch. 34, or it was added) is a special-pleading move that applies to nothing else in the narrative.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.2 The Composition Question: De Wette and the Josiah Connection"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.2 The Composition Question: De Wette and the Josiah Connection",
+    "source_reference": "paragraph:268",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6449b2996c0e9c516641",
+    "text": "Deuteronomy's treaty structure breaks into six elements that parallel ancient Near Eastern vassal treaty form:",
+    "raw_text": "Deuteronomy's treaty structure breaks into six elements that parallel ancient Near Eastern vassal treaty form:",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:269",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4e3c834e360c9550eaa0",
+    "text": "| Treaty element | Deuteronomy |\n|---|---|\n| Preamble | 1:1–5 |\n| Historical prologue | 1:6–3:29 |\n| Stipulations | 4–26 |\n| Document deposit / public reading | 31:9–13 |\n| Witnesses | 32:1 (heaven and earth) |\n| Blessings and curses | 27–28 |",
+    "raw_text": "| Treaty element | Deuteronomy |\n|---|---|\n| Preamble | 1:1–5 |\n| Historical prologue | 1:6–3:29 |\n| Stipulations | 4–26 |\n| Document deposit / public reading | 31:9–13 |\n| Witnesses | 32:1 (heaven and earth) |\n| Blessings and curses | 27–28 |",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:270",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4cc5fa50a3fd3f866ed9",
+    "text": "George Mendenhall [CRITICAL], \"Covenant Forms in Israelite Tradition,\" Biblical Archaeologist 17 (1954) — first to document systematic parallels between the Deuteronomy/Sinai covenant structure and Hittite suzerainty treaties of the 2nd millennium BCE. The parallel was independently developed by Meredith Kline [CONSERVATIVE-EVANGELICAL], Treaty of the Great King (Eerdmans, 1963).",
+    "raw_text": "⟨DOCUMENTED⟩ **George Mendenhall** [CRITICAL], \"Covenant Forms in Israelite Tradition,\" *Biblical Archaeologist* 17 (1954) — first to document systematic parallels between the Deuteronomy/Sinai covenant structure and **Hittite suzerainty treaties** of the 2nd millennium BCE. The parallel was independently developed by Meredith Kline [CONSERVATIVE-EVANGELICAL], *Treaty of the Great King* (Eerdmans, 1963).",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:271",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5feeb34b80d1f360f844",
+    "text": "K.A. Kitchen [CONSERVATIVE-EVANGELICAL], On the Reliability of the Old Testament (Eerdmans, 2003), built directly on Mendenhall: the full six-element treaty sequence — specifically the historical prologue appearing alongside blessings and curses — is documented in 2nd-millennium Hittite and Egyptian treaties but is absent from 1st-millennium Neo-Assyrian treaties, which have curses but lack the historical prologue. Kitchen argues this makes Deuteronomy structurally Mosaic-era: if you were imitating a 7th-century treaty form, you would not include a historical prologue, because that element had dropped out of the genre.",
+    "raw_text": "⟨DOCUMENTED⟩ **K.A. Kitchen** [CONSERVATIVE-EVANGELICAL], *On the Reliability of the Old Testament* (Eerdmans, 2003), built directly on Mendenhall: the full six-element treaty sequence — specifically the **historical prologue appearing alongside blessings and curses** — is documented in 2nd-millennium Hittite and Egyptian treaties but is **absent** from 1st-millennium Neo-Assyrian treaties, which have curses but lack the historical prologue. Kitchen argues this makes Deuteronomy structurally Mosaic-era: if you were imitating a 7th-century treaty form, you would not include a historical prologue, because that element had dropped out of the genre.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:272",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e1c2eb827e32f3e71f2e",
+    "text": "Moshe Weinfeld [CRITICAL], Deuteronomy and the Deuteronomic School (Clarendon/Oxford, 1972) — identified a different corpus: correspondences between Deuteronomy and Neo-Assyrian loyalty oaths and vassal treaties of the 8th–7th centuries BCE, including the Esarhaddon Succession Treaty (672 BCE). Weinfeld's parallels support Josianic dating: if the text is drawing on treaty conventions contemporary with Assyrian dominance over Judah, it was composed then, not four centuries earlier.",
+    "raw_text": "⟨DOCUMENTED⟩ **Moshe Weinfeld** [CRITICAL], *Deuteronomy and the Deuteronomic School* (Clarendon/Oxford, 1972) — identified a different corpus: correspondences between Deuteronomy and **Neo-Assyrian loyalty oaths and vassal treaties** of the 8th–7th centuries BCE, including the Esarhaddon Succession Treaty (672 BCE). Weinfeld's parallels support Josianic dating: if the text is drawing on treaty conventions contemporary with Assyrian dominance over Judah, it was composed then, not four centuries earlier.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:273",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_04eded1a448f9a3f61f0",
+    "text": "Mendenhall/Kitchen and Weinfeld are tracking different treaty corpora and reaching opposite conclusions. They are not in disagreement about the structural parallels — both camps confirm the match — they disagree about which ancient treaty tradition Deuteronomy is closest to. Kitchen's argument has force if the historical prologue element is truly absent from 1st-millennium treaties; Weinfeld's has force if the specific curse language and oath vocabulary match Neo-Assyrian sources more closely than Hittite ones. Both sets of parallels are real; the question is which is the better analog, and that is a specialist judgment still actively contested.",
+    "raw_text": "⟨INFERENCE⟩ Mendenhall/Kitchen and Weinfeld are tracking different treaty corpora and reaching opposite conclusions. They are not in disagreement about the structural parallels — both camps confirm the match — they disagree about *which* ancient treaty tradition Deuteronomy is closest to. Kitchen's argument has force if the historical prologue element is truly absent from 1st-millennium treaties; Weinfeld's has force if the specific curse language and oath vocabulary match Neo-Assyrian sources more closely than Hittite ones. Both sets of parallels are real; the question is which is the better analog, and that is a specialist judgment still actively contested.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:274",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6338008adf6723d05e79",
+    "text": "Jeffrey Tigay [CRITICAL, JEWISH], Deuteronomy (JPS Torah Commentary, Jewish Publication Society, 1996) — the most thorough modern critical commentary working from a mainstream Josianic dating while engaging the treaty debate directly.",
+    "raw_text": "⟨DOCUMENTED⟩ **Jeffrey Tigay** [CRITICAL, JEWISH], *Deuteronomy* (JPS Torah Commentary, Jewish Publication Society, 1996) — the most thorough modern critical commentary working from a mainstream Josianic dating while engaging the treaty debate directly.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.3 The ANE Treaty Debate"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.3 The ANE Treaty Debate",
+    "source_reference": "paragraph:275",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2e29e287146d1fe39cd8",
+    "text": "Martin Noth [CRITICAL], Überlieferungsgeschichtliche Studien (1943); English translation: The Deuteronomistic History (Sheffield Academic Press, 1981) — proposed that Deuteronomy, Joshua, Judges, 1–2 Samuel, and 1–2 Kings form a continuous narrative composed by a single exilic author — the Deuteronomist (Dtr) — writing in Babylon after Jerusalem's fall (586 BCE). The history is an argument: Israel's catastrophe is explained by consistent apostasy against Deuteronomy's covenant stipulations. The theological engine is Deuteronomy 28 — obedience yields the blessings, disobedience yields the curses, culminating in exile.",
+    "raw_text": "⟨DOCUMENTED⟩ **Martin Noth** [CRITICAL], *Überlieferungsgeschichtliche Studien* (1943); English translation: *The Deuteronomistic History* (Sheffield Academic Press, 1981) — proposed that Deuteronomy, Joshua, Judges, 1–2 Samuel, and 1–2 Kings form a continuous narrative composed by **a single exilic author** — the Deuteronomist (Dtr) — writing in Babylon after Jerusalem's fall (586 BCE). The history is an argument: Israel's catastrophe is explained by consistent apostasy against Deuteronomy's covenant stipulations. The theological engine is Deuteronomy 28 — obedience yields the blessings, disobedience yields the curses, culminating in exile.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.4 The Deuteronomistic History"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.4 The Deuteronomistic History",
+    "source_reference": "paragraph:276",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_cd73820209ab80e0a75d",
+    "text": "Frank Moore Cross [CRITICAL], \"The Themes of the Book of Kings and the Structure of the Deuteronomic History,\" in Canaanite Myth and Hebrew Epic (Harvard University Press, 1973) — modified Noth's single-author thesis into a two-edition model: Dtr1, composed during Josiah's reign, is programmatic history supporting the reform — its overall tone is hopeful because the reform is working and the covenant trajectory is upward. Dtr2 is an exilic editor who adds material explaining why even Josiah's reform wasn't enough: Manasseh's sins had already sealed Judah's fate (2 Kings 23:26), and the exile was inevitable regardless. This explains a genuine tension in the text: Josiah is the most righteous king the history describes (23:25), yet the nation falls under his successors. Dtr1 could not explain this because it hadn't happened; Dtr2 supplies the answer retrospectively.",
+    "raw_text": "⟨DOCUMENTED⟩ **Frank Moore Cross** [CRITICAL], \"The Themes of the Book of Kings and the Structure of the Deuteronomic History,\" in *Canaanite Myth and Hebrew Epic* (Harvard University Press, 1973) — modified Noth's single-author thesis into a two-edition model: **Dtr1**, composed during Josiah's reign, is programmatic history supporting the reform — its overall tone is hopeful because the reform is working and the covenant trajectory is upward. **Dtr2** is an exilic editor who adds material explaining why even Josiah's reform wasn't enough: Manasseh's sins had already sealed Judah's fate (2 Kings 23:26), and the exile was inevitable regardless. This explains a genuine tension in the text: Josiah is the most righteous king the history describes (23:25), yet the nation falls under his successors. Dtr1 could not explain this because it hadn't happened; Dtr2 supplies the answer retrospectively.",
+    "provenance_type": "SOURCE",
+    "representation_type": "PARAPHRASE",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.4 The Deuteronomistic History"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.4 The Deuteronomistic History",
+    "source_reference": "paragraph:277",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨DOCUMENTED⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_7cca8acc66eab6124777",
+    "text": "The Deuteronomistic History is the interpretive lens through which almost all of Israel's pre-exilic history reaches us. \"He did evil in the sight of the LORD\" is not neutral chronicling — it is a Deuteronomistic judgment applied by an author explaining catastrophe backward. Which kings are praised and which condemned tracks fairly closely with whether they supported centralized Yahwistic worship in Jerusalem. This is worth holding when reading Judges and Kings: the question is not only what happened but what framework the author is using to evaluate it.",
+    "raw_text": "⟨INFERENCE⟩ The Deuteronomistic History is the interpretive lens through which almost all of Israel's pre-exilic history reaches us. \"He did evil in the sight of the LORD\" is not neutral chronicling — it is a Deuteronomistic judgment applied by an author explaining catastrophe backward. Which kings are praised and which condemned tracks fairly closely with whether they supported centralized Yahwistic worship in Jerusalem. This is worth holding when reading Judges and Kings: the question is not only what happened but what framework the author is using to evaluate it.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.4 The Deuteronomistic History"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.4 The Deuteronomistic History",
+    "source_reference": "paragraph:278",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_53e1b69bd30db62d1ee8",
+    "text": "Deuteronomy 28 is the explicit statement of what §1.2 of these notes calls the transactional covenant model. Verses 1–14: obey and you will be exalted above all nations, blessed in city and field, victorious over enemies. Verses 15–68: disobey and you will be struck with disease, defeated, scattered, driven to cannibalism during siege, sold as slaves, and exiled — no one will buy you.",
+    "raw_text": "Deuteronomy 28 is the explicit statement of what §1.2 of these notes calls the transactional covenant model. Verses 1–14: obey and you will be exalted above all nations, blessed in city and field, victorious over enemies. Verses 15–68: disobey and you will be struck with disease, defeated, scattered, driven to cannibalism during siege, sold as slaves, and exiled — no one will buy you.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.5 The Theological Engine: Deuteronomy 28"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.5 The Theological Engine: Deuteronomy 28",
+    "source_reference": "paragraph:279",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2784cf2c331c598551e2",
+    "text": "The curse list is longer, more vivid, and more specific than the blessing list — and its specificity is significant. The curses describe what actually happened to Israel: siege, cannibalism (fulfilled at 2 Kings 6:28–29), exile, enslavement among foreign nations. Read from the far side of 586 BCE, Deuteronomy 28 reads less like a prospective warning than a retrospective map of the disaster — specific enough to have been shaped by knowledge of the events. Patrick D. Miller [CRITICAL], Deuteronomy (Interpretation, John Knox Press, 1990), treats the curses as covenant-enforcement language in the ANE treaty tradition, which is formally accurate — but the exilic redaction question remains live even within that framework.",
+    "raw_text": "⟨INFERENCE⟩ The curse list is longer, more vivid, and more specific than the blessing list — and its specificity is significant. The curses describe what *actually happened* to Israel: siege, cannibalism (fulfilled at 2 Kings 6:28–29), exile, enslavement among foreign nations. Read from the far side of 586 BCE, Deuteronomy 28 reads less like a prospective warning than a retrospective map of the disaster — specific enough to have been shaped by knowledge of the events. **Patrick D. Miller** [CRITICAL], *Deuteronomy* (Interpretation, John Knox Press, 1990), treats the curses as covenant-enforcement language in the ANE treaty tradition, which is formally accurate — but the exilic redaction question remains live even within that framework.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.5 The Theological Engine: Deuteronomy 28"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.5 The Theological Engine: Deuteronomy 28",
+    "source_reference": "paragraph:280",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_ea9cb0808ab4e3d42e45",
+    "text": "6:4 — The Shema: \"Hear, O Israel: the LORD our God, the LORD is one.\" The central Jewish statement of monotheistic commitment, recited twice daily in Jewish liturgy. The Hebrew echad (\"one\") has generated substantial commentary on whether the claim is numerical singularity (strict monotheism: there is only one god) or uniqueness/incomparability (YHWH is the supreme god, others are negligible). Two meaningfully different theological assertions. Jesus quotes the Shema as the greatest commandment (Mark 12:29).",
+    "raw_text": "**6:4 — The Shema:** \"Hear, O Israel: the LORD our God, the LORD is one.\" The central Jewish statement of monotheistic commitment, recited twice daily in Jewish liturgy. The Hebrew *echad* (\"one\") has generated substantial commentary on whether the claim is numerical singularity (strict monotheism: there is only one god) or uniqueness/incomparability (YHWH is the supreme god, others are negligible). Two meaningfully different theological assertions. Jesus quotes the Shema as the greatest commandment (Mark 12:29).",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.6 Key Passages"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.6 Key Passages",
+    "source_reference": "paragraph:281",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_61edba856427524dcf97",
+    "text": "13:6–10: If your brother, son, daughter, wife, or closest friend secretly entices you to worship other gods — you must report them, your hand must strike first, then the whole community stones them to death. No due process for the accused, no exception for honest inquiry, no room for the believer who doubts. This is the harshest religious enforcement statute in the Torah, and it sits four chapters after the Shema's call to wholehearted love of God.",
+    "raw_text": "**13:6–10:** If your brother, son, daughter, wife, or closest friend secretly entices you to worship other gods — you must report them, your hand must strike first, then the whole community stones them to death. No due process for the accused, no exception for honest inquiry, no room for the believer who doubts. This is the harshest religious enforcement statute in the Torah, and it sits four chapters after the Shema's call to wholehearted love of God.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.6 Key Passages"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.6 Key Passages",
+    "source_reference": "paragraph:282",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e974bd6f7297938acdd0",
+    "text": "23:15–16: \"You shall not hand over to his master a slave who has escaped from his master to you. He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him.\" Unique in the entire ancient Near East — no other ANE law code contains a general prohibition on returning escaped slaves.  This passage directly undermines the 19th-century American slaveholder reading of Paul's Philemon (return the escaped slave Onesimus) as reflecting divine principle. The Torah's own instruction runs the other direction.",
+    "raw_text": "**23:15–16:** \"You shall not hand over to his master a slave who has escaped from his master to you. He shall dwell with you, in your midst, in the place that he shall choose within one of your towns, wherever it suits him. You shall not wrong him.\" Unique in the entire ancient Near East — no other ANE law code contains a general prohibition on returning escaped slaves. ⟨INFERENCE⟩ This passage directly undermines the 19th-century American slaveholder reading of Paul's *Philemon* (return the escaped slave Onesimus) as reflecting divine principle. The Torah's own instruction runs the other direction.",
+    "provenance_type": "CLAUDE",
+    "representation_type": "INFERENCE",
+    "speaker": "Claude",
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.6 Key Passages"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.6 Key Passages",
+    "source_reference": "paragraph:283",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "PROVEN",
+    "attribution_evidence": {
+      "method": "explicit_marker",
+      "value": "⟨INFERENCE⟩"
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c3da91271e31056ca415",
+    "text": "22:28–29: A man who rapes an unbetrothed virgin pays her father 50 shekels of silver and must marry her permanently. The fine goes to the father — his economic loss. The victim has no legal standing. The rapist's penalty is compulsory marriage to his victim without possibility of divorce. Already documented at Field Guide §15.1; its placement here alongside 23:15–16 is the point: the same chapter that shows Deuteronomy's humane impulse (escaped slaves must not be returned) also contains this.",
+    "raw_text": "**22:28–29:** A man who rapes an unbetrothed virgin pays her father 50 shekels of silver and must marry her permanently. The fine goes to the father — his economic loss. The victim has no legal standing. The rapist's penalty is compulsory marriage to his victim without possibility of divorce. Already documented at Field Guide §15.1; its placement here alongside 23:15–16 is the point: the same chapter that shows Deuteronomy's humane impulse (escaped slaves must not be returned) also contains this.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.6 Key Passages"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.6 Key Passages",
+    "source_reference": "paragraph:284",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c7e6ab078404420cfe26",
+    "text": "Deuteronomy is the text that gives the whole Deuteronomistic History its logic, and de Wette's 1805 identification of it as a Josianic composition remains the mainstream critical position, reinforced by Weinfeld's Neo-Assyrian parallels and by internal evidence (centralization mandate, law of the king, \"to this day\" formulas). Kitchen's Hittite-treaty counter-argument is serious and cannot be dismissed — the structural matching he documents is real — but the conservative position requires believing that 2nd-millennium treaty conventions were preserved in active compositional use for six centuries without surviving textual attestation of that continuity.",
+    "raw_text": "Deuteronomy is the text that gives the whole Deuteronomistic History its logic, and de Wette's 1805 identification of it as a Josianic composition remains the mainstream critical position, reinforced by Weinfeld's Neo-Assyrian parallels and by internal evidence (centralization mandate, law of the king, \"to this day\" formulas). Kitchen's Hittite-treaty counter-argument is serious and cannot be dismissed — the structural matching he documents is real — but the conservative position requires believing that 2nd-millennium treaty conventions were preserved in active compositional use for six centuries without surviving textual attestation of that continuity.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.7 Conclusion"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.7 Conclusion",
+    "source_reference": "paragraph:285",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_dd6574d1ea84f64305b9",
+    "text": "The NPP connection worth keeping: the \"works of law\" in Galatians that Paul argues against — circumcision, food laws, sabbath — are all in this book. The people Paul is arguing with are Deuteronomy-formed communities. That doesn't resolve the NPP debate, but it anchors it: the legal framework Paul is engaging is not an abstract legalism but a specific Deuteronomic identity system that marked Jew off from Gentile across generations of diaspora practice.",
+    "raw_text": "The NPP connection worth keeping: the \"works of law\" in Galatians that Paul argues against — circumcision, food laws, sabbath — are all in this book. The people Paul is arguing with are Deuteronomy-formed communities. That doesn't resolve the NPP debate, but it anchors it: the legal framework Paul is engaging is not an abstract legalism but a specific Deuteronomic identity system that marked Jew off from Gentile across generations of diaspora practice.",
+    "provenance_type": "PRE_CONVENTION",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "9.6 Deuteronomy — The D Source and the Book of the Law",
+      "9.6.7 Conclusion"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 9.6 Deuteronomy — The D Source and the Book of the Law > 9.6.7 Conclusion",
+    "source_reference": "paragraph:286",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes §0–§9 explicitly described as mixed and no longer cleanly separable."
+    },
+    "review_required": false,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_04bb8af54a79e4a8b896",
     "text": "Old Testament — Completed",
     "raw_text": "**Old Testament — Completed**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8569,7 +9368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:262",
+    "source_reference": "paragraph:287",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8583,7 +9382,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_103fa17d08e9dcf0d4cc",
+    "id": "rk_5321e353b4619dd5994f",
     "text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "raw_text": "Genesis, Exodus, Leviticus, Numbers, Deuteronomy, Joshua, Judges, Ruth, 1-2 Samuel, 1-2 Kings, 1-2 Chronicles, Ezra, Nehemiah, Esther, Job, Psalms, Proverbs, Ecclesiastes, Song of Solomon, Isaiah, Jeremiah, Lamentations, Ezekiel, Daniel. Minor Prophets: Hosea, Joel, Amos, Obadiah, Jonah, Micah, Nahum, Habakkuk, Zephaniah, Haggai, Zechariah, Malachi.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8600,7 +9399,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:263",
+    "source_reference": "paragraph:288",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8614,7 +9413,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_09f48d3a4f48de789047",
+    "id": "rk_a106096f83b0c50541a9",
     "text": "New Testament — In Progress",
     "raw_text": "**New Testament — In Progress**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8631,7 +9430,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:264",
+    "source_reference": "paragraph:289",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8645,7 +9444,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_86438282f0367694db5a",
+    "id": "rk_bcc4479889991d5478a9",
     "text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "raw_text": "Completed: Mark, Matthew, Luke, John, Acts. Currently in: Acts / moving into Paul's Letters. Up next: Romans, Galatians, 1-2 Corinthians (where Christian theology is actually constructed).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8662,7 +9461,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:265",
+    "source_reference": "paragraph:290",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8676,7 +9475,38 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40c8baf70d628aa2c70a",
+    "id": "rk_6ca0099d1c70b88dc5f9",
+    "text": "Deuteronomy — dedicated review at §9.6 (composition debate, ANE treaty structure, Deuteronomistic History, key passages). Completed 13 Aug 2026.",
+    "raw_text": "**Deuteronomy** — dedicated review at §9.6 (composition debate, ANE treaty structure, Deuteronomistic History, key passages). Completed 13 Aug 2026.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "10. Reading Progress"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
+    "source_reference": "paragraph:291",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fea327a85233e80c7b8d",
     "text": "Living document — update as reading progresses",
     "raw_text": "*Living document — update as reading progresses*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8693,7 +9523,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 10. Reading Progress",
-    "source_reference": "paragraph:266",
+    "source_reference": "paragraph:292",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8707,7 +9537,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_416766c5b97bc41c2441",
+    "id": "rk_e834e5f2f2b01e5cb00f",
     "text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "raw_text": "Applied to every contested passage from here forward, and retroactively to everything above:",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8725,7 +9555,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:267",
+    "source_reference": "paragraph:293",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8739,7 +9569,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1be9425b0d7ac1534fe4",
+    "id": "rk_32c43548a47ff034c766",
     "text": "1. Name the scholars and the publications. Not \"some scholars argue.\" Author, title, journal, year.\n2. Label the camp. Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. Verify by search, not memory. Recall produces confident summaries of positions that do not exist.\n4. Strongest case for each side, including the traditional one.\n5. Documented vs. inferred, marked every time. \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. State a conclusion with reasoning. A survey that refuses to land is not an answer.\n7. Correct overreach openly. Then stop hedging.",
     "raw_text": "1. **Name the scholars and the publications.** Not \"some scholars argue.\" Author, title, journal, year.\n2. **Label the camp.** Every name is tagged with where they are arguing from — [CRITICAL], [CONSERVATIVE-EVANGELICAL], [NEO-DOCUMENTARIAN], [EUROPEAN SCHOOL], [MINIMALIST], [AFFIRMING], [JEWISH CRITICAL], etc. Position is context, not disqualification. A conservative can be right and a critic can be motivated.\n3. **Verify by search, not memory.** Recall produces confident summaries of positions that do not exist.\n4. **Strongest case for each side, including the traditional one.**\n5. **Documented vs. inferred, marked every time.** \"X argues this in journal Y\" and \"one might infer\" are different objects.\n6. **State a conclusion with reasoning.** A survey that refuses to land is not an answer.\n7. **Correct overreach openly.** Then stop hedging.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8757,7 +9587,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:268",
+    "source_reference": "paragraph:294",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8771,7 +9601,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_66d878faaccf58376c97",
+    "id": "rk_071eac24ea4bc0899605",
     "text": "Entry format: AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "raw_text": "**Entry format:** AS RECORDED / STATUS / AUDIT / CORRECTED / WHY IT LOOKED RIGHT.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8789,7 +9619,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.1 Standing Method — Applies to Everything Above",
-    "source_reference": "paragraph:269",
+    "source_reference": "paragraph:295",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8803,7 +9633,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_224d9e24cbaf602e7964",
+    "id": "rk_320835a2ec5d389a0301",
     "text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
     "raw_text": "All originally flagged items have been audited; corrections are filed inline beneath the claims they revise, marked ⚑, immediately after the section audited. Originals are preserved unaltered above each audit.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8821,7 +9651,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:270",
+    "source_reference": "paragraph:296",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8835,7 +9665,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0f1860d71ef7b67f4dc1",
+    "id": "rk_7cc98223aeb578da76f8",
     "text": "Formerly highest exposure",
     "raw_text": "**Formerly highest exposure**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8853,7 +9683,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:271",
+    "source_reference": "paragraph:297",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8867,7 +9697,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3f1401ea993c93dffe19",
+    "id": "rk_a5c70809aa63d98ea968",
     "text": "\"Delay of the parousia is the crisis John's theology was built to solve\" — audited at §8.6. Overstated.\n\"John is textually antisemitic\" — audited at §8.5. Holds w/ revisions.",
     "raw_text": "- **\"Delay of the parousia is the crisis John's theology was built to solve\"** — audited at §8.6. Overstated.\n- **\"John is textually antisemitic\"** — audited at §8.5. Holds w/ revisions.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8885,7 +9715,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:272",
+    "source_reference": "paragraph:298",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8899,7 +9729,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c54b480f8b6bb9cc3d58",
+    "id": "rk_b6630532c2ddd08b3ee1",
     "text": "Formerly medium exposure",
     "raw_text": "**Formerly medium exposure**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8917,7 +9747,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:273",
+    "source_reference": "paragraph:299",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8931,7 +9761,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dcef1aefa7a4bdbc49a3",
+    "id": "rk_878ba27ad2cb060f824c",
     "text": "Acts speeches as fictional constructions (§9) — audited. Holds w/ revisions.\nLuke softening Roman culpability (§6.3) — audited. Holds w/ revisions.\nDeutero-Pauline pseudonymity (§6.5) — audited. Overstated.",
     "raw_text": "- **Acts speeches as fictional constructions** (§9) — audited. Holds w/ revisions.\n- **Luke softening Roman culpability** (§6.3) — audited. Holds w/ revisions.\n- **Deutero-Pauline pseudonymity** (§6.5) — audited. Overstated.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8949,7 +9779,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:274",
+    "source_reference": "paragraph:300",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8963,7 +9793,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4d8721f3162bc1052cd3",
+    "id": "rk_79d0eff6fa023a9121eb",
     "text": "Formerly low exposure — held as expected",
     "raw_text": "**Formerly low exposure — held as expected**",
     "provenance_type": "REVIEW_REQUIRED",
@@ -8981,7 +9811,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:275",
+    "source_reference": "paragraph:301",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -8995,7 +9825,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5390f727346a93a2ab9c",
+    "id": "rk_7c0a0eeb3f5bd167a038",
     "text": "Markan priority (§6.1) — audited. Holds.\nGalatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\nMatthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\nIsaiah 7:14 almah/parthenos (§2) — audited. Holds w/ revisions.\nHa-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "raw_text": "- Markan priority (§6.1) — audited. Holds.\n- Galatians 2 vs. Acts 15 contradiction (§9.3) — audited. Holds w/ revisions.\n- Matthew's use of prophecy (§6.2) — audited. Holds w/ revisions.\n- Isaiah 7:14 *almah*/*parthenos* (§2) — audited. Holds w/ revisions.\n- Ha-satan as adversarial role rather than cosmic villain (§1.3) — audited. Holds.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9013,7 +9843,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:276",
+    "source_reference": "paragraph:302",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9027,7 +9857,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ca7d83662180b03bea10",
+    "id": "rk_925512d91dbc664cb550",
     "text": "Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.",
     "raw_text": "*Audit status: 11 of 11 complete, queue empty. Corrections are filed inline beneath the claims they revise, marked ⚑. Originals preserved unaltered.*",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9045,7 +9875,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 11. Method & Audit Status > 11.2 Audit Queue — Closed",
-    "source_reference": "paragraph:277",
+    "source_reference": "paragraph:303",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9059,7 +9889,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_617e8168e23e90149d58",
+    "id": "rk_61ab2536bd1672fe896b",
     "text": "Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable.",
     "raw_text": "Who each cited person is and where they are coming from. The goal is not to discredit anyone but to know what lens shaped their conclusions before using them as authorities. A slavery defender can be an excellent primary source for what proslavery Christians argued; they become a bad choice if presented as a neutral authority on whether slavery was morally acceptable.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9076,7 +9906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference",
-    "source_reference": "paragraph:278",
+    "source_reference": "paragraph:304",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9090,7 +9920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_403b0d319e801df89c73",
+    "id": "rk_faa5f30ac49608d68754",
     "text": "Adams, Robert Merrihew — Analytic philosopher; evangelical Christian; \"Modified Divine Command Theory\" (1973). Defending divine command theory while trying to soften its moral problems.",
     "raw_text": "**Adams, Robert Merrihew** — Analytic philosopher; evangelical Christian; \"Modified Divine Command Theory\" (1973). Defending divine command theory while trying to soften its moral problems.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9108,7 +9938,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:279",
+    "source_reference": "paragraph:305",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9122,7 +9952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc214e08e26243cd6346",
+    "id": "rk_844168b110433a185a4f",
     "text": "Adolph, Karen — Developmental psychologist; secular academic. Research shows infants do not have an innate fear of heights — it develops with locomotor experience. Used here to dismantle the \"two innate fears\" claim.",
     "raw_text": "**Adolph, Karen** — Developmental psychologist; secular academic. Research shows infants do not have an innate fear of heights — it develops with locomotor experience. Used here to dismantle the \"two innate fears\" claim.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9140,7 +9970,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:280",
+    "source_reference": "paragraph:306",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9154,7 +9984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d4523dfb447c0ea42a3c",
+    "id": "rk_696b044b66bda2fcc461",
     "text": "Alcorn, Randy — Conservative evangelical pastor and author (Eternal Perspective Ministries). Concedes the plain historical reading of Jeremiah 29:11 (corporate address to exiles) but argues for typological transfer to individual Christians today.",
     "raw_text": "**Alcorn, Randy** — Conservative evangelical pastor and author (Eternal Perspective Ministries). Concedes the plain historical reading of Jeremiah 29:11 (corporate address to exiles) but argues for typological transfer to individual Christians today.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9172,7 +10002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:281",
+    "source_reference": "paragraph:307",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9186,7 +10016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_602e488a9069c3f5a298",
+    "id": "rk_7fb3918e1d6332563f77",
     "text": "Allen, Pauline — Patristics scholar; translated Maximus the Confessor's trial and exile documents.",
     "raw_text": "**Allen, Pauline** — Patristics scholar; translated Maximus the Confessor's trial and exile documents.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9204,7 +10034,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:282",
+    "source_reference": "paragraph:308",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9218,7 +10048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_422c0ee9b2e7034ce063",
+    "id": "rk_3e881f183a9b56819028",
     "text": "Allison, Dale — Critical scholar and Christian; notable for unusual intellectual honesty — willing to acknowledge evidence that cuts against his own tradition's conclusions on the resurrection.",
     "raw_text": "**Allison, Dale** — Critical scholar and Christian; notable for unusual intellectual honesty — willing to acknowledge evidence that cuts against his own tradition's conclusions on the resurrection.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9236,7 +10066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:283",
+    "source_reference": "paragraph:309",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9250,7 +10080,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_557ca60cfb58cf0d782a",
+    "id": "rk_59ef8888a0afb0d8cb73",
     "text": "Alston, William — Analytic philosopher; Christian; Perceiving God (1991). The strongest philosophical defense of religious experience as evidence for God.",
     "raw_text": "**Alston, William** — Analytic philosopher; Christian; *Perceiving God* (1991). The strongest philosophical defense of religious experience as evidence for God.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9268,7 +10098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:284",
+    "source_reference": "paragraph:310",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9282,7 +10112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_700ab85c99fea3156179",
+    "id": "rk_3e5b4de36dd61e8abcce",
     "text": "Ambrose of Milan (c. 340–397) — Church Father; bishop; major influence on Augustine. He participated in early Christian political power consolidation. Drew the 318-bishop Genesis numerology applied to Nicaea.",
     "raw_text": "**Ambrose of Milan** (c. 340–397) — Church Father; bishop; major influence on Augustine. He participated in early Christian political power consolidation. Drew the 318-bishop Genesis numerology applied to Nicaea.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9300,7 +10130,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:285",
+    "source_reference": "paragraph:311",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9314,7 +10144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_474a5e6e3c2d58e37d26",
+    "id": "rk_19d4e98cf5f3a486d652",
     "text": "Andersen, Francis — Critical scholar; co-authored the Anchor Bible Amos commentary with Freedman. Reads Amos 5:21–24 as targeting ritual without justice, not the cult itself.",
     "raw_text": "**Andersen, Francis** — Critical scholar; co-authored the Anchor Bible Amos commentary with Freedman. Reads Amos 5:21–24 as targeting ritual without justice, not the cult itself.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9332,7 +10162,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:286",
+    "source_reference": "paragraph:312",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9346,7 +10176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c970fe105eee37a5a1df",
+    "id": "rk_5aceb848645c87baffa9",
     "text": "Annius of Viterbo — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
     "raw_text": "**Annius of Viterbo** — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9364,7 +10194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:287",
+    "source_reference": "paragraph:313",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9378,7 +10208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1e2f6be1fa2b7282da45",
+    "id": "rk_ed536c60cfcca2ea287a",
     "text": "Aquila (c. 135 CE) — Jewish reviser of the Greek Old Testament. Switched Isaiah 7:14 from parthenos (virgin) back to neanis (young woman) — a deliberate anti-Christian correction.",
     "raw_text": "**Aquila** (c. 135 CE) — Jewish reviser of the Greek Old Testament. Switched Isaiah 7:14 from *parthenos* (virgin) back to *neanis* (young woman) — a deliberate anti-Christian correction.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9396,7 +10226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:288",
+    "source_reference": "paragraph:314",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9410,7 +10240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f448165c85e2db5744fa",
+    "id": "rk_01fbd096d94b0c8b158b",
     "text": "Aquinas, Thomas (1225–1274) — Medieval Catholic theologian; Dominican friar. His tripartite division of the Law (moral/civil/ceremonial) underlies selective OT application today. Also developed the classic philosophical case for divine atemporality.",
     "raw_text": "**Aquinas, Thomas** (1225–1274) — Medieval Catholic theologian; Dominican friar. His tripartite division of the Law (moral/civil/ceremonial) underlies selective OT application today. Also developed the classic philosophical case for divine atemporality.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9428,7 +10258,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:289",
+    "source_reference": "paragraph:315",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9442,7 +10272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_58f82e3cf25848d669f1",
+    "id": "rk_6b58420837d504ab059e",
     "text": "Archer, Gleason — Conservative evangelical. Rejects the eleph proposal outright and defends the Numbers census figures as literally accurate.",
     "raw_text": "**Archer, Gleason** — Conservative evangelical. Rejects the *eleph* proposal outright and defends the Numbers census figures as literally accurate.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9460,7 +10290,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:290",
+    "source_reference": "paragraph:316",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9474,7 +10304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d87c5169b0ddc560c0f",
+    "id": "rk_4f225d88731b7686874a",
     "text": "Arminius, Jacobus (1560–1609) — Reformed theologian who broke from Calvinist predestination. Named in the Calvinist/Arminian split over universal versus limited atonement.",
     "raw_text": "**Arminius, Jacobus** (1560–1609) — Reformed theologian who broke from Calvinist predestination. Named in the Calvinist/Arminian split over universal versus limited atonement.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9492,7 +10322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:291",
+    "source_reference": "paragraph:317",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9506,7 +10336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d116f47ae99c9e5b358c",
+    "id": "rk_8aeaea5f04d46c9a8c4b",
     "text": "Arius (4th century) — Presbyter; argued the Son was created and subordinate to the Father. His position was exegetically defensible and had a large following. Lost politically at Nicaea.",
     "raw_text": "**Arius** (4th century) — Presbyter; argued the Son was created and subordinate to the Father. His position was exegetically defensible and had a large following. Lost politically at Nicaea.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9524,7 +10354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:292",
+    "source_reference": "paragraph:318",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9538,7 +10368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c1b918b77db48363af5a",
+    "id": "rk_57665467fe169bd0c408",
     "text": "Athanasius of Alexandria (c. 296–373) — Church Father; defended Jesus's full divinity against Arius. His 367 CE Festal Letter is the first surviving list matching the 27-book New Testament. Exiled repeatedly.",
     "raw_text": "**Athanasius of Alexandria** (c. 296–373) — Church Father; defended Jesus's full divinity against Arius. His 367 CE Festal Letter is the first surviving list matching the 27-book New Testament. Exiled repeatedly.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9556,7 +10386,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:293",
+    "source_reference": "paragraph:319",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9570,7 +10400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_51ad119a7bd05fdaabc3",
+    "id": "rk_d2b7fffc4489e30b12ea",
     "text": "Attridge, Harold W. — Critical scholar; Hebrews (Hermeneia). Places Hebrews in the 60–95 CE range.",
     "raw_text": "**Attridge, Harold W.** — Critical scholar; *Hebrews* (Hermeneia). Places Hebrews in the 60–95 CE range.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9588,7 +10418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:294",
+    "source_reference": "paragraph:320",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9602,7 +10432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4e47358c8ea85d13e4c4",
+    "id": "rk_301ce9eec7e42b51287f",
     "text": "Augustine of Hippo (354–430) — Church Father; bishop; architect of original sin, grace, and predestination doctrines in Western Christianity. His framework became the dominant lens for reading Paul in the West — the one the New Perspective on Paul is specifically correcting. The phrase \"hate the sin, love the sinner\" traces to his Letter 211. Entertained universal restoration (later condemned). On the \"days\" of Genesis, he argued they were not necessarily literal solar days.",
     "raw_text": "**Augustine of Hippo** (354–430) — Church Father; bishop; architect of original sin, grace, and predestination doctrines in Western Christianity. His framework became the dominant lens for reading Paul in the West — the one the New Perspective on Paul is specifically correcting. The phrase \"hate the sin, love the sinner\" traces to his *Letter 211*. Entertained universal restoration (later condemned). On the \"days\" of Genesis, he argued they were not necessarily literal solar days.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9620,7 +10450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:295",
+    "source_reference": "paragraph:321",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -9634,7 +10464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bc8170528a9ed7dad0bf",
+    "id": "rk_9b440d6316e645f25568",
     "text": "Aune, David — Critical scholar. Argued the parousia delay lacks a demonstrable causal link to early Christian theological transformation — part of the dismantling of the mid-20th-century parousia-crisis framework.",
     "raw_text": "**Aune, David** — Critical scholar. Argued the parousia delay lacks a demonstrable causal link to early Christian theological transformation — part of the dismantling of the mid-20th-century parousia-crisis framework.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -9652,838 +10482,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > A",
-    "source_reference": "paragraph:296",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_733de247ff3fb7e921e7",
-    "text": "Baden, Joel — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.",
-    "raw_text": "**Baden, Joel** — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:297",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e221f0194142d8a12e4f",
-    "text": "Baggett, David — Evangelical philosopher; Good God (2011). Defending theistic moral realism.",
-    "raw_text": "**Baggett, David** — Evangelical philosopher; *Good God* (2011). Defending theistic moral realism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:298",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ccd6dd91adf5f85dc54e",
-    "text": "Barr, Beth Allison — Evangelical historian (Baylor); The Making of Biblical Womanhood (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as \"cultural\" or \"timeless\" without acknowledging that sorting as an interpretive choice.",
-    "raw_text": "**Barr, Beth Allison** — Evangelical historian (Baylor); *The Making of Biblical Womanhood* (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as \"cultural\" or \"timeless\" without acknowledging that sorting as an interpretive choice.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:299",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5801610d54b80e4bd554",
-    "text": "Barrett, C.K. — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.",
-    "raw_text": "**Barrett, C.K.** — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:300",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e32647dde0abdcc566fb",
-    "text": "Barrett, Justin — Cognitive scientist of religion; himself a believing scholar. Why Would Anyone Believe in God? (2004) — argues belief in God arises from normal cognitive architecture, not evidence.",
-    "raw_text": "**Barrett, Justin** — Cognitive scientist of religion; himself a believing scholar. *Why Would Anyone Believe in God?* (2004) — argues belief in God arises from normal cognitive architecture, not evidence.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:301",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a8b1b5c082e4df619ad7",
-    "text": "Barth, Karl (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.",
-    "raw_text": "**Barth, Karl** (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:302",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_6866ea089111b0be671f",
-    "text": "Barton, John — Anglican priest and critical scholar; A History of the Bible, Ethics in Ancient Israel (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.",
-    "raw_text": "**Barton, John** — Anglican priest and critical scholar; *A History of the Bible*, *Ethics in Ancient Israel* (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:303",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_eb8e2ffca2137eb11e9f",
-    "text": "Basil the Great (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.",
-    "raw_text": "**Basil the Great** (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:304",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_cd000ba62e128a9f9045",
-    "text": "Bauckham, Richard — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.",
-    "raw_text": "**Bauckham, Richard** — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:305",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_b2fce182c7f6fca0438f",
-    "text": "Bauer, Walter — Critical scholar; Orthodoxy and Heresy in Earliest Christianity (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The \"Church Father\" label encodes who won.",
-    "raw_text": "**Bauer, Walter** — Critical scholar; *Orthodoxy and Heresy in Earliest Christianity* (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The \"Church Father\" label encodes who won.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:306",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ff65fb765d9738f43a4d",
-    "text": "Ben Zvi, Ehud — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (rîb) convention.",
-    "raw_text": "**Ben Zvi, Ehud** — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (*rîb*) convention.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:307",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e693eec369211217df9d",
-    "text": "Bergen, Doris L. — Critical historian; Twisted Cross (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.",
-    "raw_text": "**Bergen, Doris L.** — Critical historian; *Twisted Cross* (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:308",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_dffec94b0505cf0bb732",
-    "text": "Bernstein, Alan — Historian; The Formation of Hell (1993). Scholarly treatment of how hell developed as a doctrine.",
-    "raw_text": "**Bernstein, Alan** — Historian; *The Formation of Hell* (1993). Scholarly treatment of how hell developed as a doctrine.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:309",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_aa85f4e5395b410dbdb1",
-    "text": "Bertenthal, B.I. / Campos, J.J. / Kermoian — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.",
-    "raw_text": "**Bertenthal, B.I. / Campos, J.J. / Kermoian** — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:310",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_fb20115d1662cfb649ff",
-    "text": "Best, George — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
-    "raw_text": "**Best, George** — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:311",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7e5c7a506a07abe047de",
-    "text": "Betz, Hans Dieter — Critical scholar; Galatians (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.",
-    "raw_text": "**Betz, Hans Dieter** — Critical scholar; *Galatians* (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:312",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a61c5fa8f8ed9b1ad02c",
-    "text": "Bird, Michael — Evangelical scholar; Jesus the Eternal Son (2017). Rebuts adoptionist readings of Mark.",
-    "raw_text": "**Bird, Michael** — Evangelical scholar; *Jesus the Eternal Son* (2017). Rebuts adoptionist readings of Mark.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:313",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ed704585bf7e8df9fd0e",
-    "text": "Blenkinsopp, Joseph — Critical scholar; Isaiah 1–39 (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.",
-    "raw_text": "**Blenkinsopp, Joseph** — Critical scholar; *Isaiah 1–39* (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:314",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_68c8ed4e297283d2ddef",
-    "text": "Blomberg, Craig — Conservative evangelical; The Historical Reliability of John's Gospel (2001). Defends Johannine authenticity.",
-    "raw_text": "**Blomberg, Craig** — Conservative evangelical; *The Historical Reliability of John's Gospel* (2001). Defends Johannine authenticity.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:315",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_8dea3e00ffa2c622012c",
-    "text": "Blundell, Mary Whitlock — Classical scholar; Helping Friends and Harming Enemies (1989). Standard reference for \"help friends, harm enemies\" as Greco-Roman popular ethics — context for Matthew 5:43.",
-    "raw_text": "**Blundell, Mary Whitlock** — Classical scholar; *Helping Friends and Harming Enemies* (1989). Standard reference for \"help friends, harm enemies\" as Greco-Roman popular ethics — context for Matthew 5:43.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:316",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_75aca646e7f174c18d52",
-    "text": "Boethius (6th century CE) — Late Roman philosopher; The Consolation of Philosophy. Original philosophical formulation of divine atemporality (God outside time entirely).",
-    "raw_text": "**Boethius** (6th century CE) — Late Roman philosopher; *The Consolation of Philosophy*. Original philosophical formulation of divine atemporality (God outside time entirely).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:317",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_cd6729287e13d3f67dd7",
-    "text": "Bonaventure (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.",
-    "raw_text": "**Bonaventure** (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:318",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5ce3ac46769fc2e43f2a",
-    "text": "Bonhoeffer, Dietrich — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.",
-    "raw_text": "**Bonhoeffer, Dietrich** — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:319",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_a72e7440cc1a443000c5",
-    "text": "Bousset, Wilhelm — Critical scholar; Kyrios Christos (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.",
-    "raw_text": "**Bousset, Wilhelm** — Critical scholar; *Kyrios Christos* (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:320",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ad748114397056178b45",
-    "text": "Boyd, Gregory — Open theist evangelical; God of the Possible (2000). God does not foreknow free choices.",
-    "raw_text": "**Boyd, Gregory** — Open theist evangelical; *God of the Possible* (2000). God does not foreknow free choices.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
-    "source_reference": "paragraph:321",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_2253166500e25999f482",
-    "text": "Boyce, Mary — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.",
-    "raw_text": "**Boyce, Mary** — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "B"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
     "source_reference": "paragraph:322",
     "parent_id": null,
     "related_ids": [],
@@ -10498,9 +10496,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e45c4391187132ecb567",
-    "text": "Briggs, Peter — Applied the eleph proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.",
-    "raw_text": "**Briggs, Peter** — Applied the *eleph* proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.",
+    "id": "rk_4de5ad9a8fd7a3445089",
+    "text": "Baden, Joel — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.",
+    "raw_text": "**Baden, Joel** — Neo-documentarian; Yale. Holds a refined J/E/D/P model for the Pentateuch's composition.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10530,9 +10528,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aba7e9f92900e227d1a3",
-    "text": "Bright, John — Critical scholar; Jeremiah (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.",
-    "raw_text": "**Bright, John** — Critical scholar; *Jeremiah* (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.",
+    "id": "rk_e27642bce3f96bbe8fa7",
+    "text": "Baggett, David — Evangelical philosopher; Good God (2011). Defending theistic moral realism.",
+    "raw_text": "**Baggett, David** — Evangelical philosopher; *Good God* (2011). Defending theistic moral realism.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10562,9 +10560,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_094707ba0442fb25052a",
-    "text": "Brown, Raymond E. — Critical Catholic scholar; The Gospel According to John (Anchor Bible). Standard commentary; dates John c. 90–100 CE.",
-    "raw_text": "**Brown, Raymond E.** — Critical Catholic scholar; *The Gospel According to John* (Anchor Bible). Standard commentary; dates John c. 90–100 CE.",
+    "id": "rk_c034fc1b6f16bbb6318f",
+    "text": "Barr, Beth Allison — Evangelical historian (Baylor); The Making of Biblical Womanhood (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as \"cultural\" or \"timeless\" without acknowledging that sorting as an interpretive choice.",
+    "raw_text": "**Barr, Beth Allison** — Evangelical historian (Baylor); *The Making of Biblical Womanhood* (2021). Internal evangelical critique of complementarianism — argues the movement sorts commands as \"cultural\" or \"timeless\" without acknowledging that sorting as an interpretive choice.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10594,9 +10592,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3af159f1eaefc65c83d0",
-    "text": "Bruce, F.F. — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.",
-    "raw_text": "**Bruce, F.F.** — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.",
+    "id": "rk_17ed037bea41191197d7",
+    "text": "Barrett, C.K. — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.",
+    "raw_text": "**Barrett, C.K.** — Critical scholar; applied the parousia-delay thesis to John. Part of the mid-20th-century consensus now contested.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10626,9 +10624,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_30cf7994f3008ca044c1",
-    "text": "Brueggemann, Walter — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.",
-    "raw_text": "**Brueggemann, Walter** — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.",
+    "id": "rk_d7d6e63a7b884dd7a17d",
+    "text": "Barrett, Justin — Cognitive scientist of religion; himself a believing scholar. Why Would Anyone Believe in God? (2004) — argues belief in God arises from normal cognitive architecture, not evidence.",
+    "raw_text": "**Barrett, Justin** — Cognitive scientist of religion; himself a believing scholar. *Why Would Anyone Believe in God?* (2004) — argues belief in God arises from normal cognitive architecture, not evidence.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10658,9 +10656,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c28213b0e7d7c932fcf5",
-    "text": "Bultmann, Rudolf (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms (\"demythologization\"). Resolved the parousia by dissolving it into the existential now.",
-    "raw_text": "**Bultmann, Rudolf** (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms (\"demythologization\"). Resolved the parousia by dissolving it into the existential now.",
+    "id": "rk_165afc63fd922181771e",
+    "text": "Barth, Karl (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.",
+    "raw_text": "**Barth, Karl** (1886–1968) — Most important Protestant theologian of the 20th century. Rejected liberal theology's reduction to ethics and fundamentalist literalism alike. Scripture becomes the Word of God in the event of revelation rather than being identical to it. Co-authored the Barmen Declaration (1934) against the Deutsche Christen movement that aligned German Protestantism with Nazism. Provides theological grounds for resisting an absolute reading of Romans 13.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -10690,7 +10688,839 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e23b1218414529a8889e",
+    "id": "rk_1d00e31daa8c4ab11f28",
+    "text": "Barton, John — Anglican priest and critical scholar; A History of the Bible, Ethics in Ancient Israel (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.",
+    "raw_text": "**Barton, John** — Anglican priest and critical scholar; *A History of the Bible*, *Ethics in Ancient Israel* (2014). Challenges Harnack's thesis that Marcion provoked NT canon formation. Reads Micah 6 as rhetorical prioritization rather than a contradiction with Levitical law.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:329",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bd69f30c59097f4616e8",
+    "text": "Basil the Great (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.",
+    "raw_text": "**Basil the Great** (c. 330–379) — Church Father; developed Trinitarian doctrine alongside his brother Gregory of Nyssa and their friend Gregory of Nazianzus.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:330",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_54917b3885cbbd629d16",
+    "text": "Bauckham, Richard — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.",
+    "raw_text": "**Bauckham, Richard** — Critical scholar (St Andrews); argues NT writers included Jesus within the unique divine identity of YHWH from the earliest strata, using Second Temple Jewish categories rather than Hellenistic imports. Directly challenges the Bousset model of a late Hellenistic development.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:331",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_44adc38c04f33df0f293",
+    "text": "Bauer, Walter — Critical scholar; Orthodoxy and Heresy in Earliest Christianity (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The \"Church Father\" label encodes who won.",
+    "raw_text": "**Bauer, Walter** — Critical scholar; *Orthodoxy and Heresy in Earliest Christianity* (German 1934). Argued heresy may have numerically and chronologically preceded orthodoxy in some regions. The \"Church Father\" label encodes who won.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:332",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e0805354df8ed16abfda",
+    "text": "Ben Zvi, Ehud — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (rîb) convention.",
+    "raw_text": "**Ben Zvi, Ehud** — Critical scholar; Micah commentary. Situates Micah 6:1–8 within the covenant-lawsuit (*rîb*) convention.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:333",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b669c2ed326b5f1af035",
+    "text": "Bergen, Doris L. — Critical historian; Twisted Cross (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.",
+    "raw_text": "**Bergen, Doris L.** — Critical historian; *Twisted Cross* (1996). Standard source on the ~600,000-member Deutsche Christen movement that used Romans 13 to align German Protestantism with Nazism.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:334",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f818b85dc8961e61798d",
+    "text": "Bernstein, Alan — Historian; The Formation of Hell (1993). Scholarly treatment of how hell developed as a doctrine.",
+    "raw_text": "**Bernstein, Alan** — Historian; *The Formation of Hell* (1993). Scholarly treatment of how hell developed as a doctrine.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:335",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f010cdfa8ca02aee7f89",
+    "text": "Bertenthal, B.I. / Campos, J.J. / Kermoian — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.",
+    "raw_text": "**Bertenthal, B.I. / Campos, J.J. / Kermoian** — Developmental psychologists. Showed that locomotor experience, not age or innateness, accounts for infant wariness of heights.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:336",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_29c4f927891e47c837c3",
+    "text": "Best, George — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
+    "raw_text": "**Best, George** — Early modern European writer. One of the people who fused Ham, Africa, slavery, and race into the ideological package that reached America.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:337",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_27d2c2f37754875cebe9",
+    "text": "Betz, Hans Dieter — Critical scholar; Galatians (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.",
+    "raw_text": "**Betz, Hans Dieter** — Critical scholar; *Galatians* (Hermeneia, 1979). Argues Galatians 3:27–28 reflects a pre-Pauline baptismal formula Paul is incorporating.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:338",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_cfa4a4f742ccf671db14",
+    "text": "Bird, Michael — Evangelical scholar; Jesus the Eternal Son (2017). Rebuts adoptionist readings of Mark.",
+    "raw_text": "**Bird, Michael** — Evangelical scholar; *Jesus the Eternal Son* (2017). Rebuts adoptionist readings of Mark.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:339",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_36e5f212f06d0b86b9ec",
+    "text": "Blenkinsopp, Joseph — Critical scholar; Isaiah 1–39 (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.",
+    "raw_text": "**Blenkinsopp, Joseph** — Critical scholar; *Isaiah 1–39* (Anchor Bible). Reads Isaiah 7:14 as timed to the Syro-Ephraimite crisis (734–732 BCE), not a 700-year-forward prophecy.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:340",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3954496883fab1c35491",
+    "text": "Blomberg, Craig — Conservative evangelical; The Historical Reliability of John's Gospel (2001). Defends Johannine authenticity.",
+    "raw_text": "**Blomberg, Craig** — Conservative evangelical; *The Historical Reliability of John's Gospel* (2001). Defends Johannine authenticity.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:341",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_520cc30abb2e0470a263",
+    "text": "Blundell, Mary Whitlock — Classical scholar; Helping Friends and Harming Enemies (1989). Standard reference for \"help friends, harm enemies\" as Greco-Roman popular ethics — context for Matthew 5:43.",
+    "raw_text": "**Blundell, Mary Whitlock** — Classical scholar; *Helping Friends and Harming Enemies* (1989). Standard reference for \"help friends, harm enemies\" as Greco-Roman popular ethics — context for Matthew 5:43.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:342",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_38541a2ed02d9210d03b",
+    "text": "Boethius (6th century CE) — Late Roman philosopher; The Consolation of Philosophy. Original philosophical formulation of divine atemporality (God outside time entirely).",
+    "raw_text": "**Boethius** (6th century CE) — Late Roman philosopher; *The Consolation of Philosophy*. Original philosophical formulation of divine atemporality (God outside time entirely).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:343",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_73b3b916fa8d67527865",
+    "text": "Bonaventure (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.",
+    "raw_text": "**Bonaventure** (1221–1274) — Medieval Franciscan theologian. Systematized the fourfold sense of scripture.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:344",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_d81b40023e5a7a53a8fe",
+    "text": "Bonhoeffer, Dietrich — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.",
+    "raw_text": "**Bonhoeffer, Dietrich** — Lutheran theologian; co-authored the Barmen Declaration (1934) asserting Christ's exclusive lordship against aligning the church with the Nazi state. Executed 1945. Provides the clearest theological grounds for Christian resistance to an absolute reading of Romans 13.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:345",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_702e862b38639eceed95",
+    "text": "Bousset, Wilhelm — Critical scholar; Kyrios Christos (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.",
+    "raw_text": "**Bousset, Wilhelm** — Critical scholar; *Kyrios Christos* (1913). Argued cultic Jesus-devotion arose in Hellenistic Gentile communities importing pagan lord-cult categories. Now widely regarded as resting on an oversimplified Jewish/Hellenistic binary.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:346",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_954a99e955679fbb25b0",
+    "text": "Boyd, Gregory — Open theist evangelical; God of the Possible (2000). God does not foreknow free choices.",
+    "raw_text": "**Boyd, Gregory** — Open theist evangelical; *God of the Possible* (2000). God does not foreknow free choices.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:347",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f6de00e2993a207b125c",
+    "text": "Boyce, Mary — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.",
+    "raw_text": "**Boyce, Mary** — Zoroastrian-studies authority. Standard source on Zoroastrian cosmology (Angra Mainyu) and possible influence on Second Temple Jewish dualism.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:348",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bc9edd0ede69e7f17eb7",
+    "text": "Briggs, Peter — Applied the eleph proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.",
+    "raw_text": "**Briggs, Peter** — Applied the *eleph* proposal to Numbers. One of several scholars whose different applications produce wildly different results using the same fix.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:349",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_2931c5613011cbbe198d",
+    "text": "Bright, John — Critical scholar; Jeremiah (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.",
+    "raw_text": "**Bright, John** — Critical scholar; *Jeremiah* (Anchor Bible). Jeremiah 29:11 is a corporate address to exiles, not a personal promise.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:350",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_bd27460aa84c46239d6b",
+    "text": "Brown, Raymond E. — Critical Catholic scholar; The Gospel According to John (Anchor Bible). Standard commentary; dates John c. 90–100 CE.",
+    "raw_text": "**Brown, Raymond E.** — Critical Catholic scholar; *The Gospel According to John* (Anchor Bible). Standard commentary; dates John c. 90–100 CE.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:351",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b87a0061f7858c97d401",
+    "text": "Bruce, F.F. — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.",
+    "raw_text": "**Bruce, F.F.** — Conservative evangelical; Acts commentary. Floated the possibility Luke took shorthand notes at trials.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:352",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a6e14301d3be2b7fefd0",
+    "text": "Brueggemann, Walter — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.",
+    "raw_text": "**Brueggemann, Walter** — Critical scholar; Jeremiah and Micah commentaries. Reads Jeremiah 29:11 as corporate and Micah 6's escalation as running to child sacrifice (prohibited by Torah), not mere synecdoche.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:353",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3ff11567e0783d83af30",
+    "text": "Bultmann, Rudolf (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms (\"demythologization\"). Resolved the parousia by dissolving it into the existential now.",
+    "raw_text": "**Bultmann, Rudolf** (1884–1976) — Critical scholar; believing Lutheran. Argued the miraculous framework of the New Testament is first-century mythology that must be translated into existential terms (\"demythologization\"). Resolved the parousia by dissolving it into the existential now.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "B"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > B",
+    "source_reference": "paragraph:354",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a4ec10aa506e8afbdc61",
     "text": "Caird, G.B. — Moderate critical scholar; The Gospel of St. Luke (Pelican). Reads Luke 14:26 \"hate\" as an Aramaic idiom.",
     "raw_text": "**Caird, G.B.** — Moderate critical scholar; *The Gospel of St. Luke* (Pelican). Reads Luke 14:26 \"hate\" as an Aramaic idiom.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10708,7 +11538,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:329",
+    "source_reference": "paragraph:355",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10722,7 +11552,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c918da820fe8cd7ccecc",
+    "id": "rk_bb88132fae7f19c2a232",
     "text": "Calvin, John (1509–1564) — Protestant reformer. Developed \"accommodation\" — God speaks in terms adjusted to human capacity, like nurses speaking to infants. Also developed the lesser-magistrate doctrine making Romans 13 compatible with resistance by legitimate authorities against a tyrant.",
     "raw_text": "**Calvin, John** (1509–1564) — Protestant reformer. Developed \"accommodation\" — God speaks in terms adjusted to human capacity, like nurses speaking to infants. Also developed the lesser-magistrate doctrine making Romans 13 compatible with resistance by legitimate authorities against a tyrant.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10740,7 +11570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:330",
+    "source_reference": "paragraph:356",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10754,7 +11584,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c90b78ecaa84a66c64aa",
+    "id": "rk_996e043db7b5798cbbb8",
     "text": "Caneday, Ardel B. — Evangelical scholar. Reads Galatians 4:21–31 as typology (prefiguring) rather than Philonic allegory.",
     "raw_text": "**Caneday, Ardel B.** — Evangelical scholar. Reads Galatians 4:21–31 as typology (prefiguring) rather than Philonic allegory.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10772,7 +11602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:331",
+    "source_reference": "paragraph:357",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10786,7 +11616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b0b308ebfcbe48e8bcc9",
+    "id": "rk_00ecf8cce8e07b99925b",
     "text": "Carroll, Sean — Physicist; atheist; \"Why (Almost All) Cosmologists Are Atheists\" (2005). Against cosmological and design arguments.",
     "raw_text": "**Carroll, Sean** — Physicist; atheist; \"Why (Almost All) Cosmologists Are Atheists\" (2005). Against cosmological and design arguments.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10804,7 +11634,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:332",
+    "source_reference": "paragraph:358",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10818,7 +11648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0132f573bb25cb513d2a",
+    "id": "rk_a674195aa884c2f2e6ce",
     "text": "Carson, D.A. — Conservative evangelical; The Gospel According to John (Pillar NT Commentary); The Gagging of God (1996). Defends Johannine authenticity and Christian exclusivism.",
     "raw_text": "**Carson, D.A.** — Conservative evangelical; *The Gospel According to John* (Pillar NT Commentary); *The Gagging of God* (1996). Defends Johannine authenticity and Christian exclusivism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10836,7 +11666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:333",
+    "source_reference": "paragraph:359",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10850,7 +11680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53c1a55dbde7700f0ca9",
+    "id": "rk_7ee25dd73f79ce0f3d50",
     "text": "Casey, Maurice — Critical secular scholar; From Jewish Prophet to Gentile God (1991). Argues full incarnational Christology is only Johannine — but also wrote the book-length refutation of mythicism.",
     "raw_text": "**Casey, Maurice** — Critical secular scholar; *From Jewish Prophet to Gentile God* (1991). Argues full incarnational Christology is only Johannine — but also wrote the book-length refutation of mythicism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10868,7 +11698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:334",
+    "source_reference": "paragraph:360",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10882,7 +11712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e8953c684bb2edd0c2b9",
+    "id": "rk_67da98696a65497b1675",
     "text": "Chan, Francis — Evangelical pastor; Erasing Hell (2011). Defends eternal conscious torment.",
     "raw_text": "**Chan, Francis** — Evangelical pastor; *Erasing Hell* (2011). Defends eternal conscious torment.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10900,7 +11730,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:335",
+    "source_reference": "paragraph:361",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10914,7 +11744,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2d47c995d7529f1f36db",
+    "id": "rk_398cb3618edca5bc74d7",
     "text": "Chrysostom, John (c. 349–407) — Church Father; bishop; major preacher in the Antiochene school. Important flag: also delivered eight notoriously hostile anti-Jewish homilies in Antioch. Academic scholarship explicitly studies their rhetorical structure. Essential context whenever he is cited on Jews, Judaism, or Christian ethics.",
     "raw_text": "**Chrysostom, John** (c. 349–407) — Church Father; bishop; major preacher in the Antiochene school. **Important flag:** also delivered eight notoriously hostile anti-Jewish homilies in Antioch. Academic scholarship explicitly studies their rhetorical structure. Essential context whenever he is cited on Jews, Judaism, or Christian ethics.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10932,7 +11762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:336",
+    "source_reference": "paragraph:362",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10946,7 +11776,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ffab0429a59ad5fcf9ae",
+    "id": "rk_c3c43d37da9e026e3c98",
     "text": "Clement of Rome (late 1st century) — Early Church Father. Wrote on church order, authority, unity.",
     "raw_text": "**Clement of Rome** (late 1st century) — Early Church Father. Wrote on church order, authority, unity.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10964,7 +11794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:337",
+    "source_reference": "paragraph:363",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -10978,7 +11808,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c5143287254f9fa26b60",
+    "id": "rk_a1726fb1d397de048e40",
     "text": "Colenso (1871) — Early critical scholar who recognized the Numbers census numbers as non-historical. Full name not given in the text.",
     "raw_text": "**Colenso** (1871) — Early critical scholar who recognized the Numbers census numbers as non-historical. Full name not given in the text.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -10996,7 +11826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:338",
+    "source_reference": "paragraph:364",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11010,7 +11840,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8920a6ecee1eae887ab1",
+    "id": "rk_2be6a2896f1193414f01",
     "text": "Collins, Robin — Philosopher; defends the fine-tuning design argument.",
     "raw_text": "**Collins, Robin** — Philosopher; defends the fine-tuning design argument.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11028,7 +11858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:339",
+    "source_reference": "paragraph:365",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11042,7 +11872,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_de77b2b101b6cf5a4e87",
+    "id": "rk_b9aa3c705f09b4c09029",
     "text": "Conzelmann, Hans — Critical scholar. Applied the parousia-delay thesis to Luke-Acts: you do not write the history of the church if you expect the world to end tomorrow.",
     "raw_text": "**Conzelmann, Hans** — Critical scholar. Applied the parousia-delay thesis to Luke-Acts: you do not write the history of the church if you expect the world to end tomorrow.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11060,7 +11890,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:340",
+    "source_reference": "paragraph:366",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11074,7 +11904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9c162ca2a6d2f7d617d1",
+    "id": "rk_f7e0a3e8b5f3c96b39fe",
     "text": "Copan, Paul — Evangelical philosopher; Is God a Moral Monster? (2011). Theistic moral realism and evangelical response to OT violence critiques.",
     "raw_text": "**Copan, Paul** — Evangelical philosopher; *Is God a Moral Monster?* (2011). Theistic moral realism and evangelical response to OT violence critiques.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11092,7 +11922,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:341",
+    "source_reference": "paragraph:367",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11106,7 +11936,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a261bfdec1abdc71fb5c",
+    "id": "rk_17b5dfdc761997c2a06e",
     "text": "Craig, William Lane — Evangelical philosopher; public debater. Kalam cosmological argument; defends divine command ethics; has defended the Canaanite conquest on divine-command grounds. His second Kalam premise depends on contested cosmology.",
     "raw_text": "**Craig, William Lane** — Evangelical philosopher; public debater. Kalam cosmological argument; defends divine command ethics; has defended the Canaanite conquest on divine-command grounds. His second Kalam premise depends on contested cosmology.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11124,7 +11954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:342",
+    "source_reference": "paragraph:368",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11138,7 +11968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c25958c5da830f47aed6",
+    "id": "rk_c1c3fdc1db45505b93fd",
     "text": "Cranfield, C.E.B. — Conservative critical scholar; Romans commentary. Standard positive-institution reading of Romans 13.",
     "raw_text": "**Cranfield, C.E.B.** — Conservative critical scholar; *Romans* commentary. Standard positive-institution reading of Romans 13.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11156,7 +11986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:343",
+    "source_reference": "paragraph:369",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11170,7 +12000,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_54fb309636830d00fcf2",
+    "id": "rk_68d288a8451e18040493",
     "text": "Crisp, Oliver — Analytic theologian; Divinity and Humanity (2007). Proposes \"krypsis\" (divine attributes veiled, not relinquished) to answer Mark 13:32's knowledge problem.",
     "raw_text": "**Crisp, Oliver** — Analytic theologian; *Divinity and Humanity* (2007). Proposes \"krypsis\" (divine attributes veiled, not relinquished) to answer Mark 13:32's knowledge problem.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11188,7 +12018,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:344",
+    "source_reference": "paragraph:370",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11202,7 +12032,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b5e9d8996d5d9d871ed0",
+    "id": "rk_2f35033a0ea688d4c4e7",
     "text": "Crossan, John Dominic — Critical scholar; Who Killed Jesus? (1995). Frames the trajectory of increasing Pilate-sympathy in the Gospels as the root of later Christian anti-Judaism.",
     "raw_text": "**Crossan, John Dominic** — Critical scholar; *Who Killed Jesus?* (1995). Frames the trajectory of increasing Pilate-sympathy in the Gospels as the root of later Christian anti-Judaism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11220,7 +12050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:345",
+    "source_reference": "paragraph:371",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11234,7 +12064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_86917d0ebce869ccabc1",
+    "id": "rk_9a48877cd7f6b6f28940",
     "text": "Crossley, James — Critical scholar. Argues the \"Judeans\" translation, pushed to its endpoint, severs modern Jews from the biblical text entirely — more dangerous than the original rendering.",
     "raw_text": "**Crossley, James** — Critical scholar. Argues the \"Judeans\" translation, pushed to its endpoint, severs modern Jews from the biblical text entirely — more dangerous than the original rendering.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11252,7 +12082,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:346",
+    "source_reference": "paragraph:372",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11266,7 +12096,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_04361f35d254122943dd",
+    "id": "rk_4a1d9806878145cba187",
     "text": "Cuany — Critical scholar (JSNT 2017). Reads the Barabbas exchange as doing Christological work in Luke, not primarily anti-Jewish blame-shifting.",
     "raw_text": "**Cuany** — Critical scholar (*JSNT* 2017). Reads the Barabbas exchange as doing Christological work in Luke, not primarily anti-Jewish blame-shifting.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11284,7 +12114,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:347",
+    "source_reference": "paragraph:373",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11298,7 +12128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39d5ac19f85e857c5180",
+    "id": "rk_c33b4cbe30c8fe4a0374",
     "text": "Cullmann, Oscar — Critical scholar; The State in the New Testament (1956). Reads exousiai in Romans 13 as encompassing angelic powers behind human government — the state is God's servant only when functioning as such.",
     "raw_text": "**Cullmann, Oscar** — Critical scholar; *The State in the New Testament* (1956). Reads *exousiai* in Romans 13 as encompassing angelic powers behind human government — the state is God's servant only when functioning as such.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11316,7 +12146,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:348",
+    "source_reference": "paragraph:374",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11330,7 +12160,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_af812f4e30ba10b4e9e1",
+    "id": "rk_b94741ab2c5c55aa60a8",
     "text": "Cunningham / Bock — Conservative scholars. Argue Matthew's formula-quotations are something different from true midrash because the narrative exists independently and the citations serve it.",
     "raw_text": "**Cunningham / Bock** — Conservative scholars. Argue Matthew's formula-quotations are something different from true midrash because the narrative exists independently and the citations serve it.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11348,7 +12178,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:349",
+    "source_reference": "paragraph:375",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11362,7 +12192,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0822ed014002271d6d2d",
+    "id": "rk_20e1b55218da96ec4703",
     "text": "Cyprian of Carthage (c. 200–258) — Church Father; bishop. Developed doctrines of church authority and baptism.",
     "raw_text": "**Cyprian of Carthage** (c. 200–258) — Church Father; bishop. Developed doctrines of church authority and baptism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11380,7 +12210,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:350",
+    "source_reference": "paragraph:376",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11394,7 +12224,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d1c89dc699243dbe7467",
+    "id": "rk_ccf17fba12614c4a4c3f",
     "text": "Cyril of Alexandria (c. 376–444) — Church Father; bishop; opposed Nestorius at Ephesus (431).",
     "raw_text": "**Cyril of Alexandria** (c. 376–444) — Church Father; bishop; opposed Nestorius at Ephesus (431).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11412,7 +12242,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > C",
-    "source_reference": "paragraph:351",
+    "source_reference": "paragraph:377",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11426,7 +12256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0c0592ffda2a1ebe4aed",
+    "id": "rk_bae8deded9ab060b1966",
     "text": "Davies, Eryl W. — Critical scholar. States plainly that OT scholars have long recognized the Numbers census figures cannot represent historical population counts.",
     "raw_text": "**Davies, Eryl W.** — Critical scholar. States plainly that OT scholars have long recognized the Numbers census figures cannot represent historical population counts.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11444,7 +12274,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:352",
+    "source_reference": "paragraph:378",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11458,7 +12288,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f9b7e7c9057c19126770",
+    "id": "rk_f69a237f0f7ef0ddd0f4",
     "text": "Day, Peggy L. — Critical scholar; An Adversary in Heaven (1988). The field's classic monograph establishing ha-satan as a bounded, subordinate prosecutorial role within the divine council — not a cosmic villain.",
     "raw_text": "**Day, Peggy L.** — Critical scholar; *An Adversary in Heaven* (1988). The field's classic monograph establishing ha-satan as a bounded, subordinate prosecutorial role within the divine council — not a cosmic villain.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11476,7 +12306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:353",
+    "source_reference": "paragraph:379",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11490,7 +12320,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22ba8e98d2546a16f663",
+    "id": "rk_b6e08f37766647a4ff57",
     "text": "deClaissé-Walford, Nancy — Critical scholar. Reads imprecatory psalms as confronting violence rather than endorsing it.",
     "raw_text": "**deClaissé-Walford, Nancy** — Critical scholar. Reads imprecatory psalms as confronting violence rather than endorsing it.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11508,7 +12338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:354",
+    "source_reference": "paragraph:380",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11522,7 +12352,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2a8880028b8a984ba2d2",
+    "id": "rk_615ad2fb416d15af53a4",
     "text": "de Waal, Frans — Primatologist and ethologist; secular. Primates and Philosophers (2006) — evolutionary basis for altruism and cooperation. Used to argue moral behavior does not require religious grounding.",
     "raw_text": "**de Waal, Frans** — Primatologist and ethologist; secular. *Primates and Philosophers* (2006) — evolutionary basis for altruism and cooperation. Used to argue moral behavior does not require religious grounding.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11540,7 +12370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:355",
+    "source_reference": "paragraph:381",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11554,7 +12384,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a0f74827556230c7d1fd",
+    "id": "rk_db0b59ed531ae209a762",
     "text": "Dershowitz, Idan — Critical scholar. Proposes a redactional hypothesis: an earlier incest-only stratum underlies Leviticus 18:22.",
     "raw_text": "**Dershowitz, Idan** — Critical scholar. Proposes a redactional hypothesis: an earlier incest-only stratum underlies Leviticus 18:22.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11572,7 +12402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:356",
+    "source_reference": "paragraph:382",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11586,7 +12416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ffcbe160e858192b9596",
+    "id": "rk_b375eea6ce0f37ca5e82",
     "text": "Dever, William — Critical archaeologist; explicitly anti-minimalist. Attacks biblical literalism and minimalism simultaneously. Anachronisms in the Exodus narrative (Philistines, domesticated camels) indicate Iron Age or later redaction.",
     "raw_text": "**Dever, William** — Critical archaeologist; explicitly anti-minimalist. Attacks biblical literalism and minimalism simultaneously. Anachronisms in the Exodus narrative (Philistines, domesticated camels) indicate Iron Age or later redaction.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11604,7 +12434,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:357",
+    "source_reference": "paragraph:383",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11618,7 +12448,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6b8833b932ffe8f9ffc2",
+    "id": "rk_00c859c4fd768c425cd9",
     "text": "Dibelius, Martin — Critical scholar; foundational form-critical case that the Acts speeches are Lukan compositions, not transcripts.",
     "raw_text": "**Dibelius, Martin** — Critical scholar; foundational form-critical case that the Acts speeches are Lukan compositions, not transcripts.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11636,7 +12466,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:358",
+    "source_reference": "paragraph:384",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11650,7 +12480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e5e2b7be8d8cbad03ae8",
+    "id": "rk_7ac4327d460d416e8971",
     "text": "Dillmann (1886) — Early critical scholar who recognized the Numbers census figures are not historical.",
     "raw_text": "**Dillmann** (1886) — Early critical scholar who recognized the Numbers census figures are not historical.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11668,7 +12498,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:359",
+    "source_reference": "paragraph:385",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11682,7 +12512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4537400ccf100eeceab6",
+    "id": "rk_4e185abd3479bbf16d26",
     "text": "Dodd, C.H. — Critical scholar; \"Oxbridge\" school. Mapped shared kerygmatic structure across Acts speeches — both speakers sound like Luke, not like themselves, a compositional signature. Associated with \"realized eschatology.\"",
     "raw_text": "**Dodd, C.H.** — Critical scholar; \"Oxbridge\" school. Mapped shared kerygmatic structure across Acts speeches — both speakers sound like Luke, not like themselves, a compositional signature. Associated with \"realized eschatology.\"",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11700,7 +12530,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:360",
+    "source_reference": "paragraph:386",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11714,7 +12544,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_918b65e66af4a94a9cd7",
+    "id": "rk_8c05eccdc7163cc3706e",
     "text": "Du Mez, Kristin Kobes — Evangelical historian (Calvin University); Jesus and John Wayne (2020). Reviewed the ESV translation committee rosters and found no women on either the oversight or review panels.",
     "raw_text": "**Du Mez, Kristin Kobes** — Evangelical historian (Calvin University); *Jesus and John Wayne* (2020). Reviewed the ESV translation committee rosters and found no women on either the oversight or review panels.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11732,7 +12562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:361",
+    "source_reference": "paragraph:387",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11746,7 +12576,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_565c1e51ac7212852060",
+    "id": "rk_ffc72a176126ff9dd7a3",
     "text": "Dunn, James D.G. — Critical scholar; coined \"New Perspective on Paul\" (1983). Christology in the Making (1980). Argues \"works of the law\" in Galatians refers to ethnic boundary markers, not works-righteousness generally.",
     "raw_text": "**Dunn, James D.G.** — Critical scholar; coined \"New Perspective on Paul\" (1983). *Christology in the Making* (1980). Argues \"works of the law\" in Galatians refers to ethnic boundary markers, not works-righteousness generally.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11764,7 +12594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > D",
-    "source_reference": "paragraph:362",
+    "source_reference": "paragraph:388",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11778,7 +12608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_19d4fd0c797a9a6705f3",
+    "id": "rk_254904ff60f8c11b2727",
     "text": "Egeria (4th century) — Pilgrim and writer; one of the few early Christian women whose voice survives. Her Itinerarium is a major source for early Christian liturgy in Jerusalem.",
     "raw_text": "**Egeria** (4th century) — Pilgrim and writer; one of the few early Christian women whose voice survives. Her *Itinerarium* is a major source for early Christian liturgy in Jerusalem.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11796,7 +12626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:363",
+    "source_reference": "paragraph:389",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11810,7 +12640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f0f93fbbbc2061dcc717",
+    "id": "rk_d414efeb091a8312c90b",
     "text": "Ehrman, Bart D. — Critical secular scholar (agnostic); How Jesus Became God, Misquoting Jesus, Lost Christianities, and others. Exaltation Christology model (resurrection → baptism → birth → pre-existence as successive stages). Extends Bauer's heresy-orthodoxy framework. Also wrote the book-length refutation of mythicism.",
     "raw_text": "**Ehrman, Bart D.** — Critical secular scholar (agnostic); *How Jesus Became God*, *Misquoting Jesus*, *Lost Christianities*, and others. Exaltation Christology model (resurrection → baptism → birth → pre-existence as successive stages). Extends Bauer's heresy-orthodoxy framework. Also wrote the book-length refutation of mythicism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11828,7 +12658,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:364",
+    "source_reference": "paragraph:390",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11842,7 +12672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7017e41ff2154607100d",
+    "id": "rk_16ef1833226ee085732a",
     "text": "Elder, Linda — Critical Thinking (Pearson), with Richard Paul. The most widely used operational framework for reasoning: eight elements evaluated against nine intellectual standards.",
     "raw_text": "**Elder, Linda** — *Critical Thinking* (Pearson), with Richard Paul. The most widely used operational framework for reasoning: eight elements evaluated against nine intellectual standards.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11860,7 +12690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:365",
+    "source_reference": "paragraph:391",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11874,7 +12704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_033b21964cbb448a0528",
+    "id": "rk_5c4f83a27e3b013302d9",
     "text": "Elukin, Jonathan — Critical scholar. Notes that \"anti-Judaism\" is applied inconsistently across the scholarly literature.",
     "raw_text": "**Elukin, Jonathan** — Critical scholar. Notes that \"anti-Judaism\" is applied inconsistently across the scholarly literature.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11892,7 +12722,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:366",
+    "source_reference": "paragraph:392",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11906,7 +12736,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08b6efecfbc8034030fe",
+    "id": "rk_fe7bc25c773cde44feca",
     "text": "Enns, Peter — Progressive evangelical; The Bible Tells Me So (2014); Inspiration and Incarnation. Accepts essentially all critical findings and argues the doctrine of inspiration must be revised to fit them. Was pushed out of Westminster Theological Seminary for it.",
     "raw_text": "**Enns, Peter** — Progressive evangelical; *The Bible Tells Me So* (2014); *Inspiration and Incarnation*. Accepts essentially all critical findings and argues the doctrine of inspiration must be revised to fit them. Was pushed out of Westminster Theological Seminary for it.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11924,7 +12754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:367",
+    "source_reference": "paragraph:393",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11938,7 +12768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39ee59f6906b1de46796",
+    "id": "rk_37b10a72799db54c96e9",
     "text": "Epley, Nicholas et al. — Social psychologists. Showed that believers' perception of God's views tracks their own preferences via unconscious projection (PNAS, 2009).",
     "raw_text": "**Epley, Nicholas et al.** — Social psychologists. Showed that believers' perception of God's views tracks their own preferences via unconscious projection (*PNAS*, 2009).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11956,7 +12786,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:368",
+    "source_reference": "paragraph:394",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -11970,7 +12800,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6a910f5d78e4d4fbdfda",
+    "id": "rk_bea1bb2758dd918efc86",
     "text": "Ericksen, Robert P. — Critical historian; Theologians Under Hitler (Yale, 1985). Standard source on Reich-aligned German theologians who used Romans 13 to frame submission to Hitler as divinely ordained.",
     "raw_text": "**Ericksen, Robert P.** — Critical historian; *Theologians Under Hitler* (Yale, 1985). Standard source on Reich-aligned German theologians who used Romans 13 to frame submission to Hitler as divinely ordained.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -11988,7 +12818,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:369",
+    "source_reference": "paragraph:395",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12002,7 +12832,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_35629eb5c03caf0e7e8f",
+    "id": "rk_539230874612f4992c63",
     "text": "Erickson, Millard — Evangelical theologian who publicly confronted Grudem and Ware's Eternal Functional Subordination position at the 2016 Evangelical Theological Society meeting.",
     "raw_text": "**Erickson, Millard** — Evangelical theologian who publicly confronted Grudem and Ware's Eternal Functional Subordination position at the 2016 Evangelical Theological Society meeting.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12020,7 +12850,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:370",
+    "source_reference": "paragraph:396",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12034,7 +12864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f5ee0a3b4ffd597937ed",
+    "id": "rk_e3f19205628161805062",
     "text": "Esler, Philip — Advocate for translating Ioudaioi as \"Judeans.\" Reinhartz and Levine argue this translation is more dangerous than the original.",
     "raw_text": "**Esler, Philip** — Advocate for translating *Ioudaioi* as \"Judeans.\" Reinhartz and Levine argue this translation is more dangerous than the original.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12052,7 +12882,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:371",
+    "source_reference": "paragraph:397",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12066,7 +12896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_827282f97f2f5544c8e6",
+    "id": "rk_df5a39c4085fd952f257",
     "text": "Eusebius of Caesarea (4th century) — Church Father; bishop; wrote the first major church history from the pro-Nicene side. Said roughly 250 bishops attended Nicaea — one of several eyewitness counts that disagree with each other and with the later legend of 318.",
     "raw_text": "**Eusebius of Caesarea** (4th century) — Church Father; bishop; wrote the first major church history from the pro-Nicene side. Said roughly 250 bishops attended Nicaea — one of several eyewitness counts that disagree with each other and with the later legend of 318.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12084,7 +12914,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:372",
+    "source_reference": "paragraph:398",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12098,7 +12928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_33e5e1265f0d65ef429c",
+    "id": "rk_5078dad8a16f3cc5e454",
     "text": "Eusebius of Nicomedia (4th century) — Bishop; initially objected to the Nicene creed's homoousios; signed under evident pressure; resumed open support for Arius within years and was separately exiled.",
     "raw_text": "**Eusebius of Nicomedia** (4th century) — Bishop; initially objected to the Nicene creed's *homoousios*; signed under evident pressure; resumed open support for Arius within years and was separately exiled.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12116,7 +12946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:373",
+    "source_reference": "paragraph:399",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12130,7 +12960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_862fce5ab4983acf6739",
+    "id": "rk_451deed4ea91ca56da33",
     "text": "Eustathius of Antioch (4th century) — Bishop; said roughly 270 bishops attended Nicaea.",
     "raw_text": "**Eustathius of Antioch** (4th century) — Bishop; said roughly 270 bishops attended Nicaea.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12148,7 +12978,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > E",
-    "source_reference": "paragraph:374",
+    "source_reference": "paragraph:400",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12162,7 +12992,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39c91f3d4be9b35ff6db",
+    "id": "rk_a4196160856f8945dee2",
     "text": "Farmer, William R. — Critical scholar (not evangelical); The Synoptic Problem (1964). Revived the Griesbach hypothesis (Matthew first, Mark last). His methodological charge: Markan priority's triumph was driven by theological preference, not decisive textual evidence.",
     "raw_text": "**Farmer, William R.** — Critical scholar (not evangelical); *The Synoptic Problem* (1964). Revived the Griesbach hypothesis (Matthew first, Mark last). His methodological charge: Markan priority's triumph was driven by theological preference, not decisive textual evidence.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12180,7 +13010,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:375",
+    "source_reference": "paragraph:401",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12194,7 +13024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_350c68fd99c1bde687be",
+    "id": "rk_df028e04f3cb5e50d762",
     "text": "Felicity — Martyred at Carthage, 7 March 203 CE, alongside Perpetua.",
     "raw_text": "**Felicity** — Martyred at Carthage, 7 March 203 CE, alongside Perpetua.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12212,7 +13042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:376",
+    "source_reference": "paragraph:402",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12226,7 +13056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fabc69731e7656c16b10",
+    "id": "rk_ddfb1d38d529f1353e04",
     "text": "Feser, Edward — Thomist philosopher; Aquinas, Five Proofs. His central argument: most atheist critiques attack a version of the cosmological argument Aquinas never made.",
     "raw_text": "**Feser, Edward** — Thomist philosopher; *Aquinas*, *Five Proofs*. His central argument: most atheist critiques attack a version of the cosmological argument Aquinas never made.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12244,7 +13074,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:377",
+    "source_reference": "paragraph:403",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12258,7 +13088,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c108d1338219e2ef7425",
+    "id": "rk_7c0a92ceae53e9739153",
     "text": "Finkelstein, Israel — Critical archaeologist (Tel Aviv); \"low chronology.\" 10th-century Jerusalem was a modest highland town; the united monarchy as described is a 7th-century retrojection; treats the Exodus as a charter myth.",
     "raw_text": "**Finkelstein, Israel** — Critical archaeologist (Tel Aviv); \"low chronology.\" 10th-century Jerusalem was a modest highland town; the united monarchy as described is a 7th-century retrojection; treats the Exodus as a charter myth.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12276,7 +13106,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:378",
+    "source_reference": "paragraph:404",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12290,7 +13120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22858da623191f7fda50",
+    "id": "rk_53b8b73c2d9319308aa1",
     "text": "Finnis, John — Natural law philosopher; Natural Law and Natural Rights (1980). Attempts to bridge the is-ought gap via natural teleology.",
     "raw_text": "**Finnis, John** — Natural law philosopher; *Natural Law and Natural Rights* (1980). Attempts to bridge the is-ought gap via natural teleology.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12308,7 +13138,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:379",
+    "source_reference": "paragraph:405",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12322,7 +13152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7d6f5149c17f167dab38",
+    "id": "rk_96376e3ed84c8501ad15",
     "text": "Firth, David G. — Conservative evangelical; Surrendering Retribution in the Psalms (2005). Argues the psalmist cedes vengeance to God rather than acting on it.",
     "raw_text": "**Firth, David G.** — Conservative evangelical; *Surrendering Retribution in the Psalms* (2005). Argues the psalmist cedes vengeance to God rather than acting on it.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12340,7 +13170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:380",
+    "source_reference": "paragraph:406",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12354,7 +13184,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_65c95e90cacf3549a0df",
+    "id": "rk_bf181037e39be90fb5fe",
     "text": "Fitzmyer, Joseph — Critical Catholic scholar; Anchor Bible Luke and Acts commentaries. Documents that Matthew's prophetic citations are editorial insertions layered onto pre-existing narrative. Reads Luke's three explicit innocence declarations as more specific than Mark's.",
     "raw_text": "**Fitzmyer, Joseph** — Critical Catholic scholar; Anchor Bible Luke and Acts commentaries. Documents that Matthew's prophetic citations are editorial insertions layered onto pre-existing narrative. Reads Luke's three explicit innocence declarations as more specific than Mark's.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12372,7 +13202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:381",
+    "source_reference": "paragraph:407",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12386,7 +13216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fee2f8e7a4b82aaf6694",
+    "id": "rk_9b0ec5b8bff687fcb2fa",
     "text": "Flew, Antony — Philosopher; \"Theology and Falsification\" (1950). The invisible gardener parable — foundational essay on unfalsifiability in theology. (Note: Flew later claimed to become a theist shortly before his death; the quality of that late-life change is disputed.)",
     "raw_text": "**Flew, Antony** — Philosopher; \"Theology and Falsification\" (1950). The invisible gardener parable — foundational essay on unfalsifiability in theology. (Note: Flew later claimed to become a theist shortly before his death; the quality of that late-life change is disputed.)",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12404,7 +13234,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:382",
+    "source_reference": "paragraph:408",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12418,7 +13248,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6c5e649ab82b0481ea17",
+    "id": "rk_382bb65e1f79b4f3968d",
     "text": "Ford, John Jarrett — Evangelical scholar. Reads Galatians 4:21–31 as typology rather than Philonic allegory.",
     "raw_text": "**Ford, John Jarrett** — Evangelical scholar. Reads Galatians 4:21–31 as typology rather than Philonic allegory.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12436,7 +13266,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:383",
+    "source_reference": "paragraph:409",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12450,7 +13280,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ab074e881be26e72a3ec",
+    "id": "rk_e1f442c1bf9e070fd416",
     "text": "Fouts, David — Conservative evangelical. Applied the eleph proposal to Numbers; one of several whose different applications produce wildly different results.",
     "raw_text": "**Fouts, David** — Conservative evangelical. Applied the *eleph* proposal to Numbers; one of several whose different applications produce wildly different results.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12468,7 +13298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:384",
+    "source_reference": "paragraph:410",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12482,7 +13312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7507da594f41bbbd711a",
+    "id": "rk_c473154bafdb2fbf9abc",
     "text": "Frame, John — Presuppositional apologist; The Doctrine of the Knowledge of God (1987). Defends self-attesting Scripture against circular-reasoning objections.",
     "raw_text": "**Frame, John** — Presuppositional apologist; *The Doctrine of the Knowledge of God* (1987). Defends self-attesting Scripture against circular-reasoning objections.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12500,7 +13330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:385",
+    "source_reference": "paragraph:411",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12514,7 +13344,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_968b82fbc31aee8f8ca3",
+    "id": "rk_b859139fe54c8ae6351e",
     "text": "France, R.T. — Evangelical scholar. Coined the term \"formula-quotations\" for Matthew's recurring editorial citation pattern.",
     "raw_text": "**France, R.T.** — Evangelical scholar. Coined the term \"formula-quotations\" for Matthew's recurring editorial citation pattern.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12532,7 +13362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:386",
+    "source_reference": "paragraph:412",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12546,7 +13376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5a502779393fcb6f0cea",
+    "id": "rk_b14c7bcc63a0524aa0e5",
     "text": "Fredriksen, Paula — Critical historian of ancient Christianity. Documented that the parousia-delay framework functioned as a \"controlling matrix\" in mid-20th-century scholarship, not a settled finding from the evidence.",
     "raw_text": "**Fredriksen, Paula** — Critical historian of ancient Christianity. Documented that the parousia-delay framework functioned as a \"controlling matrix\" in mid-20th-century scholarship, not a settled finding from the evidence.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12564,7 +13394,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:387",
+    "source_reference": "paragraph:413",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12578,7 +13408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c66a96ac29fc7034905e",
+    "id": "rk_5c97b63e2a63b2d6e645",
     "text": "Freedman, David Noel — Critical scholar; co-authored the Anchor Bible Amos commentary with Andersen.",
     "raw_text": "**Freedman, David Noel** — Critical scholar; co-authored the Anchor Bible Amos commentary with Andersen.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12596,7 +13426,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:388",
+    "source_reference": "paragraph:414",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12610,7 +13440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9d5878bb8ee28dae80ca",
+    "id": "rk_8ca92268f764dd962807",
     "text": "Freeman, Charles — Historian; AD 381 (2008). Documents the political finalization of Trinitarian Christianity under Theodosius at Constantinople.",
     "raw_text": "**Freeman, Charles** — Historian; *AD 381* (2008). Documents the political finalization of Trinitarian Christianity under Theodosius at Constantinople.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12628,7 +13458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:389",
+    "source_reference": "paragraph:415",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12642,7 +13472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14250534e35d6f5a9922",
+    "id": "rk_db4ea97a5ccafadfbfc5",
     "text": "Friedman, Richard Elliott — Critical scholar; Who Wrote the Bible? (1987). Documentary hypothesis and source differentiation.",
     "raw_text": "**Friedman, Richard Elliott** — Critical scholar; *Who Wrote the Bible?* (1987). Documentary hypothesis and source differentiation.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12660,7 +13490,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:390",
+    "source_reference": "paragraph:416",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12674,7 +13504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_65aeea7baeee31198ea4",
+    "id": "rk_6f1c29a62884ca3c20d0",
     "text": "Fudge, Edward — Evangelical; The Fire That Consumes (1982). Evangelical case for annihilationism.",
     "raw_text": "**Fudge, Edward** — Evangelical; *The Fire That Consumes* (1982). Evangelical case for annihilationism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12692,7 +13522,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > F",
-    "source_reference": "paragraph:391",
+    "source_reference": "paragraph:417",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12706,7 +13536,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_672502379427cf60a09e",
+    "id": "rk_6538340815279bac9e2a",
     "text": "Gagnon, Robert — Conservative evangelical; The Bible and Homosexual Practice (2001). The most thorough conservative treatment; broad prohibition reading of Leviticus 18:22.",
     "raw_text": "**Gagnon, Robert** — Conservative evangelical; *The Bible and Homosexual Practice* (2001). The most thorough conservative treatment; broad prohibition reading of Leviticus 18:22.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12724,7 +13554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:392",
+    "source_reference": "paragraph:418",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12738,7 +13568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9361878c7b061667a9c7",
+    "id": "rk_961f9a43f4fbb7ccfa92",
     "text": "Garfinkel, Yosef — Archaeologist; Khirbet Qeiyafa, radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.",
     "raw_text": "**Garfinkel, Yosef** — Archaeologist; Khirbet Qeiyafa, radiocarbon-dated near 1000 BCE, shows more state formation than minimalists allow.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12756,7 +13586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:393",
+    "source_reference": "paragraph:419",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12770,7 +13600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40b150890e5bdf68a4c0",
+    "id": "rk_1b55a9c2e4ddcafad8bb",
     "text": "Geisler, Norman — Conservative evangelical; A General Introduction to the Bible (1986). Standard evangelical defense of biblical authority.",
     "raw_text": "**Geisler, Norman** — Conservative evangelical; *A General Introduction to the Bible* (1986). Standard evangelical defense of biblical authority.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12788,7 +13618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:394",
+    "source_reference": "paragraph:420",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12802,7 +13632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c03df7a53377f3de36ec",
+    "id": "rk_652d3e29d1ca111bdaab",
     "text": "Gertz, Jan Christian — European school; Pentateuchal composition. Disagrees with the Neo-Documentarians on whether sources J and E exist as discrete documents.",
     "raw_text": "**Gertz, Jan Christian** — European school; Pentateuchal composition. Disagrees with the Neo-Documentarians on whether sources J and E exist as discrete documents.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12820,7 +13650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:395",
+    "source_reference": "paragraph:421",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12834,7 +13664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_da71b35530065beca6a6",
+    "id": "rk_ac0d9edb390830d679d9",
     "text": "Gibson, Eleanor — Developmental psychologist; The Visual Cliff (1960). The experiment tested infants who could already crawl (aged 6–14 months), not newborns — undermining the \"innate fear of falling\" claim.",
     "raw_text": "**Gibson, Eleanor** — Developmental psychologist; *The Visual Cliff* (1960). The experiment tested infants who could already crawl (aged 6–14 months), not newborns — undermining the \"innate fear of falling\" claim.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12852,7 +13682,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:396",
+    "source_reference": "paragraph:422",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12866,7 +13696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_abece82e927b421e6c41",
+    "id": "rk_2a40e74e60c1606b1b77",
     "text": "Giles, Kevin — Critical scholar; The Trinity & Subordinationism (2002). Argues Eternal Functional Subordination (EFS) is a departure from Nicene orthodoxy on its own terms.",
     "raw_text": "**Giles, Kevin** — Critical scholar; *The Trinity & Subordinationism* (2002). Argues Eternal Functional Subordination (EFS) is a departure from Nicene orthodoxy on its own terms.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12884,7 +13714,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:397",
+    "source_reference": "paragraph:423",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12898,7 +13728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b4ce19884704cea1e99f",
+    "id": "rk_e63dfea5f7d8be8d4e7f",
     "text": "Goldenberg, David M. — Critical/Judaic Studies scholar; The Curse of Ham (Princeton, 2003). Traces the roughly 1,500-year process by which a text mentioning neither blackness nor Ham's guilt became the cornerstone for justifying African slavery.",
     "raw_text": "**Goldenberg, David M.** — Critical/Judaic Studies scholar; *The Curse of Ham* (Princeton, 2003). Traces the roughly 1,500-year process by which a text mentioning neither blackness nor Ham's guilt became the cornerstone for justifying African slavery.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12916,7 +13746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:398",
+    "source_reference": "paragraph:424",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12930,7 +13760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c94afb1c4620179208d8",
+    "id": "rk_02a8591189f112b8a375",
     "text": "Goligher, Liam — Reformed theologian. Publicly charged Grudem and Ware's EFS with undermining Nicene trinitarianism (June 2016).",
     "raw_text": "**Goligher, Liam** — Reformed theologian. Publicly charged Grudem and Ware's EFS with undermining Nicene trinitarianism (June 2016).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12948,7 +13778,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:399",
+    "source_reference": "paragraph:425",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12962,7 +13792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e0e68139795584d535f1",
+    "id": "rk_1a856b91c5976195fcb6",
     "text": "Goodacre, Mark — Critical scholar (Duke); Farrer hypothesis — Mark was first, Luke used both Mark and Matthew directly, eliminating Q. A serious active challenge to the two-source hypothesis.",
     "raw_text": "**Goodacre, Mark** — Critical scholar (Duke); Farrer hypothesis — Mark was first, Luke used both Mark and Matthew directly, eliminating Q. A serious active challenge to the two-source hypothesis.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -12980,7 +13810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:400",
+    "source_reference": "paragraph:426",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -12994,7 +13824,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7d00285371d1dff20b00",
+    "id": "rk_0ed632bc443ce732f48e",
     "text": "Gottwald, Norman — Critical scholar with sociological approach; applied the eleph proposal to Numbers census figures (1979).",
     "raw_text": "**Gottwald, Norman** — Critical scholar with sociological approach; applied the *eleph* proposal to Numbers census figures (1979).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13012,7 +13842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:401",
+    "source_reference": "paragraph:427",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13026,7 +13856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_db728998aadaecd909a6",
+    "id": "rk_6a8698ed2708e517abdc",
     "text": "Gray (1903) — Early critical scholar who recognized the Numbers census figures are not historical.",
     "raw_text": "**Gray** (1903) — Early critical scholar who recognized the Numbers census figures are not historical.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13044,7 +13874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:402",
+    "source_reference": "paragraph:428",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13058,7 +13888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14fc5a0aef81a9e88067",
+    "id": "rk_0dd7760a2051417c6bdd",
     "text": "Grayling, A.C. — Secular humanist philosopher; The God Argument (2013).",
     "raw_text": "**Grayling, A.C.** — Secular humanist philosopher; *The God Argument* (2013).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13076,7 +13906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:403",
+    "source_reference": "paragraph:429",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13090,7 +13920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_24c244d171fbb50fb04d",
+    "id": "rk_b3eede0b2524e9e39a90",
     "text": "Gregory of Nazianzus (c. 329–390) — Church Father; Trinitarian theology.",
     "raw_text": "**Gregory of Nazianzus** (c. 329–390) — Church Father; Trinitarian theology.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13108,7 +13938,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:404",
+    "source_reference": "paragraph:430",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13122,7 +13952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8eabb5129ba1b57c384a",
+    "id": "rk_b1b146bbd9405e426c8e",
     "text": "Gregory of Nyssa (c. 335–395) — Church Father; Trinitarian theology, spiritual development, resurrection. Theologically closer to Eastern thought than later Augustinian Western Christianity.",
     "raw_text": "**Gregory of Nyssa** (c. 335–395) — Church Father; Trinitarian theology, spiritual development, resurrection. Theologically closer to Eastern thought than later Augustinian Western Christianity.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13140,7 +13970,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:405",
+    "source_reference": "paragraph:431",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13154,7 +13984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7dbb0be573fb4f557053",
+    "id": "rk_89510b98db866dab8faa",
     "text": "Gregory the Great (pope 590–604) — Church Father; major Western pope-theologian. Associated Augustine's fourfold sense with faith, hope, and love in the text.",
     "raw_text": "**Gregory the Great** (pope 590–604) — Church Father; major Western pope-theologian. Associated Augustine's fourfold sense with faith, hope, and love in the text.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13172,7 +14002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:406",
+    "source_reference": "paragraph:432",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13186,7 +14016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ad3ea79825dde32a5233",
+    "id": "rk_ce1d1243789937c48c0a",
     "text": "Griffiths, Roland et al. — Johns Hopkins psychopharmacologists. Psilocybin studies showing religious experiences have known physical correlates.",
     "raw_text": "**Griffiths, Roland et al.** — Johns Hopkins psychopharmacologists. Psilocybin studies showing religious experiences have known physical correlates.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13204,7 +14034,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:407",
+    "source_reference": "paragraph:433",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13218,7 +14048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_bd24e4de64c45a2f2fac",
+    "id": "rk_9176bb689e4426ff713a",
     "text": "Groenewald, Alphonso — Critical scholar; names the Amos 5:21–24 interpretation an \"ongoing either-or dilemma\" in the scholarly guild — not a resolved finding.",
     "raw_text": "**Groenewald, Alphonso** — Critical scholar; names the Amos 5:21–24 interpretation an \"ongoing either-or dilemma\" in the scholarly guild — not a resolved finding.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13236,7 +14066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:408",
+    "source_reference": "paragraph:434",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13250,7 +14080,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c55b3d4a21273e4fa289",
+    "id": "rk_33cb5fb35e5426287d95",
     "text": "Grudem, Wayne — Conservative evangelical; co-edited Recovering Biblical Manhood and Womanhood (1991). The foundational complementarian text. Uses a Trinity analogy (Son equal in essence, subordinate in role) to argue for gender hierarchy — the Trinitarian structure of that argument is contested by Giles and Goligher on Nicene orthodoxy grounds.",
     "raw_text": "**Grudem, Wayne** — Conservative evangelical; co-edited *Recovering Biblical Manhood and Womanhood* (1991). The foundational complementarian text. Uses a Trinity analogy (Son equal in essence, subordinate in role) to argue for gender hierarchy — the Trinitarian structure of that argument is contested by Giles and Goligher on Nicene orthodoxy grounds.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13268,7 +14098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > G",
-    "source_reference": "paragraph:409",
+    "source_reference": "paragraph:435",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13282,7 +14112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4b02013693d8edd879a4",
+    "id": "rk_f8d996d3068778d8c423",
     "text": "Habermas, Gary — Evangelical; \"minimal facts\" argument for the resurrection; The Case for the Resurrection of Jesus (2004). Works from a small set of claims he argues the majority of critical scholars grant.",
     "raw_text": "**Habermas, Gary** — Evangelical; \"minimal facts\" argument for the resurrection; *The Case for the Resurrection of Jesus* (2004). Works from a small set of claims he argues the majority of critical scholars grant.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13300,7 +14130,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:410",
+    "source_reference": "paragraph:436",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13314,7 +14144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4df69e63c1f4d0c4146a",
+    "id": "rk_a6581ec401ca5e19de25",
     "text": "Haidt, Jonathan — Social psychologist; secular; The Righteous Mind (2012). Six universal moral foundations; motivated reasoning as moral intuition dressed in post-hoc justification.",
     "raw_text": "**Haidt, Jonathan** — Social psychologist; secular; *The Righteous Mind* (2012). Six universal moral foundations; motivated reasoning as moral intuition dressed in post-hoc justification.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13332,7 +14162,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:411",
+    "source_reference": "paragraph:437",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13346,7 +14176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0d799458af24107fbd9a",
+    "id": "rk_cb89e8982cf5deffe9f2",
     "text": "Hamblin, C.L. — Philosopher; Fallacies (1970). Standard reference on informal fallacy.",
     "raw_text": "**Hamblin, C.L.** — Philosopher; *Fallacies* (1970). Standard reference on informal fallacy.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13364,7 +14194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:412",
+    "source_reference": "paragraph:438",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13378,7 +14208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_173c6bb119223ef3d6c6",
+    "id": "rk_eac7ea34f6eca414c40d",
     "text": "Harnack, Adolf von — Critical historian; Marcion (1921). Thesis that Marcion's challenge probably accelerated NT canon formation.",
     "raw_text": "**Harnack, Adolf von** — Critical historian; *Marcion* (1921). Thesis that Marcion's challenge probably accelerated NT canon formation.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13396,7 +14226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:413",
+    "source_reference": "paragraph:439",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13410,7 +14240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5d455dd9c96b1fb502b7",
+    "id": "rk_80aaef1907860737932d",
     "text": "Haynes, Stephen R. — Critical historian; Noah's Curse (Oxford, 2002). Documents how the Curse of Ham was deployed to justify American slavery.",
     "raw_text": "**Haynes, Stephen R.** — Critical historian; *Noah's Curse* (Oxford, 2002). Documents how the Curse of Ham was deployed to justify American slavery.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13428,7 +14258,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:414",
+    "source_reference": "paragraph:440",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13442,7 +14272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3b99ddc6ee0956913396",
+    "id": "rk_ae5a6fdd6f75eddccb50",
     "text": "Heinsch, Ryan — Critical scholar. The Galatians 4 parallel with Qumran pesher-style exegesis is closer than Paul's explicit allegoroumena label suggests.",
     "raw_text": "**Heinsch, Ryan** — Critical scholar. The Galatians 4 parallel with Qumran pesher-style exegesis is closer than Paul's explicit *allegoroumena* label suggests.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13460,7 +14290,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:415",
+    "source_reference": "paragraph:441",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13474,7 +14304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3438688fd6db994abfe6",
+    "id": "rk_63e84d6884776eeeb21f",
     "text": "Hemer, Colin — Conservative evangelical; The Book of Acts in the Setting of Hellenistic History (1989). Acts is accurate on incidental external detail.",
     "raw_text": "**Hemer, Colin** — Conservative evangelical; *The Book of Acts in the Setting of Hellenistic History* (1989). Acts is accurate on incidental external detail.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13492,7 +14322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:416",
+    "source_reference": "paragraph:442",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13506,7 +14336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_db256ba0082562a56e3b",
+    "id": "rk_5c021e4e95a0474846e7",
     "text": "Heschel, Abraham Joshua — Jewish theologian; The Prophets (1962). Reads Amos 5 as expressing God's pain at betrayal.",
     "raw_text": "**Heschel, Abraham Joshua** — Jewish theologian; *The Prophets* (1962). Reads Amos 5 as expressing God's pain at betrayal.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13524,7 +14354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:417",
+    "source_reference": "paragraph:443",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13538,7 +14368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_4344414ec1b4d915f34a",
+    "id": "rk_a8f35cbaa79f27eb4228",
     "text": "Heschel, Susannah — Jewish critical scholar. Built the historiographical case for distinguishing anti-Judaism from antisemitism.",
     "raw_text": "**Heschel, Susannah** — Jewish critical scholar. Built the historiographical case for distinguishing anti-Judaism from antisemitism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13556,7 +14386,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:418",
+    "source_reference": "paragraph:444",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13570,7 +14400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_36c934bf9bed6183324f",
+    "id": "rk_b915862c774585f2c2f5",
     "text": "Hick, John — Philosopher; moved from evangelical Christianity to religious pluralism. Religions may be culturally conditioned responses to an ultimate transcendent Reality rather than one religion possessing the entire truth.",
     "raw_text": "**Hick, John** — Philosopher; moved from evangelical Christianity to religious pluralism. Religions may be culturally conditioned responses to an ultimate transcendent Reality rather than one religion possessing the entire truth.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13588,7 +14418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:419",
+    "source_reference": "paragraph:445",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13602,7 +14432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e8bb94edb778606a53fa",
+    "id": "rk_9a204fe334923e5f495b",
     "text": "Hilary of Poitiers (4th century) — Church Father; bishop. Drew the Genesis 14:14 numerological parallel underlying the 318-bishops legend.",
     "raw_text": "**Hilary of Poitiers** (4th century) — Church Father; bishop. Drew the Genesis 14:14 numerological parallel underlying the 318-bishops legend.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13620,7 +14450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:420",
+    "source_reference": "paragraph:446",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13634,7 +14464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b4857b87a121e2e7adb6",
+    "id": "rk_2bd537e8486bab482f3b",
     "text": "Hillers, Delbert R. — Critical scholar; Micah (Hermeneia). Identified the covenant-lawsuit (rîb) form in Micah.",
     "raw_text": "**Hillers, Delbert R.** — Critical scholar; *Micah* (Hermeneia). Identified the covenant-lawsuit (*rîb*) form in Micah.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13652,7 +14482,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:421",
+    "source_reference": "paragraph:447",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13666,7 +14496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45f07ef1b1a4bafa2476",
+    "id": "rk_f434bed85150ddc9d7ec",
     "text": "Hoffmann, Paul — Critical scholar; co-editor of The Critical Edition of Q (2000).",
     "raw_text": "**Hoffmann, Paul** — Critical scholar; co-editor of *The Critical Edition of Q* (2000).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13684,7 +14514,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:422",
+    "source_reference": "paragraph:448",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13698,7 +14528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_441dfbe14d4a71649f61",
+    "id": "rk_01a214330a9fbbc29957",
     "text": "Hoffmeier, James K. — Conservative evangelical Egyptologist; Israel in Egypt (1997). The strongest conservative Egyptological case for the Exodus.",
     "raw_text": "**Hoffmeier, James K.** — Conservative evangelical Egyptologist; *Israel in Egypt* (1997). The strongest conservative Egyptological case for the Exodus.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13716,7 +14546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:423",
+    "source_reference": "paragraph:449",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13730,7 +14560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8861ce1fdea8a2465ccf",
+    "id": "rk_81faaf87866df5989ebc",
     "text": "Holladay, William — Critical scholar; Jeremiah 2 (Hermeneia). Jeremiah 31 commentary.",
     "raw_text": "**Holladay, William** — Critical scholar; *Jeremiah 2* (Hermeneia). Jeremiah 31 commentary.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13748,7 +14578,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:424",
+    "source_reference": "paragraph:450",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13762,7 +14592,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f4a3de3b76105bf5c088",
+    "id": "rk_f5ce588adb1d53e3bb27",
     "text": "Hollenback, George — Critical scholar. Validates Walsh's inverted reading of Leviticus 18:22.",
     "raw_text": "**Hollenback, George** — Critical scholar. Validates Walsh's inverted reading of Leviticus 18:22.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13780,7 +14610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:425",
+    "source_reference": "paragraph:451",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13794,7 +14624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e66bf780e84381f32d30",
+    "id": "rk_8a9df863ac203fdd8bef",
     "text": "Holtzmann — 1863 foundational work on Markan priority, before Streeter's 1924 refinement.",
     "raw_text": "**Holtzmann** — 1863 foundational work on Markan priority, before Streeter's 1924 refinement.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13812,7 +14642,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:426",
+    "source_reference": "paragraph:452",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13826,7 +14656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8101bb9fc53825d81803",
+    "id": "rk_4909742c254757ed1134",
     "text": "Honigmann, Ernest — 20th-century prosopographical study establishing 194 documented attendees at Nicaea, against the legendary 318.",
     "raw_text": "**Honigmann, Ernest** — 20th-century prosopographical study establishing 194 documented attendees at Nicaea, against the legendary 318.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13844,7 +14674,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:427",
+    "source_reference": "paragraph:453",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13858,7 +14688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_21449d8828371809ec28",
+    "id": "rk_b8fda84fa41c99d125ea",
     "text": "Hood, Ralph — Psychologist of religion; The Psychology of Religion (2009). Research on religious experience.",
     "raw_text": "**Hood, Ralph** — Psychologist of religion; *The Psychology of Religion* (2009). Research on religious experience.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13876,7 +14706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:428",
+    "source_reference": "paragraph:454",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13890,7 +14720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2589e1b750228563799c",
+    "id": "rk_95b6e0eb501a311fc181",
     "text": "Hoover, R.W. — Philologist; \"The Harpagmos Enigma\" (Harvard Theological Review, 1971). Argues harpagmos means using something already possessed to one's advantage — underpins NRSVue's \"exploited\" rendering at Philippians 2:6.",
     "raw_text": "**Hoover, R.W.** — Philologist; \"The Harpagmos Enigma\" (*Harvard Theological Review*, 1971). Argues *harpagmos* means using something already possessed to one's advantage — underpins NRSVue's \"exploited\" rendering at Philippians 2:6.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13908,7 +14738,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:429",
+    "source_reference": "paragraph:455",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13922,7 +14752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f6c0ae82cc824591fdf2",
+    "id": "rk_4f802479f1603ca59207",
     "text": "Howard-Brook, Wesley — Liberation theology scholar. Reads John as calling its audience back to the covenant, not away from Judaism.",
     "raw_text": "**Howard-Brook, Wesley** — Liberation theology scholar. Reads John as calling its audience back to the covenant, not away from Judaism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13940,7 +14770,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:430",
+    "source_reference": "paragraph:456",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13954,7 +14784,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_40cac77b901ed501ea49",
+    "id": "rk_89ea362f7f6b11ea0e0f",
     "text": "Howard-Snyder, Daniel — Philosopher; skeptical theism tradition.",
     "raw_text": "**Howard-Snyder, Daniel** — Philosopher; skeptical theism tradition.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -13972,7 +14802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:431",
+    "source_reference": "paragraph:457",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -13986,7 +14816,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a9441dd46e7b5c580c55",
+    "id": "rk_cf35c8dc4242b1bb968f",
     "text": "Humphreys, Colin — Physicist; eleph-as-military-unit proposal (1998/2000). One of the solutions to the implausibly large census numbers in Numbers.",
     "raw_text": "**Humphreys, Colin** — Physicist; *eleph*-as-military-unit proposal (1998/2000). One of the solutions to the implausibly large census numbers in Numbers.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14004,7 +14834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:432",
+    "source_reference": "paragraph:458",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14018,7 +14848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_468e06bb293c5b83ca5e",
+    "id": "rk_b3098a7156c3c2f9683b",
     "text": "Hurtado, Larry — Critical scholar (Edinburgh); One God, One Lord (1988), Lord Jesus Christ (2003). Argues high Christology appears in the earliest devotional practice, not as a late Hellenistic import. Credited with shifting the field on this question.",
     "raw_text": "**Hurtado, Larry** — Critical scholar (Edinburgh); *One God, One Lord* (1988), *Lord Jesus Christ* (2003). Argues high Christology appears in the earliest devotional practice, not as a late Hellenistic import. Credited with shifting the field on this question.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14036,7 +14866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > H",
-    "source_reference": "paragraph:433",
+    "source_reference": "paragraph:459",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14050,7 +14880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_65455664ed51b6515c37",
+    "id": "rk_b5c7a12eae586ac48b56",
     "text": "Ibn Ezra, Abraham — Medieval Jewish commentator. Near-term reading of Isaiah 7:14 — fulfillment in Hezekiah's reign, not a distant messianic figure.",
     "raw_text": "**Ibn Ezra, Abraham** — Medieval Jewish commentator. Near-term reading of Isaiah 7:14 — fulfillment in Hezekiah's reign, not a distant messianic figure.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14068,7 +14898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > I",
-    "source_reference": "paragraph:434",
+    "source_reference": "paragraph:460",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14082,7 +14912,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45ffd8d467719f335384",
+    "id": "rk_88d134ea4316787963e2",
     "text": "Ibn Hisham — Preserved Ibn Ishaq's biography of Muhammad in a later edition; the only surviving form.",
     "raw_text": "**Ibn Hisham** — Preserved Ibn Ishaq's biography of Muhammad in a later edition; the only surviving form.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14100,7 +14930,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > I",
-    "source_reference": "paragraph:435",
+    "source_reference": "paragraph:461",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14114,7 +14944,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ff31c0fd03215b4ebee4",
+    "id": "rk_9fd05a88f0882889a26d",
     "text": "Ibn Ishaq — Earliest biographer of Muhammad. His work survives only through Ibn Hisham's later edition — a transmission gap comparable to or worse than the Gospels'.",
     "raw_text": "**Ibn Ishaq** — Earliest biographer of Muhammad. His work survives only through Ibn Hisham's later edition — a transmission gap comparable to or worse than the Gospels'.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14132,7 +14962,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > I",
-    "source_reference": "paragraph:436",
+    "source_reference": "paragraph:462",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14146,7 +14976,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c8fd61c9ab0a7a65e9af",
+    "id": "rk_30b2b288bad1d3b6251a",
     "text": "Ibn Khaldun (14th century) — Muslim historian; Muqaddimah. Dissented from the racialized reading of the Curse of Ham, noting that the Torah says nothing about blackness.",
     "raw_text": "**Ibn Khaldun** (14th century) — Muslim historian; *Muqaddimah*. Dissented from the racialized reading of the Curse of Ham, noting that the Torah says nothing about blackness.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14164,7 +14994,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > I",
-    "source_reference": "paragraph:437",
+    "source_reference": "paragraph:463",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14178,7 +15008,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c51367d0602cecae3977",
+    "id": "rk_5e6839bfb951fd081bff",
     "text": "Ignatius of Antioch (early 2nd century) — Church Father; letters on bishops, Eucharist, and martyrdom.",
     "raw_text": "**Ignatius of Antioch** (early 2nd century) — Church Father; letters on bishops, Eucharist, and martyrdom.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14196,7 +15026,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > I",
-    "source_reference": "paragraph:438",
+    "source_reference": "paragraph:464",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14210,7 +15040,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1945662bc4e4dad52689",
+    "id": "rk_4127ed2f11036fde2d44",
     "text": "Irenaeus of Lyons (c. 130–202) — Church Father; Against Heresies. Anti-Gnostic. Argues for exactly four Gospels because there are four winds and four corners of the earth — cited as an example of pre-critical canon-formation reasoning.",
     "raw_text": "**Irenaeus of Lyons** (c. 130–202) — Church Father; *Against Heresies*. Anti-Gnostic. Argues for exactly four Gospels because there are four winds and four corners of the earth — cited as an example of pre-critical canon-formation reasoning.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14228,7 +15058,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > I",
-    "source_reference": "paragraph:439",
+    "source_reference": "paragraph:465",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14242,7 +15072,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_150bba664c68b7af1210",
+    "id": "rk_fc4b7beb7f18df599f60",
     "text": "Jacobson, Rolf A. — Editor of Soundings in the Theology of Psalms (2011).",
     "raw_text": "**Jacobson, Rolf A.** — Editor of *Soundings in the Theology of Psalms* (2011).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14260,7 +15090,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:440",
+    "source_reference": "paragraph:466",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14274,7 +15104,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f6fd21b96f5310d2648c",
+    "id": "rk_058cdd48c56f7360c1e6",
     "text": "Jeon, Jaeyoung — Critical scholar. Argues major parts of the wilderness narrative were composed in the Persian period by competing scribal circles.",
     "raw_text": "**Jeon, Jaeyoung** — Critical scholar. Argues major parts of the wilderness narrative were composed in the Persian period by competing scribal circles.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14292,7 +15122,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:441",
+    "source_reference": "paragraph:467",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14306,7 +15136,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2fd52b5293e72a12f39e",
+    "id": "rk_6ae752f8bb72b1be026c",
     "text": "Jerome (c. 347–420) — Church Father; produced the Latin Vulgate. Collaborated with Paula and Marcella. Strong ascetic advocate; the view that celibacy is clearly superior to marriage is largely his.",
     "raw_text": "**Jerome** (c. 347–420) — Church Father; produced the Latin Vulgate. Collaborated with Paula and Marcella. Strong ascetic advocate; the view that celibacy is clearly superior to marriage is largely his.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14324,7 +15154,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:442",
+    "source_reference": "paragraph:468",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14338,7 +15168,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7279f8c79fd2d4781e3b",
+    "id": "rk_d47e365e4e972bf43723",
     "text": "Jewett, Robert — Critical scholar; Romans (Hermeneia, 2007). Reads Romans 13:1–7 as a specific, occasional argument addressed to the situation of corrupt tax-farming around 57–58 CE, not timeless political doctrine.",
     "raw_text": "**Jewett, Robert** — Critical scholar; *Romans* (Hermeneia, 2007). Reads Romans 13:1–7 as a specific, occasional argument addressed to the situation of corrupt tax-farming around 57–58 CE, not timeless political doctrine.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14356,7 +15186,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:443",
+    "source_reference": "paragraph:469",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14370,7 +15200,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_adba48e014aa5867982a",
+    "id": "rk_b1015e66f9a82ba3f6b6",
     "text": "John of Damascus (c. 675–749) — Theologian; defended icons against Byzantine Iconoclasm.",
     "raw_text": "**John of Damascus** (c. 675–749) — Theologian; defended icons against Byzantine Iconoclasm.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14388,7 +15218,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:444",
+    "source_reference": "paragraph:470",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14402,7 +15232,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2129b95e55ea30f6e4e4",
+    "id": "rk_fec572aa3a6a578349ff",
     "text": "Johnson, Luke Timothy — Critical Catholic scholar; \"The New Testament's Anti-Jewish Slander and the Conventions of Ancient Polemic\" (JBL, 1989). NT anti-Jewish invective fits conventions of period-typical sectarian polemic.",
     "raw_text": "**Johnson, Luke Timothy** — Critical Catholic scholar; \"The New Testament's Anti-Jewish Slander and the Conventions of Ancient Polemic\" (*JBL*, 1989). NT anti-Jewish invective fits conventions of period-typical sectarian polemic.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14420,7 +15250,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:445",
+    "source_reference": "paragraph:471",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14434,7 +15264,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_88f6bd299e6fe1da01c5",
+    "id": "rk_66fbed300da1887a48a6",
     "text": "Jones, David W. — Evangelical complementarian; God, Marriage, and Family (Crossway, 2004).",
     "raw_text": "**Jones, David W.** — Evangelical complementarian; *God, Marriage, and Family* (Crossway, 2004).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14452,7 +15282,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:446",
+    "source_reference": "paragraph:472",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14466,7 +15296,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_68d544adf925d38ae7fd",
+    "id": "rk_1d09e222e19a024a00cb",
     "text": "Josephus, Flavius (c. 37–100 CE) — Jewish aristocrat and priest; surrendered to the Romans; wrote under Flavian patronage. Jewish War and Antiquities of the Jews. Important flag: He was a Roman client with clear interests in how Jewish history was presented to a Roman audience. The two Jesus passages in Antiquities must be read with this in mind.",
     "raw_text": "**Josephus, Flavius** (c. 37–100 CE) — Jewish aristocrat and priest; surrendered to the Romans; wrote under Flavian patronage. *Jewish War* and *Antiquities of the Jews*. **Important flag:** He was a Roman client with clear interests in how Jewish history was presented to a Roman audience. The two Jesus passages in *Antiquities* must be read with this in mind.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14484,7 +15314,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:447",
+    "source_reference": "paragraph:473",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14498,7 +15328,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e306208268f20efe7822",
+    "id": "rk_e61090e20df6933050b0",
     "text": "Justin Martyr (c. 100–165) — Early apologist; Dialogue with Trypho (c. 160 CE). Records Christians and Jews arguing over almah/parthenos. Accused later Jewish revisers of anti-Christian tampering in Isaiah 7:14.",
     "raw_text": "**Justin Martyr** (c. 100–165) — Early apologist; *Dialogue with Trypho* (c. 160 CE). Records Christians and Jews arguing over *almah/parthenos*. Accused later Jewish revisers of anti-Christian tampering in Isaiah 7:14.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14516,7 +15346,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > J",
-    "source_reference": "paragraph:448",
+    "source_reference": "paragraph:474",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14530,7 +15360,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fb951c2da2f316262ed1",
+    "id": "rk_aa3e63dddc3d9621aabe",
     "text": "Kahneman, Daniel — Psychologist; Thinking, Fast and Slow (2011). System 1/System 2; motivated reasoning as the default of a lazy System 2.",
     "raw_text": "**Kahneman, Daniel** — Psychologist; *Thinking, Fast and Slow* (2011). System 1/System 2; motivated reasoning as the default of a lazy System 2.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14548,7 +15378,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:449",
+    "source_reference": "paragraph:475",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14562,7 +15392,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_767aeef62bb5b8d9f7e9",
+    "id": "rk_ceecfde27e69668d8af2",
     "text": "Kant, Immanuel — Enlightenment philosopher; Categorical Imperative; Groundwork of the Metaphysics of Morals (1785). Important flag: Also participated in early modern racial theorizing and developed hierarchical ideas about human races. The modern philosophical literature treats this as a serious internal problem in his work, not an irrelevant biographical footnote.",
     "raw_text": "**Kant, Immanuel** — Enlightenment philosopher; Categorical Imperative; *Groundwork of the Metaphysics of Morals* (1785). **Important flag:** Also participated in early modern racial theorizing and developed hierarchical ideas about human races. The modern philosophical literature treats this as a serious internal problem in his work, not an irrelevant biographical footnote.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14580,7 +15410,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:450",
+    "source_reference": "paragraph:476",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14594,7 +15424,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8b46713b1ce141bcefb7",
+    "id": "rk_bb5ef3aa1d37a8925603",
     "text": "Käsemann, Ernst — Critical scholar. Applied the delay-of-parousia thesis to Luke-Acts.",
     "raw_text": "**Käsemann, Ernst** — Critical scholar. Applied the delay-of-parousia thesis to Luke-Acts.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14612,7 +15442,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:451",
+    "source_reference": "paragraph:477",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14626,7 +15456,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_55fe69724b5fba9edc94",
+    "id": "rk_15c543b99f8ef989879b",
     "text": "Kelly, Henry Ansgar — Critical scholar; Satan: A Biography (Cambridge, 2006). Ha-satan as a bounded subordinate role within the divine council; never called a fallen angel in the Hebrew Bible.",
     "raw_text": "**Kelly, Henry Ansgar** — Critical scholar; *Satan: A Biography* (Cambridge, 2006). Ha-satan as a bounded subordinate role within the divine council; never called a fallen angel in the Hebrew Bible.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14644,7 +15474,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:452",
+    "source_reference": "paragraph:478",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14658,7 +15488,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_675c8df1eeec3a92853e",
+    "id": "rk_52579598681123249172",
     "text": "Kim, Seyoon — Evangelical NPP critic.",
     "raw_text": "**Kim, Seyoon** — Evangelical NPP critic.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14676,7 +15506,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:453",
+    "source_reference": "paragraph:479",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14690,7 +15520,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3a5628e69025f0a46f2d",
+    "id": "rk_27f60c68abd803d0739e",
     "text": "Kitcher, Philip — Philosopher of science; Abusing Science: The Case Against Creationism (1982).",
     "raw_text": "**Kitcher, Philip** — Philosopher of science; *Abusing Science: The Case Against Creationism* (1982).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14708,7 +15538,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:454",
+    "source_reference": "paragraph:480",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14722,7 +15552,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_315f159c6cf86173c2b1",
+    "id": "rk_9b15cbc34d4270d5fb86",
     "text": "Kitchen, K.A. — Conservative evangelical Egyptologist; On the Reliability of the Old Testament (2003). The strongest conservative Egyptological case alongside Hoffmeier.",
     "raw_text": "**Kitchen, K.A.** — Conservative evangelical Egyptologist; *On the Reliability of the Old Testament* (2003). The strongest conservative Egyptological case alongside Hoffmeier.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14740,7 +15570,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:455",
+    "source_reference": "paragraph:481",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14754,7 +15584,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_77dfdb53a4a8e7653ccd",
+    "id": "rk_dc1e61b3087817e3463d",
     "text": "Kloppenborg, John S. — Critical scholar; co-editor of The Critical Edition of Q (2000).",
     "raw_text": "**Kloppenborg, John S.** — Critical scholar; co-editor of *The Critical Edition of Q* (2000).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14772,7 +15602,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:456",
+    "source_reference": "paragraph:482",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14786,7 +15616,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d5ced06dc45802d9664",
+    "id": "rk_fb25378e9ed2e2e36c35",
     "text": "Knohl, Israel — Critical scholar; The Sanctuary of Silence (1995). On the Priestly source within the Documentary Hypothesis.",
     "raw_text": "**Knohl, Israel** — Critical scholar; *The Sanctuary of Silence* (1995). On the Priestly source within the Documentary Hypothesis.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14804,7 +15634,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:457",
+    "source_reference": "paragraph:483",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14818,7 +15648,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_008e8d446e93dd0c2d44",
+    "id": "rk_18bd61ebce7a05ce1882",
     "text": "Köstenberger, Andreas J. — Conservative evangelical complementarian; God, Marriage, and Family (Crossway, 2004).",
     "raw_text": "**Köstenberger, Andreas J.** — Conservative evangelical complementarian; *God, Marriage, and Family* (Crossway, 2004).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14836,7 +15666,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:458",
+    "source_reference": "paragraph:484",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14850,7 +15680,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a0dfd4962f8683ec7031",
+    "id": "rk_cc64028cb2aa038de030",
     "text": "Kuhrt, Amélie — Critical ancient historian. Argues the Cyrus Cylinder's restoration language is a literary device for legitimizing a new dynasty, not a description of actual policy.",
     "raw_text": "**Kuhrt, Amélie** — Critical ancient historian. Argues the Cyrus Cylinder's restoration language is a literary device for legitimizing a new dynasty, not a description of actual policy.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14868,7 +15698,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:459",
+    "source_reference": "paragraph:485",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14882,7 +15712,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b61bc1b131f7d4724247",
+    "id": "rk_8cdbc213d04a21428e67",
     "text": "Kunda, Ziva — Psychologist; \"The Case for Motivated Reasoning\" (Psychological Bulletin, 1990). Distinction between accuracy-motivated and directionally-motivated reasoning — the key methodological paper in the motivated reasoning literature.",
     "raw_text": "**Kunda, Ziva** — Psychologist; \"The Case for Motivated Reasoning\" (*Psychological Bulletin*, 1990). Distinction between accuracy-motivated and directionally-motivated reasoning — the key methodological paper in the motivated reasoning literature.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14900,7 +15730,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > K",
-    "source_reference": "paragraph:460",
+    "source_reference": "paragraph:486",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14914,7 +15744,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_deb328bf5e7d8e64f2ce",
+    "id": "rk_98ef01ac0b39169350a7",
     "text": "Langmuir, Gavin — Critical historian; Toward a Definition of Antisemitism (UC Press, 1990). Important flag: Built the anti-Judaism/antisemitism distinction specifically to argue continuity between the two forms, not severance — the opposite of how the distinction is often used in popular apologetics.",
     "raw_text": "**Langmuir, Gavin** — Critical historian; *Toward a Definition of Antisemitism* (UC Press, 1990). **Important flag:** Built the anti-Judaism/antisemitism distinction specifically to argue *continuity* between the two forms, not severance — the opposite of how the distinction is often used in popular apologetics.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14932,7 +15762,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:461",
+    "source_reference": "paragraph:487",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14946,7 +15776,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6e9939720f0f7904406d",
+    "id": "rk_cfd90ad1d9ba375a762b",
     "text": "LeDoux, Joseph — Neuroscientist; The Emotional Brain (1996). Emotion and cognition.",
     "raw_text": "**LeDoux, Joseph** — Neuroscientist; *The Emotional Brain* (1996). Emotion and cognition.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14964,7 +15794,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:462",
+    "source_reference": "paragraph:488",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -14978,7 +15808,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cf591e15e60cb4a73c9e",
+    "id": "rk_78e925f5b0bb34f9d0f5",
     "text": "Leo the Great (c. 400–461) — Church Father; pope; papal authority; Christology at Chalcedon (451).",
     "raw_text": "**Leo the Great** (c. 400–461) — Church Father; pope; papal authority; Christology at Chalcedon (451).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -14996,7 +15826,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:463",
+    "source_reference": "paragraph:489",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15010,7 +15840,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c10e956cf21626c2fde3",
+    "id": "rk_018f033006d1cdac1cfd",
     "text": "Letham, Robert — Reformed theologian; The Holy Trinity (2004). Thorough Reformed Trinitarian defense.",
     "raw_text": "**Letham, Robert** — Reformed theologian; *The Holy Trinity* (2004). Thorough Reformed Trinitarian defense.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15028,7 +15858,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:464",
+    "source_reference": "paragraph:490",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15042,7 +15872,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b50e7d8c7892f3623421",
+    "id": "rk_43c05282aeeeaecdd794",
     "text": "Levenson, Jon D. — Jewish critical scholar (Harvard); Sinai and Zion (1985). Covenant texts read as continuity and national restoration, not supersessionist replacement.",
     "raw_text": "**Levenson, Jon D.** — Jewish critical scholar (Harvard); *Sinai and Zion* (1985). Covenant texts read as continuity and national restoration, not supersessionist replacement.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15060,7 +15890,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:465",
+    "source_reference": "paragraph:491",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15074,7 +15904,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_180187702d1e86dfaa4d",
+    "id": "rk_48fccff47def345aaf5b",
     "text": "Levine, Amy-Jill — Jewish critical scholar. Defends \"Jews\" as the accurate translation of Ioudaioi; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
     "raw_text": "**Levine, Amy-Jill** — Jewish critical scholar. Defends \"Jews\" as the accurate translation of *Ioudaioi*; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15092,7 +15922,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:466",
+    "source_reference": "paragraph:492",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15106,7 +15936,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c3d17c9e734bb9dba52f",
+    "id": "rk_aaf1dc6e1fa1e847ce24",
     "text": "Licona, Michael — Evangelical historian; The Resurrection of Jesus (2010). Notable for being attacked by his own side for suggesting Matthew 27:52–53 might be apocalyptic imagery — that episode illustrates the constraints inerrantists operate under.",
     "raw_text": "**Licona, Michael** — Evangelical historian; *The Resurrection of Jesus* (2010). Notable for being attacked by his own side for suggesting Matthew 27:52–53 might be apocalyptic imagery — that episode illustrates the constraints inerrantists operate under.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15124,7 +15954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:467",
+    "source_reference": "paragraph:493",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15138,7 +15968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b74d8e9f85c0e658e30d",
+    "id": "rk_a4c1110e78a1f2ccf220",
     "text": "Lightfoot, J.B. — Conservative scholar; argued for the authenticity of Colossians (1875/1879).",
     "raw_text": "**Lightfoot, J.B.** — Conservative scholar; argued for the authenticity of Colossians (1875/1879).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15156,7 +15986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:468",
+    "source_reference": "paragraph:494",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15170,7 +16000,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5a1ebd30057c59bdab47",
+    "id": "rk_a8c1f86e65b4b060bfde",
     "text": "Louth, Andrew — Patristics scholar; Maximus the Confessor (Routledge, 1996).",
     "raw_text": "**Louth, Andrew** — Patristics scholar; *Maximus the Confessor* (Routledge, 1996).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15188,7 +16018,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:469",
+    "source_reference": "paragraph:495",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15202,7 +16032,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8052b4733f4919172a1b",
+    "id": "rk_9c146e7cfc2e14affa8f",
     "text": "Lowe, Malcolm — Advocate for translating Ioudaioi as \"Judeans.\"",
     "raw_text": "**Lowe, Malcolm** — Advocate for translating *Ioudaioi* as \"Judeans.\"",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15220,7 +16050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:470",
+    "source_reference": "paragraph:496",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15234,7 +16064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_34ca4066832213a8246f",
+    "id": "rk_0b63181148bbb3f12ac6",
     "text": "Ludemann, Gerd — Critical secular scholar; The Resurrection of Jesus (1994). Naturalistic explanation of the resurrection appearances.",
     "raw_text": "**Ludemann, Gerd** — Critical secular scholar; *The Resurrection of Jesus* (1994). Naturalistic explanation of the resurrection appearances.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15252,7 +16082,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:471",
+    "source_reference": "paragraph:497",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -15266,7 +16096,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_19f79407012a2d19c50d",
+    "id": "rk_16cd905547f6ac03009c",
     "text": "Luther, Martin (1483–1546) — Protestant reformer; foundational for the Lutheran tradition. Important flag: His later writings on Jews advocated destroying synagogues and Jewish homes, restricting Jewish religious activity, forced labor, and expulsion. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics.",
     "raw_text": "**Luther, Martin** (1483–1546) — Protestant reformer; foundational for the Lutheran tradition. **Important flag:** His later writings on Jews advocated destroying synagogues and Jewish homes, restricting Jewish religious activity, forced labor, and expulsion. This is essential context whenever Luther is cited on Jews, Judaism, biblical interpretation, or Christian ethics.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -15284,838 +16114,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > L",
-    "source_reference": "paragraph:472",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_38fca3ac11a0482e87b4",
-    "text": "MacDonald, Dennis R. — Critical scholar; There Is No Male and Female (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.",
-    "raw_text": "**MacDonald, Dennis R.** — Critical scholar; *There Is No Male and Female* (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:473",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f615ce5d5f873af3d43d",
-    "text": "MacIntyre, Alasdair — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics.",
-    "raw_text": "**MacIntyre, Alasdair** — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:474",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_9e16fbe42ae4cff7d22f",
-    "text": "Mackie, J.L. — Philosopher; atheist; Ethics: Inventing Right and Wrong (1977); \"Evil and Omnipotence\" (Mind, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.",
-    "raw_text": "**Mackie, J.L.** — Philosopher; atheist; *Ethics: Inventing Right and Wrong* (1977); \"Evil and Omnipotence\" (*Mind*, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:475",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f9bfd2d025107f2a9c38",
-    "text": "Macrina the Younger (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.",
-    "raw_text": "**Macrina the Younger** (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:476",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ed77b0f4642721ce82c2",
-    "text": "Maitzen, Stephen — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (Religious Studies, 2006). Moral paralysis objection to skeptical theism.",
-    "raw_text": "**Maitzen, Stephen** — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (*Religious Studies*, 2006). Moral paralysis objection to skeptical theism.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:477",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_d587e83899ea6b45b865",
-    "text": "Maimonides — Medieval Jewish philosopher; Sefer HaMitzvot. His enumeration of 613 commandments illustrates that the list never sorts itself — someone always does the sorting.",
-    "raw_text": "**Maimonides** — Medieval Jewish philosopher; *Sefer HaMitzvot*. His enumeration of 613 commandments illustrates that the list never sorts itself — someone always does the sorting.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:478",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_69a03897dae06005c731",
-    "text": "Malamat, Abraham — Critical scholar; eleph-as-military-unit proposal (1967).",
-    "raw_text": "**Malamat, Abraham** — Critical scholar; *eleph*-as-military-unit proposal (1967).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:479",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5b0697f896b3f0917248",
-    "text": "Marcella of Rome — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.",
-    "raw_text": "**Marcella of Rome** — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:480",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_d8ba4cd3998c77fd145e",
-    "text": "Marcion (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.",
-    "raw_text": "**Marcion** (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:481",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_d788e1437bf8cc875420",
-    "text": "Martin Luther King Jr. — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history.",
-    "raw_text": "**Martin Luther King Jr.** — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:482",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_202116907258b82b7f8e",
-    "text": "Martyn, J. Louis — Critical scholar; History and Theology in the Fourth Gospel (1968); Galatians (Anchor Bible, 1997). Two-level-drama reconstruction of the aposynagogos — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.",
-    "raw_text": "**Martyn, J. Louis** — Critical scholar; *History and Theology in the Fourth Gospel* (1968); *Galatians* (Anchor Bible, 1997). Two-level-drama reconstruction of the *aposynagogos* — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:483",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_8fb590598dbef7c0e455",
-    "text": "Mason, Steve — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus.",
-    "raw_text": "**Mason, Steve** — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:484",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_add9d7f28eae28afe4be",
-    "text": "Maximus the Confessor (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).",
-    "raw_text": "**Maximus the Confessor** (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:485",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3983264ea971e368f68b",
-    "text": "Mays, James Luther — Critical scholar; Amos (OT Library, 1969); Micah (OT Library, 1976).",
-    "raw_text": "**Mays, James Luther** — Critical scholar; *Amos* (OT Library, 1969); *Micah* (OT Library, 1976).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:486",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1859454164270a6481f4",
-    "text": "Mazar, Amihai — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom.",
-    "raw_text": "**Mazar, Amihai** — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:487",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7020fd170ac17d9cbd4f",
-    "text": "McDowell, Sean — Popular evangelical apologist.",
-    "raw_text": "**McDowell, Sean** — Popular evangelical apologist.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:488",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3dc990fee8fff050c570",
-    "text": "McDonald, Lee Martin — The Biblical Canon (2007). Scholarly treatment of canon formation.",
-    "raw_text": "**McDonald, Lee Martin** — *The Biblical Canon* (2007). Scholarly treatment of canon formation.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:489",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_c52877c72bdf1a77c441",
-    "text": "McKnight, Scot — Evangelical critical scholar; Sermon on the Mount (2013). Cites Qumran Community Rule as context for Matthew 5:43.",
-    "raw_text": "**McKnight, Scot** — Evangelical critical scholar; *Sermon on the Mount* (2013). Cites Qumran Community Rule as context for Matthew 5:43.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:490",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_2807abe6e84758721af5",
-    "text": "Meeks, Wayne — Critical scholar; \"The Image of the Androgyne\" (History of Religions, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.",
-    "raw_text": "**Meeks, Wayne** — Critical scholar; \"The Image of the Androgyne\" (*History of Religions*, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:491",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_537926bbcd880803abc7",
-    "text": "Melania the Elder — Asceticism; monastic patronage; associated with Origenist circles.",
-    "raw_text": "**Melania the Elder** — Asceticism; monastic patronage; associated with Origenist circles.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:492",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_e15610101ed457a5e063",
-    "text": "Melania the Younger — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.",
-    "raw_text": "**Melania the Younger** — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:493",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_6d059cce51c5034054ea",
-    "text": "Mendenhall, George — Critical scholar; eleph-as-military-unit proposal (1958).",
-    "raw_text": "**Mendenhall, George** — Critical scholar; *eleph*-as-military-unit proposal (1958).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:494",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_ce990eed7ec3d1aa12ba",
-    "text": "Merkle, Benjamin L. — Evangelical complementarian; reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions.",
-    "raw_text": "**Merkle, Benjamin L.** — Evangelical complementarian; reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:495",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1b0f9b477cac44f93690",
-    "text": "Metzger, Bruce — Critical scholar; The Canon of the New Testament (1987). Wrote the preface to the NRSV/NRSVue.",
-    "raw_text": "**Metzger, Bruce** — Critical scholar; *The Canon of the New Testament* (1987). Wrote the preface to the NRSV/NRSVue.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:496",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_36185b6bf163795baeec",
-    "text": "Milgrom, Jacob — Jewish critical scholar; Leviticus (Anchor Bible, 2000). Leviticus 18:22 ban restricted to Israelite men in the land; lesbianism not prohibited.",
-    "raw_text": "**Milgrom, Jacob** — Jewish critical scholar; *Leviticus* (Anchor Bible, 2000). Leviticus 18:22 ban restricted to Israelite men in the land; lesbianism not prohibited.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
-    "source_reference": "paragraph:497",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1ac56145e58d51c289f3",
-    "text": "Mineka, Susan — Psychologist; preparedness model of fear acquisition.",
-    "raw_text": "**Mineka, Susan** — Psychologist; preparedness model of fear acquisition.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "M"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
     "source_reference": "paragraph:498",
     "parent_id": null,
     "related_ids": [],
@@ -16130,9 +16128,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_866c83095d41a0d50855",
-    "text": "Monica — Augustine's mother; known through his account in the Confessions, not through her own surviving writing.",
-    "raw_text": "**Monica** — Augustine's mother; known through his account in the *Confessions*, not through her own surviving writing.",
+    "id": "rk_25e40803bbc9bd22be02",
+    "text": "MacDonald, Dennis R. — Critical scholar; There Is No Male and Female (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.",
+    "raw_text": "**MacDonald, Dennis R.** — Critical scholar; *There Is No Male and Female* (1987). Argues the \"no male and female\" clause in Galatians 3:28 circulated as an independent Jesus saying before Paul used it.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16162,9 +16160,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6fe06bf125e0652971cb",
-    "text": "Montanus — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.",
-    "raw_text": "**Montanus** — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.",
+    "id": "rk_852d4a1bd2b324acaeb7",
+    "text": "MacIntyre, Alasdair — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics.",
+    "raw_text": "**MacIntyre, Alasdair** — Philosopher; \"Hume on Is and Ought\" (1959). The is-ought problem in meta-ethics.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16194,9 +16192,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_47bad993c35a55521cd8",
-    "text": "Moo, Douglas — Conservative evangelical; Romans (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.",
-    "raw_text": "**Moo, Douglas** — Conservative evangelical; *Romans* (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.",
+    "id": "rk_c7235f822ab5746cd1aa",
+    "text": "Mackie, J.L. — Philosopher; atheist; Ethics: Inventing Right and Wrong (1977); \"Evil and Omnipotence\" (Mind, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.",
+    "raw_text": "**Mackie, J.L.** — Philosopher; atheist; *Ethics: Inventing Right and Wrong* (1977); \"Evil and Omnipotence\" (*Mind*, 1955). Error theory — objective moral values do not exist — and the logical problem of evil.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16226,9 +16224,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fcc02f40bb3702c0a2d7",
-    "text": "Moore, A.L. — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.",
-    "raw_text": "**Moore, A.L.** — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.",
+    "id": "rk_2c1e0357f327192ceda2",
+    "text": "Macrina the Younger (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.",
+    "raw_text": "**Macrina the Younger** (c. 327–379) — Theological influence on her brothers Basil the Great and Gregory of Nyssa. Her Eastern theological orientation differs from later Augustinian Western Christianity.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16258,9 +16256,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_44b4522af995f11fd42d",
-    "text": "Moore, G.E. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
-    "raw_text": "**Moore, G.E.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
+    "id": "rk_04f2a96f2c705b664258",
+    "text": "Maitzen, Stephen — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (Religious Studies, 2006). Moral paralysis objection to skeptical theism.",
+    "raw_text": "**Maitzen, Stephen** — Philosopher; \"Divine Hiddenness and the Demographics of Theism\" (*Religious Studies*, 2006). Moral paralysis objection to skeptical theism.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16290,9 +16288,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3134bdd00624ca65f081",
-    "text": "Moore, Russell — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.",
-    "raw_text": "**Moore, Russell** — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.",
+    "id": "rk_7a7cb79fe42c106ce6b9",
+    "text": "Maimonides — Medieval Jewish philosopher; Sefer HaMitzvot. His enumeration of 613 commandments illustrates that the list never sorts itself — someone always does the sorting.",
+    "raw_text": "**Maimonides** — Medieval Jewish philosopher; *Sefer HaMitzvot*. His enumeration of 613 commandments illustrates that the list never sorts itself — someone always does the sorting.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16322,9 +16320,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_05d1aa31fe3eb1f9b403",
-    "text": "Moreland, J.P. — Evangelical philosopher; Philosophical Foundations for a Christian Worldview (2003).",
-    "raw_text": "**Moreland, J.P.** — Evangelical philosopher; *Philosophical Foundations for a Christian Worldview* (2003).",
+    "id": "rk_e2635ad2fde699316315",
+    "text": "Malamat, Abraham — Critical scholar; eleph-as-military-unit proposal (1967).",
+    "raw_text": "**Malamat, Abraham** — Critical scholar; *eleph*-as-military-unit proposal (1967).",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16354,9 +16352,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_503b3d75e77783a413df",
-    "text": "Morris, Thomas V. — Analytic theologian; The Logic of God Incarnate (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.",
-    "raw_text": "**Morris, Thomas V.** — Analytic theologian; *The Logic of God Incarnate* (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.",
+    "id": "rk_08ab5aadaf4ea909b8b3",
+    "text": "Marcella of Rome — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.",
+    "raw_text": "**Marcella of Rome** — Biblical scholar and ascetic; part of the Aventine circle with Paula and Jerome.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16386,9 +16384,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6d4f5619dfc8d052e9c8",
-    "text": "Motyer, Alec — Conservative evangelical; The Prophecy of Isaiah (IVP, 1993). Sensus plenior/double-fulfillment reading of Isaiah 7–11.",
-    "raw_text": "**Motyer, Alec** — Conservative evangelical; *The Prophecy of Isaiah* (IVP, 1993). *Sensus plenior*/double-fulfillment reading of Isaiah 7–11.",
+    "id": "rk_dc3236707fcd3b737b54",
+    "text": "Marcion (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.",
+    "raw_text": "**Marcion** (c. 85–160 CE) — Proposed the first known Christian canon: reduced Luke plus ten Pauline letters, no Old Testament. Excommunicated c. 144. Looked at the Hebrew Bible's God and Jesus's God and said they cannot be the same — his answer was two divine beings. His challenge probably accelerated canon list-making.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16418,9 +16416,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fc617aa7ed1e5262d990",
-    "text": "Mowczko, Marg — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.",
-    "raw_text": "**Mowczko, Marg** — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.",
+    "id": "rk_3af1ce66b23418605684",
+    "text": "Martin Luther King Jr. — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history.",
+    "raw_text": "**Martin Luther King Jr.** — Cited Amos 5:24 at the March on Washington (August 28, 1963) and in \"Letter from Birmingham Jail\" (April 1963). Treated as a confirmed primary source for the verse's reception history.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16450,9 +16448,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_eaed82ab9bf425040500",
-    "text": "Munro, Winsome — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (JSNT, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid.",
-    "raw_text": "**Munro, Winsome** — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (*JSNT*, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid.",
+    "id": "rk_e72d67535f10d3a9d767",
+    "text": "Martyn, J. Louis — Critical scholar; History and Theology in the Fourth Gospel (1968); Galatians (Anchor Bible, 1997). Two-level-drama reconstruction of the aposynagogos — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.",
+    "raw_text": "**Martyn, J. Louis** — Critical scholar; *History and Theology in the Fourth Gospel* (1968); *Galatians* (Anchor Bible, 1997). Two-level-drama reconstruction of the *aposynagogos* — now a contested hypothesis rather than settled background. Apocalyptic-Paul framework.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -16482,7 +16480,839 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e9f62823d28c90eb80e0",
+    "id": "rk_42133401077f43026a71",
+    "text": "Mason, Steve — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus.",
+    "raw_text": "**Mason, Steve** — Critical scholar. Argues \"Judeans\" is the strongest translation specifically for Josephus.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:510",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0fe3bc1cff3fa4f0ce71",
+    "text": "Maximus the Confessor (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).",
+    "raw_text": "**Maximus the Confessor** (c. 580–662) — Byzantine theologian. Opposed Monothelitism. Tongue excised and right hand severed (661); exiled to Lazica; died 13 August 662; vindicated posthumously at the Third Council of Constantinople (680–681).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:511",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_93362d2e48648e2e173d",
+    "text": "Mays, James Luther — Critical scholar; Amos (OT Library, 1969); Micah (OT Library, 1976).",
+    "raw_text": "**Mays, James Luther** — Critical scholar; *Amos* (OT Library, 1969); *Micah* (OT Library, 1976).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:512",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_05b0f59f1fdac080593d",
+    "text": "Mazar, Amihai — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom.",
+    "raw_text": "**Mazar, Amihai** — Critical archaeologist; \"modified conventional chronology.\" Middle position on the scale of David's kingdom.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:513",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_afe43560744e37419b23",
+    "text": "McDowell, Sean — Popular evangelical apologist.",
+    "raw_text": "**McDowell, Sean** — Popular evangelical apologist.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:514",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9fd8889bdf28228bad2c",
+    "text": "McDonald, Lee Martin — The Biblical Canon (2007). Scholarly treatment of canon formation.",
+    "raw_text": "**McDonald, Lee Martin** — *The Biblical Canon* (2007). Scholarly treatment of canon formation.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:515",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9ff26bad479e2268d87c",
+    "text": "McKnight, Scot — Evangelical critical scholar; Sermon on the Mount (2013). Cites Qumran Community Rule as context for Matthew 5:43.",
+    "raw_text": "**McKnight, Scot** — Evangelical critical scholar; *Sermon on the Mount* (2013). Cites Qumran Community Rule as context for Matthew 5:43.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:516",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_353d8262f7180de3b737",
+    "text": "Meeks, Wayne — Critical scholar; \"The Image of the Androgyne\" (History of Religions, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.",
+    "raw_text": "**Meeks, Wayne** — Critical scholar; \"The Image of the Androgyne\" (*History of Religions*, 1974). Traces Galatians 3:28 to Genesis 1:27 androgyne traditions in Jewish and Hellenistic sources.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:517",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c448c61d1b192504f743",
+    "text": "Melania the Elder — Asceticism; monastic patronage; associated with Origenist circles.",
+    "raw_text": "**Melania the Elder** — Asceticism; monastic patronage; associated with Origenist circles.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:518",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a676289acb0480a59ea9",
+    "text": "Melania the Younger — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.",
+    "raw_text": "**Melania the Younger** — Granddaughter of Melania the Elder; wealthy ascetic and monastic founder.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:519",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_51b3d5869bdec3cef2c4",
+    "text": "Mendenhall, George — Critical scholar; eleph-as-military-unit proposal (1958).",
+    "raw_text": "**Mendenhall, George** — Critical scholar; *eleph*-as-military-unit proposal (1958).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:520",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f59022cbd06716ef4ce3",
+    "text": "Merkle, Benjamin L. — Evangelical complementarian; reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions.",
+    "raw_text": "**Merkle, Benjamin L.** — Evangelical complementarian; reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:521",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0574581705370da2e473",
+    "text": "Metzger, Bruce — Critical scholar; The Canon of the New Testament (1987). Wrote the preface to the NRSV/NRSVue.",
+    "raw_text": "**Metzger, Bruce** — Critical scholar; *The Canon of the New Testament* (1987). Wrote the preface to the NRSV/NRSVue.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:522",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a5af4fd8e919c95ff7e5",
+    "text": "Milgrom, Jacob — Jewish critical scholar; Leviticus (Anchor Bible, 2000). Leviticus 18:22 ban restricted to Israelite men in the land; lesbianism not prohibited.",
+    "raw_text": "**Milgrom, Jacob** — Jewish critical scholar; *Leviticus* (Anchor Bible, 2000). Leviticus 18:22 ban restricted to Israelite men in the land; lesbianism not prohibited.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:523",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3a4006ae838e570d32d0",
+    "text": "Mineka, Susan — Psychologist; preparedness model of fear acquisition.",
+    "raw_text": "**Mineka, Susan** — Psychologist; preparedness model of fear acquisition.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:524",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c380661c584fa35226fe",
+    "text": "Monica — Augustine's mother; known through his account in the Confessions, not through her own surviving writing.",
+    "raw_text": "**Monica** — Augustine's mother; known through his account in the *Confessions*, not through her own surviving writing.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:525",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6b6cca0202660553d699",
+    "text": "Montanus — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.",
+    "raw_text": "**Montanus** — \"New Prophecy\" movement; continuing prophecy and ecstatic spiritual gifts; later joined by Tertullian.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:526",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a1df20069200723e5cce",
+    "text": "Moo, Douglas — Conservative evangelical; Romans (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.",
+    "raw_text": "**Moo, Douglas** — Conservative evangelical; *Romans* (NICNT, Eerdmans, 1996). Reads Romans 13 as a genuine, straightforward mandate for civil obedience.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:527",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e137c358a79339c5995b",
+    "text": "Moore, A.L. — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.",
+    "raw_text": "**Moore, A.L.** — Argues the delay of the parousia did not fundamentally alter Paul's eschatological framework.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:528",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a0c5f329719d1918f728",
+    "text": "Moore, G.E. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
+    "raw_text": "**Moore, G.E.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:529",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_033fb7e53658cca71fb0",
+    "text": "Moore, Russell — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.",
+    "raw_text": "**Moore, Russell** — Conservative evangelical; concedes the plain-sense reading of Jeremiah 29:11 then argues for typological transfer to the church.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:530",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3e3648e026f4782fba02",
+    "text": "Moreland, J.P. — Evangelical philosopher; Philosophical Foundations for a Christian Worldview (2003).",
+    "raw_text": "**Moreland, J.P.** — Evangelical philosopher; *Philosophical Foundations for a Christian Worldview* (2003).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:531",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9688f8c3f4606008e5f0",
+    "text": "Morris, Thomas V. — Analytic theologian; The Logic of God Incarnate (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.",
+    "raw_text": "**Morris, Thomas V.** — Analytic theologian; *The Logic of God Incarnate* (1986). \"Two minds\" view: Jesus's human consciousness genuinely did not know the date of the parousia (Mark 13:32), while the divine mind did.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:532",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e9eacbd1472cbf6824b4",
+    "text": "Motyer, Alec — Conservative evangelical; The Prophecy of Isaiah (IVP, 1993). Sensus plenior/double-fulfillment reading of Isaiah 7–11.",
+    "raw_text": "**Motyer, Alec** — Conservative evangelical; *The Prophecy of Isaiah* (IVP, 1993). *Sensus plenior*/double-fulfillment reading of Isaiah 7–11.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:533",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_06a8b1d2e4c86832d595",
+    "text": "Mowczko, Marg — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.",
+    "raw_text": "**Mowczko, Marg** — Independent scholar. Independently corroborated Du Mez's finding that no women sat on the ESV translation committee rosters.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:534",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3566bcc00e08b37b2bd1",
+    "text": "Munro, Winsome — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (JSNT, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid.",
+    "raw_text": "**Munro, Winsome** — Critical scholar; \"Romans 13:1–7: Apartheid's Last Biblical Refuge\" (*JSNT*, 1990). Confirms the Dutch Reformed Church used Romans 13 as the \"ultimate sanction\" for apartheid.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "M"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > M",
+    "source_reference": "paragraph:535",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_53e647595111da2824ae",
     "text": "Neil, Bronwen — Patristics scholar; Maximus the Confessor and His Companions (OUP, 2002).",
     "raw_text": "**Neil, Bronwen** — Patristics scholar; *Maximus the Confessor and His Companions* (OUP, 2002).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16500,7 +17330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
-    "source_reference": "paragraph:510",
+    "source_reference": "paragraph:536",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16514,7 +17344,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ec07c56fa7c9ac6ce121",
+    "id": "rk_ded333e4e7e93f234cc7",
     "text": "Nestorius — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label \"Nestorian\" likely misrepresents both him and the Church of the East.",
     "raw_text": "**Nestorius** — Condemned at Ephesus (431) for allegedly dividing Christ into two persons. The label \"Nestorian\" likely misrepresents both him and the Church of the East.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16532,7 +17362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
-    "source_reference": "paragraph:511",
+    "source_reference": "paragraph:537",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16546,7 +17376,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9a4058d15899e50fd5ae",
+    "id": "rk_e4d2ba3774839e5f95bc",
     "text": "Nirenberg, David — Critical historian; Anti-Judaism: The Western Tradition (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought.",
     "raw_text": "**Nirenberg, David** — Critical historian; *Anti-Judaism: The Western Tradition* (W.W. Norton, 2013). Anti-Judaism as central and load-bearing across roughly 3,000 years of Western thought.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16564,7 +17394,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
-    "source_reference": "paragraph:512",
+    "source_reference": "paragraph:538",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16578,7 +17408,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_dec6b178a1f98e088260",
+    "id": "rk_690329856c4d17e8c26a",
     "text": "Nix, William — Conservative evangelical; A General Introduction to the Bible (1986).",
     "raw_text": "**Nix, William** — Conservative evangelical; *A General Introduction to the Bible* (1986).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16596,7 +17426,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
-    "source_reference": "paragraph:513",
+    "source_reference": "paragraph:539",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16610,7 +17440,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08f2c3fe934ed6ed5960",
+    "id": "rk_630b69e7360988f0b5ac",
     "text": "Noll, Mark A. — Evangelical historian; The Civil War as a Theological Crisis (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act.",
     "raw_text": "**Noll, Mark A.** — Evangelical historian; *The Civil War as a Theological Crisis* (UNC Press, 2006). Documents how southern proslavery theologians used literalist hermeneutics and Romans 13 after the 1850 Fugitive Slave Act.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16628,7 +17458,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > N",
-    "source_reference": "paragraph:514",
+    "source_reference": "paragraph:540",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16642,7 +17472,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_026aec91139f0eb7f161",
+    "id": "rk_bfd30b01dba9f34a0f74",
     "text": "O'Neill, Tim — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions.",
     "raw_text": "**O'Neill, Tim** — Atheist; History for Atheists website. Systematically debunks bad atheist history — the Nicaea canon myth, mythicism, Horus parallels, Hypatia legend. Cited as a model for how to state minority vs. majority scholarly positions.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16660,7 +17490,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:515",
+    "source_reference": "paragraph:541",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16674,7 +17504,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7e1ccaedfa4ae82d9631",
+    "id": "rk_89c61c13054dd0855881",
     "text": "Ohman, Arne — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate.",
     "raw_text": "**Ohman, Arne** — Psychologist; preparedness model showing certain fears are faster to acquire due to evolutionary threat history but are still learned, not innate.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16692,7 +17522,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:516",
+    "source_reference": "paragraph:542",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16706,7 +17536,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9cbad943dcdcd58fa4fa",
+    "id": "rk_e1a6e8995759b79bddb5",
     "text": "Olyan, Saul — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner.",
     "raw_text": "**Olyan, Saul** — Critical scholar; on Leviticus 18:22 — the prohibited party and addressee is the insertive partner.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16724,7 +17554,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:517",
+    "source_reference": "paragraph:543",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16738,7 +17568,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e1028c2483be2ac8205f",
+    "id": "rk_a9564d91bf4081b714d8",
     "text": "Olson, Ken — Critical scholar. Argued the Testimonium Flavianum is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position.",
     "raw_text": "**Olson, Ken** — Critical scholar. Argued the *Testimonium Flavianum* is a wholesale later insertion rather than partially interpolated — solid scholarship, minority position.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16756,7 +17586,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:518",
+    "source_reference": "paragraph:544",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16770,7 +17600,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_24ac824b8780955cbf24",
+    "id": "rk_b15a5ee8e7cd4a0dcea9",
     "text": "Olympias the Deaconess — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures.",
     "raw_text": "**Olympias the Deaconess** — Close associate of John Chrysostom; his surviving letters to her are a major source for both figures.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16788,7 +17618,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:519",
+    "source_reference": "paragraph:545",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16802,7 +17632,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9643038c9bbcf92fc655",
+    "id": "rk_765877c4ececfe75dc40",
     "text": "Oppy, Graham — Philosopher; atheist/naturalist (Monash); Arguing About Gods (2006). Analytic philosophy of religion from a secular perspective.",
     "raw_text": "**Oppy, Graham** — Philosopher; atheist/naturalist (Monash); *Arguing About Gods* (2006). Analytic philosophy of religion from a secular perspective.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16820,7 +17650,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:520",
+    "source_reference": "paragraph:546",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16834,7 +17664,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_15096929cef3a178a851",
+    "id": "rk_7df0570eaa08690d35af",
     "text": "Origen (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading.",
     "raw_text": "**Origen** (c. 185–253) — Early theologian; allegory and free will; classified NT books as accepted, disputed, or spurious. Entertained eventual universal restoration (condemned posthumously at Constantinople II, 553). Rejected simplistic literalism — argued some passages have no usable literal sense and require a deeper reading.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16852,7 +17682,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > O",
-    "source_reference": "paragraph:521",
+    "source_reference": "paragraph:547",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16866,7 +17696,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ae45b050c071b3275e2",
+    "id": "rk_879e6f935325bc9a84ad",
     "text": "Page, Frank — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995).",
     "raw_text": "**Page, Frank** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16884,7 +17714,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:522",
+    "source_reference": "paragraph:548",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16898,7 +17728,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1dda3533230c946a1465",
+    "id": "rk_46967fab2a49b2b20b46",
     "text": "Parfit, Derek — Philosopher; On What Matters (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do.",
     "raw_text": "**Parfit, Derek** — Philosopher; *On What Matters* (2011). Secular moral realism — moral facts exist objectively in the way mathematical facts do.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16916,7 +17746,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:523",
+    "source_reference": "paragraph:549",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16930,7 +17760,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e58f63a9b87955e133c7",
+    "id": "rk_bf8b3aece5f3b30eb4b5",
     "text": "Parker, Pierson — Critical scholar (JBL, 1967). Argues Galatians 2 and Acts 15 describe the same meeting.",
     "raw_text": "**Parker, Pierson** — Critical scholar (*JBL*, 1967). Argues Galatians 2 and Acts 15 describe the same meeting.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16948,7 +17778,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:524",
+    "source_reference": "paragraph:550",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16962,7 +17792,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7103e73f675824cb8ef7",
+    "id": "rk_59438eefaf8c7cf93aff",
     "text": "Paul, Richard — Critical Thinking (Pearson), with Elder. Widely used reasoning framework.",
     "raw_text": "**Paul, Richard** — *Critical Thinking* (Pearson), with Elder. Widely used reasoning framework.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -16980,7 +17810,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:525",
+    "source_reference": "paragraph:551",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -16994,7 +17824,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_51b289df2212068ac559",
+    "id": "rk_feb26c675eafa20cc422",
     "text": "Paul, Shalom M. — Jewish critical scholar; Amos (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5.",
     "raw_text": "**Paul, Shalom M.** — Jewish critical scholar; *Amos* (Hermeneia, 1991). Identified the rhetorical structure and literary pivot in Amos 1–2 and 5.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17012,7 +17842,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:526",
+    "source_reference": "paragraph:552",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17026,7 +17856,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9ed167b8eeb6661cea5d",
+    "id": "rk_81b95c1984b5d4e672b9",
     "text": "Paula of Rome — Worked closely with Jerome; funded and collaborated on his biblical scholarship.",
     "raw_text": "**Paula of Rome** — Worked closely with Jerome; funded and collaborated on his biblical scholarship.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17044,7 +17874,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:527",
+    "source_reference": "paragraph:553",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17058,7 +17888,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d815fa4d9ce548b09d47",
+    "id": "rk_8054dd091c366f2d1490",
     "text": "Pelagius — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism.",
     "raw_text": "**Pelagius** — Rejected inherited guilt/original sin in the Augustinian sense; emphasized human freedom and responsibility. His opponents won the doctrinal battle. Still a committed Christian ascetic — his answer was not secular humanism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17076,7 +17906,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:528",
+    "source_reference": "paragraph:554",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17090,7 +17920,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b9c5a86ec17cbc4eaee2",
+    "id": "rk_be161402cf5f38def9a8",
     "text": "Perpetua — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account.",
     "raw_text": "**Perpetua** — Martyred at Carthage, 7 March 203 CE. Her passion narrative is treated as containing an actual first-person female voice, unusually early for a woman's direct account.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17108,7 +17938,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:529",
+    "source_reference": "paragraph:555",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17122,7 +17952,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8167d2bc365d10a4d748",
+    "id": "rk_9d3116ec9b9c374995ef",
     "text": "Persinger, Michael — Neuroscientist; Neuropsychological Bases of God Beliefs (1987). Temporal lobe stimulation and religious experience.",
     "raw_text": "**Persinger, Michael** — Neuroscientist; *Neuropsychological Bases of God Beliefs* (1987). Temporal lobe stimulation and religious experience.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17140,7 +17970,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:530",
+    "source_reference": "paragraph:556",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17154,7 +17984,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a5a6b1c34384b68ca843",
+    "id": "rk_7e293150675dc03d6039",
     "text": "Petrie, W.M.F. (Flinders Petrie) — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an eleph-as-military-unit proposal (1931).",
     "raw_text": "**Petrie, W.M.F. (Flinders Petrie)** — Archaeologist; discovered the Merneptah Stele at Thebes in 1896. Also put forward an *eleph*-as-military-unit proposal (1931).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17172,7 +18002,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:531",
+    "source_reference": "paragraph:557",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17186,7 +18016,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_000e553b5f9534080d94",
+    "id": "rk_7ca99b063db1fc6e4650",
     "text": "Philo of Alexandria (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower.",
     "raw_text": "**Philo of Alexandria** (c. 20 BCE–50 CE) — Jewish philosopher in Egypt; read Hebrew scriptures through Platonic concepts for Greek-educated audiences. His allegorical method is the comparison for Galatians 4:21–31, though Caneday and Ford argue Paul's move is narrower.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17204,7 +18034,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:532",
+    "source_reference": "paragraph:558",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17218,7 +18048,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_271cedebefaf2567ffb7",
+    "id": "rk_441cbf0a0492c8e4e6fe",
     "text": "Philostorgius — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands.",
     "raw_text": "**Philostorgius** — Arian-sympathetic church historian of Nicaea. Survives only as a hostile summary in Photius's later digest — the dissenting side at Nicaea reaches us through its enemies' hands.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17236,7 +18066,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:533",
+    "source_reference": "paragraph:559",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17250,7 +18080,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e6307fba549cd5d69f92",
+    "id": "rk_bc14f5adeb594b478c43",
     "text": "Photius (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea.",
     "raw_text": "**Photius** (Patriarch) — Summarized Philostorgius; the sole surviving conduit for the Arian account of Nicaea.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17268,7 +18098,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:534",
+    "source_reference": "paragraph:560",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17282,7 +18112,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9789ec895785fb4944be",
+    "id": "rk_e7fbc8842ddb6b73c99a",
     "text": "Pinker, Steven — Psychologist; The Better Angels of Our Nature (2011). Secular case that human moral progress has tracked a reduction of violence.",
     "raw_text": "**Pinker, Steven** — Psychologist; *The Better Angels of Our Nature* (2011). Secular case that human moral progress has tracked a reduction of violence.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17300,7 +18130,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:535",
+    "source_reference": "paragraph:561",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17314,7 +18144,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c19676ed8f7a43b39804",
+    "id": "rk_6842a5cb64406c610de5",
     "text": "Pinnock, Clark — Evangelical; argues Paul's eschatology matured rather than changed.",
     "raw_text": "**Pinnock, Clark** — Evangelical; argues Paul's eschatology matured rather than changed.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17332,7 +18162,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:536",
+    "source_reference": "paragraph:562",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17346,7 +18176,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6910c3f0565548d0c9e2",
+    "id": "rk_da6a1bf8763316085000",
     "text": "Piper, John — Conservative evangelical; co-edited Recovering Biblical Manhood and Womanhood (Crossway, 1991). Flag: His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment.",
     "raw_text": "**Piper, John** — Conservative evangelical; co-edited *Recovering Biblical Manhood and Womanhood* (Crossway, 1991). **Flag:** His theological project explicitly rejects egalitarian interpretations of male/female roles. Any citation on women, marriage, authority, or Galatians 3:28 carries that commitment.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17364,7 +18194,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:537",
+    "source_reference": "paragraph:563",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17378,7 +18208,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_b58ad4a32cf41285efab",
+    "id": "rk_ca2fa4bcd83979204974",
     "text": "Plantinga, Alvin — Reformed epistemologist; belief in God as \"properly basic\" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the logical problem of evil. The evidential problem of evil survives and is where the live argument now happens.",
     "raw_text": "**Plantinga, Alvin** — Reformed epistemologist; belief in God as \"properly basic\" — rational without inferential argument. Formulated the free will defense, widely regarded as defeating the *logical* problem of evil. The *evidential* problem of evil survives and is where the live argument now happens.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17396,7 +18226,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:538",
+    "source_reference": "paragraph:564",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17410,7 +18240,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7a7bae78ec06ac2f32e1",
+    "id": "rk_bf3af6e68fe831189e0e",
     "text": "Pliny the Younger — Roman administrator; Letters 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics.",
     "raw_text": "**Pliny the Younger** — Roman administrator; *Letters* 10.96, c. 112 CE. Describes Christians meeting before dawn and singing to Christ as to a god. Disinterested source — not polemic or apologetics.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17428,7 +18258,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:539",
+    "source_reference": "paragraph:565",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17442,7 +18272,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c0c63022776e63a31cf",
+    "id": "rk_3e4acf0d8bad06d8f352",
     "text": "Polycarp of Smyrna (2nd century) — Church Father; martyred c. 155.",
     "raw_text": "**Polycarp of Smyrna** (2nd century) — Church Father; martyred c. 155.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17460,7 +18290,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:540",
+    "source_reference": "paragraph:566",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17474,7 +18304,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_14e524868f1d047b5bf8",
+    "id": "rk_71b8ccbcd8ebc0dc1b6b",
     "text": "Popper, Karl — Philosopher of science; The Logic of Scientific Discovery (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction.",
     "raw_text": "**Popper, Karl** — Philosopher of science; *The Logic of Scientific Discovery* (1934/1959). Falsifiability as a demarcation criterion, not a truth test — an unfalsifiable claim is not thereby false but carries no evidential weight in either direction.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17492,7 +18322,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:541",
+    "source_reference": "paragraph:567",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17506,7 +18336,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_028c8ee8992f71ab6277",
+    "id": "rk_f6e7a20e1874b65bc5ae",
     "text": "Porter, Stanley — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the general sense of what was said, not license for invention.",
     "raw_text": "**Porter, Stanley** — Evangelical scholar. Philological argument that Thucydides 1.22.1 claims fidelity to the *general sense* of what was said, not license for invention.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17524,7 +18354,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:542",
+    "source_reference": "paragraph:568",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17538,7 +18368,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fa6c0782b2af0325e24a",
+    "id": "rk_4a081eae25e9c7aed868",
     "text": "Postell, Seth — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward.",
     "raw_text": "**Postell, Seth** — Evangelical scholar. Argues the canonical shape of Isaiah already builds toward a messianic reading, so Matthew is recovering the structure the finished book was building toward.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17556,7 +18386,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:543",
+    "source_reference": "paragraph:569",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17570,7 +18400,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7fc17dfe8c16e6480234",
+    "id": "rk_9456c4cb6c965708ff2f",
     "text": "Priest, Josiah — Major flag: He wrote Bible Defence of Slavery and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable.",
     "raw_text": "**Priest, Josiah** — **Major flag:** He wrote *Bible Defence of Slavery* and used scripture and the Curse of Ham tradition to defend racialized American slavery. He is an excellent primary source for what proslavery Christians argued; he is not a neutral authority on whether biblical slavery was morally acceptable.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17588,7 +18418,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:544",
+    "source_reference": "paragraph:570",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17602,7 +18432,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_04751ae5253e7812af41",
+    "id": "rk_9abb000ba9f46edcc2a9",
     "text": "Proba (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil.",
     "raw_text": "**Proba** (4th century) — Christian poet; retold biblical themes using recombined lines of Virgil.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17620,7 +18450,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > P",
-    "source_reference": "paragraph:545",
+    "source_reference": "paragraph:571",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17634,7 +18464,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_627e55c5dbeef15ce6dc",
+    "id": "rk_e4063eebffeabcbc2d29",
     "text": "Rachels, James — Philosopher; The Elements of Moral Philosophy (1986).",
     "raw_text": "**Rachels, James** — Philosopher; *The Elements of Moral Philosophy* (1986).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17652,7 +18482,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:546",
+    "source_reference": "paragraph:572",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17666,7 +18496,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ac723dac5d4ff6b258ed",
+    "id": "rk_f36c1584e56c9927ae51",
     "text": "Raedts, Peter — Historian; reassessed Children's Crusade sources — found pueri denotes a social class of impoverished landless peasants, not an age group.",
     "raw_text": "**Raedts, Peter** — Historian; reassessed Children's Crusade sources — found *pueri* denotes a social class of impoverished landless peasants, not an age group.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17684,7 +18514,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:547",
+    "source_reference": "paragraph:573",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17698,7 +18528,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_0a88bd1339d3dede3431",
+    "id": "rk_ded94faaa8ab260edacd",
     "text": "Rashi (Rabbi Shlomo Yitzchaki) — Medieval Jewish commentator. Near-term reading of Isaiah 7:14.",
     "raw_text": "**Rashi (Rabbi Shlomo Yitzchaki)** — Medieval Jewish commentator. Near-term reading of Isaiah 7:14.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17716,7 +18546,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:548",
+    "source_reference": "paragraph:574",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17730,7 +18560,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_45e7c4910f6c7254f353",
+    "id": "rk_28555efeb26e95816a48",
     "text": "Ratzinger, Joseph / Benedict XVI — Catholic conservative theologian; challenges the developmental parousia-delay thesis.",
     "raw_text": "**Ratzinger, Joseph / Benedict XVI** — Catholic conservative theologian; challenges the developmental parousia-delay thesis.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17748,7 +18578,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:549",
+    "source_reference": "paragraph:575",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17762,7 +18592,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_50b346f2178c83805af5",
+    "id": "rk_da391602bcfa35b244b6",
     "text": "Reinhartz, Adele — Jewish critical scholar; Cast Out of the Covenant (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends \"Jews\" as the accurate translation of Ioudaioi; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
     "raw_text": "**Reinhartz, Adele** — Jewish critical scholar; *Cast Out of the Covenant* (2018). Critiques Martyn's synagogue-expulsion reconstruction. Defends \"Jews\" as the accurate translation of *Ioudaioi*; warns \"Judeans\" erases continuity between ancient and modern Jewish identity.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17780,7 +18610,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:550",
+    "source_reference": "paragraph:576",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17794,7 +18624,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_714296bd7f75dd7dbb6d",
+    "id": "rk_2746fe70b1a79c752f76",
     "text": "Rendtorff, Rolf — European school; supplementary models for Pentateuchal composition.",
     "raw_text": "**Rendtorff, Rolf** — European school; supplementary models for Pentateuchal composition.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17812,7 +18642,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:551",
+    "source_reference": "paragraph:577",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17826,7 +18656,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_25cdf161fe352f8b238d",
+    "id": "rk_82145cde70d753093ab2",
     "text": "Riley-Smith, Jonathan — Historian; The Crusades: A History (2005). Apologetic and contextualizing treatment of the Crusades.",
     "raw_text": "**Riley-Smith, Jonathan** — Historian; *The Crusades: A History* (2005). Apologetic and contextualizing treatment of the Crusades.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17844,7 +18674,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:552",
+    "source_reference": "paragraph:578",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17858,7 +18688,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c59a38fc305b79fb893c",
+    "id": "rk_bed6227eccca609b4240",
     "text": "Roberts, Colin H. — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity.",
     "raw_text": "**Roberts, Colin H.** — Papyrologist. Showed that the bulk of early surviving Egyptian Christian manuscripts are not heterodox — cuts against Bauer's claim about Egyptian Christianity.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17876,7 +18706,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:553",
+    "source_reference": "paragraph:579",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17890,7 +18720,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_49f64383c6bf58714010",
+    "id": "rk_2f9831a18854bdd46305",
     "text": "Robinson, James M. — Critical scholar; co-editor of The Critical Edition of Q (2000).",
     "raw_text": "**Robinson, James M.** — Critical scholar; co-editor of *The Critical Edition of Q* (2000).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17908,7 +18738,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:554",
+    "source_reference": "paragraph:580",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17922,7 +18752,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e21d7e2207747da51813",
+    "id": "rk_71882f4706691579ca56",
     "text": "Robinson, Thomas A. — The Bauer Thesis Examined (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims.",
     "raw_text": "**Robinson, Thomas A.** — *The Bauer Thesis Examined* (1988). Re-examined Bauer's regional evidence and concluded the surviving sources are too thin to support his chronological priority claims.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17940,7 +18770,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:555",
+    "source_reference": "paragraph:581",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17954,7 +18784,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8900e69860061ddb275d",
+    "id": "rk_3bec385fcc97a0a42083",
     "text": "Rogerson, John W. — Critical scholar; recognized the Numbers census figures as not historical (1984).",
     "raw_text": "**Rogerson, John W.** — Critical scholar; recognized the Numbers census figures as not historical (1984).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -17972,7 +18802,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:556",
+    "source_reference": "paragraph:582",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -17986,7 +18816,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_efd9375438e392154520",
+    "id": "rk_c6c8e5438ba46d7d37e0",
     "text": "Römer, Thomas — European school; redaction-critical. Studies of the Torah's literary formation.",
     "raw_text": "**Römer, Thomas** — European school; redaction-critical. Studies of the Torah's literary formation.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -18004,7 +18834,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:557",
+    "source_reference": "paragraph:583",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18018,7 +18848,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_df0203392e1cd3b294e7",
+    "id": "rk_8a8c3b5aeab2eed10498",
     "text": "Ross, W.D. — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
     "raw_text": "**Ross, W.D.** — Philosopher; moral intuitionism. Cited for secular objective morality without theological grounding.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -18036,7 +18866,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:558",
+    "source_reference": "paragraph:584",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18050,7 +18880,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d242a305b61a7a067af3",
+    "id": "rk_41c6b3384595986f7061",
     "text": "Rubenstein, Jay — Critical historian; Armies of Heaven (2011). Critical history of the Crusades.",
     "raw_text": "**Rubenstein, Jay** — Critical historian; *Armies of Heaven* (2011). Critical history of the Crusades.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -18068,7 +18898,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:559",
+    "source_reference": "paragraph:585",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -18082,7 +18912,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_a2cbe100fe4b894b153c",
+    "id": "rk_7ae42f47e6ca783d9124",
     "text": "Ruether, Rosemary Radford — Catholic feminist/liberation theologian; Faith and Fratricide: The Theological Roots of Anti-Semitism (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative.",
     "raw_text": "**Ruether, Rosemary Radford** — Catholic feminist/liberation theologian; *Faith and Fratricide: The Theological Roots of Anti-Semitism* (Seabury, 1974). Anti-Judaism built into Christology itself — the claim that Jesus is the Messiah necessarily implies negation of Judaism as a rejected alternative.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -18100,838 +18930,6 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > R",
-    "source_reference": "paragraph:560",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_640efa3986d02311e584",
-    "text": "Sagan, Carl — Astronomer; secular; The Demon-Haunted World (1995). Nine-tool \"baloney detection\" checklist. Flag: Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.",
-    "raw_text": "**Sagan, Carl** — Astronomer; secular; *The Demon-Haunted World* (1995). Nine-tool \"baloney detection\" checklist. **Flag:** Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:561",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_1c9388abdfe55752e1d2",
-    "text": "Sanders, E.P. — Critical scholar; Paul and Palestinian Judaism (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.",
-    "raw_text": "**Sanders, E.P.** — Critical scholar; *Paul and Palestinian Judaism* (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:562",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3f7027e4e87bcb4691cb",
-    "text": "Sarah of the Desert (Amma Sarah) — Desert Mother; one of three named women in the Apophthegmata Patrum.",
-    "raw_text": "**Sarah of the Desert (Amma Sarah)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:563",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_25038a55305b178d086f",
-    "text": "Scanlon, T.M. — Philosopher; What We Owe to Each Other (1998). Contractualism: moral principles are those no one could reasonably reject.",
-    "raw_text": "**Scanlon, T.M.** — Philosopher; *What We Owe to Each Other* (1998). Contractualism: moral principles are those no one could reasonably reject.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:564",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_6144e1ed24ee30fea6a1",
-    "text": "Schaeffer, Francis — Evangelical; How Should We Then Live? (1976). Evangelical critique of humanist foundations.",
-    "raw_text": "**Schaeffer, Francis** — Evangelical; *How Should We Then Live?* (1976). Evangelical critique of humanist foundations.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:565",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_719cc1567c2a65d608a8",
-    "text": "Schemm, Peter R., Jr. — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. Flag: Same commitment as Grudem and Piper on gender roles.",
-    "raw_text": "**Schemm, Peter R., Jr.** — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. **Flag:** Same commitment as Grudem and Piper on gender roles.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:566",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_31be281abdd225ae8ae3",
-    "text": "Schmid, Konrad — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (JBL, 2021).",
-    "raw_text": "**Schmid, Konrad** — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (*JBL*, 2021).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:567",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_7c0688861b06242a1208",
-    "text": "Schreiner, Thomas — Evangelical; Galatians 3:10 and the law; Israel's Law and the Church's Faith (1988).",
-    "raw_text": "**Schreiner, Thomas** — Evangelical; Galatians 3:10 and the law; *Israel's Law and the Church's Faith* (1988).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:568",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_b319cfa9c3e7578591f7",
-    "text": "Schüssler Fiorenza, Elisabeth — Feminist critical theologian (Harvard); In Memory of Her (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.",
-    "raw_text": "**Schüssler Fiorenza, Elisabeth** — Feminist critical theologian (Harvard); *In Memory of Her* (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:569",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_8ef24a1014eaab699fec",
-    "text": "Secundus of Ptolemais — Refused to sign the Nicene Creed; exiled with Arius.",
-    "raw_text": "**Secundus of Ptolemais** — Refused to sign the Nicene Creed; exiled with Arius.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:570",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_31b7f80cda58ca368a9c",
-    "text": "Seifrid, Mark — Evangelical NPP critic.",
-    "raw_text": "**Seifrid, Mark** — Evangelical NPP critic.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:571",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_3e8360899ccaab0c94bc",
-    "text": "Shafer-Landau, Russ — Philosopher; Moral Realism: A Defence (2003). Non-naturalist moral realism without God.",
-    "raw_text": "**Shafer-Landau, Russ** — Philosopher; *Moral Realism: A Defence* (2003). Non-naturalist moral realism without God.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:572",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_d5143a4decc6c60c5a03",
-    "text": "Sheridan, Ruth — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks.",
-    "raw_text": "**Sheridan, Ruth** — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:573",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_b03902481e44d057f1c2",
-    "text": "Smith, Billy K. — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995).",
-    "raw_text": "**Smith, Billy K.** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:574",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f9ed11be8cc8cf9a6f35",
-    "text": "Smith, Gary V. — Conservative evangelical; Hosea, Amos, Micah (NIV Application Commentary).",
-    "raw_text": "**Smith, Gary V.** — Conservative evangelical; *Hosea, Amos, Micah* (NIV Application Commentary).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:575",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_21ed5310c4258abd91a0",
-    "text": "Snapp, Jim — Internal objections to the eleph proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.",
-    "raw_text": "**Snapp, Jim** — Internal objections to the *eleph* proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:576",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_59088c862314dde285b5",
-    "text": "Sobel, Jordan Howard — Philosopher; Logic and Theism (2004). Analytic philosophy of religion.",
-    "raw_text": "**Sobel, Jordan Howard** — Philosopher; *Logic and Theism* (2004). Analytic philosophy of religion.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:577",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f10be7da7ff39bacbc4c",
-    "text": "Socrates Scholasticus — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. Flag: He was a participant in the winning side's tradition, not a modern neutral historian.",
-    "raw_text": "**Socrates Scholasticus** — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. **Flag:** He was a participant in the winning side's tradition, not a modern neutral historian.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:578",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_f1201e4ff1a641cd72ab",
-    "text": "Soards, Marion — Critical scholar; The Speeches in Acts (1994). Classifies the Acts speeches by setting and function.",
-    "raw_text": "**Soards, Marion** — Critical scholar; *The Speeches in Acts* (1994). Classifies the Acts speeches by setting and function.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:579",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_9f1b1267caba9a192fc4",
-    "text": "Sozomen — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. Same flag as Socrates.",
-    "raw_text": "**Sozomen** — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. **Same flag as Socrates.**",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:580",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_8c583c847ea33cfbda2f",
-    "text": "Sprinkle, Preston — Evangelical; Erasing Hell (2011). Evangelical defense of eternal conscious torment.",
-    "raw_text": "**Sprinkle, Preston** — Evangelical; *Erasing Hell* (2011). Evangelical defense of eternal conscious torment.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:581",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_cfcb64bac09d835a8b81",
-    "text": "Stackert, Jeffrey — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.",
-    "raw_text": "**Stackert, Jeffrey** — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:582",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_6b1766ebd0f0196de0a2",
-    "text": "Stark, Rodney — Sociologist; God's Battalions (2009). Defensive-war framing of the Crusades.",
-    "raw_text": "**Stark, Rodney** — Sociologist; *God's Battalions* (2009). Defensive-war framing of the Crusades.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:583",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5bb81e69ec116c0d635b",
-    "text": "Stone, Mark Preston — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns.",
-    "raw_text": "**Stone, Mark Preston** — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:584",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_493713340f27aa44d688",
-    "text": "Streeter, B.H. — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).",
-    "raw_text": "**Streeter, B.H.** — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
-    "source_reference": "paragraph:585",
-    "parent_id": null,
-    "related_ids": [],
-    "tags": [],
-    "citation": null,
-    "attribution_confidence": "UNKNOWN",
-    "attribution_evidence": {
-      "method": "document_warning",
-      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
-    },
-    "review_required": true,
-    "parser_version": "1.2.0"
-  },
-  {
-    "id": "rk_5c1ab02fe7b560e33e09",
-    "text": "Stringfellow, Thornton — Major flag: Baptist minister and explicit biblical defender of slavery; A Brief Examination of Scripture Testimony on the Institution of Slavery (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.",
-    "raw_text": "**Stringfellow, Thornton** — **Major flag:** Baptist minister and explicit biblical defender of slavery; *A Brief Examination of Scripture Testimony on the Institution of Slavery* (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.",
-    "provenance_type": "REVIEW_REQUIRED",
-    "representation_type": "VERBATIM",
-    "speaker": null,
-    "topics": [
-      "Bible Deep Dive: Study Notes",
-      "12. Cited Persons Reference",
-      "S"
-    ],
-    "subtopics": [],
-    "record_type": "OBSERVATION",
-    "status": null,
-    "position_status": null,
-    "original_date": null,
-    "source_file": "Bible_Deep_Dive_Master_Notes.md",
-    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
     "source_reference": "paragraph:586",
     "parent_id": null,
     "related_ids": [],
@@ -18946,9 +18944,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_74808ce2451052a826dd",
-    "text": "Stuhlmacher, Peter — Lutheran-confessional; Revisiting Paul's Doctrine of Justification (IVP, 2001). Traditional reading against the NPP.",
-    "raw_text": "**Stuhlmacher, Peter** — Lutheran-confessional; *Revisiting Paul's Doctrine of Justification* (IVP, 2001). Traditional reading against the NPP.",
+    "id": "rk_3b1eccd60ab5550c39ef",
+    "text": "Sagan, Carl — Astronomer; secular; The Demon-Haunted World (1995). Nine-tool \"baloney detection\" checklist. Flag: Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.",
+    "raw_text": "**Sagan, Carl** — Astronomer; secular; *The Demon-Haunted World* (1995). Nine-tool \"baloney detection\" checklist. **Flag:** Sagan-style skepticism would be substantially more suspicious of magic, egregores, and spiritual connection than this project currently is.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -18978,9 +18976,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ee40c59c9e0b5b305eba",
-    "text": "Stump, Eleonore — Catholic analytic philosopher; Wandering in Darkness. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.",
-    "raw_text": "**Stump, Eleonore** — Catholic analytic philosopher; *Wandering in Darkness*. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.",
+    "id": "rk_6fe54c2ee9aadd747dc5",
+    "text": "Sanders, E.P. — Critical scholar; Paul and Palestinian Judaism (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.",
+    "raw_text": "**Sanders, E.P.** — Critical scholar; *Paul and Palestinian Judaism* (1977). Founding New Perspective on Paul text. His argument is partly a corrective to centuries of Christian caricature of Judaism — he had a stake in rehabilitating Judaism against that caricature.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19010,9 +19008,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_39d79060b6994a06e41c",
-    "text": "Swinburne, Richard — Analytic/Bayesian philosopher; The Existence of God; Providence and the Problem of Evil (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.",
-    "raw_text": "**Swinburne, Richard** — Analytic/Bayesian philosopher; *The Existence of God*; *Providence and the Problem of Evil* (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.",
+    "id": "rk_f1fbd8610165b4e5cb7b",
+    "text": "Sarah of the Desert (Amma Sarah) — Desert Mother; one of three named women in the Apophthegmata Patrum.",
+    "raw_text": "**Sarah of the Desert (Amma Sarah)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19042,9 +19040,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_55eff65357533941c180",
-    "text": "Symmachus — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.",
-    "raw_text": "**Symmachus** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.",
+    "id": "rk_f1161ec1c0a24c5dc80b",
+    "text": "Scanlon, T.M. — Philosopher; What We Owe to Each Other (1998). Contractualism: moral principles are those no one could reasonably reject.",
+    "raw_text": "**Scanlon, T.M.** — Philosopher; *What We Owe to Each Other* (1998). Contractualism: moral principles are those no one could reasonably reject.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19074,9 +19072,9 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_18581242c75373e715df",
-    "text": "Syncletica of Alexandria — Desert Mother; teachings on temptation, discipline, and prayer.",
-    "raw_text": "**Syncletica of Alexandria** — Desert Mother; teachings on temptation, discipline, and prayer.",
+    "id": "rk_03c36763a5631c3714bb",
+    "text": "Schaeffer, Francis — Evangelical; How Should We Then Live? (1976). Evangelical critique of humanist foundations.",
+    "raw_text": "**Schaeffer, Francis** — Evangelical; *How Should We Then Live?* (1976). Evangelical critique of humanist foundations.",
     "provenance_type": "REVIEW_REQUIRED",
     "representation_type": "VERBATIM",
     "speaker": null,
@@ -19106,7 +19104,839 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d5936932ef34b37ff7af",
+    "id": "rk_9cbe6f1d9d6342c452f0",
+    "text": "Schemm, Peter R., Jr. — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. Flag: Same commitment as Grudem and Piper on gender roles.",
+    "raw_text": "**Schemm, Peter R., Jr.** — Evangelical complementarian. Reads Galatians 3:28 as unity-in-Christ without erasing functional distinctions. **Flag:** Same commitment as Grudem and Piper on gender roles.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:592",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_fb34108085ac3ad3e84f",
+    "text": "Schmid, Konrad — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (JBL, 2021).",
+    "raw_text": "**Schmid, Konrad** — European school; Pentateuchal composition; \"The Neo-Documentarian Manifesto: A Critical Reading\" (*JBL*, 2021).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:593",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_6a3806d30d018e7903ef",
+    "text": "Schreiner, Thomas — Evangelical; Galatians 3:10 and the law; Israel's Law and the Church's Faith (1988).",
+    "raw_text": "**Schreiner, Thomas** — Evangelical; Galatians 3:10 and the law; *Israel's Law and the Church's Faith* (1988).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:594",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_f53c6e82b440c2695a2c",
+    "text": "Schüssler Fiorenza, Elisabeth — Feminist critical theologian (Harvard); In Memory of Her (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.",
+    "raw_text": "**Schüssler Fiorenza, Elisabeth** — Feminist critical theologian (Harvard); *In Memory of Her* (1983). Reads Galatians 3:28 as evidence of an actual egalitarian social ethos in earliest Christian communities; reads the household codes as later institutional walking-back of that ethos. Her concern is with who has power over interpretation, patriarchy, hierarchy, and whose voices disappear.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:595",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_5f9b2ec4a325e2dd79c3",
+    "text": "Secundus of Ptolemais — Refused to sign the Nicene Creed; exiled with Arius.",
+    "raw_text": "**Secundus of Ptolemais** — Refused to sign the Nicene Creed; exiled with Arius.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:596",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_82c74e29cccba1e71171",
+    "text": "Seifrid, Mark — Evangelical NPP critic.",
+    "raw_text": "**Seifrid, Mark** — Evangelical NPP critic.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:597",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0ef9bb0b0e214f895d97",
+    "text": "Shafer-Landau, Russ — Philosopher; Moral Realism: A Defence (2003). Non-naturalist moral realism without God.",
+    "raw_text": "**Shafer-Landau, Russ** — Philosopher; *Moral Realism: A Defence* (2003). Non-naturalist moral realism without God.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:598",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_29a73625518e7415ed10",
+    "text": "Sheridan, Ruth — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks.",
+    "raw_text": "**Sheridan, Ruth** — Critical scholar. \"Judeans\" translation carries its own hermeneutical risks.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:599",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_991dcc3d6a332baf0323",
+    "text": "Smith, Billy K. — Conservative evangelical; Amos, Obadiah, Jonah (New American Commentary, 1995).",
+    "raw_text": "**Smith, Billy K.** — Conservative evangelical; *Amos, Obadiah, Jonah* (New American Commentary, 1995).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:600",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a0741cd1116865201257",
+    "text": "Smith, Gary V. — Conservative evangelical; Hosea, Amos, Micah (NIV Application Commentary).",
+    "raw_text": "**Smith, Gary V.** — Conservative evangelical; *Hosea, Amos, Micah* (NIV Application Commentary).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:601",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4f2b5a2dc499edf3c90b",
+    "text": "Snapp, Jim — Internal objections to the eleph proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.",
+    "raw_text": "**Snapp, Jim** — Internal objections to the *eleph* proposal: a \"squad\" statistic with no fixed number of men has no evident purpose; death tolls in Numbers 16:49 and 25:9 would exceed a small total population.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:602",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_39c877328c21738fd050",
+    "text": "Sobel, Jordan Howard — Philosopher; Logic and Theism (2004). Analytic philosophy of religion.",
+    "raw_text": "**Sobel, Jordan Howard** — Philosopher; *Logic and Theism* (2004). Analytic philosophy of religion.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:603",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e07495dc9c51d2fd553d",
+    "text": "Socrates Scholasticus — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. Flag: He was a participant in the winning side's tradition, not a modern neutral historian.",
+    "raw_text": "**Socrates Scholasticus** — 5th-century church historian; wrote from the pro-Nicene side. One of the two chief surviving accounts of Nicaea. **Flag:** He was a participant in the winning side's tradition, not a modern neutral historian.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:604",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_3d6b9680ce0e4984be49",
+    "text": "Soards, Marion — Critical scholar; The Speeches in Acts (1994). Classifies the Acts speeches by setting and function.",
+    "raw_text": "**Soards, Marion** — Critical scholar; *The Speeches in Acts* (1994). Classifies the Acts speeches by setting and function.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:605",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c9ee113396c61ff00d25",
+    "text": "Sozomen — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. Same flag as Socrates.",
+    "raw_text": "**Sozomen** — 5th-century church historian; wrote from the pro-Nicene side alongside Socrates Scholasticus. **Same flag as Socrates.**",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:606",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_edcc4a7ff07d0f680476",
+    "text": "Sprinkle, Preston — Evangelical; Erasing Hell (2011). Evangelical defense of eternal conscious torment.",
+    "raw_text": "**Sprinkle, Preston** — Evangelical; *Erasing Hell* (2011). Evangelical defense of eternal conscious torment.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:607",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_78ad464f31074290433b",
+    "text": "Stackert, Jeffrey — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.",
+    "raw_text": "**Stackert, Jeffrey** — Neo-documentarian. Pentateuchal sources and Documentary Hypothesis.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:608",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_e8160c94770ae8491f8a",
+    "text": "Stark, Rodney — Sociologist; God's Battalions (2009). Defensive-war framing of the Crusades.",
+    "raw_text": "**Stark, Rodney** — Sociologist; *God's Battalions* (2009). Defensive-war framing of the Crusades.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:609",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_c46fc8e21c925029669c",
+    "text": "Stone, Mark Preston — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns.",
+    "raw_text": "**Stone, Mark Preston** — Critical scholar; surveys twenty-one competing proposals on Leviticus 18:22; notes a consensus emerging that \"homosexuality\" as an orientation category is not what the verse condemns.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:610",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8dbb06deee64580cfe9a",
+    "text": "Streeter, B.H. — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).",
+    "raw_text": "**Streeter, B.H.** — Critical scholar; refined Markan priority (1924). The dominant position since Holtzmann (1863).",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:611",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_8632db8a479bb07ddbae",
+    "text": "Stringfellow, Thornton — Major flag: Baptist minister and explicit biblical defender of slavery; A Brief Examination of Scripture Testimony on the Institution of Slavery (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.",
+    "raw_text": "**Stringfellow, Thornton** — **Major flag:** Baptist minister and explicit biblical defender of slavery; *A Brief Examination of Scripture Testimony on the Institution of Slavery* (1841). Used the Curse of Ham. Excellent primary source for what proslavery Christians argued; not a neutral authority on whether biblical slavery was morally acceptable.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:612",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_b8d3665c160a789bae27",
+    "text": "Stuhlmacher, Peter — Lutheran-confessional; Revisiting Paul's Doctrine of Justification (IVP, 2001). Traditional reading against the NPP.",
+    "raw_text": "**Stuhlmacher, Peter** — Lutheran-confessional; *Revisiting Paul's Doctrine of Justification* (IVP, 2001). Traditional reading against the NPP.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:613",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_930a51519ef1258a84a3",
+    "text": "Stump, Eleonore — Catholic analytic philosopher; Wandering in Darkness. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.",
+    "raw_text": "**Stump, Eleonore** — Catholic analytic philosopher; *Wandering in Darkness*. Engages suffering through narrative rather than theodicy. Rarely engaged by critics despite genuine seriousness.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:614",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_9d1040f0d2c6dcf26a4c",
+    "text": "Swinburne, Richard — Analytic/Bayesian philosopher; The Existence of God; Providence and the Problem of Evil (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.",
+    "raw_text": "**Swinburne, Richard** — Analytic/Bayesian philosopher; *The Existence of God*; *Providence and the Problem of Evil* (1998). Builds a cumulative-case probabilistic argument that cannot be dismissed without engaging Bayesian reasoning about priors.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:615",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_a75cdc83aa7277c116e7",
+    "text": "Symmachus — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.",
+    "raw_text": "**Symmachus** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14 — a deliberate anti-Christian correction, alongside Aquila and Theodotion.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:616",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_0163d75a13b173ac02b4",
+    "text": "Syncletica of Alexandria — Desert Mother; teachings on temptation, discipline, and prayer.",
+    "raw_text": "**Syncletica of Alexandria** — Desert Mother; teachings on temptation, discipline, and prayer.",
+    "provenance_type": "REVIEW_REQUIRED",
+    "representation_type": "VERBATIM",
+    "speaker": null,
+    "topics": [
+      "Bible Deep Dive: Study Notes",
+      "12. Cited Persons Reference",
+      "S"
+    ],
+    "subtopics": [],
+    "record_type": "OBSERVATION",
+    "status": null,
+    "position_status": null,
+    "original_date": null,
+    "source_file": "Bible_Deep_Dive_Master_Notes.md",
+    "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > S",
+    "source_reference": "paragraph:617",
+    "parent_id": null,
+    "related_ids": [],
+    "tags": [],
+    "citation": null,
+    "attribution_confidence": "UNKNOWN",
+    "attribution_evidence": {
+      "method": "document_warning",
+      "value": "Study Notes provenance says everything from the audit sections onward is marked; this passage carries no marker, so authorship cannot be assumed."
+    },
+    "review_required": true,
+    "parser_version": "1.2.0"
+  },
+  {
+    "id": "rk_4ca40dd669e5350126a5",
     "text": "Tacitus — Roman historian; Annals 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight.",
     "raw_text": "**Tacitus** — Roman historian; *Annals* 15.44, c. 115 CE. Records Christus executed under Pontius Pilate during Tiberius's reign. Treated as an independent, hostile witness — which strengthens its evidentiary weight.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19124,7 +19954,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:592",
+    "source_reference": "paragraph:618",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19138,7 +19968,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fc2d4389d830370b29be",
+    "id": "rk_acca0b3382ac5502767e",
     "text": "Tannehill, Robert — Critical scholar. Classifies the Acts speeches alongside Soards.",
     "raw_text": "**Tannehill, Robert** — Critical scholar. Classifies the Acts speeches alongside Soards.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19156,7 +19986,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:593",
+    "source_reference": "paragraph:619",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19170,7 +20000,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_50c927195ec936ab4d6f",
+    "id": "rk_2da6c4487abb78a034b7",
     "text": "Thecla — Literary figure in the apocryphal Acts of Paul and Thecla (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text \"out of love of Paul.\"",
     "raw_text": "**Thecla** — Literary figure in the apocryphal *Acts of Paul and Thecla* (2nd century). Tertullian reported that an Asian presbyter confessed he fabricated the text \"out of love of Paul.\"",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19188,7 +20018,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:594",
+    "source_reference": "paragraph:620",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19202,7 +20032,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_2805bf699df6e625abb0",
+    "id": "rk_33b7cbc1662e7d23666d",
     "text": "Theodora (Amma Theodora) — Desert Mother; one of three named women in the Apophthegmata Patrum.",
     "raw_text": "**Theodora (Amma Theodora)** — Desert Mother; one of three named women in the *Apophthegmata Patrum*.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19220,7 +20050,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:595",
+    "source_reference": "paragraph:621",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19234,7 +20064,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_047a860740a25d4f7a91",
+    "id": "rk_d3707c0c844ba933f4a5",
     "text": "Theodore of Mopsuestia — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius.",
     "raw_text": "**Theodore of Mopsuestia** — Antiochene school; historical and literal exegesis. Repeatedly affirmed in the Church of the East's eight synods (486–612). Brock argues he is its actual theological touchstone rather than Nestorius.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19252,7 +20082,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:596",
+    "source_reference": "paragraph:622",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19266,7 +20096,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f157988885c98c2c038e",
+    "id": "rk_4fed2cabf51ef5c056c3",
     "text": "Theodotus of Byzantium — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way.",
     "raw_text": "**Theodotus of Byzantium** — Late 2nd/early 3rd century. First group historically identified with explicit adoptionism who read Mark's baptismal scene this way.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19284,7 +20114,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:597",
+    "source_reference": "paragraph:623",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19298,7 +20128,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_ea9dd67fb036668e4d4b",
+    "id": "rk_9c3ec0b9e404d109ac2f",
     "text": "Theodotion — Jewish reviser of the Septuagint who switched parthenos to neanis in Isaiah 7:14, alongside Symmachus.",
     "raw_text": "**Theodotion** — Jewish reviser of the Septuagint who switched *parthenos* to *neanis* in Isaiah 7:14, alongside Symmachus.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19316,7 +20146,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:598",
+    "source_reference": "paragraph:624",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19330,7 +20160,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_cbf1ad0898f74a60b9fd",
+    "id": "rk_82c0388666c3a046c054",
     "text": "Theognis of Nicaea — Initially objected to the Nicene Creed's key term homoousios at Nicaea.",
     "raw_text": "**Theognis of Nicaea** — Initially objected to the Nicene Creed's key term *homoousios* at Nicaea.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19348,7 +20178,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:599",
+    "source_reference": "paragraph:625",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19362,7 +20192,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_38ccd60cc971866602a1",
+    "id": "rk_0f2480a9f6041d7afa92",
     "text": "Theonas of Marmarica — Refused to sign the Nicene Creed; exiled with Arius.",
     "raw_text": "**Theonas of Marmarica** — Refused to sign the Nicene Creed; exiled with Arius.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19380,7 +20210,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:600",
+    "source_reference": "paragraph:626",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19394,7 +20224,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5acd6b85de6e8f829b05",
+    "id": "rk_53d3fb5123dee7fb9530",
     "text": "Thucydides — Greek historian; History of the Peloponnesian War 1.22.1. States he kept as close as possible to the general sense of what was actually said — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage.",
     "raw_text": "**Thucydides** — Greek historian; *History of the Peloponnesian War* 1.22.1. States he kept as close as possible to the *general sense of what was actually said* — a claim to fidelity of gist, not a license to invent speeches wholesale. Both critics and conservatives commonly misuse this passage.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19412,7 +20242,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:601",
+    "source_reference": "paragraph:627",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19426,7 +20256,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5b3c8c5ae0f02fb2740e",
+    "id": "rk_f0b283d317fa5d9a9137",
     "text": "Tiessen, Terrance — Evangelical; Who Can Be Saved? (2004). Treatment of salvation and the unevangelized.",
     "raw_text": "**Tiessen, Terrance** — Evangelical; *Who Can Be Saved?* (2004). Treatment of salvation and the unevangelized.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19444,7 +20274,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:602",
+    "source_reference": "paragraph:628",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19458,7 +20288,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7f0edceea8351fa4cb2c",
+    "id": "rk_68d26ac0e2f323398ac1",
     "text": "Tomasello, Michael — Developmental psychologist; A Natural History of Human Morality (2016). Evolutionary and developmental moral psychology.",
     "raw_text": "**Tomasello, Michael** — Developmental psychologist; *A Natural History of Human Morality* (2016). Evolutionary and developmental moral psychology.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19476,7 +20306,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:603",
+    "source_reference": "paragraph:629",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19490,7 +20320,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_8c237ca8efa839378e93",
+    "id": "rk_1a1fee84561bff22195e",
     "text": "Towner, Philip — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal.",
     "raw_text": "**Towner, Philip** — Evangelical NT scholar; reads 1 Timothy 2:15 as a Genesis 3:16 curse-reversal.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19508,7 +20338,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:604",
+    "source_reference": "paragraph:630",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19522,7 +20352,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_91ef6fd9af1062a228ff",
+    "id": "rk_872987c19e932e743cf8",
     "text": "Trible, Phyllis — Feminist biblical scholar; Texts of Terror (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails.",
     "raw_text": "**Trible, Phyllis** — Feminist biblical scholar; *Texts of Terror* (1984). Foundational feminist biblical criticism — refuses to sanitize sexual violence, reads from the victim's perspective. She retained considerable respect for the biblical text and sought productive readings from within the tradition rather than concluding that its authority fails.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19540,7 +20370,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:605",
+    "source_reference": "paragraph:631",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19554,7 +20384,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fd655e6e323342b5937b",
+    "id": "rk_d26bd72187f3eaa80a49",
     "text": "Trobisch, David — Critical scholar; On the Origin of Christian Scripture (2024). Argues the canonical New Testament reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype.",
     "raw_text": "**Trobisch, David** — Critical scholar; *On the Origin of Christian Scripture* (2024). Argues the canonical New Testament reads as a deliberate, centrally edited \"second edition\" responding to a Marcionite prototype.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19572,7 +20402,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:606",
+    "source_reference": "paragraph:632",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19586,7 +20416,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_06d9bfce02b99449a77f",
+    "id": "rk_a4ba1b26cea0787249d9",
     "text": "Trueman, Carl — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016).",
     "raw_text": "**Trueman, Carl** — Reformed theologian. Publicly charged Grudem and Ware's Eternal Functional Subordination position with undermining Nicene trinitarianism (June 2016).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19604,7 +20434,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:607",
+    "source_reference": "paragraph:633",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19618,7 +20448,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_61db6e58d8c9d25d79f0",
+    "id": "rk_b267d7fc829c7df8ecec",
     "text": "Turek, Frank — Popular evangelical apologist.",
     "raw_text": "**Turek, Frank** — Popular evangelical apologist.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19636,7 +20466,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:608",
+    "source_reference": "paragraph:634",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19650,7 +20480,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e57768125ffd64fabb61",
+    "id": "rk_72b6371f85ee73e17321",
     "text": "Turner, H.E.W. — The Pattern of Christian Truth (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure.",
     "raw_text": "**Turner, H.E.W.** — *The Pattern of Christian Truth* (Bampton Lectures, 1954). Argued for substantially more doctrinal continuity in early Christianity than Bauer credited, pointing to the Rule of Faith as a stabilizing structure.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19668,7 +20498,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > T",
-    "source_reference": "paragraph:609",
+    "source_reference": "paragraph:635",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19682,7 +20512,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_53b0104f94decf699503",
+    "id": "rk_0d37687f8c5892d9a6b6",
     "text": "Voltaire — Enlightenment critic of church power and superstition. Flag: Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (Synodicon Vetus) and carried it to mass culture.",
     "raw_text": "**Voltaire** — Enlightenment critic of church power and superstition. **Flag:** Also carried substantial anti-Jewish prejudice in his writings. Picked up the Nicaea canon myth from a late 9th-century manuscript (*Synodicon Vetus*) and carried it to mass culture.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19700,7 +20530,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > V",
-    "source_reference": "paragraph:610",
+    "source_reference": "paragraph:636",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19714,7 +20544,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_c35378fd4800df2cac23",
+    "id": "rk_6a9b4857d92d40f84690",
     "text": "Walk, Richard — Psychologist; The Visual Cliff (Scientific American, 1960). See Gibson above.",
     "raw_text": "**Walk, Richard** — Psychologist; *The Visual Cliff* (*Scientific American*, 1960). See Gibson above.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19732,7 +20562,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:611",
+    "source_reference": "paragraph:637",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19746,7 +20576,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1caa530b2165873bae47",
+    "id": "rk_2e34b30e794f6dedc40d",
     "text": "Wallace, J. Warner — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics.",
     "raw_text": "**Wallace, J. Warner** — Popular evangelical apologist; former cold-case detective. Distinguished in this corpus from academic apologetics.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19764,7 +20594,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:612",
+    "source_reference": "paragraph:638",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19778,7 +20608,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_08199571171e2b6f39f1",
+    "id": "rk_c5b910204eb59464a973",
     "text": "Walls, Jerry — Philosopher; Good God: The Theistic Foundations of Morality (2011).",
     "raw_text": "**Walls, Jerry** — Philosopher; *Good God: The Theistic Foundations of Morality* (2011).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19796,7 +20626,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:613",
+    "source_reference": "paragraph:639",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19810,7 +20640,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9e6af9217b1c296aa3f7",
+    "id": "rk_24678d25e8b7a453df2e",
     "text": "Walsh, Jerome T. — Critical scholar (JBL, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one.",
     "raw_text": "**Walsh, Jerome T.** — Critical scholar (*JBL*, 2001). On Leviticus 18:22 — inverts Olyan's reading: the addressee is the receptive partner, not the insertive one.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19828,7 +20658,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:614",
+    "source_reference": "paragraph:640",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19842,7 +20672,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f26799ebd7e477682247",
+    "id": "rk_fdfaa25c25346d4e46a7",
     "text": "Waltke, Bruce K. — Conservative evangelical; A Commentary on Micah (Eerdmans, 2007). Micah did not repeal the institution of sacrifice.",
     "raw_text": "**Waltke, Bruce K.** — Conservative evangelical; *A Commentary on Micah* (Eerdmans, 2007). Micah did not repeal the institution of sacrifice.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19860,7 +20690,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:615",
+    "source_reference": "paragraph:641",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19874,7 +20704,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_9ea4d0d9137585e5b7f2",
+    "id": "rk_0b941bd50200b89e9607",
     "text": "Walton, Douglas — Philosopher; Begging the Question (1991).",
     "raw_text": "**Walton, Douglas** — Philosopher; *Begging the Question* (1991).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19892,7 +20722,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:616",
+    "source_reference": "paragraph:642",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19906,7 +20736,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_776c6e0258977662a2f4",
+    "id": "rk_bb231ba6e0340a866690",
     "text": "Ware, Bruce — Conservative evangelical; Eternal Functional Subordination. Flag: His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds.",
     "raw_text": "**Ware, Bruce** — Conservative evangelical; Eternal Functional Subordination. **Flag:** His theological project on gender roles rests on the Trinity analogy, contested by Giles and Goligher on Nicene orthodoxy grounds.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19924,7 +20754,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:617",
+    "source_reference": "paragraph:643",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19938,7 +20768,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_3f734f6343c1f97bf48b",
+    "id": "rk_d4c0d2fee5dbb72ebf34",
     "text": "Warfield, B.B. — Reformed; The Inspiration and Authority of the Bible (1948). Classic Reformed defense of self-attesting Scripture.",
     "raw_text": "**Warfield, B.B.** — Reformed; *The Inspiration and Authority of the Bible* (1948). Classic Reformed defense of self-attesting Scripture.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19956,7 +20786,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:618",
+    "source_reference": "paragraph:644",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -19970,7 +20800,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_22d570f764a36bd9c37b",
+    "id": "rk_a674faabf248c5fd05e0",
     "text": "Wason, Peter — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome.",
     "raw_text": "**Wason, Peter** — Psychologist; the 2-4-6 experiment (1960). Showed subjects overwhelmingly seek confirming instances and never attempt to falsify — confirmation bias as a search-strategy failure present even without personal stake in the outcome.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -19988,7 +20818,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:619",
+    "source_reference": "paragraph:645",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20002,7 +20832,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_fa3db30e9912dcfae554",
+    "id": "rk_c0865b3b176c048e0d2d",
     "text": "Watson and Rayner — Psychologists; \"Little Albert\" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting.",
     "raw_text": "**Watson and Rayner** — Psychologists; \"Little Albert\" experiment (1920). Watson assumed fear of loud noises as an innate unconditioned response — it was his premise, not his result. He also conceded the conditioned fear was neither strong nor lasting.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20020,7 +20850,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:620",
+    "source_reference": "paragraph:646",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20034,7 +20864,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_557345ce425d6ceb8ba9",
+    "id": "rk_0d4b7ec39b3075020a40",
     "text": "Wellhausen, Julius — Critical scholar; \"prophets-versus-priests\" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult.",
     "raw_text": "**Wellhausen, Julius** — Critical scholar; \"prophets-versus-priests\" dichotomy. Now substantially contested and largely abandoned as a reading of the classical prophets as opposing the priestly cult.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20052,7 +20882,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:621",
+    "source_reference": "paragraph:647",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20066,7 +20896,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d6876a6cdbe69d53fa05",
+    "id": "rk_8b621cacdc2e1f688975",
     "text": "Wenham, Gordon — Evangelical critical scholar; Genesis (Word Biblical Commentary, 1987).",
     "raw_text": "**Wenham, Gordon** — Evangelical critical scholar; *Genesis* (Word Biblical Commentary, 1987).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20084,7 +20914,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:622",
+    "source_reference": "paragraph:648",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20098,7 +20928,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_aad7888358eda95f5b51",
+    "id": "rk_497d8e67af9aaa58273a",
     "text": "Wenham, John — Conservative evangelical; eleph-as-military-unit proposals (1967, 1981).",
     "raw_text": "**Wenham, John** — Conservative evangelical; *eleph*-as-military-unit proposals (1967, 1981).",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20116,7 +20946,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:623",
+    "source_reference": "paragraph:649",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20130,7 +20960,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_830303aee62675161a80",
+    "id": "rk_a32ee8da93ee1a660ad2",
     "text": "Westerholm, Stephen — Evangelical; Perspectives Old and New on Paul (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading.",
     "raw_text": "**Westerholm, Stephen** — Evangelical; *Perspectives Old and New on Paul* (Eerdmans, 2004). Widely regarded as the fairest survey of the NPP debate's history — though the book argues for the substantial correctness of the traditional reading.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20148,7 +20978,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:624",
+    "source_reference": "paragraph:650",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20162,7 +20992,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_515b531f5c96a26937be",
+    "id": "rk_679f2c1e3dbee5263447",
     "text": "Whitford, David M. — The Curse of Ham in the Early Modern Era (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope.",
     "raw_text": "**Whitford, David M.** — *The Curse of Ham in the Early Modern Era* (Ashgate, 2009). Fills the Reformation-era gap between Goldenberg's ancient/medieval scope and Haynes's American scope.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20180,7 +21010,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:625",
+    "source_reference": "paragraph:651",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20194,7 +21024,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_59a9e92fecce00978953",
+    "id": "rk_a47c0204c76d355c34c3",
     "text": "Wielenberg, Erik — Philosopher; Robust Ethics (2014); Value and Virtue in a Godless Universe (2005). Secular moral realism.",
     "raw_text": "**Wielenberg, Erik** — Philosopher; *Robust Ethics* (2014); *Value and Virtue in a Godless Universe* (2005). Secular moral realism.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20212,7 +21042,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:626",
+    "source_reference": "paragraph:652",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20226,7 +21056,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_078f4c9a122186c3b4fd",
+    "id": "rk_80943b63f10b927fa80a",
     "text": "Wildberger, Hans — Critical scholar; Isaiah 1–12 (Fortress, 1991). Defines almah simply as \"a young woman until the birth of her first child\" — no built-in virginity claim.",
     "raw_text": "**Wildberger, Hans** — Critical scholar; *Isaiah 1–12* (Fortress, 1991). Defines *almah* simply as \"a young woman until the birth of her first child\" — no built-in virginity claim.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20244,7 +21074,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:627",
+    "source_reference": "paragraph:653",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20258,7 +21088,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_d271c5212e226f1c8147",
+    "id": "rk_a5cee416f09476566e44",
     "text": "Winter, Bruce — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.",
     "raw_text": "**Winter, Bruce** — Conservative scholar. Argued that Lukan access to official court records for the trial scenes in Acts 24–26 is a live possibility.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20276,7 +21106,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:628",
+    "source_reference": "paragraph:654",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20290,7 +21120,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_78a6a4d509934d30979f",
+    "id": "rk_d6c389740a1a3924bac3",
     "text": "Witherington, Ben, III — Conservative evangelical; The Acts of the Apostles (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius.",
     "raw_text": "**Witherington, Ben, III** — Conservative evangelical; *The Acts of the Apostles* (1998). Reads Acts as a historical monograph with methodological affinities to Thucydides and Polybius.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20308,7 +21138,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:629",
+    "source_reference": "paragraph:655",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20322,7 +21152,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_7b3b3828d8769c67954d",
+    "id": "rk_aa7a7db169aba33a2395",
     "text": "Wood, Bryant — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised.",
     "raw_text": "**Wood, Bryant** — Conservative evangelical; 1446 BCE Exodus date. Attacked Hoffmeier from the right for delivering less Egyptological evidence than promised.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20340,7 +21170,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:630",
+    "source_reference": "paragraph:656",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20354,7 +21184,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_720f9368d72ccb685635",
+    "id": "rk_698ccd4fcc8bf4ef1755",
     "text": "Wright, N.T. — Anglican historian; The Resurrection of the Son of God (2003); The Climax of the Covenant (1992); Galatians (2021); Paul and the Faithfulness of God (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing.",
     "raw_text": "**Wright, N.T.** — Anglican historian; *The Resurrection of the Son of God* (2003); *The Climax of the Covenant* (1992); *Galatians* (2021); *Paul and the Faithfulness of God* (2013). Reads Romans 13 as subversive — rulers demoted to delegated, accountable authorities, relativizing Caesar's claim. Justification is about who belongs to God's covenant people, not individual legal standing.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20372,7 +21202,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > W",
-    "source_reference": "paragraph:631",
+    "source_reference": "paragraph:657",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20386,7 +21216,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_e8adaeb04a92bc3e224c",
+    "id": "rk_301bee8378b32aff9572",
     "text": "Yoder, John Howard — Pacifist/Anabaptist ethicist; The Politics of Jesus (Eerdmans, 1972/1994). Key philological point: Paul's verb hypotassō (\"subordinate\") is not the Greek word for obedience (hypakouō) — subordination is compatible with refusal, obedience is not. Important flag: Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior.",
     "raw_text": "**Yoder, John Howard** — Pacifist/Anabaptist ethicist; *The Politics of Jesus* (Eerdmans, 1972/1994). Key philological point: Paul's verb *hypotassō* (\"subordinate\") is not the Greek word for obedience (*hypakouō*) — subordination is compatible with refusal, obedience is not. **Important flag:** Yoder sexually abused numerous women over many years. Mennonite institutions themselves now explicitly address his abuse when teaching his work. This is particularly relevant because he wrote about ethics, power, submission, and Christian behavior.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20404,7 +21234,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Y",
-    "source_reference": "paragraph:632",
+    "source_reference": "paragraph:658",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20418,7 +21248,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_1ba13b74d6424b3de3f1",
+    "id": "rk_180cffad5fbf097bbea5",
     "text": "Young, Frances — Critical scholar; Biblical Exegesis and the Formation of Christian Culture (Cambridge, 1997). Argues the \"Alexandria equals allegory, Antioch equals literal history\" textbook binary is overdrawn.",
     "raw_text": "**Young, Frances** — Critical scholar; *Biblical Exegesis and the Formation of Christian Culture* (Cambridge, 1997). Argues the \"Alexandria equals allegory, Antioch equals literal history\" textbook binary is overdrawn.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20436,7 +21266,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Y",
-    "source_reference": "paragraph:633",
+    "source_reference": "paragraph:659",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20450,7 +21280,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_6cf0c0b3f046b362e55e",
+    "id": "rk_b1115679ac9b984cb2f9",
     "text": "Zenger, Erich — Critical Catholic scholar; A God of Vengeance? (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators.",
     "raw_text": "**Zenger, Erich** — Critical Catholic scholar; *A God of Vengeance?* (1996). Reads imprecatory psalms as confronting violence rather than endorsing it — praying them implicates the person praying among the perpetrators.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20468,7 +21298,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Z",
-    "source_reference": "paragraph:634",
+    "source_reference": "paragraph:660",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20482,7 +21312,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_5e5a6ad7ba823fcd0b26",
+    "id": "rk_97e8a5fa9d85f25ea44d",
     "text": "Zuckerman, Phil — Sociologist; secular; Society Without God (2008). Secular people exhibit the same wellbeing outcomes as religious people.",
     "raw_text": "**Zuckerman, Phil** — Sociologist; secular; *Society Without God* (2008). Secular people exhibit the same wellbeing outcomes as religious people.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20500,7 +21330,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Z",
-    "source_reference": "paragraph:635",
+    "source_reference": "paragraph:661",
     "parent_id": null,
     "related_ids": [],
     "tags": [],
@@ -20514,7 +21344,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "parser_version": "1.2.0"
   },
   {
-    "id": "rk_f971390d2b7e76705bf3",
+    "id": "rk_1711ae894404e334d0c6",
     "text": "Zwingli, Ulrich — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin.",
     "raw_text": "**Zwingli, Ulrich** — Protestant reformer; mentioned in the Reformation table alongside Luther and Calvin.",
     "provenance_type": "REVIEW_REQUIRED",
@@ -20532,7 +21362,7 @@ window.RELIGION_KNOWLEDGE_RECORDS = (window.RELIGION_KNOWLEDGE_RECORDS || []).co
     "original_date": null,
     "source_file": "Bible_Deep_Dive_Master_Notes.md",
     "source_section": "Bible Deep Dive: Study Notes > 12. Cited Persons Reference > Z",
-    "source_reference": "paragraph:636",
+    "source_reference": "paragraph:662",
     "parent_id": null,
     "related_ids": [],
     "tags": [],

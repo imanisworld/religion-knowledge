@@ -95,6 +95,7 @@ function stableId(sourceFile, sectionPath, ordinal, rawText) {
   // Keep identifiers stable across the reader-facing Study Notes rename. The
   // legacy title remains part of the hash seed only; it is never displayed.
   const legacyIdentity = (value) => value
+    .replace(/\bThe Strongest Case\b/g, 'The Other Side')
     .replace(/\bStudy Notes\b/g, 'Master Notes')
     .replace(/\bObservations\b/g, 'Field Guide')
     .replace(/OBSERVATIONS: LIVE CONVERSATION REFERENCE/g, 'FIELD GUIDE: LIVE CONVERSATION REFERENCE')
