@@ -272,6 +272,48 @@ Critical to keep straight: most of the 21-proposal disagreement is about **ratio
 
 ---
 
+#### ⚑ AUDIT ADDENDUM — Leviticus 18:22 / 20:13: What the Prohibition Targets
+
+`CHECKED 13 AUG 2026`
+
+**AS RECORDED:** The 7 Aug 2026 audit above establishes the referent (male-male anal intercourse, both parties liable) and lists Saul Olyan as "[CRITICAL — status/boundary, addressee = insertive partner]."
+
+**STATUS: Holds on the referent. One attribution corrected: the status/gender-hierarchy rationale belongs to Boyarin, not Olyan.**
+
+**AUDIT**
+
+⟨DOCUMENTED⟩ **The idiom and the addressee.** The operative phrase is *miškevē ʾiššâ* — Saul Olyan, "'And with a Male You Shall Not Lie the Lying Down of a Woman': On the Meaning and Significance of Leviticus 18:22 and 20:13," *Journal of the History of Sexuality* 5.2 (1994) [CRITICAL] — note the singular "Lying Down" in the actual title. Olyan argues the idiom defines the act as anal intercourse, that 18:22 addresses the insertive partner, and that 20:13's punishment formula brought the receptive partner under liability "through editorial activity at a later stage." The 2022 *Currents in Biblical Research* survey already cited above credits Olyan 1994 as the first thorough philological treatment, opening the modern research era alongside Satlow (1994) and Boyarin (1995).
+
+⟨DOCUMENTED⟩ **The correction.** The gender-hierarchy rationale — the offense is placing a male in the penetrated, socially "female" position — is **Daniel Boyarin**, "Are There Any Jews in 'The History of Sexuality'?," *Journal of the History of Sexuality* 5.3 (1995) [JEWISH CRITICAL], who argues biblical and rabbinic culture had no category corresponding to "homosexuality" and reads the prohibition as a cross-gender boundary offense. Olyan himself argued nearly the opposite about the law's final form: the Holiness Code's inclusive formulation is *indifferent* to partner status — unlike Athenian, Roman, and Middle Assyrian norms that penalize by role — and his own proposed rationale is purity-based, the mixing of two defiling emissions (compare Lev 15:24 and 20:18). The earlier audit's "[status/boundary]" shorthand for Olyan compressed this wrongly.
+
+⟨DOCUMENTED⟩ **Other named positions now on record.** Robert Alter [CRITICAL — translator], *The Five Books of Moses* (Norton, 2004): the formulation "suggests that it is a ban on anal intercourse and intercrural intercourse... Other forms of homosexual activity do not seem of urgent concern" — a ban on specific acts, not a category (wording verified only through secondary quotation; check the printed page before quoting further). Jacob Milgrom's positions split by firmness: the scope restriction (binding on Israelites and resident aliens in the land, "irrelevant outside it") and the observation that lesbianism is not prohibited are argued firmly; his extension restricting the ban to incestuous degrees is his own admittedly speculative move, and Robert Gagnon [CONSERVATIVE-EVANGELICAL] wrote a dedicated critique of it. K. Renato Lings, "The 'Lyings' of a Woman: Male-Male Incest in Leviticus 18.22?," *Theology & Sexuality* 15.2 (2009) [REVISIONIST] pushes the incest reading further via the near-untranslatable syntax — a minority position with almost no uptake in the philological mainstream; do not deploy it as primary. Gordon Wenham, "The Old Testament Attitude to Homosexuality," *Expository Times* 102 (1991) [CONSERVATIVE-EVANGELICAL]: the OT rejection of all male homosexual practice is universal, grounded in creation, and unique in the ancient world — the strongest traditional case alongside Gagnon (2001).
+
+**CORRECTED:** *The mainstream critical position: the verses do prohibit male-male intercourse — the live disagreement is rationale, not referent. The operative ancient categories on offer are gender hierarchy (Boyarin) and purity (Olyan); sexual orientation is not among them, because it is a nineteenth-century category the text cannot contain.*
+
+**WHY IT LOOKED RIGHT** ⟨INFERENCE⟩**:** the hierarchy thesis is the most-quoted takeaway of the 1994–95 *JHS* cluster, and Olyan's article is that cluster's headline piece — so the cluster's most famous conclusion drifted onto its most famous author. Compressing a multi-author debate into its first mover is the same error pattern as "Wellhausen said" shorthand.
+
+---
+
+#### ⚑ AUDIT ADDENDUM — Female Homoeroticism: Absent from Torah, One Disputed Verse in Paul
+
+`CHECKED 13 AUG 2026`
+
+**AS RECORDED:** Not previously developed in this document — the audit above notes only in passing, via Milgrom, that lesbianism is not prohibited.
+
+**STATUS: New entry. The absence is secure; the single Pauline candidate is genuinely contested.**
+
+**AUDIT**
+
+⟨DOCUMENTED⟩ **Hebrew Bible and rabbinic record.** No prohibition of female-female sex exists anywhere in the Hebrew Bible (Milgrom, *Leviticus 17–22*, Anchor Bible 3A, 2000, pp. 1786ff.; Brooten). The rabbinic tradition confirms the category logic: *Sifra* on Lev 18:3 places woman-woman marriage among the "doings of Egypt"; in b. Yevamot 76a, *nashim mesollelot* is ruled *pritzuta be'alma* — "mere licentiousness" — with no capital liability, the woman remaining eligible to marry a priest; Maimonides (*Mishneh Torah*, Issurei Biah 21:8) does make it an actual rabbinic prohibition warranting disciplinary lashes (*makkat mardut*), still non-capital. Precision cuts both ways: the tradition never treats it as the capital offense of Lev 20:13, and it does not leave it wholly unregulated either.
+
+⟨DOCUMENTED⟩ **Romans 1:26 — the only candidate, and it is disputed.** Bernadette Brooten, *Love Between Women: Early Christian Responses to Female Homoeroticism* (University of Chicago Press, 1996) [CRITICAL — feminist]: yes, female homoeroticism — her own formulation is that 1:26 is "the only passage in the entire Bible referring explicitly to lesbians" — condemned by Paul through the ancient gender-hierarchy frame. James E. Miller, "The Practices of Romans 1:26: Homosexual or Heterosexual?," *Novum Testamentum* 37 (1995) [CRITICAL]: non-procreative *heterosexual* acts. The dispute is ancient, and the patristic witnesses split: John Chrysostom (Homilies on Romans 4) read it as female homoeroticism; Augustine (*De nuptiis et concupiscentia*, with the Anastasius scholion) read it as heterosexual acts; Clement of Alexandria is the contested witness claimed by both sides. Status: CONTESTED — hold both readings.
+
+⟨INFERENCE — the "tells you" step is Claude's synthesis on the documented absence plus Boyarin's category argument⟩ Debate-safe formulation: "The Torah's prohibition ignores women entirely, which tells you its category was male status, not sexuality; the only possible female reference in the entire Bible is one disputed Pauline verse."
+
+**Reading and conversation note:** do not deploy the absolute claim "the Bible never mentions women this way" — it fails at Romans 1:26. The defensible claim is the Torah's silence plus one disputed Pauline verse.
+
+---
+
 ## 5. New Testament — Orientation & Critical Framework
 
 ### 5.1 What the NT is doing structurally
@@ -768,6 +810,39 @@ Deuteronomy 28 is the explicit statement of what §1.2 of these notes calls the 
 Deuteronomy is the text that gives the whole Deuteronomistic History its logic, and de Wette’s 1805 identification of it as a Josianic composition remains the mainstream critical position, reinforced by Weinfeld’s Neo-Assyrian parallels and by internal evidence (centralization mandate, law of the king, “to this day” formulas). Kitchen’s Hittite-treaty counter-argument is serious and cannot be dismissed — the structural matching he documents is real — but the conservative position requires believing that 2nd-millennium treaty conventions were preserved in active compositional use for six centuries without surviving textual attestation of that continuity.
 
 The NPP connection worth keeping: the "works of law" in Galatians that Paul argues against — circumcision, food laws, sabbath — are all in this book. The people Paul is arguing with are Deuteronomy-formed communities. That doesn't resolve the NPP debate, but it anchors it: the legal framework Paul is engaging is not an abstract legalism but a specific Deuteronomic identity system that marked Jew off from Gentile across generations of diaspora practice.
+
+---
+
+## 9.7 Centripetal (OT) vs. Centrifugal (NT) Inclusion of the Nations
+
+⟨DOCUMENTED⟩ Missiology's standard terms for two different models of relating to outsider nations: **centripetal** — nations are drawn inward, toward Israel/Zion — and **centrifugal** — believers are sent outward, to the nations. The pairing traces to Johannes Blauw, *The Missionary Nature of the Church: A Survey of the Biblical Theology of Mission* (Lutterworth Press / McGraw-Hill, 1962), the anchor text repeatedly cited across missiology for applying these terms to OT-versus-NT mission theology specifically. Walter Vogels [CATHOLIC CRITICAL], "Covenant and Universalism: Guide for a Missionary Reading of the Old Testament," *Zeitschrift für Missionswissenschaft und Religionswissenschaft* 57 (1973), and *God's Universal Covenant: A Biblical Study* (University of Ottawa Press, 1979), independently uses the same pairing. (An earlier draft of this entry also credited Enrique Dussel with this specific terminology; that attribution could not be confirmed and has been dropped.)
+
+⟨DOCUMENTED⟩ The OT's dominant model is centripetal. Isaiah 2:2-3 (paralleled at Micah 4:1-3): "the mountain of the house of the LORD shall be established as the highest of the mountains... and all the nations shall flow to it... that he may teach us his ways" — the paradigm image, nations moving toward Zion. Genesis 12:3, the Abrahamic covenant: blessing radiates outward from Abraham to "all families of the earth," without specifying incorporation of the nations into Israel as a people. (Flag: there is a live grammatical debate over the Hebrew verb form here — niphal *nivrekhu*, "shall be blessed" (passive) versus a possible reflexive "shall bless themselves" — that bears on whether Israel is framed as an active agent of blessing or a more passive conduit. The incorporation question this entry rests on is unaffected either way; the agency question is genuinely open and is not resolved by anything cited here.)
+
+⟨DOCUMENTED⟩ Isaiah 56:3-7 extends temple and covenant access to foreigners and eunuchs who "join themselves to the LORD," keep Sabbath, and "hold fast my covenant" — "a house of prayer for all peoples," and for eunuchs "a monument and a name better than sons and daughters," reversing the Deuteronomy 23:1 exclusion. This is the OT's maximal individual-inclusion text. (A named critical-scholar citation for this specific "individual attachment, not a national program" framing was not independently pinned down in this pass; the textual description itself is solid and uncontested, but treat the framing as this corpus's reading of the text rather than an attributed scholarly position until a named source is confirmed.) Ruth's incorporation follows the same individual logic: her declaration at 1:16 ("your people shall be my people, and your God my God") is read as a personal transfer of allegiance, not a stated national program — a characterization consistent with Daniel Block's Ruth commentary, though the exact edition was not pinned down in this pass and should be confirmed before quoting him by name.
+
+⟨DOCUMENTED⟩ Barnabas Lindars [CRITICAL], "The Old Testament and Universalism in Paul," *Bulletin of the John Rylands Library* (University of Manchester) 69.2 (1987): 511-527 — Lindars held the Rylands Professorship of Biblical Criticism and Exegesis at Manchester at the time of writing. The article argues that even in Paul's OT-grounded universalist proof-texts, the Septuagint's own phrasing keeps Gentiles in a position subordinate to Israel rather than levelled with it. (The article itself could not be directly read in this pass — access blocked; this characterization rests on converging secondary description, not a firsthand read. Confirm directly before quoting specific language from it.)
+
+⟨DOCUMENTED⟩ Whether Israel is an active missionary participant or a passive model nations are drawn toward is contested within OT scholarship itself. Walter Kaiser [CONSERVATIVE-EVANGELICAL], *Mission in the Old Testament: Israel as a Light to the Nations* (Baker Academic, 2000; 2nd ed. 2012), argues the maximalist case: Israel's OT mission was already centrifugal, active and outward-sending, locating "the first Great Commission mandate of the Bible" in Genesis 12:1-3. A Themelios (Gospel Coalition) review pushes back directly, arguing the OT evidence for this is thin: "No one, for instance, was actually sent to reach any of the Gentiles mentioned in chapter 5, and serious questions can be raised about Balaam's relationship with Yahweh," concluding the book "provides scant evidence that Israel was active in centrifugal mission." (The reviewer's name could not be confirmed — two candidate names surfaced for what appear to be two separate review pages, possibly covering the two editions. Do not attribute this quotation to a named reviewer until resolved.) Christopher J.H. Wright [EVANGELICAL MISSIOLOGICAL], *The Mission of God: Unlocking the Bible's Grand Narrative* (IVP, 2006), leans centripetal overall — paraphrased across secondary sources as arguing there is "no clear mandate... for [Israel] to undertake 'missions'... to the nations," with Israel's role being to attract rather than to send — while treating a centrifugal dimension (Jonah; the "sent survivors" of Isaiah 66) as present but secondary. (The specific phrase "includes both centrifugal and centripetal dynamics" could not be confirmed as an actual Wright quotation; treat it as an unconfirmed paraphrase of his position, not a citable quote, until pulled directly from the book.)
+
+⟨DOCUMENTED⟩ The NT/Acts model shifts to centrifugal: believers go out from Jerusalem (Acts 1:8: "Jerusalem, and... Judea and Samaria, and... the end of the earth"), incorporating Gentiles into the people of God while explicitly dropping the previous ethnic/legal membership marker. The Jerusalem Council (Acts 15) and Paul's own account (Galatians 2) record the decision that Gentile believers need not be circumcised or take on full Torah observance to be incorporated as full members — the load-bearing innovation is not merely a change in missionary direction, but the removal of the membership requirement that had defined the covenant people.
+
+⟨INFERENCE⟩ The Hebrew Bible does not present a goal of universal incorporation into the nation of Israel. Nations remain nations who come to acknowledge YHWH; the individual exceptions (Ruth, the Isaiah 56 foreigner) require personal attachment, not a national universalist telos. The move from "nations subordinate to Israel" to "no longer Jew or Greek, one incorporated people" (Galatians 3:28) is Paul's construction — built from OT threads, but going meaningfully further than any of them state on their own.
+
+⟨DOCUMENTED⟩ Camp split on how to read Paul's move: the critical/New Perspective reading (Sanders, Dunn, Wright — N.T. Wright, already on file at §9.5/Field Guide §19.8) treats it as genuine reconfiguration — covenant membership redefined around faith rather than law. The conservative-evangelical continuity reading treats Pauline universalism as fulfillment rather than innovation; Kaiser's position above is naturally read this way — if OT mission already carried centrifugal impulses, Paul's move is a continuation, not a break.
+
+⟨INFERENCE⟩ The fulfillment/continuity reading is a candidate instance of the retrofit pattern already named elsewhere in this corpus (conclusion decided first, supporting text located after) — the same shape as the Song of Songs allegorical reading and the Nicaea-invented-the-canon myth. This is a flag, not a finding: it has not been run through this project's full audit method and should not be deployed as settled.
+
+**Sources:** ⟨DOCUMENTED⟩
+
+⟨DOCUMENTED⟩
+- Blauw, Johannes. *The Missionary Nature of the Church: A Survey of the Biblical Theology of Mission*. Lutterworth Press / McGraw-Hill, 1962.
+- Vogels, Walter. "Covenant and Universalism: Guide for a Missionary Reading of the Old Testament." *Zeitschrift für Missionswissenschaft und Religionswissenschaft* 57 (1973).
+- Lindars, Barnabas. "The Old Testament and Universalism in Paul." *Bulletin of the John Rylands Library* 69.2 (1987): 511-527.
+- Kaiser, Walter C., Jr. *Mission in the Old Testament: Israel as a Light to the Nations*. Baker Academic, 2000; 2nd ed. 2012.
+- Wright, Christopher J.H. *The Mission of God: Unlocking the Bible's Grand Narrative*. IVP, 2006.
+
+⟨DOCUMENTED⟩ **Cross-references:** §9.5 Galatians (New Perspective on Paul); §9.6.7 (Deuteronomy/NPP connection); Field Guide §19.8 (NPP sidebar); the retrofit-pattern cluster (Song of Songs allegory, Nicaea-canon myth).
 
 ---
 
