@@ -8,7 +8,7 @@
 
 **`.html` files → do NOT put these in Project knowledge.** They are for *reading* — bookmark them or keep them in a folder. Each one is 60–80% invisible markup (styling, scripts, tooltips). Putting them in Project knowledge fills it with code instead of content and makes searches worse, not better.
 
-The Markdown is canonical. Each canonical document has a reader representation, and CI verifies that every checked audit in Markdown is present in its reader. The polished readers are not yet generated wholesale from Markdown; do not assume arbitrary prose edits have propagated until the reader-sync check and build pass.
+The Markdown is canonical. `scripts/build-readers.mjs` deterministically generates all nine reader HTML files, and CI rebuilds them and rejects any committed-reader drift. The reader-sync validator provides an additional structural check for audit cards and checked dates.
 
 ## Attribution markers
 
@@ -39,7 +39,7 @@ Audit entries also carry a `CHECKED` date. Anything without one has not been ver
 ### Two corpus scopes
 
 - **Research corpus:** nine Markdown documents / nine reader HTML documents, including `Cited_Persons.md`.
-- **App dataset:** eight canonical sources. Cited Persons is intentionally excluded while its 360-entry source audit remains incomplete; including the index would duplicate person descriptions already embedded throughout the study while presenting partially audited reference material as app-ready data.
+- **App dataset:** eight canonical sources. Cited Persons is intentionally excluded: its complete 365-name control pass currently classifies 165 entries as documented and 200 as unresolved, and including the index would duplicate person descriptions while presenting unresolved reference leads as app-ready data.
 
 ## Reading order for the HTML set
 
@@ -47,7 +47,7 @@ Open `master-notes.html` first. All nine link to each other from the sidebar —
 
 ## Current status
 
-- **Consolidation freeze:** do not add major new research sections until a whole-document Markdown-to-reader generator is committed and the Cited Persons verification queue is materially reduced. Corrections, source audits, and control-layer work remain in scope.
+- **Consolidation freeze:** the whole-document reader generator is now committed and CI-gated, but 200 Cited Persons entries remain unresolved. Keep major expansion paused while those source gaps and the remaining control-layer work are addressed.
 - Audit: Study Notes queue closed — 11 of 11 complete (§11.2). Observations queue in progress — see Method & Reference §4.
 - Reading: Old Testament complete; New Testament through Acts; Pauline epistles in progress (Acts → Galatians → Romans → Corinthians).
 - Standing method at Study Notes §11.1 — applies to everything.

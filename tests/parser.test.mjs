@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { parseMarkdown } from '../scripts/import/parse-markdown.mjs';
+import { parseMarkdown, recordIdentityKey } from '../scripts/import/parse-markdown.mjs';
 
 test('explicit YOURS marker maps to MY_WORDS', () => {
   const out = parseMarkdown({ sourceFile: 'Field_Guide_Conversation_Reference.md', content: '# Topic\n\n⟨YOURS⟩ This is my observation.' });
@@ -235,4 +235,25 @@ test('reader-focused heading and prompt labels preserve unchanged record IDs', (
 
   assert.deepEqual(renamed.records.map(({ id }) => id), legacy.records.map(({ id }) => id));
   assert.equal(renamed.records.at(-1).text, '• Clarifying question: "What supports that reading?"');
+});
+
+test('existing ID registry preserves unchanged records when a paragraph is inserted', () => {
+  const sourceFile = 'Historical_Framework.md';
+  const original = parseMarkdown({
+    sourceFile,
+    content: '# Topic\n\nFirst stable paragraph.\n\nSecond stable paragraph.',
+  });
+  const existingIds = new Map(original.records.map((record) => [
+    recordIdentityKey(record.source_file, record.topics, record.raw_text),
+    [record.id],
+  ]));
+
+  const updated = parseMarkdown({
+    sourceFile,
+    content: '# Topic\n\nNew paragraph.\n\nFirst stable paragraph.\n\nSecond stable paragraph.',
+    existingIds,
+  });
+
+  assert.equal(updated.records[1].id, original.records[0].id);
+  assert.equal(updated.records[2].id, original.records[1].id);
 });
