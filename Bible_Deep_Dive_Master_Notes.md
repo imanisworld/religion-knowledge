@@ -72,15 +72,15 @@ Job challenges the idea that suffering proves guilt. God answers with power and 
 
 ### 1.4 Moral discomfort is constant
 
-Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.
+⟨YOURS⟩ Collective punishment, genocide narratives, slavery, patriarchy, sexual shame metaphors ('whore' language in prophets), and God prioritizing covenant loyalty over individual trauma. These are central to the theology, not fringe passages.
 
 ### 1.5 Selective law-keeping exposes human power
 
-Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.
+⟨YOURS⟩ Why do later communities keep 'men don't sleep with men' but ignore mixed fabrics, food laws, etc.? Later communities preserved what was socially and politically useful — particularly sexual and gender control — not what was 'clearly mandated.' This is a pattern, not an accident.
 
 ### 1.6 Misattribution of healing
 
-When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.
+⟨YOURS⟩ When people say 'God healed him,' it erases human effort and science. If God gets credit for healing, God is equally implicated when healing doesn't happen. The logic is not applied consistently.
 
 #### ⚑ AUDIT — "Humans Are Born With Only Two Innate Fears"
 
@@ -246,15 +246,15 @@ Micah 6:8 — the OT's most concise ethical statement: 'What does the Lord requi
 
 ### 3.7 The Minor Prophets Formula
 
-Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.
+Nearly every minor prophet follows the same structure: (1) 'You sinned,' (2) 'Therefore God will destroy you,' (3) 2-3 verses of hope, (4) back to threats. Repeat. ⟨INFERENCE⟩ The threats dominate because the prophets are explaining national disaster after the fact — the disaster already happened or is imminent. Suffering must be deserved; otherwise the covenant theology collapses.
 
 ## 4. Gender, Sexuality, and Power in OT
 
 The prophets are obsessed with controlling women's sexuality and erasing women's religious authority. Israel is called 'whore' and 'prostitute' relentlessly (Hosea, Jeremiah, Ezekiel, Isaiah). Punishment is described as public stripping, sexual humiliation, and gang violence. Real women — like Gomer in Hosea — are used as theological props with no voice or agency.
 
-God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.
+God is always the masculine husband. Israel is always the feminine, subordinate, sinful wife. ⟨INFERENCE⟩ This structure is ideological: it reinforces patriarchy at the level of cosmic theology. The divine relationship itself models the abusive husband dynamic.
 
-The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?
+The Hosea metaphor: God as wronged husband, threatening to strip, starve, and expose his wife for betrayal. Ezekiel 16 and 23 describe cutting off nose and ears, gang rape, stoning. This is presented as love. ⟨YOURS⟩ If we wouldn't accept this from a human husband, the question stands: why accept it as a model for divine relationship?
 
 #### ⚑ AUDIT — Leviticus 18:22 / 20:13 (worked in session)
 
@@ -276,7 +276,7 @@ Critical to keep straight: most of the 21-proposal disagreement is about **ratio
 
 ### 5.1 What the NT is doing structurally
 
-The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.
+The NT is a reinterpretation of the OT story, not a continuation of it — written by communities who believed Jesus was the Messiah and then went back into the OT to find proof. ⟨INFERENCE⟩ The direction of argument is backward: conclusion first, then evidence. This matters for every 'fulfilled prophecy' claim you will encounter.
 
 ### 5.2 Key structural facts
 
@@ -292,7 +292,7 @@ The absence of Jesus's own writing means that when Matthew's Jesus and Paul's th
 
 ### 5.4 Eternal damnation: a new escalation
 
-The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.
+The OT's God burns cities and kills generations. The NT introduces eternal conscious torment — ⟨YOURS⟩ which is arguably a worse moral problem. The same God who ordered genocide now will torture you infinitely. Track exactly when and how this concept develops across the Gospels and Paul's letters, because it is not uniform.
 
 ### 5.5 Greek vs. Aramaic
 
@@ -454,9 +454,9 @@ Latest Gospel (~90-100 CE). Written after the Jesus community has been expelled 
 
 ### 8.1 What John is doing differently
 
-John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.
+⟨INFERENCE⟩ John collapses three time frames simultaneously: what Jesus is doing in the story, its cosmic eternal meaning, and what it means for John's community right now. This creates the slippery, layered feeling — you're not imagining it. The other Gospels stay in narrative time. John lives in eternity and narrative at once.
 
-Jesus in John doesn't teach in parables. He gives long theological monologues. That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.
+Jesus in John doesn't teach in parables. He gives long theological monologues. ⟨INFERENCE⟩ That's because John's community already believes the conclusion — Jesus is God — and the Gospel is constructing the argument backward. Explanation dressed as story.
 
 ### 8.2 The 'I Am' statements
 
@@ -464,13 +464,13 @@ Jesus in John doesn't teach in parables. He gives long theological monologues. T
 
 ### 8.3 The Lazarus problem
 
-Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. John added it as the narrative pivot. The other authors apparently didn't know about it.
+Lazarus raised from the dead (ch. 11) doesn't exist in Mark, Matthew, or Luke. Per John, this miracle is the direct trigger for the Sanhedrin deciding to kill Jesus. If that's true — a public resurrection causing the crucifixion — the silence of the other three Gospel writers is inexplicable. ⟨INFERENCE⟩ John added it as the narrative pivot. The other authors apparently didn't know about it.
 
 ### 8.4 Eat my flesh, drink my blood (John 6)
 
 Jesus feeds 5,000 then pivots: I am the bread, eat my flesh, drink my blood for eternal life. He doubles down when people recoil. Even disciples say 'this is a hard saying' and leave. John includes the walkout — which is remarkable.
 
-Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.
+⟨INFERENCE⟩ Why this became central doctrine: it created institutional dependency. If eating his body/blood is required for eternal life, and only ordained priests can consecrate it, the church becomes mandatory gatekeeper to salvation. Built-in institutional power. The strangeness also creates in-group cohesion — shared transgression binds communities tightly. And it solved the delayed second coming by making eternal life a present physical experience rather than a future event you wait for.
 
 ### 8.5 John's antisemitism problem
 
@@ -554,11 +554,11 @@ Luke part 2, same author, same agenda. The PR document for how a Jewish sect bec
 
 ### 9.1 Pentecost (Acts 2)
 
-Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. The Spirit fills the gap Jesus left.
+Holy Spirit arrives, people speak in tongues, Peter quotes Joel 2:28 claiming fulfillment. This is the institutional church's founding myth — explaining how the movement survived Jesus's death, the failed timeline, and the loss of eyewitnesses. ⟨INFERENCE⟩ The Spirit fills the gap Jesus left.
 
 ### 9.2 The Jerusalem Council (Acts 15)
 
-The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.
+The actual argument: do Gentiles need to follow Jewish law, including circumcision? Decision: no circumcision, just avoid idol food and blood. This is where Christianity formally separates from Judaism institutionally. Paul's position wins. ⟨INFERENCE⟩ That outcome determines everything about what Christianity becomes — a religion accessible to the entire Roman world, not a Jewish sect.
 
 ### 9.3 The hero problem — Acts vs. Paul's own letters
 
@@ -596,7 +596,7 @@ Acts makes Peter and Paul look like they broadly agree, minor friction smoothed 
 
 ### 9.4 Paul's conversion (Acts 9 vs. Galatians 1)
 
-Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.
+Acts: dramatic road-to-Damascus moment, blinded by light, hears Jesus, led into the city. Galatians 1: Paul describes going immediately into Arabia, not consulting anyone, receiving his gospel by revelation not human transmission. The accounts don't match. ⟨INFERENCE⟩ Acts is legitimizing Paul for a broad audience. Paul's version emphasizes his independence from the Jerusalem church — a different agenda entirely.
 
 #### ⚑ AUDIT — Are the Speeches Fictional Constructions?
 

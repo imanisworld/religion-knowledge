@@ -539,7 +539,7 @@ Listener agreed with a non-canonical passage presented as scripture without ques
 
 **Why it is a problem: **Unfalsifiable by design. Any counter-argument becomes evidence of fear. This is an ad hominem variant — it attacks the person, not the argument. The real question the person cannot answer: what would convince you the argument is wrong?
 
-**The irony: **Fear of hell is the primary mechanism of religious compliance. The framework that calls skeptics scared is built entirely on fear as a motivator.
+**The irony:** ⟨INFERENCE⟩ Fear of hell is the primary mechanism of religious compliance. The framework that calls skeptics scared is built entirely on fear as a motivator.
 
 **Why this assessment holds — questions for conversation:**
 
@@ -1640,7 +1640,7 @@ This is already documented in the Study Notes but belongs here for completeness.
 
 •  Hosea — God as wronged husband, threatening to strip, starve, and expose his wife. The prophet marries a woman specifically to use her as a theological prop with no voice or agency.
 
-•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. The theology requires women's bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.
+•  The structure: God is always masculine husband. Israel is always feminine, subordinate, sinful wife. Punishment is always sexualized. ⟨INFERENCE⟩ The theology requires women's bodies as the site of punishment — the gendered structure is load-bearing, not incidental to the message.
 
 ## 15.3 The New Testament — Silence and Submission
 
@@ -1848,7 +1848,7 @@ The text does not hide this. It requires engagement because believers who push a
 
 **The claim: **Jesus's life, death, and resurrection were specifically for believers — for "his people." Everything he did was for the elect, the saved, the in-group.
 
-**What it does socially: **Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. A God who only cares about "us" is a projection of in-group loyalty dressed as theology.
+**What it does socially: **Creates a closed system where the suffering of outsiders is irrelevant or deserved, history is arranged for the benefit of the saved, and non-believers are fundamentally outside divine concern. This connects directly to Epley et al. — the God image tracks in-group preferences. ⟨INFERENCE⟩ A God who only cares about "us" is a projection of in-group loyalty dressed as theology.
 
 ## 17.2 What Jesus's Own Words Say — Internal Contradiction
 
@@ -1874,7 +1874,7 @@ The text does not hide this. It requires engagement because believers who push a
 
 **The Matthew 28 Great Commission: **"Go and make disciples of all nations" — given post-resurrection. This is the theological revision of the Israel-focused ministry. The mission shifts after the death, not during it.
 
-**The implication: **If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then "Jesus did it for everyone" is a Pauline conclusion, not a statement Jesus made about himself during his life.
+**The implication:** ⟨INFERENCE⟩ If Jesus's mission was originally Israel-specific and universalized through Paul's theology and the post-resurrection community's interpretation — then "Jesus did it for everyone" is a Pauline conclusion, not a statement Jesus made about himself during his life.
 
 ## 17.5 The Suffering of Non-Believers
 
@@ -1928,7 +1928,7 @@ Jeremiah contradicts itself constantly. It says surrender to Babylon because God
 
 ## 18.6 On the absence of Jesus's own writings
 
-Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.
+Every version of Christianity is downstream of someone else's interpretation. Paul's, Matthew's, John's, the Council of Nicaea's. ⟨INFERENCE⟩ The religion is not 'what Jesus taught.' It's 'what various communities believed Jesus meant, filtered through their circumstances, audiences, and theological needs.' When Paul and Matthew disagree, there is no document to check.
 
 # 20. READING PROGRESS (mirrored from Study Notes §10)
 
