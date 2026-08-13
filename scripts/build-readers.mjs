@@ -15,6 +15,92 @@ import { marked } from 'marked';
 // ── Disable marked's mangling/auto-id so we control all IDs ──
 marked.use({ mangle: false, headerIds: false });
 
+// ── Cross-document "Connects to" link map ────────────────────────────────────
+// Keyed by doc html filename, then section/audit id.
+// Each value is an array of link groups; each group becomes one <div class="related">.
+// Links are [displayText, href].
+
+const RELATED_BY_DOC = {
+  'master-notes.html': {
+    's1': [
+      [['History §1 how evidence works', 'history.html#s1'],
+       ['History §2 the historical timeline', 'history.html#s2']],
+    ],
+    's1-2': [
+      [['§1.3 Job breaks this model', '#s1-3'],
+       ['§3.4 Amos rejects the ritual side', '#s3-4'],
+       ['Observations §2.1 objective morality', 'field-guide.html#s2-1']],
+    ],
+    's1-3': [
+      [['§1.2 the model Job attacks', '#s1-2'],
+       ['Observations §9.3 free will', 'field-guide.html#s9-3']],
+    ],
+    's1-5': [
+      [['§4 how it plays out on gender', '#s4'],
+       ['⚑ Leviticus 18:22 audit', '#a-leviticus-1822-2013-worked-in-session'],
+       ['§2 translation as a sorting tool', '#s2']],
+    ],
+    's1-8': [
+      [['⚑ Exodus dating audit', '#a-exodus-composition-and-dating'],
+       ['§3.2 Jeremiah in the same crisis', '#s3-2'],
+       ['§3.3 Ezekiel in exile', '#s3-3']],
+    ],
+    's2': [
+      [['§1.5 selective application', '#s1-5'],
+       ['Observations §12.3 Isaiah 7:14', 'field-guide.html#s12-3']],
+    ],
+    's4': [
+      [['Study §2 translation issues', 'master-notes.html#s2'],
+       ['Observations §2.3 the Bible as God\'s word', 'field-guide.html#s2-3']],
+      [['§1.5 selective law-keeping', '#s1-5'],
+       ['⚑ Leviticus 18:22 audit', '#a-leviticus-1822-2013-worked-in-session'],
+       ['Observations §15 God and women', 'field-guide.html#s15']],
+    ],
+    's5-1': [
+      [['History §2.4 the Second Temple gap', 'history.html#s2-4'],
+       ['History §5 canon formation', 'history.html#s5']],
+    ],
+    's5-4': [
+      [['History §2.4 where hell and Satan came from', 'history.html#s2-4']],
+      [['Observations §9.2 hell as a claim', 'field-guide.html#s9-2'],
+       ['§8.6 the timeline problem', '#s8-6']],
+    ],
+    's6-5': [
+      [['⚑ Pseudonymity audit — three tiers', '#a-deutero-pauline-pseudonymity-three-tiers-not-one'],
+       ['§9.3 Acts vs. Paul\'s own letters', '#s9-3'],
+       ['Observations §12.6 Gal 3:28 vs Col 3:22', 'field-guide.html#s12-6']],
+    ],
+    's8-5': [
+      [['⚑ Audit — anti-Jewish rhetoric', '#a-john-is-textually-antisemitic'],
+       ['Observations §12.8 John 8:44', 'field-guide.html#s12-8']],
+    ],
+    's8-6': [
+      [['⚑ Audit — is delay the cause?', '#a-is-the-parousia-delay-actually-the-cause'],
+       ['Observations §12.4 Mark 13:30 / Matt 16:28', 'field-guide.html#s12-4'],
+       ['§5.4 damnation escalation', '#s5-4']],
+    ],
+    's9-2': [
+      [['§9.3 the same council in Galatians', '#s9-3'],
+       ['§6.5 Paul\'s letters', '#s6-5']],
+    ],
+    's9-3': [
+      [['§6.5 Paul\'s letters', '#s6-5'],
+       ['⚑ Audit — the speeches', '#a-are-the-speeches-fictional-constructions'],
+       ['§9.4 conversion accounts', '#s9-4']],
+    ],
+    's11': [
+      [['Observations §8 same method, field-side', 'field-guide.html#s8']],
+    ],
+  },
+};
+
+function buildRelatedHtml(groups) {
+  return groups.map(links =>
+    `<div class="related"><b>Connects to</b>${links.map(([text, href]) =>
+      `<a href="${href}">${escHtml(text)}</a>`).join('')}</div>`
+  ).join('');
+}
+
 // ── Document registry ─────────────────────────────────────────────────────────
 
 const DOCSWITCH = [
@@ -554,7 +640,36 @@ function renderNode(node) {
   }
 }
 
-function renderSections(sections) {
+// Render a section's content nodes, injecting related blocks after h3 subsections.
+function renderContent(nodes, relatedMap) {
+  const H3_TYPES = new Set(['h3', 'h3plain', 'h3corr']);
+  let html = '';
+  let i = 0;
+  while (i < nodes.length) {
+    const node = nodes[i];
+    if (H3_TYPES.has(node.type)) {
+      // Render this h3 heading, then collect all its following prose/audit nodes
+      // until the next h3 or end of array, then append any related block.
+      html += renderNode(node);
+      let sub = '';
+      i++;
+      while (i < nodes.length && !H3_TYPES.has(nodes[i].type)) {
+        sub += renderNode(nodes[i]);
+        i++;
+      }
+      const related = relatedMap && relatedMap[node.hid]
+        ? buildRelatedHtml(relatedMap[node.hid])
+        : '';
+      html += sub + related;
+    } else {
+      html += renderNode(node);
+      i++;
+    }
+  }
+  return html;
+}
+
+function renderSections(sections, relatedMap) {
   let html = '';
   for (const sec of sections) {
     if (sec.type === 'chapter') {
@@ -565,8 +680,11 @@ function renderSections(sections) {
         ? `<span class="num">§${sec.num}</span>`
         : '';
       const heading = `<${sec.tag} data-num="${sec.num || ''}" id="${sec.hid}">${numSpan}${escHtml(sec.text)}</${sec.tag}>`;
-      const inner = sec.content.map(renderNode).join('');
-      html += `</section><section id="${sec.id}">${heading}${inner}\n`;
+      const inner = renderContent(sec.content, relatedMap);
+      const related = relatedMap && relatedMap[sec.hid]
+        ? buildRelatedHtml(relatedMap[sec.hid])
+        : '';
+      html += `</section><section id="${sec.id}">${heading}${inner}${related}\n`;
     } else if (sec.type === 'prose') {
       html += postProcessInline(marked.parse(sec.md));
     } else if (sec.type === 'audit') {
@@ -985,7 +1103,8 @@ for (const doc of DOCS) {
   const src = fs.readFileSync(doc.md, 'utf8');
   const { toc, sections } = parseDocument(src, doc);
   const tocHtml = buildTocHtml(toc);
-  const contentHtml = renderSections(sections);
+  const relatedMap = RELATED_BY_DOC[doc.html] || null;
+  const contentHtml = renderSections(sections, relatedMap);
   const pageHtml = buildPage(doc, tocHtml, contentHtml);
   const outPath = path.join(output, doc.html);
   fs.writeFileSync(outPath, pageHtml, 'utf8');
