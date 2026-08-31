@@ -1,0 +1,38 @@
+name: Validate timeline data
+
+# Scoped to docs/timeline/** only — this pipeline is deliberately independent
+# of the Bible Deep Dive corpus (see docs/timeline/SPEC.md's "Relationship to
+# this repo"). It never runs on corpus-only changes and never gates them.
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'docs/timeline/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'docs/timeline/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout exact commit
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Show runtime
+        run: node --version
+
+      - name: Check timeline script syntax
+        run: node --check docs/timeline/scripts/validate-timeline.mjs
+
+      - name: Validate timeline data store
+        run: node docs/timeline/scripts/validate-timeline.mjs
