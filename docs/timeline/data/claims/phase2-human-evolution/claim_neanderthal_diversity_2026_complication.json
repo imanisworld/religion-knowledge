@@ -1,0 +1,43 @@
+{
+  "id": "claim_neanderthal_diversity_2026_complication",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "A 2026 study reports that late Neanderthals in northwestern Europe were not inbred and had greater genetic diversity than earlier low-diversity population estimates suggested, complicating the \"genetically doomed by inbreeding/low diversity\" strand of the extinction narrative for at least this regional population.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "LOW",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "\"Genetic diversity of late Neanderthals in northwestern Europe.\" Nature (2026) — author list not independently confirmed in this research pass.",
+      "author": null,
+      "year": 2026,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": "Single recent paper; full author list and independent replication not yet confirmed."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "that the broader small-population/low-diversity picture is wrong for Neanderthals generally — this finding is regionally and temporally specific to late northwestern European Neanderthals"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Confidence set LOW: single very recent (2026) finding, not yet cross-checked against independent replication or full field response in this research pass."
+}

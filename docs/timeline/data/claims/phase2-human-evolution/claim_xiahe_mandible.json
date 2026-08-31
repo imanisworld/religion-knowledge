@@ -1,0 +1,45 @@
+{
+  "id": "claim_xiahe_mandible",
+  "subject_type": "Population",
+  "subject_id": "pop_denisovan",
+  "statement": "A mandible from Baishiya Karst Cave, Xiahe, on the Tibetan Plateau, is the first physical/morphological Denisovan evidence found outside Denisova Cave. It was identified as Denisovan via ancient protein (paleoproteomic) analysis, since no DNA survived, and dated to at least approximately 160,000 years ago via uranium-series dating of an adhering carbonate matrix.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -160000,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Chen, F. et al. \"A late Middle Pleistocene Denisovan mandible from the Tibetan Plateau.\" Nature 569: 409-412.",
+      "author": "Chen et al.",
+      "year": 2019,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

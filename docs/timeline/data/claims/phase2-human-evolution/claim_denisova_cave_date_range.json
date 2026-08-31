@@ -1,0 +1,72 @@
+{
+  "id": "claim_denisova_cave_date_range",
+  "subject_type": "Population",
+  "subject_id": "pop_denisovan",
+  "statement": "At the Denisova Cave type site, Bayesian modeling of the fossils themselves dates the oldest Denisovan fossil to approximately 195,000 years ago and the youngest to 52,000-76,000 years ago (with Neanderthal fossils at the same site, including a first-generation Neanderthal-Denisovan hybrid individual, falling between 80,000-140,000 years ago). A separate sediment (environmental) ancient-DNA study extends the earliest attested Denisovan genetic signal at the site to approximately 250,000-170,000 years ago, associated with early Middle Palaeolithic tools, and documents a Denisovan mitochondrial-DNA population turnover after roughly 80,000 years ago.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -250000,
+    "latest": -52000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Central Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Douka, K. et al. \"Age estimates for hominin fossils and the onset of the Upper Palaeolithic at Denisova Cave.\" Nature 565: 640-644.",
+      "author": "Douka et al.",
+      "year": 2019,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Jacobs, Z. et al. \"Timing of archaic hominin occupation of Denisova Cave in southern Siberia.\" Nature 565: 594-599.",
+      "author": "Jacobs et al.",
+      "year": 2019,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Zavala, E.I. et al. \"Pleistocene sediment DNA reveals hominin and faunal turnovers at Denisova Cave.\" Nature 595: 399-403.",
+      "author": "Zavala et al.",
+      "year": 2021,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Confidence set to MODERATE because the fossil-based range (195,000-52,000 ya) and the sediment-DNA-based range (up to ~250,000 ya) rest on different evidence types and should not be silently merged into one number when rendered — report both, sourced separately."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "claim_jebel_irhoud_redate",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_sapiens",
+  "statement": "Fossils from Jebel Irhoud, Morocco, previously estimated at roughly 40,000-160,000 years old, were redated in 2017 to 315 ± 34 thousand years ago via thermoluminescence dating of associated fire-heated flint artifacts (range approx. 349-281 ka at 1σ), cross-checked with electron spin resonance dating on a hominin tooth — making this the oldest well-dated Homo sapiens material at time of publication, roughly 100,000+ years older than the previous best-dated specimen (Omo Kibish).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -349000,
+    "latest": -281000,
+    "central": -315000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Hublin, J.-J., Ben-Ncer, A., Bailey, S.E., et al. \"New fossils from Jebel Irhoud, Morocco and the pan-African origin of Homo sapiens.\" Nature 546: 289-292. DOI: 10.1038/nature22336",
+      "author": "Hublin et al.",
+      "year": 2017,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Richter, D., Grün, R., Joannes-Boyau, R., et al. \"The age of the hominin fossils from Jebel Irhoud, Morocco, and the origins of the Middle Stone Age.\" Nature 546: 293-296. DOI: 10.1038/nature22335",
+      "author": "Richter et al.",
+      "year": 2017,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Report as \"315 ± 34 ka,\" not a bare rounded \"300,000\" — the precision matters for the app’s no-false-precision principle."
+}

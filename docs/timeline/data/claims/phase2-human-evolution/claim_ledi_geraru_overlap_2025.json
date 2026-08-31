@@ -1,0 +1,48 @@
+{
+  "id": "claim_ledi_geraru_overlap_2025",
+  "subject_type": "Population",
+  "subject_id": "pop_early_homo",
+  "statement": "A 2025/2026 study reports 13 additional fossil teeth from Ledi-Geraru showing Homo material at 2.78 and 2.59 million years ago and a new, unnamed Australopithecus species (not A. afarensis) at 2.63 million years ago, indicating early Homo and a distinct Australopithecus species co-existed at the same site 2.5-2.8 million years ago — alongside previously known Australopithecus garhi and Paranthropus material from the same general period in eastern Africa.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -2800000,
+    "latest": -2590000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Reed, K.E. et al. \"New discoveries of Australopithecus and Homo from Ledi-Geraru, Ethiopia.\" Nature 650: 374-380.",
+      "author": "Reed et al.",
+      "year": 2026,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": "Published online Aug 2025 (PMID 40804525); formal issue 2026."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "that Homo evolved from Australopithecus via a single linear replacement in this region",
+    "that only one non-Homo hominin lineage was present alongside early Homo in this period — at least three (this new species, A. garhi, Paranthropus) are attested in eastern Africa in the same broad window"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

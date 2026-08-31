@@ -1,0 +1,84 @@
+{
+  "id": "claim_denisovan_ancestry_by_population",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_sapiens",
+  "statement": "Denisovan genetic ancestry is sharply population-specific: highest (approximately 3-6%, with some estimates narrowing this to 2-4%) in Melanesians, Papua New Guineans, and Aboriginal Australians (and, per Reich et al. 2011, also detected in Near Oceanians, Polynesians, Fijians, eastern Indonesians, and the Mamanwa of the Philippines, but explicitly not in the Jehai of Malaysia or the Onge of the Andaman Islands despite superficial phenotypic similarity); much lower (~0.1-0.2%) in mainland East Asian populations; and intermediate (~0.3-0.6%) in parts of South Asia. Native American populations carry a Denisovan signal via their East Asian ancestry, at roughly East Asian levels.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Southeast Asia",
+    "East Asia",
+    "South Asia"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Reich, D. et al. \"Genetic history of an archaic hominin group from Denisova Cave in Siberia.\" Nature 468: 1053-1060.",
+      "author": "Reich et al.",
+      "year": 2010,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Reich, D. et al. \"Denisova Admixture and the First Modern Human Dispersals into Southeast Asia and Oceania.\" American Journal of Human Genetics 89(4): 516-528.",
+      "author": "Reich et al.",
+      "year": 2011,
+      "venue": "American Journal of Human Genetics",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Vernot, B. et al. \"Excavating Neandertal and Denisovan DNA from the genomes of Melanesian individuals.\" Science 352(6282): 235-239.",
+      "author": "Vernot et al.",
+      "year": 2016,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Sankararaman, S. et al. Denisovan ancestry in South Asian populations. Current Biology 26(9): 1241-1247.",
+      "author": "Sankararaman et al.",
+      "year": 2016,
+      "venue": "Current Biology",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "that populations sharing an older \"Negrito\" phenotypic classification share Denisovan ancestry as a group — the Jehai and Onge specifically do not show the elevated signal seen in Papuan/Melanesian/Aboriginal Australian populations"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

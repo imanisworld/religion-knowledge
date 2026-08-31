@@ -1,0 +1,101 @@
+{
+  "id": "claim_neanderthal_symbolic_behavior_disputed",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "Whether Neanderthals possessed symbolic or ritual behavior comparable to Homo sapiens remains genuinely contested among specialists, not resolved in either direction. Key contested cases include a deeply-impressed, cross-hatched engraving on bedrock at Gorham’s Cave, Gibraltar, sealed beneath an undisturbed Neanderthal-associated (Mousterian) layer dated to more than 39,000 years old (before Homo sapiens is attested in that region), and the burial status of remains at La Chapelle-aux-Saints, France, where a 2014 reanalysis argued for intentional burial and a direct 2015 reply disputed that the pit and body position are explicable by natural/taphonomic processes instead.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -39000,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether the strongest claimed \"art\" evidence (Gorham’s Cave engraving) and the strongest claimed \"ritual\" evidence (La Chapelle-aux-Saints burial) meet the evidentiary bar for intentional, symbolic Neanderthal behavior, or are explicable by non-symbolic/taphonomic processes and pattern-matching to contemporary Homo sapiens material culture.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Rodríguez-Vidal, J. et al. \"A rock engraving made by Neanderthals in Gibraltar.\" PNAS 111(37): 13301-13306.",
+      "author": "Rodríguez-Vidal et al.",
+      "year": 2014,
+      "venue": "PNAS",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Rendu, W. et al. reanalysis of La Chapelle-aux-Saints. Journal of Human Evolution 69: 80-92.",
+      "author": "Rendu et al.",
+      "year": 2014,
+      "venue": "Journal of Human Evolution",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Dibble, H. et al. reply disputing intentional-burial interpretation. Journal of Human Evolution 89 (reply).",
+      "author": "Dibble et al.",
+      "year": 2015,
+      "venue": "Journal of Human Evolution",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Ornament use, pigment use, and burial evidence together demonstrate genuine Neanderthal symbolic behavior",
+      "holders": [
+        {
+          "name": "João Zilhão",
+          "camp": "[ARCHAEOLOGY — PRO-SYMBOLIC-BEHAVIOR]"
+        },
+        {
+          "name": "Francesco d’Errico",
+          "camp": "[ARCHAEOLOGY — PRO-SYMBOLIC-BEHAVIOR]"
+        }
+      ],
+      "status": "CONTESTED",
+      "strongest_case": "Pierced marine shells, mineral pigments, and modified raptor talons at Iberian sites, and Châtelperronian ivory beads/pierced canines, are too distinctive to be mere imitation of contemporary Homo sapiens (Aurignacian) material culture."
+    },
+    {
+      "position": "The strongest \"art\" and \"burial\" claims do not meet the evidentiary bar for intentional symbolic behavior",
+      "holders": [
+        {
+          "name": "Harold Dibble and colleagues",
+          "work": "Journal of Human Evolution 89 (reply on La Chapelle-aux-Saints)",
+          "year": 2015,
+          "camp": "[ARCHAEOLOGY — SYMBOLIC-BEHAVIOR SKEPTIC]"
+        }
+      ],
+      "status": "CONTESTED",
+      "strongest_case": "The La Chapelle-aux-Saints pit and body position are explicable by natural/taphonomic processes; foundational skepticism about Middle Paleolithic symbolism traces to earlier work by Chase & Dibble."
+    }
+  ],
+  "does_not_demonstrate": [
+    "that Neanderthals categorically lacked symbolic cognition — a \"sapiens cognitively outcompeted Neanderthals\" narrative is not supportable as a settled, documented finding on this evidence"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

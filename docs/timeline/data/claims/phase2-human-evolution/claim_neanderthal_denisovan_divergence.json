@@ -1,0 +1,61 @@
+{
+  "id": "claim_neanderthal_denisovan_divergence",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "The Neanderthal and Denisovan lineages are estimated to have diverged from each other approximately 381,000-473,000 years ago — a distinct, more recent split than either lineage’s divergence from Homo sapiens (~550,000-765,000 years ago). A 2020 study additionally proposes the joint Neanderthal-Denisovan ancestral population itself interbred with a more distantly related \"super-archaic\" population (roughly 2 million years divergent) around 700,000 years ago, adding a layer of admixture complexity beneath the clean divergence figure without changing it.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -473000,
+    "latest": -381000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe",
+    "Central Asia"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Prüfer, K. et al. \"The complete genome sequence of a Neanderthal from the Altai Mountains.\" Nature 505: 43-49.",
+      "author": "Prüfer et al.",
+      "year": 2014,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Rogers, A.R., Harris, N.S., Achenbach, A.A. \"Neanderthal-Denisovan ancestors interbred with a distantly related hominin.\" Science Advances 6(8): eaay5483.",
+      "author": "Rogers et al.",
+      "year": 2020,
+      "venue": "Science Advances",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "a \"clean\" two-population divergence uncomplicated by further admixture — see the Rogers et al. 2020 \"super-archaic\" admixture proposal noted in the statement"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

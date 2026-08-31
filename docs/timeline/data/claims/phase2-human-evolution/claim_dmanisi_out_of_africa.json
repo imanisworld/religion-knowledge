@@ -1,0 +1,48 @@
+{
+  "id": "claim_dmanisi_out_of_africa",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_erectus",
+  "statement": "Hominin remains at Dmanisi, Georgia (Caucasus), dated 1.85-1.78 million years ago via the associated stratigraphy, represent the earliest confirmed hominin presence outside Africa. The material is anatomically primitive/mosaic, mixing habilis-like and erectus-like traits; the most complete specimen is Dmanisi Skull 5 (D4500), the most complete Early Pleistocene Homo skull known.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -1850000,
+    "latest": -1780000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ferring, R., Oms, O., Agústí, J., et al. \"Earliest human occupations at Dmanisi (Georgian Caucasus) dated to 1.85-1.78 Ma.\" PNAS 108(26): 10432-10436.",
+      "author": "Ferring et al.",
+      "year": 2011,
+      "venue": "PNAS",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "that this was the only or the earliest possible dispersal of hominins out of Africa — it is the earliest currently confirmed by dated fossil evidence",
+    "that Dmanisi hominins are taxonomically identical to African Homo erectus populations — a minority position (led by the Dmanisi excavation team) treats them as a distinct taxon, \"Homo georgicus\""
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

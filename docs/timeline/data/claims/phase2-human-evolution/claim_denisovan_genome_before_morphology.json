@@ -1,0 +1,57 @@
+{
+  "id": "claim_denisovan_genome_before_morphology",
+  "subject_type": "Population",
+  "subject_id": "pop_denisovan",
+  "statement": "Denisovans were identified as a population distinct from both Neanderthals and modern humans primarily through ancient DNA — first a complete mitochondrial genome, then a nuclear genome — from a finger-bone fragment at Denisova Cave, Siberia, before any diagnostic morphological/skeletal type description existed. This is noted in the literature as an unusual, arguably first, case of a hominin lineage being defined by molecular data in the absence of a diagnostic fossil.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": -2010,
+    "latest": -2010,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Central Asia"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Krause, J. et al. \"The complete mitochondrial DNA genome of an unknown hominin from southern Siberia.\" Nature 464: 894-897.",
+      "author": "Krause et al.",
+      "year": 2010,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Reich, D. et al. \"Genetic history of an archaic hominin group from Denisova Cave in Siberia.\" Nature 468: 1053-1060.",
+      "author": "Reich et al.",
+      "year": 2010,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "date field here records the discovery/publication event (2010), not the population’s existence window — see the pop_denisovan entity date_range for that."
+}

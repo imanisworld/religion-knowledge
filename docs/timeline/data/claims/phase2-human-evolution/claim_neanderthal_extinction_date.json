@@ -1,0 +1,45 @@
+{
+  "id": "claim_neanderthal_extinction_date",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "Recalibrated AMS radiocarbon chronology places the end of Mousterian (Neanderthal-associated) archaeological assemblages at 41,030-39,260 calibrated years before present (95.4% probability) across the sampled European range — revising downward earlier claims of Neanderthal survival to as recently as ~24,000 years ago at some sites (e.g. Gorham’s Cave, Gibraltar), which this study attributes largely to contamination in older, unfiltered radiocarbon samples.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -41030,
+    "latest": -39260,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Higham, T. et al. \"The timing and spatiotemporal patterning of Neanderthal disappearance.\" Nature 512: 306-309.",
+      "author": "Higham et al.",
+      "year": 2014,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Some subsequent work (e.g. on Northwest Europe) argues for regional refinements, but the ~40,000-year figure (not the older ~24,000-year claims) is the current mainstream consensus figure."
+}

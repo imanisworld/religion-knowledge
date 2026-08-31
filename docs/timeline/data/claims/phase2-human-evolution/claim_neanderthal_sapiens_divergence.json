@@ -1,0 +1,45 @@
+{
+  "id": "claim_neanderthal_sapiens_divergence",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "Genomic analysis of a high-coverage Neanderthal genome from the Altai Mountains estimates the population divergence between the Neanderthal/Denisovan ancestral lineage and the Homo sapiens lineage at approximately 550,000-765,000 years ago — a genetic model estimate, distinct from and often conflated with the much younger fossil date range of classic Neanderthal specimens themselves (see claim_sima_de_los_huesos_earliest and claim_neanderthal_extinction_date). Other calibrations and models produce somewhat different ranges.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -765000,
+    "latest": -550000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Prüfer, K. et al. \"The complete genome sequence of a Neanderthal from the Altai Mountains.\" Nature 505: 43-49.",
+      "author": "Prüfer et al.",
+      "year": 2014,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Confidence set to MODERATE rather than HIGH because the reporting agent noted other calibrations/mutation-rate models give somewhat different divergence ranges; this is a model-dependent estimate, not a direct observation."
+}

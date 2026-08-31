@@ -1,0 +1,95 @@
+{
+  "id": "claim_neanderthal_extinction_multicausal",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "Current literature treats the causes of Neanderthal extinction as multi-causal rather than settled on a single factor, with population size/genetic diversity, climate volatility (particularly during Marine Isotope Stage 3), competition and resource overlap with expanding Homo sapiens populations, interbreeding/absorption into the larger sapiens population, and inter-group social-network connectivity all treated as contributing mechanisms in recent (2021-2026) sources, with genuine disagreement over relative weighting and no field-wide consensus statement identified.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -60000,
+    "latest": -40000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Relative weighting of demography/population structure versus climate versus competition versus interbreeding-absorption versus social-network connectivity; a 2021 paper frames demography as the primary driver, while 2025-2026 modeling work treats demography as necessary-but-not-sufficient, decisive mainly in combination with climate-driven connectivity loss.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Multiple 2024-2026 sources (EU-funded research summaries, Smithsonian science coverage) stating that climate stress or direct competition alone cannot explain the extinction.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "2025 preprint modeling inter-band connectivity and climate jointly as shaping Neanderthal extinction and Homo sapiens dispersal.",
+      "author": null,
+      "year": 2025,
+      "venue": "bioRxiv",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "\"An emerging consensus in palaeoanthropology\" (2021), arguing demography specifically was the main factor — one paper’s framing, not confirmed as field-wide.",
+      "author": null,
+      "year": 2021,
+      "venue": "Scientific Reports",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Demography (small, structured effective population size) was the primary driver",
+      "holders": [
+        {
+          "name": "Unnamed authors, \"An emerging consensus in palaeoanthropology,\" Scientific Reports (2021) — author names not independently confirmed in this research pass",
+          "camp": "[PALEOANTHROPOLOGY — DEMOGRAPHY-PRIMARY]"
+        }
+      ],
+      "status": "MINORITY",
+      "strongest_case": "Small, structured populations with reduced genetic diversity are demonstrably vulnerable to stochastic extinction independent of any single environmental trigger."
+    },
+    {
+      "position": "Social/network connectivity, interacting with climate volatility, was decisive; demography alone is necessary but not sufficient",
+      "holders": [
+        {
+          "name": "Authors of 2025-2026 network-connectivity modeling studies (bioRxiv preprint and related coverage) — author names not independently confirmed in this research pass",
+          "camp": "[ARCHAEOLOGY / COMPUTATIONAL MODELING]"
+        }
+      ],
+      "status": "MAJORITY",
+      "strongest_case": "Modeling that incorporates inter-group connectivity alongside climate and demography better matches the observed regional and temporal pattern of Neanderthal disappearance than demography-only models."
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Author names for several of the most recent (2021, 2025, 2026) sources could not be independently confirmed in this research pass and are deliberately omitted rather than guessed — cite by publication/venue only until verified. A named attempt to attribute specific positions to Fred Smith or Katerina Harvati specifically failed verification and those names are not used here."
+}

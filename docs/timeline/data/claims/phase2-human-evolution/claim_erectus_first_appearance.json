@@ -1,0 +1,45 @@
+{
+  "id": "claim_erectus_first_appearance",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_erectus",
+  "statement": "The oldest confidently-dated Homo erectus/ergaster fossil is KNM-ER 2598 (an occipital/cranial fragment), East Turkana, Kenya, dated to approximately 1.88-1.9 million years ago, stratigraphically below the KBS Tuff; this dating was reaffirmed with new associated postcrania in 2021 after decades of uncertainty because the original specimen was a surface find.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -1900000,
+    "latest": -1880000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Hammond, A.S., Royer, D.F., Fox, N.S., et al. \"New hominin remains and revised context from the earliest Homo erectus locality in East Turkana, Kenya.\" Nature Communications 12: 1939.",
+      "author": "Hammond et al.",
+      "year": 2021,
+      "venue": "Nature Communications",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": "KNM-ER 3733, a more complete and famous cranium often cited in popular sources as illustrating the species’ first appearance, is actually dated to roughly 1.6-1.78 million years ago — several hundred thousand years younger than KNM-ER 2598 — and should not be used as the earliest-appearance anchor.",
+  "status": "verified",
+  "notes": null
+}

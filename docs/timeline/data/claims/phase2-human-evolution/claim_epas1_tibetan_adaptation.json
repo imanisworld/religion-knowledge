@@ -1,0 +1,54 @@
+{
+  "id": "claim_epas1_tibetan_adaptation",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_sapiens",
+  "statement": "A high-altitude-adaptation gene variant (EPAS1) found at approximately 78-87% frequency in sampled Tibetan populations, and rare or absent in Han Chinese and other reference populations, more closely matches the Denisovan genome than any modern reference population and is understood as a case of adaptive introgression from Denisovans, later confirmed and refined by follow-up work. This locus-specific high frequency (a result of strong positive selection at this one gene) is distinct from Tibetans’ genome-wide Denisovan ancestry, which sits near ordinary East Asian levels (~0.1-0.2%) — the two figures should not be conflated.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Huerta-Sánchez, E. et al. \"Altitude adaptation in Tibetans caused by introgression of Denisovan-like DNA.\" Nature 512: 194-197.",
+      "author": "Huerta-Sánchez et al.",
+      "year": 2014,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Zhang, X. et al. \"The history and evolution of the Denisovan-EPAS1 haplotype in Tibetans.\" PNAS 118(22).",
+      "author": "Zhang et al.",
+      "year": 2021,
+      "venue": "PNAS",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "One of the best-replicated cases of adaptive archaic introgression in the literature; cited essentially without serious challenge per the research pass."
+}

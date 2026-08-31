@@ -1,0 +1,25 @@
+{
+  "id": "pop_homo_erectus",
+  "name": "Homo erectus",
+  "taxonomic_status": {
+    "classification": "Homo erectus (sensu lato, worldwide polytypic species — trending majority position)",
+    "disputed": true,
+    "alternative_classifications": [
+      "Homo ergaster for early/African material, Homo erectus sensu stricto reserved for Asian material (Groves & Mazák 1975; defended on phylogenetic grounds by Wood & Collard 1999)",
+      "Homo georgicus proposed by some for the Dmanisi material specifically (minority position)"
+    ]
+  },
+  "date_range": {
+    "earliest": -1900000,
+    "latest": -108000,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Africa",
+    "Europe",
+    "East Asia",
+    "Southeast Asia"
+  ],
+  "notes": "Latest date (108,000 ya, Ngandong, Java) and earliest date (1.9 Ma, East Turkana) are both fossil-evidence bounds, not the true origin/extinction of the population."
+}

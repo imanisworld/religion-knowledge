@@ -1,0 +1,102 @@
+{
+  "id": "claim_erectus_ergaster_dispute",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_erectus",
+  "statement": "Whether African early Homo erectus-attributed material should be classified as a separate species, Homo ergaster, distinct from Asian Homo erectus sensu stricto, remains a live and unresolved taxonomic debate, though the field appears to be trending toward treating both as one polytypic species.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa",
+    "East Asia",
+    "Southeast Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether cranial/facial differences between African and Asian erectus-attributed material (sagittal keels, cranial vault thickness, robusticity) represent species-level distinction or normal intraspecific geographic variation.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Groves, C. & Mazák, V. Original erection of Homo ergaster, using KNM-ER 992 as type specimen.",
+      "author": "Groves, C. & Mazák, V.",
+      "year": 1975,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Wood, B. & Collard, M. \"The Changing Face of Genus Homo.\" Evolutionary Anthropology 8(6): 195-207.",
+      "author": "Wood & Collard",
+      "year": 1999,
+      "venue": "Evolutionary Anthropology",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Antón, S.C. \"Natural history of Homo erectus.\" American Journal of Physical Anthropology 122(S37): 126-170.",
+      "author": "Antón, S.C.",
+      "year": 2003,
+      "venue": "American Journal of Physical Anthropology",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "African material warrants separate species status as Homo ergaster",
+      "holders": [
+        {
+          "name": "Colin Groves & Vratislav Mazák",
+          "work": "Original 1975 naming, using KNM-ER 992 as type",
+          "year": 1975,
+          "camp": "[PALEOANTHROPOLOGY — SPLITTING]"
+        },
+        {
+          "name": "Bernard Wood & Mark Collard",
+          "work": "Evolutionary Anthropology 8(6):195-207",
+          "year": 1999,
+          "camp": "[PALEOANTHROPOLOGY — SPLITTING, PHYLOGENETIC METHOD]"
+        }
+      ],
+      "status": "CONTESTED",
+      "strongest_case": "Phylogenetic/functional analysis finds African and Asian samples form distinguishable clades under cladistic methods."
+    },
+    {
+      "position": "A single, polytypic Homo erectus sensu lato spanning Africa and Asia is preferable",
+      "holders": [
+        {
+          "name": "Susan Antón",
+          "work": "American Journal of Physical Anthropology 122(S37):126-170 and later syntheses",
+          "year": 2003,
+          "camp": "[PALEOANTHROPOLOGY — LUMPING]"
+        }
+      ],
+      "status": "MAJORITY",
+      "strongest_case": "No consistent, non-overlapping character suite cleanly separates the African and Asian samples; variation falls within normal range for a geographically dispersed hominin."
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Reported trend is toward the lumping position gaining ground, but Homo ergaster remains in active use in the literature, particularly for KNM-ER 992-type and Dmanisi-adjacent material."
+}

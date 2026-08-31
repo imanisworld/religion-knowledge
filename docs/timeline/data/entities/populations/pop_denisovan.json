@@ -1,0 +1,22 @@
+{
+  "id": "pop_denisovan",
+  "name": "Denisovan",
+  "taxonomic_status": {
+    "classification": "Denisovan (informal name; no Linnaean binomial formally and uncontestedly established at time of writing)",
+    "disputed": true,
+    "alternative_classifications": [
+      "Identified primarily via ancient DNA rather than a type fossil in the traditional sense — see claim_denisovan_genome_before_morphology"
+    ]
+  },
+  "date_range": {
+    "earliest": -250000,
+    "latest": -52000,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Central Asia",
+    "East Asia"
+  ],
+  "notes": "Type site is Denisova Cave, Siberia. The Xiahe mandible (Tibetan Plateau, ≥160,000 years) is the first physical evidence outside the type site — see claim_xiahe_mandible."
+}
