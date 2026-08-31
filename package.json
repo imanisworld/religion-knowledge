@@ -11,7 +11,8 @@
     "build:search-index": "node scripts/build-search-index.mjs",
     "build:reader-site": "node scripts/build-reader-site.mjs --output dist/reader-site",
     "build:readers": "node scripts/build-readers.mjs",
-    "deploy:reader-site": "wrangler deploy"
+    "deploy:reader-site": "wrangler deploy",
+    "validate:timeline": "node docs/timeline/scripts/validate-timeline.mjs"
   },
   "dependencies": {
     "marked": "^18.0.9"

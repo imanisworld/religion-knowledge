@@ -1,0 +1,75 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/population.schema.json",
+  "title": "Population",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.1's Population node type — biological/demographic units (hominin lineages, ancient-DNA clusters). Entities aggregate claims; they assert nothing on their own — every substantive statement about a Population lives in a linked Claim (subject_type: Population, subject_id: this entity's id), not inline here. The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "name", "taxonomic_status", "date_range", "region"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^pop_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name used across the app, e.g. 'Homo erectus'. Taxonomic disputes go in taxonomic_status, not in alternate id fields."
+    },
+    "taxonomic_status": {
+      "type": "object",
+      "required": ["classification", "disputed"],
+      "properties": {
+        "classification": { "type": "string" },
+        "disputed": { "type": "boolean" },
+        "alternative_classifications": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "date_range": {
+      "type": "object",
+      "required": ["earliest", "latest", "precision", "date_semantics"],
+      "description": "The population's attested existence window. This is itself claim-shaped data (has its own date_semantics) because the boundary dates are exactly the kind of thing that gets revised by new finds (e.g., Jebel Irhoud 2017 pushing Homo sapiens' earliest attestation back by ~100,000 years) — never presented as a fixed fact independent of the evidence that established it.",
+      "properties": {
+        "earliest": { "type": ["integer", "null"] },
+        "latest": { "type": ["integer", "null"], "description": "null for populations understood to persist to the present (e.g. Homo sapiens)." },
+        "precision": {
+          "type": "string",
+          "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"]
+        },
+        "date_semantics": {
+          "type": "string",
+          "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"]
+        }
+      }
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "gene_flow_edges": {
+      "type": "array",
+      "description": "SPEC.md §7.1: implements reconnecting branches so interbreeding renders as gene flow, never as tree-violating magic. Each edge additionally requires a backing Claim (subject_type: Population) carrying the sourced percentage/method.",
+      "items": {
+        "type": "object",
+        "required": ["with_population_id", "direction", "confidence", "claim_id"],
+        "properties": {
+          "with_population_id": { "type": "string" },
+          "direction": { "type": "string", "enum": ["BIDIRECTIONAL", "INTO_SUBJECT", "FROM_SUBJECT"] },
+          "estimated_percentage_range": {
+            "type": ["object", "null"],
+            "properties": {
+              "low": { "type": "number" },
+              "high": { "type": "number" },
+              "applies_to": { "type": "string", "description": "Which descendant population(s) the percentage is measured in — gene flow percentages vary by population and must not be reported as one global number." }
+            }
+          },
+          "confidence": { "type": "string", "enum": ["HIGH", "MODERATE", "LOW", "DISPUTED", "UNKNOWN"] },
+          "claim_id": { "type": "string", "description": "The Claim that sources this edge." }
+        }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}

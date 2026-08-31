@@ -1,0 +1,146 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/claim.schema.json",
+  "title": "Claim",
+  "description": "Reference schema for docs/timeline/SPEC.md §5-§6. This file documents the shape the hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) enforces; the validator is the source of truth if the two ever diverge.",
+  "type": "object",
+  "required": ["id", "subject_type", "subject_id", "statement", "claim_tier", "confidence", "sources", "status", "zoom_min", "zoom_max"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^claim_[a-z0-9_-]+$",
+      "description": "Stable, globally unique id. Never reassigned or reused."
+    },
+    "subject_type": {
+      "type": "string",
+      "enum": ["Population", "Culture", "Polity", "Tradition", "Deity", "Text", "Narrative", "KnowledgeState", "GenderSystem", "Person", "WritingSystem", "MediaEra", "Hypothesis"],
+      "description": "SPEC.md §7.1 node type this claim is about."
+    },
+    "subject_id": {
+      "type": "string",
+      "description": "Id of the entity this claim describes."
+    },
+    "statement": {
+      "type": "string",
+      "minLength": 1,
+      "description": "The claim itself, in plain prose. One claim, one statement — do not compress multiple claims into one record (corpus precedent: atomic records, not flattened summaries)."
+    },
+    "claim_tier": {
+      "type": "string",
+      "enum": ["OBSERVATION", "INTERPRETATION", "CAUSAL_EXPLANATION"],
+      "description": "SPEC.md §6.6. Observation first, interpretation second, causal claim third."
+    },
+    "related_observation_id": {
+      "type": ["string", "null"],
+      "description": "Required when claim_tier is CAUSAL_EXPLANATION: the id of the OBSERVATION claim this explanation accounts for. The validator rejects a CAUSAL_EXPLANATION whose sources[] do not go beyond that observation's own sources."
+    },
+    "date_semantics": {
+      "type": ["string", "null"],
+      "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN", null],
+      "description": "SPEC.md §5.1. Required (non-null) whenever `date` is present. FIRST_EVER is deliberately not a member of this enum — there is no way to assert an absolute first."
+    },
+    "date": {
+      "type": ["object", "null"],
+      "properties": {
+        "earliest": { "type": ["integer", "null"], "description": "Signed astronomical year; negative = BCE." },
+        "latest": { "type": ["integer", "null"] },
+        "central": { "type": ["integer", "null"] },
+        "precision": {
+          "type": "string",
+          "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"]
+        }
+      },
+      "required": ["earliest", "latest", "precision"]
+    },
+    "zoom_min": { "type": "string", "enum": ["Z0", "Z1", "Z2", "Z3", "Z4", "Z5", "Z6", "Z7"] },
+    "zoom_max": { "type": "string", "enum": ["Z0", "Z1", "Z2", "Z3", "Z4", "Z5", "Z6", "Z7"] },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Lane tag(s), SPEC.md §4. Optional for pre-lane (deep prehistoric) claims."
+    },
+    "evidence_types": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["ARCHAEOLOGY", "ANCIENT_DNA", "WRITTEN_PRIMARY", "INSCRIPTION", "ORAL_TRADITION", "ART_ICONOGRAPHY", "MATERIAL_CULTURE", "ASTRONOMICAL", "SCIENTIFIC_ANALYSIS", "LATER_HISTORICAL_ACCOUNT", "LINGUISTIC", "ETHNOGRAPHIC", "COMPARATIVE_RECONSTRUCTION"]
+      },
+      "minItems": 1
+    },
+    "confidence": {
+      "type": "string",
+      "enum": ["HIGH", "MODERATE", "LOW", "DISPUTED", "UNKNOWN"],
+      "description": "SPEC.md §6.2. DISPUTED requires >= 2 interpretations[] with distinct camps."
+    },
+    "scholarly_disagreement": {
+      "type": ["string", "null"],
+      "description": "One-sentence summary of the disagreement, required when confidence is DISPUTED."
+    },
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["type", "citation", "verification_method"],
+        "properties": {
+          "type": { "type": "string", "enum": ["PRIMARY", "SECONDARY"] },
+          "citation": { "type": "string", "minLength": 1 },
+          "author": { "type": ["string", "null"] },
+          "year": { "type": ["integer", "null"] },
+          "venue": { "type": ["string", "null"] },
+          "contemporary_with_event": { "type": ["boolean", "null"] },
+          "independent_corroboration": { "type": ["boolean", "null"] },
+          "verified_by": { "type": ["string", "null"] },
+          "verified_date": { "type": ["string", "null"], "format": "date" },
+          "verification_method": {
+            "type": "string",
+            "enum": ["DIRECT_READ", "CONVERGING_SECONDARY", "SEARCH_SNIPPET"]
+          },
+          "access_note": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "interpretations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["position", "holders", "status"],
+        "properties": {
+          "position": { "type": "string" },
+          "holders": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["name", "camp"],
+              "properties": {
+                "name": { "type": "string" },
+                "work": { "type": ["string", "null"] },
+                "year": { "type": ["integer", "null"] },
+                "camp": { "type": "string" }
+              }
+            }
+          },
+          "strongest_case": { "type": ["string", "null"] },
+          "status": { "type": "string", "enum": ["MAJORITY", "MINORITY", "CONTESTED", "FRINGE"] }
+        }
+      }
+    },
+    "does_not_demonstrate": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "SPEC.md §6.7. Rendered as a first-class panel, not a footnote."
+    },
+    "adversarial_counter": {
+      "type": ["string", "null"],
+      "description": "The strongest counter-position, recorded before status assignment (SPEC.md §8 step 3). Null only for claims with no live counter-position (rare)."
+    },
+    "status": {
+      "type": "string",
+      "enum": ["draft", "verified", "published"],
+      "description": "SPEC.md §8.4. Only 'published' claims render in the app."
+    },
+    "notes": { "type": ["string", "null"] }
+  },
+  "if": { "properties": { "date": { "not": { "type": "null" } } } },
+  "then": { "properties": { "date_semantics": { "not": { "const": null } } } }
+}
