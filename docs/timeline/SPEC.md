@@ -36,6 +36,9 @@ mechanism below.
 | P10 | The science/religion comparison is run without a predetermined verdict. The owner's hypothesis (HANDOFF §58) is stored as a hypothesis object with support/complication links, not as schema bias. | `Hypothesis` entity type (§7.6) |
 | P11 | No historical content generated from model memory. | Research pipeline §8; every claim carries `verification` metadata; unverified claims cannot reach `published` status |
 | P12 | Scale must be felt. | Log-zoom time model (§3); lane density indicators; the "recorded history is tiny" visual is a launch requirement (§9.1) |
+| P13 *(owner addition, post-handoff)* | Observation, interpretation, and causal explanation are three different claims. "Absence of women's voices" (a description of the surviving record) is never evidence for "women's voices were deliberately silenced" (a causal explanation needing its own evidence). | `claim_tier` enum on every claim (§6.6); validator forbids a `CAUSAL_EXPLANATION` claim whose only evidence is the observation it explains |
+| P14 *(owner addition, post-handoff)* | Do not infer an entire social system from the visibility of one exceptional individual — and do not erase exceptional individuals because they conflict with a simplified narrative. | `does_not_demonstrate[]` field on claims (§6.7); Person-scoped claims cannot be promoted to Culture-scoped generalizations without independent evidence |
+| P15 *(owner addition, post-handoff)* | Gender systems are historical institutions that change over time, not a timeless background condition — and "patriarchy" is not a boolean. | `GenderSystem` entity with six independently dated/evidenced dimensions (§7.7); a single `patriarchy` field does not exist in the schema |
 
 ---
 
@@ -46,8 +49,9 @@ Three layers, deliberately decoupled:
 1. **Claim store** — flat, append-only collection of `Claim` objects (JSON files or SQLite),
    each independently sourced and statused. This is the research product.
 2. **Entity graph** — `Population`, `Culture`, `Polity`, `Tradition`, `Text`, `Deity`,
-   `Narrative`, `KnowledgeState`, `Person`, `WritingSystem`, `MediaEra` nodes plus typed
-   edges. Entities *aggregate* claims; they assert nothing on their own.
+   `Narrative`, `KnowledgeState`, `GenderSystem`, `Person`, `WritingSystem`, `MediaEra`,
+   `Hypothesis` nodes plus typed edges. Entities *aggregate* claims; they assert nothing
+   on their own.
 3. **Presentation** — the zoomable timeline, lanes, panels, and query interface. Renders
    only `published` claims; renders uncertainty markers as first-class UI, not footnotes.
 
@@ -169,6 +173,43 @@ status: MAJORITY|MINORITY|CONTESTED|FRINGE}`. Camp labels follow the corpus conv
 (`[CRITICAL]`, `[CONSERVATIVE-EVANGELICAL]`, etc., extended per field: `[ARCHAEOLOGICAL]`,
 `[INDIGENOUS-SCHOLARSHIP]`, …). Position is context, not disqualification.
 
+### 6.6 Claim tiers (owner addition — implements P13)
+Every claim carries `claim_tier`:
+
+- `OBSERVATION` — a description of the surviving record ("no texts authored by women
+  survive from this context").
+- `INTERPRETATION` — a reading of what the record indicates ("literacy was likely
+  restricted to scribal classes that mostly excluded women").
+- `CAUSAL_EXPLANATION` — an account of why ("women were deliberately excluded from
+  scribal training") — requires evidence of its own, distinct from the observation it
+  explains.
+
+Validator rules: a `CAUSAL_EXPLANATION` whose `sources[]` merely re-cite the observation
+is rejected; the UI renders tiers with distinct visual grammar so an observation is never
+readable as an explanation. This rule applies app-wide, not only to the gender track:
+observation first, interpretation second, causal claim third.
+
+### 6.7 `does_not_demonstrate[]` (owner addition — implements P14)
+Any claim — most valuably case-study claims about individuals — may carry an explicit list
+of things this evidence does **not** establish, rendered as a first-class panel, not a
+footnote. Worked data-shape example (all facts *illustrative — unverified* pending the §8
+pipeline; Enheduanna is already flagged for verification at HANDOFF §14):
+
+```
+Person: Enheduanna (~2300 BCE, Mesopotamia — illustrative, unverified)
+Position: high priestess of Nanna at Ur; daughter of Sargon of Akkad;
+  literary works traditionally attributed to her
+demonstrates: elite women could occupy extremely powerful
+  religious/political positions
+does_not_demonstrate:
+  - that ordinary women had equal status
+  - that Mesopotamia was non-patriarchal
+  - that Enheduanna was being systematically silenced
+```
+
+Scope rule: a claim whose subject is a `Person` cannot be promoted into a Culture- or
+Tradition-scoped generalization without independent evidence at that wider scope.
+
 ## 7. Entity graph
 
 ### 7.1 Node types
@@ -196,6 +237,8 @@ status: MAJORITY|MINORITY|CONTESTED|FRINGE}`. Camp labels follow the corpus conv
 - **WritingSystem** — `origin_type: INDEPENDENT|STIMULUS_DIFFUSION|ADAPTATION|UNCERTAIN`.
 - **MediaEra** — documentation/preservation regimes (manuscript, print, photography, digital…)
   with `durability_profile` per medium (HANDOFF §9).
+- **GenderSystem** — gender/kinship/power arrangements per culture×period as a
+  time-varying institution, six independent dimensions, no aggregate boolean (see 7.7).
 - **Hypothesis** — first-class object (see 7.6).
 
 ### 7.2 Edge types
@@ -229,6 +272,44 @@ The owner's core hypothesis (HANDOFF §58) is stored as:
 notes}`. The app can render a hypothesis page showing both columns. The hypothesis never
 filters or colors default rendering. Additional hypotheses can be added the same way; none
 can reach `status: ESTABLISHED` without the owner explicitly reviewing the evidence page.
+
+### 7.7 GenderSystem entity (owner addition — implements P15)
+Per culture×period (versioned over time like every institution — a society's arrangements
+in one period say nothing automatic about the next), a `GenderSystem` carries **six
+independently dated, independently evidenced, independently confidence-rated dimensions**.
+They are different phenomena that can appear at different times with different intensity;
+the schema has no field that aggregates them into a "patriarchy: yes/no" value.
+
+| Dimension | Question it answers |
+|---|---|
+| `gendered_labor` | Were jobs divided by sex? |
+| `political_inequality` | Were most rulers/office-holders male? |
+| `legal_economic_status` | Could women independently own/inherit property? |
+| `household_authority` | Could husbands/fathers legally control women? |
+| `gendered_legal_restrictions` | Were women's sexuality/marriages regulated differently? |
+| `ideological_patriarchy` | Did texts explicitly portray women as naturally subordinate? |
+
+Each dimension is `{assessment, evidence[], confidence, claim_tier, sources[], change_events[]}`.
+Supporting field vocabulary: `gender_roles, property_rights, inheritance_rules,
+marriage_authority, political_office, religious_office, legal_status,
+evidence_for_patrilineality, evidence_for_matrilineality, evidence_for_gendered_labor,
+evidence_for_systematic_male_authority`. Descent-system evidence (patrilineality /
+matrilineality) is its own axis — kinship structure and male authority are not the same
+question.
+
+The target query this entity exists to answer is not "was this society patriarchal?" but:
+**"exactly what authority did men and women possess here, according to what evidence, and
+when did those arrangements change?"**
+
+P13 applies with full force here: the surviving record's silences (an `OBSERVATION`) never
+auto-generate silencing claims (a `CAUSAL_EXPLANATION`). P14 applies symmetrically:
+exceptional individuals neither prove a system nor get erased by one — the
+`does_not_demonstrate[]` panel (§6.7) is expected on every individual case study in this
+track.
+
+**Corpus seed:** the Field Guide's audited §15 material (women in biblical texts and
+interpretation, including the complementarian strongest-case survey) feeds this track's
+Levant lane — already run through the verification method this spec requires.
 
 ## 8. Research pipeline (the production gate)
 
@@ -274,6 +355,7 @@ Adopted from the corpus's working method; every step already has precedent in th
 | 2 | Human evolution claims | Every hominin claim sourced to peer-reviewed paleoanthropology/aDNA; interbreeding rendered as gene flow |
 | 3 | Writing systems | Origin-type honestly classified; decipherment statuses complete; no independent-invention overclaims |
 | 4 | Religion, region-by-region — **start order: Africa, Australia, Americas, Oceania, then Eurasia** (deliberate inversion of source-availability bias; Abrahamic material last, partly seeded from the already-audited corpus) | Each region has absence-notes where evidence is thin, instead of silent gaps |
+| 4G | Gender/kinship/power systems, region-by-region — same Africa-first ordering as Phase 4; runs alongside it | Six dimensions independently evidenced per culture×period; no patriarchy boolean anywhere; every individual case study carries `does_not_demonstrate[]`; the §12 flagged claims resolved before any of them publish |
 | 5 | Creation narratives | Every narrative has full `TraditionDating`; motifs tagged; zero influence edges yet |
 | 6 | Knowledge states | Each ✓/✗ item sourced; "could reliably observe/calculate/predict" framing per HANDOFF §49 |
 | 7 | Transmission edges | Only scholarship-asserted edges; motif similarity remains edge-free |
@@ -295,3 +377,19 @@ Adopted from the corpus's working method; every step already has precedent in th
 HANDOFF §57's twenty questions are adopted verbatim as the research backlog, tracked as
 `Hypothesis`/research-target objects, none pre-answered. Question 15 (knowledge/supernatural
 correlation) is the owner's hypothesis and gets the §7.6 treatment.
+
+**Gender-track additions (owner, post-handoff)** — added to the backlog with the owner's own
+cautions attached; none may become app facts before careful sourcing:
+
+21. Puabi "ruling in her own right" — the specific claim of independent rule needs sourcing
+    beyond the richness of the burial.
+22. Kubaba's historical status — she appears in the Sumerian King List, but that list's
+    historical reliability varies considerably across rulers and periods; the entry alone
+    settles nothing.
+23. The dating and trajectory of patriarchal institutionalization — whose periodization,
+    on what evidence, with which of the six §7.7 dimensions actually moving when.
+24. How women's legal status changed across Mesopotamian periods — period-by-period, with
+    primary legal sources, not a single summary arc.
+25. The track's governing question everywhere: exactly what authority did men and women
+    possess in a given culture×period, according to what evidence, and when did those
+    arrangements change?
