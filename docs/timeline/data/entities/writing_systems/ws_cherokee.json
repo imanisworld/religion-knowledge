@@ -1,0 +1,17 @@
+{
+  "id": "ws_cherokee",
+  "name": "Cherokee Syllabary",
+  "origin_type": "STIMULUS_DIFFUSION",
+  "date_range": {
+    "earliest": 1821,
+    "latest": null,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "region": [
+    "North America"
+  ],
+  "script_type": "SYLLABIC",
+  "descends_from": [],
+  "notes": "Sequoyah (George Guess/Gist), a monolingual Cherokee speaker who never learned to read or write English, began work c. 1809 after observing literate soldiers during the War of 1812/Creek War; completed an 86-character (later 85) syllabary by 1821, formally adopted by the Cherokee National Council in 1825. His character shapes visibly resemble Latin/Greek/Cyrillic letterforms he had seen but could not read, while the sound values are entirely his own invention — the clean stimulus-diffusion signature. Still in active use — `latest: null`."
+}

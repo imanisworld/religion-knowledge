@@ -1,0 +1,65 @@
+{
+  "id": "claim_hangul_phagspa_minority",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_hangul",
+  "statement": "Gari Ledyard (Columbia University, PhD thesis 1966, revised 1998, additional paper 1997), following an earlier 1820 suggestion by Jean-Pierre Abel-Rémusat, proposed that 5-6 basic Hangul consonant shapes were adapted from the Mongol 'Phags-pa script (itself derived from Tibetan, created under Kublai Khan), transmitted via Korean exposure during the Yuan dynasty's suzerainty over Goryeo (1270-1356). This hypothesis is explicitly characterized in the literature as \"less popular than the hypothesis that Hangul was largely an original invention\" — a minority view. Even Ledyard's own account limits any Phagspa influence to a small subset of letter shapes and explicitly maintains that Hangul's innovative featural phonetic principle was an original Korean achievement.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Ledyard's 'Phags-pa-influence hypothesis (minority) vs. the mainstream original-invention position — both acknowledge the featural phonetic principle itself as an original Korean achievement regardless.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ledyard, Gari K. PhD thesis (Columbia University, 1966, revised 1998) and 1997 paper on the 'Phags-pa/Hangul hypothesis.",
+      "author": "Gari Ledyard",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Hangul is largely an original invention, with the featural phonetic principle as a genuine Korean innovation",
+      "holders": [
+        {
+          "name": "Mainstream Korean linguistics / the Haerye's own account",
+          "camp": "ORIGINAL-INVENTION SCHOOL"
+        }
+      ],
+      "strongest_case": "The Hunminjeongeum Haerye itself, a contemporary primary document, credits Sejong and the Hall of Worthies scholars with the design.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "5-6 basic consonant shapes were adapted from the Mongol 'Phags-pa script",
+      "holders": [
+        {
+          "name": "Gari Ledyard",
+          "work": "PhD thesis, 1966/1998",
+          "year": 1998,
+          "camp": "PHAGSPA-INFLUENCE SCHOOL"
+        }
+      ],
+      "strongest_case": "Documented Korean court exposure to 'Phags-pa via the Yuan dynasty's suzerainty over Goryeo (1270-1356), and specific shape correspondences Ledyard identifies for a handful of letters.",
+      "status": "MINORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

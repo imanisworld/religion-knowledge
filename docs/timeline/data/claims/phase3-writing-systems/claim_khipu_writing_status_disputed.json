@@ -1,0 +1,80 @@
+{
+  "id": "claim_khipu_writing_status_disputed",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_khipu",
+  "statement": "Whether khipu (Andean knotted-string devices) constitute writing at all, beyond a purely numerical/accounting notation, is itself a live dispute distinct from any origin-type question. Gary Urton (Signs of the Inka Khipu: Binary Coding in the Andean Knotted-String Records, University of Texas Press, 2003) argues khipu construction (fiber, ply direction, knot type/direction, attachment) encodes binary-coded information beyond pure accounting, explicitly against a \"mere mnemonic\" reading. Newly analyzed epistolary khipu with as many as 95 distinct symbols (within logosyllabic range, well beyond pure-accounting khipu's symbol count) and statistical studies reporting Zipf/Shannon-entropy signatures consistent with natural-language structure (matching Quechua entropy figures) have been presented as evidence of intelligible content, but these remain indirect statistical arguments, not confirmed readings. Colonial Spanish sources describe khipu used for histories, genealogies, poetry, and law, but no confirmed decipherment of narrative content exists. Mainstream caution holds most khipu are confidently readable only as numerical/accounting records.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Urton and subsequent statistical work argue for narrative/linguistic content beyond accounting; mainstream caution holds only numerical content is confidently read — actively debated, not resolved.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Urton, Gary. Signs of the Inka Khipu: Binary Coding in the Andean Knotted-String Records. University of Texas Press, 2003.",
+      "author": "Gary Urton",
+      "year": 2003,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Urton, Gary. \"Writing with Twisted Cords: The Inscriptive Capacity of Andean Khipus.\" Current Anthropology 58(3), 2017.",
+      "author": "Gary Urton",
+      "year": 2017,
+      "venue": "Current Anthropology",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Khipu construction encodes binary-coded linguistic/narrative information beyond pure numerical accounting",
+      "holders": [
+        {
+          "name": "Gary Urton",
+          "work": "Signs of the Inka Khipu (2003); \"Writing with Twisted Cords\" (2017)",
+          "year": 2017,
+          "camp": "INSCRIPTIVE-CAPACITY SCHOOL"
+        }
+      ],
+      "strongest_case": "Epistolary khipu with up to 95 distinct symbols (within logosyllabic range) and statistical entropy signatures resembling natural-language structure.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "Khipu are confidently readable only as numerical/accounting records; narrative content remains unconfirmed",
+      "holders": [
+        {
+          "name": "Mainstream Andean-studies caution, per the surveyed literature",
+          "camp": "ACCOUNTING-ONLY SCHOOL"
+        }
+      ],
+      "strongest_case": "No accepted decipherment of narrative khipu content exists; entropy-signature arguments are indirect and statistical, not a reading.",
+      "status": "MAJORITY"
+    }
+  ],
+  "does_not_demonstrate": [
+    "A confirmed decipherment of narrative/linguistic khipu content (statistical entropy signatures are suggestive, not a reading)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

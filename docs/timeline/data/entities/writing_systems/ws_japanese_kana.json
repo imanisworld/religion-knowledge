@@ -1,0 +1,23 @@
+{
+  "id": "ws_japanese_kana",
+  "name": "Japanese Kana (Hiragana and Katakana)",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": 800,
+    "latest": null,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "East Asia"
+  ],
+  "script_type": "SYLLABIC",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_chinese_script",
+      "confidence": "HIGH",
+      "claim_id": "claim_kana_descends_chinese"
+    }
+  ],
+  "notes": "Both syllabaries derive from man'yōgana (Chinese characters used purely phonetically for Japanese sounds, traceable to the 5th century CE); hiragana emerged as cursive simplification of whole kanji, katakana by taking fragments/components of kanji, both taking recognizable shape in the 9th-century Heian period. The popular attribution of hiragana's invention to the monk Kūkai is a legend, not documented history — no signed document supports it, and the Heian-period evidence instead shows a gradual, collective, multi-decade development with no single named inventor. Still in active use — `latest: null`."
+}

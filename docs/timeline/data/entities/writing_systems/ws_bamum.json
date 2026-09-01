@@ -1,0 +1,17 @@
+{
+  "id": "ws_bamum",
+  "name": "Bamum Script",
+  "origin_type": "STIMULUS_DIFFUSION",
+  "date_range": {
+    "earliest": 1896,
+    "latest": null,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "script_type": "SYLLABIC",
+  "descends_from": [],
+  "notes": "Invented by King Njoya of the Bamum Kingdom (Cameroon), starting 1896, evolving through six documented stages over c. 14 years from an initial ~465-pictogram system to a true syllabary by 1902. Suppressed after French colonial administration took over in 1919 (materials destroyed, teaching banned); undergoing documented revival since 2022. `latest: null` reflects the ongoing revival rather than continuous unbroken use."
+}

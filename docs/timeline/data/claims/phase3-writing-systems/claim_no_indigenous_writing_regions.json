@@ -1,0 +1,57 @@
+{
+  "id": "claim_no_indigenous_writing_regions",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cuneiform",
+  "statement": "At least three world regions are well documented as having no indigenous writing system before external contact: (1) pre-contact Aboriginal Australia — mainstream consensus holds message sticks and notched digging sticks are graphic/mnemonic communication (Piers Kelly, Australian Message Stick Database, Journal of Material Culture, 2020) rather than writing proper, with no rigorous named-scholar causal explanation for the absence found at citation quality this session; (2) most pre-colonial sub-Saharan Africa outside the Nile Valley, the Ethiopian highlands (Ge'ez), and the West African cases documented separately (Ajami, Nsibidi, and the 19th-20th century Vai/Bamum/N'Ko inventions) — confirmed specifically for Southern African Bantu-speaking societies, with the caveat that a modern invented script for Southern Bantu languages (isiBheqe Sohlamvu/Ditema tsa Dinoko) was created by South African linguists starting c. 2015, analogous to Bamum/Vai/N'Ko, not evidence of pre-colonial tradition; (3) North America north of Mesoamerica — no native writing system existed at first European contact, with post-contact inventions (most famously Sequoyah's Cherokee syllabary) representing informed invention, not indigenous continuity. The distinction between \"adapted an outside script\" (Ajami, Ge'ez, Meroitic-from-Egyptian) and \"no writing system used at all\" is the one worth encoding — conflating them (as some polemical sources do) would reproduce the kind of overclaim this project's standing rules are built to avoid, in the other direction.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z3",
+  "zoom_max": "Z6",
+  "region": [
+    "Oceania",
+    "Africa",
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Kelly, Piers. \"Australian message sticks: Old questions, new directions.\" Journal of Material Culture, 2020.",
+      "author": "Piers Kelly",
+      "year": 2020,
+      "venue": "Journal of Material Culture",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Britannica-sourced consensus on absence of pre-contact writing in North America outside Mesoamerica.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the absence of indigenous writing implies an absence of sophisticated knowledge-transmission systems (oral tradition, song-line, and mnemonic systems in these regions are independently well documented and are not lesser substitutes)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Some search results for \"sub-Saharan Africa no writing\" surfaced polemical sources arguing the framing is itself a colonial myth; these were not relied on for factual claims, per the flag in the underlying research report."
+}

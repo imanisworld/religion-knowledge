@@ -1,0 +1,58 @@
+{
+  "id": "claim_vai_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_vai",
+  "statement": "Momolu Duwalu Bukele created the Vai syllabary in Liberia, c. 1832-1834. Missionary-recorded founding accounts describe a dream in which a stranger appeared with \"a book\" and taught him signs he reconstructed on waking with male relatives/friends; near-contemporary transcriptions of this story vary (a Christian missionary's 1834 account vs. Sigismund Koelle's 1849 recording), which scholars read as evidence the \"dream\" is a status-conferring founding narrative rather than a literal account of a mundane, contact-inspired invention process. Tuchscherer and Hair (History in Africa 29, 2002, pp. 427-486) document that a Cherokee man, Austin Curtis, emigrated to Liberia in 1823 and married into a Vai chief's family, raising the possibility that awareness of the Cherokee syllabary reached Bukele's circle — but Vai characters bear no visual resemblance to Cherokee ones, so any such contact would have transmitted only the concept of syllabic writing, not sign forms. Coded STIMULUS_DIFFUSION on this basis (broader Western/coastal-Liberian literacy exposure, possibly compounded by Cherokee-case awareness).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1833,
+    "latest": 1833,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": "The dream narrative is a recorded community tradition with internally inconsistent transcriptions; scholars treat it as likely a religious/status gloss on a documentable contact-inspired process, not a settled literal account either way.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Tuchscherer, Konrad, and P.E.H. Hair. \"Cherokee and West Africa: Examining the Origins of the Vai Script.\" History in Africa 29, 2002: 427-486.",
+      "author": "Tuchscherer and Hair",
+      "year": 2002,
+      "venue": "History in Africa",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Kelly, Piers. \"The Invention, Transmission and Evolution of Writing: Insights from the New Scripts of West Africa.\" In Paths into Script Formation in the Ancient Mediterranean, 2018.",
+      "author": "Piers Kelly",
+      "year": 2018,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

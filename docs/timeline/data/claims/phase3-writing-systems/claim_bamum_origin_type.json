@@ -1,0 +1,58 @@
+{
+  "id": "claim_bamum_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_bamum",
+  "statement": "King Njoya of the Bamum Kingdom (Cameroon) invented the Bamum script starting 1896, evolving through six documented stages over c. 14 years (1896-1910): from an initial 465-pictogram/10-digit system (\"Lewa\") through intermediate forms to a true syllabary by 1902 onward. Used for a pharmacopoeia, a calendar, legal/administrative records, schools, a library, and a printing press. Suppressed after French colonial administration took over in 1919 (materials destroyed, teaching banned); undergoing a documented revival since 2022 via the Endangered Alphabets Project working with Njoya's great-grandson.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1896,
+    "latest": 1910,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Endangered Alphabets Project, \"Bamum\" entry.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "africanhistoryextra.com, \"The invention of writing in an African kingdom.\"",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

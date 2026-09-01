@@ -1,0 +1,99 @@
+{
+  "id": "claim_cascajal_authenticity_disputed",
+  "subject_type": "Text",
+  "subject_id": "text_cascajal_block",
+  "statement": "The Cascajal Block's status is genuinely disputed. It was recovered out of stratified archaeological context (found in a debris pile by road workers), and its proposed c. 900 BCE date rests on associated pottery/figurine dating, not direct dating of the stone. David Grove (University of Florida) reportedly described it as looking \"like a fake\"; Christopher Pool (University of Kentucky) expressed skepticism in 2010, citing the unusual horizontal sign orientation relative to other Mesoamerican scripts and unusually crisp incision-line weathering. Countervailing material-science analysis (Englehardt et al., Ancient Mesoamerica 31(2), 2020) using polynomial texture mapping, XRF, and SEM concluded the material and manufacture are consistent with genuine Formative-period Olmec production — supporting but not resolving the stratigraphic-context problem.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Named skeptics (Grove, Pool) dispute authenticity/context; Englehardt et al. 2020 material analysis supports genuine manufacture without resolving the out-of-context recovery problem.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Rodríguez Martínez, Ma. del Carmen, et al. Report on the Cascajal Block. Science, 2006.",
+      "author": null,
+      "year": 2006,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Skidmore, Joel. \"The Cascajal Block: The Earliest Precolumbian Writing.\" Mesoweb, 2006.",
+      "author": "Joel Skidmore",
+      "year": 2006,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Englehardt, J., I. Insaurralde Caballero, E. Melgar Tísoc, Y. Velázquez Maldonado, C. Guzmán Torres, and R. Bernard. \"Digital Imaging and Archaeometric Analysis of the Cascajal Block: Establishing Context and Authenticity for the Earliest Known Olmec Text.\" Ancient Mesoamerica 31(2), 2020: 189.",
+      "author": null,
+      "year": 2020,
+      "venue": "Ancient Mesoamerica",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "The block is a genuine Formative-period Olmec artifact bearing a real early writing system",
+      "holders": [
+        {
+          "name": "Englehardt, Insaurralde Caballero, Melgar Tísoc, Velázquez Maldonado, Guzmán Torres, and Bernard",
+          "work": "Ancient Mesoamerica 31(2), 2020",
+          "year": 2020,
+          "camp": "MATERIAL-AUTHENTICITY SCHOOL"
+        }
+      ],
+      "strongest_case": "Polynomial texture mapping, XRF, and SEM analysis found the stone's material and manufacture consistent with genuine Formative-period production.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "The block's authenticity and/or dating is doubtful given its out-of-context recovery and anomalous features",
+      "holders": [
+        {
+          "name": "David Grove",
+          "work": "Personal assessment reported in secondary coverage",
+          "camp": "SKEPTICAL SCHOOL"
+        },
+        {
+          "name": "Christopher Pool",
+          "work": "Personal assessment, 2010",
+          "year": 2010,
+          "camp": "SKEPTICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "Recovered from a debris pile with no stratified context; unusual horizontal sign orientation relative to other Mesoamerican scripts; unusually crisp incision-line weathering.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "claim_aramaic_descends_phoenician",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_aramaic",
+  "statement": "Aramaic script derives from Phoenician, c. 8th century BCE — well established and uncontested. Aramaic's downstream branching is broad: Nabataean (a cursive regional variant) leads to Arabic script (from c. 4th century CE); Aramaic square script leads to the modern Hebrew alphabet (replacing the older Paleo-Hebrew/Phoenician-descended script); also ancestral to Syriac and, via Sogdian/Uyghur intermediaries, Mongolian script.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General epigraphic literature on Aramaic's Phoenician derivation and downstream branching (Nabataean/Arabic, square-script Hebrew, Syriac, Sogdian/Mongolian).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,24 @@
+{
+  "id": "text_indus_seal_corpus",
+  "name": "Indus Valley Seal and Tablet Corpus",
+  "writing_system_id": "ws_indus",
+  "decipherment_status": "UNDECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -2600,
+      "latest": -1900,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": -2600,
+      "latest": -1900,
+      "precision": "CENTURY",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "South Asia"
+  ],
+  "notes": "~400 distinct signs across roughly 4,000+ inscribed objects (seals, tablets, pottery marks); inscriptions overwhelmingly short (avg. ~5 signs, longest ~26). No bilingual anchor, no confirmed underlying language. UNDECIPHERED holds regardless of which side of the \"is it writing\" dispute (Farmer/Sproat/Witzel 2004 vs. Parpola 1994 / Rao et al. 2009) is correct."
+}

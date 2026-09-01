@@ -1,0 +1,17 @@
+{
+  "id": "ws_chinese_script",
+  "name": "Chinese Script (Oracle Bone Script and descendant forms)",
+  "origin_type": "INDEPENDENT",
+  "date_range": {
+    "earliest": -1250,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "East Asia"
+  ],
+  "script_type": "LOGOGRAPHIC",
+  "descends_from": [],
+  "notes": "Modeled as ONE WritingSystem entity spanning oracle bone script (jiǎgǔwén) through bronze inscriptions, seal script, clerical script, and modern characters, per the mainstream paleographic framing of this as continuous evolution rather than successive independent inventions (⟨INFERENCE⟩ modeling choice built on that documented continuity claim, not itself a cited scholarly statement about \"WritingSystem entities\"). `latest: null` because the script remains in active use. Neolithic \"proto-writing\" candidates (Jiahu ~6600 BCE, Banpo, Dinggong) are NOT treated as confirmed antecedents — see claim_chinese_neolithic_precursors_disputed."
+}

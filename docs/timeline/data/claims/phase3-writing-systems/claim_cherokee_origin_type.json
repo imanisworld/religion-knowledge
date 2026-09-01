@@ -1,0 +1,58 @@
+{
+  "id": "claim_cherokee_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cherokee",
+  "statement": "Sequoyah (George Guess/Gist), a monolingual Cherokee speaker who never learned to read or write English, began developing a writing system c. 1809 after observing literate soldiers during the War of 1812/Creek War (including the Battle of Horseshoe Bend). He first attempted an unmanageable logographic (one-symbol-per-word) system, then pivoted to analyzing spoken Cherokee's syllable inventory, completing an 86-character (later 85) syllabary by 1821; his daughter Ayokeh (Ahyokah) demonstrated the system worked for someone who had not helped design it. Formally adopted by the Cherokee National Council in 1825; the bilingual Cherokee Phoenix newspaper launched 1828. His character shapes resemble Latin/Greek/Cyrillic letterforms he had seen but could not read, while sound values are unrelated to those alphabets' actual values — since he had no access to the source letters' phonetic values, only their shapes, this is a clean STIMULUS_DIFFUSION case: concept and some visual stock borrowed, sign-to-sound mapping invented from scratch.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1821,
+    "latest": 1821,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Cushman, Ellen. The Cherokee Syllabary: Writing the People's Perseverance. University of Oklahoma Press, 2011.",
+      "author": "Ellen Cushman",
+      "year": 2011,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Cushman, Ellen. \"The Cherokee Syllabary: A Writing System in Its Own Right.\" Written Communication 28(3), 2011.",
+      "author": "Ellen Cushman",
+      "year": 2011,
+      "venue": "Written Communication",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The often-repeated ~90% post-syllabary Cherokee literacy figure traces to Ellen Cushman and Theda Perdue (\"The Sequoyah Syllabary and Cultural Revitalization,\" 1994) but could not be independently traced to a period census or contemporaneous quantitative source this session — treat as a widely cited scholarly estimate, not a hard count."
+}

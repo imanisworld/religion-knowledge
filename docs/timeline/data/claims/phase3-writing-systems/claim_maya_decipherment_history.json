@@ -1,0 +1,79 @@
+{
+  "id": "claim_maya_decipherment_history",
+  "subject_type": "Text",
+  "subject_id": "text_san_bartolo_murals",
+  "statement": "Maya script decipherment was a decades-long collaborative process, not a single breakthrough. J. Eric S. Thompson dominated the field into the 1960s championing a purely ideographic, non-phonetic, non-historical reading of the script and rejected Yuri Knorozov's 1952 phonetic (logogram + CV-syllable) argument until Thompson's own death in 1975; Cold War-era politics around Knorozov's Soviet nationality are documented (though not to full academic-historiography rigor in this pass) as a real contributing factor in the delay. Tatiana Proskouriakoff (\"Historical Implications of a Pattern of Dates at Piedras Negras, Guatemala,\" American Antiquity 25(4), 1960, pp. 454-475) demonstrated that stelae date-patterns recorded real dynastic events of named rulers, overturning Thompson's purely calendrical/religious reading. Linda Schele, Floyd Lounsbury, Peter Mathews, David Stuart, and Nikolai Grube completed the collaborative phonetic/logosyllabic decipherment through the 1970s-1990s. Current status: DECIPHERED, with roughly 80-90% of signs/inscriptions readable per David Stuart (University of Texas) — core grammar solved, but a nontrivial minority of rare/unique signs and some toponyms remain unread or contested; do not report as 100% solved.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Knorozov, Yuri. \"Drevnyaya pis'mennost' Tsentral'noy Ameriki\" [Ancient writing of Central America]. Sovetskaya Etnografiya, 1952.",
+      "author": "Yuri Knorozov",
+      "year": 1952,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Proskouriakoff, Tatiana. \"Historical Implications of a Pattern of Dates at Piedras Negras, Guatemala.\" American Antiquity 25(4), 1960: 454-475.",
+      "author": "Tatiana Proskouriakoff",
+      "year": 1960,
+      "venue": "American Antiquity",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Coe, Michael D. Breaking the Maya Code. Thames & Hudson, 1st ed. 1992, 3rd ed. 2012.",
+      "author": "Michael D. Coe",
+      "year": 2012,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Martin, Simon, and Nikolai Grube. Chronicle of the Maya Kings and Queens. Thames & Hudson, 2000.",
+      "author": "Martin and Grube",
+      "year": 2000,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "No single authoritative recent (2020s) peer-reviewed percentage-deciphered figure was found; 80% and 90% both circulate in current reporting (David Stuart quoted at ~90% in The Alcalde, UT Austin, 2012) — treat as an approximate range."
+}

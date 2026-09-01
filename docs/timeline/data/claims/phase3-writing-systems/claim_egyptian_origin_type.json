@@ -1,0 +1,102 @@
+{
+  "id": "claim_egyptian_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_egyptian_hieroglyphs",
+  "statement": "Mainstream current Egyptology classifies Egyptian hieroglyphic writing as INDEPENDENT: \"the earliest solid evidence of Egyptian writing differs in structure and style from the Mesopotamian and must therefore have developed independently.\" A stimulus-diffusion minority position (general awareness that writing was possible reaching Egypt via contact, not sign-borrowing) rests on real evidence of Egypt-Mesopotamia contact in the same period (Mesopotamian-style cylinder seals appear in Egyptian tombs from Naqada IIb-c, c. 3500-3300 BCE), but no serious current scholar argues hieroglyphs directly copied/modified cuneiform signs — the sign systems are structurally and visually too dissimilar for ADAPTATION.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "INDEPENDENT (mainstream) vs. STIMULUS_DIFFUSION (documented minority position) — not INDEPENDENT vs. ADAPTATION, which is excluded by both camps.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Baines, John. \"The Origin of Writing in Relation to the Emergence of the Egyptian State\"; Visual and Written Culture in Ancient Egypt. Oxford University Press, 2007.",
+      "author": "John Baines",
+      "year": 2007,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Regulski, Ilona. A Palaeographic Study of Early Writing in Egypt. Peeters, 2010.",
+      "author": "Ilona Regulski",
+      "year": 2010,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Goldwasser, Orly. \"Cuneiform and Hieroglyphs in the Bronze Age: Script Contact and the Creation of New Scripts.\" In Pharaoh's Land and Beyond: Ancient Egypt and Its Neighbors, eds. Pearce, Creasman, Wilkinson. Oxford University Press, 2017.",
+      "author": "Orly Goldwasser",
+      "year": 2017,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Independent indigenous development, situated within state-formation/elite display practices",
+      "holders": [
+        {
+          "name": "John Baines",
+          "work": "Visual and Written Culture in Ancient Egypt",
+          "year": 2007,
+          "camp": "INDEPENDENT-DEVELOPMENT SCHOOL"
+        },
+        {
+          "name": "Ilona Regulski",
+          "work": "A Palaeographic Study of Early Writing in Egypt",
+          "year": 2010,
+          "camp": "INDEPENDENT-DEVELOPMENT SCHOOL"
+        }
+      ],
+      "strongest_case": "Regulski: proposed Sumerian/Elamite pictogram parallels to Predynastic Egyptian seals \"cannot be proved\" to show a proper writing system existed at that point comparable to the U-j labels — the seal-contact evidence establishes technology transfer, not sign-system transmission.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "General stimulus diffusion — awareness that writing was possible transmitted via documented Mesopotamian contact (cylinder seals) — without sign-borrowing",
+      "holders": [
+        {
+          "name": "Orly Goldwasser",
+          "work": "\"Cuneiform and Hieroglyphs in the Bronze Age\" (2017)",
+          "year": 2017,
+          "camp": "SCRIPT-CONTACT SCHOOL"
+        }
+      ],
+      "strongest_case": "Documented Mesopotamian cylinder-seal imports in Egyptian tombs from Naqada IIb-c (c. 3500-3300 BCE), with a distinctively Egyptian glyptic tradition emerging by Naqada IId (c. 3300 BCE) on a Middle Uruk technological base, establishes real, dated contact in the same window writing emerges.",
+      "status": "MINORITY"
+    }
+  ],
+  "does_not_demonstrate": [
+    "That Egyptian hieroglyphic signs were adapted from cuneiform signs (ADAPTATION is excluded by all named scholars)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "An older, discredited early-20th-century \"Dynastic Race Theory\" strand (Flinders Petrie and others) entangled Mesopotamia-priority arguments with racialized claims about a foreign \"dynastic race\" bringing civilization to Egypt; this has lost mainstream support and should not be conflated with the sober, evidence-based Baines/Regulski/Goldwasser debate that remains live today."
+}

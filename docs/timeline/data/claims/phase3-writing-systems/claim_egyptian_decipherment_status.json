@@ -1,0 +1,67 @@
+{
+  "id": "claim_egyptian_decipherment_status",
+  "subject_type": "Text",
+  "subject_id": "text_rosetta_stone",
+  "statement": "Egyptian hieroglyphs are DECIPHERED. The Rosetta Stone was discovered 1799; Thomas Young published a partial decipherment (Encyclopaedia Britannica supplement, 1819) correctly intuiting that cartouches enclosed royal names and proposing phonetic values for 13 signs, but limited to foreign (Ptolemy/Cleopatra) names and never generalized. Jean-François Champollion's 1822 Lettre à M. Dacier was the decisive breakthrough: he recognized the phonetic principle was NOT limited to foreign names but applied generally to native Egyptian words, meaning hieroglyphic writing was fundamentally a mixed phonetic-and-ideographic system throughout — the distinction that separates \"Champollion alone solved it\" (an oversimplification) from \"Young essentially solved it first\" (also not accurate); modern historiography credits Champollion with the decisive, generalizing breakthrough while acknowledging Young's real contributory role. Actual pronunciation of Egyptian remains substantially a modern scholarly reconstruction, since hieroglyphic writing omits vowels in most cases — a genuine limitation distinct from the script/grammar being unread.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "INSCRIPTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Champollion, Jean-François. Lettre à M. Dacier relative à l'alphabet des hiéroglyphes phonétiques. 1822.",
+      "author": "Jean-François Champollion",
+      "year": 1822,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Young, Thomas. Partial hieroglyphic decipherment, Encyclopaedia Britannica supplement, 1819.",
+      "author": "Thomas Young",
+      "year": 1819,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Faulkner, Raymond O. A Concise Dictionary of Middle Egyptian. Griffith Institute, Oxford, 1962.",
+      "author": "Raymond O. Faulkner",
+      "year": 1962,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

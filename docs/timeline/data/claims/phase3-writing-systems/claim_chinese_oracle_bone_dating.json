@@ -1,0 +1,55 @@
+{
+  "id": "claim_chinese_oracle_bone_dating",
+  "subject_type": "Text",
+  "subject_id": "text_oracle_bone_inscriptions",
+  "statement": "The conventional c. 1250 BCE start date for the Wu Ding-era oracle bone corpus is corroborated by two independent methods: astronomical (Zhang Peiyu's analysis of five lunar-eclipse records in the \"Bin group\" oracle bones places Wu Ding's reign at 1250-1192 BCE) and radiocarbon (inscriptions attributed to Wu Ding dated to 1254-1197 BCE, ±10 years).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS",
+    "ASTRONOMICAL"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Keightley, David N. Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China. University of California Press, 1978.",
+      "author": "David N. Keightley",
+      "year": 1978,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "\"Radiocarbon Dating of Oracle Bones of Late Shang Period in Ancient China.\" Radiocarbon, Cambridge Core.",
+      "author": null,
+      "year": null,
+      "venue": "Radiocarbon",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,66 @@
+{
+  "id": "claim_neography_comparative_literature",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cherokee",
+  "statement": "A named comparative research program exists for modern individually-attributed script inventions, under the term \"neography\": Piers Kelly (linguistic anthropologist, Max Planck Institute / University of New England), across \"The Invention, Transmission and Evolution of Writing: Insights from the New Scripts of West Africa\" (2018, covering Vai/Bamum/Masaba comparatively), \"The Art of Not Being Legible: Invented Writing Systems as Technologies of Resistance in Mainland Southeast Asia\" (2018, covering Pahawh Hmong and other Southeast Asian cases), and \"Unsettled Scripts: Script Invention and the Bind of Digital Recognition\" (Modern Languages Open). No single Kelly paper treats Cherokee, Vai, Pahawh Hmong, and N'Ko together as one set — each covers a regional subset — so this should be characterized as an active but recent/fragmented research program, not a single canonical synthesis text. Stephen Houston's edited The First Writing: Script Invention as History and Process (Cambridge UP, 2004) covers a different topic (ancient first-writing systems: cuneiform, proto-Elamite, Egyptian, Chinese, Mesoamerican) and should not be cited as covering these modern cases despite the similar title.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Kelly, Piers. \"The Invention, Transmission and Evolution of Writing: Insights from the New Scripts of West Africa.\" In Paths into Script Formation in the Ancient Mediterranean, 2018.",
+      "author": "Piers Kelly",
+      "year": 2018,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Kelly, Piers. \"The Art of Not Being Legible: Invented Writing Systems as Technologies of Resistance in Mainland Southeast Asia.\" 2018.",
+      "author": "Piers Kelly",
+      "year": 2018,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Houston, Stephen (ed.). The First Writing: Script Invention as History and Process. Cambridge University Press, 2004.",
+      "author": "Stephen Houston",
+      "year": 2004,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Houston 2004 covers modern individually-attributed script inventions (it does not — flagged to prevent miscitation)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "claim_linear_a_2026_ai_claim_unverified",
+  "subject_type": "Text",
+  "subject_id": "text_linear_a_tablets",
+  "statement": "A mid-2026 claimed decipherment of Linear A by self-taught AI/ML engineer Tom Di Mino (first reported ~30 July 2026, expanded ~13 August 2026), identifying the underlying language as Semitic with a 40-42 sign readings, a 408-508-word lexicon, and ~443 proposed translations built using AI-assisted text organization and comparative work against Semitic inscriptions, is under review by linguists at Rutgers and Cambridge, has no peer-reviewed publication, and no independent confirmation. Di Mino has no formal linguistics training, and the field treats the claim with explicit \"calibrated skepticism\" given a long history of failed amateur Linear A decipherment claims. This claim does NOT change decipherment_status from UNDECIPHERED and should not be pre-encoded as resolved.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z6",
+  "zoom_max": "Z7",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "LOW",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "GreekReporter.com coverage of the Di Mino Linear A claim, 30 Jul 2026 and 13 Aug 2026.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "AI Insiders, \"An AI Engineer Says He Decoded Linear A. Here Is What He Actually Showed.\"",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Linear A has been deciphered (this remains an unpublished, unreviewed, contested claim as of the current date)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Included specifically as a live example of the \"definitely says X\" popular-overclaim risk this project is built to catch — do not let this claim's existence read as endorsement."
+}

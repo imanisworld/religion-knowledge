@@ -1,0 +1,66 @@
+{
+  "id": "claim_rongorongo_fischer_decipherment_rejected",
+  "subject_type": "Text",
+  "subject_id": "text_rongorongo_tablets",
+  "statement": "Steven Roger Fischer (Rongorongo, the Easter Island Script: History, Traditions, Texts, Oxford University Press, 1997) claimed the Santiago Staff tablet encodes a repeating cosmogonic/creation-chant formula (\"X copulated with Y; there issued forth Z\"), based on a sign he read as \"copulate,\" recurring 564 times. This claim is not accepted by the field: Jacques B.M. Guy (1998 review/critique) and Konstantin Pozdniakov (\"Les Bases du Déchiffrement de l'Écriture de l'Ile de Pâques,\" Journal de la Société des Océanistes, 1996) argue the statistical/structural patterns Fischer relied on arise from the script's own repetitive internal triadic sign-grouping structure and generic Polynesian chant-formula patterns, not from content specific to his proposed reading — making the \"decipherment\" effectively unfalsifiable.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Oceania"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": "Fischer [DECIPHERMENT-CLAIM] vs. Guy and Pozdniakov [SPECIFIC, NAMED REJECTION] — this is a settled minority rejection, not an open dispute; the field does not accept Fischer's reading.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Fischer, Steven Roger. Rongorongo, the Easter Island Script: History, Traditions, Texts. Oxford University Press, 1997.",
+      "author": "Steven Roger Fischer",
+      "year": 1997,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Pozdniakov, Konstantin. \"Les Bases du Déchiffrement de l'Écriture de l'Ile de Pâques.\" Journal de la Société des Océanistes, 1996.",
+      "author": "Konstantin Pozdniakov",
+      "year": 1996,
+      "venue": "Journal de la Société des Océanistes",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Guy, Jacques B.M. Review/critique of Fischer 1997, 1998.",
+      "author": "Jacques B.M. Guy",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

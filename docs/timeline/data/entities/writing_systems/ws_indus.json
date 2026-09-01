@@ -1,0 +1,17 @@
+{
+  "id": "ws_indus",
+  "name": "Indus Valley Script",
+  "origin_type": "UNCERTAIN",
+  "date_range": {
+    "earliest": -2600,
+    "latest": -1900,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "South Asia"
+  ],
+  "script_type": "UNKNOWN",
+  "descends_from": [],
+  "notes": "origin_type is conditional: IF this is writing, INDEPENDENT is the best-supported classification (no evidence of derivation from Mesopotamian cuneiform or Egyptian hieroglyphs, despite documented Indus-Mesopotamia trade contact via \"Meluhha\"). But whether the ~400-sign corpus constitutes writing at all is a live, unresolved dispute — see claim_indus_writing_status_disputed. Precursor sign-like marks on Ravi-phase pottery go back to c. 3900-2800 BCE and are treated as proto-signs, not confirmed script."
+}

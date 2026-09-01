@@ -1,0 +1,109 @@
+{
+  "id": "claim_cuneiform_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cuneiform",
+  "statement": "Cuneiform is classified by current scholarship as (probably) INDEPENDENT: the only major early writing tradition, alongside Chinese and Mesoamerican scripts, generally accepted as having no antecedent contact-based model. The positive evidentiary basis is a multi-millennium local \"token-to-tablet\" continuity: small clay counting tokens (attested from the Neolithic, 8th millennium BCE) evolving through sealed clay envelope-bullae into flat impressed/incised tablets, entirely within Mesopotamia, with no comparable intermediate stage found anywhere else prior.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Schmandt-Besserat, Denise. Before Writing, Vol. 1: From Counting to Cuneiform. University of Texas Press, 1992.",
+      "author": "Denise Schmandt-Besserat",
+      "year": 1992,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Nissen, Hans J., Peter Damerow, and Robert K. Englund. Archaic Bookkeeping: Writing and Techniques of Economic Administration in the Ancient Near East. University of Chicago Press, 1993.",
+      "author": "Nissen, Damerow, Englund",
+      "year": 1993,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Cuneiform Digital Library Initiative (CDLI), periods reference, dating proto-cuneiform Uruk IV to c. 3350-3200 BCE.",
+      "author": null,
+      "year": null,
+      "venue": "CDLI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Tokens directly and mechanically became writing via bullae-impression (strong continuity thesis)",
+      "holders": [
+        {
+          "name": "Denise Schmandt-Besserat",
+          "work": "Before Writing (1992); How Writing Came About (1996)",
+          "year": 1992,
+          "camp": "ARCHAEOLOGICAL CONTINUITY SCHOOL"
+        }
+      ],
+      "strongest_case": "A documented, traceable multi-millennium sequence from Neolithic clay tokens through sealed bullae to flat impressed tablets, entirely within Mesopotamia.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "The token-shape/meaning correlations are overgeneralized across too vast a span of time and geography, and the strong direct-descent mechanism is not established outside a narrow window",
+      "holders": [
+        {
+          "name": "Piotr Michalowski",
+          "work": "1993 review of Before Writing",
+          "year": 1993,
+          "camp": "CRITICAL QUALIFICATION SCHOOL"
+        },
+        {
+          "name": "Paul Zimansky",
+          "work": "1993 review of Before Writing",
+          "year": 1993,
+          "camp": "CRITICAL QUALIFICATION SCHOOL"
+        },
+        {
+          "name": "Jean-Jacques Glassner",
+          "work": "The Invention of Cuneiform: Writing in Sumer (Johns Hopkins UP, 2003; French orig. 2000)",
+          "year": 2003,
+          "camp": "CRITICAL QUALIFICATION SCHOOL"
+        }
+      ],
+      "strongest_case": "Archaeological context for most tokens is unrecoverable; the chronology (envelopes reliably predating writing) is not established from the Eastern Mediterranean to the Indus; the token system is only one strand feeding into writing, alongside pictography and seal practice.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [
+    "That every individual token/tablet find independently corroborates the general theory",
+    "That the mechanism is settled consensus rather than a broadly-accepted core insight with a contested strong version"
+  ],
+  "adversarial_counter": "The broadly accepted claim (\"writing grew out of accounting/counting practice\") should not be conflated with the specific, more contested claim (\"tokens were mechanically converted into writing via bullae-impression\") — this project has previously mis-stated a similarly narrow methodological finding as a settled conclusion (cf. CLAUDE.md's eleph-census pattern) and should not repeat it here.",
+  "status": "verified",
+  "notes": "origin_type field itself (INDEPENDENT) is HIGH confidence; the Schmandt-Besserat mechanism specifically is DISPUTED — see interpretations[]."
+}

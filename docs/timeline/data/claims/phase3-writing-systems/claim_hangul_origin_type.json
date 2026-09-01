@@ -1,0 +1,58 @@
+{
+  "id": "claim_hangul_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_hangul",
+  "statement": "Hangul was created under King Sejong the Great (r. 1418-1450), completed December 1443, promulgated 1446 (Hunminjeongeum, a 33-page document, UNESCO Memory of the World register). The Hunminjeongeum Haerye, rediscovered 1940 in Andong, Gyeongsang Province, is a companion commentary directly explaining the featural design logic: basic consonant shapes are stylized diagrams of the articulatory organs producing each sound, systematized through a heaven/earth/human philosophical framework for vowels — an unusually direct primary document of a script's own design intent. Sejong knew of the concept of writing (Chinese characters were already Korea's established administrative/literary script) but designed original, non-derivative letterforms — the calibration case for STIMULUS_DIFFUSION combined with genuine novel featural design (⟨INFERENCE⟩: mapping this documented situation onto Kroeber's \"stimulus diffusion\" category, 1940, is this claim's own inference, not a term any cited scholar applies to Hangul verbatim).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1443,
+    "latest": 1446,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "UNESCO Memory of the World, \"Hunminjeongum Manuscript\" register entry.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Kroeber, A.L. \"Stimulus Diffusion.\" American Anthropologist 42(1), 1940.",
+      "author": "A.L. Kroeber",
+      "year": 1940,
+      "venue": "American Anthropologist",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

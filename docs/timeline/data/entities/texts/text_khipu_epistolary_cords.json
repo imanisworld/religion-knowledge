@@ -1,0 +1,24 @@
+{
+  "id": "text_khipu_epistolary_cords",
+  "name": "Epistolary/Narrative Khipu Corpus",
+  "writing_system_id": "ws_khipu",
+  "decipherment_status": "DISPUTED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": 1400,
+      "latest": 1600,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": 1400,
+      "latest": 1600,
+      "precision": "CENTURY",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "South America"
+  ],
+  "notes": "Gary Urton (Signs of the Inka Khipu, University of Texas Press, 2003) argues khipu construction encodes binary-coded information beyond pure accounting. Newer analyzed cords with up to 95 distinct symbols (within logosyllabic range) and Zipf/Shannon-entropy statistical signatures consistent with natural-language structure have been reported, but no confirmed reading of narrative content exists. Mainstream caution holds most khipu are confidently readable only as numerical/accounting records — genuinely DISPUTED, not resolved either direction."
+}

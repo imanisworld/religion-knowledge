@@ -1,0 +1,17 @@
+{
+  "id": "ws_khipu",
+  "name": "Khipu (Quipu)",
+  "origin_type": "UNCERTAIN",
+  "date_range": {
+    "earliest": 1400,
+    "latest": 1600,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "South America"
+  ],
+  "script_type": "UNKNOWN",
+  "descends_from": [],
+  "notes": "Andean knotted-string recording devices (Inka and predecessor cultures). Whether khipu constitute writing at all — as opposed to a purely numerical/mnemonic accounting device — is itself a live, unresolved dispute, not merely an origin-type question; see claim_khipu_writing_status_disputed. Confidently read as numerical/accounting records; narrative/linguistic content (argued for by Urton 2003 and subsequent statistical work) remains unconfirmed by any accepted decipherment."
+}

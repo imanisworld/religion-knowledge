@@ -1,0 +1,97 @@
+{
+  "id": "claim_epi_olmec_decipherment_disputed",
+  "subject_type": "Text",
+  "subject_id": "text_la_mojarra_stela_1",
+  "statement": "Justeson, John S., and Terrence Kaufman (\"A Decipherment of Epi-Olmec Hieroglyphic Writing,\" Science 259(5102), 1993, pp. 1703-1711) claimed a decipherment of La Mojarra Stela 1 identifying the underlying language as pre-proto-Zoquean. Houston, Stephen D., and Michael D. Coe (\"Has Isthmian Writing Been Deciphered?\" Mexicon 25, 2003, pp. 151-161) argue Justeson and Kaufman imposed Mayan grammatical/spelling assumptions onto Epi-Olmec signs, and that the system failed an independent test when applied to a Teotihuacan-style Isthmian-script mask. Andrew Robinson's Lost Languages (2008 ed.) summarizes the field's state as \"decidedly unproven.\" Justeson and Kaufman have continued defending and refining the decipherment — this remains an active, unresolved two-camp dispute, not a settled decipherment.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Justeson and Kaufman [DECIPHERMENT-CLAIM SCHOOL] maintain the pre-proto-Zoquean reading; Houston and Coe [SKEPTICAL SCHOOL] argue the method imposed Mayan assumptions and failed an independent test.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Justeson, John S., and Terrence Kaufman. \"A Decipherment of Epi-Olmec Hieroglyphic Writing.\" Science 259(5102), 1993: 1703-1711.",
+      "author": "Justeson and Kaufman",
+      "year": 1993,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Houston, Stephen D., and Michael D. Coe. \"Has Isthmian Writing Been Deciphered?\" Mexicon 25, 2003: 151-161.",
+      "author": "Houston and Coe",
+      "year": 2003,
+      "venue": "Mexicon",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Robinson, Andrew. Lost Languages: The Enigma of the World's Undeciphered Scripts. Thames & Hudson, 2nd ed., 2009.",
+      "author": "Andrew Robinson",
+      "year": 2009,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Epi-Olmec script has been deciphered; underlying language is pre-proto-Zoquean",
+      "holders": [
+        {
+          "name": "John S. Justeson",
+          "camp": "DECIPHERMENT-CLAIM SCHOOL"
+        },
+        {
+          "name": "Terrence Kaufman",
+          "camp": "DECIPHERMENT-CLAIM SCHOOL"
+        }
+      ],
+      "strongest_case": "A internally consistent reading of La Mojarra Stela 1 and the Tuxtla Statuette against a reconstructed pre-proto-Zoquean grammar, defended and refined against later challenges.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "The claimed decipherment is unproven; the method imposed external (Mayan) grammatical assumptions and failed independent testing",
+      "holders": [
+        {
+          "name": "Stephen D. Houston",
+          "camp": "SKEPTICAL SCHOOL"
+        },
+        {
+          "name": "Michael D. Coe",
+          "camp": "SKEPTICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "Applying the Justeson-Kaufman system to an independent Isthmian-script object (a Teotihuacan-style mask) did not produce a coherent parse.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

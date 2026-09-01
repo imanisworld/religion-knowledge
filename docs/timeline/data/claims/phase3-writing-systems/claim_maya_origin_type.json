@@ -1,0 +1,55 @@
+{
+  "id": "claim_maya_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_maya_script",
+  "statement": "The relationship between Maya script and earlier Mesoamerican traditions (Olmec-associated symbols, Zapotec script) is unresolved, not a settled linear derivation. The \"mother culture\" (Olmec as single ancestral source) vs. \"sister cultures\" (multiple simultaneous, mutually-influencing regional developments) debate, documented by Kent V. Flannery and Joyce Marcus (University of Michigan) and David C. Grove (University of Illinois) for Mesoamerican archaeology generally, extends to writing specifically: the pre-2006 assumption of Maya writing deriving from an earlier Olmec or Zapotec source is complicated by the 2005-2006 San Bartolo discovery, which shows a mature, fully developed Maya script by c. 300-200 BCE with no obvious transitional forms linking back to Olmec symbols — leading several scholars to regard Maya writing as plausibly a separate \"homegrown\" development. The macro-level claim that Mesoamerican writing as a whole developed with no Old World contact is on much firmer ground than any micro-level claim about which Mesoamerican tradition gave rise to which other.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "UNKNOWN",
+  "scholarly_disagreement": "\"Mother culture\" (Olmec-derived) vs. \"sister cultures\" (independent regional development) framings both have named proponents and neither is settled for the specific case of script derivation.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Saturno, William A., David Stuart, and Boris Beltrán. \"Early Maya Writing at San Bartolo, Guatemala.\" Science 311(5765), 2006: 1281-1283.",
+      "author": "Saturno, Stuart, Beltrán",
+      "year": 2006,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Marcus, Joyce. Mesoamerican Writing Systems. Princeton University Press, 1992.",
+      "author": "Joyce Marcus",
+      "year": 1992,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": "Full text not directly accessible this session (network egress blocked); position on Zapotec-as-independent-candidate not independently confirmed beyond secondary framing."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "A confirmed single-source derivation chain from Olmec through Zapotec/Epi-Olmec to Maya"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "I could not directly verify Marcus's own position on whether Zapotec writing is a plausible independent-origin candidate (her 1992 book and the Michigan Oaxaca-project pages were blocked from direct fetch this session) — flagged for follow-up."
+}

@@ -1,0 +1,80 @@
+{
+  "id": "claim_brahmi_aramaic_contested",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_brahmi",
+  "statement": "The Aramaic-derivation hypothesis for Brahmi dates to Albrecht Weber (1856) and has been the traditionally dominant candidate, tied to Achaemenid Persian administrative use of Aramaic in the Indus Valley from the 6th century BCE onward. However, no scholar has produced an adequate letter-by-letter derivation from Aramaic to Brahmi, and significant structural mismatches remain unexplained (including versus the related, more securely Aramaic-derived Kharoṣṭhī script). Richard Salomon (the standard reference scholar for Indian epigraphy) is engaged in this debate, specifically disputing claims of pre-Aśokan Brahmi inscriptions as \"pseudo-inscriptions\"/graffiti rather than genuine early Brahmi, which bears on the dating evidence relevant to any diffusion argument. A rival indigenous/Indus-script-derivation hypothesis exists but is characterized in current literature as speculative given the total absence of material evidence across the ~1000+ year gap between the Indus script's disappearance and Brahmi's appearance.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "South Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Weber's (1856) Aramaic-derivation hypothesis lacks a confirmed letter-by-letter derivation; a rival indigenous-origin hypothesis is called speculative by the same literature. Neither is settled.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Weber, Albrecht. Original Aramaic-derivation hypothesis for Brahmi, 1856.",
+      "author": "Albrecht Weber",
+      "year": 1856,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Salomon, Richard. Indian Epigraphy. Oxford University Press, 1998.",
+      "author": "Richard Salomon",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": "Salomon's specific positive position on Aramaic-vs-indigenous origin (as opposed to his separately verified work disputing pre-Aśokan Brahmi dating claims) was not independently confirmed to primary-text level this session — flagged for follow-up."
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Brahmi derives from Aramaic script, transmitted via Achaemenid administrative use in the Indus Valley from the 6th century BCE",
+      "holders": [
+        {
+          "name": "Albrecht Weber",
+          "work": "Original hypothesis, 1856",
+          "year": 1856,
+          "camp": "ARAMAIC-DERIVATION SCHOOL"
+        }
+      ],
+      "strongest_case": "Documented Achaemenid Persian administrative presence and Aramaic use in the Indus Valley region predating Brahmi's appearance, and Kharoṣṭhī (a neighboring script) IS securely Aramaic-derived, establishing the transmission channel was live.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "Brahmi is an indigenous development, possibly with roots reaching back toward the Indus script tradition",
+      "holders": [
+        {
+          "name": "Unnamed proponents of the indigenous-origin hypothesis, per the surveyed literature",
+          "camp": "INDIGENOUS-ORIGIN SCHOOL"
+        }
+      ],
+      "strongest_case": "No adequate letter-by-letter Aramaic-to-Brahmi derivation has ever been produced, and structural mismatches with Aramaic (including relative to the more securely Aramaic-derived Kharoṣṭhī) remain unexplained.",
+      "status": "MINORITY"
+    }
+  ],
+  "does_not_demonstrate": [
+    "A confirmed, letter-by-letter Aramaic-to-Brahmi derivation"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

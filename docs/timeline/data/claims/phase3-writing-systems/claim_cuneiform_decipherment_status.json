@@ -1,0 +1,54 @@
+{
+  "id": "claim_cuneiform_decipherment_status",
+  "subject_type": "Text",
+  "subject_id": "text_behistun_inscription",
+  "statement": "Sumerian cuneiform and Akkadian/Babylonian cuneiform are both DECIPHERED. Decipherment proceeded via Old Persian cuneiform first (Grotefend 1802 partial breakthrough on ~10 of 37 signs; Rask 1826; Burnouf and Lassen 1836; Rawlinson's copying of the trilingual Behistun Inscription 1835-1847, published 1846-1847), then Akkadian/Babylonian, publicly confirmed on 29 May 1857 when the Royal Asiatic Society sent a newly discovered Assyrian text in sealed envelopes to four scholars working independently (Rawlinson, Edward Hincks, Jules Oppert, and William Henry Fox Talbot); their translations converged closely. Sumerian, a language isolate, was recoverable chiefly via bilingual Sumerian-Akkadian lexical lists preserved by later scribes. Despite DECIPHERED status, the sign system is large and highly polyphonic, many tablets are damaged, and Sumerian as a language remains imperfectly understood in places despite the script itself being fully read.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "INSCRIPTION"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Rawlinson, Henry Creswicke. The Persian Cuneiform Inscription at Behistun, Deciphered and Translated. 1846-1847.",
+      "author": "Henry Rawlinson",
+      "year": 1846,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Account of the 29 May 1857 Royal Asiatic Society blind-translation test of Rawlinson, Hincks, Oppert, and Fox Talbot on a Tiglath-Pileser I prism text.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Exact Rawlinson Behistun publication date(s) split 1846/1847/1849 across sources, likely reflecting multi-part publication — flagged, not fully resolved."
+}

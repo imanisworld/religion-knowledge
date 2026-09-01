@@ -1,0 +1,103 @@
+{
+  "id": "claim_indus_writing_status_disputed",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_indus",
+  "statement": "Whether the ~400-sign Indus corpus constitutes writing at all is a live, unresolved dispute. Steve Farmer, Richard Sproat, and Michael Witzel (\"The Collapse of the Indus-Script Thesis: The Myth of a Literate Harappan Civilization,\" Electronic Journal of Vedic Studies 11(2), 2004, pp. 19-57) argue inscription brevity, non-increasing sign combinatorics over 600+ years of use, and statistical properties inconsistent with known linguistic scripts point to a non-linguistic system of religious/political/clan emblems, closer to heraldry than writing. Asko Parpola (Deciphering the Indus Script, Cambridge University Press, 1994) and Rajesh P.N. Rao et al. (\"Entropic Evidence for Linguistic Structure in the Indus Script,\" Science 324(5931), 2009: 1165) argue the script's conditional-entropy pattern statistically resembles known linguistic sequences rather than non-linguistic sign systems; Sproat disputed the strength of the entropy argument alone, and Rao et al. clarified they never claimed entropy similarity alone proves linguistic status. The exchange is genuinely unresolved — cite both sides, not one as winning. Parpola's Dravidian-family hypothesis for the underlying language (if any) is the most published proposal but lacks consensus; a politically-motivated January 2025 Tamil Nadu state decipherment prize tied to a Dravidian-identity claim is not peer-reviewed evidence and should not be treated as resolving the question.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "South Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Farmer/Sproat/Witzel [NOT-WRITING SCHOOL] vs. Parpola / Rao et al. [PROBABLY-WRITING SCHOOL] — genuinely unresolved as of the most current literature reviewed.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Farmer, Steve, Richard Sproat, and Michael Witzel. \"The Collapse of the Indus-Script Thesis: The Myth of a Literate Harappan Civilization.\" Electronic Journal of Vedic Studies 11(2), 2004: 19-57.",
+      "author": "Farmer, Sproat, Witzel",
+      "year": 2004,
+      "venue": "Electronic Journal of Vedic Studies",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Parpola, Asko. Deciphering the Indus Script. Cambridge University Press, 1994.",
+      "author": "Asko Parpola",
+      "year": 1994,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Rao, Rajesh P.N., Nisha Yadav, Mayank N. Vahia, Hrishikesh Joglekar, R. Adhikari, and Iravatham Mahadevan. \"Entropic Evidence for Linguistic Structure in the Indus Script.\" Science 324(5931), 2009: 1165. DOI 10.1126/science.1170391.",
+      "author": "Rao et al.",
+      "year": 2009,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "The Indus corpus is not writing — a non-linguistic heraldic/emblematic sign system",
+      "holders": [
+        {
+          "name": "Steve Farmer",
+          "camp": "NOT-WRITING SCHOOL"
+        },
+        {
+          "name": "Richard Sproat",
+          "camp": "NOT-WRITING SCHOOL"
+        },
+        {
+          "name": "Michael Witzel",
+          "camp": "NOT-WRITING SCHOOL"
+        }
+      ],
+      "strongest_case": "Inscription brevity, non-increasing sign combinatorics over 600+ years, and statistical properties inconsistent with known linguistic scripts.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "The Indus corpus is probably writing, encoding an unidentified (possibly Dravidian) language",
+      "holders": [
+        {
+          "name": "Asko Parpola",
+          "camp": "PROBABLY-WRITING SCHOOL"
+        },
+        {
+          "name": "Rajesh P.N. Rao",
+          "camp": "PROBABLY-WRITING SCHOOL"
+        }
+      ],
+      "strongest_case": "Conditional-entropy statistical patterns resembling known linguistic sequences (Rao et al. 2009, Science).",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [
+    "That the January 2025 Tamil Nadu decipherment-prize announcement constitutes new peer-reviewed evidence resolving the underlying-language question"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

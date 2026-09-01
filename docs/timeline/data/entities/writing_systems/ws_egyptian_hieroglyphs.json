@@ -1,0 +1,17 @@
+{
+  "id": "ws_egyptian_hieroglyphs",
+  "name": "Egyptian Hieroglyphs",
+  "origin_type": "INDEPENDENT",
+  "date_range": {
+    "earliest": -3320,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "script_type": "LOGOSYLLABIC",
+  "descends_from": [],
+  "notes": "`latest: null` reflects that hieroglyphic use is conventionally described as ending in Late Antiquity (the last securely dated hieroglyphic inscription is often cited as the Philae temple graffito of 394 CE); that endpoint was not independently re-verified this session and should not be read as \"still in active use\" — flagged for follow-up. Whether Egyptian hieroglyphs are independent of or influenced by contact with proto-cuneiform Mesopotamia (stimulus diffusion of the general idea of writing, not sign-borrowing) is a live, unresolved question — see claim_egyptian_origin_type."
+}

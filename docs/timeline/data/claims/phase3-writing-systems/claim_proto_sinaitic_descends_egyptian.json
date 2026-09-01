@@ -1,0 +1,55 @@
+{
+  "id": "claim_proto_sinaitic_descends_egyptian",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_proto_sinaitic",
+  "statement": "Proto-Sinaitic script is an acrophonic adaptation of a small subset of Egyptian hieroglyphic signs, established by Alan H. Gardiner (\"The Egyptian Origin of the Semitic Alphabet,\" Journal of Egyptian Archaeology 3, 1916, pp. 1-16), who deciphered the Sinai inscriptions as encoding the Semitic goddess name Ba'alat using Egyptian signs repurposed by their first sound in the Semitic word for the pictured object. Orly Goldwasser (2006-2020) has extended this framework and proposed a tightened c. 1850 BCE core dating tied to Middle Kingdom mining seasons at Serabit el-Khadim; the Wadi el-Hol inscriptions independently date to roughly the same window.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Western Asia",
+    "Africa"
+  ],
+  "evidence_types": [
+    "INSCRIPTION",
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Gardiner, Alan H. \"The Egyptian Origin of the Semitic Alphabet.\" Journal of Egyptian Archaeology 3, 1916: 1-16.",
+      "author": "Alan H. Gardiner",
+      "year": 1916,
+      "venue": "Journal of Egyptian Archaeology",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Goldwasser, Orly. Body of work 2006-2020 on Serabit el-Khadim dating and Proto-Sinaitic mechanism.",
+      "author": "Orly Goldwasser",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,17 @@
+{
+  "id": "ws_cuneiform",
+  "name": "Cuneiform",
+  "origin_type": "INDEPENDENT",
+  "date_range": {
+    "earliest": -3350,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Western Asia"
+  ],
+  "script_type": "LOGOSYLLABIC",
+  "descends_from": [],
+  "notes": "Proto-cuneiform (Uruk IV, c. 3350-3200 BCE) is administrative/economic proto-writing, not yet a full phonetic system; mature logo-syllabic cuneiform capable of recording continuous language develops over the Early Dynastic period (to c. 2900 BCE). `latest: null` reflects that this research batch verified the origin and decipherment history, not the script's end-of-use date (commonly cited as a 1st-century-CE astronomical almanac); that endpoint was not independently re-verified this session and should not be read as \"still in active use\" — flagged for a dedicated follow-up pass. See claim_cuneiform_origin_type and claim_cuneiform_decipherment_status."
+}

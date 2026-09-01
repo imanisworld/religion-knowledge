@@ -1,0 +1,19 @@
+{
+  "id": "text_cascajal_block",
+  "name": "Cascajal Block",
+  "writing_system_id": "ws_epi_olmec",
+  "decipherment_status": "UNDECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -900,
+      "latest": -900,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": null
+  },
+  "region": [
+    "North America"
+  ],
+  "notes": "Discovered in the late 1990s near Lomas de Tacamichapan, Veracruz, in a debris pile — not found in situ/stratified excavation. The ~900 BCE date rests on associated pottery/figurine dating, not direct stratigraphy of the block itself. Authenticity is disputed (David Grove, Christopher Pool have voiced skepticism; Englehardt et al. 2020 material-science analysis supports genuine Formative-period manufacture without resolving the stratigraphic-context problem). Never read; UNDECIPHERED regardless of the authenticity question. See claim_cascajal_authenticity_disputed."
+}

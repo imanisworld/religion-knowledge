@@ -1,0 +1,40 @@
+{
+  "id": "claim_phoenician_descends_proto_sinaitic",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_phoenician",
+  "statement": "Phoenician script descends from Proto-Sinaitic/Proto-Canaanite. The conventional \"c. 1050 BCE\" cutoff for \"Phoenician alphabet begins\" is an artifact of a gap in the epigraphic record, not a confirmed founding date; the actual process is a gradual post-Proto-Canaanite standardization phase spanning roughly the late 10th-early 9th century BCE, with a fully standardized 22-letter script emerging c. 1000-900 BCE. The oldest securely dated Phoenician inscriptions are from the 10th century BCE.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General epigraphic literature on Proto-Canaanite/Phoenician transition, converging on c. 1000-900 BCE standardization.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

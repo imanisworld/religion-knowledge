@@ -1,0 +1,24 @@
+{
+  "id": "text_hunminjeongeum_haerye",
+  "name": "Hunminjeongeum Haerye",
+  "writing_system_id": "ws_hangul",
+  "decipherment_status": "DECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": 1446,
+      "latest": 1446,
+      "precision": "YEAR",
+      "date_semantics": "EVENT_DATE"
+    },
+    "earliest_witness_date": {
+      "earliest": 1446,
+      "latest": 1446,
+      "precision": "YEAR",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "East Asia"
+  ],
+  "notes": "The companion commentary explaining Hangul's featural design rationale, promulgated 1446, rediscovered 1940 in Andong. An unusually direct surviving primary document of a script's own design intent — most scripts have no comparable contemporary explanation."
+}

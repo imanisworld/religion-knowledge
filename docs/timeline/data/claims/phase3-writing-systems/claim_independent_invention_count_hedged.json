@@ -1,0 +1,65 @@
+{
+  "id": "claim_independent_invention_count_hedged",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cuneiform",
+  "statement": "John DeFrancis (The Chinese Language: Fact and Fantasy, University of Hawaii Press, 1984) states: \"the idea of using a pictograph in the new function of representing sound may have occurred only three times: once in Mesopotamia, perhaps by the Sumerians, once in China, apparently by the Chinese themselves, and once in Central America, by the Mayas\" — a three-way minimal count excluding Egypt as independent. The current mainstream range is four pristine/independent inventions (Sumer, Egypt, China, Mesoamerica), with Egypt's independence itself contested (see claim_egyptian_origin_type) — which would drop the count back to three if Egypt is read as stimulus-diffused. Genuinely live additional candidates that could extend the range further: the Indus script (contested whether it is writing at all — claim_indus_writing_status_disputed) and rongorongo (contested pre/post-contact dating — claim_rongorongo_dating_disputed, strengthened somewhat by 2024 radiocarbon evidence). Recommended hedged figure: 3 to 5, depending on how these contested cases are counted, not a single point figure.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z5",
+  "region": [],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "DeFrancis's minimal 3-way count (Sumer/China/Maya) vs. the broader modern 4-way count (adding Egypt) vs. an extended 5-way range if Indus and/or rongorongo are eventually confirmed as independent writing — genuinely unresolved, hedge rather than pick one number.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "DeFrancis, John. The Chinese Language: Fact and Fantasy. University of Hawaii Press, 1984.",
+      "author": "John DeFrancis",
+      "year": 1984,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Independent invention of writing occurred a minimal three times: Mesopotamia, China, Mesoamerica (Maya) — Egypt excluded as independent",
+      "holders": [
+        {
+          "name": "John DeFrancis",
+          "work": "The Chinese Language: Fact and Fantasy",
+          "year": 1984,
+          "camp": "MINIMAL-COUNT SCHOOL"
+        }
+      ],
+      "strongest_case": "DeFrancis's own stated reasoning for excluding Egypt from the independent count as of his 1984 writing.",
+      "status": "MINORITY"
+    },
+    {
+      "position": "The mainstream modern count is four pristine/independent inventions (Sumer, Egypt, China, Mesoamerica), giving Egypt the benefit of the doubt on independence",
+      "holders": [
+        {
+          "name": "General comparative writing-origins literature surveyed this session",
+          "camp": "BROADER-COUNT SCHOOL"
+        }
+      ],
+      "strongest_case": "No confirmed sign-borrowing (ADAPTATION) links Egyptian hieroglyphs to cuneiform even under the stimulus-diffusion minority reading — see claim_egyptian_origin_type.",
+      "status": "MAJORITY"
+    }
+  ],
+  "does_not_demonstrate": [
+    "A single settled count of independent writing inventions"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

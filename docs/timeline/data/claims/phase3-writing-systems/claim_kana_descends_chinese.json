@@ -1,0 +1,40 @@
+{
+  "id": "claim_kana_descends_chinese",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_japanese_kana",
+  "statement": "Hiragana and katakana both derive from man'yōgana (Chinese characters used phonetically for Japanese sounds, traceable to the 5th century CE); hiragana emerged as cursive simplification of whole man'yōgana kanji, katakana by taking fragments/components of kanji, both taking recognizable shape in the 9th-century Heian period. The popular attribution of hiragana's invention to the monk Kūkai (774-835 CE) is a legend, not documented history: no signed document supports it, and modern scholarship has similarly revised the traditional Kūkai attribution for the Iroha poem to a later Heian-period date. The documented picture instead shows a gradual, collective, multi-decade development with no single named inventor.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General secondary/encyclopedic sourcing on man'yōgana-to-kana development and the Kūkai legend; not independently cross-checked against a primary Japanese-linguistics monograph this session.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": "Recommend checking Christopher Seeley, A History of Writing in Japan (Brill, 1991), directly before treating this as fully primary-sourced."
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Provisionally verified via tertiary/encyclopedic sources rather than a named academic monograph — flagged for a stronger citation pass if higher rigor is needed."
+}

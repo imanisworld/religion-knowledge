@@ -1,0 +1,24 @@
+{
+  "id": "text_la_mojarra_stela_1",
+  "name": "La Mojarra Stela 1",
+  "writing_system_id": "ws_epi_olmec",
+  "decipherment_status": "DISPUTED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": 157,
+      "latest": 162,
+      "precision": "YEAR",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": 1986,
+      "latest": 1986,
+      "precision": "YEAR",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "North America"
+  ],
+  "notes": "Discovered 1986, Veracruz; bears a Long Count date. Justeson and Kaufman (Science 259, 1993) claimed a decipherment identifying the underlying language as pre-proto-Zoquean; Houston and Coe (Mexicon 25, 2003) argue the claimed decipherment imposes Mayan grammatical/spelling assumptions and failed an independent test against a separate Isthmian-script mask. This is a live, named two-camp dispute; see claim_epi_olmec_decipherment_disputed."
+}

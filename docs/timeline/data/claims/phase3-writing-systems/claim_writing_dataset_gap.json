@@ -1,0 +1,51 @@
+{
+  "id": "claim_writing_dataset_gap",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cuneiform",
+  "statement": "No systematic, actively-maintained, structured (queryable) scholarly database of writing systems with decipherment-status/origin-classification metadata comparable to what this app's data model needs was found. ISO 15924 (maintained with the Unicode Consortium as registration authority, 210+ scripts) is a practical identification/encoding standard for software localization and digital text processing — useful as a script-existence checklist and ID reference, but carries no historical-origin, genealogical-descent, or decipherment-status metadata. Omniglot (founded by Simon Ager, 1998; 2,200+ languages, 365 writing systems) is real and actively maintained but hobbyist-academic, not peer-reviewed. The standard academic reference remains a static print/digital volume: The World's Writing Systems, ed. Peter T. Daniels and William Bright (Oxford University Press, 1996, ~80 signed scholarly articles), not a queryable database. The peer-reviewed journal Writing Systems Research (founded 2009) ceased publication in 2019 — a real, citable gap.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z7",
+  "region": [],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "ISO 15924 — Wikipedia; Unicode ISO 15924 Registration Authority.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Daniels, Peter T., and William Bright, eds. The World's Writing Systems. Oxford University Press, 1996.",
+      "author": "Daniels and Bright",
+      "year": 1996,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This is itself a documented data gap worth recording, not something to paper over, per this project's standing \"Unknown is a valid answer\" discipline."
+}

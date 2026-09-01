@@ -1,0 +1,23 @@
+{
+  "id": "ws_meroitic",
+  "name": "Meroitic Script",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -185,
+    "latest": 450,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "script_type": "MIXED",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_egyptian_hieroglyphs",
+      "confidence": "HIGH",
+      "claim_id": "claim_meroitic_descends_egyptian"
+    }
+  ],
+  "notes": "Used in the Kingdom of Kush/Meroe (Nile valley, modern Sudan). Two forms, both derived from Egyptian writing: hieroglyphic (descended from Egyptian hieroglyphs) and cursive (the majority of surviving texts, descended from Egyptian demotic). A strong PARTIAL-decipherment example: the 23-sign script's phonetic values were established by Francis Llewellyn Griffith (1909-1911), but the underlying Meroitic language remained largely unparsed for decades until Claude Rilly (CNRS) demonstrated it belongs to a Nilo-Saharan branch he named Northern East Sudanic (Rilly and de Voogt, Cambridge University Press, 2012)."
+}

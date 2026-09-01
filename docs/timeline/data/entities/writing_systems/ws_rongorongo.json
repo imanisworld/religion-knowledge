@@ -1,0 +1,17 @@
+{
+  "id": "ws_rongorongo",
+  "name": "Rongorongo",
+  "origin_type": "UNCERTAIN",
+  "date_range": {
+    "earliest": 1493,
+    "latest": 1900,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Oceania"
+  ],
+  "script_type": "UNKNOWN",
+  "descends_from": [],
+  "notes": "First documented by Europeans in the 1860s; roughly two dozen (24-27 depending on counting method) surviving authentic tablets. Whether it predates European contact (1722) is genuinely unresolved even in the most recent (2024) primary radiocarbon literature (Ferrara et al., Scientific Reports 2024) — one tablet's wood dated 1493-1509 CE, but the authors themselves declined to treat this as settling the pre/post-contact question given the \"old wood\" problem (dated felling, not inscribing) and a sample size of one. Coded UNCERTAIN rather than resolved toward either INDEPENDENT or STIMULUS_DIFFUSION."
+}

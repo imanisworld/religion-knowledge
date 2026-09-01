@@ -1,0 +1,54 @@
+{
+  "id": "claim_greek_descends_phoenician",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_greek",
+  "statement": "The Greek alphabet derives from Phoenician, c. 800-700 BCE, with a genuine structural innovation: the Greeks repurposed several Phoenician consonantal signs representing sounds absent from Greek (glottal/pharyngeal consonants — aleph, he, yod, ayin) as dedicated vowel letters (alpha, epsilon, iota, omicron), producing the first script with systematic vowel notation, distinct from Semitic matres lectionis (partial/optional vowel indication). Named authorities: Roger D. Woodard (grapheme-adaptation detail) and Barry B. Powell (argues the adaptation was purpose-driven, tied to recording Homeric epic). A live epigraphic debate exists over exactly how early/where transmission occurred, but the ~800 BCE date and the vowel-innovation mechanism itself are not contested.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Europe",
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Woodard, Roger D. Body of work on Phoenician-to-Greek grapheme adaptation.",
+      "author": "Roger D. Woodard",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Powell, Barry B. Body of work arguing Greek alphabetic adaptation was purpose-driven for recording epic verse.",
+      "author": "Barry B. Powell",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,23 @@
+{
+  "id": "ws_aramaic",
+  "name": "Aramaic Script",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -800,
+    "latest": -200,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Western Asia"
+  ],
+  "script_type": "ABJAD",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_phoenician",
+      "confidence": "HIGH",
+      "claim_id": "claim_aramaic_descends_phoenician"
+    }
+  ],
+  "notes": "Broad ancestor script behind Hebrew square script, Nabataean (-> Arabic), Syriac, and (contested — see ws_brahmi) possibly Brahmi. `latest` set to the Achaemenid-era window covered by this research batch; Aramaic-derived scripts persist to the present via descendants."
+}
