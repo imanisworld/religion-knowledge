@@ -1,0 +1,59 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/deity.schema.json",
+  "title": "Deity",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.1's Deity/Being node type — with `identifications[]` (cross-culture equations, each sourced and confidence-rated) and `domain_history[]` (domains change over time; no single-word freezing). Entities aggregate claims; they assert nothing on their own — every substantive statement about a Deity lives in a linked Claim (subject_type: Deity, subject_id: this entity's id), not inline here. The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "name", "region"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^dty_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name, e.g. 'Eshu/Elegua (Yoruba)', 'Nyame (Akan)'."
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "identifications": {
+      "type": "array",
+      "description": "Cross-culture equations (e.g. syncretic identifications made by practitioners or scholars), each independently sourced and confidence-rated — never asserted by mere name/domain similarity.",
+      "items": {
+        "type": "object",
+        "required": ["with_deity_id", "confidence", "claim_id"],
+        "properties": {
+          "with_deity_id": { "type": "string" },
+          "confidence": { "type": "string", "enum": ["HIGH", "MODERATE", "LOW", "DISPUTED", "UNKNOWN"] },
+          "claim_id": { "type": "string", "description": "The Claim that sources this identification." },
+          "note": { "type": ["string", "null"] }
+        }
+      }
+    },
+    "domain_history": {
+      "type": "array",
+      "description": "SPEC.md §7.1: domains change over time; no single-word freezing. Each entry needs a backing Claim.",
+      "items": {
+        "type": "object",
+        "required": ["domain", "claim_id"],
+        "properties": {
+          "domain": { "type": "string" },
+          "period": {
+            "type": ["object", "null"],
+            "properties": {
+              "earliest": { "type": ["integer", "null"] },
+              "latest": { "type": ["integer", "null"] },
+              "precision": { "type": "string", "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"] },
+              "date_semantics": { "type": "string", "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"] }
+            }
+          },
+          "claim_id": { "type": "string", "description": "The Claim that sources this domain attribution for this period." }
+        }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}
