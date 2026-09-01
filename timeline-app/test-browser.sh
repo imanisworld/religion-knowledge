@@ -26,19 +26,66 @@ setTimeout(() => {
     document.body.dataset.timelineRender = 'pass';
   }
 
-  const firstClaim = document.querySelector('#timeline [data-claim-id]');
-  if (firstClaim) firstClaim.click();
+  const parseZoom = (value) => {
+    const match = /^Z([0-7])$/.exec(String(value || ''));
+    return match ? Number(match[1]) : null;
+  };
+  const currentZoom = () => {
+    const value = Number(new URLSearchParams(location.search).get('z'));
+    return Number.isInteger(value) ? value : null;
+  };
+  const candidates = (window.TIMELINE_RESEARCH_DATA?.claims || []).filter((claim) => {
+    const min = parseZoom(claim.zoom_min);
+    const max = parseZoom(claim.zoom_max);
+    return ['verified', 'published'].includes(claim.status)
+      && Number.isFinite(claim.date?.earliest)
+      && Array.isArray(claim.region) && claim.region.length > 0
+      && min !== null && max !== null;
+  });
+
+  const target = candidates.find((claim) => parseZoom(claim.zoom_min) <= parseZoom(claim.zoom_max));
+  if (!target) return;
+
+  const targetZoom = parseZoom(target.zoom_min);
+  let guard = 0;
+  while (currentZoom() !== targetZoom && guard < 12) {
+    const z = currentZoom();
+    if (z === null) break;
+    const control = z < targetZoom ? document.getElementById('zoom-in') : document.getElementById('zoom-out');
+    if (!control) break;
+    control.click();
+    guard += 1;
+  }
+
+  const center = (target.date.earliest + (Number.isFinite(target.date.latest) ? target.date.latest : target.date.earliest)) / 2;
+  const jumpOpen = document.getElementById('jump-open');
+  const jumpInput = document.getElementById('jump-year');
+  const jumpSubmit = document.getElementById('jump-submit');
+  if (jumpOpen && jumpInput && jumpSubmit) {
+    jumpOpen.click();
+    jumpInput.value = String(Math.round(center));
+    jumpSubmit.click();
+  }
+
   setTimeout(() => {
-    const inspector = document.getElementById('inspector');
-    if (inspector?.open && document.getElementById('inspector-title')?.textContent) {
-      document.body.dataset.inspector = 'pass';
-    }
-    document.getElementById('inspector-close')?.click();
-    document.getElementById('view-toggle')?.click();
+    const targetClaim = document.querySelector(`#timeline [data-claim-id="${CSS.escape(target.id)}"]`);
+    if (!targetClaim) return;
+    document.body.dataset.zoomClaim = 'pass';
+    targetClaim.click();
+
     setTimeout(() => {
-      const listVisible = !document.getElementById('list-view')?.hidden;
-      const listClaims = document.querySelectorAll('#list-content [data-claim-id]').length;
-      if (listVisible && listClaims > 0) document.body.dataset.listView = 'pass';
+      const inspector = document.getElementById('inspector');
+      if (inspector?.open && document.getElementById('inspector-title')?.textContent) {
+        document.body.dataset.inspector = 'pass';
+      }
+      document.getElementById('inspector-close')?.click();
+      document.getElementById('view-toggle')?.click();
+
+      setTimeout(() => {
+        const listVisible = !document.getElementById('list-view')?.hidden;
+        const listClaim = document.querySelector(`#list-content [data-claim-id="${CSS.escape(target.id)}"]`);
+        if (listVisible && listClaim) document.body.dataset.listView = 'pass';
+      }, 0);
     }, 0);
   }, 0);
 }, 0);
@@ -62,7 +109,7 @@ done
   http://127.0.0.1:8766/timeline-app/.browser-smoke.html \
   >/tmp/timeline-dom.html 2>/tmp/timeline-browser.log
 
-for marker in 'data-timeline-render="pass"' 'data-inspector="pass"' 'data-list-view="pass"'; do
+for marker in 'data-timeline-render="pass"' 'data-zoom-claim="pass"' 'data-inspector="pass"' 'data-list-view="pass"'; do
   if ! grep -Fq "$marker" /tmp/timeline-dom.html; then
     echo "Timeline browser smoke missing $marker" >&2
     tail -120 /tmp/timeline-browser.log >&2 || true
@@ -75,4 +122,4 @@ if grep -Fq 'Not Found' /tmp/timeline-dom.html; then
   exit 1
 fi
 
-echo "TIMELINE_BROWSER_SMOKE=PASS viewport=390x844"
+echo "TIMELINE_BROWSER_SMOKE=PASS viewport=390x844 zoom-aware=true"
