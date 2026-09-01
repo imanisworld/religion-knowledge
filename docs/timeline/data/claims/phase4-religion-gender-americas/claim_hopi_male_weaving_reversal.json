@@ -1,0 +1,40 @@
+{
+  "id": "claim_hopi_male_weaving_reversal",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_hopi",
+  "statement": "Among the Hopi, textile weaving is traditionally and still predominantly a MALE domain — a well-documented reversal of the typical regional/continental pattern, explicitly contrasted with Diné (Navajo) weaving, which is traditionally female. Ruth Burgett Jolie, \"Exploring Textile Traditions, Gender Shifts, and Social Capital in the American Southwest,\" Journal of Anthropological Research (2014), suggests Hopi male weaving carries ritual/symbolic significance tied to social-capital accumulation rather than being explained by ordinary economic division-of-labor logic — one scholarly interpretation located in this research pass, not necessarily the only one in the wider literature.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Jolie, Ruth Burgett. \"Exploring Textile Traditions, Gender Shifts, and Social Capital in the American Southwest.\" Journal of Anthropological Research, 2014.",
+      "author": "Ruth Burgett Jolie",
+      "year": 2014,
+      "venue": "Journal of Anthropological Research",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

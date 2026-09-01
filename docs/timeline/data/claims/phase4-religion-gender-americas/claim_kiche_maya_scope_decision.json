@@ -1,0 +1,42 @@
+{
+  "id": "claim_kiche_maya_scope_decision",
+  "subject_type": "Culture",
+  "subject_id": "cul_maya",
+  "statement": "\"Maya\" is not a single people or state but an umbrella covering dozens of distinct Mayan-language-speaking ethnic groups across a continuous span from the Preclassic (c. 2000 BCE) through today. Matthew Restall (\"Maya Ethnogenesis,\" Journal of Latin American Anthropology, and The Maya World: Yucatec Culture and Society, 1550-1850, Stanford University Press, 1999) argues there was never a single, unified Maya state or empire — only numerous, evolving ethnic groups speaking dozens of distinct Mayan languages — and that \"the people we call 'Maya' never thought of themselves as such,\" even though something definable has existed for millennia. Sharer and Traxler, The Ancient Maya, 6th ed. (Stanford University Press, 2006), the standard archaeological synthesis, likewise treats \"Maya\" as an umbrella term. This project models \"Maya\" as one Culture entity with this explicit scope note, mirroring the Aboriginal Australian approach of an honest umbrella rather than inventing one flattened \"Maya religion\" — the associated Tradition entity anchors specifically on K'iche' material (the Popol Vuh) rather than claiming to represent all Maya groups.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Sharer, Robert J., and Loa P. Traxler. The Ancient Maya. 6th ed. Stanford: Stanford University Press, 2006.",
+      "author": "Sharer and Traxler",
+      "year": 2006,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That \"Maya\" was ever a self-designation used by a unified pre-contact people, as opposed to a scholarly/outsider umbrella term applied after the fact to genuinely diverse ethnic groups"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

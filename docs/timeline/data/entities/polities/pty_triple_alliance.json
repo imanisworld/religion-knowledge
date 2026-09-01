@@ -1,0 +1,15 @@
+{
+  "id": "pty_triple_alliance",
+  "name": "Triple Alliance (Tenochtitlan, Texcoco, Tlacopan — \"Aztec Empire\")",
+  "region": [
+    "Mesoamerica"
+  ],
+  "date_range": {
+    "earliest": 1428,
+    "latest": 1521,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "patronage_edges": [],
+  "notes": "Founded 1428 when Tenochtitlan, Texcoco, and Tlacopan allied to overthrow the Tepanec capital Azcapotzalco (Pedro Carrasco, The Tenochca Empire of Ancient Mexico, University of Oklahoma Press, 1999) — near-unanimous, undisputed date. Fell 1521 at the siege of Tenochtitlan; the fall must be modeled as multi-causal, not a simple \"conquistadors won\" narrative — see claim_tenochtitlan_fall_multicausal."
+}

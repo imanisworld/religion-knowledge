@@ -1,0 +1,44 @@
+{
+  "id": "claim_itzamna_longevity",
+  "subject_type": "Deity",
+  "subject_id": "dty_itzamna",
+  "statement": "Itzamna is attested from the Preclassic period through the Postclassic (Classic-period scribal glyphs, Itzamnaaj, and Postclassic Yucatec sources, Itzamná/Zamná, both attested) — genuine documented longevity/continuity across the full Maya chronological span, unlike Kukulkan (a Postclassic, Yucatec-regional phenomenon specifically, see claim_kukulkan_quetzalcoatl_regional_network). Karl Taube characterizes Itzamna as \"probably the most important Classic Maya deity, yet he remains one of the most poorly understood\" (likely drawing on Taube, The Major Gods of Ancient Yucatan, Dumbarton Oaks, 1992, though the exact publication was not directly confirmed in this research pass). Iconographically described as an aged form of the Maize God (see dty_maya_maize_god), connecting the two figures.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -2000,
+    "latest": 1697,
+    "precision": "MILLENNIUM"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Taube, Karl. The Major Gods of Ancient Yucatan. Washington, DC: Dumbarton Oaks, 1992 (exact publication not directly confirmed in this research pass).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

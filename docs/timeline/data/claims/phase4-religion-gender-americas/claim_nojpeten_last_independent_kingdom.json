@@ -1,0 +1,46 @@
+{
+  "id": "claim_nojpeten_last_independent_kingdom",
+  "subject_type": "Culture",
+  "subject_id": "cul_maya",
+  "statement": "Nojpetén (also called Tayasal/Noh Peten), capital of the Itza Maya on an island in Lake Petén Itzá, northern Guatemala, fell 13 March 1697 to a 235-man Spanish force under Martín de Ursúa, governor of Yucatán — this is the last independent, unconquered native kingdom in the Americas, falling 165 years after the 1532 conquest of the Inca and 176 years after the 1521 fall of Tenochtitlan, a real, documented fact frequently omitted from popular narratives that treat \"the conquest\" as a single rapid event. Grant D. Jones, The Conquest of the Last Maya Kingdom (Stanford University Press), is the standard scholarly treatment.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1697,
+    "latest": 1697,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Jones, Grant D. The Conquest of the Last Maya Kingdom. Stanford: Stanford University Press, 1998.",
+      "author": "Grant D. Jones",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Maya political independence ended with the 16th-century Spanish conquest of the Aztec and Inca empires, as opposed to persisting in the northern Petén for over 165 additional years"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

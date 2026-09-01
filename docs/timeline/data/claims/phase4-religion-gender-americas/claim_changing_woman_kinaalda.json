@@ -1,0 +1,40 @@
+{
+  "id": "claim_changing_woman_kinaalda",
+  "subject_type": "Deity",
+  "subject_id": "dty_changing_woman",
+  "statement": "Changing Woman (Asdzą́ą́ Nádleehé) is documented across Washington Matthews, Navaho Legends (American Folklore Society, 1897), as the central figure who ages cyclically without dying, is found as an infant and raised by First Man and First Woman, is given the medicine bundle of creation, and creates the first Navajo clans. Her role is ritually re-enacted by a young girl in the Kinaaldá puberty ceremony (ritualized dawn running, hair-combing rite, baking of a large corn cake), a still-practiced Diné ceremony.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Matthews, Washington. Navaho Legends. Boston/New York: American Folklore Society, 1897.",
+      "author": "Washington Matthews",
+      "year": 1897,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

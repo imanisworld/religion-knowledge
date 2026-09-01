@@ -1,0 +1,63 @@
+{
+  "id": "claim_human_sacrifice_scale_debate",
+  "subject_type": "Deity",
+  "subject_id": "dty_huitzilopochtli",
+  "statement": "Mexica human sacrifice scale is genuinely contested and must be reported as a live debate, not resolved to either extreme. Maximalist colonial-derived figures (e.g. ~80,000 sacrificed over four days at the 1487 Templo Mayor rededication, per later Spanish chroniclers) are now treated by most modern scholars as logistically implausible and almost certainly inflated — that figure would require roughly 14 killings per minute continuously for four days, and the numbers originate with Spanish clergy writing after the practice had already been suppressed, functioning partly as conquest-justifying propaganda. Independent archaeological confirmation of real, substantial, institutionalized scale exists: INAH excavations beginning 2015 of the Huei Tzompantli (great skull rack) beneath Mexico City recovered hundreds of skulls in situ; modern estimates derived from this physical evidence converge on figures in the low thousands per year, not the tens of thousands claimed by colonial chroniclers. Correct framing: sacrifice was real, state-central, and substantial in scale, but colonial-era numerical claims are unreliable and should be flagged as propaganda-inflated; archaeology supports \"large and real,\" not the most extreme historical figures.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Colonial-chronicler death-toll figures (tens of thousands) are treated by mainstream modern scholarship as propaganda-inflated and logistically implausible; archaeological evidence (Huei Tzompantli excavations) independently confirms large-scale, institutionalized sacrifice but supports far lower (low-thousands-per-year) estimates than the colonial figures.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Science/AAAS, \"Feeding the gods: Hundreds of skulls reveal massive scale of human sacrifice in Aztec capital.\"",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Colonial-era numerical claims of tens of thousands sacrificed are inflated propaganda serving a conquest-justifying purpose",
+      "holders": [
+        {
+          "name": "Mainstream modern Mesoamericanist consensus, per multiple convergent sources",
+          "camp": "CRITICAL/REVISIONIST-ON-NUMBERS SCHOOL"
+        }
+      ],
+      "strongest_case": "Logistical implausibility of the highest colonial figures, combined with a documented Spanish clerical motive to inflate the practice's horror for evangelization/justification purposes.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "Archaeological evidence (Huei Tzompantli) confirms real, large-scale, institutionalized sacrifice, not a minimized or largely fictional practice",
+      "holders": [
+        {
+          "name": "INAH excavation teams, per Science/AAAS reporting",
+          "camp": "ARCHAEOLOGICAL-CONFIRMATION SCHOOL"
+        }
+      ],
+      "strongest_case": "Direct physical/bioarchaeological evidence, including isotopic sourcing showing sacrificed individuals came from well outside the Basin of Mexico, consistent with captive/tribute-victim practice at real institutional scale.",
+      "status": "MAJORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": "claim_iktomi_origin_walker",
+  "subject_type": "Deity",
+  "subject_id": "dty_iktomi",
+  "statement": "James R. Walker's Pine Ridge fieldwork material (Lakota Belief and Ritual, ed. Raymond J. DeMallie and Elaine A. Jahner, University of Nebraska Press, 1980/1991) records one origin account describing Iktómi as a \"fallen\"/demoted figure — originally Kṡa, \"god of wisdom,\" condemned by Škáŋ (god of motion) to a marginal, mischief-making existence after misusing his wisdom to shame others. This is Walker's particular informant-derived version, not necessarily a pan-Lakota consensus account, and is reported accordingly at moderate confidence for this specific episode.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Walker, James R. Lakota Belief and Ritual. Ed. Raymond J. DeMallie and Elaine A. Jahner. Lincoln: University of Nebraska Press, 1980/1991.",
+      "author": "James R. Walker",
+      "year": 1980,
+      "venue": null,
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

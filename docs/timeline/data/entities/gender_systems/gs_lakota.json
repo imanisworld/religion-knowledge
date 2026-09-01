@@ -1,0 +1,162 @@
+{
+  "id": "gs_lakota",
+  "culture_id": "cul_lakota",
+  "region": [
+    "North America"
+  ],
+  "period": {
+    "earliest": 1700,
+    "latest": 2000,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Bison-economy division: men scouted, organized/executed the hunt, transported the kill, conducted warfare/raiding and defense; women performed the full post-kill processing chain (butchering, meat-drying, hide-tanning, garment/tipi-cover/bedding manufacture, decoration, trade-goods preparation). Aggregated ethnographic consensus; a commonly cited claim (attributed to Raymond J. DeMallie in secondary summary, not pinned to an exact title in this research pass) holds there was no developed tradition of \"warrior women\" in Lakota society, and that the Brave-Hearted Women society was primarily about battlefield retrieval/care of the wounded and family support rather than combat — flagged for a follow-up citation check.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General ethnographic consensus on Lakota bison-economy gendered division of labor (ndstudies.gov and corroborating secondary sources).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Formal band/council chieftainship and treaty-signing authority were male-held in the documented historical (contact-era) record; women's societies with advisory input existed alongside this, but formal 19th-century US treaty recognition excluded women, and sources indicate women's societies with formal political standing declined as the treaty system took full hold — consistent with the broader ethnohistorical point that colonial contact itself intensified gender-based political exclusion rather than the Lakota system being static.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General ethnohistorical synthesis on 19th-century Lakota treaty-era political exclusion of women (tribal-affiliated and secondary sourcing; recommend corroboration against a named academic ethnohistorian, e.g. DeMallie or Hämäläinen, before treating as fully settled).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Tipi/lodge ownership by women is well-attested: women owned the tipi and its contents, decided camp placement of their lodge, retained the tipi on divorce (husband left), and owned the pack-horses used to move camp. Lakota kinship is more standardly described in academic ethnohistory as bilateral/cognatic with strong matrilocal-residence tendencies rather than strictly matrilineal in the unilineal-descent technical sense — a specific \"matrilineal\" label appearing in some tribal-affiliated sources was not corroborated against a named kinship-systems academic source in this research pass and should not be asserted as settled.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General Plains/Lakota ethnography on tipi ownership and residence pattern (LibreTexts \"Women's Roles in Plains and Southeast Societies\"; Aktá Lakota Museum materials).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Women held substantial de facto household/domestic-economy authority (control of food distribution, dwelling, household goods); sources describing this partly draw on tribal-affiliated rather than peer-reviewed ethnohistorical material and should be treated as needing independent academic corroboration, though the underlying tipi-ownership/processing-authority claims above are independently well-sourced.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Lakota Dakota Nakota Nation and other tribal-affiliated materials on household authority (lower-tier sourcing, flagged for academic corroboration).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "The Sun Dance (Wiwáŋyaŋg Wačhípi) was formally banned via the Code of Indian Offenses (1883, Secretary of the Interior Henry M. Teller), enforced by BIA Courts of Indian Offenses using force, imprisonment, and ration withholding. Partial reversal came via Commissioner John Collier's Circular No. 2970 (January 31, 1934), ending formal administrative suppression, though enforcement gaps persisted (a documented 1971 arrest of Oglala Sioux on Pine Ridge for holding an \"illegal Sun Dance\"). Full statutory protection came only with the American Indian Religious Freedom Act, 1978. The ceremony's gender structure (dancers/piercing historically predominantly male, women's participation historically taking different, complementary roles such as singing, with contemporary practice including women dancers in some communities) is reported here structurally only, per this project's ethical constraint — no procedural ceremonial content is reconstructed.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "\"The Code of Indian Offenses,\" 1883, Wikipedia summary of the Bureau of Indian Affairs administrative-code history, cross-checked against Teaching American History, \"Courts of Indian Offenses.\"",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "American Indian Religious Freedom Act, 1978 (Pub. L. 95-341); Pluralism Project, \"Religious Freedom for Native Americans.\"",
+          "author": null,
+          "year": 1978,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED. [INDIGENOUS-FEMINIST/COMPLEMENTARITY — Paula Gunn Allen, The Sacred Hoop: Recovering the Feminine in American Indian Traditions, Beacon Press, 1986]: argues pre-contact Native societies generally, and by extension Plains/Sioux societies, were substantially \"gynocratic\"/egalitarian-matrifocal, with patriarchy as a colonial imposition. Highly influential, credited with launching a wave of Indigenous feminist scholarship. [CRITICAL/REVISIONIST]: Allen's \"gynocracy\" thesis has drawn sustained criticism (including from Gerald Vizenor) for essentializing and lacking rigorous historical/archaeological substantiation, charged with being \"a simple reversal of essentialism\"; broader historiographical skepticism holds symbolic reverence for female figures does not straightforwardly equate to women's political/social equality. The labor/property evidence (tipi/goods ownership, defined-but-not-subordinate labor role) supports a complementarity framing over a strict binary; the political evidence (male-only treaty recognition, colonial-era erosion of women's societies) shows a documented directional loss of formal female political standing coinciding with colonization.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Allen, Paula Gunn. The Sacred Hoop: Recovering the Feminine in American Indian Traditions. Boston: Beacon Press, 1986.",
+          "author": "Paula Gunn Allen",
+          "year": 1986,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Winkte (from winyanktehca), a recognized alternate/third-gender role for persons assigned male at birth, often marked by vision experience and associated with women's tasks (tanning, quillwork per Royal B. Hassrick, The Sioux: Life and Customs of a Warrior Society, University of Oklahoma Press, 1964), in some accounts credited with ceremonial/prophetic or matchmaking functions and elevated spiritual status. Foundational synthesis: Walter L. Williams, The Spirit and the Flesh: Sexual Diversity in American Indian Culture (Beacon Press, 1986), treats winkte alongside Diné nádleehí as among the highest-prestige gender-variant roles documented in North America, but has been critiqued (including by Harry Hay) for conflating winkte with the modern category \"gay\" and de-emphasizing its ceremonial/spiritual dimension; Beatrice Medicine (Sihásapa/Minneconjou Lakota anthropologist) explicitly critiques blanket use of the imported French-colonial term \"berdache\" for culturally distinct roles like winkte, calling for tribally-specific ethnographic contextualization rather than a single pan-Indian category. The 19th-century documentary record on winkte is itself described in the secondary literature as genuinely sparse, with most characterization coming from later 20th-century anthropological reconstruction — flagged as an inherent source-thinness limitation on any claim about the pre-contact/19th-century winkte role specifically."
+  },
+  "notes": null
+}

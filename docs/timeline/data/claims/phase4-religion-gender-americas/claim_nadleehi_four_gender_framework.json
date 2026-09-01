@@ -1,0 +1,42 @@
+{
+  "id": "claim_nadleehi_four_gender_framework",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_dine",
+  "statement": "Wesley Thomas (Diné anthropologist/linguist), in published work on Navajo cultural constructions of gender and sexuality, describes a traditional FOUR-gender framework: asdzáán (women), hastiin (men), nádleehí (born male-bodied, functioning/living as feminine — a third gender), and a fourth gender, born female-bodied, functioning/living as masculine. Carolyn Epple, \"Coming to Terms with Navajo Nádleehí: A Critique of Berdache, 'Gay,' 'Alternate Gender,' and 'Two-Spirit,'\" American Ethnologist 25(2) (1998): 267-290, argues outside categorical frameworks — including the older anthropological term \"berdache\" and the pan-Indian \"two-spirit\" coinage (dated to a 1990 Winnipeg intertribal gathering, explicitly created to replace \"berdache\") — import premises (treating male/female as \"mutually opposed, absolute values\") that do not match how many Navajo people themselves construct nádleehí identity, which Epple frames as more situational/relational within Navajo cosmological logic than a fixed identity category comparable to Western LGBTQ categories. Nádleehí individuals are documented as historically holding valued spiritual/ceremonial roles specifically because of their dual masculine/feminine perspective.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Epple, Carolyn. \"Coming to Terms with Navajo Nádleehí: A Critique of Berdache, 'Gay,' 'Alternate Gender,' and 'Two-Spirit.'\" American Ethnologist 25(2), 1998: 267-290.",
+      "author": "Carolyn Epple",
+      "year": 1998,
+      "venue": "American Ethnologist",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That \"two-spirit\" is a direct translation of nádleehí rather than a modern (1990-coined) pan-tribal English umbrella term some Diné people use in intertribal/public contexts alongside, not instead of, the older Navajo-specific category"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

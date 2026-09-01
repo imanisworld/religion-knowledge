@@ -1,0 +1,31 @@
+{
+  "id": "dty_huitzilopochtli",
+  "name": "Huitzilopochtli",
+  "region": [
+    "Mesoamerica"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "minor tribal/patron deity in early Mexica tradition",
+      "period": {
+        "earliest": 1325,
+        "latest": 1428,
+        "precision": "CENTURY",
+        "date_semantics": "ESTIMATED_COMPOSITION"
+      },
+      "claim_id": "claim_huitzilopochtli_political_elevation"
+    },
+    {
+      "domain": "elevated to co-equal imperial patron-deity status with Tlaloc, Tezcatlipoca, and Quetzalcoatl, associated with war and the sun, as the Mexica state's \"chosen people\" war-and-sacrifice ideology",
+      "period": {
+        "earliest": 1428,
+        "latest": 1521,
+        "precision": "CENTURY",
+        "date_semantics": "ESTIMATED_COMPOSITION"
+      },
+      "claim_id": "claim_huitzilopochtli_political_elevation"
+    }
+  ],
+  "notes": "Patron deity of Tenochtitlan. Political instrumentalization: Tlacaelel, who held the cihuacoatl office (chief counselor/co-ruler) under several successive Mexica tlatoque across roughly six decades (d. 1487), is credited by multiple sources with this mid-15th-century theological reorganization — sourced with moderate-high confidence, since the causal Tlacaelel-reform narrative rests on somewhat thinner/later secondary sourcing than the archaeological/textual facts it explains. Birth myth (the Coatepec narrative — Coatlicue miraculously impregnated, decapitates/dismembers her daughter Coyolxauhqui via the newborn Huitzilopochtli) is textually attested in Sahagún's Florentine Codex, Book 3 (1575-1577, post-conquest); the Coyolxauhqui monolith (Templo Mayor excavations) provides independent pre-conquest archaeological corroboration of the myth's antiquity in sculptural form."
+}

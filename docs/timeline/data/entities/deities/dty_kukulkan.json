@@ -1,0 +1,21 @@
+{
+  "id": "dty_kukulkan",
+  "name": "Kukulkan",
+  "region": [
+    "Mesoamerica"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "Yucatec Maya feathered-serpent deity, concentrated at Chichén Itzá and later Mayapán — a Postclassic, Yucatec-regional phenomenon, NOT a pan-Maya, all-periods deity like Itzamna",
+      "period": {
+        "earliest": 700,
+        "latest": 1000,
+        "precision": "CENTURY",
+        "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+      },
+      "claim_id": "claim_kukulkan_quetzalcoatl_regional_network"
+    }
+  ],
+  "notes": "The feathered-serpent motif itself predates both Maya and Aztec civilizations (Olmec iconography, c. 1600-400 BCE; Teotihuacan's Temple of the Feathered Serpent, c. 150-600 CE) — a pan-Mesoamerican regional motif, not independently invented or directly borrowed at the point of Spanish contact by either the Maya or the Mexica. See claim_kukulkan_quetzalcoatl_regional_network for the documented Epiclassic-period religious-network diffusion (Ringle, Gallareta Negrón, and Bey 1998) that explains Kukulkan's relationship to central-Mexican Quetzalcoatl worship."
+}

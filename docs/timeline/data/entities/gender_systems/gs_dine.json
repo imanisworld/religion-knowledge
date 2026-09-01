@@ -1,0 +1,162 @@
+{
+  "id": "gs_dine",
+  "culture_id": "cul_dine",
+  "region": [
+    "North America"
+  ],
+  "period": {
+    "earliest": 1846,
+    "latest": 2006,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Women historically held/tended sheep, wove textiles, and controlled the hogan and household economy; men were traditionally associated with horses/cattle and broader-ranging livestock work. Sourced to Clyde Kluckhohn and Dorothea Leighton, The Navaho (Harvard University Press, 1946; rev. ed. 1974) — a mid-20th-century ethnography whose categories reflect period anthropological assumptions; treated as documented-but-dated, without a fully independent recent labor-division study located in this research pass.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Kluckhohn, Clyde, and Dorothea Leighton. The Navaho. Cambridge, MA: Harvard University Press, 1946; rev. ed. 1974.",
+          "author": "Kluckhohn and Leighton",
+          "year": 1946,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "No documented equivalent to Haudenosaunee-style formal female political office was found — traditional Diné governance was organized around decentralized, localized leadership by naatʼáanii (\"headmen,\" masculine-gendered in common English gloss), respected for wisdom/integrity rather than an inherited or codified-gender office. Women's political influence is described as informal-but-real (decision-making within family/clan structures that men \"executed\" publicly) — a weaker, less formalized claim than a documented office. The modern, colonially-imposed Navajo Tribal Council/Navajo Nation government (established 1923) has never elected a woman as Council Chair or President, and women were not extended the vote until 1928. Jennifer Nez Denetdale, \"Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition,\" Wicazo Sa Review 21(1) (2006): 9-28 [CRITICAL INDIGENOUS/FEMINIST]: the imposed US-style patriarchal governance structure is a colonial imposition layered onto, and actively undermining, a differently-organized traditional system.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Denetdale, Jennifer Nez. \"Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition.\" Wicazo Sa Review 21(1), 2006: 9-28.",
+          "author": "Jennifer Nez Denetdale",
+          "year": 2006,
+          "venue": "Wicazo Sa Review",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Under the traditional system a woman controlled the hogan (on land allocated to her by her matriline), owned her sheep/livestock and their products, her jewelry, and any woven textiles she produced and their sale income; children belonged to the mother's clan.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Kluckhohn, Clyde, and Dorothea Leighton. The Navaho. Harvard University Press, 1946/1974.",
+          "author": "Kluckhohn and Leighton",
+          "year": 1946,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Matrilocal extended-family hogan structure: residence organized around the wife's family/land holding; women held considerable social power within this domestic-economic sphere.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Kluckhohn, Clyde, and Dorothea Leighton. The Navaho. Harvard University Press, 1946/1974.",
+          "author": "Kluckhohn and Leighton",
+          "year": 1946,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "The hataałii (\"singer\"/medicine person) role has long been assumed male by outside observers, but women can and historically have held it; women are documented as underrepresented specifically among practitioners of the most prestigious, complex chantways even though Navajo women generally hold high social status — a documented practical-underrepresentation gradient by ceremony prestige, not a hard binary gate. Separately, sandpainting is intentionally ephemeral (destroyed at the close of each healing ceremony); traditional restriction against outsider observation/permanent reproduction is real, and the 20th-century commercialization of sandpainting imagery into a secular/tourist art form is documented as a genuine controversy — Nancy J. Parezo, Navajo Sandpainting: From Religious Act to Commercial Art, University of Arizona Press, 1983.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Parezo, Nancy J. Navajo Sandpainting: From Religious Act to Commercial Art. Tucson: University of Arizona Press, 1983.",
+          "author": "Nancy J. Parezo",
+          "year": 1983,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED, a real historiographic split. [MID-20TH-CENTURY ETHNOGRAPHIC — Kluckhohn and Leighton]: matrilineal/matrilocal, effectively high-status/\"matriarchal\" in some secondary paraphrase, women controlling land/home/livestock. [DECLINE THESIS — associated with Gladys Reichard's observations on 1930s federal livestock reduction]: the material economic base (sheep ownership) underlying women's authority was undercut by that federal policy; later studies found partial, non-linear recovery via education/wage labor. [CRITICAL INDIGENOUS/FEMINIST — Jennifer Nez Denetdale, 2006 and later]: critiques both the romanticized \"Navajo women were simply equal\" narrative and naive Western-category mapping; argues the current Navajo Nation government's patriarchal exclusion of women from its highest offices is a specifically colonial/settler imposition (the 1923 tribal-council model) laid over, and distorting, an indigenous kinship-based authority system that originally recognized more than two genders.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Kluckhohn, Clyde, and Dorothea Leighton. The Navaho. Harvard University Press, 1946/1974.",
+          "author": "Kluckhohn and Leighton",
+          "year": 1946,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Denetdale, Jennifer Nez. \"Chairmen, Presidents, and Princesses.\" Wicazo Sa Review 21(1), 2006.",
+          "author": "Jennifer Nez Denetdale",
+          "year": 2006,
+          "venue": "Wicazo Sa Review",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Beyond-binary framework, reported precisely per named specialists rather than the generic pan-Indian \"two-spirit\" gloss: Wesley Thomas (Diné anthropologist/linguist) describes a traditional four-gender framework — asdzáán (women), hastiin (men), nádleehí (born male-bodied, functioning/living as feminine), and a fourth gender born female-bodied, functioning/living as masculine. Carolyn Epple, \"Coming to Terms with Navajo Nádleehí: A Critique of Berdache, 'Gay,' 'Alternate Gender,' and 'Two-Spirit,'\" American Ethnologist 25(2) (1998): 267-290, argues outside categorical frameworks (including the pan-Indian \"two-spirit\" coinage, dated to a 1990 Winnipeg gathering) import premises that do not match how many Navajo people construct nádleehí identity, which is more situational/relational within Navajo cosmological logic than a fixed identity category comparable to Western LGBTQ categories. Nádleehí individuals are documented as historically holding valued spiritual/ceremonial roles specifically because of their dual masculine/feminine perspective — a positive, not marginal, traditional status. Required does_not_demonstrate: none of the above demonstrates that \"two-spirit\" is a direct translation of nádleehí rather than a modern pan-tribal umbrella term nádleehí sometimes gets subsumed under in public/intertribal contexts."
+  },
+  "notes": null
+}

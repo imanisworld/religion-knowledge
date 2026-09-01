@@ -1,0 +1,42 @@
+{
+  "id": "claim_acllacuna_virgins_of_sun_terminology",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_inca",
+  "statement": "The Acllacuna (\"Chosen Women\") institution selected girls typically aged 8-10 from provincial communities across Tawantinsuyu, based on criteria including appearance, character, and aptitude, for training/seclusion in acllahuasi (\"houses of the chosen\"). Roles included producing fine cumbi textiles functioning as imperial taxation/tribute and diplomatic-gift currency (a genuinely state-economic role, not merely religious seclusion), preparing ritual food, brewing chicha for state festivals, serving as temple attendants, being given in marriage by the Sapa Inca to men distinguished in imperial service (a political loyalty-reward mechanism), and — for a smaller subset — selection as capacocha human-sacrifice victims. The colonial-Spanish gloss \"Virgins of the Sun\" is explicitly flagged in current scholarship as misleading: not all acllas remained perpetually secluded/celibate, since many were later given in marriage, and the institution's core function was as much economic and political as narrowly religious-virginal — directly analogous to the translator's-romanticizing-gloss problem this project watches for elsewhere (e.g. \"the Dreaming\" in the Australia batch).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General convergent synthesis of Acllacuna scholarship (multiple secondary/encyclopedic sources; a dedicated academic monograph on the institution, e.g. by Sabine MacCormack, was recommended by the research agent but not directly retrieved in this research pass).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That \"Virgins of the Sun\" is an accurate, precise scholarly descriptor for the Acllacuna institution, as opposed to a colonial-era gloss that obscures its real economic and political (marriage-alliance) functions"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

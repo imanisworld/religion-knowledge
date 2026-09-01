@@ -1,0 +1,51 @@
+{
+  "id": "trad_guarani_religion",
+  "name": "Guarani religion (traditional, pre-/extra-Christian cosmology)",
+  "category_tags": [
+    "animism",
+    "polytheism",
+    "mixed"
+  ],
+  "region": [
+    "South America"
+  ],
+  "dating": {
+    "dating_summary": "No archaeological or documentary evidence dates the specific cosmological content directly; the tradition is known almost entirely through modern (20th-century) ethnographic fieldwork with living Guarani religious specialists, chiefly León Cadogan's Mbyá material (1950s). The Tupi-Guarani linguistic/material-culture tradition itself is dated to roughly 2,500 years BP, but this dates the ethnolinguistic tradition generally, not the specific religious content.",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -500,
+        "latest": 1,
+        "precision": "MILLENNIUM"
+      },
+      "note": "The Tupi-Guarani linguistic subfamily and its associated ceramic tradition are dated to roughly 2,500 years BP, originating in the upper Tapajós-Xingu basin (southern Amazon), with a Northern/Southern linguistic split beginning ~1,750 BP (Noelli 2008, cited via secondary summary). This dates the ethnolinguistic/material-culture tradition, not specific religious content (Ñamandu, Land Without Evil) — no direct archaeological evidence confirms those specific cosmological elements at this depth; treated as a distinct, separately Unknown question."
+    },
+    "earliest_written_attestation": {
+      "range": null,
+      "note": "Not independently verified in this research pass; candidate early sources (16th-century chroniclers, Antonio Ruiz de Montoya's Conquista Espiritual, 1639) were flagged by the research agent as recalled but not live-search-confirmed before its search budget was exhausted — left Unknown pending verification rather than asserted."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1953,
+        "latest": 1953,
+        "precision": "YEAR"
+      },
+      "note": "León Cadogan's Ayvu Rapyta (\"The Foundation of Human Language,\" mythic texts of the Mbyá-Guaraní of Guairá) was first serialized in Revista de Antropología beginning 1953. Cadogan's principal informant was Cacique Pablo Vera, a Mbyá religious/community leader, who dictated the myths and, after a trusted relationship developed, revealed the esoteric \"Ñe'ẽ Porã Tenondé\" tradition — knowledge documented as possessed only by the initiated; Cadogan was himself subsequently ritually initiated by the Mbyá community. This is reported here per the standing ethical constraint as existence-of-restriction-only, with named custodian credited, not as reconstructed content."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "Not applicable — a living, continuously re-transmitted oral tradition rather than a fixed compositional event.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Per the Ayvu Rapyta material: Ñamandu is eternal and self-originating, creating himself from his own divine wisdom (kuaarara) prior to creating the sacred/creative word (ayvu/ñeʼẽ) and, through it, the cosmos."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Not independently datable; loosely bounded by the ~2,500 BP Tupi-Guarani linguistic/cultural coalescence noted above, but this is an inference connecting two separately-sourced facts, not a documented claim by any named scholar.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Internal subgroup diversity is real and documented (Mbyá, Kaiowá, Ñandeva, Paí Tavyterã, Ava/Chiripá each have documented name/theology variation for the creator figure — Ñanderu, Ñamandú, Ñamandú Ru Eté in Mbyá orthography; Nhanderuvuçu, Nhamandú, Nhandejara in Brazilian-Portuguese renderings likely reflecting Nhandeva/Chiripá-adjacent groups); every specific claim in this batch drawing on Cadogan's material is attributed explicitly to Mbyá sourcing rather than presented as uniform pan-Guarani belief, consistent with the research agent's explicit recommendation. The Land Without Evil (Yvy marã eʼỹ) migration-prophecy complex is a distinctive, well-documented feature (Hélène Clastres, The Land-without-Evil: Tupí-Guaraní Prophetism, University of Illinois Press, English trans.; French original La Terre sans Mal, 1975) but is itself flagged in current scholarship as a possibly over-synthesized reconstruction rather than a directly observed unified belief (see the title \"The Origin Myth of a Myth: The Land Without Evil Revisited\") — see claim_land_without_evil_migrations."
+}

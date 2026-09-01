@@ -1,0 +1,42 @@
+{
+  "id": "claim_kokopelli_decontextualization",
+  "subject_type": "Tradition",
+  "subject_id": "trad_hopi_religion",
+  "statement": "Kokopelli is best documented in current scholarship as a modern composite/commercial image rather than a straightforward transmission of a single traditional figure. A peer-reviewed source, \"Deciphering Kokopelli: Masculinity in Commodified Appropriations of Native American Imagery,\" Communication and Critical/Cultural Studies 4(3) (2007), analyzes contemporary Kokopelli imagery as a projection of \"Euro-American masculinist fantasy\" built on \"the trope of the primitive,\" stating the modern figure \"tells us more about tourism, marketing, and Euro-American culture than the indigenous cultures of the Southwest.\" The popular commercial Kokopelli prototype appears to derive from a Hohokam pottery design (a different, related but distinct Southwestern archaeological culture), not a Hopi-specific origin, despite marketing association with Puebloan cultures broadly — a documented case of pan-Southwest flattening across genuinely distinct cultural traditions, exactly the \"Hopi vs. Pueblo generally\" conflation this batch is built to avoid.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "\"Deciphering Kokopelli: Masculinity in Commodified Appropriations of Native American Imagery.\" Communication and Critical/Cultural Studies 4(3), 2007.",
+      "author": null,
+      "year": 2007,
+      "venue": "Communication and Critical/Cultural Studies",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the popular commercial Kokopelli figure is a reliable, uncommercialized representative example of specifically Hopi religious iconography"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

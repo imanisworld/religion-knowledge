@@ -1,0 +1,55 @@
+{
+  "id": "claim_winkte_historiography",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_lakota",
+  "statement": "Winkte (from winyanktehca), a recognized traditional alternate/third-gender role for persons assigned male at birth, is documented (Royal B. Hassrick, The Sioux: Life and Customs of a Warrior Society, University of Oklahoma Press, 1964) as associated with women's tasks and, in some accounts, ceremonial/prophetic or matchmaking functions and elevated spiritual status. Walter L. Williams, The Spirit and the Flesh: Sexual Diversity in American Indian Culture (Beacon Press, 1986), is the foundational comparative academic synthesis treating winkte alongside Diné nádleehí as among the highest-prestige gender-variant roles documented in North America, but has been critiqued (including by Harry Hay) for conflating winkte with the modern Western category \"gay\" and de-emphasizing its ceremonial/spiritual dimension. Beatrice Medicine (Sihásapa/Minneconjou Lakota anthropologist), in \"Directions in Gender Research in American Indian Societies: Two Spirits and Other Categories,\" explicitly critiques blanket use of the imported French-colonial term \"berdache\" for culturally distinct roles like winkte, calling for tribally-specific ethnographic contextualization rather than a single pan-Indian category. The 19th-century documentary record on winkte specifically is described in the secondary literature as genuinely sparse, with most characterization derived from later 20th-century anthropological reconstruction — an inherent source-thinness limitation on any claim about the pre-contact/19th-century role.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Williams, Walter L. The Spirit and the Flesh: Sexual Diversity in American Indian Culture. Boston: Beacon Press, 1986.",
+      "author": "Walter L. Williams",
+      "year": 1986,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Medicine, Beatrice. \"Directions in Gender Research in American Indian Societies: Two Spirits and Other Categories.\" Online Readings in Psychology and Culture, Grand Valley State University.",
+      "author": "Beatrice Medicine",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the 19th-century/pre-contact winkte role is documented with the same evidentiary strength as its later 20th-century anthropological reconstruction"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

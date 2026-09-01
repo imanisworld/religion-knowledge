@@ -1,0 +1,162 @@
+{
+  "id": "gs_kiche_maya",
+  "culture_id": "cul_maya",
+  "region": [
+    "Mesoamerica"
+  ],
+  "period": {
+    "earliest": 250,
+    "latest": 900,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Solid, name-checkable Maya-specific gender scholarship exists almost exclusively for the Classic-period royal/elite court context (documented via monumental inscriptions, which by nature only record elite/royal individuals); this entity is period-scoped to the Classic royal court (c. 250-900 CE) rather than presented as \"Maya gender relations\" generally, consistent with the SPEC.md P15 principle against a timeless characterization. Rosemary A. Joyce, Gender and Power in Prehispanic Mesoamerica, University of Texas Press, 2000, and Traci Ardren, ed., Ancient Maya Women, AltaMira Press, 2002, indicate food production and distribution were a significant source of female agency and economic power; granular task-division data was not retrieved in this research pass.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Ardren, Traci, ed. Ancient Maya Women. Walnut Creek, CA: AltaMira Press, 2002.",
+          "author": "Traci Ardren (ed.)",
+          "year": 2002,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Royal succession was generally patrilineal, but with documented, monumentally-inscribed female-ruler exceptions: Lady Six Sky (Ix Wak Chan Ajaw) of Naranjo reigned as de facto queen 682-693 CE, then as regent/power-behind-the-throne for her son (formally enthroned) c. 693-741 CE; Lady K'abel of El Perú-Waka' ruled the Wak kingdom jointly with her husband c. 672-692 CE, her authority derived partly from her natal dynasty's (Kaanul/Calakmul) imperial reach. These are individually documented exceptions operating within a patrilineal system, not evidence of general gender parity in political authority. One source states that for Maya succession \"it is more important to be the child of the previous ruler than it is to be the male\" — genealogical descent could outweigh sex in legitimation logic, a more precise claim than simple \"patrilineal with exceptions\" (this specific framing traced to a University of Chicago Anthropology public-facing piece, not independently verified against its underlying academic sourcing in this research pass).",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "James A. Doyle, on the regency of Lady Six Sky at Naranjo (Vanderbilt Undergraduate Research Journal article; academia.edu paper \"'The heart and stomach of a king': A study of the regency of Lady Six Sky at Naranjo, Guatemala\").",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Not independently retrieved in this research pass — this is a legitimate, expected gap rather than a research failure to paper over.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No Maya-specific legal/property-rights source located in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Not independently retrieved beyond the general food-production/agency point under gendered_labor.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No dedicated Maya-specific household-authority source located in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "No Maya-specific source retrieved in this research pass; a legitimate gap.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No dedicated source located in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED, though only one camp could be substantiated with a named source in this research pass — the second camp is flagged as a real, expected gap, not a resolution. [COMPLEMENTARITY MODEL — Rosemary A. Joyce, 2000; Traci Ardren, 2002 contributors]: Classic Maya gender ideologically constructed as complementary/balanced rather than strictly hierarchical — male rulers shown with feminine iconographic traits, gender characteristics read as \"inclusive and reciprocal\" rather than polar, per this camp's reading of iconography and grave goods. A qualifying/opposing camp arguing the complementarity framing understates real power asymmetry, or that court society remained fundamentally patrilineal beneath a complementarity ideology, plausibly exists in the literature but was not located with a specific named source in this research pass — presenting only the complementarity camp here as fully settled would violate this project's own survey-method convention, so this is flagged as an open sourcing gap requiring a follow-up search pass.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Joyce, Rosemary A. Gender and Power in Prehispanic Mesoamerica. Austin: University of Texas Press, 2000.",
+          "author": "Rosemary A. Joyce",
+          "year": 2000,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Ardren, Traci, ed. Ancient Maya Women. AltaMira Press, 2002.",
+          "author": "Traci Ardren (ed.)",
+          "year": 2002,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Contemporary/ethnographic Maya gender studies (Yucatec, K'iche', etc. today) is a separate, thinner-sourced literature not developed in this research pass. legal_economic_status, household_authority, and gendered_legal_restrictions are UNKNOWN by legitimate research gap, not by omission of available sourcing — the research agent's search budget was exhausted before these could be pursued, and per this project's standing rule, unverified claims are not manufactured to fill the gap."
+  },
+  "notes": null
+}

@@ -1,0 +1,201 @@
+{
+  "id": "gs_haudenosaunee",
+  "culture_id": "cul_haudenosaunee",
+  "region": [
+    "North America"
+  ],
+  "period": {
+    "earliest": 1600,
+    "latest": 2006,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Women historically controlled village-internal affairs: communal agriculture, longhouse maintenance, property/crop management, cooking, child-rearing. Men controlled external/expeditionary affairs: hunting, fishing, warfare, diplomacy. Primary scholarly anchor: Judith K. Brown, \"Economic Organization and the Position of Women Among the Iroquois,\" Ethnohistory 17 (1970): 151-167 — Brown's comparative thesis (with the Bemba of Zambia) is that Iroquois women's political/social autonomy derived specifically from economic control of subsistence production and distribution, not from labor division alone.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Brown, Judith K. \"Economic Organization and the Position of Women Among the Iroquois.\" Ethnohistory 17, 1970: 151-167.",
+          "author": "Judith K. Brown",
+          "year": 1970,
+          "venue": "Ethnohistory",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "DISPUTED. Clan Mothers (Iakoiaʼne) held the exclusive right to nominate male chiefs/sachems (Hoyaneh/Royaner) to the Confederacy Council from eligible clan lineages, and could remove (\"dehorn\") a chief acting against clan interest or consensus (Council: 56 chiefs, 49 clan mothers). But Council seats themselves were exclusively male. [SKEPTICAL/CAUTIONARY — Elisabeth Tooker]: argues women's power derived from the matrilineal kinship/property structure, not a matriarchal political structure; \"few women spoke at councils... more often women designated someone to speak for them\" — describing \"matriarchy\" overstates direct political participation. [AFFIRMATIVE — Barbara Alice Mann, Iroquoian Women: The Gantowisas, Peter Lang, American Indian Studies vol. 4, 2000]: gantowisas (\"women acting in official capacity\") held substantive, institutionalized authority beyond mere kinship influence, including the power to decide whether men could take the nation to war.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Tooker, Elisabeth. Various ethnohistorical writings on Iroquois political organization (specific monograph not pinned to a single title in this research pass).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Mann, Barbara Alice. Iroquoian Women: The Gantowisas. New York: Peter Lang, American Indian Studies vol. 4, 2000.",
+          "author": "Barbara Alice Mann",
+          "year": 2000,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Women controlled land, longhouses, and their contents/produce; children belonged to the mother's clan and women held naming rights over children. Divorce was available to women essentially at will (placing the husband's belongings outside the longhouse), with children remaining in the mother's clan — contrasted by sources with contemporary colonial coverture law, under which married women's property/earnings legally belonged to their husbands.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Brown, Judith K. \"Economic Organization and the Position of Women Among the Iroquois.\" Ethnohistory 17, 1970.",
+          "author": "Judith K. Brown",
+          "year": 1970,
+          "venue": "Ethnohistory",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Mann, Barbara Alice. Iroquoian Women: The Gantowisas. Peter Lang, 2000.",
+          "author": "Barbara Alice Mann",
+          "year": 2000,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Matrilocal residence: married couples lived in the wife's mother's/clan's longhouse; a woman and her direct female lineage resided in the longhouse for life, bringing husbands in from outside clans; the senior woman controlled the longhouse and its contents.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Haudenosaunee Confederacy official materials, \"Family Structure\" (haudenosauneeconfederacy.com).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "The False Face Society (a medicine/healing society using carved wooden masks) has documented gender structure, though sources conflict on its precise composition (male-associated in some descriptions, mixed membership with documented female leadership in at least one source) — reported as genuinely unresolved rather than settled. More robustly documented: in 1995 the Haudenosaunee Grand Council issued a formal policy declaring all False Face masks sacred regardless of age/size, prohibiting sale, public display, or photography, and restricting sharing of general medicine-society information with outsiders; ceremonies remain private, open only to initiated members and those seeking healing. Per this project's ethical constraint, only the existence and structure of this restriction is reported here, never any ceremonial content.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Haudenosaunee Grand Council, 1995 policy statement on False Face masks, as reported by multiple outlets including Indian Time and SFU IPinCH \"Appropriation of the Month\" blog.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED, three camps. [CAUTIONARY/REVISIONIST — Elisabeth Tooker]: against \"matriarchy\" as a description; household gender relations as \"economic exchange rather than economic dominance.\" [AFFIRMATIVE/HIGH-STATUS — Barbara Alice Mann; Sally Roesch Wagner]: substantive, institutionalized female authority extending well beyond kinship influence. [MATERIALIST/MIDDLE — Judith K. Brown, 1970]: high female status as a direct function of women's economic control over subsistence production/distribution, a comparative-anthropological framework rather than an ideological claim per se.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Tooker, Elisabeth. Ethnohistorical writings on Iroquois political organization.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Mann, Barbara Alice. Iroquoian Women: The Gantowisas. Peter Lang, 2000.",
+          "author": "Barbara Alice Mann",
+          "year": 2000,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Brown, Judith K. \"Economic Organization and the Position of Women Among the Iroquois.\" Ethnohistory 17, 1970.",
+          "author": "Judith K. Brown",
+          "year": 1970,
+          "venue": "Ethnohistory",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate is carried on claim_seneca_falls_haudenosaunee_influence rather than here: the documented rhetorical use of Haudenosaunee women's status by 19th-century suffragists does not by itself demonstrate the strongest, most totalizing popular version of the influence claim (\"the U.S. women's rights movement was directly caused by Haudenosaunee example\")."
+  },
+  "notes": null
+}

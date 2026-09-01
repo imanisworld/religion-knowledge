@@ -1,0 +1,44 @@
+{
+  "id": "claim_ajqij_restricted_knowledge",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kiche_maya_religion",
+  "statement": "Contemporary K'iche' and broader highland Guatemalan Maya religious practice has documented restricted-knowledge/initiation conventions centered on the ajq'ij (\"daykeeper\") role — practitioners of the 260-day sacred calendar (Tzolkʼin-descended) who undergo multi-year training/oral apprenticeship and function as living custodians of ritual knowledge. Ajqʼijabʼ (plural) practiced this role in secrecy during Guatemala's civil war (1960-1996) due to persecution, becoming more publicly visible only after the 1996 peace accords. Per this project's ethical constraint, this claim reports the existence of this restricted-knowledge tradition and its documented persecution history only; no ceremonial content is described.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1960,
+    "latest": 1996,
+    "precision": "DECADE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General secondary sourcing on contemporary Maya spirituality and the ajqʼij role (ResearchGate-indexed material and a Penn Museum Expedition magazine piece; full author/journal citations not fully extracted in this research pass).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

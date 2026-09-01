@@ -1,0 +1,42 @@
+{
+  "id": "claim_land_without_evil_migrations",
+  "subject_type": "Tradition",
+  "subject_id": "trad_guarani_religion",
+  "statement": "Yvy marã eʼỹ (\"Land Without Evil\") is a distinctive Guarani eschatological complex: an earthly paradise free of death, suffering, and toil, believed reachable by migrating there ALIVE under prophetic leadership, rather than through death — unlike most eschatologies. Historically connected to real, documented mass migrations of Tupi-Guarani-speaking groups across the continent, driven by prophetic/messianic leadership. Hélène Clastres, The Land-without-Evil: Tupí-Guaraní Prophetism (University of Illinois Press, English trans.; French original La Terre sans Mal, 1975), reconstructs this migration theology from early colonial chronicles and modern ethnography, working alongside other named Tupi-Guaraniologists (Pierre Clastres, Alfred Métraux, E. Schaden, B. Susnik, B. Meliá). A source titled \"The Origin Myth of a Myth: The 'Land Without Evil' Revisited\" signals a live, current historiographic debate about how much this complex is itself a scholarly synthesis/construction versus a directly observed unified belief — this nuance should be preserved rather than treating Land Without Evil as either a purely modern scholarly invention or an unproblematic, directly documented unified tradition.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Clastres, Hélène. The Land-without-Evil: Tupí-Guaraní Prophetism. English translation. Urbana: University of Illinois Press. Originally published as La Terre sans Mal, Paris: Seuil, 1975.",
+      "author": "Hélène Clastres",
+      "year": 1975,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the Land Without Evil complex is a settled, uncontested ethnographic fact rather than itself a subject of ongoing historiographic reassessment about how much is reconstruction versus direct observation"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

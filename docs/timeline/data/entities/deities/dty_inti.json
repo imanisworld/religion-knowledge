@@ -1,0 +1,15 @@
+{
+  "id": "dty_inti",
+  "name": "Inti",
+  "region": [
+    "South America"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "central Inca state deity, sun; believed ancestor of the Inca ruling dynasty; the Sapa Inca held the title Intip churin, \"Son of the Sun,\" establishing his sacred right to rule; imperial expansion incorporated conquered peoples' local deities into the solar pantheon with Inti at the apex as state legitimating ideology",
+      "claim_id": "claim_inti_state_ideology"
+    }
+  ],
+  "notes": "Chief temple: the Qoricancha (\"Golden Enclosure\") in Cusco, which also housed shrines to Mama Killa, Illapa (thunder), and Viracocha (Viracocha's shrine set apart, reflecting his distinct creator status). Sourced from convergent tertiary/encyclopedic references; a named specialist monograph (e.g. Brian S. Bauer, The Sacred Landscape of the Inca: The Cusco Ceque System, University of Texas Press, 1998) was recommended by the research agent for stronger citation but not directly retrieved in this research pass."
+}

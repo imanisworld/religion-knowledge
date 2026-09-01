@@ -1,0 +1,44 @@
+{
+  "id": "claim_tlaloc_teotihuacan_continuity",
+  "subject_type": "Deity",
+  "subject_id": "dty_tlaloc",
+  "statement": "Tlaloc's iconography is traceable to Teotihuacan (Classic period, pre-900 CE), centuries before the Mexica arrived in the Valley of Mexico — one of the clearest cases in this batch of a deity the Mexica inherited from an earlier regional tradition rather than originated. Tlaloc co-occupied the Templo Mayor's twin-shrine summit alongside the Mexica-specific Huitzilopochtli, a documented statement of the Mexica state deliberately pairing an ancient, regionally shared agricultural deity with its own newer war/imperial patron.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -750,
+    "latest": 900,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General art-historical/archaeological consensus on Tlaloc's Teotihuacan-era iconographic origins, corroborated across Templo Mayor excavation reporting on the twin-shrine summit arrangement.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "claim_kukulkan_quetzalcoatl_regional_network",
+  "subject_type": "Deity",
+  "subject_id": "dty_kukulkan",
+  "statement": "The feathered-serpent motif (Kukulkan in Yucatec Maya tradition, Quetzalcoatl in central Mexican/Mexica tradition) predates both civilizations, with roots in Olmec iconography (c. 1600-400 BCE) and monumentalized at Teotihuacan's Temple of the Feathered Serpent (c. 150-600 CE) — a pan-Mesoamerican regional motif, not independently invented by or directly borrowed between the Maya and the Mexica at the point of Spanish contact. William M. Ringle, Tomás Gallareta Negrón, and George J. Bey, \"The Return of Quetzalcoatl: Evidence for the Spread of a World Religion during the Epiclassic Period,\" Ancient Mesoamerica 9(2) (1998), argue for a militarized, organized Quetzalcoatl-cult religion spreading across an interconnected Epiclassic-period (c. 700-1000 CE) network of shrine centers (Cholula, Cacaxtla, El Tajín, Xochicalco, Tula, and Chichén Itzá as the network's eastern/Maya node) — meaning Kukulkan at Chichén Itzá reflects direct, datable religious-network diffusion/contact, not mere independent parallel development, and also not the popularized simple \"Toltec invasion brought Quetzalcoatl to Chichén Itzá\" story. Kukulkan should be understood as a Postclassic, Yucatec-Maya-regional phenomenon specifically (concentrated at Chichén Itzá and later Mayapán), not a pan-Maya, all-periods deity.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "ESTIMATED_COMPOSITION",
+  "date": {
+    "earliest": 700,
+    "latest": 1000,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ringle, William M., Tomás Gallareta Negrón, and George J. Bey. \"The Return of Quetzalcoatl: Evidence for the Spread of a World Religion during the Epiclassic Period.\" Ancient Mesoamerica 9(2), 1998.",
+      "author": "Ringle, Gallareta Negrón, and Bey",
+      "year": 1998,
+      "venue": "Ancient Mesoamerica",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Kukulkan is a pan-Maya deity attested across all periods and regions, as opposed to a Postclassic, Yucatec-regional phenomenon connected to central Mexico via a specific, datable Epiclassic-period religious network"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

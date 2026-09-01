@@ -1,0 +1,44 @@
+{
+  "id": "claim_pachamama_living_tradition",
+  "subject_type": "Deity",
+  "subject_id": "dty_pachamama",
+  "statement": "Pachamama veneration is an ongoing, vibrant contemporary Andean practice, not solely historical. The challa (offering ritual) occurs annually on August 1st across the Andes, involving offerings of coca leaves, tobacco, corn, and potatoes with prayers of gratitude/protection. Syncretism with Catholicism is well documented and ongoing: in Cusco and El Alto, Bolivia, \"it's not uncommon to see a Catholic Mass followed by a despacho ceremony.\" Pachamama has become a documented cultural symbol in contemporary environmental activism and Indigenous-rights movements in Peru and Bolivia. This is a direct parallel to the documented living status of the Haudenosaunee Longhouse Religion and the Mexica-descended Nahua Huasteca pilgrimage tradition elsewhere in this batch — Indigenous American religious traditions are not confined to the pre-Columbian or colonial past.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1900,
+    "latest": null,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "The Wild Hunt, \"Pachamama Endures: From Ancient Andes to Modern Bolivia,\" August 2025 (journalistic source, corroborated by independent tourism/cultural sources on the despacho ceremony's continuity).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "A named academic ethnographic source recommended for stronger citation, Catherine Allen, The Hold Life Has: Coca and Cultural Identity in an Andean Community (Smithsonian, 1988/2002), was not directly retrieved/verified in this research pass and is flagged for follow-up."
+}

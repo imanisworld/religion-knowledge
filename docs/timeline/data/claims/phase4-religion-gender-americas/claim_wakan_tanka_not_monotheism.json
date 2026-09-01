@@ -1,0 +1,55 @@
+{
+  "id": "claim_wakan_tanka_not_monotheism",
+  "subject_type": "Tradition",
+  "subject_id": "trad_lakota_religion",
+  "statement": "Popular sources commonly gloss Wakȟáŋ Tȟáŋka as \"Great Spirit,\" implying a singular personified deity comparable to the Christian God. Named ethnographic sourcing (James R. Walker, fieldwork 1896-1914 at Pine Ridge, published as Lakota Belief and Ritual, ed. Raymond J. DeMallie and Elaine A. Jahner, University of Nebraska Press, 1980/1991) records Wakȟáŋ Tȟáŋka as \"Tobtob Kin\" (\"the four times four\" — sixteen distinct sacred entities/aspects, e.g. Wi the sun, Hanwi the moon, Škáŋ the sky/motion, Tate the wind, Uŋčí Makȟá the earth, Wakíŋyaŋ the Thunder-being) simultaneously described as \"one\" — a unified-multiplicity, pantheistic/panentheistic structure, not an anthropomorphic single deity. William K. Powers, Oglala Religion (University of Nebraska Press, 1977/1982), corroborates this general structure. Specialist consensus judges \"Great Mystery\" or \"Great Sacred\" a more accurate rendering than \"Great Spirit,\" which is flagged as a post-contact, missionary-influenced reading layered onto an older, more diffuse framing.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Walker, James R. Lakota Belief and Ritual. Ed. Raymond J. DeMallie and Elaine A. Jahner. Lincoln: University of Nebraska Press, 1980/1991.",
+      "author": "James R. Walker",
+      "year": 1980,
+      "venue": null,
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Powers, William K. Oglala Religion. Lincoln: University of Nebraska Press, 1977/1982.",
+      "author": "William K. Powers",
+      "year": 1977,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Wakȟáŋ Tȟáŋka is accurately rendered by the popular \"Great Spirit\" gloss, which imports a monotheistic personification the sixteen-aspect Tobtob Kin structure does not carry"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

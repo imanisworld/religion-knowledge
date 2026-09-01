@@ -1,0 +1,69 @@
+{
+  "id": "claim_old_oraibi_dating_contested",
+  "subject_type": "Culture",
+  "subject_id": "cul_hopi",
+  "statement": "Popular/tourism sources (e.g. Britannica Kids, tourism blogs) call Old Oraibi \"the oldest continuously inhabited settlement in the United States,\" typically dated \"around 1150 AD\" or \"before 1100 AD.\" This superlative is directly contested by a real competing candidate: Acoma Pueblo (Sky City), New Mexico, also generally dated to occupation beginning c. 1100-1250 CE, with multiple tourism/history sources explicitly framing this as a two-way rivalry. No rigorous academic dendrochronological publication giving a precise founding date for Oraibi specifically was located in this research pass — Old Oraibi was a site of extensive early tree-ring sample collection (200+ specimens) by A.E. Douglass, founder of archaeological dendrochronology, but no specific published founding-date figure from that work was located. A defensible, narrower claim that IS well-supported: Oraibi is one of the longest continuously inhabited settlement sites in the US, generally dated to occupation from c. 1100-1150 CE onward, first recorded by Europeans in 1540 (Pedro de Tovar expedition).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": 1100,
+    "latest": 1150,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "The specific \"oldest in the US, full stop\" superlative for Old Oraibi is disputed by the comparably-aged, comparably documented Acoma Pueblo claim; no precise scholarly dendrochronological founding date exists for either site pinning down which is actually older.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Britannica, \"Oraibi\"; Wikipedia, \"Oraibi, Arizona\"; Pima County Public Library, \"Oldest Communities in the United States\"; TheCollector, \"5 Oldest Native American Towns\" — convergent tourism/reference-tier sources on the contested superlative.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Old Oraibi, occupied since c. 1100-1150 CE, is the oldest continuously inhabited settlement in the United States",
+      "holders": [
+        {
+          "name": "Popular tourism/reference sources (Britannica Kids and multiple tourism-industry summaries)",
+          "camp": "POPULAR/TOURISM SUPERLATIVE"
+        }
+      ],
+      "strongest_case": "Oraibi has a long, well-attested occupation history and was a major site of A.E. Douglass's foundational dendrochronological sample collection.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "Acoma Pueblo (Sky City), New Mexico, occupied since a comparable c. 1100-1250 CE window, is an equally or better-documented claimant to the same superlative",
+      "holders": [
+        {
+          "name": "Multiple tourism/history sources explicitly framing this as a two-way rivalry",
+          "camp": "COMPETING-CLAIMANT SCHOOL"
+        }
+      ],
+      "strongest_case": "Acoma's occupation dating is comparably well-attested, and no rigorous, precisely-dated dendrochronological publication exists singling out Oraibi as definitively older.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [
+    "That Old Oraibi is settled, uncontested fact as \"the oldest continuously inhabited settlement in the US\" — it is a contested popular claim with a real, comparably-documented rival (Acoma)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

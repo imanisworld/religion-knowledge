@@ -1,0 +1,97 @@
+{
+  "id": "claim_haudenosaunee_founding_dispute",
+  "subject_type": "Polity",
+  "subject_id": "pty_haudenosaunee_confederacy",
+  "statement": "The Haudenosaunee Confederacy's founding date is genuinely and actively disputed among named scholars using incompatible methods, not a settled fact. [NEO-DOCUMENTARIAN/ORAL-TRADITION-PRIMACY — Barbara A. Mann and Jerry L. Fields, \"A Sign in the Sky: Dating the League of the Haudenosaunee,\" American Indian Culture and Research Journal 21(2), 1997]: interpret a \"sign in the sky\" in the Peacemaker oral narrative as a solar eclipse, dating it to 31 August 1142 CE via the astronomical record, explicitly arguing that dismissing Haudenosaunee oral historians in favor of documentary-only evidence is \"capricious, and most probably racial.\" [PROCESSUAL ARCHAEOLOGY — Dean R. Snow, The Iroquois, Blackwell, 1994]: argues archaeological settlement/ceramic evidence does not support a date earlier than c. 1450, and has stated claims for a much earlier founding \"may be for contemporary political purposes.\" [MAINSTREAM ETHNOHISTORY — Elisabeth Tooker]: documentary/ethnohistoric sources place the founding c. 1400-1600, \"or shortly before\" European contact; Tooker separately argued (in the related Founders/Constitution-influence debate) that evidence for Native political influence on the American Founders specifically is \"very thin.\" [MAINSTREAM ETHNOHISTORY, synthesis — William N. Fenton, The Great Law and the Longhouse: A Political History of the Iroquois Confederacy, University of Oklahoma Press, 1998]: treats the documented political confederacy as taking clear historical shape by the mid-16th century. The Confederacy's own official position states it has existed since \"time immemorial,\" declining to fix a date.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "The founding date ranges from 1142 CE (Mann and Fields, astronomical/oral-tradition method) to as late as c. 1600 (some ethnohistorians' documentary reading), with the modal academic position clustering c. 1450-1600 and Dean Snow's archaeological floor at c. 1450 the most frequently cited empirical constraint against the earliest date; no consensus resolution exists.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Mann, Barbara A., and Jerry L. Fields. \"A Sign in the Sky: Dating the League of the Haudenosaunee.\" American Indian Culture and Research Journal 21(2), 1997.",
+      "author": "Mann and Fields",
+      "year": 1997,
+      "venue": "American Indian Culture and Research Journal",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Snow, Dean R. The Iroquois. Cambridge, MA: Blackwell, 1994.",
+      "author": "Dean R. Snow",
+      "year": 1994,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Fenton, William N. The Great Law and the Longhouse: A Political History of the Iroquois Confederacy. Norman: University of Oklahoma Press, 1998.",
+      "author": "William N. Fenton",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "The League was founded 31 August 1142 CE, dated via a solar eclipse recorded in the Peacemaker oral narrative",
+      "holders": [
+        {
+          "name": "Barbara A. Mann",
+          "work": "American Indian Culture and Research Journal 21(2), 1997",
+          "year": 1997,
+          "camp": "ORAL-TRADITION-PRIMACY SCHOOL"
+        },
+        {
+          "name": "Jerry L. Fields",
+          "camp": "ORAL-TRADITION-PRIMACY SCHOOL"
+        }
+      ],
+      "strongest_case": "Takes Haudenosaunee oral historical evidence as seriously as documentary evidence and finds a specific, checkable astronomical correlate.",
+      "status": "MINORITY"
+    },
+    {
+      "position": "Archaeological evidence does not support a founding date earlier than c. 1450",
+      "holders": [
+        {
+          "name": "Dean R. Snow",
+          "work": "The Iroquois, 1994",
+          "year": 1994,
+          "camp": "PROCESSUAL ARCHAEOLOGY SCHOOL"
+        }
+      ],
+      "strongest_case": "Settlement-pattern and material-culture data provide an independent empirical floor against which oral/documentary dates can be checked.",
+      "status": "MAJORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

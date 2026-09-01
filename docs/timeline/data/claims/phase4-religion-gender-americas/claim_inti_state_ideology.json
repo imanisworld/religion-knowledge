@@ -1,0 +1,40 @@
+{
+  "id": "claim_inti_state_ideology",
+  "subject_type": "Deity",
+  "subject_id": "dty_inti",
+  "statement": "The Sapa Inca held the title Intip churin, \"Son of the Sun,\" establishing his sacred right to rule, placing him above rivals and freeing him from laws binding ordinary mortals. With imperial expansion, sun worship was incorporated into the religions of conquered peoples and used as imperial propaganda that the Inca held a divine right to rule; by incorporating local deities into the solar pantheon with Inti at the apex, the Inca state promoted a shared religious identity that helped bind the empire together — a clear, multiply-attested case of state religion as legitimating ideology tied to conquest and dynastic claims, structurally comparable to the documented Mexica political elevation of Huitzilopochtli (see claim_huitzilopochtli_political_elevation) though independently sourced.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General convergent tertiary/encyclopedic sourcing on Inti and the Qoricancha state cult (History Skills; World History Encyclopedia); a named specialist monograph (Brian S. Bauer, The Sacred Landscape of the Inca: The Cusco Ceque System, University of Texas Press, 1998) was recommended by the research agent but not directly retrieved in this research pass.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

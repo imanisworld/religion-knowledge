@@ -1,0 +1,149 @@
+{
+  "id": "gs_inca",
+  "culture_id": "cul_inca",
+  "region": [
+    "South America"
+  ],
+  "period": {
+    "earliest": 1438,
+    "latest": 1615,
+    "precision": "CENTURY",
+    "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Complementary but distinct spheres. Women: weaving/textile production, chicha (maize beer) brewing, cooking, childcare, agricultural tasks (planting, weeding, harvesting, herding, water-carrying). Men: large-scale construction, military service, most administrative/political offices, heavier field-preparation labor. Division described across sources as not rigid; textile production and household ritual by women were vital to state and community — not merely domestic but state-economically significant (see the Acllacuna institution under gendered_legal_restrictions).",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General synthesis of Inca gendered-labor scholarship (multiple convergent secondary sources; not anchored to a single named ethnohistorical monograph in this research pass).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "DISPUTED in degree. Formal imperial political office (governors, generals, most administrative roles) was male-dominated and increasingly centralized under male Sapa Inca authority as empire expanded. However, women held real, parallel institutional authority: the Coya (principal wife/queen) held political power and could inherit land; female religious/administrative hierarchies (priestesses, Acllacuna-institution administrators) paralleled the male hierarchy rather than being subordinate appendages, at least at the local/pre-imperial level, with partial preservation into the imperial period. Irene Silverblatt, Moon, Sun, and Witches: Gender Ideologies and Class in Inca and Colonial Peru, Princeton University Press, 1987, argues the Inca imperial state manipulated/altered pre-existing gender-parallel ideology to reinforce political control, converting complementary parallelism into a more hierarchical, male-dominant structure at the imperial level even as complementarity ideology persisted symbolically.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Silverblatt, Irene. Moon, Sun, and Witches: Gender Ideologies and Class in Inca and Colonial Peru. Princeton, NJ: Princeton University Press, 1987.",
+          "author": "Irene Silverblatt",
+          "year": 1987,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Women retained independent access to economic resources even under the Inca empire (per sources engaging with a decolonial-feminist critique contrasting Inca-era continuity of women's economic access against a sharper post-Spanish-conquest rupture); the Coya could inherit land. The Inca state had no codified written law in the alphabetic sense, so legal-status claims are necessarily reconstructed from colonial-era ethnohistorical accounts and are correspondingly less precise than for literate societies.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Silverblatt, Irene. Moon, Sun, and Witches. Princeton University Press, 1987.",
+          "author": "Irene Silverblatt",
+          "year": 1987,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Described across sources as complementary/co-authoritative rather than strictly male-dominant at the commoner level — \"Incan couples viewed their contributions to the relationship and household as complementary but equal,\" reflecting the broader Andean cosmological framework of paired complementary principles. This is explicitly the level at which Silverblatt argues complementarity was strongest and least eroded, versus the imperial/state level where male hierarchy became more pronounced.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Silverblatt, Irene. Moon, Sun, and Witches. Princeton University Press, 1987.",
+          "author": "Irene Silverblatt",
+          "year": 1987,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "The Acllacuna (\"Chosen Women\") institution: girls typically aged 8-10, selected from provincial communities by imperial inspectors on criteria including appearance, character, and aptitude, taken to acllahuasi (\"houses of the chosen\") for training/seclusion, with multiple ranked \"grades.\" Roles: producing fine cumbi textiles functioning as imperial taxation/tribute and diplomatic-gift currency (a state-economic role, not merely religious seclusion), preparing ritual food, brewing chicha for state festivals, serving as temple attendants (especially Inti worship), being given in marriage by the Sapa Inca to men distinguished in imperial service (a loyalty/reward mechanism), and — for a smaller subset — selection as capacocha human-sacrifice victims. The colonial-Spanish \"Virgins of the Sun\" gloss is explicitly flagged in the sources as misleading — not all acllas remained perpetually secluded/celibate (many were later married), and the institution's core function was as much economic/political as narrowly religious-virginal; this is directly analogous to the Acllacuna/\"Virgins of the Sun\" case being exactly the translator's-romanticizing-gloss problem this project watches for.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General synthesis of Acllacuna scholarship (multiple convergent secondary/encyclopedic sources; a dedicated academic monograph, e.g. by Sabine MacCormack, was recommended by the research agent but not directly retrieved in this research pass).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED. [SILVERBLATT/MAINSTREAM ETHNOHISTORICAL]: pre-Inca Andean society exhibited genuine gender parallelism/complementarity, not patriarchy in the Western sense; Inca imperial expansion introduced/intensified hierarchical elements (partial patriarchalization) while nominally preserving parallel symbolic structures; sharp, more totalizing patriarchy arrived definitively with Spanish colonization. [DECOLONIAL/POSTCOLONIAL FEMINIST — drawing on María Lugones/Oyèrónkẹ́ Oyěwùmí-influenced frameworks]: a stronger position holding gender itself as a bounded hierarchical category may be substantially a colonial imposition — pre-colonial Andean society was more genuinely egalitarian than even Silverblatt's \"complementarity-with-some-imperial-hierarchy\" framing allows. Both camps agree Spanish colonization sharply worsened gender inequality; they disagree on how much pre-existing hierarchy, if any, existed under the Inca state itself before Spanish contact. No named scholar offering a third camp arguing Inca/Andean society was straightforwardly patriarchal with no meaningful complementarity was located in this research pass — this may be a genuine absence in the literature or a gap in this pass's search coverage.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Silverblatt, Irene. Moon, Sun, and Witches. Princeton University Press, 1987.",
+          "author": "Irene Silverblatt",
+          "year": 1987,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "No strong documented evidence was found in this research pass of formal Quechua/Andean community-specific religious-knowledge-restriction scholarship analogous to the Aboriginal Australian case; what exists is largely contemporary tourism/visitor-conduct etiquette guidance, a materially different and weaker category — flagged rather than treated as equivalent."
+  },
+  "notes": null
+}

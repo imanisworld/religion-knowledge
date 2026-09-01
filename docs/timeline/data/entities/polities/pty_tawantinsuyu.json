@@ -1,0 +1,15 @@
+{
+  "id": "pty_tawantinsuyu",
+  "name": "Tawantinsuyu (\"Inca Empire\")",
+  "region": [
+    "South America"
+  ],
+  "date_range": {
+    "earliest": 1438,
+    "latest": 1572,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "patronage_edges": [],
+  "notes": "The empire’s self-designation, \"the four regions/parts together\" (Chinchaysuyu, Antisuyu, Collasuyu, Contisuyu radiating from Cusco); \"Inca Empire\" is a widely-used alias that conflates the ruler/ruling-elite term with the multiethnic state. The 1438 founding date (Pachacuti Inca Yupanqui’s ascension, per John Rowe’s classical 1945/46 chronology built from colonial king-lists) is the traditional figure but has been directly challenged by more recent Bayesian-refined radiocarbon dating (Cambridge University Press/Radiocarbon journal), with at least one peer-reviewed source concluding \"1438 should not be used as a starting date for the Inca polity and history\" — see claim_pachacuti_dating_revision. Organized political resistance continued 40 years past the 1532 Cajamarca capture of Atahualpa, via the Neo-Inca State at Vilcabamba (founded 1537 by Manco Inca Yupanqui), until Vilcabamba’s fall and Túpac Amaru’s execution in 1572 — the entity’s date_range latest reflects this 1572 end of organized resistance, not the 1532 capture, which is a documented popular-narrative omission (see claim_tawantinsuyu_fall_multicausal)."
+}

@@ -1,0 +1,188 @@
+{
+  "id": "gs_mexica",
+  "culture_id": "cul_mexica",
+  "region": [
+    "Mesoamerica"
+  ],
+  "period": {
+    "earliest": 1325,
+    "latest": 1700,
+    "precision": "CENTURY",
+    "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Complementary/parallel-spheres model is the dominant scholarly framing. Men's public/martial role (warfare, tribute) was ideologically framed as directly dependent on and equally essential to women's domestic-ritual labor (weaving, food preparation, home-based ritual practice, childbirth reframed as a form of \"warrior\" service/capture). Louise Burkhart's work specifically demonstrated men's battlefield success was ideologically tied to women's home-front ritual performance.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Burkhart, Louise M. Work on Aztec gender ideology and complementarity (specific monograph title not pinned in this research pass; commonly associated with The Slippery Earth: Nahua-Christian Moral Dialogue in Sixteenth-Century Mexico, University of Arizona Press, 1989).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Dodds Pennock, Caroline. Bonds of Blood: Gender, Lifecycle and Sacrifice in Aztec Culture. Basingstoke: Palgrave Macmillan, 2008.",
+          "author": "Caroline Dodds Pennock",
+          "year": 2008,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "State rulership (tlatoani) and the highest political-military offices (cihuacoatl office, military command) were exclusively male in the documented record. No confirmed cases of female tlatoque in Tenochtitlan itself. Important terminological precision: \"Cihuacoatl\" names both a female earth/childbirth-associated deity AND the second-highest office in Tenochtitlan's government (created under tlatoani Itzcoatl, r. 1427-1440) — an office held by men (most famously Tlacaelel, for roughly six decades). These are two distinct, name-sharing entities, not a contradiction to resolve away; the dualistic Nahua cosmological logic behind naming a powerful male office after a goddess is itself a documented point of scholarly interest.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Wikipedia, \"Cihuacoatl (position),\" cross-corroborated by general Mexica political-history sourcing.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Susan Kellogg, Law and the Transformation of Aztec Culture, 1500-1700, University of Oklahoma Press, 1995, based on 73 property lawsuits before the Real Audiencia (1536-1700) plus pre-contact-era wills: pre-Hispanic Mexica women held real, documented property and inheritance rights — inheritance passed through both male and female lines, women could and did will property (including favoring female heirs in some surviving wills). Kellogg's key dynamic finding: colonial Spanish law subsequently ERODED these rights, shifting households from bilateral/multifamily kinship structures toward Spanish-style nuclear patrilineal families and increasing women's legal subordination over the 16th-17th centuries — i.e. the pre-conquest baseline was LESS patriarchal in property terms than the colonial trajectory that followed.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Kellogg, Susan. Law and the Transformation of Aztec Culture, 1500-1700. Norman: University of Oklahoma Press, 1995.",
+          "author": "Susan Kellogg",
+          "year": 1995,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Complementary-parallel model again dominant: women held real domestic-sphere authority (household management, ritual, economic production via weaving/marketplace activity) described by specialists as \"equally essential,\" not merely subordinate-but-tolerated.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Dodds Pennock, Caroline. Bonds of Blood: Gender, Lifecycle and Sacrifice in Aztec Culture. Palgrave Macmillan, 2008.",
+          "author": "Caroline Dodds Pennock",
+          "year": 2008,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Kellogg, Susan. Law and the Transformation of Aztec Culture, 1500-1700. University of Oklahoma Press, 1995.",
+          "author": "Susan Kellogg",
+          "year": 1995,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Documented gender-restricted religious offices existed: girls could be dedicated in infancy to become cihuatlamacazqui (female priests/priestesses), serving through their teens, typically only \"several years\" before leaving to marry — contrasted with male priests who could serve for life. Priestesses conducted rituals for female deities and taught girls at calmecac/telpochcalli schools, but were explicitly barred from officiating human sacrifice at major festivals honoring their own goddesses, and could not attain the highest priestly offices, reserved for men.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General secondary sourcing on cihuatlamacazqui (female priesthood) drawing on Florentine Codex material (Heather on History, \"Aztec priestesses\"; Zoe Saadia, \"cihuatlamacazqui\").",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED. [COMPLEMENTARITY/PARALLELISM — Susan Kellogg; Louise Burkhart; Inga Clendinnen (1990s); Caroline Dodds Pennock]: Mexica gender ideology structured around \"parallel but distinct spheres,\" male and female roles ideologically framed as equally necessary to cosmic/social order — described by multiple secondary sources as probably the dominant paradigm in current specialist studies of Mesoamerican gender relations. [HIERARCHY/PATRIARCHY-CRITIQUE — general critical commentary, e.g. Alice Evans's essays \"Getting Real about Aztec Patriarchy\" and \"Aztec Patriarchy: Women's Work and Men's War\"]: argues the complementarity framing risks minimizing real, structural patriarchal features — militaristic, male-dominated state religion and rulership, warfare-centered ideology instrumentalizing women's reproductive/ritual labor in service of a male-controlled tribute-and-conquest system; Pete Sigal, The Flower and the Scorpion: Sexuality and Ritual in Early Nahua Culture, Duke University Press, 2011, is cited as complicating the complementarity picture further. Both camps agree on the underlying facts (real property/inheritance rights, restricted-but-real religious roles, no access to top political/military office, an ideology valorizing female domestic/reproductive labor as cosmically necessary) and disagree on how much weight to give \"equally necessary but categorically separate and subordinate in state power\" relative to \"genuine complementary parity.\"",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Dodds Pennock, Caroline. Bonds of Blood: Gender, Lifecycle and Sacrifice in Aztec Culture. Palgrave Macmillan, 2008.",
+          "author": "Caroline Dodds Pennock",
+          "year": 2008,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Sigal, Pete. The Flower and the Scorpion: Sexuality and Ritual in Early Nahua Culture. Durham, NC: Duke University Press, 2011.",
+          "author": "Pete Sigal",
+          "year": 2011,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate: neither the documented property/inheritance rights nor the restricted-priestess-role evidence, alone, settles a whole-society verdict of \"complementary parity\" or \"patriarchal hierarchy\" — both camps above are working from the same underlying documented facts and disagree on their relative weight, not on the facts themselves."
+  },
+  "notes": null
+}

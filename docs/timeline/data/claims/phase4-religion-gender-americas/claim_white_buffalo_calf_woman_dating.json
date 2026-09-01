@@ -1,0 +1,46 @@
+{
+  "id": "claim_white_buffalo_calf_woman_dating",
+  "subject_type": "Deity",
+  "subject_id": "dty_white_buffalo_calf_woman",
+  "statement": "White Buffalo Calf Woman (Ptesáŋwiŋ) brought the Sacred Pipe (Chanunpa) and the Seven Sacred Rites to the Lakota, per Joseph Epes Brown, The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux (University of Oklahoma Press, 1953). The tradition's own internal dating mechanism — the Battiste Good winter count, a Lakota pictographic year-count record — places this founding narrative at roughly 900 CE (\"19 generations ago\" in oral retellings). This internal date is not externally corroborated by any independent archaeological or documentary method; the material culture of pipe-ceremonialism generally is far older (millennia) but the Lakota division specifically controlled the Pipestone quarry only from c. 1700 CE, so neither anchor directly dates this specific narrative.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "TRADITION_INTERNAL_CLAIM",
+  "date": {
+    "earliest": 900,
+    "latest": 900,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "LOW",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Brown, Joseph Epes. The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux. Norman: University of Oklahoma Press, 1953.",
+      "author": "Joseph Epes Brown",
+      "year": 1953,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the winter-count \"19 generations\" dating is independently verified by archaeology or an external chronological method, as opposed to being the tradition's own internal claim"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

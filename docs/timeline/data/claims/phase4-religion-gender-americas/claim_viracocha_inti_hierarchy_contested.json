@@ -1,0 +1,40 @@
+{
+  "id": "claim_viracocha_inti_hierarchy_contested",
+  "subject_type": "Deity",
+  "subject_id": "dty_viracocha",
+  "statement": "Viracocha is presented across the post-conquest chronicle sources as a creator deity and culture hero credited with making all things including Inti, and as a figure associated with pre-Inca as well as Inca peoples — older/more universal than the specifically Inca dynastic solar cult. But Viracocha's status relative to Inti is itself genuinely contested in the sources: some traditions present Viracocha as ultimate creator with Inti as his son/creation; others present a different hierarchy, and identification of the central figure on the Tiwanaku Gateway of the Sun is itself disputed between Inti and Viracocha. This reflects real, documented ambiguity or historical shift in the tradition (one strand holds Viracocha's cult was specifically promoted by Pachacuti, possibly for political reasons), not merely modern scholarly disagreement about one stable ancient fact.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "LOW",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General convergent tertiary/encyclopedic sourcing on Viracocha's contested relationship to Inti and the Tiwanaku Gateway of the Sun identification question.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

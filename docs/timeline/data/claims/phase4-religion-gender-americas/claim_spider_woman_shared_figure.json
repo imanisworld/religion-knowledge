@@ -1,0 +1,42 @@
+{
+  "id": "claim_spider_woman_shared_figure",
+  "subject_type": "Deity",
+  "subject_id": "dty_spider_woman_dine",
+  "statement": "Spider Woman/Spider Grandmother figures appear across multiple Southwestern traditions — Diné Naʼashjéʼii Asdzą́ą́, Hopi Kokyangwuti, and Keresan Pueblo Thought Woman (Tse-che-nako/Sussistanako) — but specialists document a real functional difference rather than treating this as simple shared borrowing: in Hopi tradition Spider Grandmother is a CREATOR figure (creator of humans/all living things), whereas in Diné tradition Spider Woman is explicitly NOT the creator of humans, functioning instead as a constant helper/benefactor/culture-teacher credited with teaching weaving. In some recorded Navajo tellings Spider Woman is herself described as a Kisani (Pueblo) woman taught weaving by a spider — the tradition's own internal narrative gestures toward a Puebloan point of origin for the weaving-teaching motif, consistent with the broader documented pattern of post-1680 Puebloan-Navajo religious exchange, though no named specialist source explicitly asserting \"Spider Woman was borrowed from Pueblo religion\" as a direct causal claim was located in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General comparative sourcing on Spider Woman/Spider Grandmother across Diné, Hopi, and Keresan traditions (Encyclopedia.com \"Spider Woman\"; native-languages.org \"Spider Woman, the Navajo goddess\").",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Spider Woman was directly borrowed from Hopi/Keresan tradition into Diné tradition, as opposed to two independently documented adjacent facts (the shared-figure pattern and the general post-1680 contact/exchange pattern) that this project connects only as inference"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

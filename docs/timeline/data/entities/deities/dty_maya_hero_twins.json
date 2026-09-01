@@ -1,0 +1,15 @@
+{
+  "id": "dty_maya_hero_twins",
+  "name": "The Hero Twins (Hunahpu and Xbalanque)",
+  "region": [
+    "Mesoamerica"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "sons of Hun Hunahpu and Xquic (\"Blood Moon\"); avenge their father and uncle by defeating the Lords of Xibalba through a series of trials, eventually associated astronomically with the sun and Venus/moon depending on the telling",
+      "claim_id": "claim_popol_vuh_manuscript_history"
+    }
+  ],
+  "notes": "Standard Popol Vuh narrative, corroborated by Michael Coe's Classic-ceramic iconographic identifications (black-spotted Hunahpu, jaguar-marked Xbalanque, Coe 1989). Full name roster for the twelve Lords of Xibalba varies slightly by translation (Christenson vs. Tedlock) and was not resolved to one canonical list in this research pass."
+}

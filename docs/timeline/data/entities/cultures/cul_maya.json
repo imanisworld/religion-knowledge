@@ -1,0 +1,14 @@
+{
+  "id": "cul_maya",
+  "name": "Maya",
+  "region": [
+    "Mesoamerica"
+  ],
+  "date_range": {
+    "earliest": -2000,
+    "latest": null,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "notes": "Not a single people or state but an umbrella covering dozens of distinct, genuinely diverse Mayan-language-speaking ethnic groups (K’iche’, Yucatec, Tzotzil, Tzeltal, Mam, Q’eqchi’, and others, from a family of roughly 30 languages) across a continuous span from the Preclassic (c. 2000 BCE) through today — millions of Maya people live now, this is not solely an ancient/collapsed civilization (Matthew Restall, \"Maya Ethnogenesis\"; Sharer & Traxler, The Ancient Maya, 6th ed., Stanford UP, 2006, both treat \"Maya\" as a scholarly/outsider umbrella rather than a self-designation any pre-contact group used). Modeled here as one Culture entity with this explicit scope note, mirroring the Aboriginal Australian approach of an honest umbrella rather than either inventing one flattened \"Maya religion\" or fragmenting into unsourceable per-group entities — see trad_kiche_maya_religion, which anchors specifically on K’iche’ material (the Popol Vuh) rather than claiming to represent all Maya groups. Classic-period collapse (c. 800–900 CE, southern lowlands) was a rolling, regionally uneven, multi-causal process (drought, warfare, political fragmentation), not a single event, and did not end Maya civilization — northern Yucatán cities continued and the last independent Maya kingdom, Nojpetén, fell only in 1697 (see claim_nojpeten_last_independent_kingdom). The project already models a Maya WritingSystem entity (ws_maya_script) and Text entity (text_san_bartolo_murals) from an earlier research phase; this batch does not duplicate them."
+}

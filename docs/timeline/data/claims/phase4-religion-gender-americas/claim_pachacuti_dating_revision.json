@@ -1,0 +1,82 @@
+{
+  "id": "claim_pachacuti_dating_revision",
+  "subject_type": "Polity",
+  "subject_id": "pty_tawantinsuyu",
+  "statement": "John Rowe's classical chronology (1945/1946), built from colonial-era king-lists, dated Pachacuti Inca Yupanqui's ascension — and with it the start of major Inca imperial expansion, from a highland chiefdom to a continental power in barely a century — to 1438 CE, following his defense of Cusco against the Chanka invasion and his deposing of his father Viracocha Inca. This traditional date has been directly challenged by more recent Bayesian-refined radiocarbon dating (Cambridge University Press/Radiocarbon journal; specific author/year not fully confirmed in this research pass, flagged for follow-up), with at least one peer-reviewed source concluding \"1438 should not be used as a starting date for the Inca polity and history.\" A related paper independently uses AMS radiocarbon dating to revise construction dates for Machu Picchu and its satellite sites, consistent with the broader revisionist chronology project. The 1438 date should be reported as \"traditional/classical chronology, since challenged by radiocarbon-Bayesian dating,\" not as a settled fact.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "TRADITION_INTERNAL_CLAIM",
+  "date": {
+    "earliest": 1438,
+    "latest": 1438,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "John Rowe's traditional 1438 date (from colonial king-lists) is challenged by more recent Bayesian-refined radiocarbon dating published in Radiocarbon (Cambridge University Press), which argues the traditional date should not be used as the polity's starting point; the revised date has not been resolved to a single agreed figure in the sources located.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Rowe, John Howland. \"Absolute Chronology in the Andean Area.\" American Antiquity 10(3), 1945.",
+      "author": "John Howland Rowe",
+      "year": 1945,
+      "venue": "American Antiquity",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "\"Reconceiving the Chronology of Inca Imperial Expansion.\" Radiocarbon, Cambridge University Press (exact author/year not fully confirmed in this research pass).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Pachacuti's ascension, and the start of major Inca imperial expansion, dates to 1438 CE",
+      "holders": [
+        {
+          "name": "John Howland Rowe",
+          "work": "\"Absolute Chronology in the Andean Area,\" American Antiquity 10(3), 1945",
+          "year": 1945,
+          "camp": "CLASSICAL/KING-LIST CHRONOLOGY SCHOOL"
+        }
+      ],
+      "strongest_case": "Built from systematic cross-referencing of colonial-era Spanish chronicler king-lists, the foundational and long-standard chronology for Andean archaeology.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "1438 should not be used as a starting date for the Inca polity and history; imperial expansion likely began somewhat earlier",
+      "holders": [
+        {
+          "name": "Bayesian-refined radiocarbon dating research published in Radiocarbon (Cambridge University Press); exact authorship not fully confirmed in this research pass",
+          "camp": "RADIOCARBON-BAYESIAN REVISIONIST SCHOOL"
+        }
+      ],
+      "strongest_case": "Direct absolute dating (AMS radiocarbon, Bayesian-modeled) of Cusco-region and Machu Picchu-area sites, independent of the colonial-era chroniclers' own potential errors or agendas in recording king-lists.",
+      "status": "MINORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
