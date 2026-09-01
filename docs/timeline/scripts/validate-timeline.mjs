@@ -39,6 +39,9 @@ const SUBJECT_TYPES = [
   'Population', 'Culture', 'Polity', 'Tradition', 'Deity', 'Text', 'Narrative',
   'KnowledgeState', 'GenderSystem', 'Person', 'WritingSystem', 'MediaEra', 'Hypothesis',
 ];
+const ORIGIN_TYPES = ['INDEPENDENT', 'STIMULUS_DIFFUSION', 'ADAPTATION', 'UNCERTAIN'];
+const SCRIPT_TYPES = ['LOGOGRAPHIC', 'SYLLABIC', 'ALPHABETIC', 'ABJAD', 'ABUGIDA', 'LOGOSYLLABIC', 'MIXED', 'UNKNOWN'];
+const DECIPHERMENT_STATUSES = ['DECIPHERED', 'PARTIAL', 'UNDECIPHERED', 'DISPUTED'];
 
 // SPEC.md P5: "Middle East"/"Near East" banned as an ancient-period lane label.
 // Applied to any region tag on a claim or entity whose date (if present) is BCE
@@ -117,13 +120,19 @@ function checkDateSemanticsValue(value, sourceLabel) {
 const entityFiles = readJsonFilesRecursive(ENTITIES_DIR);
 const entitiesById = new Map(); // id -> { data, type, file }
 
+const ENTITY_DIR_TYPES = {
+  populations: 'Population',
+  writing_systems: 'WritingSystem',
+  texts: 'Text',
+};
+
 for (const file of entityFiles) {
   const data = loadJson(file);
   if (!data) continue;
   const rel = path.relative(ROOT, file);
-  const type = path.basename(path.dirname(file)) === 'populations' ? 'Population' : null;
+  const type = ENTITY_DIR_TYPES[path.basename(path.dirname(file))] || null;
   if (!type) {
-    fail(`${rel}: could not infer entity type from directory name; expected e.g. data/entities/populations/`);
+    fail(`${rel}: could not infer entity type from directory name; expected one of ${Object.keys(ENTITY_DIR_TYPES).join(', ')} under data/entities/`);
     continue;
   }
   if (!data.id) {
@@ -138,6 +147,10 @@ for (const file of entityFiles) {
 
   if (type === 'Population') {
     validatePopulation(data, rel);
+  } else if (type === 'WritingSystem') {
+    validateWritingSystem(data, rel);
+  } else if (type === 'Text') {
+    validateText(data, rel);
   }
 }
 
@@ -184,6 +197,66 @@ function validatePopulation(pop, rel) {
   }
 }
 
+function validateWritingSystem(ws, rel) {
+  if (!ws.name) fail(`${rel}: WritingSystem missing name`);
+  if (!ORIGIN_TYPES.includes(ws.origin_type)) {
+    fail(`${rel}: origin_type "${ws.origin_type}" not one of ${ORIGIN_TYPES.join(', ')} (SPEC.md §7.1)`);
+  }
+  if (ws.script_type !== null && ws.script_type !== undefined && !SCRIPT_TYPES.includes(ws.script_type)) {
+    fail(`${rel}: script_type "${ws.script_type}" invalid`);
+  }
+  if (!ws.date_range || typeof ws.date_range !== 'object') {
+    fail(`${rel}: WritingSystem missing date_range`);
+  } else {
+    checkDateSemanticsValue(ws.date_range.date_semantics, `${rel} date_range`);
+    if (!DATE_PRECISIONS.includes(ws.date_range.precision)) {
+      fail(`${rel}: date_range.precision "${ws.date_range.precision}" invalid`);
+    }
+    if (ws.date_range.date_semantics === null || ws.date_range.date_semantics === undefined) {
+      fail(`${rel}: date_range.date_semantics is required`);
+    }
+  }
+  checkRegionLabels(ws.region, rel);
+  if (!Array.isArray(ws.region) || ws.region.length === 0) {
+    fail(`${rel}: WritingSystem must have at least one region tag`);
+  }
+  if (ws.descends_from) {
+    for (const [i, edge] of ws.descends_from.entries()) {
+      const label = `${rel} descends_from[${i}]`;
+      if (!edge.writing_system_id) fail(`${label}: missing writing_system_id`);
+      if (!CONFIDENCE_LEVELS.includes(edge.confidence)) {
+        fail(`${label}: confidence "${edge.confidence}" invalid`);
+      }
+      if (!edge.claim_id) fail(`${label}: descends_from entries must cite a backing claim_id`);
+      // cross-reference resolved after claims are loaded, below
+    }
+  }
+}
+
+function validateText(text, rel) {
+  if (!text.name) fail(`${rel}: Text missing name`);
+  if (!text.writing_system_id) {
+    fail(`${rel}: Text missing writing_system_id`);
+  }
+  if (!DECIPHERMENT_STATUSES.includes(text.decipherment_status)) {
+    fail(`${rel}: decipherment_status "${text.decipherment_status}" not one of ${DECIPHERMENT_STATUSES.join(', ')} (SPEC.md §7.1)`);
+  }
+  if (text.witness_chain) {
+    for (const key of ['composition_date', 'earliest_witness_date']) {
+      const d = text.witness_chain[key];
+      if (d === null || d === undefined) continue;
+      checkDateSemanticsValue(d.date_semantics, `${rel} witness_chain.${key}`);
+      if (!DATE_PRECISIONS.includes(d.precision)) {
+        fail(`${rel}: witness_chain.${key}.precision "${d.precision}" invalid`);
+      }
+      if (d.date_semantics === null || d.date_semantics === undefined) {
+        fail(`${rel}: witness_chain.${key}.date_semantics is required when ${key} is present`);
+      }
+    }
+  }
+  checkRegionLabels(text.region, rel);
+}
+
 // ---------------------------------------------------------------------------
 // Load claims
 // ---------------------------------------------------------------------------
@@ -213,10 +286,16 @@ for (const [id, { data: claim, file }] of claimsById) {
   if (!SUBJECT_TYPES.includes(claim.subject_type)) {
     fail(`${label}: subject_type "${claim.subject_type}" not recognized`);
   }
+  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text'];
   if (!claim.subject_id) {
     fail(`${label}: missing subject_id`);
-  } else if (claim.subject_type === 'Population' && !entitiesById.has(claim.subject_id)) {
-    fail(`${label}: subject_id "${claim.subject_id}" does not resolve to any loaded Population entity`);
+  } else if (ENTITY_BACKED_SUBJECT_TYPES.includes(claim.subject_type)) {
+    const subj = entitiesById.get(claim.subject_id);
+    if (!subj) {
+      fail(`${label}: subject_id "${claim.subject_id}" does not resolve to any loaded ${claim.subject_type} entity`);
+    } else if (subj.type !== claim.subject_type) {
+      fail(`${label}: subject_id "${claim.subject_id}" resolves to a ${subj.type} entity, not ${claim.subject_type}`);
+    }
   }
 
   if (typeof claim.statement !== 'string' || claim.statement.trim().length === 0) {
@@ -315,17 +394,42 @@ for (const [id, { data: claim, file }] of claimsById) {
   }
 }
 
-// Cross-reference gene_flow_edges now that claims are loaded.
+// Cross-reference gene_flow_edges / descends_from now that claims are loaded.
 for (const [entId, { data, type, file }] of entitiesById) {
-  if (type !== 'Population' || !data.gene_flow_edges) continue;
   const rel = path.relative(ROOT, file);
-  for (const [i, edge] of data.gene_flow_edges.entries()) {
-    const label = `${rel} gene_flow_edges[${i}]`;
-    if (edge.with_population_id && !entitiesById.has(edge.with_population_id)) {
-      fail(`${label}: with_population_id "${edge.with_population_id}" does not resolve to any loaded Population entity`);
+  if (type === 'Population' && data.gene_flow_edges) {
+    for (const [i, edge] of data.gene_flow_edges.entries()) {
+      const label = `${rel} gene_flow_edges[${i}]`;
+      if (edge.with_population_id && !entitiesById.has(edge.with_population_id)) {
+        fail(`${label}: with_population_id "${edge.with_population_id}" does not resolve to any loaded Population entity`);
+      }
+      if (edge.claim_id && !claimsById.has(edge.claim_id)) {
+        fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+      }
     }
-    if (edge.claim_id && !claimsById.has(edge.claim_id)) {
-      fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+  }
+  if (type === 'WritingSystem' && data.descends_from) {
+    for (const [i, edge] of data.descends_from.entries()) {
+      const label = `${rel} descends_from[${i}]`;
+      if (edge.writing_system_id) {
+        const target = entitiesById.get(edge.writing_system_id);
+        if (!target) {
+          fail(`${label}: writing_system_id "${edge.writing_system_id}" does not resolve to any loaded entity`);
+        } else if (target.type !== 'WritingSystem') {
+          fail(`${label}: writing_system_id "${edge.writing_system_id}" resolves to a ${target.type} entity, not WritingSystem`);
+        }
+      }
+      if (edge.claim_id && !claimsById.has(edge.claim_id)) {
+        fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+      }
+    }
+  }
+  if (type === 'Text' && data.writing_system_id) {
+    const target = entitiesById.get(data.writing_system_id);
+    if (!target) {
+      fail(`${rel}: writing_system_id "${data.writing_system_id}" does not resolve to any loaded entity`);
+    } else if (target.type !== 'WritingSystem') {
+      fail(`${rel}: writing_system_id "${data.writing_system_id}" resolves to a ${target.type} entity, not WritingSystem`);
     }
   }
 }

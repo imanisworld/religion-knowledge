@@ -1,0 +1,63 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/text.schema.json",
+  "title": "Text",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.1's Text node type: 'with WritingSystem link, decipherment_status (DECIPHERED|PARTIAL|UNDECIPHERED|DISPUTED), witness chain (composition vs. manuscript).' Entities aggregate claims; every substantive statement about a Text lives in a linked Claim (subject_type: Text, subject_id: this entity's id), not inline here. The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "name", "writing_system_id", "decipherment_status"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^text_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name, e.g. 'Rosetta Stone', 'Popol Vuh (K'iche' manuscript tradition)'."
+    },
+    "writing_system_id": {
+      "type": "string",
+      "description": "Id of the WritingSystem entity this text is written in."
+    },
+    "decipherment_status": {
+      "type": "string",
+      "enum": ["DECIPHERED", "PARTIAL", "UNDECIPHERED", "DISPUTED"],
+      "description": "SPEC.md §7.1. DECIPHERED = the script and language are both read with scholarly consensus. PARTIAL = signs/sounds are read but the underlying language is poorly understood, or vice versa (e.g. Meroitic: phonetic values known since 1909, the Meroitic language itself still largely unparsed). UNDECIPHERED = no scholarly consensus reading exists. DISPUTED = competing decipherment claims exist without consensus resolution."
+    },
+    "witness_chain": {
+      "type": "object",
+      "description": "Composition date and physical-witness (manuscript/inscription) date are frequently centuries or millennia apart and must never be collapsed into one date (mirrors this project's TraditionDating discipline, SPEC.md §5.2).",
+      "properties": {
+        "composition_date": {
+          "type": ["object", "null"],
+          "properties": {
+            "earliest": { "type": ["integer", "null"] },
+            "latest": { "type": ["integer", "null"] },
+            "precision": { "type": "string", "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"] },
+            "date_semantics": {
+              "type": "string",
+              "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"]
+            }
+          }
+        },
+        "earliest_witness_date": {
+          "type": ["object", "null"],
+          "description": "Earliest surviving physical manuscript/inscription, as distinct from composition_date.",
+          "properties": {
+            "earliest": { "type": ["integer", "null"] },
+            "latest": { "type": ["integer", "null"] },
+            "precision": { "type": "string", "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"] },
+            "date_semantics": {
+              "type": "string",
+              "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"]
+            }
+          }
+        }
+      }
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}
