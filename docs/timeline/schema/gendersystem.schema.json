@@ -1,0 +1,78 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/gendersystem.schema.json",
+  "title": "GenderSystem",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.7's GenderSystem entity (implements P15: gender systems are historical institutions that change over time, not a timeless background condition — 'patriarchy' is not a boolean). Per culture×period, carries six independently dated, independently evidenced, independently confidence-rated dimensions. No field anywhere aggregates them into a patriarchy: yes/no value — the validator explicitly rejects a top-level or dimensions-level 'patriarchy' key. The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "culture_id", "region", "period", "dimensions"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^gs_[a-z0-9_-]+$"
+    },
+    "culture_id": {
+      "type": "string",
+      "description": "Id of the Culture entity this GenderSystem describes, for this period."
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "period": {
+      "type": "object",
+      "required": ["earliest", "latest", "precision", "date_semantics"],
+      "description": "A society's arrangements in one period say nothing automatic about the next (P15) — every GenderSystem is scoped to a specific period, never presented as a culture's timeless condition.",
+      "properties": {
+        "earliest": { "type": ["integer", "null"] },
+        "latest": { "type": ["integer", "null"] },
+        "precision": { "type": "string", "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"] },
+        "date_semantics": { "type": "string", "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"] }
+      }
+    },
+    "dimensions": {
+      "type": "object",
+      "description": "All six keys are required (SPEC.md §7.7). Where evidence is absent, use assessment 'UNKNOWN' with confidence UNKNOWN and empty evidence[] rather than omitting the key — 'no data' is itself recorded, not silently dropped.",
+      "required": ["gendered_labor", "political_inequality", "legal_economic_status", "household_authority", "gendered_legal_restrictions", "ideological_patriarchy"],
+      "properties": {
+        "gendered_labor": { "$ref": "#/$defs/dimension" },
+        "political_inequality": { "$ref": "#/$defs/dimension" },
+        "legal_economic_status": { "$ref": "#/$defs/dimension" },
+        "household_authority": { "$ref": "#/$defs/dimension" },
+        "gendered_legal_restrictions": { "$ref": "#/$defs/dimension" },
+        "ideological_patriarchy": { "$ref": "#/$defs/dimension" }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  },
+  "$defs": {
+    "dimension": {
+      "type": "object",
+      "required": ["assessment", "confidence", "claim_tier", "sources"],
+      "properties": {
+        "assessment": { "type": "string", "minLength": 1, "description": "Plain-prose answer to this dimension's question, e.g. 'Property-owning rights documented for elite women in period X; unclear for non-elite women.'" },
+        "evidence": { "type": "array", "items": { "type": "string" } },
+        "confidence": { "type": "string", "enum": ["HIGH", "MODERATE", "LOW", "DISPUTED", "UNKNOWN"] },
+        "claim_tier": { "type": "string", "enum": ["OBSERVATION", "INTERPRETATION", "CAUSAL_EXPLANATION"] },
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "required": ["type", "citation", "verification_method"],
+            "properties": {
+              "type": { "type": "string", "enum": ["PRIMARY", "SECONDARY"] },
+              "citation": { "type": "string" },
+              "verification_method": { "type": "string", "enum": ["DIRECT_READ", "CONVERGING_SECONDARY", "SEARCH_SNIPPET"] }
+            }
+          }
+        },
+        "change_events": {
+          "type": "array",
+          "items": { "type": "string" },
+          "description": "Notes on documented shifts within this dimension across the period, if any."
+        }
+      }
+    }
+  }
+}

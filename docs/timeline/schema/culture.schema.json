@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/culture.schema.json",
+  "title": "Culture",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.1's Culture node type — a named cultural/ethnic/linguistic grouping, the anchor a GenderSystem (§7.7) attaches to via culture_id. Entities aggregate claims; they assert nothing on their own — every substantive statement about a Culture lives in a linked Claim (subject_type: Culture, subject_id: this entity's id), not inline here. The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "name", "region"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^cul_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name used across the app, e.g. 'Yoruba', 'San (Ju/'hoansi and related groups)', 'Kongo'. Where a name covers a cluster of related groups, note the scope in `notes` rather than inventing a single umbrella claim."
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "description": "Lane tag(s), SPEC.md §4. 'Middle East'/'Near East' banned as ancient-period labels."
+    },
+    "date_range": {
+      "type": ["object", "null"],
+      "description": "Optional attested-existence window for the culture as named/documented — not a claim of ethnic continuity across the whole span.",
+      "required": ["earliest", "latest", "precision", "date_semantics"],
+      "properties": {
+        "earliest": { "type": ["integer", "null"] },
+        "latest": { "type": ["integer", "null"], "description": "null for cultures understood to persist to the present." },
+        "precision": { "type": "string", "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"] },
+        "date_semantics": {
+          "type": "string",
+          "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"]
+        }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}

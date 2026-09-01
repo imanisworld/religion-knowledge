@@ -43,6 +43,31 @@ const ORIGIN_TYPES = ['INDEPENDENT', 'STIMULUS_DIFFUSION', 'ADAPTATION', 'UNCERT
 const SCRIPT_TYPES = ['LOGOGRAPHIC', 'SYLLABIC', 'ALPHABETIC', 'ABJAD', 'ABUGIDA', 'LOGOSYLLABIC', 'MIXED', 'UNKNOWN'];
 const DECIPHERMENT_STATUSES = ['DECIPHERED', 'PARTIAL', 'UNDECIPHERED', 'DISPUTED'];
 
+// SPEC.md §7: Tradition category tags — non-hierarchical, never ranked stages (P3).
+const TRADITION_CATEGORY_TAGS = [
+  'animism', 'ancestor_veneration', 'polytheism', 'henotheism', 'monolatry',
+  'monotheism', 'pantheism', 'panentheism', 'non_theistic', 'mixed',
+];
+// SPEC.md §7.2: edge types. Every edge carries confidence + an asserting source (claim_id).
+const EDGE_TYPES = [
+  'DESCENT', 'REFORM', 'SCHISM', 'SYNCRETISM', 'BORROWING', 'CONQUEST',
+  'MISSIONIZATION', 'TRANSLATION', 'STATE_ADOPTION', 'SUPPRESSION', 'REVIVAL',
+  'CULTURAL_FUSION', 'DEITY_IDENTIFICATION', 'DEITY_RENAMING', 'SHARED_ANCESTRY',
+  'GENE_FLOW', 'PATRONAGE', 'UNCERTAIN_CONNECTION',
+];
+// SPEC.md §5.2: TraditionDating object's six keys — any may be null, dating_summary mandatory.
+const TRADITION_DATING_KEYS = [
+  'earliest_archaeological_evidence', 'earliest_written_attestation',
+  'surviving_manuscript_date', 'estimated_composition',
+  'tradition_internal_claim', 'estimated_oral_origin',
+];
+// SPEC.md §7.7: GenderSystem's six independently dated/evidenced dimensions (implements P15).
+// No aggregate "patriarchy" boolean exists anywhere in this schema.
+const GENDER_SYSTEM_DIMENSIONS = [
+  'gendered_labor', 'political_inequality', 'legal_economic_status',
+  'household_authority', 'gendered_legal_restrictions', 'ideological_patriarchy',
+];
+
 // SPEC.md P5: "Middle East"/"Near East" banned as an ancient-period lane label.
 // Applied to any region tag on a claim or entity whose date (if present) is BCE
 // or whose subject predates the modern era; conservatively applied to all region
@@ -124,6 +149,11 @@ const ENTITY_DIR_TYPES = {
   populations: 'Population',
   writing_systems: 'WritingSystem',
   texts: 'Text',
+  cultures: 'Culture',
+  polities: 'Polity',
+  traditions: 'Tradition',
+  deities: 'Deity',
+  gender_systems: 'GenderSystem',
 };
 
 for (const file of entityFiles) {
@@ -151,6 +181,190 @@ for (const file of entityFiles) {
     validateWritingSystem(data, rel);
   } else if (type === 'Text') {
     validateText(data, rel);
+  } else if (type === 'Culture') {
+    validateCulture(data, rel);
+  } else if (type === 'Polity') {
+    validatePolity(data, rel);
+  } else if (type === 'Tradition') {
+    validateTradition(data, rel);
+  } else if (type === 'Deity') {
+    validateDeity(data, rel);
+  } else if (type === 'GenderSystem') {
+    validateGenderSystem(data, rel);
+  }
+}
+
+function checkOptionalDateRange(dateRange, rel, label) {
+  if (dateRange === null || dateRange === undefined) return;
+  if (typeof dateRange !== 'object') {
+    fail(`${rel}: ${label} must be an object or null`);
+    return;
+  }
+  checkDateSemanticsValue(dateRange.date_semantics, `${rel} ${label}`);
+  if (!DATE_PRECISIONS.includes(dateRange.precision)) {
+    fail(`${rel}: ${label}.precision "${dateRange.precision}" invalid`);
+  }
+  if (dateRange.date_semantics === null || dateRange.date_semantics === undefined) {
+    fail(`${rel}: ${label}.date_semantics is required`);
+  }
+}
+
+function checkTraditionDating(dating, rel) {
+  if (!dating || typeof dating !== 'object') {
+    fail(`${rel}: Tradition missing dating (TraditionDating object required, SPEC.md §5.2/P8)`);
+    return;
+  }
+  if (typeof dating.dating_summary !== 'string' || !dating.dating_summary.trim()) {
+    fail(`${rel}: dating.dating_summary is mandatory — "one honest sentence" (SPEC.md §5.2)`);
+  }
+  for (const key of TRADITION_DATING_KEYS) {
+    const entry = dating[key];
+    if (entry === null || entry === undefined) continue; // any of the six may be null (SPEC.md §5.2)
+    if (typeof entry !== 'object') {
+      fail(`${rel}: dating.${key} must be an object or null`);
+      continue;
+    }
+    if (entry.range !== null && entry.range !== undefined) {
+      if (typeof entry.range !== 'object') {
+        fail(`${rel}: dating.${key}.range must be an object or null`);
+      } else {
+        if (!DATE_PRECISIONS.includes(entry.range.precision)) {
+          fail(`${rel}: dating.${key}.range.precision "${entry.range.precision}" invalid`);
+        }
+        if (!('earliest' in entry.range) || !('latest' in entry.range)) {
+          fail(`${rel}: dating.${key}.range must include earliest and latest (may be null)`);
+        }
+      }
+    }
+  }
+}
+
+function validateCulture(c, rel) {
+  if (!c.name) fail(`${rel}: Culture missing name`);
+  checkRegionLabels(c.region, rel);
+  if (!Array.isArray(c.region) || c.region.length === 0) {
+    fail(`${rel}: Culture must have at least one region tag`);
+  }
+  checkOptionalDateRange(c.date_range, rel, 'date_range');
+}
+
+function validatePolity(p, rel) {
+  if (!p.name) fail(`${rel}: Polity missing name`);
+  checkRegionLabels(p.region, rel);
+  if (!Array.isArray(p.region) || p.region.length === 0) {
+    fail(`${rel}: Polity must have at least one region tag`);
+  }
+  checkOptionalDateRange(p.date_range, rel, 'date_range');
+  if (p.patronage_edges) {
+    for (const [i, edge] of p.patronage_edges.entries()) {
+      const label = `${rel} patronage_edges[${i}]`;
+      if (!edge.target_id) fail(`${label}: missing target_id`);
+      if (!['Tradition', 'Deity'].includes(edge.target_type)) {
+        fail(`${label}: target_type "${edge.target_type}" must be Tradition or Deity`);
+      }
+      if (!CONFIDENCE_LEVELS.includes(edge.confidence)) {
+        fail(`${label}: confidence "${edge.confidence}" invalid`);
+      }
+      if (!edge.claim_id) fail(`${label}: patronage_edges entries must cite a backing claim_id (SPEC.md §7.1)`);
+      // cross-reference resolved after claims are loaded, below
+    }
+  }
+}
+
+function validateTradition(t, rel) {
+  if (!t.name) fail(`${rel}: Tradition missing name`);
+  if (!Array.isArray(t.category_tags) || t.category_tags.length === 0) {
+    fail(`${rel}: Tradition must have at least one category_tags entry (SPEC.md §7.1)`);
+  } else {
+    for (const tag of t.category_tags) {
+      if (!TRADITION_CATEGORY_TAGS.includes(tag)) {
+        fail(`${rel}: category_tags entry "${tag}" not one of ${TRADITION_CATEGORY_TAGS.join(', ')} — tags are non-hierarchical, never ranked stages (SPEC.md P3)`);
+      }
+    }
+  }
+  checkRegionLabels(t.region, rel);
+  if (!Array.isArray(t.region) || t.region.length === 0) {
+    fail(`${rel}: Tradition must have at least one region tag`);
+  }
+  checkTraditionDating(t.dating, rel);
+  if (t.relationships) {
+    for (const [i, edge] of t.relationships.entries()) {
+      const label = `${rel} relationships[${i}]`;
+      if (!edge.target_id) fail(`${label}: missing target_id`);
+      if (!EDGE_TYPES.includes(edge.edge_type)) {
+        fail(`${label}: edge_type "${edge.edge_type}" not one of ${EDGE_TYPES.join(', ')} (SPEC.md §7.2)`);
+      }
+      if (!CONFIDENCE_LEVELS.includes(edge.confidence)) {
+        fail(`${label}: confidence "${edge.confidence}" invalid`);
+      }
+      if (!edge.claim_id) {
+        fail(`${label}: relationships entries must cite a backing claim_id — an influence edge without an asserting source is invalid (SPEC.md §7.2)`);
+      }
+      // cross-reference resolved after claims are loaded, below
+    }
+  }
+}
+
+function validateDeity(d, rel) {
+  if (!d.name) fail(`${rel}: Deity missing name`);
+  checkRegionLabels(d.region, rel);
+  if (!Array.isArray(d.region) || d.region.length === 0) {
+    fail(`${rel}: Deity must have at least one region tag`);
+  }
+  if (d.identifications) {
+    for (const [i, edge] of d.identifications.entries()) {
+      const label = `${rel} identifications[${i}]`;
+      if (!edge.with_deity_id) fail(`${label}: missing with_deity_id`);
+      if (!CONFIDENCE_LEVELS.includes(edge.confidence)) {
+        fail(`${label}: confidence "${edge.confidence}" invalid`);
+      }
+      if (!edge.claim_id) fail(`${label}: identifications entries must cite a backing claim_id (SPEC.md §7.1)`);
+      // cross-reference resolved after claims are loaded, below
+    }
+  }
+  if (d.domain_history) {
+    for (const [i, dh] of d.domain_history.entries()) {
+      const label = `${rel} domain_history[${i}]`;
+      if (!dh.domain) fail(`${label}: missing domain`);
+      if (!dh.claim_id) {
+        fail(`${label}: domain_history entries must cite a backing claim_id — domains change over time, no single-word freezing (SPEC.md §7.1)`);
+      }
+      // cross-reference resolved after claims are loaded, below
+    }
+  }
+}
+
+function validateGenderSystem(gs, rel) {
+  if (!gs.culture_id) fail(`${rel}: GenderSystem missing culture_id`);
+  checkRegionLabels(gs.region, rel);
+  if (!Array.isArray(gs.region) || gs.region.length === 0) {
+    fail(`${rel}: GenderSystem must have at least one region tag`);
+  }
+  if (!gs.period) {
+    fail(`${rel}: GenderSystem missing period — a society's arrangements in one period say nothing automatic about the next (SPEC.md P15)`);
+  } else {
+    checkOptionalDateRange(gs.period, rel, 'period');
+  }
+  if (!gs.dimensions || typeof gs.dimensions !== 'object') {
+    fail(`${rel}: GenderSystem missing dimensions`);
+  } else {
+    for (const key of GENDER_SYSTEM_DIMENSIONS) {
+      const dim = gs.dimensions[key];
+      const dl = `${rel} dimensions.${key}`;
+      if (!dim || typeof dim !== 'object') {
+        fail(`${dl}: missing — all six dimensions are required, independently evidenced (SPEC.md §7.7); use assessment "UNKNOWN" with empty evidence rather than omitting the key`);
+        continue;
+      }
+      if (typeof dim.assessment !== 'string' || !dim.assessment.trim()) fail(`${dl}: missing assessment`);
+      if (!CONFIDENCE_LEVELS.includes(dim.confidence)) fail(`${dl}: confidence "${dim.confidence}" invalid`);
+      if (!CLAIM_TIERS.includes(dim.claim_tier)) fail(`${dl}: claim_tier "${dim.claim_tier}" invalid`);
+      if (!Array.isArray(dim.sources) || dim.sources.length === 0) {
+        fail(`${dl}: sources[] must have at least one entry`);
+      }
+    }
+  }
+  if ('patriarchy' in gs || (gs.dimensions && typeof gs.dimensions === 'object' && 'patriarchy' in gs.dimensions)) {
+    fail(`${rel}: GenderSystem must not carry an aggregate "patriarchy" field — six independent dimensions only, no boolean (SPEC.md P15)`);
   }
 }
 
@@ -286,7 +500,7 @@ for (const [id, { data: claim, file }] of claimsById) {
   if (!SUBJECT_TYPES.includes(claim.subject_type)) {
     fail(`${label}: subject_type "${claim.subject_type}" not recognized`);
   }
-  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text'];
+  const ENTITY_BACKED_SUBJECT_TYPES = ['Population', 'WritingSystem', 'Text', 'Culture', 'Polity', 'Tradition', 'Deity', 'GenderSystem'];
   if (!claim.subject_id) {
     fail(`${label}: missing subject_id`);
   } else if (ENTITY_BACKED_SUBJECT_TYPES.includes(claim.subject_type)) {
@@ -430,6 +644,65 @@ for (const [entId, { data, type, file }] of entitiesById) {
       fail(`${rel}: writing_system_id "${data.writing_system_id}" does not resolve to any loaded entity`);
     } else if (target.type !== 'WritingSystem') {
       fail(`${rel}: writing_system_id "${data.writing_system_id}" resolves to a ${target.type} entity, not WritingSystem`);
+    }
+  }
+  if (type === 'Tradition' && data.relationships) {
+    for (const [i, edge] of data.relationships.entries()) {
+      const label = `${rel} relationships[${i}]`;
+      if (edge.target_id && !entitiesById.has(edge.target_id)) {
+        fail(`${label}: target_id "${edge.target_id}" does not resolve to any loaded entity`);
+      }
+      if (edge.claim_id && !claimsById.has(edge.claim_id)) {
+        fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+      }
+    }
+  }
+  if (type === 'Deity' && data.identifications) {
+    for (const [i, edge] of data.identifications.entries()) {
+      const label = `${rel} identifications[${i}]`;
+      if (edge.with_deity_id) {
+        const target = entitiesById.get(edge.with_deity_id);
+        if (!target) {
+          fail(`${label}: with_deity_id "${edge.with_deity_id}" does not resolve to any loaded entity`);
+        } else if (target.type !== 'Deity') {
+          fail(`${label}: with_deity_id "${edge.with_deity_id}" resolves to a ${target.type} entity, not Deity`);
+        }
+      }
+      if (edge.claim_id && !claimsById.has(edge.claim_id)) {
+        fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+      }
+    }
+  }
+  if (type === 'Deity' && data.domain_history) {
+    for (const [i, dh] of data.domain_history.entries()) {
+      const label = `${rel} domain_history[${i}]`;
+      if (dh.claim_id && !claimsById.has(dh.claim_id)) {
+        fail(`${label}: claim_id "${dh.claim_id}" does not resolve to any loaded claim`);
+      }
+    }
+  }
+  if (type === 'Polity' && data.patronage_edges) {
+    for (const [i, edge] of data.patronage_edges.entries()) {
+      const label = `${rel} patronage_edges[${i}]`;
+      if (edge.target_id) {
+        const target = entitiesById.get(edge.target_id);
+        if (!target) {
+          fail(`${label}: target_id "${edge.target_id}" does not resolve to any loaded entity`);
+        } else if (edge.target_type && target.type !== edge.target_type) {
+          fail(`${label}: target_id "${edge.target_id}" resolves to a ${target.type} entity, not ${edge.target_type}`);
+        }
+      }
+      if (edge.claim_id && !claimsById.has(edge.claim_id)) {
+        fail(`${label}: claim_id "${edge.claim_id}" does not resolve to any loaded claim`);
+      }
+    }
+  }
+  if (type === 'GenderSystem' && data.culture_id) {
+    const target = entitiesById.get(data.culture_id);
+    if (!target) {
+      fail(`${rel}: culture_id "${data.culture_id}" does not resolve to any loaded entity`);
+    } else if (target.type !== 'Culture') {
+      fail(`${rel}: culture_id "${data.culture_id}" resolves to a ${target.type} entity, not Culture`);
     }
   }
 }

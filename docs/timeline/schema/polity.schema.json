@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/polity.schema.json",
+  "title": "Polity",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.1's Polity node type — a political unit that may patron traditions/deities via `patronage_edges` ('patronage' edges). Entities aggregate claims; they assert nothing on their own — every substantive statement about a Polity lives in a linked Claim (subject_type: Polity, subject_id: this entity's id), not inline here. The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "name", "region"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^pty_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name, e.g. 'Kingdom of Kongo', 'Great Zimbabwe', 'Ashanti Empire'."
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "date_range": {
+      "type": ["object", "null"],
+      "required": ["earliest", "latest", "precision", "date_semantics"],
+      "properties": {
+        "earliest": { "type": ["integer", "null"] },
+        "latest": { "type": ["integer", "null"], "description": "null for polities understood to persist to the present." },
+        "precision": { "type": "string", "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"] },
+        "date_semantics": {
+          "type": "string",
+          "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"]
+        }
+      }
+    },
+    "patronage_edges": {
+      "type": "array",
+      "description": "SPEC.md §7.1: 'may patron traditions/deities (patronage edges)'. Each edge needs a backing Claim.",
+      "items": {
+        "type": "object",
+        "required": ["target_id", "target_type", "confidence", "claim_id"],
+        "properties": {
+          "target_id": { "type": "string" },
+          "target_type": { "type": "string", "enum": ["Tradition", "Deity"] },
+          "confidence": { "type": "string", "enum": ["HIGH", "MODERATE", "LOW", "DISPUTED", "UNKNOWN"] },
+          "claim_id": { "type": "string", "description": "The Claim that sources this patronage relationship." }
+        }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}
