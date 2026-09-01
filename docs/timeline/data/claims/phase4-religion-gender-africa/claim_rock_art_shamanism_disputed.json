@@ -1,0 +1,80 @@
+{
+  "id": "claim_rock_art_shamanism_disputed",
+  "subject_type": "Tradition",
+  "subject_id": "trad_juhoansi_trance_healing",
+  "statement": "David Lewis-Williams (with Thomas Dowson) proposed the \"neuropsychological model\" — that San rock art motifs (geometric \"entoptic\" forms and therianthropes) represent imagery experienced during trance/altered states, based on analogy to 19th-20th century San ethnography, including both the Bleek-Lloyd /Xam material and later Kalahari (Ju/'hoansi) trance-dance ethnography. Anne Solomon directly disputes this, arguing Lewis-Williams elides /Xam (Cape, 19th century) and Kalahari San (20th century) ethnography into a single narrative, and that there is no clear evidence the historical /Xam themselves connected dance/trance states with healing in the way the Kalahari material documents. Mathias Guenther (Tricksters and Trancers, Indiana UP, 1999) takes a qualified middle position, accepting \"shaman\" as broadly appropriate terminology while emphasizing ambiguity and cultural variability over a single fixed reading.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether San rock art imagery can be confidently linked to specific documented trance/healing cosmological content, and whether /Xam and Kalahari San ethnographic material can be combined for this purpose.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Lewis-Williams, David, and Thomas Dowson. \"The Signs of All Times: Entoptic Phenomena in Upper Palaeolithic Art.\" Current Anthropology 29:2, 1988.",
+      "author": "Lewis-Williams and Dowson",
+      "year": 1988,
+      "venue": "Current Anthropology",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Solomon, Anne. \"The southern San and the trance dance: a pivotal debate in the interpretation of San rock paintings.\" Antiquity.",
+      "author": "Anne Solomon",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "San rock art imagery represents trance/altered-state experience, per a neuropsychological model applicable across San groups and periods",
+      "holders": [
+        {
+          "name": "David Lewis-Williams",
+          "camp": "NEUROPSYCHOLOGICAL SCHOOL"
+        },
+        {
+          "name": "David Pearce",
+          "camp": "NEUROPSYCHOLOGICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "19th-20th century San ethnography (Bleek-Lloyd plus Kalahari) supports the trance-dance interpretive framework, per Lewis-Williams and Pearce's continued defense.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "The trance-dance link elides genuinely distinct /Xam and Kalahari San evidentiary bases and overstates continuity",
+      "holders": [
+        {
+          "name": "Anne Solomon",
+          "camp": "REVISIONIST SCHOOL"
+        }
+      ],
+      "strongest_case": "No clear evidence the historical /Xam themselves connected dance/trance states with healing in the way later Kalahari material documents — Lewis-Williams's model conflates two different groups and centuries.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,62 @@
+{
+  "id": "trad_aksumite_christianity",
+  "name": "Aksumite Christianity (Ezana-era state adoption)",
+  "category_tags": [
+    "monotheism"
+  ],
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "dating": {
+    "dating_summary": "A hard external terminus ante quem of 356 CE (Constantius II's letter, preserved in Athanasius) confirms Ezana was reigning and Christian by that date; the precise conversion year within the preceding ~15-20-year window (mid-330s-340s CE) remains disputed, not fixed.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Ezana's coinage transitions from disc-and-crescent to an explicit cross — one of the earliest states anywhere to place a Christian symbol on its own coinage. Whether the numismatic transition was abrupt or gradual (transitional hybrid issues) is itself disputed across the sources found in this research pass and was not resolved to academic-source confidence."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 356,
+        "latest": 357,
+        "precision": "YEAR"
+      },
+      "note": "Emperor Constantius II's letter to \"Aizanas and Sazanas\" (Ezana and co-ruler Saizana), preserved in Athanasius, Apologia ad Constantium (c. 356/357 CE), demanding Frumentius be sent to Alexandria for re-examination — independently confirms Ezana reigning and Christian by this date."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 402,
+        "latest": 403,
+        "precision": "YEAR"
+      },
+      "note": "Rufinus of Aquileia, continuation of Eusebius's Ecclesiastical History (Books 10-11), written c. 402-403 CE, states he heard the Frumentius account directly from Aedesius, Frumentius's companion, whom he met at Tyre — one source-remove from an eyewitness, within roughly 60-70 years of the events."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Later Ethiopian tradition's honorific \"Abba Selama\" (\"Father of Peace\") for Frumentius, and elaborated hagiographic material (including elements folded into the 14th-century-redacted Kebra Nagast) are centuries-later elaboration on the Rufinus core, not independent corroboration."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [
+    {
+      "edge_type": "MISSIONIZATION",
+      "target_id": "trad_aksumite_paganism",
+      "confidence": "HIGH",
+      "claim_id": "claim_aksum_missionization"
+    },
+    {
+      "edge_type": "STATE_ADOPTION",
+      "target_id": "trad_aksumite_paganism",
+      "confidence": "MODERATE",
+      "claim_id": "claim_aksum_state_adoption"
+    }
+  ],
+  "notes": "This entity covers only the 4th-century conversion moment, not the later development of the distinctive Ethiopian Orthodox Tewahedo Church (a separate, much larger topic outside this batch's scope). No strong academic source was found directly tracing continuity from the pagan Mahrem/Astar/Beher-Meder complex into later Ethiopian Christian liturgy/theology — do not assert such continuity. The church's distinctive Old-Testament-inflected practices (dual Sabbath, dietary law, circumcision, Ark theology) are generally attributed by scholarship (Bowersock, The Throne of Adulis, Oxford UP 2013) to separate Judaic/South Arabian cultural contact, not to pagan-Aksumite continuity."
+}

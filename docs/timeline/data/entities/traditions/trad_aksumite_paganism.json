@@ -1,0 +1,49 @@
+{
+  "id": "trad_aksumite_paganism",
+  "name": "Aksumite state paganism (Mahrem/Astar/Beher-Meder)",
+  "category_tags": [
+    "polytheism"
+  ],
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "dating": {
+    "dating_summary": "Attested almost entirely from epigraphy and coinage at the very end of the tradition's history (Ezana's own pre-conversion inscriptions, likely 330s CE, and the Monumentum Adulitanum, original date uncertain 2nd-3rd c. CE, surviving only via a 6th-century copy) — no scriptural corpus, no earlier evidence of comparable specificity survives.",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": 270,
+        "latest": 300,
+        "precision": "DECADE"
+      },
+      "note": "Aksumite coinage bearing disc-and-crescent symbolism from King Endubis, c. 270-300 CE, is the primary chronological anchor for early Aksumite religious material culture."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 330,
+        "latest": 339,
+        "precision": "DECADE"
+      },
+      "note": "Ezana's own pre-Christian Ge'ez inscriptions (catalogued RIÉ 185 I/II = DAE 6-7), likely 330s CE, name the triad Mahrem/Astar/Beher(or Meder) directly."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "The Monumentum Adulitanum (equating Mahrem/Beher/Meder with Ares/Poseidon/Zeus) survives only via a copy made by the monk Cosmas Indicopleustes at Adulis c. 518-525 CE, published in his Christian Topography (c. 547-549 CE); the original stone is lost and its own composition date is only estimated (2nd-3rd century CE, attributed to an unnamed pre-Ezana king)."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "N/A — no continuous adherent community survives to assert an origin claim."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Comparative Semitic-religion scholarship situates the astral/war-god cult type within a South Arabian religious koine attested in Saba' from the early-to-mid 1st millennium BCE; the earlier, distinct Kingdom of D'mt (~8th-5th c. BCE, same region) shows related Almaqah worship, but bridging D'mt to Aksum religiously is inference, not documented continuity.",
+      "confidence": "LOW"
+    }
+  },
+  "relationships": [],
+  "notes": "Mahrem (war god; Aksumite kings styled themselves \"son of the invincible Mahrem\"); Astar (astral character disputed — Venus-analog vs. sun/moon deity, sources disagree); Beher/Meder (sea/sky, earth). Comparison of Mahrem to South Arabian Almaqah is repeatedly made in secondary literature but the degree of identity is explicitly uncertain — do not assert equivalence."
+}

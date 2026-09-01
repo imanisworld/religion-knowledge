@@ -1,0 +1,41 @@
+{
+  "id": "claim_yemoja_diaspora_domain_shift",
+  "subject_type": "Deity",
+  "subject_id": "dty_yemoja",
+  "statement": "Yemọja was originally a Yorùbá river deity, specifically associated with the Ògùn River in Nigeria (not to be confused with the Òrìṣà Ògún — same name root, different referent). In the Americas, her domain shifted from river to ocean, widely attested across Cuban Santería (as Yemayá) and Brazilian Candomblé (as Yemanjá); sources attribute this to enslaved communities \"re-rooting\" the deity in the body of water that carried them into bondage. The fact of this domain shift is well-attested across multiple converging sources; no specific named scholar's causal account of the mechanism was traced to one academic citation in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "ETHNOGRAPHIC",
+    "LATER_HISTORICAL_ACCOUNT"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Converging secondary sourcing on the Yemọja/Yemayá/Yemanjá river-to-ocean domain shift in the Americas.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

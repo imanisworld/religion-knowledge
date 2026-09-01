@@ -1,0 +1,53 @@
+{
+  "id": "claim_ifa_oyo_patronage",
+  "subject_type": "Polity",
+  "subject_id": "pty_oyo_empire",
+  "statement": "Ṣàngó's historicization as an early Aláàfin (king) of Òyó is embedded in Òyó's own dynastic oral-historical record, as reconstructed by Samuel Johnson (The History of the Yorubas, completed 1897, published 1921) and treated as serious material by Sàngó in Africa and the African Diaspora (eds. Tishken, Falola, Akinyemi; Indiana UP, 2009). This is a real, sourced link between Òyó's political history and the Ifá/Òrìṣà religious system, though active royal \"patronage\" in the sense of state-funded temple/priesthood infrastructure for Ṣàngó specifically was not traced to a named-scholar mechanism claim distinct from the king-list/historicization point itself.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Johnson, Samuel. The History of the Yorubas. Ed. Obadiah Johnson, 1921 (completed 1897).",
+      "author": "Samuel Johnson",
+      "year": 1921,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Tishken, Joel E., Toyin Falola, and Akintunde Akinyemi, eds. Sàngó in Africa and the African Diaspora. Indiana University Press, 2009.",
+      "author": null,
+      "year": 2009,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,162 @@
+{
+  "id": "gs_fon",
+  "culture_id": "cul_fon",
+  "region": [
+    "West Africa"
+  ],
+  "period": {
+    "earliest": 1645,
+    "latest": 1894,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Women documented as dominant in regional textile/fabric trade and general market commerce (a general West-African-coast pattern; Dahomey-specific sourcing in what was accessible this pass was weaker than the general regional corroboration).",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General West African market-commerce literature, Bight of Benin coast.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "A documented dual-sex administrative structure existed: each male titled court official reportedly had a female counterpart (\"mother\"/parallel officer), described in Herskovits's 1938 ethnography and elaborated by Edna Bay, with systematization sometimes attributed specifically to King Ghezo (r. 1818-1858). This is a real parallel-hierarchy structure, but Bay's broader thesis is that it may have functioned as much as royal surveillance/control of male officials as female empowerment per se, and that women's (and lower-class men's) access to power in this system contracted over the 19th century as slave-trade-derived economic resources declined.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Bay, Edna G. Wives of the Leopard: Gender, Politics, and Culture in the Kingdom of Dahomey. University of Virginia Press, 1998.",
+          "author": "Edna G. Bay",
+          "year": 1998,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Herskovits, Melville J. Dahomey: An Ancient West African Kingdom. J.J. Augustin, 1938.",
+          "author": "Melville J. Herskovits",
+          "year": 1938,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "General regional (West African, polygynous-system) customary-law literature suggests inheritance-share/maternal-resource-claim protections for women, but this was not confirmed as Dahomey-specific in what was accessible this research pass — treat as a weak proxy only, not a confirmed Dahomean finding.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General West African customary-law/kinship literature, not confirmed Dahomey-specific.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Not independently verified for ordinary (non-royal) Fon households in this research pass. The ahosi (\"king's wives\") royal-household system is documented (numbering in the hundreds; all Agojie were nominally counted as ahosi, though not all ahosi were Agojie), but this is a royal-household-specific data point, not evidence about ordinary household authority patterns.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of ordinary-household-specific sourcing, explicitly flagged.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Polygyny was normative (documented structurally via the royal ahosi system); specific restrictions on ordinary women (movement, testimony, property rights) were not found in accessible sourcing this pass — do not assert specifics beyond \"polygyny was the norm.\"",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of itemized-restriction sourcing beyond the polygyny norm, explicitly flagged.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Robin Law, \"The 'Amazons' of Dahomey,\" Paideuma 39 (1993): 245-260, argues trained female warriors (Agojie/Mino) were culturally understood to symbolically \"become men,\" especially at the moment of a first kill — direct evidence the conceptual category of \"warrior\" remained gendered male even when filled by women, i.e. evidence of an underlying patriarchal ideological structure persisting alongside, not contradicted by, the Agojie's existence. Agojie were also required to be nominally celibate/non-childbearing during active service, and some were conscripted after being reported for \"misconduct\" by husbands/fathers — a disciplinary/control mechanism exercised by male kin, closer to evidence of subordination than empowerment.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Law, Robin. \"The 'Amazons' of Dahomey.\" Paideuma: Mitteilungen zur Kulturkunde 39, 1993: 245-260.",
+          "author": "Robin Law",
+          "year": 1993,
+          "venue": "Paideuma",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate re: the Agojie/Mino (see claim_agojie_does_not_demonstrate): their existence as a real, large, professionally organized, combat-effective female military institution does NOT demonstrate general Fon/Dahomean gender equality — Law's \"become men\" argument, the enforced-celibacy service requirement, and the misconduct-based conscription channel all point toward the institution operating within, not against, an underlying patriarchal structure. Stanley B. Alpern, Amazons of Black Sparta: The Women Warriors of Dahomey (NYU Press, 1998; 2nd ed. Hurst, 2011) is the standard monograph on the corps itself; its popular film treatment (The Woman King, 2022) is documented to substantially sanitize Dahomey's slave-trade economy and Ghezo's role in it — do not import the film's framing."
+  },
+  "notes": null
+}

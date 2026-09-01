@@ -1,0 +1,53 @@
+{
+  "id": "claim_sango_historicization",
+  "subject_type": "Deity",
+  "subject_id": "dty_sango",
+  "statement": "Yorùbá oral-historical tradition, as recorded by Samuel Johnson (The History of the Yorubas, completed 1897, published 1921), places Ṣàngó within the Òyó Aláàfin king-list as an early king — though sources disagree on his exact ordinal position (third vs. fourth Aláàfin), which should be reported as varying by source, not as a fixed number. Sàngó in Africa and the African Diaspora (eds. Tishken, Falola, Akinyemi; Indiana UP, 2009), a peer-edited academic volume, is explicitly organized around the mythic-Ṣàngó/historical-Ṣàngó/syncretic-diaspora-traditions split as a central open question, confirming this is real, taken-seriously scholarly territory rather than a popular oversimplification.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Johnson, Samuel. The History of the Yorubas. Ed. Obadiah Johnson, 1921 (completed 1897).",
+      "author": "Samuel Johnson",
+      "year": 1921,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Tishken, Joel E., Toyin Falola, and Akintunde Akinyemi, eds. Sàngó in Africa and the African Diaspora. Indiana University Press, 2009.",
+      "author": null,
+      "year": 2009,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

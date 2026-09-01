@@ -1,0 +1,162 @@
+{
+  "id": "gs_yoruba",
+  "culture_id": "cul_yoruba",
+  "region": [
+    "West Africa"
+  ],
+  "period": {
+    "earliest": 1700,
+    "latest": 1900,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Labor divided by sex (men: farming, hunting, crafts; women: trading, food processing, mat-weaving, pottery, cooking) but with documented situational flexibility, not rigidity; women held a dominant, well-evidenced role in long-distance trade specifically, a major avenue for wealth accumulation and title-acquisition.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General ethnographic/historical consensus on Yorùbá gendered labor and women's trade dominance.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Central state offices (Aláàfin, Òyó Mèsì, most town obas) were predominantly male, but the Ìyálóde title (\"mother of the women\") held real, non-ceremonial legislative and judicial authority on councils alongside male chiefs; a named historical example, Efúnṣetán Aníwúrà (second Ìyálóde of Ìbàdàn), built one of the largest 19th-century fortunes via long-distance trade (including the slave trade) and used wealth/position to strengthen Ìbàdàn's military. Does NOT demonstrate comparable rates of office-holding between men and women, nor integration into the general chieftaincy structure beyond the parallel women's-affairs office.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Bolanle Awe, doctoral work on 19th-century militarized Ìbàdàn (pioneering Nigerian historian of women); general secondary sourcing on the Ìyálóde/Ìyálója/Ìyálàje titles and Efúnṣetán Aníwúrà.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Both men and women held rights to possess property including land, generally as communal/family rather than strictly individual property in the precolonial era. Multiple sources frame colonial administration as having fixed binary gender categories and concentrated property/inheritance rights in male hands via imposed patrilineal succession rules — an increase in gender-based property restriction attributed to the colonial period, not a straightforward codification of a preexisting patriarchal baseline. This causal claim could not be traced to one specific peer-reviewed citation with a named author in this research pass.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General literature associated with the Oyèrónkẹ́ Oyěwùmí school on colonial-era gender-category imposition.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Insa Nolte, \"Yoruba Histories of Marriage and Belonging: Gender, Power and Innovation in Eighteenth-Century West Africa,\" Gender & History (Wiley), using ìtàn (oral-historical genre) as evidence, argues marriage structured 18th-century Yorùbá political/social change and that patrilineal kinship associated \"husbandly\" authority-and-belonging-by-birth roles with power, and \"wifely\" support/outsider-origin roles with less — but crucially \"husbandly roles were frequently open to women,\" i.e. authority attached more to a kinship role than to biological sex per se.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Nolte, Insa. \"Yoruba Histories of Marriage and Belonging: Gender, Power and Innovation in Eighteenth-Century West Africa.\" Gender & History, Wiley.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Polygyny was normative/legal for men (multiple wives); no source found showing an equivalent legal/customary allowance for women to take multiple husbands — an asymmetry, though thinly sourced beyond this. Premarital chastity norms, adultery penalties by sex, and divorce-initiation rights specifically for precolonial Yorùbá society were not confirmed by academic sourcing in this research pass.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General ethnographic consensus on normative Yorùbá polygyny.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED at the center of Yorùbá gender scholarship. Oyèrónkẹ́ Oyěwùmí, The Invention of Women: Making an African Sense of Western Gender Discourses (University of Minnesota Press, 1997), argues gender was not an indigenous organizing principle in precolonial Yorùbá society — social hierarchy ran on seniority (age), not sex, and systematic gender categorization/ideological subordination was a colonial import. Bibi Bakare-Yusuf, \"Yorubas Don't Do Gender: A Critical Review of Oyèrónkẹ́ Oyěwùmí's The Invention of Women,\" directly challenges this as overstated. No independent third source citing specific Yorùbá proverbs/oral literature/ritual texts asserting female natural subordination was located — the dispute itself is documented; the underlying primary textual evidence is thin on both sides.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Oyěwùmí, Oyèrónkẹ́. The Invention of Women: Making an African Sense of Western Gender Discourses. University of Minnesota Press, 1997.",
+          "author": "Oyèrónkẹ́ Oyěwùmí",
+          "year": 1997,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Bakare-Yusuf, Bibi. \"Yorubas Don't Do Gender: A Critical Review of Oyèrónkẹ́ Oyěwùmí's The Invention of Women.\"",
+          "author": "Bibi Bakare-Yusuf",
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Ifá priesthood (babaláwo) gender: historically male-dominated in most documented lineages; the Iyanifa/Ìyánífá controversy over female initiation is live and explicitly split by lineage (Nigerian lineages more accepting; some Cuban Lucumí lineages rejecting) — see claim_iyanifa_controversy. Required does_not_demonstrate note: Efúnṣetán Aníwúrà and the Ìyálóde institution demonstrate some Yorùbá women held real political/economic power; they do NOT demonstrate general gender egalitarianism or resolve the Oyěwùmí/Bakare-Yusuf dispute."
+  },
+  "notes": null
+}

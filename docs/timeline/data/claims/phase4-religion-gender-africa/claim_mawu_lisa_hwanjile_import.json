@@ -1,0 +1,57 @@
+{
+  "id": "claim_mawu_lisa_hwanjile_import",
+  "subject_type": "Deity",
+  "subject_id": "dty_mawu_lisa",
+  "statement": "Hwanjile, the kpojito (\"queen mother\"/reign-mate) of King Tegbesu (r. c.1740-1774), is credited with importing the Mawu-Lisa cult from Aja territory and installing it as head of the Dahomean state pantheon, building it a shrine outside the royal palace and serving as its high priestess. This is treated in the scholarly literature as an act of religious-political legitimation tied to consolidating Tegbesu's contested succession — a datable historical/political act, not static inherited cosmology.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1740,
+    "latest": 1774,
+    "precision": "DECADE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Bay, Edna G. Wives of the Leopard: Gender, Politics, and Culture in the Kingdom of Dahomey. University of Virginia Press, 1998.",
+      "author": "Edna G. Bay",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "\"Belief, Legitimacy and the Kpojito: An Institutional History of the 'Queen Mother' in Precolonial Dahomey.\" Journal of African History.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Author of the JAH kpojito article not independently confirmed (likely also Bay) — flagged for follow-up."
+}

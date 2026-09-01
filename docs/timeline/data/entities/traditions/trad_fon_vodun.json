@@ -1,0 +1,62 @@
+{
+  "id": "trad_fon_vodun",
+  "name": "Fon Vodun",
+  "category_tags": [
+    "henotheism",
+    "ancestor_veneration",
+    "polytheism"
+  ],
+  "region": [
+    "West Africa"
+  ],
+  "dating": {
+    "dating_summary": "Aja-Fon migration from Tado is dated by comparative Gbe-language linguistics and oral-tradition triangulation to roughly the 12th-13th century CE; Vodun-type practice is inferred to predate the Dahomey kingdom itself (founded c. 1645) but no scholar-verified specific date was found beyond \"predates the 17th-century kingdom\" — the state-sponsored Mawu-Lisa cult specifically is a datable 1740s political act, not deep antiquity.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "No durable ritual architecture/inscriptions predate the 17th century; material culture is largely perishable — effectively absent as independent physical dating evidence."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1600,
+        "latest": 1699,
+        "precision": "CENTURY"
+      },
+      "note": "European documentation from 17th-century contact; sustained Dutch/French/British/Danish documentation from the 17th-18th centuries. A specific 1658 Doctrina Christiana citation for early Vodun awareness could not be independently verified in this research pass — flagged, not asserted."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1938,
+        "latest": 1938,
+        "precision": "YEAR"
+      },
+      "note": "Melville J. Herskovits, Dahomey: An Ancient West African Kingdom (J.J. Augustin, 1938), based on 1931 fieldwork — the foundational modern ethnography."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Migration narrative from Tado (Mono River) via Allada to Abomey, tied to the Agassou (leopard-ancestor) foundational myth."
+    },
+    "estimated_oral_origin": {
+      "range": {
+        "earliest": 1100,
+        "latest": 1300,
+        "precision": "CENTURY"
+      },
+      "method": "Comparative Gbe-language historical linguistics plus oral-tradition triangulation.",
+      "confidence": "MODERATE"
+    }
+  },
+  "relationships": [
+    {
+      "edge_type": "STATE_ADOPTION",
+      "target_id": "pty_dahomey_kingdom",
+      "confidence": "HIGH",
+      "claim_id": "claim_mawu_lisa_hwanjile_import"
+    }
+  ],
+  "notes": "Nana Buluku (primordial figure who withdrew after birthing the twin deities Mawu/moon-night-female and Lisa/sun-day-male, who fuse into composite Mawu-Lisa) — a deus-otiosus pattern better fitting henotheism than monotheism, since worship in practice centers on the accessible vodun (Sakpata/earth, Sogbo-Xevioso/thunder, Agbe/sea, etc.). No named academic source was found directly adjudicating the monotheism-vs-henotheism classification dispute — flagged as this project's own tag judgment, not a cited scholarly consensus."
+}

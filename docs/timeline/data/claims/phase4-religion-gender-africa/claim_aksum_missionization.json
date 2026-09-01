@@ -1,0 +1,44 @@
+{
+  "id": "claim_aksum_missionization",
+  "subject_type": "Tradition",
+  "subject_id": "trad_aksumite_christianity",
+  "statement": "Frumentius, a young Tyrian shipwrecked into Aksumite royal service alongside his companion Aedesius, rose to influence as an administrator (per some accounts during a royal minority), used his position to give Christian merchants freedom of worship and encourage the faith, then traveled to Alexandria where Athanasius consecrated him bishop and sent him back. Rufinus of Aquileia, writing c. 402-403 CE, states he heard this account directly from Aedesius, whom he met at Tyre — one source-remove from an eyewitness, within roughly 60-70 years of the events. Later Ethiopian tradition's honorific \"Abba Selama\" and more elaborate hagiographic material are centuries-later elaboration on this core, not independent corroboration.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "ESTIMATED_COMPOSITION",
+  "date": {
+    "earliest": 320,
+    "latest": 340,
+    "precision": "DECADE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Rufinus of Aquileia, continuation of Eusebius's Ecclesiastical History, Books 10-11, c. 402-403 CE.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

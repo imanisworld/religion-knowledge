@@ -1,0 +1,25 @@
+{
+  "id": "dty_yemoja",
+  "name": "Yemọja (Yoruba)",
+  "region": [
+    "West Africa"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "river deity, specifically associated with the Ògùn River in Nigeria",
+      "claim_id": "claim_yemoja_diaspora_domain_shift"
+    },
+    {
+      "domain": "ocean deity (diaspora domain shift)",
+      "period": {
+        "earliest": 1600,
+        "latest": 1900,
+        "precision": "CENTURY",
+        "date_semantics": "ESTIMATED_COMPOSITION"
+      },
+      "claim_id": "claim_yemoja_diaspora_domain_shift"
+    }
+  ],
+  "notes": "Weaker sourcing than Ògún/Ṣàngó/Ọ̀ṣun — no single named academic monograph specifically on Yemọja comparable to Badejo's on Ọ̀ṣun was located. The river-to-ocean domain shift in the Americas is widely attested across sources but the specific causal mechanism is not traced to one named academic citation — see claim."
+}

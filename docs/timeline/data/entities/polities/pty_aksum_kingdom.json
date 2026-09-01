@@ -1,0 +1,15 @@
+{
+  "id": "pty_aksum_kingdom",
+  "name": "Kingdom of Aksum",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "date_range": {
+    "earliest": 50,
+    "latest": 940,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "patronage_edges": [],
+  "notes": "Numismatic chronology anchors the early kings (coinage from King Endubis, c. 270-300 CE); Ezana's reign conventionally early-to-mid 320s-c.360 CE. Munro-Hay, Aksum: An African Civilization of Late Antiquity (Edinburgh UP, 1991); Phillipson, Foundations of an African Civilisation (James Currey, 2012)."
+}

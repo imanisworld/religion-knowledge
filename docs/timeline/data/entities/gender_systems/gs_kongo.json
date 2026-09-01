@@ -1,0 +1,175 @@
+{
+  "id": "gs_kongo",
+  "culture_id": "cul_kongo",
+  "region": [
+    "Central Africa"
+  ],
+  "period": {
+    "earliest": 1491,
+    "latest": 1710,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Women bore substantial (commonly majority) agricultural labor responsibility; men controlled resource allocation/distribution; polygyny functioned partly to expand household labor capacity and cement inter-lineage alliances. Kongo-specific (16th-18th century) sourcing distinct from general Bantu Central African ethnography extrapolated backward was not located — flagged as a real limitation.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General Central African Bantu-region ethnographic/historical literature on gendered agricultural labor.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Kingship (manikongo) was male-only. The queen mother held recognized special status and could serve as regent during royal minorities. Thornton (2006) documents that after the civil wars beginning 1665 (Battle of Mbwila), elite women began exercising overt, direct territorial/political control in some provinces, independent of male relatives, a shift from the earlier (16th-17th c.) pattern of indirect influence through male relatives. Elite Kongo women never took formal sovereign control of the state itself — unlike the related-but-distinct kingdoms of Ndongo and Matamba, where Njinga Mbande held the throne outright as reigning monarch (r. from 1624) — this is a different polity and must not be conflated with Kongo.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Thornton, John K. \"Elite Women in the Kingdom of Kongo: Historical Perspectives on Women's Political Power.\" Journal of African History 47(3), 2006: 437-460.",
+          "author": "John K. Thornton",
+          "year": 2006,
+          "venue": "Journal of African History",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Elite women could accumulate significant personal wealth and control lineage assets directly. No Kongo-specific (rather than modern-DRC) source on formal legal doctrine (inheritance law, property litigation) for the historical kingdom was located — flagged UNKNOWN at that level of granularity.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Thornton, John K. \"Elite Women in the Kingdom of Kongo.\" Journal of African History 47(3), 2006.",
+          "author": "John K. Thornton",
+          "year": 2006,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "MacGaffey, Wyatt. Kongo Political Culture: The Conceptual Challenge of the Particular. Indiana University Press, 2000.",
+          "author": "Wyatt MacGaffey",
+          "year": 2000,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "DISPUTED. Kongo kinship is not simply matrilineal: Wyatt MacGaffey, \"A Note on Vansina's Invention of Matrilinearity,\" Journal of African History 54(2), 2013, critiques Jan Vansina's Paths in the Rainforests (1990) thesis that matrilineality was a datable historical \"invention\"/development in the Lower Congo region, arguing instead for persistent, complex, often bilateral kinship forms. Even where matrilineal descent-group membership existed, authority over matrilineal kin groups typically rested with maternal uncles, not the women themselves (the general Central African \"matrilineal puzzle\" pattern) — a point drawn from broader regional scholarship, not confirmed as a Kongo-specific MacGaffey/Thornton statement in this pass.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "MacGaffey, Wyatt. \"A Note on Vansina's Invention of Matrilinearity.\" Journal of African History 54(2), 2013: 269-280.",
+          "author": "Wyatt MacGaffey",
+          "year": 2013,
+          "venue": "Journal of African History",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Vansina, Jan. Paths in the Rainforests. University of Wisconsin Press, 1990.",
+          "author": "Jan Vansina",
+          "year": 1990,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "UNKNOWN at meaningful historical granularity. No period-specific (pre-19th-century) documentation of formal legal restrictions specifically targeting women was located distinct from general regional custom; polygyny was normative and male-privileging in structure, a documented structural (not itemized-legal-code) asymmetry.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of a dedicated primary-source study found in this research pass; recommend Cavazzi's 17th-century account as a likely source base for follow-up.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Male exclusivity of the kingship itself, and primogeniture doctrine specifically imported/reinforced by Afonso I to strengthen his succession claim, together constitute documented ideological-structural male privileging at the level of dynastic ideology, alongside normative polygyny. Deeper cosmological argumentation for gendered political authority was not traced to a specific named scholar in this pass.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "EBSCO Research Starters / Britannica summary on Afonso I's use of primogeniture doctrine.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate re: Kimpa Vita (see claim_kimpa_vita_does_not_demonstrate) — her case demonstrates a Kongo woman could achieve the highest tier of religious-political authority available, within a preexisting cultural space for female spirit possession, but does NOT demonstrate routine/institutionalized female political authority generally, nor comparable access for non-elite women; her authority was charismatic/crisis-contingent, and she was ultimately tried and executed as a heretic by the same institutional structure that had elsewhere accommodated elite women's authority."
+  },
+  "notes": null
+}

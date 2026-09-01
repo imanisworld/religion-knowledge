@@ -1,0 +1,14 @@
+{
+  "id": "cul_kongo",
+  "name": "BaKongo (Kingdom of Kongo)",
+  "region": [
+    "Central Africa"
+  ],
+  "date_range": {
+    "earliest": 1390,
+    "latest": 1914,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "notes": "Kikongo-speaking peoples of the Kongo Kingdom, modern northern Angola/western DRC/Republic of Congo."
+}

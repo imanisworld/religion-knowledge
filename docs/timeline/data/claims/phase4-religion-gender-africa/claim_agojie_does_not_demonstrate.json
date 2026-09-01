@@ -1,0 +1,69 @@
+{
+  "id": "claim_agojie_does_not_demonstrate",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_fon",
+  "statement": "The Agojie/Mino were a real, large (peaking around 6,000 by the 1840s per Alpern, declining to roughly 1,500-3,000 by the 1892-94 Franco-Dahomean Wars), professionally organized, combat-effective female military institution, state-sponsored, with documented origins genuinely disputed among named scholars (the gbeto/elephant-huntress tradition per Alpern vs. a royal-bodyguard-evolution tradition vs. Robin Law's emphasis on chronic manpower shortage against numerically superior neighbors as \"perhaps the most persuasive possibility\"). Robin Law's \"become men\" analysis — trained female warriors were culturally understood to symbolically transform into a male social category, especially at the moment of a first kill — is direct evidence the underlying gender hierarchy was intact, not suspended, by the corps's existence. Their existence does NOT demonstrate general Fon/Dahomean gender equality: the dual-sex court-official system was narrower in scope and may have functioned as royal control of male officials as much as female empowerment (Bay); recruitment sometimes occurred via conscription after women were reported for \"misconduct\" by husbands/fathers, a disciplinary mechanism exercised by male kin; and Agojie were themselves required to be nominally celibate/non-childbearing during service, a severe individual restriction, not evidence of general female autonomy.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Law, Robin. \"The 'Amazons' of Dahomey.\" Paideuma 39, 1993: 245-260.",
+      "author": "Robin Law",
+      "year": 1993,
+      "venue": "Paideuma",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Alpern, Stanley B. Amazons of Black Sparta: The Women Warriors of Dahomey. New York University Press, 1998; 2nd ed. Hurst, 2011.",
+      "author": "Stanley B. Alpern",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Bay, Edna G. Wives of the Leopard: Gender, Politics, and Culture in the Kingdom of Dahomey. University of Virginia Press, 1998.",
+      "author": "Edna G. Bay",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "General Fon/Dahomean gender equality",
+    "That ordinary women had comparable status, labor conditions, household authority, or freedom from restriction"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The Woman King (2022) is documented to substantially sanitize Dahomey's slave-trade economy (Agojie historically functioned largely as instruments of slave-raiding warfare, including against the Mahi, portrayed in the film as rescued victims) and to soften King Ghezo's role in it — do not import the film's framing into this dataset."
+}

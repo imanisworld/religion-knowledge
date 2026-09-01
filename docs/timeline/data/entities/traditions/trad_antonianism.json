@@ -1,0 +1,58 @@
+{
+  "id": "trad_antonianism",
+  "name": "Antonian movement (Kimpa Vita)",
+  "category_tags": [
+    "monotheism",
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Central Africa"
+  ],
+  "dating": {
+    "dating_summary": "A dated, bounded reform movement: began 1704 with Kimpa Vita's claimed possession by Saint Anthony of Padua; ended with her execution by burning in 1706.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": null
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1704,
+        "latest": 1706,
+        "precision": "YEAR"
+      },
+      "note": "No surviving African-authored primary source exists; the entire documentary record consists of accounts by Italian Capuchin missionaries (chiefly Bernardo da Gallo and Lorenzo da Lucca), hostile witnesses given she was tried and executed as a heretic largely on their testimony."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1704,
+        "latest": 1706,
+        "precision": "YEAR"
+      },
+      "note": "Same Capuchin missionary accounts."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Kimpa Vita claimed to have died and been reincarnated/possessed by Saint Anthony of Padua in 1704, and preached that Jesus, Mary, and the saints were themselves Kongolese/African."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [
+    {
+      "edge_type": "REFORM",
+      "target_id": "trad_kongo_christianity",
+      "confidence": "HIGH",
+      "claim_id": "claim_antonianism_reform"
+    }
+  ],
+  "notes": "John K. Thornton, The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706 (Cambridge UP, 1998) — the foundational modern academic monograph, reading the hostile Capuchin sources \"against the grain.\" Movement arose amid civil wars over the Kongo throne following the 1665 Battle of Mbwila; Thornton frames it as having taken on the character of \"something of a theocracy,\" aimed at ending the wars and restoring unified sacralized kingship. Executed on orders connected to King Pedro IV, with Capuchin missionary involvement in her heresy condemnation. See claim_kimpa_vita_does_not_demonstrate."
+}

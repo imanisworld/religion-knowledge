@@ -1,0 +1,63 @@
+{
+  "id": "claim_iyanifa_controversy",
+  "subject_type": "Tradition",
+  "subject_id": "trad_ifa_orisa",
+  "statement": "The Ifá priesthood (babaláwo) is historically male-dominated/male-exclusive in most documented lineages. Whether women can legitimately be initiated as Ifá priests (Ìyánífá, \"Mother of Secrets\") is a genuinely live, contested question — not a single unified \"traditional\" position. The controversy sharpened publicly at a 2006 global Ifá meeting in Venezuela, where Cuban babaláwos told a female Ifá initiate \"there is no such thing as a woman Ifá priest,\" while Nigerian babaláwo present argued for women's acceptability. This is explicitly a Nigeria-vs-Cuban-lineage disagreement.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether female Ifá initiation (Ìyánífá) is legitimate — Cuban Lucumí and some Nigerian lineages reject it grounded in lineage tradition and specific Odù readings; other Nigerian lineages and the Ìyánífá/Ìyáláwo movement initiate women and treat this as legitimate/traditional.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "\"Mamalawo? The Controversy Over Women Practicing Ifa Divination.\" Utambuzi: Journal for the Study of the Religions of Africa and its Diaspora, University of Johannesburg journals platform.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": "Title and venue located (journals.uj.ac.za/index.php/ujsrad/article/view/3406); author name and full argument could not be fetched in this research pass due to network egress restrictions — flagged for follow-up."
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Female Ifá initiation is illegitimate; Ifá priesthood is reserved for men per lineage tradition and specific Odù readings around ritual restrictions tied to the Òrìṣà Odù",
+      "holders": [
+        {
+          "name": "Orthodox Cuban Lucumí lineages and some Nigerian lineages, per the 2006 Venezuela meeting account",
+          "camp": "EXCLUSIONARY LINEAGE SCHOOL"
+        }
+      ],
+      "strongest_case": "Grounded in specific, named lineage-transmitted readings of the Odù corpus.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "Female Ifá initiation (Ìyánífá) is legitimate and traditional",
+      "holders": [
+        {
+          "name": "Nigerian lineages participating in the Ìyánífá/Ìyáláwo movement, per the 2006 Venezuela meeting account",
+          "camp": "INCLUSIVE LINEAGE SCHOOL"
+        }
+      ],
+      "strongest_case": "Nigerian babaláwo present at the 2006 meeting argued directly for this position against the Cuban lineage rejection.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

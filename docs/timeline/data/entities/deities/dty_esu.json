@@ -1,0 +1,25 @@
+{
+  "id": "dty_esu",
+  "name": "Èṣù / Eshu (Yoruba)",
+  "region": [
+    "West Africa"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "messenger/intermediary between Olódùmarè, the other Òrìṣà, and humanity; enforcer of divine law",
+      "claim_id": "claim_esu_domain_and_mistranslation"
+    },
+    {
+      "domain": "mischaracterized as \"Satan\"/\"the Devil\" in 19th-century missionary translation",
+      "period": {
+        "earliest": 1843,
+        "latest": 1900,
+        "precision": "CENTURY",
+        "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+      },
+      "claim_id": "claim_esu_domain_and_mistranslation"
+    }
+  ],
+  "notes": "The trickster reputation is explained in devotional/academic-adjacent sources as pedagogical (using irony/paradox to push humans toward wisdom and correct ritual conduct) rather than malevolent — flagged as interpretive gloss, not traced to a single named peer-reviewed anthropologist at HIGH confidence."
+}

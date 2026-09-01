@@ -1,0 +1,25 @@
+{
+  "id": "dty_nzambi_mpungu",
+  "name": "Nzambi a Mpungu (Kongo)",
+  "region": [
+    "Central Africa"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "high-god/creator term (post-missionary Christianized usage, used to translate the Christian God from the 16th-17th century onward)",
+      "period": {
+        "earliest": 1600,
+        "latest": 1900,
+        "precision": "CENTURY",
+        "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+      },
+      "claim_id": "claim_nzambi_meaning_disputed"
+    },
+    {
+      "domain": "DISPUTED original precolonial meaning: personification of death (MacGaffey 2022, via early-20th-century Laman-collection texts), with the life/creation valence instead carried by bisimbi",
+      "claim_id": "claim_nzambi_meaning_disputed"
+    }
+  ],
+  "notes": "This project should NOT present \"Nzambi a Mpungu, benevolent sky-father creator\" as settled precolonial fact — see claim_nzambi_meaning_disputed for the two named camps."
+}

@@ -1,0 +1,162 @@
+{
+  "id": "gs_akan_asante",
+  "culture_id": "cul_akan_asante",
+  "region": [
+    "West Africa"
+  ],
+  "period": {
+    "earliest": 1700,
+    "latest": 1900,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Gracia Clark, Onions Are My Husband: Survival and Accumulation by West African Market Women (University of Chicago Press, 1994), based on 4+ years of fieldwork from 1978, documents women dominating market trade/commerce, including powerful female \"market queens\" controlling wholesale flows of staples at Kumasi Central Market. Men historically dominated hunting, long-distance/inter-regional trade, and certain craft guilds (per Rattray).",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Clark, Gracia. Onions Are My Husband: Survival and Accumulation by West African Market Women. University of Chicago Press, 1994.",
+          "author": "Gracia Clark",
+          "year": 1994,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Central/paramount office (Asantehene, council of elders/kingmakers, and a male bureaucracy expanded in the 1760s \"patrifiliation\" process) was predominantly male; BUT the parallel Asantehemaa/ohemaa (Queen Mother) institution held real, non-symbolic nomination, destoolment-initiation, and judicial powers at every level of the polity. In the 1760s the Kumasi government created stools for sons of the Asantehene and wealthy loyal men (Oberempon), measurably weakening the political weight of matrilineages and female-held authority — \"no women were appointed to the new government\" per Wilks/McCaskie-sourced secondary synthesis. Yaa Asantewaa (district-level Queen Mother of Ejisu) led the 1900 War of the Golden Stool — a real, exceptional case, not evidence of a general pattern of female military command.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Stoeltje, Beverly J. \"Asante Queen Mothers: Precolonial Authority in a Postcolonial Society.\" Research Review, 2003.",
+          "author": "Beverly J. Stoeltje",
+          "year": 2003,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Wilks, Ivor. Asante in the Nineteenth Century: The Structure and Evolution of a Political Order. Cambridge University Press, 1975.",
+          "author": "Ivor Wilks",
+          "year": 1975,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Matrilineal inheritance (abusua) gave women structural standing as conduits and holders of lineage property/office. Women were not typically economically dependent on husbands (no alimony system; a wife was always assured a place to return to) per secondary synthesis of the customary-law literature.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Rattray, R.S. Ashanti Law and Constitution. Oxford University Press, 1929.",
+          "author": "R.S. Rattray",
+          "year": 1929,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Underdocumented in this research pass specifically for everyday household decision-making authority (as opposed to political office) — Rattray (1929) reportedly discusses husband/father authority in the customary-legal framework but specific passages were not obtained. Flagged as needing dedicated follow-up rather than inferred.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Rattray, R.S. Ashanti Law and Constitution. Oxford University Press, 1929.",
+          "author": "R.S. Rattray",
+          "year": 1929,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Jean Allman, \"Rounding Up Spinsters: Gender Chaos and Unmarried Women in Colonial Asante,\" Journal of African History 37:2 (1996): 195-214, documents that between 1929-1932 Asante chiefs (entangled with colonial administration) ordered arrest of unmarried women over 15 across rural Asante towns — coercive control over women's labor/reproduction amid colonial economic disruption. This is a colonial-period, not precolonial, data point and should not be read backward without qualification.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Allman, Jean. \"Rounding Up Spinsters: Gender Chaos and Unmarried Women in Colonial Asante.\" Journal of African History 37:2, 1996: 195-214.",
+          "author": "Jean Allman",
+          "year": 1996,
+          "venue": "Journal of African History",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Not directly evidenced in this research pass by a named scholar making an explicit textual/oral-tradition claim of women's natural subordination among the Akan — what was found is structural (the 1760s patrifiliation process, male-dominated central office) rather than explicit ideological/textual assertion. Recorded as UNKNOWN rather than inferred from the structural facts, to avoid conflating dimensions.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of a dedicated ideological-content study found in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Matrilineal descent (abusua) is a distinct axis from household/political male authority — do not treat matriliny as automatically implying gender egalitarianism (the 1760s patrifiliation process is direct evidence against that inference). Required does_not_demonstrate: Yaa Asantewaa's 1900 war leadership demonstrates the pre-existing Queen Mother institution's real authority could be activated at maximum scale under crisis — not that Asante women generally held military command."
+  },
+  "notes": null
+}

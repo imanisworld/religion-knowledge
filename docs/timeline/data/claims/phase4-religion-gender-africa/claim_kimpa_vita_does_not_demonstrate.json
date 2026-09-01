@@ -1,0 +1,57 @@
+{
+  "id": "claim_kimpa_vita_does_not_demonstrate",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_kongo",
+  "statement": "Kimpa Vita's case demonstrates that a Kongo woman could achieve the highest tier of religious-political authority available in the society — functioning, per Thornton's characterization, as the effective center of \"something of a theocracy\" — and command a mass following during a specific historical crisis (the post-1665 civil wars), within an already-existing cultural space for female spirit possession as a recognized channel of authority. It does NOT demonstrate that women's political authority was routine, institutionalized, or legally secured in Kongo society generally (her authority was charismatic/prophetic and crisis-contingent); that commoner or non-elite women had comparable access (she was aristocratic-born, and Thornton's broader 2006 findings on elite women's post-1665 political action are specifically about elite women); or that the outcome validates the movement as a durable structural gain for women's status — she was tried and executed as a heretic, with the same missionary establishment that had elsewhere facilitated elite women's authority (e.g. Queen Leonor) playing the decisive role in her condemnation.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge University Press, 1998.",
+      "author": "John K. Thornton",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Thornton, John K. \"Elite Women in the Kingdom of Kongo.\" Journal of African History 47(3), 2006: 437-460.",
+      "author": "John K. Thornton",
+      "year": 2006,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "Routine/institutionalized female political authority in Kongo generally",
+    "Comparable authority for non-elite women",
+    "A durable structural gain for women's status (she was tried and executed as a heretic)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

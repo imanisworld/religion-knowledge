@@ -1,0 +1,15 @@
+{
+  "id": "pty_dahomey_kingdom",
+  "name": "Kingdom of Dahomey",
+  "region": [
+    "West Africa"
+  ],
+  "date_range": {
+    "earliest": 1645,
+    "latest": 1894,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "patronage_edges": [],
+  "notes": "Houegbadja/Wegbaja (r. c.1645-1685) most consistently credited as effective first king (built Abomey palaces, formalized Annual Customs, centralized religious authority). Do-Aklin (c.1600-1620) and Dakodonou (c.1620-1645) precede him in the dynastic king-list, but Robin Law's source-critical historiography argues Dakodonou may have been retroactively inserted in the 18th century to legitimize the dynasty's claim over the Abomey plateau's original inhabitants — flag the earliest portion of the king-list as contested, not settled. Absorbed into French West Africa after the Second Franco-Dahomean War (1892-94), King Béhanzin captured 1893."
+}

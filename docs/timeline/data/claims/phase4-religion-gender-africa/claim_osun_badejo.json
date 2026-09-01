@@ -1,0 +1,40 @@
+{
+  "id": "claim_osun_badejo",
+  "subject_type": "Deity",
+  "subject_id": "dty_osun",
+  "statement": "Diedre L. Badejo, Ọ̀ṣun Ṣèègèsí: The Elegant Deity of Wealth, Power, and Femininity (Africa World Press, 1996), described as the first full-length original research study of a major Yorùbá goddess, is based on fieldwork at Ọ̀ṣun's principal shrine in Òṣogbo, drawing on ritual orature, sacred songs, and festival drama, and explicitly traces the goddess's presence across West Africa, Cuba, Brazil, and the US.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Badejo, Diedre L. Ọ̀ṣun Ṣèègèsí: The Elegant Deity of Wealth, Power, and Femininity. Africa World Press, 1996.",
+      "author": "Diedre L. Badejo",
+      "year": 1996,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

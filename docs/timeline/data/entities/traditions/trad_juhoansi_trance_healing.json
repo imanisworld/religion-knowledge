@@ -1,0 +1,43 @@
+{
+  "id": "trad_juhoansi_trance_healing",
+  "name": "Ju/'hoansi trance-healing tradition",
+  "category_tags": [
+    "animism",
+    "mixed"
+  ],
+  "region": [
+    "Southern Africa"
+  ],
+  "dating": {
+    "dating_summary": "Documented via 20th-century ethnography (Marshall from the 1950s; Katz's fieldwork early-to-mid 1970s, published 1982; Biesele from the 1970s-90s) as a living practice; no independently dated time-depth for the specific institution as documented, though the general trickster-Mantis figure appears across many San groups' folklore per comparative work (Guenther 1999).",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Rock art potentially depicting trance-dance postures exists but the link is a contested interpretive claim (Lewis-Williams/Dowson vs. Solomon), not confirmed continuity — see claim_rock_art_shamanism_disputed."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1950,
+        "latest": 1959,
+        "precision": "DECADE"
+      },
+      "note": "Lorna Marshall's Nyae Nyae fieldwork, published from 1959 onward, is the earliest substantial published ethnography of this specific group."
+    },
+    "surviving_manuscript_date": null,
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "No single canonical origin narrative; described by practitioners as a longstanding living institution of \"emotional, social, and moral balance\" (Lee/Biesele framing)."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Richard Katz, Boiling Energy: Community Healing Among the Kalahari Kung (Harvard UP, 1982) — n/um (\"energy\") \"boiling\" during the all-night communal healing dance produces !kia/trance, enabling extraction of sickness; at dances Katz observed, roughly 1/4 of female singers and 2/3 of male dancers functioned as healers — both sexes participate, men a larger share of deep-trance healers. Megan Biesele, Women Like Meat (Witwatersrand UP/Indiana UP, 1993)."
+}

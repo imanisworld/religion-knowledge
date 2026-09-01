@@ -1,0 +1,40 @@
+{
+  "id": "claim_kaggen_domain",
+  "subject_type": "Deity",
+  "subject_id": "dty_kaggen",
+  "statement": "/Kaggen (the Mantis) is the central trickster-creator figure in /Xam narrative as recorded in the Bleek-Lloyd archive: shapeshifting (mantis, eland, snake, louse, hare), morally ambiguous rather than purely benevolent, central to the eland-creation narrative — he made the first eland from a piece of shoe leather nurtured with honey, and wept when it was killed by his in-laws, his released tears/gall creating the first darkness.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Bleek, Wilhelm, and Lucy Lloyd. Specimens of Bushman Folklore. 1911.",
+      "author": null,
+      "year": 1911,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

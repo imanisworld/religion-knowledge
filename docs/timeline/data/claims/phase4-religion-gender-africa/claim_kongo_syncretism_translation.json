@@ -1,0 +1,57 @@
+{
+  "id": "claim_kongo_syncretism_translation",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kongo_christianity",
+  "statement": "Missionaries and Kongo Christian intellectuals (including Afonso I himself) selected Nzambi a Mpungu as the Kikongo rendering of the Christian God, and nkisi was translated as \"holy\" — folding the Christian sacred into the same linguistic category as the traditional power-object concept rather than presenting it as categorically alien. This translation choice is traceable through the 1624 Kikongo catechism produced under Jesuit Mateus Cardoso (a now-lost 1557 Carmelite catechism preceded it). Cécile Fromont (The Art of Conversion, UNC Press, 2014; \"Under the Sign of the Cross in the Kingdom of Kongo,\" RES: Anthropology and Aesthetics) documents the preexisting Kongo dikenga/yowa cross-shaped cosmogram as a genuine point of visual-cosmological convergence enabling Kongo Christians to read the Christian crucifix through an existing framework, producing elaborate hybrid crucifixes.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "SURVIVING_MANUSCRIPT_DATE",
+  "date": {
+    "earliest": 1524,
+    "latest": 1624,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Fromont, Cécile. The Art of Conversion: Christian Visual Culture in the Kingdom of Kongo. University of North Carolina Press, 2014.",
+      "author": "Cécile Fromont",
+      "year": 2014,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "The 1624 Kikongo catechism produced under Jesuit Mateus Cardoso, translated by named Kongo \"best masters of the church.\"",
+      "author": null,
+      "year": 1624,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
