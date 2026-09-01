@@ -1,0 +1,57 @@
+{
+  "id": "claim_habilis_daterange",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_habilis",
+  "statement": "Homo habilis-attributed material dates to approximately 2.4-1.5 million years ago, with the type specimen OH 7 (Olduvai Gorge, Tanzania) dated to approximately 1.8 million years ago and cranial capacity estimates of roughly 510-687 cm³ across attributed specimens.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -2400000,
+    "latest": -1500000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Leakey, L.S.B., Tobias, P.V., Napier, J.R. Original description of Homo habilis (type specimens OH 7, OH 4, OH 6, OH 8, OH 13).",
+      "author": null,
+      "year": 1964,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Smithsonian Human Origins Program, \"Homo habilis\" species page.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

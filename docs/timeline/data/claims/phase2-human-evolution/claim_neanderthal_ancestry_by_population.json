@@ -1,0 +1,113 @@
+{
+  "id": "claim_neanderthal_ancestry_by_population",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_sapiens",
+  "statement": "Neanderthal genetic ancestry in living human populations varies by population and is not one global figure: approximately 1.8-2.1% in Europeans and approximately 2.3-2.6% in East Asians (East Asians carrying roughly 12-20% more than Europeans, an asymmetry whose cause is disputed), with West African populations carrying a smaller (~0.3%) signal now attributed to back-migration of Eurasian, Neanderthal-ancestry-carrying lineages into Africa within roughly the last 20,000-50,000 years, rather than a separate direct African-Neanderthal admixture event.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -50000,
+    "latest": -20000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe",
+    "East Asia",
+    "Africa"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": "The cause of the higher Neanderthal-ancestry fraction in East Asians than Europeans is disputed: differential efficiency of purifying selection (Sankararaman et al. 2014) versus an additional pulse of Neanderthal gene flow specifically into East Asian ancestors, which selection/drift alone cannot fully explain (Vernot & Akey 2015).",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Green, R.E. et al. \"A draft sequence of the Neandertal genome.\" Science 328(5979): 710-722.",
+      "author": "Green et al.",
+      "year": 2010,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Sankararaman, S. et al. \"The genomic landscape of Neanderthal ancestry in present-day humans.\" Nature 507: 354-357.",
+      "author": "Sankararaman et al.",
+      "year": 2014,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Vernot, B. & Akey, J.M. \"Resurrecting Surviving Neandertal Lineages from Modern Human Genomes.\" Science 343(6174): 1017-1021; and \"Selection and Reduced Population Size Cannot Explain Higher Amounts of Neandertal Ancestry in East Asian than European Populations.\" American Journal of Human Genetics 96(3): 448-453.",
+      "author": "Vernot & Akey",
+      "year": 2014,
+      "venue": "Science / American Journal of Human Genetics",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Chen, L., Wolf, A.B., Fu, W., Li, L., Akey, J.M. \"Identifying and Interpreting Apparent Neanderthal Ancestry in African Individuals.\" Cell 180(4): 677-687.",
+      "author": "Chen et al.",
+      "year": 2020,
+      "venue": "Cell",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Differential efficiency of purifying selection against deleterious Neanderthal variants explains the Europe/East-Asia asymmetry",
+      "holders": [
+        {
+          "name": "Sriram Sankararaman et al.",
+          "work": "Nature 507:354-357",
+          "year": 2014,
+          "camp": "[POPULATION GENETICS]"
+        }
+      ],
+      "status": "CONTESTED"
+    },
+    {
+      "position": "Selection and reduced population size alone cannot explain the asymmetry; an additional gene-flow pulse into East Asian ancestors is required",
+      "holders": [
+        {
+          "name": "Benjamin Vernot & Joshua Akey",
+          "work": "American Journal of Human Genetics 96(3):448-453",
+          "year": 2015,
+          "camp": "[POPULATION GENETICS]"
+        }
+      ],
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [
+    "that sub-Saharan African populations carry zero Neanderthal ancestry — that older framing is now an outdated oversimplification per Chen et al. 2020"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

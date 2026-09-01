@@ -1,0 +1,21 @@
+{
+  "id": "pop_homo_habilis",
+  "name": "Homo habilis",
+  "taxonomic_status": {
+    "classification": "Homo habilis (Leakey, Tobias & Napier 1964)",
+    "disputed": true,
+    "alternative_classifications": [
+      "Homo habilis sensu stricto + Homo rudolfensis (Wood 1991 split, supported by Spoor et al. 2015)"
+    ]
+  },
+  "date_range": {
+    "earliest": -2400000,
+    "latest": -1500000,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "notes": null
+}

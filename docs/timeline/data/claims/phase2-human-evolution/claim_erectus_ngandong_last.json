@@ -1,0 +1,48 @@
+{
+  "id": "claim_erectus_ngandong_last",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_erectus",
+  "statement": "The last confirmed appearance of Homo erectus is a bone bed at Ngandong, Java, modeled via 52 radiometric age estimates (uranium-series on speleothems, luminescence and ⁴⁰Ar/³⁹Ar on river terraces, and U-series/electron-spin-resonance on associated fossils) to 117,000-108,000 years ago — substantially overturning earlier, less rigorously dated claims of survival to as recently as ~27,000-53,000 years ago.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -117000,
+    "latest": -108000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Southeast Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Rizal, Y., Westaway, K.E., Zaim, Y., et al. \"Last appearance of Homo erectus at Ngandong, Java, 117,000-108,000 years ago.\" Nature 577: 381-385.",
+      "author": "Rizal et al.",
+      "year": 2020,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "that Homo erectus and Homo sapiens populations had direct contact in this region — the finding establishes temporal overlap at a continental/regional scale, not encounter",
+    "that Homo erectus persisted this late anywhere outside this specific Javan locality"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

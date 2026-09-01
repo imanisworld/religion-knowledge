@@ -1,0 +1,58 @@
+{
+  "id": "claim_omo_kibish_redate",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_sapiens",
+  "statement": "The Omo I fossil (Omo Kibish, Ethiopia) was originally dated to 195 ± 5 thousand years ago via argon-argon dating of bracketing volcanic tuffs (McDougall, Brown & Fleagle 2005); a 2022 study using geochemical fingerprinting of an overlying volcanic ash layer revised this to a minimum age of greater than 233,000 ± 22,000 years, since the ash constrains only a lower bound and the true age could be older.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -233000,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "McDougall, I., Brown, F.H., Fleagle, J.G. \"Stratigraphic placement and age of modern humans from Kibish, Ethiopia.\" Nature 433: 733-736.",
+      "author": "McDougall et al.",
+      "year": 2005,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Vidal, C.M., Lane, C.S., Asrat, A., et al. \"Age of the oldest known Homo sapiens from eastern Africa.\" Nature 601: 579-583. DOI: 10.1038/s41586-021-04275-8",
+      "author": "Vidal et al.",
+      "year": 2022,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Complementary to, not competing with, the Jebel Irhoud dating: Jebel Irhoud remains older and shows more archaic cranial morphology; Omo I is younger and morphologically closer to fully modern humans."
+}

@@ -1,0 +1,59 @@
+{
+  "id": "claim_ld350_earliest_homo",
+  "subject_type": "Population",
+  "subject_id": "pop_early_homo",
+  "statement": "The oldest fossil confidently attributed to genus Homo is LD 350-1, a partial mandible with five teeth from Ledi-Geraru, Afar, Ethiopia, dated 2.80-2.75 million years ago via argon-argon (⁴⁰Ar/³⁹Ar) dating of bracketing volcanic tephra layers combined with tephrostratigraphic and magnetostratigraphic correlation.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -2800000,
+    "latest": -2750000,
+    "central": -2775000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Villmoare, B., Kimbel, W.H., Seyoum, C., et al. \"Early Homo at 2.8 Ma from Ledi-Geraru, Afar, Ethiopia.\" Science 347(6228): 1352-1355.",
+      "author": "Villmoare et al.",
+      "year": 2015,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "DiMaggio, E.N., Campisano, C.J., Rowan, J., et al. \"Late Pliocene fossiliferous sedimentary record and the environmental context of early Homo from Afar, Ethiopia.\" Science 347(6228): 1355-1359.",
+      "author": "DiMaggio et al.",
+      "year": 2015,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

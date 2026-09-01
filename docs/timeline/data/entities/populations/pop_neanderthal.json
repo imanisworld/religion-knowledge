@@ -1,0 +1,42 @@
+{
+  "id": "pop_neanderthal",
+  "name": "Homo neanderthalensis (Neanderthal)",
+  "taxonomic_status": {
+    "classification": "Homo neanderthalensis",
+    "disputed": false,
+    "alternative_classifications": [
+      "Sometimes classified as Homo sapiens neanderthalensis (subspecies) rather than a separate species"
+    ]
+  },
+  "date_range": {
+    "earliest": -430000,
+    "latest": -39260,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Europe",
+    "Western Asia"
+  ],
+  "gene_flow_edges": [
+    {
+      "with_population_id": "pop_homo_sapiens",
+      "direction": "BIDIRECTIONAL",
+      "confidence": "HIGH",
+      "estimated_percentage_range": {
+        "low": 1.5,
+        "high": 2.6,
+        "applies_to": "non-African modern populations; small back-migration-derived signal (~0.3%) also documented in West African populations"
+      },
+      "claim_id": "claim_neanderthal_ancestry_by_population"
+    },
+    {
+      "with_population_id": "pop_denisovan",
+      "direction": "BIDIRECTIONAL",
+      "confidence": "HIGH",
+      "estimated_percentage_range": null,
+      "claim_id": "claim_neanderthal_denisovan_divergence"
+    }
+  ],
+  "notes": "Fossil date range (earliest confirmed ~430 ka at Sima de los Huesos; youngest ~39,260-41,030 cal BP) is distinct from the lineage-divergence date from Homo sapiens (~550,000-765,000 years ago, a genetic estimate) — see claim_neanderthal_sapiens_divergence. Do not conflate the two."
+}

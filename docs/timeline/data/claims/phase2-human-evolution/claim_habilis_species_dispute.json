@@ -1,0 +1,87 @@
+{
+  "id": "claim_habilis_species_dispute",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_habilis",
+  "statement": "Whether \"Homo habilis\" represents one coherent species or should be split into Homo habilis sensu stricto and a separate species Homo rudolfensis remains an open, actively contested question in current paleoanthropology, not settled by consensus.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether early-Homo variability in East Africa (OH 7, OH 13, KNM-ER 1470, KNM-ER 1813, etc.) represents one variable species or at least two co-existing species.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Wood, B. Koobi Fora Research Project monograph proposing the habilis/rudolfensis split.",
+      "author": "Wood, B.",
+      "year": 1991,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Spoor, F., Gunz, P., Neubauer, S., et al. \"Reconstructed Homo habilis type OH 7 suggests deep-rooted species diversity in early Homo.\" Nature 519: 83-86.",
+      "author": "Spoor et al.",
+      "year": 2015,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Early Homo material should be split into H. habilis sensu stricto and H. rudolfensis",
+      "holders": [
+        {
+          "name": "Bernard Wood",
+          "work": "Koobi Fora Research Project monograph",
+          "year": 1991,
+          "camp": "[PALEOANTHROPOLOGY — SPLITTING]"
+        },
+        {
+          "name": "Fred Spoor et al.",
+          "work": "Nature 519:83-86 (CT reconstruction of OH 7)",
+          "year": 2015,
+          "camp": "[PALEOANTHROPOLOGY — SPLITTING]"
+        }
+      ],
+      "status": "CONTESTED",
+      "strongest_case": "Digital reconstruction of the crushed OH 7 mandible shows a long, narrow, primitive dental arcade distinct from other habilis-attributed material (e.g. OH 13, KNM-ER 1813), supporting real morphological diversity within \"early Homo.\""
+    },
+    {
+      "position": "The traditional single, variable Homo habilis taxon remains defensible",
+      "holders": [
+        {
+          "name": "Traditional Leakey/Tobias/Napier-descended position, surveyed without full resolution by Susan Antón",
+          "work": "\"Early Homo: Who, When, and Where,\" Current Anthropology (2003, 2012 pieces)",
+          "year": 2012,
+          "camp": "[PALEOANTHROPOLOGY — LUMPING]"
+        }
+      ],
+      "status": "CONTESTED",
+      "strongest_case": "Variation among the attributed specimens falls within a plausible range for a single geographically and temporally dispersed species, given known intraspecific variability in other hominins."
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

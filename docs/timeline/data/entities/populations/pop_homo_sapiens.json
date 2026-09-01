@@ -1,0 +1,43 @@
+{
+  "id": "pop_homo_sapiens",
+  "name": "Homo sapiens",
+  "taxonomic_status": {
+    "classification": "Homo sapiens",
+    "disputed": false,
+    "alternative_classifications": []
+  },
+  "date_range": {
+    "earliest": -315000,
+    "latest": null,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "gene_flow_edges": [
+    {
+      "with_population_id": "pop_neanderthal",
+      "direction": "BIDIRECTIONAL",
+      "confidence": "HIGH",
+      "estimated_percentage_range": {
+        "low": 1.5,
+        "high": 2.6,
+        "applies_to": "non-African modern populations (varies by population; see claim_neanderthal_ancestry_by_population)"
+      },
+      "claim_id": "claim_neanderthal_ancestry_by_population"
+    },
+    {
+      "with_population_id": "pop_denisovan",
+      "direction": "BIDIRECTIONAL",
+      "confidence": "HIGH",
+      "estimated_percentage_range": {
+        "low": 0.1,
+        "high": 6.0,
+        "applies_to": "Melanesian/Papuan/Aboriginal Australian populations highest (~3-6%); mainland East Asian populations much lower (~0.1-0.2%); see claim_denisovan_ancestry_by_population"
+      },
+      "claim_id": "claim_denisovan_ancestry_by_population"
+    }
+  ],
+  "notes": "No single point in time can currently be identified for the species’ origin (Bergström et al. 2021); earliest fossil evidence spans multiple African sites (Jebel Irhoud, Morocco; Omo Kibish, Ethiopia), not one “cradle.”"
+}

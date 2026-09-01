@@ -1,0 +1,61 @@
+{
+  "id": "claim_sima_de_los_huesos_earliest",
+  "subject_type": "Population",
+  "subject_id": "pop_neanderthal",
+  "statement": "The oldest fossils confidently placed on the Neanderthal branch (post-dating the split from the modern-human lineage but pre-dating classic Neanderthal morphology) are from Sima de los Huesos, Atapuerca, Spain, dated to approximately 430,000 years ago via uranium-series and paleomagnetic methods, with nuclear DNA confirming their placement on the Neanderthal lineage.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -430000,
+    "latest": -430000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Arsuaga, J.L. et al. \"Neandertal roots: Cranial and chronological evidence from Sima de los Huesos.\" Science 344: 1358-1363.",
+      "author": "Arsuaga et al.",
+      "year": 2014,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Meyer, M. et al. \"Nuclear DNA sequences from the Middle Pleistocene Sima de los Huesos hominins.\" Nature 531: 504-507.",
+      "author": "Meyer et al.",
+      "year": 2016,
+      "venue": "Nature",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "that these individuals were \"Neanderthals\" in the strict classic morphological sense — they are proto-Neanderthal lineage material"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,59 @@
+{
+  "id": "claim_neanderthal_admixture_purging",
+  "subject_type": "Population",
+  "subject_id": "pop_homo_sapiens",
+  "statement": "The initial pulse of Neanderthal-to-modern-human gene flow (roughly 50,000-60,000 years ago) was likely substantially higher than 5% of the genome, and was subsequently reduced by natural selection purging deleterious archaic variants over succeeding generations — which is why the Neanderthal-ancestry fraction observed in living genomes today (see claim_neanderthal_ancestry_by_population) is much lower than the original admixture event itself.",
+  "claim_tier": "CAUSAL_EXPLANATION",
+  "related_observation_id": "claim_neanderthal_ancestry_by_population",
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": -60000,
+    "latest": -50000,
+    "precision": "ORDER_OF_MAGNITUDE"
+  },
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Europe",
+    "Asia"
+  ],
+  "evidence_types": [
+    "ANCIENT_DNA",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Harris, K. & Nielsen, R. \"The Genetic Cost of Neanderthal Introgression.\" Genetics 203(2): 881-891.",
+      "author": "Harris & Nielsen",
+      "year": 2016,
+      "venue": "Genetics",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Juric, I., Aeschbacher, S., Coop, G. \"The Strength of Selection against Neanderthal Introgression.\" PLOS Genetics 12(11): e1006340.",
+      "author": "Juric, Aeschbacher & Coop",
+      "year": 2016,
+      "venue": "PLOS Genetics",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

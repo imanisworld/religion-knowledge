@@ -1,0 +1,22 @@
+{
+  "id": "pop_early_homo",
+  "name": "Early Homo (genus-level, earliest attestation)",
+  "taxonomic_status": {
+    "classification": "Genus Homo, unassigned to species at the earliest attested material",
+    "disputed": true,
+    "alternative_classifications": [
+      "Some researchers dispute genus-level assignment of the earliest (LD 350-1) specimen from dental/mandibular material alone",
+      "A 2026 minority proposal (Towle) would fold Australopithecus, Paranthropus, and Kenyanthropus into an expanded Homo reaching back ~4-5 Ma"
+    ]
+  },
+  "date_range": {
+    "earliest": -2800000,
+    "latest": -2500000,
+    "precision": "ORDER_OF_MAGNITUDE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "notes": "Represents the taxonomically contested earliest material assigned to genus Homo, not a coherent single population. See claim_ld350_earliest_homo and claim_ledi_geraru_overlap_2025."
+}

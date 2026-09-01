@@ -1,0 +1,80 @@
+{
+  "id": "claim_ld350_genus_dispute",
+  "subject_type": "Population",
+  "subject_id": "pop_early_homo",
+  "statement": "Whether the LD 350-1 mandible’s mix of primitive (Australopithecus-like) and derived (Homo-like) traits justifies genus-level (Homo) assignment from a single mandible and dentition was formally disputed in the scientific literature.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z1",
+  "zoom_max": "Z2",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether one mandible/dentition with a mix of primitive and derived traits is sufficient to assign genus-level (Homo) status, versus requiring more complete cranial or postcranial material.",
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Comment on \"Early Homo at 2.8 Ma...\" Science, doi:10.1126/science.aab0591",
+      "author": null,
+      "year": 2015,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Villmoare et al., reply to Comment. Science, doi:10.1126/science.aab1122",
+      "author": null,
+      "year": 2015,
+      "venue": "Science",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-08-31",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "The mandibular and dental morphology justifies assignment to Homo",
+      "holders": [
+        {
+          "name": "Villmoare, B. et al.",
+          "work": "Science 347(6228) and reply to Comment",
+          "year": 2015,
+          "camp": "[PALEOANTHROPOLOGY — ORIGINAL DESCRIPTION TEAM]"
+        }
+      ],
+      "status": "MAJORITY",
+      "strongest_case": "The derived, thinned symphyseal and dental proportions fall outside the Australopithecus afarensis range and align with later Homo."
+    },
+    {
+      "position": "Genus-level assignment from a single mandible/dentition is not adequately supported",
+      "holders": [
+        {
+          "name": "Authors of the 2015 Science Comment (unnamed in retrieved sources)",
+          "work": "Comment on \"Early Homo at 2.8 Ma...\", Science, doi:10.1126/science.aab0591",
+          "year": 2015,
+          "camp": "[PALEOANTHROPOLOGY — TAXONOMIC SKEPTIC]"
+        }
+      ],
+      "status": "MINORITY",
+      "strongest_case": "Dental and mandibular traits alone have historically been unreliable for genus-level hominin taxonomy without cranial or postcranial confirmation."
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Commentary authors’ names were not resolved in the research pass; cite by publication (Comment on Science 347(6228), doi:10.1126/science.aab0591) rather than by name until independently confirmed."
+}
