@@ -136,3 +136,6 @@ main{min-width:0}.section-heading{margin:18px 0 10px}.section-heading p{margin:0
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.001ms!important;animation-duration:.001ms!important;animation-iteration-count:1!important}}
 
 @media(forced-colors:active){.truth-window,.claim-mark,.lane-absence,.status-chip{forced-color-adjust:auto}.claim-mark[data-confidence="LOW"]{border-style:dashed}.claim-mark[data-confidence="DISPUTED"]{border-style:double}.claim-mark[data-confidence="UNKNOWN"]{border-style:dotted}}
+
+.lane-absence.filtered{background:var(--accent-soft);color:var(--text);border-style:solid;gap:.5rem;flex-wrap:wrap}
+.inline-reset{display:inline-flex;align-items:center;justify-content:center;min-height:36px;padding:.3rem .55rem;border:1px solid var(--accent);border-radius:8px;background:var(--panel);color:var(--accent);font-weight:700;font-size:.72rem}

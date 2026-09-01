@@ -115,7 +115,7 @@
     <form id="jump-form" method="dialog">
       <div class="dialog-head"><div><p class="eyebrow">Time navigation</p><h2 id="jump-dialog-title">Jump to a year</h2></div><button value="cancel" class="icon-button" aria-label="Close jump dialog">×</button></div>
       <label class="field-label">Astronomical year <input id="jump-year" type="number" step="1" placeholder="-2500"></label>
-      <p class="muted">Prototype input uses negative numbers for BCE (example: −2500) and positive numbers for CE. Deep-time display is formatted as approximate years ago.</p>
+      <p class="muted">Prototype input follows the schema's signed astronomical-year convention: negative numbers are BCE (example: −2500) and positive numbers are CE. Deep-time values remain approximate and are labeled BCE.</p>
       <div class="dialog-actions"><button value="cancel">Cancel</button><button id="jump-submit" value="default" class="primary-button">Jump</button></div>
     </form>
   </dialog>
