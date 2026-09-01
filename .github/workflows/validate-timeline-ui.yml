@@ -1,0 +1,50 @@
+name: Validate timeline UI
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'timeline-app/**'
+      - '.github/workflows/validate-timeline-ui.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'timeline-app/**'
+      - '.github/workflows/validate-timeline-ui.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - name: Checkout exact commit
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Show runtime
+        run: node --version
+
+      - name: Check prototype JavaScript syntax
+        run: |
+          node --check timeline-app/app.js
+          node --check timeline-app/build-data.mjs
+
+      - name: Validate Timeline research data
+        run: node docs/timeline/scripts/validate-timeline.mjs
+
+      - name: Generate current research bundle
+        run: node timeline-app/build-data.mjs
+
+      - name: Verify generated bundle is ephemeral
+        run: |
+          test -s timeline-app/data.js
+          git check-ignore -q timeline-app/data.js
+
+      - name: Run phone browser smoke
+        run: bash timeline-app/test-browser.sh
