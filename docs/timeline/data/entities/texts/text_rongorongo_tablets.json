@@ -1,0 +1,24 @@
+{
+  "id": "text_rongorongo_tablets",
+  "name": "Rongorongo Tablets",
+  "writing_system_id": "ws_rongorongo",
+  "decipherment_status": "UNDECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": 1493,
+      "latest": 1900,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": 1493,
+      "latest": 1509,
+      "precision": "YEAR",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "Oceania"
+  ],
+  "notes": "Fischer's (1997, Oxford UP) claimed reading of the Santiago Staff as a repeating cosmogonic chant formula is specifically and substantively rebutted by Guy (1998) and Pozdniakov (1996, Journal de la Société des Océanistes), who show the statistical patterns Fischer relied on arise from the script's own repetitive triadic structure rather than his proposed content — not accepted by the field."
+}

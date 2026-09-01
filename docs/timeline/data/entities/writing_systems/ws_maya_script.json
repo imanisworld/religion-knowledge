@@ -1,0 +1,17 @@
+{
+  "id": "ws_maya_script",
+  "name": "Classic Maya Script",
+  "origin_type": "UNCERTAIN",
+  "date_range": {
+    "earliest": -300,
+    "latest": null,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "North America"
+  ],
+  "script_type": "LOGOSYLLABIC",
+  "descends_from": [],
+  "notes": "Region-level Mesoamerican writing has a strong claim to having developed with no Old World contact (INDEPENDENT at the macro level), but which Mesoamerican tradition (Olmec/Cascajal, Zapotec, Epi-Olmec/Isthmian) gave rise to Maya script specifically is unresolved — the 2005-2006 San Bartolo discovery shows a mature script by c. 300-200 BCE with no obvious transitional forms linking back to Olmec symbols, leading some scholars to treat Maya writing as a plausibly separate \"homegrown\" development. origin_type is coded UNCERTAIN at the system-derivation level; see claim_maya_origin_type. `latest: null` because a form of the script remains in ceremonial/decorative use and Mayan languages are still spoken, though the classic logosyllabic writing system itself fell out of common use after the Spanish conquest."
+}

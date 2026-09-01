@@ -1,0 +1,23 @@
+{
+  "id": "ws_cyrillic",
+  "name": "Cyrillic Script",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": 890,
+    "latest": null,
+    "precision": "DECADE",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Europe"
+  ],
+  "script_type": "ALPHABETIC",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_greek",
+      "confidence": "HIGH",
+      "claim_id": "claim_cyrillic_descends_greek_not_glagolitic"
+    }
+  ],
+  "notes": "Commonly and incorrectly attributed to Saint Cyril; Cyril and Methodius actually created the distinct Glagolitic script (c. 863 CE) for their Moravian mission. Cyrillic was developed later, in the 890s CE, by their students (most specifically Saint Clement of Ohrid) at the Preslav Literary School, using uncial Greek letterforms as its base and named \"Cyrillic\" retrospectively in his honor. Still in active use — `latest: null`."
+}

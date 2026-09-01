@@ -1,0 +1,53 @@
+{
+  "id": "claim_meroitic_descends_egyptian",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_meroitic",
+  "statement": "Meroitic script exists in two forms, both derived from Egyptian writing: hieroglyphic (columnar, monumental), descended from Egyptian hieroglyphs, and cursive (horizontal, right-to-left, the majority of surviving texts), descended from Egyptian demotic. Francis Llewellyn Griffith (Oxford) established the phonetic values of the 23-sign script between 1909 and 1911, using bilingual/onomastic evidence (Meroitic royal names cross-matched against Egyptian hieroglyphic renderings, and funerary formulas invoking Isis/Osiris whose Egyptian pronunciation was known). This is a strong PARTIAL-decipherment example: the phonetic values are read reliably, but the Meroitic language remained only partly understood for decades until Claude Rilly (CNRS) demonstrated it belongs to a Nilo-Saharan branch he named Northern East Sudanic, alongside Nubian, Nara, Taman, and Nyima (Rilly and de Voogt, The Meroitic Language and Writing System, Cambridge University Press, 2012), ending a century of dispute about the language's affiliation.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Griffith, Francis Llewellyn. Establishment of Meroitic phonetic values, 1909-1911.",
+      "author": "Francis Llewellyn Griffith",
+      "year": 1911,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Rilly, Claude, and Alex de Voogt. The Meroitic Language and Writing System. Cambridge University Press, 2012.",
+      "author": "Rilly and de Voogt",
+      "year": 2012,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

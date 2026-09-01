@@ -1,0 +1,53 @@
+{
+  "id": "claim_linear_b_descends_linear_a",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_linear_b",
+  "statement": "Linear B's signary is derived from Linear A's (visually similar sign forms, shared syllabic sign inventory); Mycenaean scribes repurposed that signary to notate a completely different, known language — Greek — with phonetic modifications for Greek sound patterns. Michael Ventris announced in 1952 that Linear B encoded archaic Mycenaean Greek; John Chadwick independently confirmed it; jointly published in the Journal of Hellenic Studies (1953) and Documents in Mycenaean Greek (Cambridge University Press, 1956, published after Ventris's death). Cracking Linear B did not solve Linear A precisely because sign forms carry over but sign-to-sound values do not transfer across different underlying languages.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ventris, Michael, and John Chadwick. \"Evidence for Greek Dialect in the Mycenaean Archives.\" Journal of Hellenic Studies, 1953.",
+      "author": "Ventris and Chadwick",
+      "year": 1953,
+      "venue": "Journal of Hellenic Studies",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Ventris, Michael, and John Chadwick. Documents in Mycenaean Greek. Cambridge University Press, 1956.",
+      "author": "Ventris and Chadwick",
+      "year": 1956,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

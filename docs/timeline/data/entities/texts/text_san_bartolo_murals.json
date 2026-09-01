@@ -1,0 +1,24 @@
+{
+  "id": "text_san_bartolo_murals",
+  "name": "San Bartolo Murals (Las Pinturas)",
+  "writing_system_id": "ws_maya_script",
+  "decipherment_status": "DECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -300,
+      "latest": -200,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": -300,
+      "latest": -200,
+      "precision": "CENTURY",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "North America"
+  ],
+  "notes": "Saturno, Stuart and Beltrán, \"Early Maya Writing at San Bartolo, Guatemala,\" Science 311 (2006): earliest secure Maya hieroglyphic text, radiocarbon-dated via associated carbonized wood to c. 300-200 BCE. Already shows a mature, fully developed script with no obvious transitional forms linking back to Olmec symbols."
+}

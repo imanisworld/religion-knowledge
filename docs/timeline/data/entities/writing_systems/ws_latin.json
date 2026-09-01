@@ -1,0 +1,23 @@
+{
+  "id": "ws_latin",
+  "name": "Latin Alphabet",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -700,
+    "latest": null,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Europe"
+  ],
+  "script_type": "ALPHABETIC",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_greek",
+      "confidence": "MODERATE",
+      "claim_id": "claim_latin_descends_greek_etruscan"
+    }
+  ],
+  "notes": "Transmitted via the Etruscan alphabet (itself imported from Euboean Greek colonies at Cumae/Ischia, 8th c. BCE); whether Latin's source is Etruscan-mediated or a more direct Cumaean-Greek borrowing bypassing Etruscan is a live, documented dispute. Still in active use — `latest: null`."
+}

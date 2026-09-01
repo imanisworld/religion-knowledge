@@ -1,0 +1,24 @@
+{
+  "id": "ws_proto_sinaitic",
+  "name": "Proto-Sinaitic Script",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -1850,
+    "latest": -1500,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Western Asia",
+    "Africa"
+  ],
+  "script_type": "ABJAD",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_egyptian_hieroglyphs",
+      "confidence": "HIGH",
+      "claim_id": "claim_proto_sinaitic_descends_egyptian"
+    }
+  ],
+  "notes": "Acrophonic adaptation of a small subset of Egyptian hieroglyphic signs by Semitic-speaking workers, per Gardiner 1916 and refined by Goldwasser 2006-2020. Found at Serabit el-Khadim (Sinai) and Wadi el-Hol (Egypt proper)."
+}

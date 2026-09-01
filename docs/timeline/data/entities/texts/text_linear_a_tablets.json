@@ -1,0 +1,24 @@
+{
+  "id": "text_linear_a_tablets",
+  "name": "Linear A Tablet Corpus",
+  "writing_system_id": "ws_linear_a",
+  "decipherment_status": "UNDECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -1800,
+      "latest": -1450,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": -1800,
+      "latest": -1450,
+      "precision": "CENTURY",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "Europe"
+  ],
+  "notes": "Roughly 1,400-1,500 inscribed objects, ~7,300-7,400 signs total (Linear A Digital Corpus, J.G. Younger). Underlying Minoan language unclassified; Anatolian/Luwian, Semitic, and other hypotheses lack consensus. A 2026 unpublished, non-peer-reviewed \"AI-assisted Semitic decipherment\" claim (Tom Di Mino) is circulating and is explicitly treated with skepticism by specialists at Rutgers/Cambridge reviewing it — flagged as NOT changing decipherment_status from UNDECIPHERED."
+}

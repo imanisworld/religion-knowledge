@@ -1,0 +1,67 @@
+{
+  "id": "claim_rongorongo_dating_disputed",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_rongorongo",
+  "statement": "Ferrara, Silvia, et al. (\"The invention of writing on Rapa Nui (Easter Island). New radiocarbon dates on the Rongorongo script,\" Scientific Reports 14, 2 Feb 2024, article 53063-7) radiocarbon-dated four rongorongo tablets in a Rome collection: three to the 18th-19th centuries (post-contact), one to 1493-1509 CE — over 200 years before Roggeveen's 1722 European arrival. The authors themselves state the dates \"do not allow [researchers] to reach any incontrovertible conclusion\" given the \"old wood\" problem (dated felling, not inscribing) and a sample size of one pre-contact date. Rongorongo's glyph forms don't resemble any known European or other script and have closest formal parallels in Rapa Nui's own rock-carving tradition (circumstantial support for indigenous origin); conversely, no expedition report before Eyraud's 1864 arrival mentions a writing system on the island despite earlier European visits, including a 1770 Spanish annexation ceremony where islanders reportedly witnessed officials \"signing\" a document (a plausible stimulus-diffusion trigger point). The dating question is genuinely unresolved even in the most recent (2024) primary literature.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Oceania"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Even the 2024 primary radiocarbon study's own authors decline to resolve pre- vs. post-contact origin from their single early date.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ferrara, Silvia, et al. \"The invention of writing on Rapa Nui (Easter Island). New radiocarbon dates on the Rongorongo script.\" Scientific Reports 14, 2 Feb 2024, article 53063-7. PMID 38307972.",
+      "author": "Ferrara et al.",
+      "year": 2024,
+      "venue": "Scientific Reports",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Rongorongo plausibly predates European contact and represents an independent local invention",
+      "holders": [
+        {
+          "name": "Ferrara et al., interpreting their own 1493-1509 CE date cautiously",
+          "work": "Scientific Reports 14, 2024",
+          "year": 2024,
+          "camp": "PRE-CONTACT-PLAUSIBLE SCHOOL"
+        }
+      ],
+      "strongest_case": "One tablet's wood radiocarbon-dated to 1493-1509 CE, over 200 years before Roggeveen's 1722 arrival; glyph forms resemble no known outside script and parallel Rapa Nui's own petroglyph tradition.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "Rongorongo more likely emerged after European contact, stimulated by witnessing literacy",
+      "holders": [
+        {
+          "name": "Position inferable from the documented absence of any pre-1864 European report of writing on the island, per the surveyed literature",
+          "camp": "POST-CONTACT-STIMULUS SCHOOL"
+        }
+      ],
+      "strongest_case": "No expedition report before Eyraud's 1864 arrival mentions a writing system, despite earlier visits including an 1770 Spanish annexation ceremony where islanders reportedly witnessed officials signing a document; the \"old wood\" problem means the single early radiocarbon date does not establish inscription date.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [
+    "That rongorongo is confirmed pre-contact/independent (the study's own authors decline this conclusion from a single dated specimen)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

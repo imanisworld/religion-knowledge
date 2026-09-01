@@ -1,0 +1,23 @@
+{
+  "id": "ws_phoenician",
+  "name": "Phoenician Alphabet",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -1000,
+    "latest": -300,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Western Asia"
+  ],
+  "script_type": "ABJAD",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_proto_sinaitic",
+      "confidence": "HIGH",
+      "claim_id": "claim_phoenician_descends_proto_sinaitic"
+    }
+  ],
+  "notes": "The conventional \"c. 1050 BCE\" start date is an epigraphic-record-gap convention, not a confirmed founding moment; the standardized 22-letter script emerges gradually, c. 1000-900 BCE."
+}

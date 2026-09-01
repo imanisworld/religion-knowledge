@@ -1,0 +1,53 @@
+{
+  "id": "claim_latin_descends_greek_etruscan",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_latin",
+  "statement": "The Latin alphabet derives from Greek, transmitted via the Etruscan alphabet (itself imported from Euboean Greek colonies at Cumae/Ischia in the Gulf of Naples, 8th century BCE; archaeological support includes the 1957-58 Veii excavations by the British School at Rome showing Cumae/Ischia contact from the mid-8th century BCE). Whether Latin's direct source is Etruscan intermediation or a more direct Cumaean-Greek borrowing bypassing Etruscan is a genuine, documented, unresolved scholarly dispute — both positions are live in the literature.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": "Etruscan-mediated transmission vs. direct Cumaean-Greek borrowing bypassing Etruscan — both positions live, no clear majority signal found in this research pass.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "British School at Rome, Veii excavation reports, 1957-58.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "General epigraphic literature on the Etruscan-vs-direct-Greek transmission dispute for Latin.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

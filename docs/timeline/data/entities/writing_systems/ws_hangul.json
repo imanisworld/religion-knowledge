@@ -1,0 +1,17 @@
+{
+  "id": "ws_hangul",
+  "name": "Hangul",
+  "origin_type": "STIMULUS_DIFFUSION",
+  "date_range": {
+    "earliest": 1443,
+    "latest": null,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "region": [
+    "East Asia"
+  ],
+  "script_type": "ALPHABETIC",
+  "descends_from": [],
+  "notes": "Created under King Sejong the Great (r. 1418-1450), completed December 1443, promulgated 1446 (Hunminjeongeum). The Hunminjeongeum Haerye, rediscovered in 1940, is an unusually direct surviving primary document explaining the featural design logic (consonant shapes as stylized diagrams of articulator positions). Gari Ledyard's minority hypothesis (Columbia PhD thesis 1966/1998) that 5-6 basic consonant shapes were adapted from the Mongol 'Phags-pa script is explicitly characterized in the literature as less popular than the mainstream original-invention position; even Ledyard's own account limits any borrowing to letter shapes, not the featural phonetic principle itself. Still in active use — `latest: null`."
+}

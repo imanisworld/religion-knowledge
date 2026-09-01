@@ -1,0 +1,24 @@
+{
+  "id": "text_behistun_inscription",
+  "name": "Behistun Inscription",
+  "writing_system_id": "ws_cuneiform",
+  "decipherment_status": "DECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -521,
+      "latest": -486,
+      "precision": "DECADE",
+      "date_semantics": "EVENT_DATE"
+    },
+    "earliest_witness_date": {
+      "earliest": -521,
+      "latest": -486,
+      "precision": "DECADE",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "Western Asia"
+  ],
+  "notes": "Trilingual (Old Persian, Elamite, Babylonian) cliff inscription of Darius I. Copied by Henry Rawlinson 1835-1847 at great physical risk; publication of the Old Persian decipherment 1846-1847 was the key that unlocked Babylonian/Akkadian cuneiform, publicly confirmed via the 1857 Royal Asiatic Society blind-translation test (Rawlinson, Hincks, Oppert, and Fox Talbot working independently on a newly discovered text)."
+}

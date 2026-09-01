@@ -1,0 +1,23 @@
+{
+  "id": "ws_linear_b",
+  "name": "Linear B",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -1450,
+    "latest": -1200,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Europe"
+  ],
+  "script_type": "SYLLABIC",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_linear_a",
+      "confidence": "HIGH",
+      "claim_id": "claim_linear_b_descends_linear_a"
+    }
+  ],
+  "notes": "Mycenaean scribes repurposed Linear A's syllabary (visually similar sign forms, shared inventory) to notate a different, and known, language — Mycenaean Greek — with phonetic modifications. This is why cracking Linear B did not solve Linear A: sign forms carry over, sign-to-sound values do not, since they were reapplied to a different language's phonology."
+}

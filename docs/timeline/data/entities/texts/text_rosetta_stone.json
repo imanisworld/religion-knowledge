@@ -1,0 +1,24 @@
+{
+  "id": "text_rosetta_stone",
+  "name": "Rosetta Stone",
+  "writing_system_id": "ws_egyptian_hieroglyphs",
+  "decipherment_status": "DECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -196,
+      "latest": -196,
+      "precision": "YEAR",
+      "date_semantics": "EVENT_DATE"
+    },
+    "earliest_witness_date": {
+      "earliest": -196,
+      "latest": -196,
+      "precision": "YEAR",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "Africa"
+  ],
+  "notes": "Trilingual decree (hieroglyphic, Demotic, Greek), discovered 1799 by French soldiers during Napoleon's Egyptian campaign at Rashid/Rosetta. The decree itself is a single, precisely dated 196 BCE inscription, so composition and earliest-witness dates coincide."
+}

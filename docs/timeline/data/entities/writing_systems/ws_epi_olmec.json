@@ -1,0 +1,17 @@
+{
+  "id": "ws_epi_olmec",
+  "name": "Epi-Olmec (Isthmian) Script",
+  "origin_type": "UNCERTAIN",
+  "date_range": {
+    "earliest": -900,
+    "latest": -300,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "North America"
+  ],
+  "script_type": "LOGOSYLLABIC",
+  "descends_from": [],
+  "notes": "Encompasses the disputed Cascajal Block (c. 900 BCE, recovered out of archaeological context, authenticity/status as writing contested) and the later La Mojarra Stela 1 / Tuxtla Statuette corpus (Isthmian script proper, 1st-2nd century CE). Whether these represent one continuous tradition or should be split is itself part of the dispute recorded in claim_cascajal_authenticity_disputed and claim_epi_olmec_decipherment_disputed."
+}

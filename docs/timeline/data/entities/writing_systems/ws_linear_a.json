@@ -1,0 +1,17 @@
+{
+  "id": "ws_linear_a",
+  "name": "Linear A",
+  "origin_type": "INDEPENDENT",
+  "date_range": {
+    "earliest": -1800,
+    "latest": -1450,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Europe"
+  ],
+  "script_type": "SYLLABIC",
+  "descends_from": [],
+  "notes": "Used on Crete and some Aegean islands, associated with Minoan civilization; corpus of roughly 1,400-1,500 inscribed objects (~7,300-7,400 signs), overwhelmingly short administrative/votive texts. Coded INDEPENDENT reflecting its internal Cretan development (as opposed to Linear B, which adapts Linear A's own signary for Greek — see ws_linear_b); Linear A's own relationship to the earlier, less-understood Cretan Hieroglyphic script is a separate, lower-certainty internal-evolution question not resolved by this research batch."
+}

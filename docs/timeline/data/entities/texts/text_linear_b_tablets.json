@@ -1,0 +1,24 @@
+{
+  "id": "text_linear_b_tablets",
+  "name": "Linear B Tablet Corpus",
+  "writing_system_id": "ws_linear_b",
+  "decipherment_status": "DECIPHERED",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -1450,
+      "latest": -1200,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": -1450,
+      "latest": -1200,
+      "precision": "CENTURY",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "Europe"
+  ],
+  "notes": "Michael Ventris announced in 1952 that Linear B encoded an archaic form of Greek; John Chadwick independently confirmed it; jointly published in the Journal of Hellenic Studies (1953) and Documents in Mycenaean Greek (Cambridge UP, 1956). A clean, consensus decipherment used here as the field's calibration case."
+}

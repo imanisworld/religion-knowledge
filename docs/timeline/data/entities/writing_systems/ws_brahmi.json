@@ -1,0 +1,23 @@
+{
+  "id": "ws_brahmi",
+  "name": "Brahmi Script",
+  "origin_type": "UNCERTAIN",
+  "date_range": {
+    "earliest": -300,
+    "latest": 500,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "South Asia"
+  ],
+  "script_type": "ABUGIDA",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_aramaic",
+      "confidence": "DISPUTED",
+      "claim_id": "claim_brahmi_aramaic_contested"
+    }
+  ],
+  "notes": "The Aramaic-derivation hypothesis (Weber 1856) has been the traditionally dominant candidate, tied to Achaemenid administrative use of Aramaic in the Indus Valley, but no scholar has produced an adequate letter-by-letter derivation and significant structural mismatches remain unexplained. A rival indigenous/Indus-script-derivation hypothesis is characterized in the literature as speculative given the ~1000-year material gap. origin_type coded UNCERTAIN, not ADAPTATION, reflecting this unresolved state."
+}

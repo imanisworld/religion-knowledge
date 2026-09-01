@@ -1,0 +1,55 @@
+{
+  "id": "claim_chu_nom_credit_correction",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_japanese_kana",
+  "statement": "Vietnamese chữ Quốc ngữ (the Latin-based romanization that eventually replaced the Chinese-character-adapting chữ Nôm) is commonly and inaccurately credited solely to Alexandre de Rhodes. The documented history is multi-missionary and collaborative: Francisco de Pina (Portuguese Jesuit, 1585-1625) is credited as first to create a Latinized script for Vietnamese, with an orthography/tone treatise by 1623; Gaspar do Amaral and António Barbosa further developed the system; Alexandre de Rhodes compiled and published the first printed codification (Dictionarium Annamiticum Lusitanum et Latinum, 1651) and explicitly acknowledged Amaral and Barbosa's prior contributions in his own prologue. De Rhodes's role was institutionalizing/publishing/popularizing via print, not solitary invention.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "De Rhodes, Alexandre. Dictionarium Annamiticum Lusitanum et Latinum. 1651.",
+      "author": "Alexandre de Rhodes",
+      "year": 1651,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Britannica, \"Alexandre de Rhodes\"; Vietnamese Typography, \"History\"; Omniglot, \"Vietnamese Chu Nom script.\"",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That de Rhodes worked alone (a documented popular error this claim corrects)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Filed under ws_japanese_kana (East Asian derivative scripts research batch) since no dedicated chữ Nôm/Quốc ngữ WritingSystem entity was created this batch; chữ Nôm itself (earliest dated inscription 1209 CE, Bảo Ân temple stele) is a documented Chinese-character adaptation, systematized under the Trần dynasty, peak literary use 15th-19th centuries."
+}

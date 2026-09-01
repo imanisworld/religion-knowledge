@@ -1,0 +1,58 @@
+{
+  "id": "claim_nko_origin_type",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_nko",
+  "statement": "Solomana Kanté (Souleymane Kanté) created N'Ko in Guinea/Côte d'Ivoire, completed 1949, after experimenting with and rejecting adaptations of Arabic and Latin script for Maninka's tone and vowel system. N'Ko is genuinely alphabetic (19 consonants, 7 vowels, 8 diacritics), written right-to-left and visually resembling Arabic script, but structurally diverges from it with obligatory tone marking — a stimulus-diffusion signature (visual/directional influence from Arabic, phonemic/tonal system built from scratch). The oft-repeated motivating anecdote — that Kanté was responding to a Lebanese journalist (attributed to Kamel Mrowa, founder of the Beirut daily Al-Hayat, 1946) claiming African languages were \"unwritable\" — is well-attested as N'Ko community/institutional history but was not independently confirmed to a source outside that tradition this session; Kanté's biographical background in Arabic and Ajami manuscript scholarship is independently documented regardless of the anecdote's precise accuracy.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1949,
+    "latest": 1949,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Oyler, Dianne White. \"The N'ko Alphabet as a Vehicle of Indigenist Historiography.\" History in Africa 24, 1997: 239-256.",
+      "author": "Dianne White Oyler",
+      "year": 1997,
+      "venue": "History in Africa",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Donaldson, Coleman. \"The Role of Islam, Ajami Writings, and Educational Reform in Sulemaana Kantè's N'ko.\" African Studies Review 63(3), 2020: 462-486.",
+      "author": "Coleman Donaldson",
+      "year": 2020,
+      "venue": "African Studies Review",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The specific Mrowa quote/publication is described in accessible sourcing as \"an anecdote popular with N'Ko proponents\" — weaker sourcing than the Sequoyah battlefield account; treat the general motivation as well-attested, the specific attribution as community history not independently corroborated."
+}

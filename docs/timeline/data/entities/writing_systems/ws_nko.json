@@ -1,0 +1,17 @@
+{
+  "id": "ws_nko",
+  "name": "N'Ko Script",
+  "origin_type": "STIMULUS_DIFFUSION",
+  "date_range": {
+    "earliest": 1949,
+    "latest": null,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "script_type": "ALPHABETIC",
+  "descends_from": [],
+  "notes": "Created by Solomana Kanté (Souleymane Kanté) in Guinea/Côte d'Ivoire, completed 1949, after experimenting with and rejecting adaptations of Arabic and Latin script for Maninka's tone/vowel system. Visually resembles Arabic script (cursive, right-to-left) but is structurally a genuine alphabet with obligatory tone marking, built from scratch rather than adapted sign-by-sign from Arabic. The oft-repeated motivating anecdote (a Lebanese journalist claiming African languages were \"unwritable\") is well-attested as N'Ko community history but not independently confirmed outside that tradition — flagged accordingly. Still in active use — `latest: null`."
+}

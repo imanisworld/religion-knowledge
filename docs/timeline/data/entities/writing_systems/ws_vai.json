@@ -1,0 +1,17 @@
+{
+  "id": "ws_vai",
+  "name": "Vai Script",
+  "origin_type": "STIMULUS_DIFFUSION",
+  "date_range": {
+    "earliest": 1833,
+    "latest": null,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "region": [
+    "Africa"
+  ],
+  "script_type": "SYLLABIC",
+  "descends_from": [],
+  "notes": "Created by Momolu Duwalu Bukele in Liberia, c. 1832-1834; the missionary-recorded \"dream\" founding narrative is internally inconsistent across near-contemporary transcriptions and is treated by scholars as a likely religious/status-conferring gloss on a mundane contact-inspired invention process. Vai characters bear no visual resemblance to Cherokee ones despite a documented possible indirect Cherokee contact channel (Austin Curtis, a Cherokee man who married into a Vai chief's family in 1823) — supporting transmission of the concept of syllabic writing rather than sign-copying. Still in active use — `latest: null`."
+}

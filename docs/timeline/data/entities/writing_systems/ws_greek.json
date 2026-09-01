@@ -1,0 +1,23 @@
+{
+  "id": "ws_greek",
+  "name": "Greek Alphabet",
+  "origin_type": "ADAPTATION",
+  "date_range": {
+    "earliest": -800,
+    "latest": null,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "region": [
+    "Europe"
+  ],
+  "script_type": "ALPHABETIC",
+  "descends_from": [
+    {
+      "writing_system_id": "ws_phoenician",
+      "confidence": "HIGH",
+      "claim_id": "claim_greek_descends_phoenician"
+    }
+  ],
+  "notes": "The first script with dedicated, systematic vowel letters: Phoenician consonant signs for sounds absent from Greek (glottal/pharyngeal, e.g. aleph, he, yod, ayin) were repurposed as vowels (alpha, epsilon, iota, omicron). Still in active use — `latest: null`."
+}

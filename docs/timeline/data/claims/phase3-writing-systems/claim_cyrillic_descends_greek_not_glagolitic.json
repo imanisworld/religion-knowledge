@@ -1,0 +1,55 @@
+{
+  "id": "claim_cyrillic_descends_greek_not_glagolitic",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_cyrillic",
+  "statement": "Saints Cyril and Methodius created the Glagolitic script (c. 863 CE) for their Moravian mission — that is the script they actually invented. Cyrillic is a distinct, later script developed by their students, most specifically credited to Saint Clement of Ohrid and the circle at the Preslav Literary School (First Bulgarian Empire, under Tsar Boris I/Simeon I) in the 890s CE, using uncial Greek letterforms as its base (retaining a handful of Glagolitic letters for Slavic sounds absent from Greek), and named \"Cyrillic\" retrospectively in Cyril's honor rather than because he created it. The earliest dated Cyrillic epigraphic evidence is the Krepcha inscription (921 CE) and a Preslav ceramic vessel (931 CE).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Europe"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Britannica, \"Cyrillic alphabet\" and \"Preslav Literary School\" entries.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Wikipedia, \"Relationship of Cyrillic and Glagolitic Scripts.\"",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Cyril himself invented the Cyrillic script (a documented popular error this claim specifically corrects)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,55 @@
+{
+  "id": "claim_chinese_neolithic_precursors_disputed",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_chinese_script",
+  "statement": "Neolithic sign-use candidates predating oracle bone script by millennia — Jiahu tortoise-shell/pottery symbols (c. 6600-6200 BCE, 11 identified symbols), Banpo pottery marks, and the Dinggong/Longshan potsherd (discovered 1992, 11-12 signs) — are NOT confirmed antecedents of Chinese writing by mainstream paleography. A 2003 Antiquity report on Jiahu (Li, Harbottle, Zhang, Wang) explicitly interprets the symbols \"not as writing itself, but as features of a lengthy period of sign-use.\" Dinggong's Neolithic dating is itself disputed (Feng Shi 1994 argues for it; other scholars dispute the dating). These candidates remain archaeologically and functionally disconnected from Shang script.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "East Asia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": "Dinggong's dating and even its authenticity as a genuine Longshan-period inscription is actively disputed among specialists, not merely uncertain by default.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Li, X., G. Harbottle, J. Zhang, and C. Wang. \"The earliest writing? Sign use in the seventh millennium BC at Jiahu, Henan Province, China.\" Antiquity 77 (2003).",
+      "author": null,
+      "year": 2003,
+      "venue": "Antiquity",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Boltz, William G. The Origin and Early Development of the Chinese Writing System. American Oriental Series 78, Eisenbrauns, 1994.",
+      "author": "William G. Boltz",
+      "year": 1994,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That oracle bone script has no undocumented antecedent development at all — Boltz notes the earliest oracle-bone script is already highly abstract and standardized, implying a real developmental gap not filled by these Neolithic finds"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

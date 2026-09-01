@@ -1,0 +1,24 @@
+{
+  "id": "text_oracle_bone_inscriptions",
+  "name": "Oracle Bone Inscriptions (Anyang)",
+  "writing_system_id": "ws_chinese_script",
+  "decipherment_status": "PARTIAL",
+  "witness_chain": {
+    "composition_date": {
+      "earliest": -1250,
+      "latest": -1046,
+      "precision": "CENTURY",
+      "date_semantics": "ESTIMATED_COMPOSITION"
+    },
+    "earliest_witness_date": {
+      "earliest": -1250,
+      "latest": -1046,
+      "precision": "CENTURY",
+      "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+    }
+  },
+  "region": [
+    "East Asia"
+  ],
+  "notes": "Late Shang divination records, predominantly from Yinxu near Anyang. Roughly 4,500 distinct graphs identified; per a 2016 National Museum of Chinese Writing decipherment-reward program (China Daily, 28 Oct 2016), the meanings of over 3,000 remain unresolved — report as a range (roughly 30-40% reliably deciphered, not a single point figure, since sources diverge). Only three scholars had successfully claimed the reward as of 2016."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "claim_egyptian_cuneiform_priority_uncertain",
+  "subject_type": "WritingSystem",
+  "subject_id": "ws_egyptian_hieroglyphs",
+  "statement": "Whether Egyptian hieroglyphs or Mesopotamian proto-cuneiform is earlier is genuinely unresolved, contrary to older popular sources that default to cuneiform priority. Tomb U-j at Abydos (excavated by Günter Dreyer, discovered 1988), containing ~150+ inscribed bone/ivory labels, dates to c. 3320-3150 BCE — overlapping substantially with proto-cuneiform Uruk IV (c. 3350-3200 BCE per CDLI) within each side's own dating uncertainty. The two systems emerged within the same roughly 200-year window in the late 4th millennium BCE; priority cannot currently be established with confidence.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z5",
+  "region": [
+    "Africa",
+    "Western Asia"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "UNKNOWN",
+  "scholarly_disagreement": "The comparative-earliness question between Egypt and Mesopotamia is live and unresolved; treat as UNCERTAIN, not resolvable to a single answer from current evidence.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Dreyer, Günter. Excavations at Abydos, Tomb U-j, 1988 and subsequent seasons (German Archaeological Institute, Cairo).",
+      "author": "Günter Dreyer",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Cuneiform Digital Library Initiative (CDLI), periods reference.",
+      "author": null,
+      "year": null,
+      "venue": "CDLI",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That cuneiform was definitively first (a common older popular-source framing not supported by the current dating overlap)"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
