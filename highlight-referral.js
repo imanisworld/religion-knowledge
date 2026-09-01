@@ -91,21 +91,25 @@
     const prevBtn = document.createElement('button');
     prevBtn.textContent = '◀';
     prevBtn.title = 'Previous match';
+    prevBtn.setAttribute('aria-label', 'Previous highlighted match');
     prevBtn.addEventListener('click', () => goTo(cur - 1));
 
     const posEl = document.createElement('span');
     posEl.className = 'hl-pos';
     posEl.textContent = '1 / ' + marks.length;
+    posEl.setAttribute('aria-live', 'polite');
 
     const nextBtn = document.createElement('button');
     nextBtn.textContent = '▶';
     nextBtn.title = 'Next match';
+    nextBtn.setAttribute('aria-label', 'Next highlighted match');
     nextBtn.addEventListener('click', () => goTo(cur + 1));
 
     const closeBtn = document.createElement('button');
     closeBtn.className = 'hl-x';
     closeBtn.textContent = '×';
     closeBtn.title = 'Clear highlights';
+    closeBtn.setAttribute('aria-label', 'Clear search highlights');
     closeBtn.addEventListener('click', () => {
       marks.forEach(m => m.replaceWith(document.createTextNode(m.textContent)));
       toast.remove();
@@ -139,5 +143,39 @@
     document.addEventListener('DOMContentLoaded', doHighlight);
   } else {
     doHighlight();
+  }
+})();
+
+/* Reader chrome state: expose navigation/theme state without changing the
+   generated reader markup or duplicating its behavior. */
+(function () {
+  const menu = document.getElementById('menu');
+  const rail = document.getElementById('rail');
+  const themeButton = document.getElementById('themebtn');
+  const media = window.matchMedia('(prefers-color-scheme: dark)');
+
+  if (menu && rail) {
+    const syncMenu = () => menu.setAttribute('aria-expanded', String(rail.classList.contains('open')));
+    syncMenu();
+    new MutationObserver(syncMenu).observe(rail, { attributes: true, attributeFilter: ['class'] });
+  }
+
+  if (themeButton) {
+    const effectiveTheme = () => {
+      const explicit = document.documentElement.dataset.theme;
+      if (explicit === 'dark' || explicit === 'light') return explicit;
+      return media.matches ? 'dark' : 'light';
+    };
+    const syncTheme = () => {
+      const dark = effectiveTheme() === 'dark';
+      const next = dark ? 'light' : 'dark';
+      themeButton.textContent = next === 'dark' ? 'Dark' : 'Light';
+      themeButton.setAttribute('aria-label', `Switch to ${next} mode`);
+      themeButton.setAttribute('title', `Switch to ${next} mode`);
+      themeButton.setAttribute('aria-pressed', String(dark));
+    };
+    syncTheme();
+    new MutationObserver(syncTheme).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+    if (typeof media.addEventListener === 'function') media.addEventListener('change', syncTheme);
   }
 })();
