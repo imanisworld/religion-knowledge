@@ -1,0 +1,149 @@
+{
+  "id": "gs_warlpiri",
+  "culture_id": "cul_warlpiri",
+  "region": [
+    "Australia"
+  ],
+  "period": {
+    "earliest": 1953,
+    "latest": 2020,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Pre-settlement subsistence organization divided tasks by sex: women concentrated on vegetable-food gathering and small game, men on hunting larger game. Sourced to general ethnographic synthesis (Meggitt-derived secondary summary), not a single named recent peer-reviewed study specific to this dimension.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General secondary synthesis of Meggitt 1962 on Warlpiri subsistence division.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "DISPUTED for contemporary institutional outcomes specifically. Jocelyn Davies, Jane Walker, and Yiheyis Taddele Maru, \"Warlpiri experiences highlight challenges and opportunities for gender equity in Indigenous conservation management in arid Australia,\" Journal of Arid Environments 149 (2018): 40-52, found the Northern Tanami Indigenous Protected Area ranger workforce (Wulaign ranger group) was all-male at time of study, that senior Warlpiri men themselves called for a women's ranger group, and that stated cultural norms nominally support gender equity in caring-for-country roles even where contemporary paid/formal structures did not reflect that — a documented present-day gap in one specific institutional domain, not proof of blanket inequality across all political domains historically.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Davies, Jocelyn, Jane Walker, and Yiheyis Taddele Maru. \"Warlpiri experiences highlight challenges and opportunities for gender equity in Indigenous conservation management in arid Australia.\" Journal of Arid Environments 149, 2018: 40-52.",
+          "author": "Davies, Walker, and Maru",
+          "year": 2018,
+          "venue": "Journal of Arid Environments",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Concretely demonstrated in the 1981 Kaytej Warlpiri Warlmanpa Land Claim, where women's own song evidence (ethnomusicologist Dr Richard Moyle testifying on its evidentiary value) was formally accepted by Aboriginal Land Commissioner Mr Justice John Toohey as proof of independent female connection to country — see claim_warlpiri_land_claims_1978_1981. Diane Bell's broader Central Desert fieldwork (see notes on scope below) documents women as independent rights-holders in land via the kirda/kurdungurlu inheritance system.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Aboriginal Land Commissioner (Toohey J.), Kaytej Warlpiri Warlmanpa Land Claim report, 1981, Office of the Aboriginal Land Commissioner.",
+          "author": null,
+          "year": 1981,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "The jilimi (single/widowed women's camp) is documented as a genuine site of independent female residential authority and social organization, structurally separate from male-headed households — by Diane Bell (broader Central Desert fieldwork) and, specifically for Yuendumu, Yasmine Musharbash, Yuendumu Everyday: Contemporary Life in Remote Aboriginal Australia (Canberra: Aboriginal Studies Press, 2009).",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Musharbash, Yasmine. Yuendumu Everyday: Contemporary Life in Remote Aboriginal Australia. Canberra: Aboriginal Studies Press, 2009.",
+          "author": "Yasmine Musharbash",
+          "year": 2009,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Formal, symmetrical restriction: both men's and women's ceremonial knowledge is gender-gated (\"men's business\"/\"women's business\"). Munn's own fieldwork (1956-58) illustrates this operating on a woman researcher (movement/contact restrictions imposed by settlement administrators, requiring W.E.H. Stanner's intervention) — though this specific restriction on Munn was administratively, not culturally, imposed; the underlying men's/women's business division is independently well documented across the literature.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Munn, Nancy D. Walbiri Iconography: Graphic Representation and Cultural Symbolism in a Central Australian Society. Ithaca/London: Cornell University Press, 1973.",
+          "author": "Nancy D. Munn",
+          "year": 1973,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED. Diane Bell's central thesis — that pre-contact Warlpiri (and Central Desert) society was more gender-equal than the colonial/settlement-era society that followed, with the shift being reversible rather than inherent — was contested by regional specialists Francesca Merlan and Annette Hamilton, who argued Bell conflated female homosociality (women having a strong separate sphere) with actual equality of status, without fully resolving whether an underlying ideological asymmetry existed pre-contact; Bell is reported not to have produced a detailed rebuttal. Neither camp is characterized in the sources found as arguing for a simple \"patriarchal\" or \"matriarchal\" model — the documented dispute is over degree/nature, not over whether women had real independent religious authority (not disputed).",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Bell, Diane. Daughters of the Dreaming. Melbourne: McPhee Gribble/George Allen & Unwin, 1983; 2nd ed. Minneapolis: University of Minnesota Press, 1993; 3rd ed. North Melbourne: Spinifex Press, 2002.",
+          "author": "Diane Bell",
+          "year": 1983,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Scope correction: Diane Bell's Daughters of the Dreaming fieldwork (1976-78) was based principally at Warrabri (now Ali Curung), centered on Kaytej (Kaytetye) women, with Warlpiri, Alyawarr, and Warumungu women also participating — a regional Central Desert study, not a Yuendumu-specific or Warlpiri-exclusive monograph. For Yuendumu/Warlpiri-specific material, see Musharbash (2009) and Georgia Curran, Sustaining Indigenous Songs: Contemporary Warlpiri Ceremonial Life in Central Australia (New York/Oxford: Berghahn Books, 2020), and Curran, \"Yawulyu Mardukuja-patu-kurlangu: Relational Dynamics of Warlpiri Women's Song Performance,\" Journal of Intercultural Studies, 2023. A separate, distinct controversy attaches to Bell's later co-authored work on family/sexual violence (\"Speaking About Rape Is Everyone's Business,\" Women's Studies International Forum, 1989) and its critique by Jackie Huggins and Aileen Moreton-Robinson on grounds of speaking-for/positionality — this is NOT a critique of the ceremonial-authority findings in Daughters of the Dreaming specifically, and should not be conflated with the Merlan/Hamilton dispute above. Publisher note: some sources cite University of Queensland Press for the 1983 edition; the more consistently verified publisher is McPhee Gribble/George Allen & Unwin (Melbourne, 1983) — flagged as needing a library-catalog check before treating either as definitive."
+  },
+  "notes": null
+}

@@ -1,0 +1,162 @@
+{
+  "id": "gs_arrernte",
+  "culture_id": "cul_arrernte",
+  "region": [
+    "Australia"
+  ],
+  "period": {
+    "earliest": 1896,
+    "latest": 2010,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Not independently verified for Arrernte specifically in this research pass — general Central Australian patterns (documented for neighboring groups in this batch) plausibly apply but no Arrernte-specific citation was located. Recorded as UNKNOWN rather than inferred from adjacent groups.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No Arrernte-specific source located this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Not independently verified from accessible peer-reviewed literature within this search pass for public/political authority specifically (as opposed to ceremonial authority, see below). Flagged as needing a further targeted search (e.g. for a named female Arrernte political leader or custodianship case) before scoring with confidence.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No Arrernte-specific source located this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "The Arrernte subsection (\"skin\") system regulates marriage eligibility via classificatory kin categories (see claim_arrernte_kinship_radcliffe_brown_levistrauss) and land/totemic-estate transmission is dominant patrilineally, though kin can be traced through either parent. This is a descent/inheritance structure, distinct from — and not by itself evidence for or against — gendered political/economic authority.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Central Land Council, \"Our Kinship Systems,\" clc.org.au.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Not independently verified for Arrernte specifically in this research pass. Marriage was historically structured by the classificatory subsection system, involving promised-marriage arrangements documented in Spencer and Gillen and formalized by Radcliffe-Brown's kinship typology — but the degree of individual agency within that system is better evidenced regionally (Diane Bell, Central Desert, not Arrernte-specific — see gs_warlpiri notes on Bell's actual fieldwork sites) than by an Arrernte-specific source located in this pass.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Spencer, Baldwin, and Francis James Gillen. The Native Tribes of Central Australia. London: Macmillan, 1899.",
+          "author": "Spencer and Gillen",
+          "year": 1899,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Ceremonial knowledge is formally gender-restricted (awelye, women's ceremony, cognate with Warlpiri/Kaytetye yawulyu — body-paint designs, song, and dance tied to each woman's Dreaming and skin name, restricted from men's presence).",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "\"Sustaining Women's Yawulyu/Awelye: Some Practitioners' and Learners' Perspectives\" (academic literature on Central Desert women's ceremony).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Documented, citable source-bias fact, itself directly relevant to this dimension per P13 (an observation about the record, not automatically a causal claim): T.G.H. Strehlow recorded a vast corpus of Arrernte men's ceremonial songs in the 1950s but recorded no Arrernte women's songs; significant recording of Arrernte women's songs did not occur until the 1990s, undertaken by Arrernte custodian Margaret Kemarre (M.K.) Turner together with linguist Jennifer Green — Myfany Turpin, \"Finding Arrernte Songs\" (University of Sydney/ANU Open Research). Jennifer Green, Drawn from the Ground: Sound, Sign and Inscription in Central Australian Sand Stories (ANU E-Press/Cambridge, 2014), documents a 30-year collaborative study of Arrernte women's tyepety (\"sand story\") verbal art specifically. Margaret Kemarre Turner, Iwenhe Tyerrtye: What It Means to Be an Aboriginal Person (as told to Barry McDonald Perrurle, trans. Veronica Perrurle Dobson, IAD Press, 2010), is an Arrernte-authored primary account.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Turpin, Myfany. \"Finding Arrernte Songs.\" University of Sydney / ANU Open Research repository.",
+          "author": "Myfany Turpin",
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Green, Jennifer. Drawn from the Ground: Sound, Sign and Inscription in Central Australian Sand Stories. ANU E-Press/Cambridge University Press, 2014.",
+          "author": "Jennifer Green",
+          "year": 2014,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "This record shows unusually many UNKNOWN dimensions, and that itself is the honest finding: the Arrernte documentary record is disproportionately shaped by male ethnographers (Spencer, Gillen, Strehlow) recording predominantly men's ceremonial material — an observation about the surviving record (P13), not a claim about suppression without independent evidence for suppression itself. See claim_arrernte_gender_source_bias."
+  },
+  "notes": null
+}

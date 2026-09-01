@@ -1,0 +1,55 @@
+{
+  "id": "claim_rainbow_serpent_regional_diversity",
+  "subject_type": "Deity",
+  "subject_id": "dty_witij",
+  "statement": "The comparative \"Rainbow Serpent\" category originates with A.R. Radcliffe-Brown, \"The Rainbow-Serpent Myth of Australia,\" Journal of the Royal Anthropological Institute 56 (1926): 19-25 — not, as sometimes assumed, with W.E.H. Stanner. Ira R. Buchler and Kenneth Maddock, eds., The Rainbow Serpent: A Chromatic Piece (Mouton, 1978), is the standard comparative academic volume; its precise internal conclusion on \"one figure with local variants\" vs. \"genuinely distinct traditions grouped by outside observers\" could not be verified against the primary text in this research pass (paywalled), but downstream scholarship consistently treats the figure as regionally diverse in name, gender, and role: Yurlunggur/Witij (Yolŋu, male, danger/law/initiation, via the Wagilag narrative), Julunggul (a feminine counterpart in related Arnhem Land tradition, fertility/female initiation), Yingarna and Ngalyod (Kunwinjku, western Arnhem Land, female/related figures), Ungud (Kimberley/Wunambal-Ngarinyin, \"sometimes male, sometimes female, sometimes androgynous,\" rain/creation). Paul S.C. Taçon, Meredith Wilson, and Christopher Chippindale, \"Birth of the Rainbow Serpent in Arnhem Land Rock Art and Oral History,\" Archaeology in Oceania 31(3) (1996): 103-124, statistically analyzed 107 rock-art images and documented genuine stylistic/regional variation across time and space in western Arnhem Land specifically, treating \"the Rainbow Serpent\" as an analytic umbrella over documented local diversity. This is why no single pan-Aboriginal \"Rainbow Serpent\" entity is modeled in this dataset — only the regionally specific, named Yolŋu figure (Yurlunggur/Witij) with its own sourced domain_history.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Radcliffe-Brown, A.R. \"The Rainbow-Serpent Myth of Australia.\" Journal of the Royal Anthropological Institute of Great Britain and Ireland 56, 1926: 19-25.",
+      "author": "A.R. Radcliffe-Brown",
+      "year": 1926,
+      "venue": "Journal of the Royal Anthropological Institute",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Taçon, Paul S.C., Meredith Wilson, and Christopher Chippindale. \"Birth of the Rainbow Serpent in Arnhem Land Rock Art and Oral History.\" Archaeology in Oceania 31(3), 1996: 103-124.",
+      "author": "Taçon, Wilson, and Chippindale",
+      "year": 1996,
+      "venue": "Archaeology in Oceania",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That \"the Rainbow Serpent\" (singular, capitalized, pan-Aboriginal) is an accurate description of one indigenous belief shared uniformly across Aboriginal Australia"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "A widely used popularization — Dick Roughsey, The Rainbow Serpent (Collins, 1975), a children's book described in secondary sources as \"most non-Indigenous Australians' introduction to the Dreaming\" — presents a single synthesized narrative rather than the documented regional diversity; flagged as exactly the kind of popularization-vs-scholarship gap this project is built to catch."
+}

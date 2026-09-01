@@ -1,0 +1,50 @@
+{
+  "id": "trad_tiwi_pukumani",
+  "name": "Tiwi religion (Palaneri / Pukumani)",
+  "category_tags": [
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Australia"
+  ],
+  "dating": {
+    "dating_summary": "Uniquely among the traditions in this batch, the Tiwi Islands have NO dated archaeological sites at all (a documented research gap, not an absence of antiquity); island-separation from the mainland by post-glacial sea-level rise (~8,200-9,650 years ago) is a distinct, dateable geomorphological event that Nunn and Reid (2016) argue may be encoded in the Mudungkala creation narrative's flood motif specifically — a contested oral-tradition-dating method, not proof; earliest outsider attestation is Baldwin Spencer's 1912 fieldwork, published 1914; the Pukumani ceremonial complex itself has no independent date.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Morrison, O'Leary & McDonald, \"The evolution of Australian island geographies and the emergence and persistence of Indigenous maritime cultures,\" Quaternary Science Reviews 308 (2023), article 108071: Tiwi (Bathurst/Melville) has had NO previous archaeological research and no dated Aboriginal sites, despite being the largest island group in the region — an explicit, documented gap, not a claim of recency."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1912,
+        "latest": 1914,
+        "precision": "YEAR"
+      },
+      "note": "Sir Walter Baldwin Spencer spent six weeks on Melville/Bathurst Islands in March 1912 and witnessed a male initiation ceremony, published in Native Tribes of the Northern Territory of Australia (Macmillan, 1914)."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": null
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The Palaneri (creation period) frames Mudungkala's emergence, her formation of the straits separating the islands, and Purukuparli's decree of death (instituting Pukumani) as ancestral-era events, not chronologically datable ones by the tradition's own terms."
+    },
+    "estimated_oral_origin": {
+      "range": {
+        "earliest": -11045,
+        "latest": -5250,
+        "precision": "ORDER_OF_MAGNITUDE"
+      },
+      "method": "Patrick Nunn and Nicholas Reid, \"Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago,\" Australian Geographer 47(1) (2016): 11-47, propose the Mudungkala narrative's detail that water \"followed\" her as she moved may encode genuine memory of postglacial sea-level rise cutting off a mainland crossing route, consistent with island separation ~8,200-9,650 years ago and their broader sample's ~7,250-13,070 BP range. This is a contested methodology (oral-transmission-fidelity over such spans is debated in the wider literature) and should be treated as DISPUTED/MODERATE, not proof — it applies specifically to the flood motif, not to the Pukumani ceremonial complex as a whole, which has no independent date.",
+      "confidence": "DISPUTED"
+    }
+  },
+  "relationships": [],
+  "notes": "Core narrative: Mudungkala (Murtankala), a blind old woman, emerges from the earth carrying three infants, her passage forming the island-separating straits; her son Purukuparli and his wife Bima are the first ancestral couple; their son Jinani's death (precipitated by Bima's negligence/infidelity) leads Purukuparli to decree death for all creation, instituting the first Pukumani ceremony. Pukumani (mortuary ceremony, carved/painted tutini grave posts, ritual avoidance obligations for the bereaved) remains a still-practiced central ritual — Eric Venbrux, A Death in the Tiwi Islands (Cambridge UP, 1995)."
+}

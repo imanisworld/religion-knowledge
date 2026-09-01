@@ -1,0 +1,53 @@
+{
+  "id": "claim_wititj_wagilag_domain",
+  "subject_type": "Deity",
+  "subject_id": "dty_witij",
+  "statement": "Yurlunggur/Witij is the great python of the Wagilag (Wawilak) Sisters narrative, central to Arnhem Land/Yolŋu religious life: two ancestral sister-travelers name and shape country as they move through it; the elder sister's post-partum blood contaminates a waterhole inhabited by Yurlunggur, who swallows the sisters (and, in some versions, their children), later regurgitating them after conferring with other snakes. The narrative underlies Yolŋu law, marriage rules, kinship, territorial affiliation, and specifically the Djungguwan initiation ceremony. W. Lloyd Warner's A Black Civilization (1937) is the earliest substantial published account; Ronald and Catherine Berndt (Kunapipi, 1951; Djanggawul, 1952) and later Ian Keen (1994) and Kenneth Maddock (ed., The Rainbow Serpent: A Chromatic Piece, 1978) extend the documentation. Ownership of the story and the Djungguwan ceremony is documented as historically dynamic, not static: it originally belonged to the Wagilag, Liyagalawumirr, and Mandhalpuy clans of central Arnhem Land, and was formally exchanged/given to Rirratjingu man Djuwakan Marika of east Arnhem Land around 1918.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Warner, W. Lloyd. A Black Civilization: A Social Study of an Australian Tribe. New York: Harper, 1937.",
+      "author": "W. Lloyd Warner",
+      "year": 1937,
+      "venue": null,
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Berndt, Ronald M. Kunapipi. Melbourne: Cheshire, 1951.",
+      "author": "Ronald M. Berndt",
+      "year": 1951,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The 1918 clan-transfer date is sourced to National Film and Sound Archive of Australia curatorial material, not a peer-reviewed monograph directly confirmed in this research pass — MODERATE confidence pending further verification."
+}

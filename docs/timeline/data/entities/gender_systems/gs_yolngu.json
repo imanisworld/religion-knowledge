@@ -1,0 +1,175 @@
+{
+  "id": "gs_yolngu",
+  "culture_id": "cul_yolngu",
+  "region": [
+    "Australia"
+  ],
+  "period": {
+    "earliest": 1926,
+    "latest": 2001,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "No Yolŋu-specific quantitative ethnography of subsistence division was located in this research pass beyond the general Aboriginal-Australia pattern (men typically hunting larger/mobile game, women gathering plant foods and smaller game, with documented cross-cultural exceptions in other groups). Flagged as a gap requiring further targeted search rather than asserted with confidence.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General Aboriginal-Australia subsistence-division literature; no Yolŋu-specific citation confirmed in this pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Age-and-gender-stratified, not a simple male/female hierarchy. Ian Keen, Knowledge and Secrecy in an Aboriginal Religion (Oxford: Clarendon Press, 1994): senior men controlled secret religious knowledge (songs, stories, sacred objects), the basis of their authority over both women and junior men — a gerontocratic-patriarchal structure. Ian Keen, \"How Some Murngin Men Marry Ten Wives,\" Man (N.S.) 17(4) (1982): 620-642, and John F. Martin and P. Govinda Reddy, \"Gidjingali and Yolngu Polygyny: Age Structure and the Control of Marriage,\" Oceania 57(4) (1987): 243-260, document large husband-wife age gaps and marriages arranged for girls, often before puberty, controlled by senior men.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Keen, Ian. Knowledge and Secrecy in an Aboriginal Religion: Yolngu of North-East Arnhem Land. Oxford: Clarendon Press, 1994.",
+          "author": "Ian Keen",
+          "year": 1994,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Martin, John F., and P. Govinda Reddy. \"Gidjingali and Yolngu Polygyny: Age Structure and the Control of Marriage.\" Oceania 57(4), 1987: 243-260.",
+          "author": "Martin and Reddy",
+          "year": 1987,
+          "venue": "Oceania",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Land/sea estate ownership (bäpurru) is vested in patrilineal clans; women are members of their father's clan/estate by birth. Specific documented content of women's independent proprietary/economic standing within that system was not pinned to a specific citation in this research pass — Nancy M. Williams, The Yolngu and Their Land: A System of Land Tenure and the Fight for Its Recognition (Canberra: AIAS, 1986), is very likely on-point but gender-specific content could not be extracted via search in this pass.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Williams, Nancy M. The Yolngu and Their Land: A System of Land Tenure and the Fight for Its Recognition. Canberra: AIAS, 1986 — existence/scope confirmed, gender-specific content not extracted this pass.",
+          "author": "Nancy M. Williams",
+          "year": 1986,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "One tertiary (non-peer-reviewed) source describes polygynous households as layered: co-wives may live in separate dwellings with a senior wife as head of her own household, while the husband is regarded as head across all his households. Treat as UNKNOWN pending primary-source confirmation.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Tertiary secondary-source characterization of Yolŋu polygynous household structure, not traced to a named academic publication in this pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "A formal, named, gender-differentiated restriction regime (\"men's business\"/\"women's business\") structures the entire ceremonial-knowledge system — the central subject of Keen (1994). This is corroborated by a positively-documented, distinct women's ceremonial sphere (not merely exclusion from men's ceremony) — see ideological_patriarchy below.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Keen, Ian. Knowledge and Secrecy in an Aboriginal Religion. Oxford: Clarendon Press, 1994.",
+          "author": "Ian Keen",
+          "year": 1994,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED, with two identifiable positions. [COMPLEMENTARITY school, associated with Diane Bell and the Kaberry-Hamilton-Bell tradition — Central Australian, NOT Yolŋu-specific fieldwork, should not be imported as a Yolŋu finding without this caveat]: separate men's and women's ritual domains constitute genuine interdependent, non-hierarchical spheres, with settlement/mission life (not precolonial tradition) as the primary driver of later female subordination. [GERONTOCRATIC-PATRIARCHAL school, Ian Keen's Yolŋu-specific analysis]: secrecy and control of sacred knowledge functioned specifically to entrench senior men's authority over both women and junior men — a real, documented power asymmetry co-existing with a distinct women's ceremonial sphere, not a fully symmetrical complementarity. Fiona Magowan, Melodies of Mourning: Music and Emotion in Northern Australia (Oxford: James Currey/Crawley: UWA Press, 2007), and \"Shadows of Song: Exploring Research and Performance Strategies in Yolngu Women's Crying-Songs,\" Oceania 72(2) (2001): 89-104, documents women's \"crying songs\" as a domain where women hold, transmit, and control specific ritual/musical knowledge with real ceremonial authority — a positively-documented sphere, not an absence.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Keen, Ian. Knowledge and Secrecy in an Aboriginal Religion. Oxford: Clarendon Press, 1994.",
+          "author": "Ian Keen",
+          "year": 1994,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Magowan, Fiona. \"Shadows of Song: Exploring Research and Performance Strategies in Yolngu Women's Crying-Songs.\" Oceania 72(2), 2001: 89-104.",
+          "author": "Fiona Magowan",
+          "year": 2001,
+          "venue": "Oceania",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Descent/land affiliation (patrifiliation to clan/moiety/estate) is a separate axis from gendered political authority — documented HIGH confidence, but does not by itself settle any of the six dimensions above, each independently evidenced. Required does_not_demonstrate: neither Magowan's documentation of positive women's ceremonial authority nor Keen's documentation of senior-male control of secret knowledge, alone, proves a whole-society verdict of \"patriarchal\" or \"egalitarian\" — both are separately true and documented, held side by side rather than collapsed."
+  },
+  "notes": null
+}

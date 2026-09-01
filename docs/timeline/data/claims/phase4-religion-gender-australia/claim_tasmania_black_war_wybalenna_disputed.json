@@ -1,0 +1,94 @@
+{
+  "id": "claim_tasmania_black_war_wybalenna_disputed",
+  "subject_type": "Culture",
+  "subject_id": "cul_palawa",
+  "statement": "The 1825-1831 \"Black War\" is documented as the most intense frontier conflict in Australian history (Nicholas Clements, The Black War: Fear, Sex and Resistance in Tasmania, University of Queensland Press, 2014: close to 200 British colonists and roughly 1,000 Aboriginal Tasmanians died violently in this period). George Augustus Robinson's \"Friendly Mission\" (1830-1834) relocated surviving Palawa groups, working through Aboriginal intermediaries Truganini, Woorrady, and Mannalargenna, under a promise of eventual return to Country that was never honored; internment at Wybalenna, Flinders Island, began 1833 (approximately 180 people relocated, ~130 died there, ~25 more died in transit), closed 1847 with fewer than 50 survivors moved to Oyster Cove. Pre-contact Tasmanian Aboriginal population estimates and precise death tolls are genuinely scholarly-disputed, not settled: Lyndall Ryan (Tasmanian Aborigines: A History Since 1803, Allen & Unwin, 2012) proposes ~7,000 pre-contact; Keith Windschuttle (The Fabrication of Aboriginal History, Vol. 1, Macleay Press, 2002) explicitly disputed Ryan's and Henry Reynolds's death-toll figures and their use of \"genocide,\" prompting a collected scholarly rebuttal volume (Reynolds, Cassandra Pybus, Ryan, Martin Krygier, Neville Green); Reynolds has himself conceded the exact Aboriginal death toll \"is likely to remain unknown.\"",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1825,
+    "latest": 1847,
+    "precision": "DECADE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Precise pre-contact population and death-toll figures for the Black War period are disputed between Windschuttle's skeptical revisionism and the Ryan/Reynolds/Clements mainstream; the broad fact of catastrophic, near-total population collapse by the 1830s is not seriously contested by either side.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Clements, Nicholas. The Black War: Fear, Sex and Resistance in Tasmania. University of Queensland Press, 2014.",
+      "author": "Nicholas Clements",
+      "year": 2014,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Windschuttle, Keith. The Fabrication of Aboriginal History, Vol. 1: Van Diemen's Land 1803-1847. Macleay Press, 2002.",
+      "author": "Keith Windschuttle",
+      "year": 2002,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Pre-contact population was substantially higher (~7,000+) and death tolls from violence were severe, amounting to a documented catastrophic collapse verging on genocide",
+      "holders": [
+        {
+          "name": "Lyndall Ryan",
+          "work": "Tasmanian Aborigines: A History Since 1803, 2012",
+          "year": 2012,
+          "camp": "MAINSTREAM SCHOOL"
+        },
+        {
+          "name": "Henry Reynolds",
+          "camp": "MAINSTREAM SCHOOL"
+        },
+        {
+          "name": "Nicholas Clements",
+          "work": "The Black War, 2014",
+          "year": 2014,
+          "camp": "MAINSTREAM SCHOOL"
+        }
+      ],
+      "strongest_case": "Multiple independent quantitative reconstructions converge near Ryan's estimate at the upper end of carrying-capacity models.",
+      "status": "MAJORITY"
+    },
+    {
+      "position": "Ryan and Reynolds exaggerated death-toll figures and misapplied \"genocide\" to the historical record",
+      "holders": [
+        {
+          "name": "Keith Windschuttle",
+          "work": "The Fabrication of Aboriginal History, Vol. 1, 2002",
+          "year": 2002,
+          "camp": "REVISIONIST SCHOOL"
+        }
+      ],
+      "strongest_case": "Disputes the evidentiary basis for specific cited death-toll figures.",
+      "status": "MINORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,57 @@
+{
+  "id": "claim_protection_acts_and_hermannsburg_suppression",
+  "subject_type": "Tradition",
+  "subject_id": "trad_arrernte_altyerre",
+  "statement": "Named, dated colonial/state \"Protection\" legislation gave government-appointed authorities extensive control over Aboriginal Australians' movement, residence, marriage, and child custody, with documented (if usually indirect rather than ceremony-specific) effects on ceremonial life: Victoria's Aboriginal Protection Act 1869 (the first comprehensive statutory control regime; amended 1886, forcing people of mixed descent off reserves including Coranderrk, prompting William Barak's 1886 walking-petition campaign to Melbourne); Western Australia's Aborigines Act 1905 (Chief Protector as legal guardian of every Aboriginal child under 16); New South Wales's Aborigines Protection Act 1909, amended 1915 (removed the requirement to prove neglect before child removal); the Commonwealth's Aboriginals Ordinance 1918 (NT). No primary-text search confirmed a specific statutory clause in any of these acts directly criminalizing ceremonies/corroborees by name — the suppression these acts document is indirect (confinement, permit systems, missionary co-location), not a direct ceremonial ban; do not assert a direct ban without primary-text confirmation. At Hermannsburg Mission specifically: Carl Strehlow (superintendent to 1922) did not interfere with ceremonies conducted away from the mission but campaigned to persuade converts to abandon their own ceremonial participation; his successor Pastor F.W. Albrecht, working with Aboriginal evangelist Moses Tjalkabota, led a dated 1928 event at Manangananga Cave in which sacred tjurunga were deliberately desacralized by public exposure to the uninitiated, women, and children — a specific, named act of religious-object destruction Carl Strehlow himself had refused to carry out.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1869,
+    "latest": 1928,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Aboriginal Protection Act 1869 (Vic), 33 Vict., No. 349 (AustLII).",
+      "author": null,
+      "year": 1869,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "\"Tjurunga or Christ?\" Sacred Imagery at Hermannsburg (Springer chapter / ResearchGate).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

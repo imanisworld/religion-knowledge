@@ -1,0 +1,151 @@
+{
+  "id": "gs_tiwi",
+  "culture_id": "cul_tiwi",
+  "region": [
+    "Australia"
+  ],
+  "period": {
+    "earliest": 1928,
+    "latest": 1996,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Division of labor: men undertook sea/air hunting, women extracted roots/seeds/tubers, with both sexes contributing to shellfish/small-game gathering; one secondary characterization states \"both sexes contributed equally to the daily diet\" (not a directly quoted Goodale statistic).",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Goodale, Jane C. Tiwi Wives: A Study of the Women of Melville Island, North Australia. Seattle: University of Washington Press, 1971.",
+          "author": "Jane C. Goodale",
+          "year": 1971,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Not independently documented for formal political/council authority in what could be accessed this research pass — Hart and Pilling's framing centers senior men's authority via bride-provision, and no confirmed source describes formal female political/council authority. Recorded as UNKNOWN rather than inferred.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Hart, C.W.M., and Arnold R. Pilling. The Tiwi of North Australia. New York: Holt, Rinehart and Winston, 1960; revised/expanded editions with Jane C. Goodale, 1979 and 1988.",
+          "author": "Hart and Pilling",
+          "year": 1960,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Jane C. Goodale, \"Taramaguti Today: Changing Roles of Senior Tiwi Wives as Household Managers,\" Pacific Studies 19(4) (1996), argues senior Tiwi wives functioned as household managers with real economic authority, tied to their superior food-gathering/ecological knowledge giving them practical indispensability — documented, but specifically about senior/older women, not women as an undifferentiated category.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Goodale, Jane C. \"Taramaguti Today: Changing Roles of Senior Tiwi Wives as Household Managers.\" Pacific Studies 19(4), 1996.",
+          "author": "Jane C. Goodale",
+          "year": 1996,
+          "venue": "Pacific Studies",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Compulsory rapid widow remarriage (traditionally at the graveside) produced serial marriage across a woman's life, typically to a series of successive, often younger, husbands after an older first husband — documented by Goodale (1971) as a structural feature, with senior wives (per the 1996 article) holding real household-management authority within it.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Goodale, Jane C. Tiwi Wives. Seattle: University of Washington Press, 1971.",
+          "author": "Jane C. Goodale",
+          "year": 1971,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Infant/pre-natal betrothal — girls promised in marriage, arranged by male kin, sometimes before birth. An unsourced popular claim that senior men held \"20 to 100 wives\" could not be traced to Hart and Pilling's actual 1928-29 census data and is NOT imported here — flagged as unverified, do not use without direct primary-text confirmation.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Goodale, Jane C. Tiwi Wives. Seattle: University of Washington Press, 1971.",
+          "author": "Jane C. Goodale",
+          "year": 1971,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [
+        "Unverified figure explicitly excluded: \"20-100 wives\" claim not traced to primary census data."
+      ],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Goodale (1971) documented, contrary to Hart's earlier account, that Tiwi female initiation ceremonies exist and follow a roughly parallel course to male initiation, including a detailed first-menstruation ritual (girl removed to a separate bush camp with mother and senior women, no men present) — a direct corrective to Hart and Pilling's earlier male-focused ethnography, which under-documented or omitted the female ceremonial cycle. See claim_goodale_hart_pilling_corrective for the historiographical pattern.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Goodale, Jane C. Tiwi Wives. Seattle: University of Washington Press, 1971.",
+          "author": "Jane C. Goodale",
+          "year": 1971,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate: the promised-marriage/gerontocratic-polygyny system and Goodale's documentation of senior wives' agency do not demonstrate general political authority equal to men's, that young/newly-betrothed girls held comparable agency to senior wives, or that the system as a whole was non-hierarchical by age or sex — agency was real, documented, and concentrated in senior married/widowed women operating skillfully within a structurally gerontocratic, male-authority-framed system, not evidence of a symmetrical system. Conversely, this does not demonstrate women were merely passive transactional objects either — that is specifically the characterization Goodale's fieldwork overturned relative to Hart and Pilling's earlier account."
+  },
+  "notes": null
+}

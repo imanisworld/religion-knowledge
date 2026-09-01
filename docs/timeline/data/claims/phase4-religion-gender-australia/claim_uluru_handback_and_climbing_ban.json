@@ -1,0 +1,57 @@
+{
+  "id": "claim_uluru_handback_and_climbing_ban",
+  "subject_type": "Tradition",
+  "subject_id": "trad_anangu_tjukurpa",
+  "statement": "Uluru-Kata Tjuta National Park was excluded from the Aboriginal Land Rights (Northern Territory) Act 1976 initially because it had operated as a reserve since the 1950s; Anangu, the Pitjantjatjara Council, and the Central Land Council lobbied through the late 1970s for an amendment permitting a claim. On 26 October 1985, Governor-General Sir Ninian Stephen presented title deeds to Anangu traditional owners at a ceremony at Mutitjulu; title was immediately leased back for 99 years to the federal parks agency, establishing a joint-management structure (majority-Anangu Board of Management) still in force. A legally and geographically distinct earlier statute, the Anangu Pitjantjatjara Yankunytjatjara Land Rights Act 1981 (South Australia), covers the SA Pitjantjatjara/Yankunytjatjara/Ngaanyatjarra lands around the Musgrave Ranges, NOT Uluru-Kata Tjuta — the two should not be conflated. The Uluru-Kata Tjuta Board of Management voted unanimously in November 2017 to close the climb once visitor-climb rates fell below 20%; the permanent closure took effect 26 October 2019, deliberately set as the 34th anniversary of the handback, after Anangu had informally requested visitors not climb since at least 1985.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1985,
+    "latest": 2019,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "National Museum of Australia, \"Handback of Uluru to the Anangu,\" Defining Moments.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Parks Australia, \"Uluru climb closure\" page.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

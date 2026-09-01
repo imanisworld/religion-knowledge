@@ -1,0 +1,46 @@
+{
+  "id": "trad_yolngu_wangarr",
+  "name": "Yolŋu religion (Wangarr)",
+  "category_tags": [
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Australia"
+  ],
+  "dating": {
+    "dating_summary": "Regional human occupation of Arnhem Land (Madjedbebe, contested ~65,000 BP) is evidence about the region, not about any specific Yolŋu ceremonial content; the earliest outsider documentation of Yolŋu religious practice specifically is Lloyd Warner's 1926-29 fieldwork, published 1937; the tradition's own internal claim is explicitly atemporal (Wangarr is not \"in the past\" in a linear sense); no independently verified oral-transmission-depth estimate exists for this tradition's specific narrative content.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Madjedbebe rock shelter optical dating: Clarkson et al., \"Human occupation of northern Australia by 65,000 years ago,\" Nature 547 (2017): 306-310, proposes ~65,000 BP; contested on sediment-taphonomy grounds against earlier ~50,000-60,000 BP thermoluminescence dates (Roberts, Jones & Smith, 1990). DISPUTED, and in any case this dates regional human presence, NOT any specific Yolŋu ceremony or narrative — do not conflate."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1937,
+        "latest": 1937,
+        "precision": "YEAR"
+      },
+      "note": "W. Lloyd Warner, A Black Civilization: A Social Study of an Australian Tribe (New York: Harper, 1937), from fieldwork 1926-29 (under Warner's \"Murngin\" terminology, now superseded)."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "No manuscript tradition; systematized in later academic ethnography — Ronald and Catherine Berndt (1946-47, 1949-50 fieldwork), Ian Keen, Knowledge and Secrecy in an Aboriginal Religion (Oxford: Clarendon Press, 1994), and Howard Morphy, Ancestral Connections (University of Chicago Press, 1991)."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Wangarr denotes both the ancestral beings and an ancestral era that is not confined to \"the past\" but continues to structure the present — internally resists linear-date framing by its own logic."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No scholar has applied Nunn and Reid's oral-tradition/sea-level-correlation dating method (Australian Geographer 47(1), 2016) to the Wagilag/Wawilak narrative specifically. Regional western-Arnhem-Land rock-art dating of Rainbow-Serpent-type imagery to ~6,000-8,000 BP (Taçon, Wilson & Chippindale, Archaeology in Oceania 31(3), 1996) is geographically and culturally distinct Bininj/Mungguy material, not Yolŋu, and must not be used as a proxy date.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Structuring principle: Dhuwa and Yirritja, exogamous patrilineal moieties dividing the entire cosmos (clans, languages, land, water, celestial phenomena) — nothing is moiety-neutral. Terms: Wangarr (ancestral beings/era), märr (spiritual power in land, a Yolŋu analogue to Pacific \"mana\" — Bentley James, in Strings of Connectedness, ANU Press, 2015), madayin (customary law, used in the Milirrpum judgment). Note on Stanner's \"The Dreaming\": his foundational essay (Australian Signpost, ed. Hungerford, Melbourne: F.W. Cheshire, 1956, pp. 51-65 — not 1953/Traditional Aboriginal Society as sometimes cited) drew on his own Murinbata (Daly River) fieldwork, NOT Yolŋu material — the \"Dreaming\" gloss now conventionally applied to Wangarr is a later interpretive overlay from a different region's ethnography, not an original Yolŋu-sourced concept. See claim_jukurrpa_terminology_and_dreaming_gloss_critique for the general critique of this gloss."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "trad_arrernte_altyerre",
+  "name": "Arrernte religion (Altyerre)",
+  "category_tags": [
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Australia"
+  ],
+  "dating": {
+    "dating_summary": "Central Australian regional occupation (Puritjarra, ~35,000-45,000 BP) is regional evidence, not a date for Arrernte ceremonial content specifically; earliest outsider attestation is Spencer and Gillen's 1896 fieldwork (Engwura ceremony), published 1899 — a source that must be read critically, not as neutral, given its documented ethical problems (see claim_spencer_gillen_durkheim_freud_influence); \"geomythology\" attempts to date oral tradition against deep-time geological/astronomical events are a distinct, more speculative genre that should not be used to assign a specific age to Altyerre content.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Puritjarra rock shelter and comparable Central Australian sites: continuous occupation from ~35,000-45,000 years ago. Regional occupation evidence only."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1896,
+        "latest": 1899,
+        "precision": "YEAR"
+      },
+      "note": "Baldwin Spencer and Francis James Gillen, field observation of the Engwura ceremony, 1896, published in The Native Tribes of Central Australia (Macmillan, 1899); expanded in The Arunta: A Study of a Stone Age People (Macmillan, 1927)."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "T.G.H. Strehlow, Aranda Traditions (Melbourne UP, 1947) and Songs of Central Australia (Angus & Robertson, 1971) — a controversial custodianship case, see claim_strehlow_scandal."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Altyerre (also Altjira/Alcheringa in older transliterations, described in the sourcing as \"possibly the most contested word in modern Australian ethnography\") situates ceremonial law, songlines, and totemic geography in an atemporal ancestral-creation framework, not expressed as a calendar date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No specific dating study located for Arrernte ceremonial content. \"Geomythology\" literature attempting to correlate deep-time geological/astronomical events with Aboriginal oral tradition generally (e.g. arxiv.org/pdf/1009.4251) is a distinct, more speculative genre and should NOT be used to assign a specific age to Altyerre content — flagged explicitly as a likely error mode.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Kinship: the Arrernte subsection (\"skin\") system has eight named categories, patrilineally dominant for section/subsection and totemic-estate transmission — see claim_arrernte_kinship_radcliffe_brown_levistrauss. This tradition's documentary record is disproportionately shaped by male ethnographers (Spencer, Gillen, Strehlow) — an observation about the surviving record (P13: not automatically a causal suppression claim) — see claim_arrernte_gender_source_bias for the documented corrective (Turner, Green)."
+}

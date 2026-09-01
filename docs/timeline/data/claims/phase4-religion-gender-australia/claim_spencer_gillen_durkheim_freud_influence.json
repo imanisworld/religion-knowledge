@@ -1,0 +1,59 @@
+{
+  "id": "claim_spencer_gillen_durkheim_freud_influence",
+  "subject_type": "Tradition",
+  "subject_id": "trad_arrernte_altyerre",
+  "statement": "Baldwin Spencer and Francis James Gillen's The Native Tribes of Central Australia (Macmillan, 1899) and The Arunta: A Study of a Stone Age People (Macmillan, 1927) were, per secondary academic analysis, \"overwhelmingly Durkheim's main ethnographic source\" for The Elementary Forms of the Religious Life (1912), which used Arrernte/Arunta totemism as its paradigm case of \"the simplest and most primitive religion\"; Freud's Totem and Taboo (1913) likewise drew directly on Spencer and Gillen's material. These are colonial-era ethnographies produced without informed-consent frameworks; F.J. Gillen's 1896 Engwura festival speeches to the Arrernte are themselves now studied as evidence of the coercive/paternalistic dynamics of the original data-gathering, and the publication of secret-sacred ceremonial/totemic material is a documented, ongoing point of grievance for Arrernte people and later scholars. They should not be presented as neutral or ethically unproblematic authorities.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1896,
+    "latest": 1913,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Spencer, Baldwin, and Francis James Gillen. The Native Tribes of Central Australia. London: Macmillan, 1899.",
+      "author": "Spencer and Gillen",
+      "year": 1899,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Durkheim, Émile. Les formes élémentaires de la vie religieuse. 1912; English The Elementary Forms of the Religious Life.",
+      "author": "Émile Durkheim",
+      "year": 1912,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Spencer and Gillen's material is a neutral, consent-based, or ethically unproblematic ethnographic record"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

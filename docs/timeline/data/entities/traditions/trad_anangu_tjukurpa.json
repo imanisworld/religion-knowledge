@@ -1,0 +1,46 @@
+{
+  "id": "trad_anangu_tjukurpa",
+  "name": "Anangu religion (Tjukurpa)",
+  "category_tags": [
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Australia"
+  ],
+  "dating": {
+    "dating_summary": "Western Desert regional occupation is dated to ~35,000-47,830 BP (Puritjarra rock shelter) but this is regional-occupation evidence, not a date for Uluru-specific ceremonial content — official park sources themselves state the exact age of Uluru's own rock art is unknown; earliest outsider attestation begins with Gosse's 1873 naming and intensifies with Mountford (1940s-60s) and Layton (1977-79) fieldwork; no valid method exists to date specific currently-practiced Tjukurpa narrative content.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Puritjarra rock shelter (Cleland Hills), excavated by Mike Smith: continuous occupation from ~35,000 years ago, earlier signs to ~45,000 years; rock-art pigment production dated to ~13,000 BP at earliest. This is regional Western Desert evidence, not Uluru-specific. Official park sources state explicitly: \"the exact age of the rock-art [at Uluru] is unknown\" — popular tourism-source claims of \"30,000+ years continuous occupation\" specifically at Uluru were not traced to any peer-reviewed primary citation and should not be used."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1873,
+        "latest": 1979,
+        "precision": "CENTURY"
+      },
+      "note": "Explorer William Gosse named \"Ayers Rock\" in 1873 (European written contact, not ethnographic documentation). Sustained ethnographic documentation begins with Charles P. Mountford's fieldwork, 1940s-60s (Ayers Rock: Its People, Their Beliefs and Their Art, 1965), and intensively with Robert Layton's fieldwork 1977-79 for the land claim (Uluru: An Aboriginal History of Ayers Rock, Aboriginal Studies Press, 1986)."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": null
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Anangu's own public-facing materials (via jointly-managed Parks Australia) state there is no word for \"Dreamtime\" in Anangu languages and explicitly reject \"dream\" as a gloss; Tjukurpa asserts ancestral beings shaped land/law in a time that functions as an ongoing structuring principle, continuously practiced and renewed, not a frozen ancient artifact with a calendar date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No defensible method exists to date specific currently-practiced Tjukurpa narrative content (e.g. the Kuniya/Liru story cycle) against the ~35,000-45,000-year regional occupation record; conflating regional deep-time occupation with the age of a specific story is explicitly flagged by this research as an error to avoid.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Tjukurpa functions simultaneously as cosmology (ancestral-being creation stories), law, and moral/social order — per Anangu's own stated framing via Parks Australia and DCCEEW materials. Prefer \"Law\" or the untranslated term over \"Dreaming\" per Anangu's own documented preference."
+}

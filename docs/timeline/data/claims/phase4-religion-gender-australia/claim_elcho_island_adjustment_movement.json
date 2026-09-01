@@ -1,0 +1,44 @@
+{
+  "id": "claim_elcho_island_adjustment_movement",
+  "subject_type": "Tradition",
+  "subject_id": "trad_yolngu_wangarr",
+  "statement": "Following the 1948 American-Australian Scientific Expedition to Arnhem Land filming sacred Yolŋu ceremonies and raŋga (ceremonial objects), Yolŋu leaders at the Methodist Elcho Island mission — instigated by David Burrumarra — in 1957 deliberately and publicly revealed sacred objects and marked sacred sites with white crosses, strategically merging Christian and Yolŋu religious symbolism on Yolŋu terms rather than having it imposed. Documented in Ronald M. Berndt, An Adjustment Movement in Arnhem Land (Cahiers de l'Homme, Paris/The Hague: Mouton, 1962) — a case of Indigenous-led religious adaptation/syncretism, not externally imposed suppression.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1957,
+    "latest": 1957,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Berndt, Ronald M. An Adjustment Movement in Arnhem Land. Cahiers de l'Homme. Paris/The Hague: Mouton, 1962.",
+      "author": "Ronald M. Berndt",
+      "year": 1962,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

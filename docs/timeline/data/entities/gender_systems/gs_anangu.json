@@ -1,0 +1,175 @@
+{
+  "id": "gs_anangu",
+  "culture_id": "cul_anangu",
+  "region": [
+    "Australia"
+  ],
+  "period": {
+    "earliest": 1940,
+    "latest": 2020,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Richard A. Gould, Yiwara: Foragers of the Australian Desert (Charles Scribner's Sons, 1969), based on fieldwork with the Ngatatjara (a neighboring Western Desert group, not Pitjantjatjara/Yankunytjatjara specifically), is the classic ethnography of gendered subsistence labor in this cultural bloc. Rebecca Bliege Bird and Douglas Bird, \"Why Women Hunt: Risk and Contemporary Foraging in a Western Desert Aboriginal Community,\" Current Anthropology 49(4) (2008), documents women's hunting (of goannas/lizards) as real and economically significant within this same broader cultural region, complicating a simple men-hunt/women-gather binary.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Bird, Rebecca Bliege, and Douglas Bird. \"Why Women Hunt: Risk and Contemporary Foraging in a Western Desert Aboriginal Community.\" Current Anthropology 49(4), 2008.",
+          "author": "Bliege Bird and Bird",
+          "year": 2008,
+          "venue": "Current Anthropology",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Anangu's own governance vocabulary (via Parks Australia co-management materials) formally names a parallel women's authority structure: \"Tjilpi (senior Lawmen), Wati (Lawmen) and Pampa/Pompa (Law Women)\" as those through whom Tjukurpa's authority over Country is exercised — women's law authority is a formal, parallel category, not informal or residual. The NPY Women's Council (formed 1980, arising directly from the SA Pitjantjatjara land-rights struggle of the late 1970s) is a standing, institutionalized organization \"led by women's law, authority and culture,\" with women-only gatherings on Country continuous since 1983 — strong evidence this is not an isolated exception. Yaritji Young, a named contemporary senior law woman from Pukatja, is a documented illustrative (not generalizing) individual case.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "NPY Women's Council official history, npywc.org.au/pages/our-story.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "SECONDARY",
+          "citation": "Parks Australia, Tjukurpa governance materials naming Tjilpi/Wati/Pampa authority structure.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Kinship-structure source conflict resolved in favor of the specialist source: Laurent Dousset, Australian Aboriginal Kinship: An introductory handbook with particular emphasis on the Western Desert (CREDO, open access, ~2011) and the Central Land Council state Pitjantjatjara/Yankunytjatjara use a two-moiety system without sections/subsections or skin names — distinguishing them from central/northern groups. A tourism-industry source claiming a \"six-section system\" is treated as an error and not used.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Dousset, Laurent. Australian Aboriginal Kinship: An introductory handbook with particular emphasis on the Western Desert. CREDO, open access monograph, c. 2011.",
+          "author": "Laurent Dousset",
+          "year": 2011,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Infant betrothal was standard across Western Desert groups generally (Australian Law Reform Commission, Recognition of Aboriginal Customary Laws, ALRC Report 31), with substantial age gaps between wives (married around puberty) and husbands (typically not until their late 20s or later, sometimes first marrying an older widow). A recorded Western-Desert-specific practice: a circumciser was traditionally promised a daughter in marriage as compensation for ritually circumcising a young man. Region-general rather than confirmed strictly Pitjantjatjara/Yankunytjatjara-specific.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Australian Law Reform Commission. Recognition of Aboriginal Customary Laws. ALRC Report 31.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "A formal, maintained three-tier information system (public / men's-restricted / women's-restricted) is documented in official park materials, with physical signage and named restricted sites (e.g. \"Mala Puta,\" described publicly only as a women's-business site, with no further content disclosed). Consistent with this project's ethical constraint, only the existence and structure of the restriction is reported here, never its content.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Parks Australia, \"Men's & Women's Business\" page (accessed via search-cache snippet; direct fetch blocked this research session — flagged for re-verification).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": "Direct site fetch blocked by network egress; content verified only via search-engine cache snippet."
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Multiple sources state Anangu women's ceremonial life is structurally under-documented in the early-contact-era literature specifically because virtually all ethnographers working 1900s-1960s were men not permitted access to women's rituals — a documented research-access gap, not evidence of gender-symmetric or male-dominated ceremonial authority. Charles P. Mountford's later Nomads of the Australian Desert (1976) contained restricted material and was withdrawn from sale following legal action by Pitjantjatjara custodians — a real, documented consequence of publishing restricted content without consent.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Ara Irititja (Pitjantjatjara/Yankunytjatjara community archive), glossary entry on minymaku (women's) knowledge.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        },
+        {
+          "type": "SECONDARY",
+          "citation": "Australian Dictionary of Biography, entry on Charles P. Mountford, re: Nomads of the Australian Desert (1976) withdrawal.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate: the documented absence of detailed early-ethnographic content on women's ceremony is evidence of a research-access gap (male ethnographers barred from women's ritual), NOT evidence that women lacked ceremonial authority — precisely the P13 distinction between an observation about the surviving record and an unsupported causal claim about the underlying reality."
+  },
+  "notes": null
+}
