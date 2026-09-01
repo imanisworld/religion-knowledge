@@ -1,0 +1,46 @@
+{
+  "id": "claim_stolen_generations_bringing_them_home",
+  "subject_type": "Tradition",
+  "subject_id": "trad_warlpiri_jukurrpa",
+  "statement": "Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families (Human Rights and Equal Opportunity Commission, 689 pp., tabled in the Australian Parliament 26 May 1997) documents Australia-wide, government-policy-driven forced removal of Aboriginal and mixed-descent children from families, roughly 1910s-1970s depending on jurisdiction — not specific to any one culture in this batch, recorded here as a general historical/legal fact. The Inquiry itself characterized the predominant policy aim as assimilation/absorption, \"disintegration of the political and social institutions of culture, language, national feelings, religion,\" and applied the UN Genocide Convention's \"forcibly transferring children\" clause — a real but contested legal/historical characterization (Colin Tatz, Director, Australian Institute for Holocaust and Genocide Studies, has published extensively applying the genocide framework to Australian Aboriginal policy generally). The Inquiry's own findings document general cultural/spiritual/language disconnection from removal (HIGH confidence), but no source located in this research pass makes the more granular, specific causal claim that removal disrupted ceremonial-law-knowledge transmission mechanisms in particular, as opposed to cultural/spiritual life broadly — that more specific claim is UNVERIFIED at the level of citable specificity and should not be asserted beyond the general finding.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1910,
+    "latest": 1997,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Human Rights and Equal Opportunity Commission. Bringing Them Home: Report of the National Inquiry into the Separation of Aboriginal and Torres Strait Islander Children from Their Families. 1997.",
+      "author": null,
+      "year": 1997,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "A specific, citable, sourced mechanism by which removal disrupted ceremonial/initiation-law knowledge transmission in particular, as distinct from cultural/spiritual/linguistic disconnection generally"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

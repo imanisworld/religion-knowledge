@@ -1,0 +1,14 @@
+{
+  "id": "cul_palawa",
+  "name": "Tasmanian Aboriginal (Palawa)",
+  "region": [
+    "Australia"
+  ],
+  "date_range": {
+    "earliest": null,
+    "latest": 1876,
+    "precision": "CENTURY",
+    "date_semantics": "EVENT_DATE"
+  },
+  "notes": "A genuinely distinct case from the mainland groups researched in this batch: British colonization produced a catastrophic, more totalizing disruption (the 1825-1831 \"Black War,\" internment at Wybalenna 1833-1847) than most mainland cases. Pre-contact population estimates are themselves scholarly-disputed (see claim_tasmania_black_war_wybalenna_disputed). Surviving religious/cosmological content is reconstructable only in fragments from colonially-filtered 19th-century ethnohistoric records — no GenderSystem entity is modeled for this culture in this batch, since no agent in this research round specifically investigated Tasmanian gender/kinship organization and the evidentiary base for such a record was not established; better to leave the gap explicit than fabricate dimensions from unresearched material."
+}

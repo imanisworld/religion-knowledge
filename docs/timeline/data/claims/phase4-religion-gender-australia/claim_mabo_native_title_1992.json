@@ -1,0 +1,44 @@
+{
+  "id": "claim_mabo_native_title_1992",
+  "subject_type": "Tradition",
+  "subject_id": "trad_yolngu_wangarr",
+  "statement": "Mabo v Queensland (No 2) [1992] HCA 23; (1992) 175 CLR 1, decided 3 June 1992: six of seven High Court judges held the doctrine of terra nullius should not have applied to Australia at colonization, recognizing that native title survived British acquisition of sovereignty where not validly extinguished. Directly enabled the Native Title Act 1993 (Cth). The land-title holding itself is an OBSERVATION (what the Court decided); that the decision thereby \"validates ongoing traditional religious law\" is a further INTERPRETATION built on the Court's recognition that native title derives from still-observed traditional laws and customs, not a direct ruling on religious practice — these two claim tiers should be kept distinct.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1992,
+    "latest": 1992,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Mabo v Queensland (No 2) [1992] HCA 23; (1992) 175 CLR 1.",
+      "author": null,
+      "year": 1992,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

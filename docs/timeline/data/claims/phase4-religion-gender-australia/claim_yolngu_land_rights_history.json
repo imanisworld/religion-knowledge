@@ -1,0 +1,59 @@
+{
+  "id": "claim_yolngu_land_rights_history",
+  "subject_type": "Tradition",
+  "subject_id": "trad_yolngu_wangarr",
+  "statement": "A documented arc of Yolŋu ceremonial/genealogical knowledge functioning as legal-political evidence: the Yirrkala Church Panels (painted collaboratively by Dhuwa and Yirritja clan artists for the Yirrkala Methodist mission church, opened June 1963) asserted ancestral/clan land ownership against unconsulted bauxite mining leases; the Yirrkala Bark Petitions followed, presented to the Australian Parliament August 1963. Milirrpum v Nabalco Pty Ltd (1971) 17 FLR 141 (the \"Gove land rights case\"), heard before Justice Richard Blackburn, was the first native title litigation in Australian legal history — Yolŋu plaintiffs presented anthropological testimony on clan boundaries and madayin (customary law), and men broke with customary restriction to show sacred rangga emblems to the judge; Blackburn J held the customary system was \"subtle and elaborate\" but NOT a proprietary interest recognized by Australian common law, upholding terra nullius as then understood — the Yolŋu LOST this case, though it established the practice of admitting Aboriginal oral/genealogical/ceremonial evidence that shaped subsequent land-rights jurisprudence. The 1988 Barunga Statement (presented to PM Bob Hawke, left panel painted by Yolŋu depicting Crocodile Fire and Whale Dreaming narratives) called for land rights, compensation, self-determination, and a treaty; Hawke's 1990 treaty commitment was not fulfilled. Decades later, the Blue Mud Bay determination (2005) and related 2008 High Court decision succeeded where Milirrpum had not: fifty Yolŋu bark paintings (the \"Saltwater Collection,\" led by Djambawa Marawili) were presented as evidence linking clans to coastal/intertidal sea country, with Howard Morphy as anthropological expert and Frances Morphy as expert linguist.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1963,
+    "latest": 2008,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Milirrpum v Nabalco Pty Ltd (1971) 17 FLR 141 (Blackburn J, NT Supreme Court).",
+      "author": null,
+      "year": 1971,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Morphy, Frances, et al. \"Witness Statements as Cross-Cultural (mis)Communication? Evidence from Blue Mud Bay.\" Anthropological Forum, 2023.",
+      "author": "Frances Morphy et al.",
+      "year": 2023,
+      "venue": "Anthropological Forum",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Milirrpum was a Yolŋu legal victory — it was a loss on the proprietary-interest question, significant instead for establishing the evidentiary practice that later succeeded in Blue Mud Bay decades later"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

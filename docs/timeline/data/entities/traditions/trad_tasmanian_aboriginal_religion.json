@@ -1,0 +1,46 @@
+{
+  "id": "trad_tasmanian_aboriginal_religion",
+  "name": "Tasmanian Aboriginal religious/cosmological knowledge",
+  "category_tags": [
+    "animism",
+    "mixed"
+  ],
+  "region": [
+    "Australia"
+  ],
+  "dating": {
+    "dating_summary": "Surviving religious/cosmological content is reconstructable only in fragments, filtered entirely through 19th-century colonial recorders (including George Augustus Robinson) who frequently did not name their Aboriginal informants; no archaeological dating of specific religious content exists in the sources located for this research batch, and none should be invented.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Not established in this research batch — no agent in this round specifically investigated Tasmanian archaeological occupation dating; left UNKNOWN rather than importing a mainland figure."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1830,
+        "latest": 1834,
+        "precision": "DECADE"
+      },
+      "note": "George Augustus Robinson's \"Friendly Mission\" journals, 1830-1834, are the primary colonial-era ethnohistoric record, working through Aboriginal intermediaries (Truganini, Woorrady, Mannalargenna) — an inherently coercive-context, colonially-filtered source, not neutral ethnography."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": null
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "UNKNOWN — surviving record is too fragmentary and colonially-mediated to recover a clear internal self-account."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "A credible peer-reviewed reconstruction attempt: Michelle Gantevoort, Duane W. Hamacher, and Savannah Lischick, \"Reconstructing the Star Knowledge of Aboriginal Tasmanians,\" Journal of Astronomical History and Heritage 19(3) (2016): 327-347, explicitly working from fragmentary, colonially-filtered records — treat the underlying reconstruction as MODERATE confidence given the acknowledged source limitations, not equivalent evidentiary weight to mainland traditions with unbroken living transmission. See claim_tasmania_star_knowledge_reconstruction and claim_tasmania_black_war_wybalenna_disputed for the historical-disruption context."
+}

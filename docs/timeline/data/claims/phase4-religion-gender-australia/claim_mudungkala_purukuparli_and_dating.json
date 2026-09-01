@@ -1,0 +1,69 @@
+{
+  "id": "claim_mudungkala_purukuparli_and_dating",
+  "subject_type": "Deity",
+  "subject_id": "dty_mudungkala",
+  "statement": "The Tiwi creation narrative: Mudungkala (Murtankala), a blind old woman, emerges from the earth at southeast Melville Island in the Palaneri (creation period) carrying three infants, crawls north, and her passage forms the straits separating the Tiwi Islands from the mainland and from each other, then covers the land with vegetation and animals. Her son Purukuparli and his wife Bima are the first ancestral couple; their son Jinani's death, precipitated by Bima's negligence/infidelity, leads Purukuparli to decree death for all creation, instituting the first Pukumani ceremony. Patrick Nunn and Nicholas Reid, \"Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago,\" Australian Geographer 47(1) (2016): 11-47, propose the narrative detail that water \"followed\" Mudungkala as she moved may encode genuine memory of postglacial sea-level rise cutting off a mainland crossing route, consistent with the Tiwi Islands' documented separation from the mainland roughly 8,200-9,650 years ago — a contested oral-tradition-dating methodology, not proof, and specific to the flood motif, not to the Pukumani ceremonial complex as a whole (which has no independent date).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether Nunn and Reid's narrative-to-sea-level-event correlation method reliably indicates multi-millennial oral transmission fidelity is debated in the wider oral-tradition-dating literature; the underlying island-separation date itself is not disputed.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Nunn, Patrick, and Nicholas Reid. \"Aboriginal Memories of Inundation of the Australian Coast Dating from More than 7000 Years Ago.\" Australian Geographer 47(1), 2016: 11-47.",
+      "author": "Nunn and Reid",
+      "year": 2016,
+      "venue": "Australian Geographer",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "The Mudungkala flood motif plausibly encodes genuine memory of postglacial sea-level rise, datable to roughly 7,000-13,000 years ago",
+      "holders": [
+        {
+          "name": "Patrick Nunn",
+          "work": "Australian Geographer 47(1), 2016",
+          "year": 2016,
+          "camp": "ORAL-TRADITION-DATING SCHOOL"
+        },
+        {
+          "name": "Nicholas Reid",
+          "camp": "ORAL-TRADITION-DATING SCHOOL"
+        }
+      ],
+      "strongest_case": "The narrative's specific detail of water pursuing Mudungkala matches the documented geomorphology of the islands' separation from the mainland.",
+      "status": "MINORITY"
+    },
+    {
+      "position": "Oral-tradition-to-geological-event correlation over such timespans is not a reliable dating method absent independent corroboration",
+      "holders": [
+        {
+          "name": "Mainstream skepticism about multi-millennial oral transmission fidelity, per the wider methodological literature",
+          "camp": "SKEPTICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "No independent (archaeological or linguistic) confirmation exists that the specific narrative content, as opposed to a generic flood motif, has been stably transmitted for 7,000+ years.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

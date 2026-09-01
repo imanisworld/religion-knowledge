@@ -1,0 +1,46 @@
+{
+  "id": "trad_warlpiri_jukurrpa",
+  "name": "Warlpiri religion (Jukurrpa)",
+  "category_tags": [
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Australia"
+  ],
+  "dating": {
+    "dating_summary": "Central Australian regional occupation is dated to ~38,000-47,830 BP (Karnatukul/Serpent's Glen) but this is regional-occupation evidence, not a date for any specific Jukurrpa narrative; the earliest outsider documentation is Meggitt's 1953-79 fieldwork (published 1962) and Munn's 1956-58 fieldwork (published 1973); no independently verified oral-transmission-depth estimate exists for any specific Warlpiri ceremony.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Karnatukul (Serpent's Glen), Western Desert adjacent to the Tanami: re-dated to before 47,830 cal BP median modelled age (Veth et al., revised chronology, Australian Archaeology). A general baseline of ~38,000 BP is also cited for Central Australian interior occupation. Regional occupation evidence only — not a date for Jukurrpa content."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1953,
+        "latest": 1962,
+        "precision": "DECADE"
+      },
+      "note": "Mervyn J. Meggitt, Desert People: A Study of the Walbiri Aborigines of Central Australia (Sydney: Angus & Robertson, 1962), fieldwork from 1953. Nancy D. Munn, Walbiri Iconography (Cornell UP, 1973), fieldwork at Yuendumu 1956-58."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": null
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Christine Nicholls, \"What does Jukurrpa ('Dreamtime', 'the Dreaming') mean?\", Australian Aboriginal Studies (AIATSIS), 2014: Jukurrpa is set in a \"fictitious\" past by Warlpiri's own framing, but continues to exist in and act on the present — five interrelated usages (era, beings, manifestations of power, binding law, personal totemic inheritance)."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No dated study of any specific Warlpiri Jukurrpa narrative was located using any stated method.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Category tags reflect a system combining ancestor-linked totemic inheritance with law/moral order; \"primitive\"/evolutionary-stage framing explicitly rejected. Documented internal historical change (not static/timeless): Georgia Curran, \"'Waiting for Jardiwanpa': History and Mediation in Warlpiri Fire Ceremonies,\" Oceania 89(2) (2019), documents post-sedentarization shifts in the Jardiwanpa ceremony's social purpose and the standardization of payment for filmed/public performance beginning in the 1990s."
+}

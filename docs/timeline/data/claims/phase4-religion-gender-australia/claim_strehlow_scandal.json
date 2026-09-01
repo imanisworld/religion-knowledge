@@ -1,0 +1,57 @@
+{
+  "id": "claim_strehlow_scandal",
+  "subject_type": "Tradition",
+  "subject_id": "trad_arrernte_altyerre",
+  "statement": "T.G.H. Strehlow (1908-1978), raised at Hermannsburg Mission, fluent in Arrernte, was entrusted with sacred tjurunga (Arrernte: tywerrenge) by ceremonial leader Mickey Gurra and other elders beginning May 1933 as traditional custodianship structures were breaking down — amassing ~700 largely secret-sacred objects, 15 km of film, 7,000 slides, thousands of pages of genealogies/myths, and 42 diaries. In March 1978, the German magazine Stern published a 16-page spread with photographs of secret-sacred Arrernte ceremonies, using color slides and black-and-white photographs Strehlow had supplied — despite an agreement restricting further distribution, which was violated. This publication discredited Strehlow; he died two months later, 3 October 1978. Barry Hill, Broken Song: T.G.H. Strehlow and Aboriginal Possession (Knopf/Vintage Australia, 2002), pp. 741-752, is the definitive scholarly account. The collection passed to his second wife, was disputed for years, and was eventually acquired by the Northern Territory Government, leading to the Strehlow Research Centre; a 2005 amendment to the Strehlow Research Centre Act enabled repatriation to identifiable custodians, an ongoing, only partially resolved process.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1933,
+    "latest": 2005,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Australia"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Hill, Barry. Broken Song: T.G.H. Strehlow and Aboriginal Possession. Knopf/Vintage Australia, 2002.",
+      "author": "Barry Hill",
+      "year": 2002,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "Central Land Council, \"The Strehlow Collection of Sacred Objects\" (clc.org.au).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
