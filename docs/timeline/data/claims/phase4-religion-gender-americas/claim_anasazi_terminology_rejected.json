@@ -1,0 +1,44 @@
+{
+  "id": "claim_anasazi_terminology_rejected",
+  "subject_type": "Culture",
+  "subject_id": "cul_hopi",
+  "statement": "\"Anasazi\" derives from Navajo, widely reported to mean something like \"ancient enemy\"/\"enemy ancestors.\" Leigh Kuwanwisiwma, Director, Hopi Tribe Cultural Preservation Office, is quoted on record (Seattle Times, 9 November 1997, \"Is 'Anasazi' Now Politically Incorrect?\"): \"It's what the Navajos called the Hopi and other Pueblo people, the 'enemy of old,' and we feel that sort of interpretation is very derogatory, since the Hopi religion doesn't call anyone an enemy.\" The shift away from \"Anasazi\" began in the early 1990s in discussions between Hopi/Puebloan tribes and National Park Service officials; NPS materials, museum signage, and official reports now generally use \"Ancestral Puebloan.\" The contemporary Hopi-specific term for the ancestral people is Hisatsinom (\"People of Long Ago\") — explicitly a Hopi word that does not speak for other Pueblo groups (Zuni, Acoma, Rio Grande pueblos), who have their own terms.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1990,
+    "latest": 1997,
+    "precision": "DECADE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Kuwanwisiwma, Leigh, quoted in \"Is 'Anasazi' Now Politically Incorrect? — Hopi People, Others Are Bothered By Term,\" Seattle Times, 9 November 1997.",
+      "author": null,
+      "year": 1997,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

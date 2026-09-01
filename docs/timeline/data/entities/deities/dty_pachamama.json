@@ -1,0 +1,31 @@
+{
+  "id": "dty_pachamama",
+  "name": "Pachamama",
+  "region": [
+    "South America"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "earth-mother figure, fertility and agricultural abundance",
+      "period": {
+        "earliest": 1200,
+        "latest": 1532,
+        "precision": "CENTURY",
+        "date_semantics": "ESTIMATED_COMPOSITION"
+      },
+      "claim_id": "claim_pachamama_living_tradition"
+    },
+    {
+      "domain": "continuing, living contemporary practice: annual challa offering ritual (August 1st) across the Andes; documented syncretism with Catholic Mass (Cusco, El Alto); adopted as a symbol in contemporary environmental activism and Indigenous-rights movements",
+      "period": {
+        "earliest": 1900,
+        "latest": null,
+        "precision": "CENTURY",
+        "date_semantics": "EVENT_DATE"
+      },
+      "claim_id": "claim_pachamama_living_tradition"
+    }
+  ],
+  "notes": "Genuinely LIVING, not solely ancient/historical practice — a documented parallel to how the Yolŋu Elcho Island adjustment movement and the Haudenosaunee Longhouse Religion show Indigenous religious traditions in this dataset are not confined to the past. Named academic ethnographic source recommended by the research agent: Catherine Allen, The Hold Life Has: Coca and Cultural Identity in an Andean Community (Smithsonian, 1988/2002) — not directly retrieved/verified in this research pass, flagged for follow-up."
+}

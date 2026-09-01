@@ -1,0 +1,46 @@
+{
+  "id": "claim_kellogg_property_rights_colonial_erosion",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_mexica",
+  "statement": "Susan Kellogg, Law and the Transformation of Aztec Culture, 1500-1700 (University of Oklahoma Press, 1995), based on 73 property lawsuits before the Real Audiencia (1536-1700) plus pre-contact-era wills, documents that pre-Hispanic Mexica women held real property and inheritance rights — inheritance passed through both male and female lines, and women could and did will property, including favoring female heirs in some surviving wills. Kellogg's central finding is directional: colonial Spanish law subsequently ERODED these rights, shifting Mexica households from bilateral/multifamily kinship structures toward Spanish-style nuclear patrilineal families and increasing women's legal subordination over the 16th-17th centuries — i.e. the pre-conquest baseline was less patriarchal in property terms than the colonial trajectory that followed it.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1500,
+    "latest": 1700,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Kellogg, Susan. Law and the Transformation of Aztec Culture, 1500-1700. Norman: University of Oklahoma Press, 1995.",
+      "author": "Susan Kellogg",
+      "year": 1995,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Mexica women's legal status was static across the 1500-1700 period, as opposed to a documented trajectory of erosion under colonial Spanish law relative to a real pre-conquest baseline"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

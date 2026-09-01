@@ -1,0 +1,42 @@
+{
+  "id": "claim_seneca_falls_haudenosaunee_influence",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_haudenosaunee",
+  "statement": "Sally Roesch Wagner, Sisters in Spirit: Haudenosaunee (Iroquois) Influences on Early American Feminists (Native Voices, 2001) and We Want Equal Rights!: The Haudenosaunee (Iroquois) Influence on the Women's Rights Movement (2020), documents that Elizabeth Cady Stanton, Lucretia Mott, and Matilda Joslyn Gage — all with documented contact with Haudenosaunee communities in central New York — explicitly cited the observed rights of Haudenosaunee women (political voice, property control, custody rights, divorce access) as evidence that women's subordinate status in Euro-American society was social/legal, not natural or divinely ordained. This core claim (documented contact plus documented rhetorical use by named suffragists) is real and credited by institutions including the National Park Service and Cornell University. It sits within a broader, separate historiographical debate — the \"Iroquois Influence Thesis\" concerning claimed Haudenosaunee influence on the U.S. Constitution — where named skeptics (Elisabeth Tooker; Barton M. Edens; Philip Levy) call the evidence for Founders-specific influence \"very thin\"; that skepticism was documented specifically for the Constitutional-influence claim, not squarely for Wagner's suffragist-specific claim, and no source directly rebutting Wagner's narrower thesis was located in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Wagner, Sally Roesch. Sisters in Spirit: Haudenosaunee (Iroquois) Influences on Early American Feminists. Summertown, TN: Native Voices, 2001.",
+      "author": "Sally Roesch Wagner",
+      "year": 2001,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the U.S. women's rights movement was directly and solely caused by Haudenosaunee example, as opposed to Haudenosaunee women's status functioning as one cited, rhetorically influential piece of evidence among several the named suffragists drew on"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

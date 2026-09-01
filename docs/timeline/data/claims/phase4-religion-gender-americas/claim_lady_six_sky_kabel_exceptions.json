@@ -1,0 +1,46 @@
+{
+  "id": "claim_lady_six_sky_kabel_exceptions",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_kiche_maya",
+  "statement": "Classic Maya royal succession was generally patrilineal, but with documented, monumentally-inscribed female-ruler exceptions. Lady Six Sky (Ix Wak Chan Ajaw) of Naranjo reigned as de facto queen 682-693 CE, then as regent/power-behind-the-throne for her son (formally enthroned) c. 693-741 CE — contemporary scholarship treats her as the effective decision-maker even after her son's formal accession. Lady K'abel of El Perú-Waka' ruled the Wak kingdom jointly with her husband c. 672-692 CE as a representative of the Kaanul (\"Snake\") dynasty of Calakmul, her authority derived partly from her natal dynasty's imperial reach — a documented mechanism (marriage alliance carrying political capital) distinct from simple hereditary queenship. These are individually documented exceptions operating within a patrilineal system, not evidence of general gender parity in Classic Maya political authority.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 672,
+    "latest": 741,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Doyle, James A. On the regency of Lady Six Sky at Naranjo (Vanderbilt Undergraduate Research Journal article; academia.edu paper \"'The heart and stomach of a king': A study of the regency of Lady Six Sky at Naranjo, Guatemala\").",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Classic Maya political authority was generally open to women, as opposed to individually documented exceptions (Lady Six Sky, Lady K'abel) within an overall patrilineal succession system"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

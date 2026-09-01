@@ -1,0 +1,149 @@
+{
+  "id": "gs_guarani",
+  "culture_id": "cul_guarani",
+  "region": [
+    "South America"
+  ],
+  "period": {
+    "earliest": 1609,
+    "latest": 1953,
+    "precision": "CENTURY",
+    "date_semantics": "SURVIVING_MANUSCRIPT_DATE"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "One source (general secondary synthesis) states women maintained fields of maize, cassava, and sweet potatoes while men hunted and fished — a Guarani-specific (not merely generically-assumed-regional) statement, but not cross-checked against a peer-reviewed ethnographic source (e.g. dedicated Mbyá or Kaiowá household-economy studies) in this research pass. Treated as provisional.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General secondary synthesis of Guarani gendered subsistence division (Britannica/EBSCO-derived summary).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Not verified in this research pass — the research agent's search budget was exhausted before this topic could be reached. A legitimate gap, not asserted from recall.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No source located in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Not verified in this research pass. A legitimate gap, not asserted from recall.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No source located in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "The only relevant documented fact is structural, not directly about authority: villages were organized into large communal houses (malocas, up to ~60 families) of patrilineally related families. This establishes a patrilineal descent pattern but does not by itself establish gendered household authority, which are not mutually exclusive in comparative lowland-South-American ethnography — not to be inferred from descent pattern alone.",
+      "confidence": "LOW",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General ethnographic description of Guarani communal-house (maloca) social organization (Britannica; Wikipedia \"Guaraní people,\" corroborated tertiary sourcing).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Guarani religious knowledge is genuinely restricted/esoteric in the documented literature: the \"Ñeʼẽ Porã Tenondé\" tradition recorded by León Cadogan was described as possessed only by \"the initiated,\" gated by trust and ritual initiation — Cadogan's own informant, Mbyá religious leader Cacique Pablo Vera, revealed it to him only after a long trusted relationship, and Cadogan was subsequently himself ritually initiated. This satisfies this project's ethical constraint (existence of a documented restriction reported as a citable fact, content not reconstructed). Whether this initiated/esoteric status carries a specific gender dimension (i.e. whether karai/religious-leader status is documented as male-restricted, open to female specialists such as a possible kunhã karai role, or something more complex) was NOT verified in this research pass and should not be assumed either way without a dedicated follow-up search.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Cadogan, León. Ayvu Rapyta: Textos míticos de los Mbyá-Guaraní del Guairá. Serialized in Revista de Antropología beginning 1953; discussed via Portal Guaraní and Espejo Textual secondary sourcing.",
+          "author": "León Cadogan",
+          "year": 1953,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Not verified in this research pass. The research agent explicitly declined to manufacture a dispute from memory, consistent with this project's standing rule against citing unverified recall — this dimension is a legitimate, flagged gap requiring a dedicated follow-up search pass, not a resolved finding.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "No source located in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Four of six dimensions (political_inequality, legal_economic_status, household_authority beyond the bare descent-pattern fact, ideological_patriarchy) are UNKNOWN by legitimate, explicitly-flagged research gap — the research agent's live web-search budget was exhausted mid-pass before these could be reached, and per this project's rule against citing unverified recall, nothing was manufactured to fill them."
+  },
+  "notes": null
+}

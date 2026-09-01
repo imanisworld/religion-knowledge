@@ -1,0 +1,21 @@
+{
+  "id": "dty_itzamna",
+  "name": "Itzamna",
+  "region": [
+    "Mesoamerica"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "creator/high-god figure, \"Lord of the Heavens and Earth,\" associated with writing, divination, and the invention of the calendar; depicted as an aged man (\"God D\" in the Schellhas system)",
+      "period": {
+        "earliest": -2000,
+        "latest": 1697,
+        "precision": "MILLENNIUM",
+        "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+      },
+      "claim_id": "claim_itzamna_longevity"
+    }
+  ],
+  "notes": "Attested from the Preclassic period through the Postclassic (Classic-period scribal glyphs, Itzamnaaj, and Postclassic Yucatec sources, Itzamná/Zamná both attested) — genuine documented longevity/continuity across the full span, unlike Kukulkan (see below), whose attestation is regionally and temporally narrower. Karl Taube: \"Itzamná is probably the most important Classic Maya deity, yet he remains one of the most poorly understood\" (likely from Taube, The Major Gods of Ancient Yucatan, Dumbarton Oaks, 1992 — exact publication not directly confirmed in this research pass). Iconographically described as an aged form of the Maize God."
+}

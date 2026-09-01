@@ -1,0 +1,42 @@
+{
+  "id": "claim_namandu_tupa_contested_status",
+  "subject_type": "Deity",
+  "subject_id": "dty_namandu",
+  "statement": "Alfred Métraux [ETHNOHISTORICAL/CRITICAL] argued that Tupã originally held a peripheral role in Tupi-Guarani cosmology — a spirit associated with thunder/lightning — and was NOT the supreme creator; Jesuit and later Christian missionaries elevated Tupã's status specifically to align with Christian monotheism during the 16th-17th centuries, meaning \"Tupã = God\" is substantially a missionary-era syncretic construction. In less-contacted groups such as the Apapocuvá-Guarani (per Curt Unkel Nimuendajú's early-20th-century fieldwork — flagged as recalled but not independently re-verified by live search in this research pass), Tupã appears as secondary/subordinate to Ñamandú, the true primordial creator in that tradition. This directly contradicts the popular conflation of Tupã with a generic \"God\" figure still common in tertiary sources and popular culture, and should be modeled as a documented point of scholarly correction, not flattened.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "Métraux, Alfred. Work on Tupi-Guarani cosmology and the Tupã/Ñamandu relationship, cited via ResearchGate summary \"The Origin Myth of a Myth: The 'Land Without Evil' Revisited,\" which names Métraux among the scholarly lineage discussing this correction.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "SEARCH_SNIPPET",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Tupã was the original supreme Guarani creator figure prior to missionary contact, as opposed to a peripheral thunder-associated spirit later elevated by Jesuit/Christian missionary influence to align with a monotheistic \"God\" gloss"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

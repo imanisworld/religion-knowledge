@@ -1,0 +1,42 @@
+{
+  "id": "claim_sky_woman_and_twins_naming",
+  "subject_type": "Deity",
+  "subject_id": "dty_sky_woman",
+  "statement": "J.N.B. Hewitt (Tuscarora ethnologist/linguist, Bureau of American Ethnology), Iroquoian Cosmology, published in two parts by the Smithsonian (Part 1, 1903; Part 2, 1928), is the authoritative comparative scholarly source for the Haudenosaunee creation narrative — deliberately preserving three separate versions (Onondaga, Seneca, Mohawk) as literal translations rather than flattening them into one composite myth. Sky Woman's actual name varies genuinely by nation and language (Ataensic/Ataentsic, Huron form; Iagentci/Awenhai, Seneca; Iotsitsisonh/Atsiʼtsiaka:ion, Mohawk) — \"Sky Woman\" is a descriptive English title, not a proper name in any one language, and should not be treated as if it were.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Hewitt, J.N.B. \"Iroquoian Cosmology.\" Bureau of American Ethnology, Twenty-First Annual Report (Part 1, 1903) and Forty-Third Annual Report (Part 2, 1928). Washington, DC: Smithsonian Institution.",
+      "author": "J.N.B. Hewitt",
+      "year": 1903,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That \"Sky Woman\" is a single pan-Haudenosaunee proper name rather than an English descriptive title standing in for genuinely distinct per-nation names"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

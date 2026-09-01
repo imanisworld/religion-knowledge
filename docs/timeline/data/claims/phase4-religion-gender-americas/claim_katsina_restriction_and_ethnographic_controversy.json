@@ -1,0 +1,57 @@
+{
+  "id": "claim_katsina_restriction_and_ethnographic_controversy",
+  "subject_type": "Tradition",
+  "subject_id": "trad_hopi_religion",
+  "statement": "Katsinam (katsina, spirit beings central to Hopi religion, embodied by masked dancers, teaching a moral/pedagogical role) are among the most documented cases of formally restricted Indigenous religious knowledge in North American ethnography, with real, live, ongoing controversy over historical non-Native ethnographic publication and photography of katsina ceremonies done without full consent. The Hopi Cultural Preservation Office maintains a current, official policy prohibiting recording (photography, video, audio, sketching, note-taking) in or around Hopi villages, especially during ceremonies, citing a documented history of harm: ceremonial photographs published without permission, ceremonial music recordings sold without authorization, and dancers' ceremonial clothing photographed/sold without consent. Historical episode: Jesse Walter Fewkes, \"Hopi Katcinas Drawn by Native Artists,\" Twenty-First Annual Report of the Bureau of American Ethnology, 1899-1900 (Washington: GPO, 1903) — 63 full-color plates of katsina drawings by Hopi artists, credited by art historians as marking the start of the modern era of Pueblo painting, but also part of a pattern of ethnographic documentation Pueblo communities experienced as invasive. H.R. Voth (1855-1931), a German Mennonite missionary at Oraibi whose stated goal was to dissolve what he called \"heathenish culture,\" extensively documented and photographed Hopi ceremonies (co-authored with George A. Dorsey, The Mishongnovi Ceremonies of the Snake and Antelope Fraternities, Field Columbian Museum, 1902); his photography of religious ceremonies is characterized in current scholarship as \"problematic\" from a present-day standpoint. Per this project's ethical constraint, this claim reports only the general structural facts about katsinam and the documented history of restriction/controversy — no specific named katsina, ceremony sequence, or kiva-society content is described.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1899,
+    "latest": 2020,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Fewkes, Jesse Walter. \"Hopi Katcinas Drawn by Native Artists.\" Twenty-First Annual Report of the Bureau of American Ethnology, 1899-1900. Washington, DC: Government Printing Office, 1903.",
+      "author": "Jesse Walter Fewkes",
+      "year": 1903,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Voth, H.R., and George A. Dorsey. The Mishongnovi Ceremonies of the Snake and Antelope Fraternities. Chicago: Field Columbian Museum, 1902.",
+      "author": "Voth and Dorsey",
+      "year": 1902,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

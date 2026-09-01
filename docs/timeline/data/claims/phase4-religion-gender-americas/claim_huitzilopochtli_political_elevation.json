@@ -1,0 +1,44 @@
+{
+  "id": "claim_huitzilopochtli_political_elevation",
+  "subject_type": "Deity",
+  "subject_id": "dty_huitzilopochtli",
+  "statement": "Tlacaelel, who held the cihuacoatl office (chief counselor/co-ruler) under several successive Mexica tlatoque across roughly six decades (d. 1487), is credited by multiple sources with reorganizing Mexica state theology in the mid-15th century, elevating Huitzilopochtli from a comparatively minor tribal/patron deity to co-equal imperial-patron status with the established regional gods Tlaloc, Tezcatlipoca, and Quetzalcoatl, and recasting Mexica identity as a \"chosen people\" obligated to feed the sun through war-captive sacrifice. He is also credited, with lower confidence, with ordering the burning of earlier historical codices to erase rival/humbler origin accounts — a claim repeated across secondary/tertiary sources but not traced to a strong primary-source citation in this research pass. Huitzilopochtli's birth myth (the Coatepec narrative) is textually attested only in Sahagún's post-conquest Florentine Codex, Book 3 (1575-1577); the Coyolxauhqui monolith (Templo Mayor excavations) provides independent pre-conquest archaeological corroboration of the myth's antiquity in sculptural form, even though no pre-conquest text survives.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "ESTIMATED_COMPOSITION",
+  "date": {
+    "earliest": 1428,
+    "latest": 1487,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General secondary/tertiary sourcing on Tlacaelel's theological reforms (Grokipedia \"Tlacaelel\"; Wikipedia \"Cihuacoatl (position)\"), cross-checked against Templo Mayor archaeological reporting on the Coyolxauhqui monolith.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The Tlacaelel book-burning claim specifically should be treated as moderate-confidence, not certain, per the research agent's own flag — it was not traced to a strong primary-source citation (e.g. a full read of Miguel León-Portilla's work on Tlacaelel) in this research pass."
+}

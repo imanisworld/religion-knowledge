@@ -1,0 +1,59 @@
+{
+  "id": "claim_popol_vuh_manuscript_history",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kiche_maya_religion",
+  "statement": "The Popol Vuh's earliest surviving written form is Francisco Ximénez's 1701-1703 K'iche'/Spanish copy (held today at the Newberry Library, Chicago) of a now-lost c. 1554-1558 alphabetic K'iche' original — dating derived from internal genealogical evidence naming Pedro de Robles as the reigning \"Lord Magistrate\" of the Nihaib lineage (Adrián Recinos, Popol Vuh: Las antiguas historias del Quiché, Fondo de Cultura Económica, 1947; Dennis Tedlock, Popol Vuh: The Definitive Edition, Simon & Schuster, rev. ed. 1996, both independently proposing this window). What became of the 1554-1558 original after Ximénez copied it is unknown — presumed returned to its K'iche' owners, never recovered. Independently, the narrative content itself (the Hero Twins cycle, the Maize God's death and resurrection) is attested in Classic-period (250-900 CE) painted ceramic iconography (Michael Coe, \"The Hero Twins: Myth and Image,\" The Maya Vase Book Vol. 1, Kerr Associates, 1989), pushing verified narrative antiquity back roughly a millennium before the earliest surviving manuscript.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "SURVIVING_MANUSCRIPT_DATE",
+  "date": {
+    "earliest": 1554,
+    "latest": 1703,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Tedlock, Dennis. Popol Vuh: The Definitive Edition of the Mayan Book of the Dawn of Life and the Glories of Gods and Kings. Rev. ed. New York: Simon & Schuster, 1996.",
+      "author": "Dennis Tedlock",
+      "year": 1996,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Recinos, Adrián. Popol Vuh: Las antiguas historias del Quiché. Mexico City: Fondo de Cultura Económica, 1947.",
+      "author": "Adrián Recinos",
+      "year": 1947,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the Popol Vuh's narrative content originated only in the 1550s alphabetic composition, as opposed to Classic-period iconography independently pushing its verified antiquity back roughly a millennium earlier"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

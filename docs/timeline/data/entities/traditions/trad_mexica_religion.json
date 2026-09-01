@@ -1,0 +1,58 @@
+{
+  "id": "trad_mexica_religion",
+  "name": "Mexica religion",
+  "category_tags": [
+    "polytheism",
+    "pantheism"
+  ],
+  "region": [
+    "Mesoamerica"
+  ],
+  "dating": {
+    "dating_summary": "A tradition with genuinely deep Mesoamerican-regional roots (Teotihuacan/Toltec, extending back over a millennium) fused with a much younger, politically-engineered Mexica state cult (imperial Huitzilopochtli elevation, mid-15th century) known to us almost entirely through post-conquest, missionary-mediated ethnography (Sahagún) and at least one disputed-date pictorial manuscript (Codex Borbonicus).",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -200,
+        "latest": 1521,
+        "precision": "MILLENNIUM"
+      },
+      "note": "The broader Mesoamerican religious substrate (feathered-serpent iconography, rain-deity worship, ballgame-cosmology) traces to Teotihuacan (Classic period, pre-900 CE) and was transmitted via the Toltecs to the Mexica, who explicitly claimed Toltec/Teotihuacan cultural inheritance as a legitimacy strategy. The earliest clearly Mexica-specific cultic evidence is the Templo Mayor's first construction phase at the city's 1325 founding (no surviving physical remains; second, stone-built phase pre-dates 1428)."
+    },
+    "earliest_written_attestation": {
+      "range": null,
+      "note": "No securely pre-conquest-dated textual source exists specifically for Mexica religious doctrine. The Codex Borbonicus is the strongest pre-conquest-style candidate (its page 34 New Fire Ceremony date reads 1507) but its actual production date is actively disputed — some scholars argue it is an early colonial-period copy of a pre-conquest original, others a genuine pre-conquest survival; a 2014 hyperspectral-imaging study did not conclusively resolve this. Status: unresolved."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1545,
+        "latest": 1585,
+        "precision": "CENTURY"
+      },
+      "note": "The dominant surviving primary source is Bernardino de Sahagún's Florentine Codex (Historia General de las Cosas de Nueva España, compiled 1545-1585, principal redaction 1575-1577) — Spanish-Franciscan-mediated ethnography via structured interviews with Nahua elder informants decades after conquest, explicitly framed by Sahagún as an aid to evangelization. A genuine collaborative indigenous-authored source, but not a neutral pre-contact document."
+    },
+    "estimated_composition": {
+      "range": {
+        "earliest": 1350,
+        "latest": 1487,
+        "precision": "CENTURY"
+      },
+      "method": "Core mythic/ritual complex (Huitzilopochtli cult, tzompantli practice, calendar rites) estimated by archaeology to have crystallized in Tenochtitlan by the mid-to-late 14th-15th century, with the imperial-patron elevation of Huitzilopochtli specifically datable to the Tlacaelel-era reforms (mid-15th century).",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": {
+        "earliest": 1111,
+        "latest": 1111,
+        "precision": "YEAR"
+      },
+      "note": "Mexica origin narratives (Aztlán departure, Huitzilopochtli-directed migration, the eagle-on-cactus omen at Tenochtitlan's founding) are preserved only in post-conquest sources and place the Aztlán departure conventionally at c. 1111 CE in later chronicles. This internal claim cannot be independently verified pre-conquest and was itself reshaped by Tlacaelel's documented mid-15th-century historical revisionism (credited, with moderate confidence, with ordering the burning of earlier codices to rewrite Mexica origin history for imperial ideology) — materially undermining the internal claim as reliable early-dating evidence."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Unknown/unrecoverable with precision — the Mexica were a late-arriving migrant group into the Valley of Mexico (12th-14th c.), so an oral tradition plausibly predates the 1325 founding by some generations, but no independent dating method exists.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Category tags: polytheism is the standard classification (Huitzilopochtli/war-sun, Tlaloc/rain, Tezcatlipoca/night-fate, Quetzalcoatl/wind-knowledge, etc.), but specialists also document an elite/priestly monistic-philosophical layer (the concept of teotl, a diffuse sacred force, and the god-title Ometeotl/Tloque Nahuaque) approaching philosophical pantheism among educated elites/priests, coexisting with popular polytheism among commoners — both tags included; \"monotheism\" is explicitly rejected as a fringe/apologetic-adjacent claim not supported by mainstream Mesoamericanist consensus. The imperial-cult elevation of Huitzilopochtli functions as a practical henotheism in state-ritual context specifically, without denying other gods' existence. Contemporary Nahua communities today (millions of speakers, direct linguistic/cultural though not political descendants of the Mexica) maintain living syncretic religious practice (Catholic-plus-pre-Hispanic ritual elements, e.g. Huasteca-region paper-cutting ritual specialists with genuine apprenticeship-gated restricted knowledge) — this is modern lived Nahua practice, genealogically and cosmologically connected but discontinuous with the destroyed 1521 imperial state cult, and should not be treated as either a purely dead tradition or a direct 1:1 continuation."
+}

@@ -1,0 +1,46 @@
+{
+  "id": "claim_handsome_lake_longhouse_reform",
+  "subject_type": "Tradition",
+  "subject_id": "trad_haudenosaunee_religion",
+  "statement": "The Longhouse Religion (Gaihwi:io, \"Good Message,\" also the Code of Handsome Lake) is a documented, relatively recent (early 19th-century) religious REFORM movement, not ancient tradition. Handsome Lake (Ganioʼdaiʼio/Sganyodaiyo), a Seneca leader, experienced visions beginning 1799 following a period of severe alcoholism and post-Revolutionary-War social collapse in Seneca communities (land loss, factionalism); three spiritual messengers reportedly delivered the code he then preached, explicitly combining older Haudenosaunee religious tradition with selected Christian influences in direct response to that specific social/political crisis. Anthony F.C. Wallace, The Death and Rebirth of the Seneca (Alfred A. Knopf, 1970), is the foundational academic treatment; Wallace reported roughly 5,000 practicing Gaihwi:io members as of 1969. This case is a documented parallel to the Yolŋu Elcho Island adjustment movement (Australia batch, Berndt 1962) — Indigenous-led religious innovation responding to colonial disruption, not externally imposed content nor primordial tradition.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1799,
+    "latest": 1969,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Wallace, Anthony F.C. The Death and Rebirth of the Seneca. New York: Alfred A. Knopf, 1970.",
+      "author": "Anthony F.C. Wallace",
+      "year": 1970,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the Longhouse Religion is an unbroken continuation of pre-contact Haudenosaunee ceremonial practice rather than a documented early-19th-century reform synthesizing older tradition with Christian influence"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

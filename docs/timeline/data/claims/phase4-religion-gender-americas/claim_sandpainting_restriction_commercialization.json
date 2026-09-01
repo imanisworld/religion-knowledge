@@ -1,0 +1,40 @@
+{
+  "id": "claim_sandpainting_restriction_commercialization",
+  "subject_type": "Tradition",
+  "subject_id": "trad_dine_bahane",
+  "statement": "Diné sandpainting is intentionally ephemeral — destroyed at the close of each healing ceremony — and traditional restriction against outsider observation and permanent reproduction is real and documented. Nancy J. Parezo, Navajo Sandpainting: From Religious Act to Commercial Art (University of Arizona Press, 1983), documents the 20th-century commercialization of sandpainting imagery into a secular/tourist art form (including woven-rug reproductions) as a genuine, citable controversy — a shift \"from a sacred to a secular domain and from native use to non-native consumption.\" Per this project's ethical constraint, this claim reports the existence and general structure of the restriction and its commercialization history; no ceremonial sandpainting content is described or reconstructed.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Parezo, Nancy J. Navajo Sandpainting: From Religious Act to Commercial Art. Tucson: University of Arizona Press, 1983.",
+      "author": "Nancy J. Parezo",
+      "year": 1983,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

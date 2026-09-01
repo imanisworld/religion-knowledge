@@ -1,0 +1,46 @@
+{
+  "id": "claim_tawantinsuyu_fall_multicausal",
+  "subject_type": "Polity",
+  "subject_id": "pty_tawantinsuyu",
+  "statement": "The fall of Tawantinsuyu is genuinely multi-causal and should not be reported as a simple \"Pizarro conquered the Incas\" narrative. A smallpox epidemic, carried overland ahead of the Spanish themselves, killed Emperor Huayna Cápac and his designated heir Ninan Cuyochi c. 1525-27 (a commonly-cited death toll of \"more than 200,000\" is unsourced to a named epidemiologist/historian in this research pass and should be treated as an unverified point estimate). Huayna Cápac's sudden death without a clear, uncontested successor triggered an Inca civil war between Atahualpa and Huáscar (1529-1532), which further weakened the state and depleted military manpower; Atahualpa defeated Huáscar's forces at the Battle of Quipaipán, near Cusco, in April 1532 — mere months before Pizarro's arrival and the November 1532 Battle/Massacre of Cajamarca, where Pizarro captured Atahualpa with a small conquistador force, exploiting the just-concluded civil war and epidemic-weakened state. Organized political resistance continued for a further 40 years: the Neo-Inca State at Vilcabamba, founded 1537 by Manco Inca Yupanqui after his own failed uprising, persisted through successor rulers (Sayri Túpac, Titu Cusi, Túpac Amaru) until Viceroy Francisco de Toledo's forces stormed Vilcabamba in 1572 and captured and executed Túpac Amaru by decapitation in Cusco — the real end of organized Inca political resistance, a fact frequently omitted from popular narratives that treat 1532 as the conquest's endpoint.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1525,
+    "latest": 1572,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General synthesis of the Inca civil war, Cajamarca, and Vilcabamba resistance sequence (History Skills, Discover Peru; core sequence corroborated by the standard academic history, John Hemming, The Conquest of the Incas, Harcourt Brace Jovanovich, 1970, not directly retrieved/verified in this research pass).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the 1532 capture of Atahualpa at Cajamarca ended Inca political resistance, as opposed to organized resistance continuing at Vilcabamba for a further 40 years until 1572"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

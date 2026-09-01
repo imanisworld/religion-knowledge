@@ -1,0 +1,59 @@
+{
+  "id": "claim_black_elk_speaks_mediation",
+  "subject_type": "Tradition",
+  "subject_id": "trad_lakota_religion",
+  "statement": "The core published corpus for Lakota theology exists in two documented, materially different forms, and the gap between them is a well-established, citable case of editorial mediation, not a fringe concern. John G. Neihardt's Black Elk Speaks (1932) is a heavily edited literary rendering. Raymond J. DeMallie, ed., The Sixth Grandfather: Black Elk's Teachings Given to John G. Neihardt (University of Nebraska Press, 1984), first published the original 1931 and 1944 stenographic interview transcripts, and DeMallie's editorial analysis concludes Neihardt's published books are \"literary interpretations\" that selectively shaped material — for example, giving Lakota culture \"a less militant cast\" and incorporating conventional historical material on the Indian wars not from Black Elk himself. DeMallie explicitly warns against using Black Elk Speaks as a sole source for Lakota religion/culture. A related, separately-produced text, Joseph Epes Brown's The Sacred Pipe (1953, based on Brown's own residence with Black Elk at Pine Ridge), is a distinct mediation event with its own separate caveats and should not be conflated with the Neihardt/DeMallie case.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "SURVIVING_MANUSCRIPT_DATE",
+  "date": {
+    "earliest": 1931,
+    "latest": 1984,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "DeMallie, Raymond J., ed. The Sixth Grandfather: Black Elk's Teachings Given to John G. Neihardt. Lincoln: University of Nebraska Press, 1984.",
+      "author": "Raymond J. DeMallie",
+      "year": 1984,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Neihardt, John G. Black Elk Speaks. New York: William Morrow, 1932.",
+      "author": "John G. Neihardt",
+      "year": 1932,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Black Elk Speaks (1932) is a transparent, unmediated record of Black Elk's own words, as opposed to a documented, analyzed case of significant editorial selection and reshaping"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

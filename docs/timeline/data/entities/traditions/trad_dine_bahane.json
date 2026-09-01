@@ -1,0 +1,54 @@
+{
+  "id": "trad_dine_bahane",
+  "name": "Diné Bahaneʼ (Diné emergence narrative and ceremonial complex)",
+  "category_tags": [
+    "animism",
+    "mixed"
+  ],
+  "region": [
+    "North America"
+  ],
+  "dating": {
+    "dating_summary": "A living oral/ceremonial tradition with no fixed composition date; outsider documentation begins with 17th-century Spanish colonial political references (1626) and matures into substantive religious ethnography only in the late 19th century (Washington Matthews, 1897), followed by 20th-century academic codification. The tradition's own internal framing is cyclical, organized around sequential world-emergence, not linear historical composition. Archaeological anchor for the culture bearing the tradition: earliest confidently-dated Navajo presence in Dinétah, c. 1450-1525 CE.",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": 1450,
+        "latest": 1525,
+        "precision": "CENTURY"
+      },
+      "note": "Confirmed Navajo material presence (forked-stick hogans) in Dinétah, dendrochronologically dated (Ronald H. Towner, Defending Dinétah, University of Utah Press, 2003). This dates the people, not directly the religious content; sandpainting-related ceremonial objects appear in the archaeological record at Pueblo/Navajo shared cache sites only after 1680 contact."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1626,
+        "latest": 1897,
+        "precision": "CENTURY"
+      },
+      "note": "Spanish colonial references to \"Apaches de Nabaju\" begin 1626 (Fray Gerónimo de Zárate Salmerón) — ethnic/political references, not religious ethnography. The earliest substantive outsider religious/ceremonial ethnography is Washington Matthews, Navaho Legends (American Folklore Society, 1897), containing \"The Navaho Origin Legend,\" from his 1880s-1890s fieldwork."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1897,
+        "latest": 1979,
+        "precision": "CENTURY"
+      },
+      "note": "Washington Matthews, Navaho Legends (1897); Father Berard Haile recorded numerous chantway texts across the early-to-mid 20th century; Gladys A. Reichard, Navaho Religion: A Study of Symbolism, 2 vols. (Bollingen Series/Pantheon Books, 1950). Paul G. Zolbrod's Diné Bahaneʼ: The Navajo Creation Story (University of New Mexico Press, 1984) is a literary re-rendering built on Matthews's 1897 material, not an independent primary source."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "Not applicable in the textual-composition sense; a living oral tradition continuously performed/transmitted through ceremonial recitation, not a fixed authored text.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The emergence narrative frames time through a sequence of prior worlds (commonly four, though tellings vary) ascended through due to disorder in each, arriving at the present \"Glittering World.\" Navajo cosmological time is characterized by specialists (Sam Gill) as fundamentally cyclical/recurrent rather than linear — ritual reenacts and renews cosmogonic events rather than treating them as closed past events."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No independent method (linguistic paleography, motif-comparison chronology) was located to date the oral tradition's origin separately from the ethnic migration date (c. 1450-1525) — any dating of the narrative's own origin collapses into dating Diné presence in Dinétah generally, since the narrative is tied to specific Dinétah geography.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Category tag \"animism + mixed\" rather than a forced polytheism/monotheism label: scholarship (Sam Gill, Gladys Reichard) frames the tradition as an integrated cosmological-ritual system oriented around restoring hózhǫ́ (harmony/balance) via a complex pantheon of Holy People (Diyin Dinéʼé), resisting a straightforward Greco-Roman-style \"polytheism\" label. Migration/arrival timing of the Diné into the Southwest is itself genuinely contested — see claim_dine_migration_dating."
+}

@@ -1,0 +1,9 @@
+{
+  "id": "cul_haudenosaunee",
+  "name": "Haudenosaunee (Six Nations)",
+  "region": [
+    "North America"
+  ],
+  "date_range": null,
+  "notes": "A confederacy of six historically/linguistically distinct nations (Mohawk/Kanien’kehá:ka, Oneida/Onyota’a:ka, Onondaga/Onöndowa’ga:’, Cayuga/Gayogo̥hó:nų’, Seneca/Onödówa’ga:’, and Tuscarora/Skarù·ręʹ, admitted 1722) speaking six distinct, not-mutually-intelligible Northern Iroquoian languages — modeled here as one Culture entity because the sourced scholarship treats the political confederacy and its shared cosmology/ceremonial cycle as the coherent unit of analysis (Fenton’s political history; Hewitt’s comparative Iroquoian Cosmology, which preserves separate Onondaga/Seneca/Mohawk creation-narrative versions side by side rather than flattening them), while treating the six nations as distinct for language/nation-specific purposes. \"Iroquois\" is a French-derived exonym of contested etymology; \"Haudenosaunee\" (\"People of the Longhouse\") is the self-designation. Non-state clan-based sociopolitical organization at the nation level; see pty_haudenosaunee_confederacy for the confederated political entity."
+}

@@ -1,0 +1,56 @@
+{
+  "id": "trad_inca_state_religion",
+  "name": "Inca (Tawantinsuyu) state religion",
+  "category_tags": [
+    "henotheism",
+    "polytheism",
+    "animism",
+    "mixed"
+  ],
+  "region": [
+    "South America"
+  ],
+  "dating": {
+    "dating_summary": "Inca STATE religion (Inti-centered solar cult tied to dynastic legitimation, empire-wide huaca administration via the ceque system) is an imperial-era phenomenon datable at earliest to the same contested window as imperial expansion (traditional: c. 1438 onward; revised: somewhat earlier per Bayesian radiocarbon work, exact date unresolved). It sits atop a much older, archaeologically attested Andean substrate (Wari, Tiwanaku, Chavín huaca/ancestor-veneration traditions extending back over a millennium earlier) that the Inca state absorbed and administratively organized rather than invented. All textual attestation is post-conquest (1553 onward); khipu is a disputed, only partially deciphered potential non-alphabetic source of contemporaneous record (numerical/administrative content confirmed, narrative content undeciphered and contested).",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": 600,
+        "latest": 1200,
+        "precision": "MILLENNIUM"
+      },
+      "note": "Cusco basin occupation traces to the Middle Horizon (c. 600-1000 CE, Wari cultural influence); the Killke culture (c. 900-1200 CE) directly precedes Inca material culture in Cusco, with the Qoricancha site (later the empire's central Inti temple) already sacred under Killke occupation before Inca imperial religion existed. The Inca-specific state cult (Inti-centered, Sapa-Inca-as-Son-of-the-Sun ideology) is an imperial-era overlay on this older substrate, not independently attested earlier."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1553,
+        "latest": 1553,
+        "precision": "YEAR"
+      },
+      "note": "No contemporaneous attestation exists — the Inca had no alphabetic writing system. Pedro Cieza de León, Crónica del Perú, Part 1, published Seville 1553, is the earliest published comprehensive Spanish chronicle (Parts 2-4 unpublished until the 19th-20th centuries). All textual sources post-date the 1532 conquest."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1553,
+        "latest": 1615,
+        "precision": "CENTURY"
+      },
+      "note": "Cieza de León (1553); Inca Garcilaso de la Vega, Comentarios Reales de los Incas (1609, written in Spain decades after leaving Peru, mestizo-elite perspective); Felipe Guaman Poma de Ayala, El primer nueva corónica y buen gobierno (completed 1615, never published in his lifetime, manuscript rediscovered in the Royal Library of Copenhagen in 1908) — an indigenous Andean Christian noble's account claiming khipu and oral-tradition sourcing."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "Not applicable in the textual sense — no single scripture; the tradition as documented is a composite reconstructed from post-conquest chronicles, archaeology, and khipu-derived administrative data.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Inti sent his children Manco Cápac and Mama Ocllo from Lake Titicaca to found Cusco and civilize humanity; Manco Cápac married his sister Mama Ocllo, founding the royal dynasty. This origin/legitimation myth is known to us only via post-conquest chroniclers (Cieza, Garcilaso), so even this \"internal claim\" is textually mediated by the same post-conquest sourcing problem as the rest of the tradition."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Unknown — the myth was orally transmitted (per the chroniclers' own claims to be recording oral tradition) for an unknown period before Cieza/Garcilaso/Guaman Poma recorded it in the 1550s-1610s; no independent dating method exists.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Category tags reflect state-level henotheism/monolatry (Inti promoted as supreme dynastic patron without denying other gods' existence) layered over a broader substrate of local/regional polytheism and animism (huaca veneration; over 300 huacas organized via the ceque system radiating from Cusco). Viracocha's status relative to Inti is itself contested in the sources — some traditions present Viracocha as ultimate creator with Inti as his son/creation, others present a different hierarchy, and the hierarchy may have shifted over imperial history (Pachacuti is specifically associated in some traditions with promoting Viracocha's cult). Pachamama veneration is a real, living, contemporary Andean practice today (the annual August 1st challa offering ritual; documented syncretism with Catholic Mass in Cusco/El Alto), not solely historical — see claim_pachamama_living_tradition."
+}

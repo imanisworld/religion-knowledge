@@ -1,0 +1,56 @@
+{
+  "id": "trad_haudenosaunee_religion",
+  "name": "Haudenosaunee religion",
+  "category_tags": [
+    "animism",
+    "polytheism",
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "North America"
+  ],
+  "dating": {
+    "dating_summary": "Material correlates of ceremonial practice generally (Ontario Iroquoian ossuary reburial tradition, ~1000-1300 CE) predate the earliest outsider written attestation (1636, and even that is Huron/Wyandot-recorded, a related but distinct Iroquoian confederacy, not Six-Nations-specific); the Confederacy's founding and the core religious/political narrative's composition are dated anywhere from 1142 to 1600 CE by different named scholars using incompatible methods, with no consensus resolution, and the tradition's own position declines to fix a date at all (\"time immemorial\").",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": 1000,
+        "latest": 1300,
+        "precision": "CENTURY"
+      },
+      "note": "Ontario Iroquoian ossuary (communal reburial) tradition, interpreted archaeologically as reflecting the ceremonialism later described ethnographically as the Feast of the Dead (Ohgiwe). This dates a ceremonial correlate generally, not the specific creation narrative or Great Law content."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1636,
+        "latest": 1636,
+        "precision": "YEAR"
+      },
+      "note": "Jesuit Relations (Reuben Gold Thwaites, ed., 1896-1901 compilation), 1636 volume, records the name \"Ataentsic\" for a foundational sky-being — but this attestation is from Jesuit missionaries among the Huron/Wyandot, a related but historically and politically distinct Iroquoian confederacy, NOT one of the Six Nations. The earliest Six-Nations-specific outsider documentation is later and was not pinned to an exact date in this research pass."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1880,
+        "latest": 1916,
+        "precision": "CENTURY"
+      },
+      "note": "Seth Newhouse's ~1880-1885 Mohawk-to-English manuscript of the Great Law (not formally chiefs-approved); standard published English version edited by Arthur C. Parker (Seneca ethnologist), 1916."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "No single agreed scholarly date; treated by sources as effectively the same contested question as the Confederacy's political founding.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "The Haudenosaunee Confederacy's own official position states the League has existed since \"time immemorial,\" declining to fix a calendar date."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No defensible independent linguistic-dating method (e.g. glottochronology) was located for the oral tradition's transmission depth, distinct from the eclipse-astronomy method (Mann and Fields) or the archaeological-settlement method (Snow) used to date the founding event itself.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Category tags reflect: polytheism/animism (Sky Woman, the Twins, and a broader cosmology of named beings), ancestor_veneration (Feast of the Dead/Ohgiwe), mixed. The 19th-century Longhouse Religion (Gaihwi:io, founded by Handsome Lake beginning 1799) is a documented, relatively recent religious REFORM movement explicitly combining older Haudenosaunee tradition with selected Christian influences in response to post-Revolutionary-War social crisis (land loss, alcoholism) — not ancient tradition; see claim_handsome_lake_longhouse_reform. A strict \"good vs. evil\" moral-binary reading of the Twins (Sapling/Flint) shows likely Christian missionary overlay in some recorded 19th/20th-century versions (including apparent virgin-birth imagery); in less-Christianized tellings the Twins are paired complementary forces (day/night, life/death) with a relationship of rivalry rather than strict villainy, and Flint functions as a trickster rather than a devil-figure."
+}

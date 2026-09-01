@@ -1,0 +1,65 @@
+{
+  "id": "claim_inca_khipu_narrative_disputed",
+  "subject_type": "Tradition",
+  "subject_id": "trad_inca_state_religion",
+  "statement": "The Inca had no alphabetic writing system; khipu (knotted-cord records) are a genuinely disputed, live research question regarding whether they constitute a full writing system or a numerical/administrative tally device. Gary Urton, Signs of the Inka Khipu (University of Texas Press, 2003), proposed a binary-coding theory: seven binary construction choices per cord (fiber, spin, ply, color-order, attachment, knot-direction, pendant-attachment method) yielding an estimated 1,536 distinct cord identities with 12 base colors, placing khipu's theoretical information capacity in the range of early cuneiform. This binary-coding hypothesis remains actively debated; progress has been made deciphering numerical/administrative khipu content specifically (census, tribute, storehouse-accounting), but narrative khipu remain undeciphered. Colonial-era testimony (including Felipe Guaman Poma de Ayala's own claim to have used khipu as a source for his 1615 chronicle) indicates khipu \"initially detailed complex narratives but transformed during colonial times into simpler notational forms\" — but no scholar has yet cracked a narrative khipu's content. Recent computational work (Jon Clindaniel, 2019 machine-learning analysis; Manuel Medrano and Ashok Khosla, 2021 network analysis) found cord-construction clustering correlating with geographic provenance and regional \"grammatical\" patterns suggesting regional \"dialects,\" though full bibliographic details for these two papers were not confirmed in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether khipu constitute a full non-alphabetic writing system capable of encoding narrative content (Urton's binary-coding hypothesis, extended by Clindaniel and Medrano/Khosla's computational work) or should be understood more conservatively as primarily numerical/administrative recording devices with undeciphered narrative potential remains genuinely unresolved in the field.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Urton, Gary. Signs of the Inka Khipu: Binary Coding in the Andean Knotted-String Records. Austin: University of Texas Press, 2003.",
+      "author": "Gary Urton",
+      "year": 2003,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Khipu constitute (or approach) a full writing system with substantial narrative-encoding capacity",
+      "holders": [
+        {
+          "name": "Gary Urton",
+          "work": "Signs of the Inka Khipu, 2003",
+          "year": 2003,
+          "camp": "BINARY-CODING SCHOOL"
+        }
+      ],
+      "strongest_case": "Theoretical information-capacity analysis places khipu's combinatorial complexity in the range of early cuneiform, and computational analysis has found real regional patterning consistent with an encoding system.",
+      "status": "CONTESTED"
+    },
+    {
+      "position": "Khipu are primarily numerical/administrative tally devices; narrative-encoding capacity is unproven and undeciphered",
+      "holders": [
+        {
+          "name": "General cautious/skeptical position within Andean studies, per convergent secondary sourcing",
+          "camp": "CONSERVATIVE/UNDECIPHERED SCHOOL"
+        }
+      ],
+      "strongest_case": "No narrative khipu has actually been deciphered; the well-understood khipu content is confirmed numerical/administrative (census, tribute, storehouse accounting), and colonial testimony to prior narrative complexity is secondhand and unverifiable.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,175 @@
+{
+  "id": "gs_hopi",
+  "culture_id": "cul_hopi",
+  "region": [
+    "North America"
+  ],
+  "period": {
+    "earliest": 1932,
+    "latest": 1998,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Traditional pattern: men historically responsible for farming (notably corn); women responsible for food processing, gathering, and pottery in the broader Pueblo pattern. Notable, well-documented reversal from the typical regional/continental pattern: among the Hopi, textile weaving is traditionally and still predominantly a MALE domain, explicitly contrasted with Diné (Navajo) weaving, traditionally female — \"a girl's manta is often woven by her grandfather.\" Ruth Burgett Jolie, \"Exploring Textile Traditions, Gender Shifts, and Social Capital in the American Southwest,\" Journal of Anthropological Research (SAGE), 2014, suggests Hopi male weaving carries ritual/symbolic significance tied to social-capital accumulation rather than ordinary economic division-of-labor logic — one scholarly interpretation, not necessarily the only one in the literature.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Jolie, Ruth Burgett. \"Exploring Textile Traditions, Gender Shifts, and Social Capital in the American Southwest.\" Journal of Anthropological Research, 2014.",
+          "author": "Ruth Burgett Jolie",
+          "year": 2014,
+          "venue": "Journal of Anthropological Research",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Village political leadership (kikmongwi, \"village chief\") is documented as traditionally and structurally male — the male head of the dominant clan, combining civil and high-priestly religious roles for the village's principal ceremony. Women hold real, documented influence in clan decision-making and knowledge transmission, and clan membership (descending through women) underlies succession eligibility, but the precise mechanism by which a clan-mother figure selects/vets a kikmongwi successor was not documented to a specific sourced procedural account in this research pass — flagged as partially unverified.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Wikipedia, \"Kikmongwi,\" cross-corroborated by multiple secondary Hopi-governance summaries.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Women historically owned houses and the produce of agricultural land, even though men did the physical farming labor — the crop belonged to the woman of the household upon harvest. Primary named ethnographic source: Mischa Titiev, Old Oraibi: A Study of the Hopi Indians of Third Mesa, Papers of the Peabody Museum of American Archaeology and Ethnology, Harvard University, Vol. 22, No. 1 (1944) — 1944-era ethnography, flagged for era/framing caveats and not to be treated as a transparent, unmediated Hopi self-account. Named comparative source: Alice Schlegel, Male Dominance and Female Autonomy: Domestic Authority in Matrilineal Societies (HRAF Press, New Haven, 1972), places Hopi within a comparative \"domestic authority gradient\" across matrilineal societies.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Titiev, Mischa. Old Oraibi: A Study of the Hopi Indians of Third Mesa. Papers of the Peabody Museum of American Archaeology and Ethnology, Harvard University, Vol. 22, No. 1, 1944.",
+          "author": "Mischa Titiev",
+          "year": 1944,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Schlegel, Alice. Male Dominance and Female Autonomy: Domestic Authority in Matrilineal Societies. New Haven: HRAF Press, 1972.",
+          "author": "Alice Schlegel",
+          "year": 1972,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Matrilocal residence, directly sourced: households consist of \"a mature woman, her daughters, and occasionally her granddaughters\" occupying a common residence across generations, with husbands joining the wife's household upon marriage (Titiev 1944:7). Alice Schlegel's later comparative work (1979) frames Hopi household authority as woman-headed, consistent with matrifocality.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Titiev, Mischa. Old Oraibi: A Study of the Hopi Indians of Third Mesa. Peabody Museum, Harvard University, 1944.",
+          "author": "Mischa Titiev",
+          "year": 1944,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Men's kiva-based ceremonial societies historically excluded women from most of them, but this is not a total, one-directional exclusion: named women's ceremonial societies also exist — Marau (Maraw), Lakon, and Owaqlt (Oaqöl) — conducting their own kiva-based ceremonial cycles (e.g. fall harvest-season ceremonies, the Basket Dance), predominantly female membership with a small number of designated male supporting participants, mirroring the reverse pattern in men's societies. Per this project's ethical constraint, initiation procedures, internal ranks, and ceremonial content for either men's or women's societies are deliberately not reported here — only the bare structural fact of parallel, gender-linked ceremonial-society systems on both sides.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "University of Wisconsin MA thesis (Ploeger) on Hopi katsina art/ritual; Crossing Worlds Hopi Projects ceremonial-calendar materials; McClung Museum (Hopi basketry) page — secondary sourcing, structural claim only.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED, three camps, none of which should be flattened into simple \"matriarchal\" or \"patriarchal.\" [GENDER-EGALITARIAN/COMPLEMENTARITY — Alice Schlegel, \"Sexual Antagonism among the Sexually Egalitarian Hopi,\" Ethos 7(2) (1979): 124-141]: documents real antagonism within specific dyadic relationships (husband-wife, brother-sister) but reads this as friction within a working egalitarian framework, not evidence of a general male-female hierarchy. [STRUCTURAL-COMPLEMENTARITY/\"DIARCHY\" — Peter M. Whiteley, Rethinking Hopi Ethnography, Smithsonian Institution Press, 1998]: women controlled redistribution/economy, men controlled ritual knowledge — gender complementarity rather than simple patriarchal dominance, explicitly cautioning that \"anthropological representations of Hopi polity are ambiguous and contradictory\" and that Hopi power structures should be interpreted in their own categories, not an external patriarchy/matriarchy binary. [STRONG-MATRIARCHY, weakest-sourced — Heide Goettner-Abendroth, Matriarchal Societies: Studies on Indigenous Cultures Across the Globe, Peter Lang]: includes the Hopi among \"surviving matriarchies,\" a minority/contested position within mainstream anthropology, not found in this research pass to be in conversation with Titiev, Schlegel, or Whiteley specifically.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Schlegel, Alice. \"Sexual Antagonism among the Sexually Egalitarian Hopi.\" Ethos 7(2), 1979: 124-141.",
+          "author": "Alice Schlegel",
+          "year": 1979,
+          "venue": "Ethos",
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Whiteley, Peter M. Rethinking Hopi Ethnography. Washington, DC: Smithsonian Institution Press, 1998.",
+          "author": "Peter M. Whiteley",
+          "year": 1998,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Recommended overall framing (per the research agent): structural gender complementarity with domain separation — women hold documented, real authority over households, land, and produce (Titiev, Schlegel) and over their own ceremonial societies (Marau/Lakon/Owaqlt), while the top civil-religious office (kikmongwi) and most kiva-society ceremonial authority is documented as male. Required does_not_demonstrate: characterizing Hopi ceremonial authority as flatly \"male-dominated\" overstates the case given the documented existence of parallel women's societies with real ceremonial authority in their own domain."
+  },
+  "notes": null
+}

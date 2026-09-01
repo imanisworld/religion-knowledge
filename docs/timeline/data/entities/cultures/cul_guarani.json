@@ -1,0 +1,9 @@
+{
+  "id": "cul_guarani",
+  "name": "Guarani",
+  "region": [
+    "South America"
+  ],
+  "date_range": null,
+  "notes": "A South American lowland (non-Andean) Tupi-Guarani-language people historically and today spread across Paraguay, southern Brazil, northern Argentina, and Bolivia — ecologically and linguistically distinct from the Andean/Inca material in this batch. Guarani is unusual among Indigenous South American languages for being a living, co-official national language of Paraguay today (this specific constitutional/legal fact was flagged by the research agent as not independently search-verified this session and is not asserted here as a sourced claim). Internal diversity is real and should not be flattened: distinct named subgroups (Mbyá, Kaiowá, Ñandeva, Paí Tavyterã, Ava/Chiripá) exist with documented name/theology variation; modeled here as one Culture entity (unlike the Aboriginal Australian nations, the Guarani subgroups share a real modern shared ethnolinguistic/political identity that those nations do not have an equivalent of), but see trad_guarani_religion’s notes on per-subgroup source attribution. Colonial history includes the Jesuit Reductions (1609/1610–1767) — semi-autonomous mission towns that provided real, documented protection from Portuguese bandeirante slave-raiding while also imposing significant cultural/religious transformation; Barbara Ganson (The Guaraní Under Spanish Rule in the Río de la Plata, Stanford UP, 2003) argues the Guarani were active agents shaping this relationship, not passive victims of either colonialism or Jesuit paternalism — a middle position between the romanticized \"protective sanctuary\" narrative (popularized by the film The Mission, 1986, which is documented to compress 100+ years of history, understate Jesuit tolerance of African slavery on mission estates, and largely omit Guarani agency) and a flat \"just another colonial imposition\" reading."
+}

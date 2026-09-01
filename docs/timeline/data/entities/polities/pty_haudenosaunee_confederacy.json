@@ -1,0 +1,10 @@
+{
+  "id": "pty_haudenosaunee_confederacy",
+  "name": "Haudenosaunee Confederacy (League of Six/Five Nations, Great League of Peace)",
+  "region": [
+    "North America"
+  ],
+  "date_range": null,
+  "patronage_edges": [],
+  "notes": "Founding date is genuinely and actively disputed among named scholars, not a settled fact — see claim_haudenosaunee_founding_dispute; date_range is deliberately left null on this entity rather than asserting any single figure. The Great Law of Peace (Kaianereʼkó:wa) is characterized by legal scholarship as inseparably legal and spiritual/cosmological (Kayanesenh Paul Williams, Kayanerenkó:wa: The Great Law of Peace, University of Manitoba Press, 2018) — brought per tradition by the Peacemaker (Dekanawidah) and his spokesman Hiawatha, encoded on wampum belts as mnemonic/ceremonial devices, not merely legislative text. First rendered into written English form only in the 1880s-1916 (Seth Newhouse manuscript, not formally chiefs-approved; later versions by John Buck/John Gibson/Albert Cusick; standard published English edition by Arthur C. Parker, Seneca ethnologist, 1916) — a late, contested written codification of a much older oral/wampum tradition."
+}

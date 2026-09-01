@@ -1,0 +1,44 @@
+{
+  "id": "claim_denetdale_colonial_governance_critique",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_dine",
+  "statement": "Jennifer Nez Denetdale, \"Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition,\" Wicazo Sa Review 21(1) (2006): 9-28 [CRITICAL INDIGENOUS/FEMINIST], argues the current Navajo Nation government's patriarchal exclusion of women from its highest offices (no woman has ever been elected Navajo Nation Council Chair or President; women were not extended the vote in Navajo Nation elections until 1928) is a specifically colonial/settler imposition — the US-imposed 1923 tribal-council model, created originally to certify oil and gas leases — laid over, and actively distorting, an indigenous kinship-based system of authority that traditional ethnography (Kluckhohn and Leighton, 1946/1974) documents as matrilineal/matrilocal with real, if informal, female decision-making authority.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1923,
+    "latest": 2006,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Denetdale, Jennifer Nez. \"Chairmen, Presidents, and Princesses: The Navajo Nation, Gender, and the Politics of Tradition.\" Wicazo Sa Review 21(1), 2006: 9-28.",
+      "author": "Jennifer Nez Denetdale",
+      "year": 2006,
+      "venue": "Wicazo Sa Review",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

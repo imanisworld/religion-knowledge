@@ -1,0 +1,46 @@
+{
+  "id": "claim_jesuit_reductions_bandeirante_slaving",
+  "subject_type": "Culture",
+  "subject_id": "cul_guarani",
+  "statement": "The Jesuit Reductions (semi-autonomous mission towns, established beginning c. 1609/1610 in the Paraná/Uruguay river basins) provided real, quantifiable protection from Portuguese bandeirante slave-raiding: between 1627-1640, an estimated 100,000 people were captured from the Guairá, Tape, and Itatín missions (~7,143/year); by 1632, roughly 12,000 Guarani had been forcibly displaced south and Guairá was effectively depopulated. Jesuits subsequently armed Guarani communities for self-defense; the Battle of Mbororé is recorded as the first decisive Guarani/Jesuit victory over Paulista slavers. Barbara Ganson, The Guaraní Under Spanish Rule in the Río de la Plata (Stanford University Press, 2003) — winner of the 2005 Murdo J. MacLeod Book Prize and a 2003 Choice Outstanding Academic Title — argues the Guarani were active agents shaping their own destiny under the mission system across the 16th-early 19th centuries, not passive victims of either colonialism or Jesuit paternalism. The popular film \"The Mission\" (1986) is documented (per dedicated academic film-history treatment) to romanticize Jesuit opposition to slavery generally — historically Jesuits raised limited or no objection to African slavery, and mission finances partly depended on estates using enslaved labor — and to compress over 100 years of mission history into roughly one dramatized year, largely omitting Guarani agency; the honest historical position sits between the film's romanticized \"protective sanctuary\" narrative and a flat \"just another colonial imposition\" reading.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1609,
+    "latest": 1767,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ganson, Barbara. The Guaraní Under Spanish Rule in the Río de la Plata. Stanford: Stanford University Press, 2003.",
+      "author": "Barbara Ganson",
+      "year": 2003,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the Jesuit Reductions were either a purely protective sanctuary (the romanticized popular-film reading) or a purely coercive colonial imposition with no real protective function or Guarani agency — Ganson's scholarship documents both real protection from slaving and real, ongoing Guarani agency within a genuinely constrained system"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

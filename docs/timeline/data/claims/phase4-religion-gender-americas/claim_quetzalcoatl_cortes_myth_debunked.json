@@ -1,0 +1,59 @@
+{
+  "id": "claim_quetzalcoatl_cortes_myth_debunked",
+  "subject_type": "Deity",
+  "subject_id": "dty_quetzalcoatl",
+  "statement": "The popular narrative that Moctezuma II mistook Hernán Cortés for a returning Quetzalcoatl is now treated by leading specialists as a post-conquest invention, not a contemporary pre-conquest belief. Camilla Townsend (Malintzin's Choices, University of New Mexico Press, 2006; Fifth Sun: A New History of the Aztecs, Oxford University Press, 2019) argues the \"returning lord\" prophecy has no verifiable pre-conquest textual or oral basis; the earliest written linkage of Cortés to Quetzalcoatl appears in Francisco López de Gómara's 1552 chronicle — three decades after the conquest — and the narrative crystallized further through Franciscan missionary reinterpretation in the 1530s-1550s, merging with Cortés's own self-serving rendering of Moctezuma's welcome speech. Matthew Restall (Seven Myths of the Spanish Conquest, Oxford University Press, 2003) independently identifies this as one of the core debunked myths of conquest historiography. This is now mainstream/majority specialist opinion, not a fringe revision.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_WRITTEN_ATTESTATION",
+  "date": {
+    "earliest": 1521,
+    "latest": 1552,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "Mesoamerica"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Townsend, Camilla. Fifth Sun: A New History of the Aztecs. Oxford: Oxford University Press, 2019.",
+      "author": "Camilla Townsend",
+      "year": 2019,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Restall, Matthew. Seven Myths of the Spanish Conquest. Oxford: Oxford University Press, 2003; updated ed. 2021.",
+      "author": "Matthew Restall",
+      "year": 2003,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That the \"Quetzalcoatl returning\" belief was a genuine pre-conquest Mexica expectation, as opposed to a narrative that crystallized in Spanish/missionary sources decades after the conquest"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

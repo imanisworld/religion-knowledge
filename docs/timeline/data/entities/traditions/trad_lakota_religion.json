@@ -1,0 +1,55 @@
+{
+  "id": "trad_lakota_religion",
+  "name": "Lakota traditional religion",
+  "category_tags": [
+    "animism",
+    "panentheism",
+    "mixed"
+  ],
+  "region": [
+    "North America"
+  ],
+  "dating": {
+    "dating_summary": "Multiple independent lines of evidence sit on different timescales that do not cleanly reconcile: archaeology of pipe ceremonialism generally spans millennia and long predates the Lakota division specifically (which controlled the Pipestone quarry only from c. 1700); the tradition's own internal winter-count dating places the founding White Buffalo Calf Woman narrative at roughly 900 CE; and the best-attested layer of the written corpus (the Black Elk material) is itself a documented case of significant 20th-century editorial mediation and distortion.",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": -1500,
+        "latest": 1700,
+        "precision": "MILLENNIUM"
+      },
+      "note": "Ceremonial pipe-smoking with carved stone pipes is attested in the northern Plains archaeological record from roughly 1500 BCE onward (general regional tradition); the Pipestone (catlinite) quarry in Minnesota shows use from at least the Middle Woodland period (c. 200 BCE-400 CE), with Sioux control of the quarry area only from c. 1700 CE. This dates the material culture of pipe ceremonialism generally, not the specific White Buffalo Calf Woman narrative or Wakȟáŋ Tȟáŋka concept, which are not archaeologically datable."
+    },
+    "earliest_written_attestation": {
+      "range": null,
+      "note": "No specific date for the earliest outsider documentation of Lakota religious practice specifically (as opposed to general Sioux contact accounts from the 17th century onward) was confirmed in this research pass — flagged as needing further sourcing."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1932,
+        "latest": 1984,
+        "precision": "CENTURY"
+      },
+      "note": "The core published corpus for Lakota theology exists in two documented, materially different forms: John G. Neihardt, Black Elk Speaks (1932), a heavily edited literary rendering; and Raymond J. DeMallie, ed., The Sixth Grandfather: Black Elk's Teachings Given to John G. Neihardt (University of Nebraska Press, 1984), which first published the original 1931/1944 stenographic interview transcripts and demonstrates Neihardt selectively shaped the material (e.g. toward \"a less militant cast\"). DeMallie explicitly warns against using Neihardt's published books as a sole source for Lakota religion. A separate mediation event, Joseph Epes Brown, The Sacred Pipe: Black Elk's Account of the Seven Rites of the Oglala Sioux (University of Oklahoma Press, 1953), carries its own distinct caveats and should not be conflated with the Neihardt/DeMallie case."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "Not applicable — an oral tradition with no composition event analogous to a written text.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": {
+        "earliest": 900,
+        "latest": 900,
+        "precision": "CENTURY"
+      },
+      "note": "The Battiste Good winter count (a Lakota pictographic year-count record) places the White Buffalo Calf Woman/Sacred Pipe origin event at roughly 900 CE (\"19 generations ago\" in oral retellings) — the tradition's own internal dating mechanism, not externally corroborated."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Unresolvable to a specific date beyond the material-culture anchor above; the pipe-ceremonialism archaeological record long predates any specific attachment to the Lakota division, which only controlled Pipestone from c. 1700.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Category tags deliberately avoid the popular \"Great Spirit = monotheism\" gloss. Named sourcing (William K. Powers, Oglala Religion, University of Nebraska Press, 1977/1982; James R. Walker, Lakota Belief and Ritual, ed. DeMallie and Jahner, University of Nebraska Press, 1980/1991) records Wakȟáŋ Tȟáŋka as \"Tobtob Kin\" (\"the four times four\" — sixteen distinct sacred entities/aspects simultaneously described as \"one\") — a unified-multiplicity structure, not an anthropomorphic single deity comparable to the Christian God; \"Great Mystery\" is judged by specialists a more accurate rendering than \"Great Spirit,\" which is flagged as a post-contact, missionary-influenced reading. Per this sourcing, Wakȟáŋ Tȟáŋka is modeled here as a pervasive sacred-power CONCEPT within the tradition rather than as a standalone Deity entity (see §Deities below)."
+}

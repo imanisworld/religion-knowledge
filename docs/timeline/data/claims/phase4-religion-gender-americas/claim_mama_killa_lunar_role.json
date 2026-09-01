@@ -1,0 +1,42 @@
+{
+  "id": "claim_mama_killa_lunar_role",
+  "subject_type": "Deity",
+  "subject_id": "dty_mama_killa",
+  "statement": "Mama Killa (\"Mother Moon\") is documented as goddess of the moon, marriage, and the menstrual cycle, \"defender of women,\" central to the lunar calendar used alongside the solar calendar for ritual timing, served by dedicated priestesses, and represented as a silver disk (silver read as her tears, as gold was read as Inti's sweat/domain). Associated with lunar-eclipse mythology: eclipses were interpreted as an animal (mountain lion or serpent) attacking Mama Killa, with noise and gestures made to drive it off. Her precise genealogical relationship to Inti and to Manco Cápac/Mama Ocllo is inconsistently reported across sources (sister-and-wife of Inti and daughter of Viracocha in some tellings; parent of Manco Cápac and Mama Ocllo in others, conflicting with the more commonly cited version where Inti and Mama Killa are the parents) — reported here as unresolved variation across different chronicler traditions rather than adjudicated to one version.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "South America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General convergent tertiary/encyclopedic sourcing on Mama Killa's lunar-calendar role, priestess service, and eclipse mythology.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "A single, resolved genealogical relationship between Mama Killa, Inti, and the founding pair Manco Cápac/Mama Ocllo — the sources disagree and this project reports that disagreement rather than picking a winner"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

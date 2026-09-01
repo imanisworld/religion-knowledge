@@ -1,0 +1,57 @@
+{
+  "id": "claim_sun_dance_suppression_revival",
+  "subject_type": "Tradition",
+  "subject_id": "trad_lakota_religion",
+  "statement": "The Sun Dance (Wiwáŋyaŋg Wačhípi) was formally banned by the US federal government via the Code of Indian Offenses (1883, promulgated by Secretary of the Interior Henry M. Teller), enforced by Bureau of Indian Affairs Courts of Indian Offenses (Native judges appointed by federal agents) using force, imprisonment, and ration withholding. Partial administrative reversal came via Commissioner of Indian Affairs John Collier's Circular No. 2970, \"Indian Religious Freedom and Indian Culture\" (31 January 1934), directing that \"no interference with Indian religious life or ceremonial expression will hereafter be tolerated\" — but this was an executive circular, not statutory law, and a documented enforcement gap persisted: a 1971 arrest of Oglala Sioux on Pine Ridge for holding an \"illegal Sun Dance\" shows the 1934 circular did not fully resolve legal exposure. Full statutory religious-freedom protection for Native ceremonial practice came only with the American Indian Religious Freedom Act (AIRFA), 1978 — 95 years after the original ban. This is a documented parallel to the Australia batch's Protection Acts/Hermannsburg suppression material: colonial/federal suppression of a specific named ceremony, followed by a documented, dated legal path to (partial, then fuller) restoration.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1883,
+    "latest": 1978,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "\"The Code of Indian Offenses,\" 1883, Bureau of Indian Affairs administrative-code history; corroborated by Teaching American History, \"Courts of Indian Offenses.\"",
+      "author": null,
+      "year": 1883,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "American Indian Religious Freedom Act, 1978 (Pub. L. 95-341).",
+      "author": null,
+      "year": 1978,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

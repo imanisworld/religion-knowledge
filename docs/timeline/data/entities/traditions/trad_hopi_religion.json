@@ -1,0 +1,52 @@
+{
+  "id": "trad_hopi_religion",
+  "name": "Hopi religion",
+  "category_tags": [
+    "animism",
+    "polytheism",
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "North America"
+  ],
+  "dating": {
+    "dating_summary": "General kiva ceremonial architecture in the Ancestral Puebloan archaeological record dates to c. 500 CE onward (regional, not Hopi-specific); evidence specifically tied to the katsina cult as a distinguishable religious complex is later and archaeologically debated, argued by E. Charles Adams to emerge/spread around the 14th century. First European documentary contact is 1540 (military encounter, not ethnography); no indigenous manuscript tradition exists, and the tradition remains a living, continuously practiced oral/ceremonial system.",
+    "earliest_archaeological_evidence": {
+      "range": {
+        "earliest": 500,
+        "latest": 1300,
+        "precision": "MILLENNIUM"
+      },
+      "note": "Kiva architecture (ceremonial room structures) is traceable in the Ancestral Puebloan record to c. 500 CE (Basketmaker-era communal pithouses), with dedicated kiva structures separate from living quarters emerging by the Pueblo I period (750-900 CE) — general regional religious architecture, not proof of Hopi-specific katsina practice. E. Charles Adams, The Origin and Development of the Pueblo Katsina Cult (University of Arizona Press, 1991), argues for katsina-cult emergence specifically around the 14th century, based on research at Homolʼovi-area pueblos considered Hopi-ancestral — contested/actively researched, not settled consensus."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1540,
+        "latest": 1540,
+        "precision": "YEAR"
+      },
+      "note": "Pedro de Tovar's detachment from the Coronado expedition (with Fray Juan de Padilla) reached \"Tusayán\" (Hopi country) in July 1540, documented in the Castañeda narrative (published by George Parker Winship, 14th Annual Report of the Bureau of Ethnology, Smithsonian, 1892-93) — first European documentary contact, not ethnography of religious practice specifically."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "No indigenous written manuscript tradition exists; Hopi religion is fundamentally oral. The closest candidates are outsider ethnographic transcriptions (H.R. Voth, Jesse Walter Fewkes, early 20th century) whose production is itself part of the restricted-knowledge/consent controversy documented in this batch — see claim_katsina_restriction_and_ethnographic_controversy."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "Not applicable in the textual sense.",
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Emergence through a sequence of prior worlds (three earlier worlds destroyed due to human corruption) into the current Fourth World (Tuwaqachi), via a place of emergence, the Sipapuni, identified in tradition with a travertine spring-dome on the Little Colorado River. Clan migrations followed emergence, converging at the Hopi mesas; every kiva floor contains a small sipapu opening ritually re-instantiating the emergence threshold."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "No scholarly consensus date found for the oral migration narrative's origin independent of the archaeological katsina-cult dating above.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "Old Oraibi's popular claim to be \"the oldest continuously inhabited settlement in the US\" is a contested tourism superlative with a real competing claimant (Acoma Pueblo) and no precise scholarly founding date — see claim_old_oraibi_dating_contested. Katsinam (spirit beings central to Hopi religion, embodied by masked dancers, teaching a moral/pedagogical role) are one of the most documented cases of formally restricted Indigenous religious knowledge in North American ethnography; per this project's ethical constraint, this batch reports only the general, uncontroversially-published structural facts about katsinam as a category and the documented history of restriction/controversy itself, and deliberately does not enumerate specific named katsinas, ceremonial procedure, or kiva-society initiation content — see claim_katsina_restriction_and_ethnographic_controversy. No Deity/Being entities are modeled for this culture in this batch as a result."
+}

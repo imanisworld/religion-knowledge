@@ -1,0 +1,77 @@
+{
+  "id": "claim_dine_migration_dating",
+  "subject_type": "Culture",
+  "subject_id": "cul_dine",
+  "statement": "Diné (Navajo) arrival in the Southwest is genuinely contested and should be reported as a range with named methods, not a single date. Linguistic/glottochronological estimates (Harry Hoijer, 1956; Dell Hymes, 1957, building on Edward Sapir's 1915 Proto-Athabaskan phonology) place divergence of Proto-Apachean from Northern Athabaskan at roughly 1000-1300 years BP, with internal Apachean divergence roughly 400-600 years BP — glottochronology as a method is itself contested within historical linguistics generally. Archaeological consensus (Ronald H. Towner, Defending Dinétah: Pueblitos in the Ancestral Navajo Homeland, University of Utah Press, 2003, based on dendrochronological survey) finds no confidently-dated Apachean evidence in the Southwest predating c. 1500-1525, with the earliest Dinétah-phase forked-stick hogans clustering mid-16th century, though some tree-ring samples project occupation back to c. 1450. The harder archaeological/dendrochronological evidence clusters c. 1450-1525; linguistic dating is compatible but less precise and methodologically disputed.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": 1450,
+    "latest": 1525,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z7",
+  "region": [
+    "North America"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Linguistic/glottochronological estimates (Hoijer 1956; Hymes 1957) suggest an earlier divergence window (roughly 1000-1300 years BP for Proto-Apachean) than the archaeological/dendrochronological floor (Towner 2003), which finds no confidently-dated Navajo presence in the Southwest earlier than c. 1450-1525; the two methods are not fully reconciled.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Towner, Ronald H. Defending Dinétah: Pueblitos in the Ancestral Navajo Homeland. Salt Lake City: University of Utah Press, 2003.",
+      "author": "Ronald H. Towner",
+      "year": 2003,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Proto-Apachean diverged from Northern Athabaskan roughly 1000-1300 years BP, implying an earlier Southwest arrival window than the archaeological record alone supports",
+      "holders": [
+        {
+          "name": "Harry Hoijer",
+          "work": "glottochronological analysis, 1956",
+          "year": 1956,
+          "camp": "LINGUISTIC/GLOTTOCHRONOLOGICAL SCHOOL"
+        },
+        {
+          "name": "Dell Hymes",
+          "work": "1957",
+          "year": 1957,
+          "camp": "LINGUISTIC/GLOTTOCHRONOLOGICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "Builds on Edward Sapir's 1915 Proto-Athabaskan phonological reconstruction to estimate a divergence date independent of archaeological preservation bias.",
+      "status": "MINORITY"
+    },
+    {
+      "position": "No confidently-dated Apachean archaeological evidence in the Southwest predates c. 1450-1525; earlier dates are not empirically supported",
+      "holders": [
+        {
+          "name": "Ronald H. Towner",
+          "work": "Defending Dinétah, University of Utah Press, 2003",
+          "year": 2003,
+          "camp": "DENDROCHRONOLOGICAL/ARCHAEOLOGICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "Tree-ring-dated forked-stick hogans provide a direct, checkable material floor, unlike glottochronology's contested rate assumptions.",
+      "status": "MAJORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}
