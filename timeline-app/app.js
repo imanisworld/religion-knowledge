@@ -71,7 +71,8 @@
     if (year <= -10_000) {
       const years = Math.abs(year);
       if (years >= 1_000_000) return `≈${trimNumber(years / 1_000_000)} million years ago`;
-      return `≈${Math.round(years / 1000) * 1000.toLocaleString?.() || years.toLocaleString()} years ago`;
+      const rounded = Math.round(years / 1000) * 1000;
+      return `≈${rounded.toLocaleString()} years ago`;
     }
     if (year < 0) return `${Math.abs(Math.trunc(year)).toLocaleString()} BCE`;
     if (year === 0) return '1 BCE / 1 CE boundary';
@@ -329,7 +330,7 @@
         <div class="detail-card"><span>Date semantics</span><strong>${escapeHtml(humanize(claim.date_semantics || 'Unknown'))}</strong></div>
       </div>
       <section class="detail-section"><h3>What the claim says</h3><p>${escapeHtml(claim.statement || '')}</p><span class="status-chip">${escapeHtml(claim.status || 'unknown')}</span><span class="status-chip">${escapeHtml((claim.region || []).join(' · ') || 'Region unknown')}</span>${(claim.evidence_types || []).map((type) => `<span class="status-chip">${escapeHtml(humanize(type))}</span>`).join('')}</section>
-      ${claim.scholarship_disagreement ? `<section class="detail-section"><h3>Scholarly disagreement</h3><p>${escapeHtml(String(claim.scholarship_disagreement))}</p></section>` : ''}
+      ${claim.scholarly_disagreement ? `<section class="detail-section"><h3>Scholarly disagreement</h3><p>${escapeHtml(String(claim.scholarly_disagreement))}</p></section>` : ''}
       ${interpretations.length ? `<section class="detail-section"><h3>Interpretations</h3>${interpretations.map((item) => `<div class="source-card"><strong>${escapeHtml(item.position || 'Interpretation')}</strong>${item.strongest_case ? `<p>${escapeHtml(item.strongest_case)}</p>` : ''}${item.status ? `<div class="source-meta">${escapeHtml(item.status)}</div>` : ''}</div>`).join('')}</section>` : ''}
       ${limits.length ? `<section class="detail-section"><h3>What this does not demonstrate</h3><ul>${limits.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}</ul></section>` : ''}
       ${claim.adversarial_counter ? `<section class="detail-section"><h3>Strongest counter / complication</h3><p>${escapeHtml(typeof claim.adversarial_counter === 'string' ? claim.adversarial_counter : JSON.stringify(claim.adversarial_counter))}</p></section>` : ''}
