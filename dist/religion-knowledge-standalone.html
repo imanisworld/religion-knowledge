@@ -61831,6 +61831,80 @@ window.RELIGION_KNOWLEDGE_SOURCE_URIS = {"Bible_Deep_Dive_Master_Notes.md":"data
   });
 })();
 
+/* App chrome/accessibility hardening. This script intentionally runs after app.js
+   so it can expose state without changing routing or data behavior. */
+(() => {
+  const search = document.getElementById('search-input');
+  const topicSearch = document.getElementById('topic-search');
+  const filterButton = document.getElementById('filter-button');
+  const recordDialog = document.getElementById('record-dialog');
+  const segmented = document.querySelector('.segmented[role="tablist"]');
+  const aiButtons = [...document.querySelectorAll('[data-ai]')];
+  const navItems = [...document.querySelectorAll('.nav-item[data-view]')];
+  const moreButton = document.getElementById('nav-more');
+  const themeButton = document.getElementById('theme-toggle');
+  const themeMeta = document.querySelector('meta[name="theme-color"]');
+  const media = window.matchMedia('(prefers-color-scheme: dark)');
+  const hiddenBottomViews = new Set(['topics', 'questions', 'sources', 'ai', 'compare', 'positions']);
+
+  if (search && !search.getAttribute('aria-label')) search.setAttribute('aria-label', 'Search notes, topics, and sources');
+  if (topicSearch && !topicSearch.getAttribute('aria-label')) topicSearch.setAttribute('aria-label', 'Filter topics');
+  if (filterButton && !filterButton.getAttribute('aria-controls')) filterButton.setAttribute('aria-controls', 'filter-panel');
+  if (recordDialog && !recordDialog.getAttribute('aria-labelledby')) recordDialog.setAttribute('aria-labelledby', 'dialog-title');
+
+  if (segmented) {
+    segmented.setAttribute('role', 'group');
+    aiButtons.forEach((button) => button.setAttribute('aria-pressed', String(button.classList.contains('active'))));
+    const syncAi = () => aiButtons.forEach((button) => button.setAttribute('aria-pressed', String(button.classList.contains('active'))));
+    const aiObserver = new MutationObserver(syncAi);
+    aiButtons.forEach((button) => aiObserver.observe(button, { attributes: true, attributeFilter: ['class'] }));
+  }
+
+  const syncNav = () => {
+    const activeView = document.querySelector('.view.active')?.id?.replace(/^view-/, '') || 'home';
+    navItems.forEach((item) => {
+      const current = item.dataset.view === activeView;
+      if (current) item.setAttribute('aria-current', 'page');
+      else item.removeAttribute('aria-current');
+    });
+    if (moreButton) {
+      const current = hiddenBottomViews.has(activeView);
+      moreButton.classList.toggle('active', current);
+      if (current) moreButton.setAttribute('aria-current', 'page');
+      else moreButton.removeAttribute('aria-current');
+    }
+  };
+  syncNav();
+  const navObserver = new MutationObserver(syncNav);
+  document.querySelectorAll('.view').forEach((view) => navObserver.observe(view, { attributes: true, attributeFilter: ['class'] }));
+
+  const effectiveTheme = () => {
+    const explicit = document.documentElement.dataset.theme;
+    if (explicit === 'dark' || explicit === 'light') return explicit;
+    return media.matches ? 'dark' : 'light';
+  };
+  const sunIcon = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>';
+  const moonIcon = '<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20.5 14A8.5 8.5 0 0 1 10 3.5 8.5 8.5 0 1 0 20.5 14Z"/></svg>';
+  const syncTheme = () => {
+    if (!themeButton) return;
+    const dark = effectiveTheme() === 'dark';
+    const next = dark ? 'light' : 'dark';
+    themeButton.innerHTML = dark ? sunIcon : moonIcon;
+    themeButton.setAttribute('aria-label', `Switch to ${next} mode`);
+    themeButton.setAttribute('title', `Switch to ${next} mode`);
+    themeButton.setAttribute('aria-pressed', String(dark));
+    if (themeMeta) themeMeta.setAttribute('content', dark ? '#10130F' : '#EDEFEC');
+  };
+  syncTheme();
+  new MutationObserver(syncTheme).observe(document.documentElement, { attributes: true, attributeFilter: ['data-theme'] });
+  if (typeof media.addEventListener === 'function') media.addEventListener('change', syncTheme);
+
+  const searchIcon = '<svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.7-3.7"/></svg>';
+  document.querySelectorAll('.search-box > span[aria-hidden="true"]').forEach((icon) => {
+    if (icon.textContent.trim() === '⌕') icon.innerHTML = searchIcon;
+  });
+})();
+
 </script>
 </body>
 </html>
