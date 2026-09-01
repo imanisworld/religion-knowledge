@@ -43,6 +43,10 @@ async function readJson(file) {
   return JSON.parse(await fs.readFile(file, 'utf8'));
 }
 
+function sourcePath(file) {
+  return path.relative(ROOT, file).split(path.sep).join('/');
+}
+
 function dateStart(record) {
   const date = record?.date || record?.date_range || record?.period || null;
   return Number.isFinite(date?.earliest) ? date.earliest : Number.POSITIVE_INFINITY;
@@ -58,7 +62,7 @@ for (const file of entityFiles) {
   const parent = path.basename(path.dirname(file));
   const entityType = ENTITY_TYPES.get(parent) || parent;
   for (const record of records) {
-    entities.push({ ...record, _entity_type: entityType, _source_path: path.relative(ROOT, file) });
+    entities.push({ ...record, _entity_type: entityType, _source_path: sourcePath(file) });
   }
 }
 
@@ -67,7 +71,7 @@ for (const file of claimFiles) {
   const value = await readJson(file);
   const records = Array.isArray(value) ? value : [value];
   for (const record of records) {
-    claims.push({ ...record, _source_path: path.relative(ROOT, file) });
+    claims.push({ ...record, _source_path: sourcePath(file) });
   }
 }
 
@@ -78,7 +82,7 @@ const statuses = Object.create(null);
 for (const claim of claims) statuses[claim.status || 'UNKNOWN'] = (statuses[claim.status || 'UNKNOWN'] || 0) + 1;
 
 const payload = {
-  generated_at: new Date().toISOString(),
+  format_version: 1,
   source: 'docs/timeline/data',
   entities,
   claims,
