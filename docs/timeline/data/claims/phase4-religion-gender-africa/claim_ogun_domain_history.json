@@ -1,0 +1,42 @@
+{
+  "id": "claim_ogun_domain_history",
+  "subject_type": "Deity",
+  "subject_id": "dty_ogun",
+  "statement": "Ògún is consistently sourced as patron of iron-working, hunting, and war from an early period, with the domain demonstrably expanding over time to cover new iron/steel-adjacent technologies. Sandra T. Barnes, ed., Africa's Ogun: Old World and New (Indiana UP, 1989/1997), the standard interdisciplinary scholarly volume, is explicitly organized around this transformation-across-manifestations thesis. A popular (non-academic) claim that Ògún was a historicized Ifè king could not be verified against any academic source in this research pass — contrast with Ṣàngó, whose historicization is well-attested in named academic literature; do not report the Ògún claim with comparable confidence.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Barnes, Sandra T., ed. Africa's Ogun: Old World and New. Indiana University Press, 1989/2nd ed. 1997.",
+      "author": null,
+      "year": 1997,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Ògún was a historicized Ifè king — a popular, non-academically-sourced claim distinct from Ṣàngó's well-attested historicization case"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,50 @@
+{
+  "id": "trad_kongo_traditional_religion",
+  "name": "Pre-Christian Kongo religion (Nzambi/bisimbi/minkisi)",
+  "category_tags": [
+    "mixed",
+    "ancestor_veneration"
+  ],
+  "region": [
+    "Central Africa"
+  ],
+  "dating": {
+    "dating_summary": "Nearly everything popularly stated about \"precolonial Kongo religion\" is actually late-19th/early-20th-century ethnography (the Laman manuscript collection, c. 1915, written by Protestant converts) or the missionary-syncretic vocabulary retrojected backward; treat pre-1483 Kongo religious content as substantially reconstructed, not directly documented.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "The Kongo Kingdom's traditional founding (Lukeni lua Nimi, c. 1390) rests on genealogical/oral reconstruction, not archaeology; no specific dated excavated site for pre-contact religious material culture was verified in this research pass."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1483,
+        "latest": 1491,
+        "precision": "DECADE"
+      },
+      "note": "Portuguese contact from 1483 (Diogo Cão); these are external/colonial observer accounts, not Kongo-authored texts, and post-date any actual founding of the religious system by an unknown span."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1915,
+        "latest": 1915,
+        "precision": "YEAR"
+      },
+      "note": "Karl Laman's ~10,000-page manuscript collection from Protestant converts, c. 1915 — over 400 years after first European contact, and already shaped by the missionary encounter."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "No single canonical origin narrative recoverable; oral traditions on kingdom founding vary by clan/dynastic line (Kimpanzu/Kinlaza/Kwilu)."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Jan Vansina's comparative-historical-linguistics/Bantu-expansion dating places the general ancestor-veneration/nkisi-type cultural substrate as considerably older than the Kongo kingdom itself, plausibly first-millennium-CE Bantu-speaking Central Africa — a linguistic-reconstruction inference, not a hard date.",
+      "confidence": "LOW"
+    }
+  },
+  "relationships": [],
+  "notes": "DISPUTED: whether Nzambi a Mpungu was originally a benevolent creator/sky-father (older ethnographic synthesis, e.g. Fu-Kiau) or originally a personification of death, with the life/creation valence instead carried by bisimbi (chthonic land/water spirit forces) — per Wyatt MacGaffey, \"Precolonial Beliefs in God, Nzambi, and Chthonic Beings: Evidence from Kongo Texts,\" Journal of Religion in Africa 52(1-2), 2022, using the Laman manuscripts. See claim_nzambi_meaning_disputed. \"Fetish\" (from Portuguese feitiço) is a documented colonial mistranslation of nkisi/minkisi — MacGaffey, \"Fetishism Revisited: Kongo Nkisi in Sociological Perspective,\" Africa journal."
+}

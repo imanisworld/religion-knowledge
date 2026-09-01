@@ -1,0 +1,65 @@
+{
+  "id": "claim_nzambi_meaning_disputed",
+  "subject_type": "Deity",
+  "subject_id": "dty_nzambi_mpungu",
+  "statement": "Whether Nzambi a Mpungu originally denoted a benevolent creator/sky-father (the older ethnographic-synthesis reading, reflected in most popular sources) is disputed by Wyatt MacGaffey's most recent textual work. MacGaffey, \"Precolonial Beliefs in God, Nzambi, and Chthonic Beings: Evidence from Kongo Texts,\" Journal of Religion in Africa 52(1-2), 2022, using early-20th-century manuscripts by indigenous ethnographers drawing on Karl Laman's ~10,000-page manuscript collection (Protestant converts, c. 1915), argues Nzambi's original semantic field centered on death, with the life/creation valence instead carried by bisimbi (chthonic, land/water-associated spirit forces). The \"benevolent creator\" framing reflects the post-missionary Christianized gloss on Nzambi once the term was repurposed to translate the Christian God.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether Nzambi a Mpungu's original precolonial meaning centered on death (MacGaffey 2022) or was already a benevolent creator/sky-father (older ethnographic synthesis).",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "MacGaffey, Wyatt. \"Precolonial Beliefs in God, Nzambi, and Chthonic Beings: Evidence from Kongo Texts.\" Journal of Religion in Africa 52(1-2), 2022: 1-21.",
+      "author": "Wyatt MacGaffey",
+      "year": 2022,
+      "venue": "Journal of Religion in Africa",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "Nzambi a Mpungu was originally a personification of death; bisimbi carried the life/creation valence",
+      "holders": [
+        {
+          "name": "Wyatt MacGaffey",
+          "work": "Journal of Religion in Africa 52(1-2), 2022",
+          "year": 2022,
+          "camp": "ETHNOHISTORICAL-TEXTUAL SCHOOL"
+        }
+      ],
+      "strongest_case": "Direct textual analysis of the early-20th-century Laman manuscript collection, written by indigenous ethnographers close in time to living precolonial memory.",
+      "status": "MINORITY"
+    },
+    {
+      "position": "Nzambi a Mpungu was already a high-god/creator sky-father figure in the precolonial period",
+      "holders": [
+        {
+          "name": "Older ethnographic synthesis tradition, e.g. K.K. Bunseki Fu-Kiau",
+          "camp": "CLASSIC ETHNOGRAPHIC SCHOOL"
+        }
+      ],
+      "strongest_case": "This is the dominant framing across most 20th-century ethnography and remains the majority popular/reference-work position.",
+      "status": "MAJORITY"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

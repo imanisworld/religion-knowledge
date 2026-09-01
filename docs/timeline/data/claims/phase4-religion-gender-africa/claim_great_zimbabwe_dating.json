@@ -1,0 +1,45 @@
+{
+  "id": "claim_great_zimbabwe_dating",
+  "subject_type": "Polity",
+  "subject_id": "pty_great_zimbabwe_state",
+  "statement": "Chirikure, Pollard, Manyanga, and Bandama, \"A Bayesian Chronology for Great Zimbabwe: Re-threading the Sequence of a Vandalised Monument,\" Antiquity 87 (2013): 1-19, re-analyzes radiocarbon dates against limited surviving stratigraphy (much of the original stratigraphy was destroyed by Richard Nicklin Hall's 1902-4 excavation) plus datable imports, using Bayesian statistical modeling. Dry-stone-wall construction begins c. 1200 CE (later than the older, still-popular \"11th century\" framing, which better fits early settlement rather than stone building specifically), reaching architectural peak in the 14th-15th centuries, with occupation continuing into the 16th and possibly 17th century. Cross-dating evidence: imported Chinese porcelain/celadon, Persian faience, Arabian glass, and Indian glass beads, corroborating the medieval date range via the Sofala/Kilwa Indian Ocean gold-trade network — though a dedicated porcelain-typology publication was not independently verified in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_SURVIVING_EVIDENCE",
+  "date": {
+    "earliest": 1200,
+    "latest": 1550,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "ARCHAEOLOGY",
+    "SCIENTIFIC_ANALYSIS"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Chirikure, S., M. Pollard, M. Manyanga, and F. Bandama. \"A Bayesian Chronology for Great Zimbabwe: Re-threading the Sequence of a Vandalised Monument.\" Antiquity 87, 2013: 1-19.",
+      "author": "Chirikure et al.",
+      "year": 2013,
+      "venue": "Antiquity",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

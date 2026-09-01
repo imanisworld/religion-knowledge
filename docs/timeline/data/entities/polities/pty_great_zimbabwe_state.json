@@ -1,0 +1,15 @@
+{
+  "id": "pty_great_zimbabwe_state",
+  "name": "Great Zimbabwe (state)",
+  "region": [
+    "Southern Africa"
+  ],
+  "date_range": {
+    "earliest": 1200,
+    "latest": 1550,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "patronage_edges": [],
+  "notes": "Chirikure, Pollard, Manyanga, Bandama, \"A Bayesian Chronology for Great Zimbabwe: Re-threading the Sequence of a Vandalised Monument,\" Antiquity 87 (2013): 1-19 — modern methodological benchmark; stone construction begins c. 1200 CE (later than older \"11th century\" popular framing), architectural peak 14th-15th c., occupation continuing into 16th-17th c. Much original stratigraphy destroyed by Richard Nicklin Hall's 1902-4 excavation (funded by Cecil Rhodes/BSAC with an explicit brief to establish non-African origin) — flagged as a documented act of evidentiary destruction entangled with racist settler-colonial historiography, not a neutral methodological gap."
+}

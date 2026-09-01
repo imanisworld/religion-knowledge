@@ -1,0 +1,40 @@
+{
+  "id": "claim_nyame_titles",
+  "subject_type": "Deity",
+  "subject_id": "dty_nyame",
+  "statement": "The Akan supreme being carries multiple names/praise-titles used contextually rather than as fully interchangeable synonyms: Onyame (basic term for Deity), Onyankopon (\"the one who alone is great/Supreme One\"), Odomankoma (\"the Infinite/Interminable One,\" creator epithet), and Borebore (\"carver/excavator/originator\"). Source: J.B. Danquah's own tripartite distinction (The Akan Doctrine of God, 1944/2nd ed. 1968).",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Danquah, J.B. The Akan Doctrine of God: A Fragment of Gold Coast Ethics and Religion. 2nd ed., Frank Cass, 1968 (orig. 1944).",
+      "author": "J.B. Danquah",
+      "year": 1944,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Danquah (1895-1965) was himself an anticolonial lawyer/philosopher/politician (co-founder UGCC, died in Nkrumah-era detention), not a neutral ethnographer — per \"Joseph B. Danquah's The Akan Doctrine of God (1944): Anticolonial Fragments?\", Fighting Words, Peter Lang, 2017, he used monotheism/Greek philosophical categories as his comparative benchmark, underwriting a \"Ghana hypothesis\" for postcolonial Akan/Ghanaian identity — read as a documented early-20th-century interpretive/political source, not neutral description."
+}

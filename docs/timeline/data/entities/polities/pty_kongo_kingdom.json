@@ -1,0 +1,15 @@
+{
+  "id": "pty_kongo_kingdom",
+  "name": "Kingdom of Kongo",
+  "region": [
+    "Central Africa"
+  ],
+  "date_range": {
+    "earliest": 1390,
+    "latest": 1914,
+    "precision": "CENTURY",
+    "date_semantics": "TRADITION_INTERNAL_CLAIM"
+  },
+  "patronage_edges": [],
+  "notes": "Traditional founding account: Lukeni lua Nimi, c. 1390 (alternative account names Nimi a Nzima of Mpemba Kasi and Nsaku Lau of Mbata) — a genealogical/oral-traditional date, not archaeologically fixed. First Portuguese contact 1483 (Diogo Cão). John K. Thornton's body of work is the standard modern academic history."
+}

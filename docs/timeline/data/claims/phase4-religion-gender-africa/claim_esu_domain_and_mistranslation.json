@@ -1,0 +1,44 @@
+{
+  "id": "claim_esu_domain_and_mistranslation",
+  "subject_type": "Deity",
+  "subject_id": "dty_esu",
+  "statement": "Multiple sources converge on Samuel Ajayi Crowther's A Vocabulary of the Yoruba Language (1842/1843) as an early — possibly the first — instance of English-language missionary lexicography rendering Èṣù as \"Satan\"/\"devil.\" This is significant because Crowther was himself Yorùbá (a freed slave who became the first African Anglican bishop), meaning the mistranslation was propagated through native-speaker Christian scholarship under missionary institutional pressure, not purely imposed from outside. Subsequent 19th-20th century dictionaries followed this precedent. In Yorùbá cosmology, Èṣù functions as messenger/intermediary between Olódùmarè and both the other Òrìṣà and humanity, delivering sacrifices/prayers, and as an enforcer of divine law — morally neutral, not evil.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1843,
+    "latest": 1843,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "West Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Crowther, Samuel Ajayi. A Vocabulary of the Yoruba Language. London, 1843 (expanded ed. with Owen Vidal, 1852).",
+      "author": "Samuel Ajayi Crowther",
+      "year": 1843,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "This specific citation is repeated across several converging secondary sources (Guardian Nigeria, OkayAfrica, alamojayoruba.com) but none is a peer-reviewed academic citation independently verified page-by-page against the primary 1843/1852 text — flagged as needing a firmer check before treating as fully settled at HIGH confidence."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "pty_asante_empire",
+  "name": "Asante Empire",
+  "region": [
+    "West Africa"
+  ],
+  "date_range": {
+    "earliest": 1701,
+    "latest": 1901,
+    "precision": "YEAR",
+    "date_semantics": "EVENT_DATE"
+  },
+  "patronage_edges": [],
+  "notes": "Founded per Asante oral tradition under Osei Tutu I and priest Okomfo Anokye, conventionally c. 1701 (Battle of Feyiase against Denkyira); formally annexed as a British Crown colony/protectorate 1 January 1902. Ivor Wilks, Asante in the Nineteenth Century (Cambridge UP, 1975); T.C. McCaskie, State and Society in Pre-Colonial Asante (Cambridge UP, 1995)."
+}

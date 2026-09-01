@@ -1,0 +1,55 @@
+{
+  "id": "claim_nehanda_does_not_demonstrate",
+  "subject_type": "GenderSystem",
+  "subject_id": "gs_shona",
+  "statement": "Mbuya Nehanda (medium of the Nehanda mhondoro spirit) was a central religious-political leader of the 1896-97 First Chimurenga against British South Africa Company rule, executed 27 April 1898; her recorded declaration before execution (\"my bones will rise\") rests on a single surviving eyewitness account (Fr. Francis Richartz), and should be treated as resting on one source, likely embellished by later nationalist mythology, even though the execution and general resistance leadership role are not in dispute. Her case demonstrates a specific woman could and did hold the highest religious-political authority position available at a moment of national crisis, and that spirit mediumship was not gender-restricted at the top tier (mediums could be possessed by a spirit of either sex). It does NOT demonstrate that Shona women generally held political, legal, or economic equality — mediumship access ran through spiritual selection/possession, a fundamentally different channel of authority from ordinary secular political office, landholding, marriage law, or household headship, all structurally male-dominated in the same society and period.",
+  "claim_tier": "INTERPRETATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ranger, Terence. Revolt in Southern Rhodesia 1896-97: A Study in African Resistance. Heinemann, 1967.",
+      "author": "Terence Ranger",
+      "year": 1967,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Beach, David. \"An Innocent Woman, Unjustly Accused? Charwe, Medium of Nehanda Mhondoro Spirit, and the 1896-97 Central Shona Rising in Zimbabwe.\" 1998.",
+      "author": "David Beach",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "General political, legal, or economic equality for Shona women"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

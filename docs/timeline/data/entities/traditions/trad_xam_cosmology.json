@@ -1,0 +1,50 @@
+{
+  "id": "trad_xam_cosmology",
+  "name": "/Xam cosmology (Kaggen narratives)",
+  "category_tags": [
+    "animism",
+    "mixed"
+  ],
+  "region": [
+    "Southern Africa"
+  ],
+  "dating": {
+    "dating_summary": "Recorded 1870s-1880s from named /Xam informants (‡‡Kabbo, Dia!kwain, /A!kunta, /Han≠kass'o) by Wilhelm Bleek and Lucy Lloyd; the oral antecedents of this specific recorded content have no independently verified time-depth estimate by any named scholar — resist importing rock-art-age or population-genetic-age figures into a claim about this narrative content's age.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "No rock art panel has been securely, independently identified as depicting the Kaggen-eland narrative specifically (see trad claim on the shamanistic-interpretation dispute)."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1870,
+        "latest": 1884,
+        "precision": "DECADE"
+      },
+      "note": "Bleek and Lloyd notebooks, Cape Town, 1870s-1884; first major published selection Specimens of Bushman Folklore, 1911."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1870,
+        "latest": 1884,
+        "precision": "DECADE"
+      },
+      "note": "Roughly 13,000-15,000 pages of notebooks/transcriptions/drawings, now held across UCT, Iziko South African Museum, and the National Library of South Africa; UNESCO Memory of the World Register, 1997."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Narratives are framed as accounts of a mythic \"Early Race\" (ambiguous human-animal beings) — an internal mythological time-frame, not a historical founding-date claim."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "/Kaggen (Mantis), shapeshifting trickster-creator, morally ambiguous; the eland-creation narrative and the \"Girl of the Early Race who made the stars\" (Milky Way) narrative are both directly attested in the Bleek-Lloyd corpus. Extensive menarcheal-seclusion cosmology (girl equated with potency of new moon and !Khwa the Rain) documented by Roger Hewitt, Structure, Meaning and Ritual in the Narratives of the Southern San (1986). Distinct from Ju/'hoansi tradition below — do not merge."
+}

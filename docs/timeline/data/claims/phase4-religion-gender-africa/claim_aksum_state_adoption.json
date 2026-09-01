@@ -1,0 +1,45 @@
+{
+  "id": "claim_aksum_state_adoption",
+  "subject_type": "Tradition",
+  "subject_id": "trad_aksumite_christianity",
+  "statement": "A hard external terminus ante quem of 356 CE (Emperor Constantius II's letter to \"Aizanas and Sazanas,\" preserved in Athanasius's Apologia ad Constantium) confirms King Ezana was reigning and Christian by that date. The precise conversion year within the preceding mid-330s-340s CE window remains disputed, not fixed to a single scholarly-agreed year. Ezana's own coinage transitions from disc-and-crescent to an explicit cross, making Aksum one of the earliest states anywhere to place a Christian symbol on its own coinage — genuinely unusual, directly datable evidence of a ruler's own numismatic self-presentation of religious conversion. Whether the numismatic transition was abrupt or included transitional hybrid issues could not be resolved to academic-source confidence in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EARLIEST_WRITTEN_ATTESTATION",
+  "date": {
+    "earliest": 330,
+    "latest": 357,
+    "precision": "DECADE"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY",
+    "ARCHAEOLOGY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Athanasius, Apologia ad Constantium (preserving Constantius II's letter), c. 356/357 CE.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

@@ -1,0 +1,14 @@
+{
+  "id": "cul_xam",
+  "name": "/Xam",
+  "region": [
+    "Southern Africa"
+  ],
+  "date_range": {
+    "earliest": 1700,
+    "latest": 1910,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "notes": "A distinct San language/cultural group, Cape Colony region; the spoken /Xam language and its living tradition did not survive the early 20th century. Not interchangeable with \"San\" generally or with Ju/'hoansi — a genuinely distinct group, period, and evidentiary base (primarily the 1870s-1880s Bleek-Lloyd archive)."
+}

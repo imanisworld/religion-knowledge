@@ -1,0 +1,57 @@
+{
+  "id": "trad_shona_religion",
+  "name": "Shona religion (Mwari/mhondoro/vadzimu)",
+  "category_tags": [
+    "monolatry",
+    "ancestor_veneration"
+  ],
+  "region": [
+    "Southern Africa"
+  ],
+  "dating": {
+    "dating_summary": "The Mwari cult's documented, source-rich history begins with its 17th-18th century Rozvi (Changamire dynasty) association and Matopos/Njelele shrine geography; its presence at Great Zimbabwe specifically (13th-15th c.) during the site's floruit is an inference/extrapolation backward from later evidence, not independently evidenced from the site's own archaeological record — report as contested, not settled.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "No archaeological dating specific to the Njelele shrine site (as distinct from general Matopos-region settlement) was located in this research pass."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1570,
+        "latest": 1570,
+        "precision": "YEAR"
+      },
+      "note": "Portuguese-era sources document Mwari as the Mutapa state's tutelary/creator deity from the 16th-17th century (referenced via Portuguese missionary accounts, e.g. Dom Gonçalo da Silveira's 1570 mission); an exact earliest-dated primary citation using the specific term \"Mwari\" was not independently verified in this pass."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1896,
+        "latest": 1970,
+        "precision": "CENTURY"
+      },
+      "note": "Terence Ranger, Revolt in Southern Rhodesia 1896-97 (Heinemann, 1967); M.L. Daneel, The God of the Matopo Hills: An Essay on the Mwari Cult in Rhodesia (Mouton, 1970), based on 1965-67 fieldwork — the foundational modern academic study."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Some oral accounts place cult origin around a 14th-century \"Mbire\" migration narrative of Karanga clans from the Lake regions — self-reported, not independently corroborated."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "LOW"
+    }
+  },
+  "relationships": [
+    {
+      "edge_type": "PATRONAGE",
+      "target_id": "pty_great_zimbabwe_state",
+      "confidence": "DISPUTED",
+      "claim_id": "claim_mwari_great_zimbabwe_disputed"
+    }
+  ],
+  "notes": "DISPUTED relationship to Great Zimbabwe/Rozvi state power: Camp 1 (some earlier/popular accounts + the Mbire migration tradition) treats the cult as continuous with or originating at Great Zimbabwe; Innocent Pikirayi (The Zimbabwe Culture, AltaMira Press, 2001) cautions against reading the cult as a mere instrument of state power even in its later Rozvi-era form; David Beach argued documentary/oral linkage between the archaeological site and the cult during the site's 13th-15th c. floruit is weak; Richard Werbner (Kalanga fieldwork) argues the cult historically never was structurally bound to any specific state/polity at all. mhondoro (territorial ancestral spirits, ranked above vadzimu/ordinary family ancestors) mediate between Mwari and the living; see claim_nehanda_does_not_demonstrate for the 1896-97 First Chimurenga case."
+}

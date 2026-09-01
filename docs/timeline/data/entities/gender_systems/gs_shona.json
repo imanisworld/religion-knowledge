@@ -1,0 +1,162 @@
+{
+  "id": "gs_shona",
+  "culture_id": "cul_shona",
+  "region": [
+    "Southern Africa"
+  ],
+  "period": {
+    "earliest": 1700,
+    "latest": 1900,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Clear sexual division of labor: women performed the bulk of routine farming/cultivation, food processing, brewing, pottery, domestic labor; men handled cattle-herding, hunting, ironworking, and heavier land-clearing tasks. Cattle, the primary wealth/status marker, were male-controlled.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Everyculture.com ethnographic summary, consistent with Bourdillon 1976 and Schmidt 1992 general findings; not independently cross-checked against Bourdillon's full monograph text in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Formal chieftainship was overwhelmingly male; the Charewa chieftaincy (Mutoko district) is cited in the literature as one of the only recorded exceptions to female exclusion from political authority. Colonial administration (Native Commissioners) further entrenched, and in some cases retroactively invented, \"male-only\" succession norms with no precolonial precedent, erasing prior instances of women's political roles. Women held real but informal authority as mothers, as vatete (paternal aunts, with authority over brothers' children's upbringing/marriage), and as senior women over married daughters' households. Mbuya Nehanda, medium of the Nehanda mhondoro spirit, was a central religious-political leader of the 1896-97 First Chimurenga, executed 27 April 1898 — an exceptional case (see notes for the required does_not_demonstrate analysis), not evidence of general female political authority.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Terence Ranger, Revolt in Southern Rhodesia 1896-97: A Study in African Resistance. Heinemann, 1967.",
+          "author": "Terence Ranger",
+          "year": 1967,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "David Beach, \"An Innocent Woman, Unjustly Accused? Charwe, Medium of Nehanda Mhondoro Spirit, and the 1896-97 Central Shona Rising in Zimbabwe.\" 1998.",
+          "author": "David Beach",
+          "year": 1998,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Diana Jeater, Marriage, Perversion, and Power: The Construction of Moral Discourse in Southern Rhodesia, 1894-1930 (Oxford, Clarendon Press, 1993) is the standard academic source on colonial-era customary-law codification of marriage; Elizabeth Schmidt (1992, see ideological_patriarchy below) argues colonial \"customary law\" codification interacted with and worsened women's economic position, layering European patriarchal legal concepts atop Shona patrilineal structures — restricting women's mobility, independent trade, etc. This is documented for the colonial period specifically; direct-text verification of exact phrasing (e.g. a \"perpetual legal minor\" characterization) was not completed in this research pass.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Jeater, Diana. Marriage, Perversion, and Power: The Construction of Moral Discourse in Southern Rhodesia, 1894-1930. Oxford: Clarendon Press, 1993.",
+          "author": "Diana Jeater",
+          "year": 1993,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Patrilineal, patrilocal kinship system: at marriage, women moved into the husband's family homestead/lineage; descent, lineage headship, and household authority passed through the male line.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General ethnographic consensus, Bourdillon, M.F.C. The Shona Peoples. Mambo Press, 1976 (cited via secondary summary).",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "The roora/lobola (bride-wealth, typically cattle) system: rutsambo (paid first, establishing a husband's sexual rights) and roora (paid over time, establishing paternal rights to children) are documented marriage-transfer institutions. The degree to which this system was/is exploitative (invoked to assert ownership-like claims over a wife) is debated among contemporary Zimbabwean scholars; the basic institutional structure (patrilineal transfer via bride-wealth) is not disputed.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General Zimbabwean gender-scholarship literature on roora/lobola, including contemporary debate on the \"mapere/hyena\" metaphor.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "Elizabeth Schmidt, Peasants, Traders, and Wives: Shona Women in the History of Zimbabwe, 1870-1939 (Heinemann/Baobab Books/James Currey, 1992), argues women's status declined over the colonial period specifically because preexisting Shona patriarchal controls (over labor, marriage, sexuality) were reinforced by and interacted with an added layer of European colonial patriarchal structures (missionary education norms, colonial administrative law) — a dual-patriarchy thesis, not a claim colonialism created inequality from nothing.",
+      "confidence": "MODERATE",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Schmidt, Elizabeth. Peasants, Traders, and Wives: Shona Women in the History of Zimbabwe, 1870-1939. Portsmouth, NH: Heinemann; Harare: Baobab Books; London: James Currey, 1992.",
+          "author": "Elizabeth Schmidt",
+          "year": 1992,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Required does_not_demonstrate re: Mbuya Nehanda — her case demonstrates a specific woman could and did hold the highest religious-political authority position available at a moment of national crisis, and that spirit mediumship was not gender-restricted at the top tier (mediums could be possessed by a spirit of either sex). It does NOT demonstrate general political, legal, or economic equality for Shona women — mediumship access ran through spiritual selection, a fundamentally different channel from ordinary secular office, landholding, marriage law, or household headship, all structurally male-dominated in the same society per the dimensions above."
+  },
+  "notes": null
+}

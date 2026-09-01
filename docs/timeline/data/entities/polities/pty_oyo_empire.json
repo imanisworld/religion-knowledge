@@ -1,0 +1,15 @@
+{
+  "id": "pty_oyo_empire",
+  "name": "Oyo Empire",
+  "region": [
+    "West Africa"
+  ],
+  "date_range": {
+    "earliest": 1600,
+    "latest": 1836,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "patronage_edges": [],
+  "notes": "Robin Law, The Oyo Empire, c.1600-c.1836 (Oxford, Clarendon Press, 1977) — standard academic history, reconstructed from scarce written sources plus oral tradition. Probably West Africa's most powerful state through the late 17th-18th centuries; collapse/relocation to \"New Oyo\" at Ago-Oja associated with Aláàfin Atiba, 1820s-30s."
+}

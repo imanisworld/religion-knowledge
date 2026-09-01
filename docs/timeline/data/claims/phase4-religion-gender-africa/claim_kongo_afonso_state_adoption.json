@@ -1,0 +1,44 @@
+{
+  "id": "claim_kongo_afonso_state_adoption",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kongo_christianity",
+  "statement": "Afonso I (r. 1509-1542), not João I, durably established Christianity as Kongo's state religion: he declared traditional \"idol\" worship illegal, burned at least one traditional shrine/temple, built churches/schools in the provinces, and used Christian doctrines of primogeniture/divine right to strengthen his own succession claim against rival lineage contenders. His surviving correspondence (John K. Thornton, Afonso I Mvemba a Nzinga, King of Kongo: His Life and Correspondence, Hackett, 2020, trans. Luís Madureira) includes a series beginning 1526 protesting the escalating, increasingly uncontrolled Atlantic slave trade to King João III of Portugal — even while Afonso himself operated a regulated slave trade.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1509,
+    "latest": 1542,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Thornton, John K. Afonso I Mvemba a Nzinga, King of Kongo: His Life and Correspondence. Hackett Publishing, 2020.",
+      "author": "John K. Thornton",
+      "year": 2020,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "The commonly cited \"24 letters\" figure applies specifically to the 1526+ anti-slave-trade series; the total surviving correspondence collected in Thornton's 2020 volume may be larger — not independently verified against the book's table of contents."
+}

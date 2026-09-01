@@ -1,0 +1,54 @@
+{
+  "id": "trad_ifa_orisa",
+  "name": "Ifá / Òrìṣà tradition (Yoruba)",
+  "category_tags": [
+    "polytheism",
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "West Africa"
+  ],
+  "dating": {
+    "dating_summary": "Ifè was a functioning urban/religious center by 1200-1400 CE and the tradition's own oral corpus (Odù Ifá) locates origin there, but no archaeological find has been named-scholar-confirmed as Ifá divination practice specifically; the earliest substantive written attestation is mid-19th-century missionary/ethnographic (Crowther 1843; Ellis 1894; Johnson 1897/1921); the corpus itself is fundamentally oral, first systematically transcribed by Bascom (1950-51 fieldwork) and Abimbola (from the 1960s-70s) — treat pre-19th-century dating as genuinely open, not a settled figure.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Ilé-Ifè classical period (naturalistic bronze/terracotta art) dated c. 1200-1400 CE (Met Museum); no named excavation report ties a specific dated artifact to Ifá divination practice specifically."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1843,
+        "latest": 1843,
+        "precision": "YEAR"
+      },
+      "note": "Samuel Ajayi Crowther, A Vocabulary of the Yoruba Language (London, 1843; expanded ed. with Owen Vidal, 1852) is the earliest identified substantive written source; no confirmed pre-19th-century European account of Ifá/Òrìṣà worship specifically was located."
+    },
+    "surviving_manuscript_date": {
+      "range": null,
+      "note": "No manuscript tradition; oral corpus first systematically transcribed by William Bascom (fieldwork 1950-51) and Wande Abimbola (Ifá Divination Poetry, NOK, 1977)."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Odù Ifá locates origin at Ilé-Ifè, associated with Ọ̀rúnmìlà; some strands treat him as a primordial divinity, others as a historicized founding figure — internally contested within the tradition itself."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [
+    {
+      "edge_type": "SYNCRETISM",
+      "target_id": "pty_oyo_empire",
+      "confidence": "MODERATE",
+      "claim_id": "claim_ifa_oyo_patronage"
+    }
+  ],
+  "notes": "Named scholars: Wande Abimbola (Ifá Divination Poetry, NOK 1977) and William Bascom (Ifa Divination: Communication Between Gods and Men in West Africa, Indiana UP, 1969/1991) — the two standard 20th-century academic authorities, both working from live oral recitation."
+}

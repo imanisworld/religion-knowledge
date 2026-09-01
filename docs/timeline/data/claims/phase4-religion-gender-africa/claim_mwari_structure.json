@@ -1,0 +1,40 @@
+{
+  "id": "claim_mwari_structure",
+  "subject_type": "Deity",
+  "subject_id": "dty_mwari",
+  "statement": "Mwari (Mwali) is a high-god oracular tradition centered on the Matopo/Matobo Hills, principal historical shrine at Njelele (also Matonjeni; Shona Mabweadziva, \"place of spring waters\"), with a broader network of subsidiary shrines. The god's voice is delivered through mediums from within cave shrines; historically served both Shona/Kalanga and, after Ndebele settlement in the 1830s-40s, Ndebele consultors, especially for rainmaking and political counsel. M.L. Daneel, The God of the Matopo Hills: An Essay on the Mwari Cult in Rhodesia (Mouton, 1970), based on 1965-67 fieldwork, is the foundational modern academic study.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Daneel, M.L. The God of the Matopo Hills: An Essay on the Mwari Cult in Rhodesia. The Hague: Mouton, 1970.",
+      "author": "M.L. Daneel",
+      "year": 1970,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

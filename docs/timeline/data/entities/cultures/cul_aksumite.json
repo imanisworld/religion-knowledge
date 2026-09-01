@@ -1,0 +1,14 @@
+{
+  "id": "cul_aksumite",
+  "name": "Aksumite",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "date_range": {
+    "earliest": 1,
+    "latest": 700,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "notes": "The Kingdom of Aksum's population, modern Ethiopia/Eritrea highlands, roughly 1st-7th century CE. Distinct from the earlier Kingdom of D'mt (~8th-5th c. BCE) and from later medieval/early-modern Christian-Ethiopian (Amhara-highland) society, which is a separately-dated, better-documented topic not covered by this batch — see gs_aksumite notes."
+}

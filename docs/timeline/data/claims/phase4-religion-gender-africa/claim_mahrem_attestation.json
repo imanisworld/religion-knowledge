@@ -1,0 +1,55 @@
+{
+  "id": "claim_mahrem_attestation",
+  "subject_type": "Deity",
+  "subject_id": "dty_mahrem",
+  "statement": "Mahrem is attested via interpretatio graeca as \"Ares\" in the Monumentum Adulitanum (surviving only via Cosmas Indicopleustes's copy, made at Adulis c. 518-525 CE, published in his Christian Topography c. 547-549 CE — the original stone is lost and its own composition date is only estimated, 2nd-3rd century CE), and directly by name in King Ezana's own pre-Christian Ge'ez inscriptions (likely 330s CE), in which Aksumite kings style themselves \"son of the invincible Mahrem.\" Comparison to the South Arabian war god Almaqah is repeatedly made in secondary literature but the degree of identity is explicitly uncertain in the sources found.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "evidence_types": [
+    "INSCRIPTION"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Ezana's pre-Christian Ge'ez inscriptions (RIÉ 185 I/II = DAE 6-7).",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": true,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Cosmas Indicopleustes. Christian Topography (Monumentum Adulitanum copy), c. 547-549 CE.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": false,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [
+    "That Mahrem is simply equivalent to the South Arabian Almaqah — repeatedly asserted in secondary literature but not established with the degree of identity the comparison implies"
+  ],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

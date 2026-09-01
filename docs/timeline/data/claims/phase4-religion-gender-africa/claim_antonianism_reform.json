@@ -1,0 +1,44 @@
+{
+  "id": "claim_antonianism_reform",
+  "subject_type": "Tradition",
+  "subject_id": "trad_antonianism",
+  "statement": "Kimpa Vita (baptized Dona Beatriz), a young Kongolese noblewoman, claimed in 1704 to have died and been reincarnated/possessed by Saint Anthony of Padua, preaching that Jesus, Mary, and the saints were themselves Kongolese/African, and criticizing Italian Capuchin missionaries for excluding Black sainthood. Her movement arose amid civil wars over the Kongo throne following the 1665 Battle of Mbwila; John K. Thornton (The Kongolese Saint Anthony, Cambridge UP, 1998) reads it as substantially a peace movement functioning as \"something of a theocracy,\" aimed at ending the wars and restoring unified sacralized kingship — a REFORM of Kongo Christianity from within, not an import of a new tradition. She was executed by burning in 1706 on orders connected to King Pedro IV, with Capuchin missionary involvement in her heresy condemnation.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1704,
+    "latest": 1706,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Thornton, John K. The Kongolese Saint Anthony: Dona Beatriz Kimpa Vita and the Antonian Movement, 1684-1706. Cambridge University Press, 1998.",
+      "author": "John K. Thornton",
+      "year": 1998,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "No surviving African-authored primary source exists; the documentary record consists entirely of accounts by hostile Capuchin missionary witnesses (Bernardo da Gallo, Lorenzo da Lucca) — Thornton's methodological contribution is reading these \"against the grain.\""
+}

@@ -1,0 +1,162 @@
+{
+  "id": "gs_juhoansi",
+  "culture_id": "cul_juhoansi",
+  "region": [
+    "Southern Africa"
+  ],
+  "period": {
+    "earliest": 1950,
+    "latest": 1990,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "Men predominantly hunt, women predominantly gather, but gathered plant foods made up roughly two-thirds of caloric intake in Lee's Dobe-area data — women's labor was the larger single source of subsistence calories. Women are documented as owning/distributing meat as arrow-owners even without hunting themselves; female hunting occurs but is atypical (San-specific frequency not quantified in sources found). Women's central role in the healing dance (singers/clappers, and per Katz roughly 1/4 of healers) is a documented exception to a gathering-only framing.",
+      "confidence": "HIGH",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Lee, Richard B. The !Kung San: Men, Women, and Work in a Foraging Society. Cambridge University Press, 1979.",
+          "author": "Richard B. Lee",
+          "year": 1979,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "DISPUTED on two axes. Gender axis: Lorna Marshall's Nyae Nyae fieldwork documents headmen with no formal privileges, achieved (not inherited) status, and consensus decision-making in which women's voices are documented as part of the process — but headmen in recorded cases appear predominantly male; no documented female headman among Ju/'hoansi specifically was located. Structural-historical axis (the \"Kalahari Debate\"): Lee/DeVore/Solway treated observed egalitarianism as reflecting a foraging-adapted social system; Edwin Wilmsen (Land Filled with Flies, University of Chicago Press, 1989) and James Denbow argued the San had been enmeshed in regional trade/political relationships with Bantu agropastoralists for up to ~1,500 years and that observed \"egalitarianism\" partly reflects a historically produced underclass position, not a pristine foraging baseline; Lee and Solway later co-acknowledged a long interaction history rather than pristine isolation.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Wilmsen, Edwin. Land Filled with Flies: A Political Economy of the Kalahari. University of Chicago Press, 1989.",
+          "author": "Edwin Wilmsen",
+          "year": 1989,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        },
+        {
+          "type": "PRIMARY",
+          "citation": "Lee, Richard B., and Jacqueline Solway. \"Foragers, Genuine or Spurious? Situating the Kalahari San in History.\" Current Anthropology.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "Land/resource tenure organized around the n!ore (band territory) with k'\"ausi (owners of the waterhole/resources), typically related elders with continuous tenure rights. Polly Wiessner's hxaro system (delayed-reciprocity gift exchange, PhD thesis 1977) documents both men and women holding and initiating individual exchange partnerships granting access to resources up to ~200km from home n!ore. Women's arrow-ownership functions as a documented, specific instance of female economic entitlement independent of the hunt.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Wiessner, Polly. \"Hxaro: A Regional System of Reciprocity for Reducing Risk among the !Kung San.\" PhD thesis, 1977.",
+          "author": "Polly Wiessner",
+          "year": 1977,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "Marjorie Shostak, Nisa: The Life and Words of a !Kung Woman (Harvard UP, 1981) documents bride-service of roughly 8-10 years (groom labors for bride's family before independent residence), often following marriages arranged for very young (sometimes pre-pubescent) girls to considerably older men — the age gap cited as part of the reason bride-service exists. Household labor is not rigidly gender-segregated: men participate in gathering and child discipline alongside wives. Nisa's own account documents a woman successfully resisting/fleeing an arranged marriage she did not consent to — real, documented female agency within the system.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Shostak, Marjorie. Nisa: The Life and Words of a !Kung Woman. Harvard University Press, 1981.",
+          "author": "Marjorie Shostak",
+          "year": 1981,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Arranged, often significant-age-gap marriage for young/pre-pubescent girls to older partners is documented as a real, differentially-applied norm (girls, not boys, married young to older partners). Polygyny is documented but statistically concentrated among healers with strong reputations, suggesting it functions partly as a status marker tied to religious/healing prestige rather than general practice.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Shostak, Marjorie. Nisa: The Life and Words of a !Kung Woman. Harvard University Press, 1981.",
+          "author": "Marjorie Shostak",
+          "year": 1981,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "No basis found for either \"straightforwardly subordinates women\" or \"straightforwardly gender-egalitarian\" as a documented scholarly consensus for Ju/'hoansi cosmology specifically — report as genuinely unresolved rather than picking a side.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of a dedicated study found in this research pass.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "Distinct group/period from /Xam (gs_xam) — do not merge. Do not import Apollo 11 Cave rock-art age (~26,000-30,000 BP) or Khoe-San population-genetic divergence dates (Chan et al. 2019, Nature, itself disputed by other geneticists) into any claim about the age of this specific documented social/gender system — those are categorically different kinds of evidence."
+  },
+  "notes": null
+}

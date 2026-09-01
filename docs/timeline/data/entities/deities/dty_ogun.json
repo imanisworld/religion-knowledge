@@ -1,0 +1,19 @@
+{
+  "id": "dty_ogun",
+  "name": "Ògún (Yoruba)",
+  "region": [
+    "West Africa"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "iron-working, hunting, and war",
+      "claim_id": "claim_ogun_domain_history"
+    },
+    {
+      "domain": "expanded to new iron/steel-adjacent technologies over time",
+      "claim_id": "claim_ogun_domain_history"
+    }
+  ],
+  "notes": "Sandra T. Barnes, ed., Africa's Ogun: Old World and New (Indiana UP, 1989/1997) — standard scholarly edited volume on the deity's transformations across West Africa and the Americas. A popular (non-academic) claim that Ògún was \"a real person, an Ifè king\" could NOT be verified against any academic source — contrast with Ṣàngó below, where historicization is well-attested in academic literature; do not treat the Ògún-as-historical-king claim with the same confidence."
+}

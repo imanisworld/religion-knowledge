@@ -1,0 +1,70 @@
+{
+  "id": "trad_kongo_christianity",
+  "name": "Kongo Christianity (Afonso-era Catholic state cult)",
+  "category_tags": [
+    "monotheism",
+    "ancestor_veneration",
+    "mixed"
+  ],
+  "region": [
+    "Central Africa"
+  ],
+  "dating": {
+    "dating_summary": "Baptism of Nzinga a Nkuwu (as João I) 3 May 1491 was a MISSIONIZATION event that did not durably hold (he apostatized c. 1494-95); durable STATE_ADOPTION dates to Afonso I's reign from 1509, combined with documented terminological/visual SYNCRETISM continuing through the 17th century Kimpasi society and the Cardoso 1624 catechism.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "Elaborate hybrid crucifixes and other Kongo Christian visual-art objects survive from the 16th-18th centuries (Cécile Fromont, The Art of Conversion, UNC Press 2014) but this research pass did not verify a specific earliest-dated excavated example."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1491,
+        "latest": 1491,
+        "precision": "YEAR"
+      },
+      "note": "Baptism of Nzinga a Nkuwu as João I, 3 May 1491, with son Nzinga a Mbemba (later Afonso I) and court officials baptized alongside him."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1624,
+        "latest": 1624,
+        "precision": "YEAR"
+      },
+      "note": "The 1624 Kikongo catechism produced under Jesuit Mateus Cardoso, translated by named Kongo \"best masters of the church,\" is the earliest surviving full catechism (a now-lost 1557 Carmelite catechism preceded it but its exact wording is not independently verifiable). Also: John K. Thornton, Afonso I Mvemba a Nzinga, King of Kongo: His Life and Correspondence (Hackett, 2020) — Afonso I's own surviving letters, most famously a series from 1526 protesting the Atlantic slave trade to King João III of Portugal."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": null,
+      "disputed": false
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "N/A — an imported tradition with a documented, non-legendary founding sequence (unlike most traditions in this batch)."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": null,
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [
+    {
+      "edge_type": "MISSIONIZATION",
+      "target_id": "trad_kongo_traditional_religion",
+      "confidence": "HIGH",
+      "claim_id": "claim_kongo_1491_missionization"
+    },
+    {
+      "edge_type": "STATE_ADOPTION",
+      "target_id": "trad_kongo_traditional_religion",
+      "confidence": "HIGH",
+      "claim_id": "claim_kongo_afonso_state_adoption"
+    },
+    {
+      "edge_type": "SYNCRETISM",
+      "target_id": "trad_kongo_traditional_religion",
+      "confidence": "HIGH",
+      "claim_id": "claim_kongo_syncretism_translation"
+    }
+  ],
+  "notes": "Afonso I (r. 1509-1542) declared traditional \"idol\" worship illegal, burned at least one traditional shrine, built churches/schools, used Christian primogeniture doctrine to strengthen his own succession claim. Cécile Fromont documents the pre-existing Kongo dikenga/yowa cross-shaped cosmogram (four moments of the sun: kala/tukula/luvemba/musoni) as a genuine point of visual-cosmological convergence with the Christian crucifix, not a one-sided imposition."
+}

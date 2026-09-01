@@ -1,0 +1,80 @@
+{
+  "id": "claim_mwari_great_zimbabwe_disputed",
+  "subject_type": "Tradition",
+  "subject_id": "trad_shona_religion",
+  "statement": "Whether the Mwari cult was Great Zimbabwe's state religion during the site's 13th-15th century floruit is genuinely contested, not settled. Some earlier/popular accounts and the \"Mbire\" oral migration tradition treat the cult as continuous with or originating at Great Zimbabwe. David Beach argued documentary/oral linkage between the archaeological site and the cult during that period is weak — the cult's source-rich documented history begins with its 17th-18th century Rozvi (Changamire dynasty) association and Matopos/Njelele shrine geography. Richard Werbner (Kalanga fieldwork) argues further that the cult historically was never structurally bound to any specific state/polity at all. Innocent Pikirayi (The Zimbabwe Culture, AltaMira Press, 2001) cautions against reading the cult as a mere instrument of state power even in its later, better-documented Rozvi-era form.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": null,
+  "date": null,
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "DISPUTED",
+  "scholarly_disagreement": "Whether the Mwari cult's political-religious association with Great Zimbabwe specifically (as opposed to its later, better-documented Rozvi/Matopos-era form) is real continuity or backward extrapolation from later evidence.",
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Pikirayi, Innocent. The Zimbabwe Culture: Origins and Decline of Southern Zambezian States. AltaMira Press, 2001.",
+      "author": "Innocent Pikirayi",
+      "year": 2001,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "PRIMARY",
+      "citation": "Beach, David. Work on Great Zimbabwe religious evidence, 1973 and later.",
+      "author": "David Beach",
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [
+    {
+      "position": "The Mwari cult originated at or was continuous with Great Zimbabwe, later moving to the Matopos with Rozvi political power",
+      "holders": [
+        {
+          "name": "Proponents of the \"Mbire migration\" oral tradition, per the surveyed literature",
+          "camp": "CONTINUITY SCHOOL"
+        }
+      ],
+      "strongest_case": "Oral tradition places cult officials migrating south from the Lake regions with Karanga clans in the 14th century.",
+      "status": "MINORITY"
+    },
+    {
+      "position": "The cult's documented history begins later (17th-18th c. Rozvi era); its presence at Great Zimbabwe specifically is inferential, not independently evidenced",
+      "holders": [
+        {
+          "name": "David Beach",
+          "camp": "SKEPTICAL SCHOOL"
+        },
+        {
+          "name": "Richard Werbner",
+          "camp": "SKEPTICAL SCHOOL"
+        }
+      ],
+      "strongest_case": "No archaeological dating specific to the Njelele shrine or documentary linkage to Great Zimbabwe's own floruit has been established; Werbner's Kalanga fieldwork finds no structural state-cult binding at any period.",
+      "status": "CONTESTED"
+    }
+  ],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

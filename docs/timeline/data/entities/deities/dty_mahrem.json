@@ -1,0 +1,15 @@
+{
+  "id": "dty_mahrem",
+  "name": "Mahrem / Maḥrem (Aksum)",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "identifications": [],
+  "domain_history": [
+    {
+      "domain": "war god; Aksumite kings styled themselves \"son of the invincible Mahrem\" in their own inscriptions",
+      "claim_id": "claim_mahrem_attestation"
+    }
+  ],
+  "notes": "Attested via interpretatio graeca as \"Ares\" in the Monumentum Adulitanum and directly by name in Ezana's own pre-Christian Ge'ez inscriptions. Comparison to South Arabian war god Almaqah is repeatedly made in secondary literature but the degree of identity is explicitly uncertain — DISPUTED/LOW confidence, not settled equivalence."
+}

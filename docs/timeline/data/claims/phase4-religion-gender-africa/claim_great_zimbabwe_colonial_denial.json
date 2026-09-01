@@ -1,0 +1,70 @@
+{
+  "id": "claim_great_zimbabwe_colonial_denial",
+  "subject_type": "Polity",
+  "subject_id": "pty_great_zimbabwe_state",
+  "statement": "Karl Mauch (1871), the first European visitor, declared the ruins could not be African work, speculating Phoenician/Israelite/biblical-Ophir origin. Cecil Rhodes and the British South Africa Company funded Richard Nicklin Hall's 1902-4 excavation with an explicit brief to establish non-African origin; Hall destroyed roughly 12 feet of stratified archaeological deposits (which he called \"filth and decadence of the Kaffir occupation\"), permanently damaging the site's stratigraphic record. David Randall-MacIver (1905-6) and especially Gertrude Caton-Thompson (1929, with an all-female excavation team including a young Kathleen Kenyon; published as The Zimbabwe Culture, Oxford, Clarendon Press, 1931) confirmed the correct medieval-date, indigenous-African-construction conclusion — but this triggered roughly three decades of official disinterest because it was politically unwelcome to the white settler community. In 1970 the Rhodesian Front (Ian Smith) government formally enacted censorship rules preventing official publications from stating African construction as settled fact without \"equal platform\" for foreign-origin theories; Peter Garlake, Inspector of Monuments (1964-1970), resigned and left the country in 1970 after parliamentary pressure to accommodate this, returning after 1981 independence. This should be reported explicitly as discredited pseudo-archaeology motivated by and instrumentalized for racist settler-colonial ideology, actively state-enforced as late as 1970 — not as a neutral historiographical dispute.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1871,
+    "latest": 1981,
+    "precision": "CENTURY"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Southern Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "HIGH",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "PRIMARY",
+      "citation": "Caton-Thompson, Gertrude. The Zimbabwe Culture: Ruins and Reactions. Oxford: Clarendon Press, 1931; reissued 1969.",
+      "author": "Gertrude Caton-Thompson",
+      "year": 1931,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "\"Peter Garlake (1934-2011), Great Zimbabwe and the politics of the past in Zimbabwe.\"",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    },
+    {
+      "type": "SECONDARY",
+      "citation": "\"Carl Mauch and Some Karanga Chiefs Around Great Zimbabwe 1871-1872.\" South African Historical Journal 65(3), 2013.",
+      "author": null,
+      "year": 2013,
+      "venue": "South African Historical Journal",
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": null
+}

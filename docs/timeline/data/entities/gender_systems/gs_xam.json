@@ -1,0 +1,149 @@
+{
+  "id": "gs_xam",
+  "culture_id": "cul_xam",
+  "region": [
+    "Southern Africa"
+  ],
+  "period": {
+    "earliest": 1800,
+    "latest": 1884,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_WRITTEN_ATTESTATION"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "UNKNOWN with any precision for /Xam specifically beyond what the Bleek-Lloyd narrative content implies; not separately documented as an ethnographic subject in the archive as recorded.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Bleek, Wilhelm, and Lucy Lloyd. Specimens of Bushman Folklore. 1911 (archive material, 1870s-1884).",
+          "author": null,
+          "year": 1911,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "UNKNOWN — the /Xam informant community as recorded (via Cape Colony prisoners) does not provide documented evidence of political/leadership structure comparable to what exists for Ju/'hoansi.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Bank, Andrew. Bushmen in a Victorian World. Double Storey/Juta, 2006.",
+          "author": "Andrew Bank",
+          "year": 2006,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "UNKNOWN — not documented in the accessible archive material for this research pass.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Bleek and Lloyd archive, general.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "UNKNOWN — not documented in the accessible archive material for this research pass.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Bleek and Lloyd archive, general.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "Extensive documented menarcheal-seclusion cosmology: a secluded girl is symbolically equated with the potency of the new moon and !Khwa (the Rain); violating seclusion rules is narrated as having severe consequences (a man who looks at her turns to stone/tree). No equivalent seclusion/restriction practice documented for post-pubescent men — an asymmetric, sex-specific regulatory system as recorded.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Hewitt, Roger. Structure, Meaning and Ritual in the Narratives of the Southern San. 1986.",
+          "author": "Roger Hewitt",
+          "year": 1986,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "DISPUTED/genuinely mixed evidence. Female figures are cosmologically significant and not uniformly subordinate (the \"Girl who made the Milky Way\" narrative centers a female creator-figure), but the menarcheal-girl material frames female reproductive potency as simultaneously powerful and dangerous to men — a \"potency-as-danger\" framing distinct from a simple subordination/celebration binary. Anne Solomon, \"Mythic Women\": A Study in Variability in San Rock Art and Narrative (in Lewis-Williams & Dowson, eds., Contested Images, Witwatersrand UP, 1994), concludes gender representation in San rock art/narrative does not reduce to one settled pattern and varies across sites/groups/genres — that non-conclusion is itself the most defensible finding.",
+      "confidence": "DISPUTED",
+      "claim_tier": "INTERPRETATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Solomon, Anne. \"'Mythic Women': A Study in Variability in San Rock Art and Narrative.\" In Contested Images: Diversity in Southern African Rock Art Research, eds. Lewis-Williams and Dowson. Witwatersrand University Press, 1994.",
+          "author": "Anne Solomon",
+          "year": 1994,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "/Xam is a distinct group/period from Ju/'hoansi (gs_juhoansi) — do not merge these two GenderSystem records into one \"San\" verdict. Evidentiary base is almost entirely the 1870s-1880s Bleek-Lloyd archive, filtered through Victorian transcription and a coercive collection context (informants were Cape Colony prisoners)."
+  },
+  "notes": null
+}

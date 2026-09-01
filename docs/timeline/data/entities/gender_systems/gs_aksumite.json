@@ -1,0 +1,149 @@
+{
+  "id": "gs_aksumite",
+  "culture_id": "cul_aksumite",
+  "region": [
+    "Horn of Africa/Aksum"
+  ],
+  "period": {
+    "earliest": 1,
+    "latest": 700,
+    "precision": "CENTURY",
+    "date_semantics": "EARLIEST_SURVIVING_EVIDENCE"
+  },
+  "dimensions": {
+    "gendered_labor": {
+      "assessment": "UNKNOWN. No Aksumite-period-specific source was found; projecting later, better-documented highland-Ethiopian labor divisions backward onto Aksum would be unfounded inference and was deliberately not done.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "Absence of a dedicated Aksumite-period source, explicitly flagged rather than filled by inference.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "political_inequality": {
+      "assessment": "Every securely Aksumite-attested monarch in king lists, coinage, and inscriptions is male; Ezana's own inscriptions name only male co-rulers/relatives. No surviving Aksumite legal text formally excludes women from rule, so \"formal exclusion\" itself is UNKNOWN — only the observed pattern is documented. Important negative finding: the \"Candace\"/Kandake queen-mother matrilineal-succession tradition belongs to the separate Kingdom of Kush/Meroë, not Aksum — popular sources conflate them, and this project should not. A claim of \"21 queens ruling Ethiopia until the 9th century\" traces to later Ethiopian oral tradition/king-lists, not Aksumite-period inscriptions or archaeology, and could not be traced to a primary citation — report as unverified likely later political tradition, not fact.",
+      "confidence": "MODERATE",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Munro-Hay, Stuart C. Aksum: An African Civilization of Late Antiquity. Edinburgh University Press, 1991.",
+          "author": "Stuart C. Munro-Hay",
+          "year": 1991,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "legal_economic_status": {
+      "assessment": "UNKNOWN for the Aksumite period — no surviving Aksumite legal code exists at all. The Fetha Nagast (sometimes loosely cited for \"Ethiopian law\") is a 13th-century Coptic-Arabic compilation only translated into Ge'ez in the 15th century; applying it to Aksum (already declined by then) would be anachronistic.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of a surviving Aksumite legal corpus, noted across the consulted secondary literature.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "household_authority": {
+      "assessment": "UNKNOWN for the Aksumite period specifically. (A separately-dated, better-documented data point exists for the medieval/early-modern Christian-Ethiopian highland period — Allan Hoben, Land Tenure Among the Amhara of Ethiopia, University of Chicago Press, 1973, documents the rist land-tenure system as bilateral/cognatic, giving women independently litigable land claims — but this is centuries after Aksum's decline and is deliberately NOT merged into this Aksumite-period record.)",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "PRIMARY",
+          "citation": "Hoben, Allan. Land Tenure Among the Amhara of Ethiopia: The Dynamics of Cognatic Descent. University of Chicago Press, 1973 — cited here only to explain why it is NOT used to fill this Aksumite-period gap.",
+          "author": "Allan Hoben",
+          "year": 1973,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "CONVERGING_SECONDARY",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "gendered_legal_restrictions": {
+      "assessment": "UNKNOWN for the Aksumite period specifically. (A separately-dated medieval/early-modern data point exists: Zär'a Ya'ǝqob, r. 1434-1468, undertook documented marriage-law reform campaigns against polygamy; Emperor Menilek II's 1908 decree formally banned polygamy for Christians while he himself practiced it selectively — but these post-date Aksum by roughly a millennium and are not merged into this record.)",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of an Aksumite-period-specific source, explicitly flagged.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "ideological_patriarchy": {
+      "assessment": "UNKNOWN/LOW direct evidence for the Aksumite period — no surviving religious-ideological text on gender hierarchy from this period was located.",
+      "confidence": "UNKNOWN",
+      "claim_tier": "OBSERVATION",
+      "sources": [
+        {
+          "type": "SECONDARY",
+          "citation": "General absence of a dedicated source, explicitly flagged.",
+          "author": null,
+          "year": null,
+          "venue": null,
+          "contemporary_with_event": null,
+          "independent_corroboration": null,
+          "verified_by": "research-agent (WebSearch)",
+          "verified_date": "2026-09-01",
+          "verification_method": "SEARCH_SNIPPET",
+          "access_note": null
+        }
+      ],
+      "evidence": [],
+      "change_events": []
+    },
+    "notes": "This record is deliberately UNKNOWN-heavy — it reflects genuine evidentiary thinness for the ancient Aksumite period specifically, not a research shortfall to paper over. Later medieval/early-modern Christian-Ethiopian (Amhara-highland) gender history is a separate, much better-documented topic explicitly not merged in here; it would need its own Culture entity and GenderSystem record in a future research batch."
+  },
+  "notes": null
+}

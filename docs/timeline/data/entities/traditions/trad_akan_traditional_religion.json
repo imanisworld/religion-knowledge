@@ -1,0 +1,50 @@
+{
+  "id": "trad_akan_traditional_religion",
+  "name": "Akan traditional religion (Nyame/abosom/asamanfo)",
+  "category_tags": [
+    "mixed",
+    "ancestor_veneration"
+  ],
+  "region": [
+    "West Africa"
+  ],
+  "dating": {
+    "dating_summary": "The tripartite Nyame/abosom/asamanfo structure as commonly taught is substantially a 20th-century scholarly codification (Danquah 1944, Rattray 1923/1927, Opoku 1978) layered onto older, undated oral-ritual practice; earliest identified written attestation is Willem Bosman's 1704/1705 Dutch trading account; no archaeological or oral-origin date can be assigned with precision.",
+    "earliest_archaeological_evidence": {
+      "range": null,
+      "note": "UNKNOWN specifically for this cosmological system; Akan shrine-site archaeology exists but no dated find-specific attestation of Nyame/abosom worship was verified in this research pass."
+    },
+    "earliest_written_attestation": {
+      "range": {
+        "earliest": 1704,
+        "latest": 1705,
+        "precision": "YEAR"
+      },
+      "note": "Willem Bosman, A New and Accurate Description of the Coast of Guinea (Dutch 1704, English 1705) — an outside/colonial-trade observer's account, later quoted by Rattray."
+    },
+    "surviving_manuscript_date": {
+      "range": {
+        "earliest": 1819,
+        "latest": 1927,
+        "precision": "CENTURY"
+      },
+      "note": "Thomas Bowdich (1819), Joseph Dupuis (1824), then R.S. Rattray's early-20th-century fieldwork (Ashanti 1923; Religion and Art in Ashanti 1927), then Danquah (1944)."
+    },
+    "estimated_composition": {
+      "range": null,
+      "method": "The scholarly codification into the Nyame/abosom/asamanfo tripartite structure is substantially a 20th-century interpretive product (Danquah explicitly used Christian/Greek monotheistic categories as his comparative frame, per Fighting Words, Peter Lang 2017) layered onto older practice — this is a reasonable reading of the historiography, not a scholar's own verbatim claim.",
+      "disputed": true
+    },
+    "tradition_internal_claim": {
+      "range": null,
+      "note": "Presented as coextensive with Akan peoplehood itself; no origin point is claimed."
+    },
+    "estimated_oral_origin": {
+      "range": null,
+      "method": "Linguistic (shared vocabulary for Nyame-type high gods across Kwa-language-family Akan-related groups) would suggest deep pre-colonial antiquity, but no scholar in this research offered a specific glottochronological or archaeological date.",
+      "confidence": "UNKNOWN"
+    }
+  },
+  "relationships": [],
+  "notes": "J.B. Danquah, The Akan Doctrine of God (1944; 2nd ed. 1968) — Danquah himself an anticolonial political-intellectual figure (co-founder UGCC, died in Nkrumah-era detention 1965), not a neutral ethnographer; his monotheism-framing of Nyame/Onyankopon/Odomankoma/Borebore is now itself subject to critique. R.S. Rattray, Religion and Art in Ashanti (Oxford, 1927). Anthony Ephirim-Donkor, African Religion Defined: A Systematic Study of Ancestor Worship Among the Akan."
+}

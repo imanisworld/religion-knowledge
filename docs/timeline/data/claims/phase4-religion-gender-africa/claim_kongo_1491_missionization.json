@@ -1,0 +1,44 @@
+{
+  "id": "claim_kongo_1491_missionization",
+  "subject_type": "Tradition",
+  "subject_id": "trad_kongo_christianity",
+  "statement": "Nzinga a Nkuwu, ruler of Kongo, was baptized 3 May 1491 by Portuguese missionaries, taking the name João I; his son Nzinga a Mbemba (later Afonso I) and court officials were baptized alongside him. João I abandoned Christianity c. 1494-95, reportedly in significant part because Catholic monogamy requirements conflicted with the polygynous marriage-alliance politics central to Kongo's elective/matrilineal succession system — this specific causal claim is reported across secondary sources but was not traced to one named peer-reviewed primary citation in this research pass.",
+  "claim_tier": "OBSERVATION",
+  "related_observation_id": null,
+  "date_semantics": "EVENT_DATE",
+  "date": {
+    "earliest": 1491,
+    "latest": 1495,
+    "precision": "YEAR"
+  },
+  "zoom_min": "Z4",
+  "zoom_max": "Z6",
+  "region": [
+    "Central Africa"
+  ],
+  "evidence_types": [
+    "WRITTEN_PRIMARY"
+  ],
+  "confidence": "MODERATE",
+  "scholarly_disagreement": null,
+  "sources": [
+    {
+      "type": "SECONDARY",
+      "citation": "General secondary historiography on the 1491 Kongo royal baptism and João I's apostasy.",
+      "author": null,
+      "year": null,
+      "venue": null,
+      "contemporary_with_event": null,
+      "independent_corroboration": null,
+      "verified_by": "research-agent (WebSearch)",
+      "verified_date": "2026-09-01",
+      "verification_method": "CONVERGING_SECONDARY",
+      "access_note": null
+    }
+  ],
+  "interpretations": [],
+  "does_not_demonstrate": [],
+  "adversarial_counter": null,
+  "status": "verified",
+  "notes": "Flagged for follow-up verification against Thornton directly or Anne Hilton, The Kingdom of Kongo (Oxford UP, 1985)."
+}
