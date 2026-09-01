@@ -1,0 +1,64 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://religion-knowledge.local/timeline/writingsystem.schema.json",
+  "title": "WritingSystem",
+  "description": "Reference schema for docs/timeline/SPEC.md §7.1's WritingSystem node type. Entities aggregate claims; they assert nothing on their own — every substantive statement about a WritingSystem lives in a linked Claim (subject_type: WritingSystem, subject_id: this entity's id), not inline here. origin_type is the field SPEC.md explicitly names and Phase 3's exit criterion (SPEC.md §10) is graded on: 'Origin-type honestly classified... no independent-invention overclaims.' The hand-rolled validator (docs/timeline/scripts/validate-timeline.mjs) is authoritative if this file and the validator diverge.",
+  "type": "object",
+  "required": ["id", "name", "origin_type", "date_range", "region"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^ws_[a-z0-9_-]+$"
+    },
+    "name": {
+      "type": "string",
+      "description": "Common name used across the app, e.g. 'Cuneiform', 'Maya script', 'Cherokee syllabary'."
+    },
+    "origin_type": {
+      "type": "string",
+      "enum": ["INDEPENDENT", "STIMULUS_DIFFUSION", "ADAPTATION", "UNCERTAIN"],
+      "description": "SPEC.md §7.1. INDEPENDENT = invented with no evidence of prior contact with any existing script. STIMULUS_DIFFUSION = the knowledge that writing was possible reached the inventor(s) via contact with an existing script, but the actual sign system was built from scratch (e.g. Cherokee syllabary, Vai script). ADAPTATION = an existing script's signs/principles were directly borrowed and modified for a new language. UNCERTAIN = the evidence does not currently settle which of the above applies. This field is deliberately never 'derived silently' — the classification and its basis belong on a backing Claim, not asserted here without one."
+    },
+    "script_type": {
+      "type": ["string", "null"],
+      "enum": ["LOGOGRAPHIC", "SYLLABIC", "ALPHABETIC", "ABJAD", "ABUGIDA", "LOGOSYLLABIC", "MIXED", "UNKNOWN", null],
+      "description": "Structural classification, where established. UNKNOWN is valid for undeciphered/disputed scripts where even this is not settled (e.g. the Indus script's status as writing at all is itself contested)."
+    },
+    "date_range": {
+      "type": "object",
+      "required": ["earliest", "latest", "precision", "date_semantics"],
+      "description": "The script's attested-use window, not a claimed invention date independent of evidence — mirrors Population.date_range's rationale (SPEC.md P1: earliest-surviving is not first-ever).",
+      "properties": {
+        "earliest": { "type": ["integer", "null"], "description": "Signed astronomical year; negative = BCE." },
+        "latest": { "type": ["integer", "null"], "description": "null for scripts still in active use." },
+        "precision": {
+          "type": "string",
+          "enum": ["YEAR", "DECADE", "CENTURY", "MILLENNIUM", "ORDER_OF_MAGNITUDE"]
+        },
+        "date_semantics": {
+          "type": "string",
+          "enum": ["EVENT_DATE", "EARLIEST_SURVIVING_EVIDENCE", "EARLIEST_WRITTEN_ATTESTATION", "SURVIVING_MANUSCRIPT_DATE", "ESTIMATED_COMPOSITION", "TRADITION_INTERNAL_CLAIM", "ESTIMATED_ORAL_ORIGIN"]
+        }
+      }
+    },
+    "region": {
+      "type": "array",
+      "items": { "type": "string" },
+      "minItems": 1
+    },
+    "descends_from": {
+      "type": "array",
+      "description": "Ids of WritingSystem entities this one derives from, where ADAPTATION or STIMULUS_DIFFUSION applies (e.g. Greek descends_from Phoenician). Each edge needs a backing Claim, same pattern as Population.gene_flow_edges.",
+      "items": {
+        "type": "object",
+        "required": ["writing_system_id", "confidence", "claim_id"],
+        "properties": {
+          "writing_system_id": { "type": "string" },
+          "confidence": { "type": "string", "enum": ["HIGH", "MODERATE", "LOW", "DISPUTED", "UNKNOWN"] },
+          "claim_id": { "type": "string", "description": "The Claim that sources this derivation." }
+        }
+      }
+    },
+    "notes": { "type": ["string", "null"] }
+  }
+}
