@@ -69,10 +69,13 @@
   function formatYear(year) {
     if (!Number.isFinite(year)) return 'Unknown date';
     if (year <= -10_000) {
-      const years = Math.abs(year);
-      if (years >= 1_000_000) return `≈${trimNumber(years / 1_000_000)} million years ago`;
-      const rounded = Math.round(years / 1000) * 1000;
-      return `≈${rounded.toLocaleString()} years ago`;
+      // Timeline dates are signed astronomical years (schema: negative = BCE).
+      // Keep the display faithful to the stored coordinate instead of silently
+      // reinterpreting a BCE year as a years-before-present measurement.
+      const magnitude = Math.abs(year);
+      if (magnitude >= 1_000_000) return `≈${trimNumber(magnitude / 1_000_000)} million BCE`;
+      const rounded = Math.round(magnitude / 1000) * 1000;
+      return `≈${rounded.toLocaleString()} BCE`;
     }
     if (year < 0) return `${Math.abs(Math.trunc(year)).toLocaleString()} BCE`;
     if (year === 0) return '1 BCE / 1 CE boundary';
@@ -196,8 +199,25 @@
     return (claim.region || []).find((lane) => state.lanes.has(lane)) || null;
   }
 
+  function zoomLevel(value) {
+    const match = /^Z([0-7])$/.exec(String(value || ''));
+    return match ? Number(match[1]) : null;
+  }
+
+  function visibleAtZoom(claim) {
+    const min = zoomLevel(claim.zoom_min);
+    const max = zoomLevel(claim.zoom_max);
+    if (min === null || max === null) return true;
+    return state.zoom >= Math.min(min, max) && state.zoom <= Math.max(min, max);
+  }
+
+  function laneWindowClaims(lane) {
+    return claims.filter((claim) => claimLane(claim) === lane && visibleAtZoom(claim) && overlaps(claimDate(claim)));
+  }
+
   function visibleClaims() {
     return claims.filter((claim) => {
+      if (!visibleAtZoom(claim)) return false;
       if (!state.layers.has(claim.subject_type)) return false;
       if (!claimLane(claim)) return false;
       if (!overlaps(claimDate(claim))) return false;
@@ -261,7 +281,11 @@
         const top = 6 + row * 36;
         return `<button class="claim-mark" type="button" data-claim-id="${escapeHtml(claim.id)}" data-confidence="${escapeHtml(claim.confidence || 'UNKNOWN')}" data-layer="${escapeHtml(claim.subject_type || 'Unknown')}" style="left:${start * 100}%;width:${width}%;top:${top}px" aria-label="${escapeHtml(`${label}. ${formatRange(date)}. ${claim.confidence || 'Unknown'} confidence.`)}"><span class="layer-code" aria-hidden="true">${escapeHtml(LAYER_CODES[claim.subject_type] || '•')}</span><span class="mark-label">${escapeHtml(label)}</span></button>`;
       }).join('');
-      const absence = laneItems.length ? '' : '<div class="lane-absence">Not represented in the current filtered dataset. Coverage status is unknown; no historical absence is inferred.</div>';
+      const baseItems = laneWindowClaims(lane);
+      const filteredOut = !laneItems.length && baseItems.length > 0;
+      const absence = laneItems.length ? '' : filteredOut
+        ? '<div class="lane-absence filtered">Items in this lane and time window are hidden by the current search or layer filters. <button class="inline-reset" type="button" data-clear-display-filters>Show hidden items</button></div>'
+        : '<div class="lane-absence">Not represented in the current dataset at this zoom and time window. Coverage status is unknown; no historical absence is inferred.</div>';
       return `<section class="lane" aria-label="${escapeHtml(lane)} lane"><div class="lane-label">${escapeHtml(lane)}<small>${laneItems.length} visible</small></div><div class="lane-track" style="min-height:${trackHeight}px">${marks}${absence}</div></section>`;
     }).join('');
   }
@@ -276,7 +300,12 @@
     }
     root.innerHTML = lanes.map((lane) => {
       const laneItems = byLane.get(lane).sort((a, b) => claimDate(a).earliest - claimDate(b).earliest);
-      const content = laneItems.length ? `<div class="list-claims">${laneItems.map((claim) => `<button class="list-claim" type="button" data-claim-id="${escapeHtml(claim.id)}"><strong>${escapeHtml(entityLabel(claim.subject_id))}</strong><span>${escapeHtml(claim.statement)}</span><small>${escapeHtml(formatRange(claimDate(claim)))} · ${escapeHtml(claim.confidence || 'UNKNOWN')} · ${escapeHtml(claim.subject_type || 'Unknown')}</small></button>`).join('')}</div>` : '<p class="muted">Not represented in the current filtered dataset. Coverage status is unknown.</p>';
+      const baseItems = laneWindowClaims(lane);
+      const content = laneItems.length
+        ? `<div class="list-claims">${laneItems.map((claim) => `<button class="list-claim" type="button" data-claim-id="${escapeHtml(claim.id)}"><strong>${escapeHtml(entityLabel(claim.subject_id))}</strong><span>${escapeHtml(claim.statement)}</span><small>${escapeHtml(formatRange(claimDate(claim)))} · ${escapeHtml(claim.confidence || 'UNKNOWN')} · ${escapeHtml(claim.subject_type || 'Unknown')}</small></button>`).join('')}</div>`
+        : baseItems.length
+          ? '<p class="muted">Items are hidden by the current search or layer filters. <button class="inline-reset" type="button" data-clear-display-filters>Show hidden items</button></p>'
+          : '<p class="muted">Not represented in the current dataset at this zoom and time window. Coverage status is unknown; no historical absence is inferred.</p>';
       return `<section class="list-lane"><h3>${escapeHtml(lane)}</h3>${content}</section>`;
     }).join('');
   }
@@ -292,7 +321,7 @@
     renderTruthStrip();
     renderPickers();
     const items = visibleClaims();
-    $('visible-summary').textContent = `${items.length} visible claim${items.length === 1 ? '' : 's'} · ${state.lanes.size} lane${state.lanes.size === 1 ? '' : 's'}`;
+    $('visible-summary').textContent = `${items.length} visible claim${items.length === 1 ? '' : 's'} · ${state.lanes.size} lane${state.lanes.size === 1 ? '' : 's'} · Z${state.zoom}`;
     $('list-summary').textContent = `${formatYear(state.from)} through ${formatYear(state.to)} · ${items.length} claims`;
     $('timeline').setAttribute('aria-label', `Timeline from ${formatYear(state.from)} through ${formatYear(state.to)}, ${items.length} visible claims across ${state.lanes.size} active lanes.`);
     renderTimeline(items);
@@ -420,6 +449,15 @@
   });
 
   document.addEventListener('click', (event) => {
+    const clear = event.target.closest('[data-clear-display-filters]');
+    if (clear) {
+      state.query = '';
+      state.layers = new Set(allLayers);
+      render();
+      syncUrl('replace');
+      say('Search and layer filters cleared.');
+      return;
+    }
     const trigger = event.target.closest('[data-claim-id]');
     if (trigger) openInspector(trigger.dataset.claimId, { origin: trigger });
   });
